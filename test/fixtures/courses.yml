@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  code: MyString
+  name: MyString
+  type: 
+  category: MyString
+  semester: MyString
+  workload: one
+
+two:
+  code: MyString
+  name: MyString
+  type: 
+  category: MyString
+  semester: MyString
+  workload: two

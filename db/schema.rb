@@ -10,9 +10,54 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 0) do
+ActiveRecord::Schema.define(version: 2019_02_10_232951) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
 
+  create_table "course_instances", force: :cascade do |t|
+    t.string "class_id"
+    t.bigint "course_id"
+    t.string "timestamp"
+    t.bigint "timeslot_id"
+    t.string "date_semester"
+    t.string "professor"
+    t.datetime "created_at", null: false
+    t.datetime "updated_at", null: false
+    t.index ["course_id"], name: "index_course_instances_on_course_id"
+    t.index ["timeslot_id"], name: "index_course_instances_on_timeslot_id"
+  end
+
+  create_table "courses", force: :cascade do |t|
+    t.string "code"
+    t.string "name"
+    t.string "type"
+    t.string "category"
+    t.string "semester"
+    t.bigint "workload_id"
+    t.datetime "created_at", null: false
+    t.datetime "updated_at", null: false
+    t.index ["code"], name: "index_courses_on_code", unique: true
+    t.index ["workload_id"], name: "index_courses_on_workload_id"
+  end
+
+  create_table "timeslots", force: :cascade do |t|
+    t.integer "day"
+    t.integer "starting_hour"
+    t.integer "ending_hour"
+    t.datetime "created_at", null: false
+    t.datetime "updated_at", null: false
+  end
+
+  create_table "workloads", force: :cascade do |t|
+    t.integer "classroom"
+    t.integer "lab"
+    t.integer "total"
+    t.datetime "created_at", null: false
+    t.datetime "updated_at", null: false
+  end
+
+  add_foreign_key "course_instances", "courses"
+  add_foreign_key "course_instances", "timeslots"
+  add_foreign_key "courses", "workloads"
 end
