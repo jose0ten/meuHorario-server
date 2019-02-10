@@ -1,0 +1,41 @@
+TABLE COURSES
+
+    STRING code: 'GDSCO0025', UNIQUE
+    STRING name: 'MATERIAIS PARA NANO E MICRO TECNOLOGIA',
+    STRING type: 'DISCIPLINA',
+    STRING category: 'Optativa',
+    INTEGER semester: '2',
+    HAS ONE TABLE workload_id: references
+
+    *STRING shortName: 'MNMT',
+
+
+TABLE COURSEINSTANCES
+
+    STRING classId: '01',
+    TABLE course_id: references
+    STRING timestamp: '24M45',
+    HAS MANY TABLE timeslots: references
+    STRING dateSemester: '2018.2',
+    STRING professor: 'AURISTELA CARLA DE MIRANDA',
+
+    *STRING id: 'COURSE_ID-CLASS_ID',
+
+
+TABLE WORKLOADS
+  INTEGER classroom: 60,
+  INTEGER lab: 0,
+  INTEGER total: 60,
+
+TABLE timeslots: [
+  {
+    day: 0,
+    startingHour: 10,
+    endingHour: 12
+  },
+  {
+    day: 2,
+    startingHour: 10,
+    endingHour: 12
+    },
+],

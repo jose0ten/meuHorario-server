@@ -1,15 +1,15 @@
 module Types
   class QueryType < Types::BaseObject
-    # Add root-level fields here.
-    # They will be entry points for queries on your schema.
 
-    # TODO: remove me
     field :test_field, String, null: false, description: "An example field added by the generator"
 
     def test_field
 
-      text = open('app/assets/pingas/timetable.json').read
-      return JSON.parse(text)['time'][0]['id']
+      'Oi rs'
+
     end
+
+    #return JSON.parse(text)['time'][0]['turmas'][0]
   end
 end
+
