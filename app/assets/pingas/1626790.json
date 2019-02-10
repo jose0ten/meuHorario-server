@@ -1,0 +1,1593 @@
+{
+  "curriculum": {
+    "id": "672006",
+    "codigo": "1626790",
+    "name": "HOTELARIA - Mamanguape - Presencial - MT - BACHARELADO",
+    "faculty": "CENTRO DE CIÊNCIAS APLICADAS E EDUCAÇÃO (CCAE) (11.00.59)",
+    "minch": "285",
+    "maxch": "435",
+    "semesters": 8,
+    "courses": [
+      {
+        "id": "1406330",
+        "name": "TURISMO E ESPACO TURISTICO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8101104",
+        "name": "INTRODUCAO A FILOSOFIA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8101118",
+        "name": "DIREITO EMPRESARIAL",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8101125",
+        "name": "FUND SOCIOHIST E POL DO BRASIL",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8101128",
+        "name": "LINGUA ESPANHOLA I",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8101134",
+        "name": "INSTIT DO DIREITO PUB E PRIVADO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8101141",
+        "name": "LINGUA INGLESA III",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8101143",
+        "name": "REDACAO COMERCIAL EM INGLÊS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8101144",
+        "name": "TECNICAS DE TRADUCAO EM INGLES",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8101157",
+        "name": "LINGUA ESPANHOLA II",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "8101128"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8101158",
+        "name": "LINGUA ESPANHOLA III",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "8101157"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8101159",
+        "name": "LINGUA ESPANHOLA IV",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "8101158"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8101161",
+        "name": "REDACAO COMERCIAL EM ESPANHOL",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8101162",
+        "name": "TECNICAS DE TRADUCAO EM ESPANHOL",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8101165",
+        "name": "RELACOES PUBLICAS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8101166",
+        "name": "COMERCIO EXTERIOR",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8101171",
+        "name": "MERCADO FINANCEIRO DE CAPITAIS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8101177",
+        "name": "INTRODUCAO A PSICOLOGIA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8101226",
+        "name": "DIREITO EMPRESARIAL",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8101308",
+        "name": "ANTROPOLOGIA CULTURAL",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8101338",
+        "name": "REDACAO COMERCIAL EM PORTUGUES I",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8101339",
+        "name": "REDACAO COMERCIAL EM PORTUGUES II",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8103108",
+        "name": "MATEMATICA ELEMENTAR",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8105006",
+        "name": "REDAÇÃO  COMERCIAL EM PORTUGUÊS I",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8105007",
+        "name": "REDAÇÃO  COMERCIAL EM PORTUGUÊS II",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8105010",
+        "name": "LINGUA INGLESA III  SECRETARIADO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8105016",
+        "name": "REDACAO COMERCIAL EM INGLÊS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8105017",
+        "name": "TECNICAS DE TRADUCAO EM INGLES",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8105020",
+        "name": "LÍNGUA ESPANHOLA I  HOTELARIA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8105021",
+        "name": "LÍNGUA ESPANHOLA II  HOTELARIA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "8101128",
+          "8105020"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8105022",
+        "name": "LÍNGUA ESPANHOLA I SECRT",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8105027",
+        "name": "REDACAO COMERCIAL EM ESPANHOL",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8105028",
+        "name": "TECNICAS DE TRADUCAO EM ESPANHOL",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8105031",
+        "name": "LIBRASLINGUA BRASILEIRA DE SINAIS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8107022",
+        "name": "TÓPICOS ESPECIAIS ALIMENTOS I",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8108004",
+        "name": "DIREITO EMPRESARIAL",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8108078",
+        "name": "RELAÇÕES PÚBLICAS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8108079",
+        "name": "COMÉRCIO EXTERIOR",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8108086",
+        "name": "CHEFIA E LIDERANÇA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8108087",
+        "name": "RELAÇÕES PÚBLICAS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8108089",
+        "name": "DIREITO EMPRESARIAL",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8108101",
+        "name": "ISTITUIÇÃO DO DIREITO PÚB E PRIVADO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8108102",
+        "name": "MERCADO FINANCEIRO E DE CAPITAIS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1904019",
+        "name": "ALIMENTOS E BEBIDAS I",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+          "GDGAS0055"
+        ]
+      },
+      {
+        "id": "8101105",
+        "name": "INTRODUCAO A SOCIOLOGIA",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8101107",
+        "name": "METODOLOGIA DO TRABALHO CIENTIFICO",
+        "category": "Complementar Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8103103",
+        "name": "INFORMATICA APLICADA A HOTELARIA",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8107001",
+        "name": "INTRODUÇÃO AS ATIV TURIST E HOTELARIA",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+          "GDTH0029"
+        ]
+      },
+      {
+        "id": "8108001",
+        "name": "INTRODUÇÃO A ADMINISTRAÇÃO",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+          "GDTH0028"
+        ]
+      },
+      {
+        "id": "1904020",
+        "name": "ALIMENTOS E BEBIDAS II",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1904019",
+          "8107002",
+          "8101100"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8101122",
+        "name": "PSICOLOGIA DAS RELACOES HUMANAS",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8105012",
+        "name": "LINGUA INGLESA I  HOTELARIA",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8107026",
+        "name": "GEOGRAFIA GERAL",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+          "GDTH0045"
+        ]
+      },
+      {
+        "id": "8108009",
+        "name": "MATEMATICA FINANCEIRA",
+        "category": "Complementar Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8108096",
+        "name": "ECONOMIA DAS EMPRESAS",
+        "category": "Complementar Obrigatória",
+        "semester": 2,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+          "GPSAE0105"
+        ]
+      },
+      {
+        "id": "8107023",
+        "name": "TÓPICOS ESPECIAIS EM ALIMENTOS II",
+        "category": "Complementar Flexiva",
+        "semester": 3,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1904013",
+        "name": "TEORIA E PRÁTICAS DE ALIMENTOS I",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8103124",
+        "name": "ESTATISTICA I",
+        "category": "Complementar Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8105013",
+        "name": "LINGUA INGLESA II  HOTELARIA",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "8101120",
+          "8105012"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8107015",
+        "name": "PESQUISA APLICADA A HOTELARIA",
+        "category": "Complementar Obrigatória",
+        "semester": 3,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+          "GDTH0040"
+        ]
+      },
+      {
+        "id": "8108091",
+        "name": "ADMINISTRAÇÃO DE RECURSOS HUMANOS I",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "8101103",
+          "8108001"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8108097",
+        "name": "SEGURANÇA E HIGIENE DO TRABALHO",
+        "category": "Complementar Obrigatória",
+        "semester": 3,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8107020",
+        "name": "TÓPICOS ESPECIAIS EM HOTELARIA I",
+        "category": "Complementar Flexiva",
+        "semester": 4,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1904014",
+        "name": "TEORIAS E PRÁTICAS DE ALIMENTOS II",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 4h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1904013",
+          "8107004"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8107006",
+        "name": "TEORIA E PRÁTICA EM HOTELARIA I",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "8101106",
+          "8107001"
+        ],
+        "equivalences": [
+          "GDTH0031"
+        ]
+      },
+      {
+        "id": "8107010",
+        "name": "MARKETING APLICADO A HOTELARIA",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "8101103",
+          "8108001",
+          "1204140"
+        ],
+        "equivalences": [
+          "GDTH0042"
+        ]
+      },
+      {
+        "id": "8108092",
+        "name": "ADMINISTRAÇÃO DE RECURSOS HUMANII",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "8101209",
+          "8108091"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8108098",
+        "name": "COMPORTAMENTO ORGANIZACIONAL",
+        "category": "Complementar Obrigatória",
+        "semester": 4,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8108099",
+        "name": "MACROANÁLISE DAS ORGANIZAÇÕES",
+        "category": "Complementar Obrigatória",
+        "semester": 4,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "8101103",
+          "8108001"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8107021",
+        "name": "TÓPICOS ESPECIAIS EM HOTELARIA II",
+        "category": "Complementar Flexiva",
+        "semester": 5,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1904015",
+        "name": "TEORIAS E PRÁTICA DE RESTAURANTE I",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8101127",
+        "name": "COMUNICACAO EMPRESARIAL",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8101146",
+        "name": "ETICA PROFISSIONAL",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "8101106",
+          "8107001"
+        ],
+        "equivalences": [
+          "GDTH0044"
+        ]
+      },
+      {
+        "id": "8107007",
+        "name": "TEORIA E PRÁTICA EM HOTELARIA II",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "8101216",
+          "8107006"
+        ],
+        "equivalences": [
+          "GDTH0032"
+        ]
+      },
+      {
+        "id": "8107019",
+        "name": "RECREAÇÃO E LAZER EM HOTÉIS",
+        "category": "Complementar Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "8101106",
+          "8107001"
+        ],
+        "equivalences": [
+          "GDTH0043"
+        ]
+      },
+      {
+        "id": "8108100",
+        "name": "CONTABILIDADE GERAL DE CUSTOS",
+        "category": "Complementar Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+          "GDTH0037"
+        ]
+      },
+      {
+        "id": "8107024",
+        "name": "TÓPICOS ESPECIAIS EM RESTAURANTE I",
+        "category": "Complementar Flexiva",
+        "semester": 6,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8107025",
+        "name": "TÓPICOS ESPECIAIS EM RESTAURAMTE II",
+        "category": "Complementar Flexiva",
+        "semester": 6,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1904016",
+        "name": "TEORIA E PRÁTICA DE RESTAURANTE II",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "8101238",
+          "8107008",
+          "1904015"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8107017",
+        "name": "PLANEJAMENTO E MANUTEN DE HOTÉIS",
+        "category": "Complementar Obrigatória",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+          "GDTH0047"
+        ]
+      },
+      {
+        "id": "8107018",
+        "name": "PLANEJAMENTO E ORGANIZAÇÃO DE EVENTOS",
+        "category": "Complementar Obrigatória",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+          "GDTH0049"
+        ]
+      },
+      {
+        "id": "8108093",
+        "name": "ADMINISTRAÇÃO DE MATERIAIS",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8107011",
+        "name": "ADMINISTRAÇÃO DE VENDAS EM HOTELARIA",
+        "category": "Obrigatória",
+        "semester": 7,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "8101217",
+          "8107010"
+        ],
+        "equivalences": [
+          "GDTH0046"
+        ]
+      },
+      {
+        "id": "8107012",
+        "name": "CONTROLE DE QUAL DOS SERV DE HOTELARIA",
+        "category": "Obrigatória",
+        "semester": 7,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "8107007",
+          "8101239",
+          "1904014",
+          "8101214",
+          "8101244",
+          "1904016"
+        ],
+        "equivalences": [
+          "GDTH0048"
+        ]
+      },
+      {
+        "id": "8107013",
+        "name": "ESTÁGIO SUPERVISIONADO I",
+        "category": "Obrigatória",
+        "semester": 7,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8107013",
+            "turmaid": "01",
+            "nome": " ESTÁGIO SUPERVISIONADO I",
+            "semester": "2018.2",
+            "professor": "PAULA DUTRA LEAO DE MENEZES e DANIELA MARIA LUCENA RODRIGUES",
+            "horario": "7M56 7T12",
+            "local": "CCTA 218 - BLOCO B (CCTA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8108094",
+        "name": "ADMINISTRAÇÃO FINAC E CONTROLADORIA",
+        "category": "Obrigatória",
+        "semester": 7,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "8108100",
+          "8101241",
+          "8103128",
+          "8108009"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8108095",
+        "name": "ESTRATÉGIA EMPRESARIAL",
+        "category": "Obrigatória",
+        "semester": 7,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "8107007",
+          "8101239",
+          "1904014",
+          "8101214",
+          "8101244",
+          "1904016",
+          "8107010",
+          "8101217",
+          "8108099",
+          "8101215"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8107014",
+        "name": "ESTÁGIO SUPERVISIONADO II",
+        "category": "Obrigatória",
+        "semester": 8,
+        "workload": "120h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8107014",
+            "turmaid": "01",
+            "nome": " ESTÁGIO SUPERVISIONADO II",
+            "semester": "2018.2",
+            "professor": "PAULA DUTRA LEAO DE MENEZES e DANIELA MARIA LUCENA RODRIGUES",
+            "horario": "7T3456 7N1234",
+            "local": "CCTA 225 - BLOCO B (CCTA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8107016",
+        "name": "TRAB DE CONCL DE CURSOTCC HOTELARIA",
+        "category": "Complementar Obrigatória",
+        "semester": 8,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8107016",
+            "turmaid": "01",
+            "nome": " TRAB DE CONCL DE CURSOTCC HOTELARIA",
+            "semester": "2018.2",
+            "professor": "A DEFINIR",
+            "horario": "7M1234",
+            "local": "CCTA 219 A - BLOCO B (CCTA)"
+          },
+          {
+            "id": "8107016",
+            "turmaid": "02",
+            "nome": " TRAB DE CONCL DE CURSOTCC HOTELARIA",
+            "semester": "2018.2",
+            "professor": "DANIELA MARIA LUCENA RODRIGUES",
+            "horario": "7M1234",
+            "local": "M.D-106 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      }
+    ]
+  }
+}

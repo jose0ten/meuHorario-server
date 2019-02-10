@@ -1,0 +1,2094 @@
+{
+  "curriculum": {
+    "id": "352007",
+    "codigo": "1626648",
+    "name": "AGROINDÚSTRIA - CCHSA - Bananeiras - Presencial - MT - BACHARELADO",
+    "faculty": "CENTRO DE CIÊNCIAS HUMANAS SOCIAIS E AGRÁRIAS (CCHSA) (11.00.45)",
+    "minch": "120",
+    "maxch": "420",
+    "semesters": 8,
+    "courses": [
+      {
+        "id": "4101113",
+        "name": "ADMINSITRACAO RURAL",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4101204",
+        "name": "EMPREENDORISMO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4101205",
+        "name": "TÓPICOS ESPECIAIS EM GESTÃO DOE AGRONEGÓCIO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4101215",
+        "name": "SEMINÁRIO EM EDUCAÇÃO ESPECIAL",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4101234",
+        "name": "LIBRAS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "4101234",
+            "turmaid": "01",
+            "nome": " CCHSA",
+            "semester": "2018.2",
+            "professor": "FILIPPE PAULINO SOARES",
+            "horario": "23T34",
+            "local": "BL ALCIDES 03 (CCHSA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4102076",
+        "name": "TOP ESP EM PRODUCAO AGROPECUARIA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4103062",
+        "name": "SOCIOLOGIA RURAL",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4103118",
+        "name": "CADEIAS PRODUTIVAS DE RACOES",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4103119",
+        "name": "CULTURAS ALTERNATIVAS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4103120",
+        "name": "CRIACOES ALTERNATIVAS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4103121",
+        "name": "CADEIA DE PRODUCAO DO MEL",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4103130",
+        "name": "SEMINARIO EM EDUCACAO AMBIENTAL",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "4103130",
+            "turmaid": "01",
+            "nome": " SEMINARIO EM EDUCACAO AMBIENTAL",
+            "semester": "2018.2",
+            "professor": "VENIA CAMELO DE SOUZA",
+            "horario": "5T34",
+            "local": "BL ALCIDES 03 (CCHSA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4103131",
+        "name": "TOPICOS ESPECIAIS EM PROD AGROPECUARIA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4103132",
+        "name": "ADMINISTRACAO RURAL",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "4103132",
+            "turmaid": "01",
+            "nome": " ADMINISTRACAO RURAL",
+            "semester": "2018.2",
+            "professor": "JARBAS SOBREIRA MOREIRA",
+            "horario": "5T12",
+            "local": "BL ALCIDES 03 (CCHSA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4103137",
+        "name": "TOP ESP EM CIENCIA E TEC DE ALIMENTOS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "4103137",
+            "turmaid": "01",
+            "nome": " TOP ESP EM CIENCIA E TEC DE ALIMENTOS",
+            "semester": "2018.2",
+            "professor": "GILSANDRO ALVES DA COSTA",
+            "horario": "4T12",
+            "local": "BL ALCIDES 04 (CCHSA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4103140",
+        "name": "TOP ESP EM GESTAO DO AGRONEGOCIO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "4103140",
+            "turmaid": "01",
+            "nome": " TOP ESP EM GESTAO DO AGRONEGOCIO",
+            "semester": "2018.2",
+            "professor": "GENYSON MARQUES EVANGELISTA",
+            "horario": "6T12",
+            "local": "BL ALCIDES 08 (CCHSA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4103141",
+        "name": "TEMAS ESPECIAIS EM AGROINDUSTRIA I",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4103142",
+        "name": "TEMAS ESPECIAIS EM AGROINDUSTRIA II",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4103143",
+        "name": "TEMAS ESPECIAIS EM AGROINDUSTRIA III",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4103144",
+        "name": "TEMAS ESPECIAIS EM AGROINDUSTRIA IV",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4103145",
+        "name": "TEMAS ESPECIAIS EM AGROINDUSTRIA V",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4103146",
+        "name": "TEMAS ESPECIAIS EM AGROINDUSTRIA VI",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4103147",
+        "name": "TEMAS ESPECIAIS EM AGROINDUSTRIA VII",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4103148",
+        "name": "TEMAS ESPECIAIS EM AGROINDUSTRIA VIII",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4103149",
+        "name": "TEMAS ESPECIAIS EM AGROINDUSTRIA IX",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4104154",
+        "name": "SEM TEM EDUC AMB EDUC ESP E DIR HUMAN IV",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4104173",
+        "name": "SEMINARIO EM DIREITOS HUMANOS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDPAG0016",
+        "name": "TÓPICOS ESPECIAIS EM PRODUÇÃO AGROPECUÁRIA ( PRODUÇÃO VEGETAL )",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDPAG0016",
+            "turmaid": "01",
+            "nome": " TÓPICOS ESPECIAIS EM PRODUÇÃO AGROPECUÁRIA ( PRODUÇÃO VEGETAL )",
+            "semester": "2018.2",
+            "professor": "MANOEL ALEXANDRE DINIZ NETO",
+            "horario": "3T12",
+            "local": "BL ALCIDES 03 (CCHSA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDPAG0019",
+        "name": "TÓPICOS ESPECIAIS EM PRODUÇÃO AGROPECUÁRIA  (BIOTECNOLOGIA)",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDPAG0019",
+            "turmaid": "01",
+            "nome": " TÓPICOS ESPECIAIS EM PRODUÇÃO AGROPECUÁRIA  (BIOTECNOLOGIA)",
+            "semester": "2018.2",
+            "professor": "ANABELLE CAMAROTTI DE LIMA BATISTA",
+            "horario": "5M12",
+            "local": "BL ALCIDES 09 (CCHSA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4101053",
+        "name": "BIOLOGIA GERAL",
+        "category": "Complementar Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "4101053",
+            "turmaid": "01",
+            "nome": " BIOLOGIA GERAL",
+            "semester": "2018.2",
+            "professor": "CATARINA DE MEDEIROS BANDEIRA",
+            "horario": "23M12",
+            "local": "BL PED/ADM 05 (CCHSA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4101054",
+        "name": "QUIMICA ORGANICA",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "4101054",
+            "turmaid": "01",
+            "nome": " QUIMICA ORGANICA",
+            "semester": "2018.2",
+            "professor": "MARIA DO SOCORRO LOPES CAVALCANTI",
+            "horario": "5M45 6M23",
+            "local": "BL ALCIDES 02 (CCHSA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4101086",
+        "name": "REDACAO TECNICA",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "4101086",
+            "turmaid": "02",
+            "nome": " REDACAO TECNICA",
+            "semester": "2018.2",
+            "professor": "CICERO GABRIEL DOS SANTOS",
+            "horario": "2M345 3M3",
+            "local": "BL ALCIDES 02 (CCHSA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4101101",
+        "name": "MATEMATICA",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "4101101",
+            "turmaid": "01",
+            "nome": " MATEMATICA",
+            "semester": "2018.2",
+            "professor": "LUIS FELIPE DE ARAUJO",
+            "horario": "4M345 6M1",
+            "local": "BL ALCIDES 03 (CCHSA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4101102",
+        "name": "QUIMICA GERAL E ANALITICA",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "4101102",
+            "turmaid": "01",
+            "nome": " QUIMICA GERAL E ANALITICA",
+            "semester": "2018.2",
+            "professor": "MAX ROCHA QUIRINO",
+            "horario": "3M45 5M23",
+            "local": "BL ALCIDES 06 (CCHSA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4102033",
+        "name": "FATORES DA PROD AGROPECUARIA",
+        "category": "Complementar Obrigatória",
+        "semester": 1,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "4102033",
+            "turmaid": "01",
+            "nome": " FATORES DA PROD AGROPECUARIA",
+            "semester": "2018.2",
+            "professor": "RAUNIRA DA COSTA ARAUJO e GEORGE RODRIGO BELTRAO DA CRUZ",
+            "horario": "4M12",
+            "local": "BL ALCIDES 05 (CCHSA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4103081",
+        "name": "ESTRUTURAS AGROINDUSTRIAS",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "4103081",
+            "turmaid": "01",
+            "nome": " ESTRUTURAS AGROINDUSTRIAS",
+            "semester": "2018.2",
+            "professor": "ARMISTRONG MARTINS DA SILVA",
+            "horario": "4T45",
+            "local": "BL ALCIDES 05 (CCHSA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4103082",
+        "name": "COMERC DOS PROD AGROALIMENTARES",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "4103082",
+            "turmaid": "01",
+            "nome": " COMERC DOS PROD AGROALIMENTARES",
+            "semester": "2018.2",
+            "professor": "GENYSON MARQUES EVANGELISTA",
+            "horario": "6M45",
+            "local": "BL ALCIDES 03 (CCHSA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4103083",
+        "name": "ESTAGIO SUPERVISIONADO I",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "4103083",
+            "turmaid": "01",
+            "nome": " AGROINDÚSTRIA",
+            "semester": "2018.2",
+            "professor": "ERIVALDO NEVES SILVA",
+            "horario": "4T12",
+            "local": "BL ALCIDES 10 (CCHSA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4102072",
+        "name": "CADEIA  DE PRODUCAO DO MEL",
+        "category": "Optativa",
+        "semester": 2,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "4102072",
+            "turmaid": "01",
+            "nome": " CADEIA  DE PRODUCAO DO MEL",
+            "semester": "2018.2",
+            "professor": "ITALO DE SOUZA AQUINO",
+            "horario": "5M45",
+            "local": "BL ALCIDES 03 (CCHSA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4102073",
+        "name": "CULTURAS ALTERNATIVAS",
+        "category": "Optativa",
+        "semester": 2,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4102074",
+        "name": "CADEIA PRODUTIVA DE RACOES",
+        "category": "Optativa",
+        "semester": 2,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "4103081",
+          "4102033"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4102075",
+        "name": "CRIACOES ALTERNATIVAS",
+        "category": "Optativa",
+        "semester": 2,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "4102075",
+            "turmaid": "01",
+            "nome": " CRIACOES ALTERNATIVAS",
+            "semester": "2018.2",
+            "professor": "ANA PATRICIA ALMEIDA BEZERRA",
+            "horario": "4M123",
+            "local": "BL ALCIDES 10 (CCHSA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4103133",
+        "name": "APROVEITAMENTO DE RESIDUOS AGROINDUSTRIA",
+        "category": "Optativa",
+        "semester": 2,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "4103133",
+            "turmaid": "01",
+            "nome": " APROVEITAMENTO DE RESIDUOS AGROINDUSTRIA",
+            "semester": "2018.2",
+            "professor": "CATARINA DE MEDEIROS BANDEIRA",
+            "horario": "2T12",
+            "local": "BL ALCIDES 03 (CCHSA)"
+          }
+        ],
+        "prerequisites": [
+          "4101053",
+          "4101102"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4101070",
+        "name": "CONTABILIDADE DE CUSTOS",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "4101070",
+            "turmaid": "01",
+            "nome": " CONTABILIDADE DE CUSTOS",
+            "semester": "2018.2",
+            "professor": "ANTONIA DO DESTERRO GOMES",
+            "horario": "4M45 3T45",
+            "local": "BL ALCIDES 11 (CCHSA)"
+          }
+        ],
+        "prerequisites": [
+          "4101101"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4101126",
+        "name": "INTRODUCAO A INFORMATICA",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "4101126",
+            "turmaid": "01",
+            "nome": " INTRODUCAO A INFORMATICA",
+            "semester": "2018.2",
+            "professor": "A DEFINIR",
+            "horario": "6T345",
+            "local": "BL ALCIDES 08 (CCHSA)"
+          },
+          {
+            "id": "4101126",
+            "turmaid": "02",
+            "nome": " INTRODUCAO A INFORMATICA",
+            "semester": "2018.2",
+            "professor": "A DEFINIR",
+            "horario": "5T5 6T45",
+            "local": "BL ALCIDES 03 (CCHSA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4101127",
+        "name": "FISICOQUIMICA",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "4101127",
+            "turmaid": "01",
+            "nome": " FISICOQUIMICA",
+            "semester": "2018.2",
+            "professor": "MAX ROCHA QUIRINO",
+            "horario": "6T123",
+            "local": "BL ALCIDES 05 (CCHSA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4101128",
+        "name": "METODOL CIENTIFICA E PESQUISA APLICADA",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "4101128",
+            "turmaid": "01",
+            "nome": " METODOL CIENTIFICA E PESQUISA APLICADA",
+            "semester": "2018.2",
+            "professor": "ITALO DE SOUZA AQUINO",
+            "horario": "5T34",
+            "local": "BL ALCIDES 08 (CCHSA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4102063",
+        "name": "CADEIAS PRODUTIVAS I",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "4102063",
+            "turmaid": "01",
+            "nome": " CADEIAS PRODUTIVAS I",
+            "semester": "2018.2",
+            "professor": "LEONARDO AUGUSTO FONSECA PASCOAL e MARCELO LUIS GOMES RIBEIRO",
+            "horario": "3T123",
+            "local": "SETOR DE SUINOS (CCHSA)"
+          }
+        ],
+        "prerequisites": [
+          "4103081"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4102064",
+        "name": "CADEIAS PRODUTIVAS II",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "4102064",
+            "turmaid": "01",
+            "nome": " CADEIAS PRODUTIVAS II",
+            "semester": "2018.2",
+            "professor": "CARLOS AUGUSTO ALANIS CLEMENTE",
+            "horario": "24T12",
+            "local": "Laboratório de Bovinocultura - LABBOV (CCHSA)"
+          }
+        ],
+        "prerequisites": [
+          "4103081"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4102070",
+        "name": "ESTAGIO SUPERVISIONADO II AGROINDUSTRIA",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "4102070",
+            "turmaid": "01",
+            "nome": " ESTAGIO SUPERVISIONADO II AGROINDUSTRIA",
+            "semester": "2018.2",
+            "professor": "LEONARDO AUGUSTO FONSECA PASCOAL",
+            "horario": "4M12",
+            "local": "SETOR DE SUINOS (CCHSA)"
+          },
+          {
+            "id": "4102070",
+            "turmaid": "02",
+            "nome": " ESTAGIO SUPERVISIONADO II AGROINDUSTRIA",
+            "semester": "2018.2",
+            "professor": "CARLOS AUGUSTO ALANIS CLEMENTE",
+            "horario": "4M23",
+            "local": "Laboratório de Bovinocultura - LABBOV (CCHSA)"
+          }
+        ],
+        "prerequisites": [
+          "4103083"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4103089",
+        "name": "CIENCIA E TECNOLOGIA DE ALIMENTOS",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "75h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "4103089",
+            "turmaid": "01",
+            "nome": " CIENCIA E TECNOLOGIA DE ALIMENTOS",
+            "semester": "2018.2",
+            "professor": "CARLOS ROBERTO MARINHO DA SILVA FILHO",
+            "horario": "4T345 5T12",
+            "local": "BL ALCIDES 08 (CCHSA)"
+          }
+        ],
+        "prerequisites": [
+          "4101102",
+          "4101053"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4103090",
+        "name": "DESENHO TECNICO",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "4103090",
+            "turmaid": "01",
+            "nome": " DESENHO TECNICO",
+            "semester": "2018.2",
+            "professor": "LAESIO PEREIRA MARTINS",
+            "horario": "2T345",
+            "local": "BL ALCIDES 02 (CCHSA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4103136",
+        "name": "TECNOLOGIA DA CERVEJA",
+        "category": "Optativa",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "4103089"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4101138",
+        "name": "HUMANIDADES CIENCIAS SOCIAIS E CIDADANIA",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "4101138",
+            "turmaid": "01",
+            "nome": " HUMANIDADES CIENCIAS SOCIAIS E CIDADANIA",
+            "semester": "2018.2",
+            "professor": "KILDER BARBOSA DA SILVA",
+            "horario": "4M12",
+            "local": "BL ALCIDES 03 (CCHSA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4102066",
+        "name": "CADEIAS PRODUTIVAS III",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "4102066",
+            "turmaid": "01",
+            "nome": " CADEIAS PRODUTIVAS III",
+            "semester": "2018.2",
+            "professor": "FERNANDO LUIZ NUNES DE OLIVEIRA",
+            "horario": "2M234",
+            "local": "BL ALCIDES 10 (CCHSA)"
+          }
+        ],
+        "prerequisites": [
+          "4103081"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4102067",
+        "name": "CADEIAS PRODUTIVAS IV",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "4102067",
+            "turmaid": "01",
+            "nome": " CADEIAS PRODUTIVAS IV",
+            "semester": "2018.2",
+            "professor": "MANOEL ALEXANDRE DINIZ NETO",
+            "horario": "3M12 5T56",
+            "local": "BL ALCIDES 10 (CCHSA)"
+          }
+        ],
+        "prerequisites": [
+          "4103081"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4102071",
+        "name": "ESTAGIO SUPERVISIONADO III",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "4102071",
+            "turmaid": "01",
+            "nome": " AGROINDÚSTRIA",
+            "semester": "2018.2",
+            "professor": "JOSE EDUARDO FERREIRA ESPINOLA",
+            "horario": "5T23",
+            "local": "BL ALCIDES 10 (CCHSA)"
+          },
+          {
+            "id": "4102071",
+            "turmaid": "02",
+            "nome": " AGROINDÚSTRIA",
+            "semester": "2018.2",
+            "professor": "MARIA JOSE ARAUJO WANDERLEY",
+            "horario": "5T21",
+            "local": "BL ALCIDES 12 (CCHSA)"
+          }
+        ],
+        "prerequisites": [
+          "4103083"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4103092",
+        "name": "MICROBIOLOGIA DE ALIMENTOS",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "90h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "4103092",
+            "turmaid": "01",
+            "nome": " MICROBIOLOGIA DE ALIMENTOS",
+            "semester": "2018.2",
+            "professor": "CYBELLE DE OLIVEIRA DANTAS",
+            "horario": "3M5 4M345 5M45",
+            "local": "BL ALCIDES 01 (CCHSA)"
+          }
+        ],
+        "prerequisites": [
+          "4103089"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4103109",
+        "name": "CIENCIAS DO AMBIENTE",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "4103109",
+            "turmaid": "01",
+            "nome": " CIENCIAS DO AMBIENTE",
+            "semester": "2018.2",
+            "professor": "VENIA CAMELO DE SOUZA",
+            "horario": "3M34",
+            "local": "BL ALCIDES 05 (CCHSA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4103110",
+        "name": "QUIMICA E BIOQUIMICA APLIC  A ALIMENTOS",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "4103110",
+            "turmaid": "01",
+            "nome": " QUIMICA E BIOQUIMICA APLIC  A ALIMENTOS",
+            "semester": "2018.2",
+            "professor": "CARLOS ROBERTO MARINHO DA SILVA FILHO",
+            "horario": "56M12",
+            "local": "BL ALCIDES 04 (CCHSA)"
+          }
+        ],
+        "prerequisites": [
+          "4101102",
+          "4101054"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4103111",
+        "name": "OPERACOES UNITARIAS",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "4103111",
+            "turmaid": "01",
+            "nome": " OPERACOES UNITARIAS",
+            "semester": "2018.2",
+            "professor": "ARIANNE DANTAS VIANA",
+            "horario": "5M3 6M345",
+            "local": "BL ALCIDES 11 (CCHSA)"
+          }
+        ],
+        "prerequisites": [
+          "4103090",
+          "4101127"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4103134",
+        "name": "TOXICOLOGIA DE ALIMENTOS",
+        "category": "Optativa",
+        "semester": 4,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "4103110"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4103135",
+        "name": "QUIMICA DO AROMA",
+        "category": "Optativa",
+        "semester": 4,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "4103110"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4101136",
+        "name": "ESTATISTICA",
+        "category": "Complementar Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "4101136",
+            "turmaid": "01",
+            "nome": " ESTATISTICA",
+            "semester": "2018.2",
+            "professor": "A DEFINIR",
+            "horario": "3T123 5T4",
+            "local": "BL ALCIDES 10 (CCHSA)"
+          }
+        ],
+        "prerequisites": [
+          "4101101"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4103091",
+        "name": "GESTAO FINANCEIRA",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "4103091",
+            "turmaid": "01",
+            "nome": " GESTAO FINANCEIRA",
+            "semester": "2018.2",
+            "professor": "KADIDJA FERREIRA SANTOS",
+            "horario": "2T12 3T45",
+            "local": "BL ALCIDES 02 (CCHSA)"
+          }
+        ],
+        "prerequisites": [
+          "4101101"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4103096",
+        "name": "ESTAGIO SUPERVISIONADO IV",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "4103096",
+            "turmaid": "01",
+            "nome": " AGROINDÚSTRIA",
+            "semester": "2018.2",
+            "professor": "GILSANDRO ALVES DA COSTA",
+            "horario": "5M345",
+            "local": "Laboratório de Pesquisa e Desenvolvimento de Produtos ..."
+          },
+          {
+            "id": "4103096",
+            "turmaid": "02",
+            "nome": " AGROINDÚSTRIA",
+            "semester": "2018.2",
+            "professor": "SOLANGE DE SOUSA",
+            "horario": "5M345",
+            "local": "Laboratório de Tecnologia da Panificação (LTP) (CCHSA)"
+          },
+          {
+            "id": "4103096",
+            "turmaid": "03",
+            "nome": " AGROINDÚSTRIA",
+            "semester": "2018.2",
+            "professor": "ANDERSON FERREIRA VILELA",
+            "horario": "5M345",
+            "local": "Laboratório de Pesquisa e Desenvolvimento de Bebidas ..."
+          }
+        ],
+        "prerequisites": [
+          "4102070",
+          "4102071"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4103101",
+        "name": "TECNOLOGIA DE FRUTAS E HORTALICAS",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "75h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "4103101",
+            "turmaid": "01",
+            "nome": " TECNOLOGIA DE FRUTAS E HORTALICAS",
+            "semester": "2018.2",
+            "professor": "GILSANDRO ALVES DA COSTA",
+            "horario": "4T345 6T12",
+            "local": "BL ALCIDES 11 (CCHSA)"
+          }
+        ],
+        "prerequisites": [
+          "4103089"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4103102",
+        "name": "TECNOLOGIA DE CEREAIS E PANIFICACAO",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "75h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "4103102",
+            "turmaid": "02",
+            "nome": " TECNOLOGIA DE CEREAIS E PANIFICACAO",
+            "semester": "2018.2",
+            "professor": "ARIANNE DANTAS VIANA",
+            "horario": "5T12 6T345",
+            "local": "BL ALCIDES 06 (CCHSA)"
+          }
+        ],
+        "prerequisites": [
+          "4103089"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4103103",
+        "name": "TECNOLOGIA DE CANADEACUCAR E DERIVADOS",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "75h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "4103103",
+            "turmaid": "01",
+            "nome": " TECNOLOGIA DE CANADEACUCAR E DERIVADOS",
+            "semester": "2018.2",
+            "professor": "ANDERSON FERREIRA VILELA",
+            "horario": "5M12 2T345",
+            "local": "BL ALCIDES 11 (CCHSA)"
+          }
+        ],
+        "prerequisites": [
+          "4103089"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4103104",
+        "name": "HIGIENE E INSPECAO DE ALIMENTOS",
+        "category": "Complementar Obrigatória",
+        "semester": 4,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "4103104",
+            "turmaid": "01",
+            "nome": " HIGIENE E INSPECAO DE ALIMENTOS",
+            "semester": "2018.2",
+            "professor": "SOLANGE DE SOUSA",
+            "horario": "4T12",
+            "local": "BL ALCIDES 11 (CCHSA)"
+          }
+        ],
+        "prerequisites": [
+          "4103089"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4103097",
+        "name": "ESTAGIO SUPERVISIONADO V",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "4103097",
+            "turmaid": "01",
+            "nome": " AGROINDÚSTRIA",
+            "semester": "2018.2",
+            "professor": "FABIANA AUGUSTA SANTIAGO BELTRAO e ERIVALDO NEVES SILVA",
+            "horario": "4M123",
+            "local": "Laboratório de Pesquisa e Desenvolvimento de Laticínios ..."
+          },
+          {
+            "id": "4103097",
+            "turmaid": "02",
+            "nome": " AGROINDÚSTRIA",
+            "semester": "2018.2",
+            "professor": "ONOFRE MAURICIO DE MOURA",
+            "horario": "4M123",
+            "local": "Laboratório de Ranicultura e Produtos da Aquicultura ..."
+          },
+          {
+            "id": "4103097",
+            "turmaid": "03",
+            "nome": " AGROINDÚSTRIA",
+            "semester": "2018.2",
+            "professor": "TALIANA KENIA ALVES BEZERRA",
+            "horario": "4M123",
+            "local": "Laboratório de Pesquisa e Desenvolvimento de Produtos ..."
+          }
+        ],
+        "prerequisites": [
+          "4102070",
+          "4102071"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4103105",
+        "name": "TECNOLOGIA DE PESCADO E DERIVADOS",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "75h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "4103105",
+            "turmaid": "01",
+            "nome": " TECNOLOGIA DE PESCADO E DERIVADOS",
+            "semester": "2018.2",
+            "professor": "ONOFRE MAURICIO DE MOURA",
+            "horario": "5T12345",
+            "local": "BL ALCIDES 09 (CCHSA)"
+          }
+        ],
+        "prerequisites": [
+          "4103089"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4103106",
+        "name": "TECNOLOGIA DE LEITE E DERIVADOS",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "90h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "4103106",
+            "turmaid": "01",
+            "nome": " TECNOLOGIA DE LEITE E DERIVADOS",
+            "semester": "2018.2",
+            "professor": "FABIANA AUGUSTA SANTIAGO BELTRAO e ERIVALDO NEVES SILVA",
+            "horario": "36M123",
+            "local": "BL ALCIDES 08 (CCHSA)"
+          }
+        ],
+        "prerequisites": [
+          "4103089"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4103107",
+        "name": "TECNOLOGIA DE CARNE E DERIVADOS",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "75h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "4103107",
+            "turmaid": "01",
+            "nome": " TECNOLOGIA DE CARNE E DERIVADOS",
+            "semester": "2018.2",
+            "professor": "ROMARIO OLIVEIRA DE ANDRADE",
+            "horario": "2M12345",
+            "local": "BL ALCIDES 03 (CCHSA)"
+          }
+        ],
+        "prerequisites": [
+          "4103089"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4103108",
+        "name": "GESTAO DA PRODUCAO",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "4103108",
+            "turmaid": "01",
+            "nome": " GESTAO DA PRODUCAO",
+            "semester": "2018.2",
+            "professor": "ARMISTRONG MARTINS DA SILVA",
+            "horario": "46M45",
+            "local": "BL ALCIDES 08 (CCHSA)"
+          }
+        ],
+        "prerequisites": [
+          "4103081",
+          "4103082"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4103113",
+        "name": "ANALISE FISICOQUIMICA DOS ALIMENTOS",
+        "category": "Complementar Obrigatória",
+        "semester": 5,
+        "workload": "75h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "4103113",
+            "turmaid": "01",
+            "nome": " ANALISE FISICOQUIMICA DOS ALIMENTOS",
+            "semester": "2018.2",
+            "professor": "NEIVA MARIA DE ALMEIDA",
+            "horario": "3M45 5M345",
+            "local": "BL ALCIDES 09 (CCHSA)"
+          }
+        ],
+        "prerequisites": [
+          "4101101",
+          "4103110"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4103116",
+        "name": "EMBALAGEM E ARMAZENAMENTO DE ALIMENTOS",
+        "category": "Complementar Obrigatória",
+        "semester": 5,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "4103116",
+            "turmaid": "01",
+            "nome": " EMBALAGEM E ARMAZENAMENTO DE ALIMENTOS",
+            "semester": "2018.2",
+            "professor": "SOLANGE DE SOUSA",
+            "horario": "5M12",
+            "local": "BL ALCIDES 08 (CCHSA)"
+          }
+        ],
+        "prerequisites": [
+          "4103089"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4101079",
+        "name": "GESTAO DE QUALIDADE",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "4101079",
+            "turmaid": "01",
+            "nome": " GESTAO DE QUALIDADE",
+            "semester": "2018.2",
+            "professor": "JOSE MANCINELLI LEDO DO NASCIMENTO",
+            "horario": "45T12",
+            "local": "BL ALCIDES 02 (CCHSA)"
+          }
+        ],
+        "prerequisites": [
+          "4103081",
+          "4103082"
+        ],
+        "equivalences": [
+          "4101181"
+        ]
+      },
+      {
+        "id": "4101139",
+        "name": "FILOSOFIA E ETICA PROFISSIONAL",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "4101139",
+            "turmaid": "01",
+            "nome": " FILOSOFIA E ETICA PROFISSIONAL",
+            "semester": "2018.2",
+            "professor": "ANDERSON DA TRINDADE MARCELINO",
+            "horario": "2T1234",
+            "local": "BL ALCIDES 10 (CCHSA)"
+          }
+        ],
+        "prerequisites": [
+          "4101086",
+          "4101138"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4101142",
+        "name": "DISTRIBUICAO LOGISTICA",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "4101142",
+            "turmaid": "01",
+            "nome": " DISTRIBUICAO LOGISTICA",
+            "semester": "2018.2",
+            "professor": "A DEFINIR",
+            "horario": "6T123",
+            "local": "BL ALCIDES 10 (CCHSA)"
+          }
+        ],
+        "prerequisites": [
+          "4103081",
+          "4103082"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4101143",
+        "name": "MARKETING ESTRATEGICO AGROINDUSTRIAL",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "4101143",
+            "turmaid": "01",
+            "nome": " MARKETING ESTRATEGICO AGROINDUSTRIAL",
+            "semester": "2018.2",
+            "professor": "JAIRO DE PONTES GOMES",
+            "horario": "3T45 4T34",
+            "local": "BL ALCIDES 01 (CCHSA)"
+          }
+        ],
+        "prerequisites": [
+          "4103082"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4103098",
+        "name": "ESTAGIO SUPERVISIONADO VIAGROOINDUSTR",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "4103098",
+            "turmaid": "01",
+            "nome": " ESTAGIO SUPERVISIONADO VIAGROOINDUSTR",
+            "semester": "2018.2",
+            "professor": "CYBELLE DE OLIVEIRA DANTAS",
+            "horario": "3M1234",
+            "local": "Laboratório de Microbiologia dos Alimentos (LAM) (CCHSA)"
+          },
+          {
+            "id": "4103098",
+            "turmaid": "02",
+            "nome": " ESTAGIO SUPERVISIONADO VIAGROOINDUSTR",
+            "semester": "2018.2",
+            "professor": "NEIVA MARIA DE ALMEIDA",
+            "horario": "4M2345",
+            "local": "Laboratório de Análise Físico-Química dos Alimentos ..."
+          },
+          {
+            "id": "4103098",
+            "turmaid": "03",
+            "nome": " ESTAGIO SUPERVISIONADO VIAGROOINDUSTR",
+            "semester": "2018.2",
+            "professor": "CAMILA SAMPAIO MANGOLIM",
+            "horario": "4M2345",
+            "local": "Laboratório de Desenvolvimento de Produtos e Análise ..."
+          }
+        ],
+        "prerequisites": [
+          "4103096"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4103114",
+        "name": "ANALISE SENSORIAL DE ALIMENTOS",
+        "category": "Complementar Obrigatória",
+        "semester": 6,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "4103114",
+            "turmaid": "01",
+            "nome": " ANALISE SENSORIAL DE ALIMENTOS",
+            "semester": "2018.2",
+            "professor": "SOLANGE DE SOUSA",
+            "horario": "3T123",
+            "local": "BL ALCIDES 08 (CCHSA)"
+          }
+        ],
+        "prerequisites": [
+          "4103089"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4103138",
+        "name": "SECAGEM DE ALIMENTOS",
+        "category": "Complementar Obrigatória",
+        "semester": 6,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "4103138",
+            "turmaid": "01",
+            "nome": " SECAGEM DE ALIMENTOS",
+            "semester": "2018.2",
+            "professor": "ARIANNE DANTAS VIANA",
+            "horario": "5T345",
+            "local": "BL ALCIDES 11 (CCHSA)"
+          }
+        ],
+        "prerequisites": [
+          "4103089",
+          "4103111"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4103093",
+        "name": "PLANEJAMENTOE PROJETO AGROINDUSTRIAL",
+        "category": "Obrigatória",
+        "semester": 7,
+        "workload": "75h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "4103093",
+            "turmaid": "01",
+            "nome": " PLANEJAMENTOE PROJETO AGROINDUSTRIAL",
+            "semester": "2018.2",
+            "professor": "GENYSON MARQUES EVANGELISTA",
+            "horario": "5M123 6M12",
+            "local": "BL ALCIDES 10 (CCHSA)"
+          }
+        ],
+        "prerequisites": [
+          "4101070",
+          "4101143"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4103099",
+        "name": "ESTAGIO  SUPERVISIONADOVIIAGROINDUST",
+        "category": "Obrigatória",
+        "semester": 7,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "4103099",
+            "turmaid": "02",
+            "nome": " ESTAGIO  SUPERVISIONADOVIIAGROINDUST",
+            "semester": "2018.2",
+            "professor": "KADIDJA FERREIRA SANTOS",
+            "horario": "3M123 7M1",
+            "local": "BL ALCIDES 09 (CCHSA)"
+          }
+        ],
+        "prerequisites": [
+          "4101070",
+          "4101079",
+          "4103108"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4103115",
+        "name": "SEGURANCA DO TRABALHO",
+        "category": "Complementar Obrigatória",
+        "semester": 7,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "4103115",
+            "turmaid": "02",
+            "nome": " SEGURANCA DO TRABALHO",
+            "semester": "2018.2",
+            "professor": "ELISANDRA COSTA ALMEIDA",
+            "horario": "3M45",
+            "local": "BL ALCIDES 03 (CCHSA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4103112",
+        "name": "TCC TRABALHO DE CONCLUSAO DE CURSO",
+        "category": "Obrigatória",
+        "semester": 8,
+        "workload": "120h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "4103112",
+            "turmaid": "01",
+            "nome": " TCC TRABALHO DE CONCLUSAO DE CURSO",
+            "semester": "2018.2",
+            "professor": "LAESIO PEREIRA MARTINS",
+            "horario": "4T123 7T12345",
+            "local": "BL ALCIDES 09 (CCHSA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      }
+    ]
+  }
+}

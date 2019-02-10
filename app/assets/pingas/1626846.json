@@ -1,0 +1,1279 @@
+{
+  "curriculum": {
+    "id": "332012",
+    "codigo": "1626846",
+    "name": "CIÊNCIAS BIOLÓGICAS - EAD - João Pessoa - A Distância - MT - LICENCIATURA PLENA",
+    "faculty": "CENTRO DE CIÊNCIAS EXATAS E DA NATUREZA (CCEN) (11.00.41)",
+    "minch": "330",
+    "maxch": "540",
+    "semesters": 8,
+    "courses": [
+      {
+        "id": "1101173",
+        "name": "FISICA PCIENCIAS BIOLOGICASUV",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1102238",
+        "name": "FUNDAMENTOS DE GEOLOGIA  UV",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1105223",
+        "name": "QUIMICA PARA CIENCIAS BIOLOGICASUV",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1106220",
+        "name": "FUND DE SISTEMATICA E BIOGEOGRAFIAUV",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1106220",
+            "turmaid": "01",
+            "nome": " FUND DE SISTEMATICA E BIOGEOGRAFIAUV",
+            "semester": "2018.2",
+            "professor": "MARIA REGINA DE VASCONCELOS BARBOSA",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1106221",
+        "name": "INTRODUCAO AO ENSINO A DISTANCIAUV",
+        "category": "Complementar Obrigatória",
+        "semester": 1,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1106221",
+            "turmaid": "01",
+            "nome": " INTRODUCAO AO ENSINO A DISTANCIAUV",
+            "semester": "2018.2",
+            "professor": "ELIETE LIMA DE PAULA ZARATE",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1301250",
+        "name": "FUND ANTROPOFILOSOFICO DA EDUCACAOUV",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1104220",
+        "name": "BIOLOGIA E FISIOLOGIA CELULARUV",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1104222",
+        "name": "BIOQUIMICA ESTRUTURALUV",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1104227",
+        "name": "BIOFISICA DOS SISTEMAS BIOLOGICOS  UV",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1104227",
+            "turmaid": "01",
+            "nome": " BIOFISICA DOS SISTEMAS BIOLOGICOS  UV",
+            "semester": "2018.2",
+            "professor": "MICHELINE DE AZEVEDO LIMA",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1106223",
+        "name": "BIOL E SIST DE FUNGOS ALGAS E BRIOFUV",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1106223",
+            "turmaid": "01",
+            "nome": " BIOL E SIST DE FUNGOS ALGAS E BRIOFUV",
+            "semester": "2018.2",
+            "professor": "ELIETE LIMA DE PAULA ZARATE",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1301261",
+        "name": "FUND SOCIOHISTORICOS DA EDUCAÇAOUV",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1301262",
+        "name": "FUND PSICOLOGICOS DA EDUCAÇAO UV",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1302350",
+        "name": "METOD CIENTIFICA E PESQUISA APLICADAUV",
+        "category": "Complementar Obrigatória",
+        "semester": 2,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1302350",
+            "turmaid": "01",
+            "nome": " METOD CIENTIFICA E PESQUISA APLICADAUV",
+            "semester": "2018.2",
+            "professor": "SONIA SAEGER MEIRELES MONTE RASO",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1104223",
+        "name": "BIOQUIMICA METABOLICAUV",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1104223",
+            "turmaid": "01",
+            "nome": " BIOQUIMICA METABOLICAUV",
+            "semester": "2018.2",
+            "professor": "DARLENE CAMATI PERSUHN",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+          "1104222"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1106228",
+        "name": "INVERTEBRADOS I  UV",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1106228",
+            "turmaid": "01",
+            "nome": " INVERTEBRADOS I  UV",
+            "semester": "2018.2",
+            "professor": "MARCIO BERNARDINO DA SILVA",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1106232",
+        "name": "BIOL E SISTEMATICA DE PLANT VASC  UV",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1106232",
+            "turmaid": "01",
+            "nome": " BIOL E SISTEMATICA DE PLANT VASC  UV",
+            "semester": "2018.2",
+            "professor": "RUBENS TEIXEIRA DE QUEIROZ",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1106233",
+        "name": "ECOLOGIA BASICA  UV",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1106233",
+            "turmaid": "01",
+            "nome": " ECOLOGIA BASICA  UV",
+            "semester": "2018.2",
+            "professor": "DENISE DIAS DA CRUZ",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1108178",
+        "name": "ESTATISTICA VITALUV",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1108178",
+            "turmaid": "01",
+            "nome": " ESTATISTICA VITALUV",
+            "semester": "2018.2",
+            "professor": "GILMARA ALVES CAVALCANTI",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1610189",
+        "name": "BIOLOGIA DO DESENVOLVIMENTO HUMANOUV",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1610189",
+            "turmaid": "01",
+            "nome": " BIOLOGIA DO DESENVOLVIMENTO HUMANOUV",
+            "semester": "2018.2",
+            "professor": "FREDERICO BARBOSA DE SOUSA",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+          "1104220"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1611202",
+        "name": "PARASITOLOGIA II  UV",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1611202",
+            "turmaid": "01",
+            "nome": " PARASITOLOGIA II  UV",
+            "semester": "2018.2",
+            "professor": "CRISTINE HIRSCH MONTEIRO",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1104228",
+        "name": "GENETICA MOLECULAR  UV",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1104228",
+            "turmaid": "01",
+            "nome": " GENETICA MOLECULAR  UV",
+            "semester": "2018.2",
+            "professor": "ELEONIDAS MOURA LIMA",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+          "1104220"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1106231",
+        "name": "INVERTEBRADOS II UV",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1106231",
+            "turmaid": "01",
+            "nome": " INVERTEBRADOS II UV",
+            "semester": "2018.2",
+            "professor": "CELSO FEITOSA MARTINS",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+          "1106228"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1106236",
+        "name": "ECOLOGIA DE POPUL E COMUNIDADES  UV",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1106236",
+            "turmaid": "01",
+            "nome": " ECOLOGIA DE POPUL E COMUNIDADES  UV",
+            "semester": "2018.2",
+            "professor": "ALEXANDRE VASCONCELLOS",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+          "1106233"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1302377",
+        "name": "DIDATICA  UV",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1302377",
+            "turmaid": "01",
+            "nome": " DIDATICA  UV",
+            "semester": "2018.2",
+            "professor": "ISOLDA AYRES VIANA RAMOS",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1610190",
+        "name": "ANATOMIA HUMANAUV",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1610190",
+            "turmaid": "01",
+            "nome": " ANATOMIA HUMANAUV",
+            "semester": "2018.2",
+            "professor": "ANA LUCIA BASILIO CARNEIRO",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+          "1104220"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1610192",
+        "name": "BIOLOGIA DO DESENV ANIMAL COMPARADOUV",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1610192",
+            "turmaid": "01",
+            "nome": " BIOLOGIA DO DESENV ANIMAL COMPARADOUV",
+            "semester": "2018.2",
+            "professor": "ALEXANDRE SARMENTO QUEIROGA",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+          "1104220"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDFPT0100",
+        "name": "BIOLOGIA DE MICROORGANISMOS",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDFPT0100",
+            "turmaid": "01",
+            "nome": " BIOLOGIA DE MICROORGANISMOS",
+            "semester": "2018.2",
+            "professor": "JOSE SOARES DO NASCIMENTO",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1106242",
+        "name": "TOP ESP EM ENS DE CIENC E BIOLOGIA I UV",
+        "category": "Complementar Flexiva",
+        "semester": 5,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1106242",
+            "turmaid": "01",
+            "nome": " TOP ESP EM ENS DE CIENC E BIOLOGIA I UV",
+            "semester": "2018.2",
+            "professor": "ELIETE LIMA DE PAULA ZARATE",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1104230",
+        "name": "PRINCIPIOS DE ANALISE GENETICA  UV",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1104230",
+            "turmaid": "01",
+            "nome": " PRINCIPIOS DE ANALISE GENETICA  UV",
+            "semester": "2018.2",
+            "professor": "ELEONIDAS MOURA LIMA",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+          "1104220"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1106234",
+        "name": "VERTEBRADOS  UV",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1106234",
+            "turmaid": "01",
+            "nome": " VERTEBRADOS  UV",
+            "semester": "2018.2",
+            "professor": "PEDRO CORDEIRO ESTRELA DE ANDRADE PINTO",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+          "1106231"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1106235",
+        "name": "ANATOMIA VEGETAL UV",
+        "category": "Complementar Obrigatória",
+        "semester": 5,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1106235",
+            "turmaid": "01",
+            "nome": " ANATOMIA VEGETAL UV",
+            "semester": "2018.2",
+            "professor": "CARLOS ALBERTO BELTRAO DE MIRANDA",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1302380",
+        "name": "EST SUP IENS DE CIENC NAT NA E E F  UV",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1302380",
+            "turmaid": "01",
+            "nome": " EST SUP IENS DE CIENC NAT NA E E F  UV",
+            "semester": "2018.2",
+            "professor": "ISOLDA AYRES VIANA RAMOS",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+          "1302377"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1611203",
+        "name": "IMUNOLOGIA III  UV",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1611203",
+            "turmaid": "01",
+            "nome": " IMUNOLOGIA III  UV",
+            "semester": "2018.2",
+            "professor": "CLAUDIO ROBERTO BEZERRA DOS SANTOS",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+          "1104223"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDLS0025",
+        "name": "LIBRAS UV",
+        "category": "Complementar Obrigatória",
+        "semester": 5,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1106269",
+        "name": "TOPESPENSDE CIENCE DE BIOLIIUV",
+        "category": "Complementar Flexiva",
+        "semester": 6,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1106269",
+            "turmaid": "01",
+            "nome": " TOPESPENSDE CIENCE DE BIOLIIUV",
+            "semester": "2018.2",
+            "professor": "ELIETE LIMA DE PAULA ZARATE",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1106237",
+        "name": "FISIOLOGIA HUMANA E ANIMAL COMPARADAUV",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1106237",
+            "turmaid": "01",
+            "nome": " FISIOLOGIA HUMANA E ANIMAL COMPARADAUV",
+            "semester": "2018.2",
+            "professor": "PAULO FERNANDO GUEDES PEREIRA MONTENEGRO",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+          "1106234"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1106238",
+        "name": "FISIOLOGIA VEGETAL  UV",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1106238",
+            "turmaid": "01",
+            "nome": " FISIOLOGIA VEGETAL  UV",
+            "semester": "2018.2",
+            "professor": "ADEILDO ROSA DE LIMA JUNIOR",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+          "1104223",
+          "1106235"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1106239",
+        "name": "TOPICOS ATUAIS EM ECOLOGIA  UV",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1106239",
+            "turmaid": "01",
+            "nome": " TOPICOS ATUAIS EM ECOLOGIA  UV",
+            "semester": "2018.2",
+            "professor": "PABLO RIUL",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1302383",
+        "name": "PESQ EM ENS DE CIENC E DE BIOLOGIAUV",
+        "category": "Complementar Obrigatória",
+        "semester": 6,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1302383",
+            "turmaid": "01",
+            "nome": " PESQ EM ENS DE CIENC E DE BIOLOGIAUV",
+            "semester": "2018.2",
+            "professor": "SONIA SAEGER MEIRELES MONTE RASO",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1302384",
+        "name": "EST SUP IIPRAT DE ENS CIENC NAT EEF UV",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1302384",
+            "turmaid": "01",
+            "nome": " EST SUP IIPRAT DE ENS CIENC NAT EEF UV",
+            "semester": "2018.2",
+            "professor": "ISOLDA AYRES VIANA RAMOS",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+          "1302380"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1303248",
+        "name": "POLITICA E GESTÃO DA EDUCAÇAO  UV",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1106270",
+        "name": "TOPESPENSDE CIENCE DE BIOLIIIUV",
+        "category": "Complementar Flexiva",
+        "semester": 7,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1106270",
+            "turmaid": "01",
+            "nome": " TOPESPENSDE CIENCE DE BIOLIIIUV",
+            "semester": "2018.2",
+            "professor": "ANTONIA ARISDELIA FONSECA MATIAS AGUIAR FEITOSA",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1302379",
+        "name": "MET E INSTR PARA O ENS DE CIENC NAT  UV",
+        "category": "Optativa",
+        "semester": 7,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1302392",
+        "name": "INTROD AOS REC AUDIOV EM EDUCAÇAOUV",
+        "category": "Optativa",
+        "semester": 7,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1106240",
+        "name": "EVOLUÇAO BIOLOGICA  UV",
+        "category": "Obrigatória",
+        "semester": 7,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1106240",
+            "turmaid": "01",
+            "nome": " EVOLUÇAO BIOLOGICA  UV",
+            "semester": "2018.2",
+            "professor": "ALESSANDRE PEREIRA COLAVITE",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1106241",
+        "name": "BASES DE EDUCAÇAO AMBIENTAL  UV",
+        "category": "Complementar Obrigatória",
+        "semester": 7,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1106241",
+            "turmaid": "01",
+            "nome": " BASES DE EDUCAÇAO AMBIENTAL  UV",
+            "semester": "2018.2",
+            "professor": "BRAULIO ALMEIDA SANTOS",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1302381",
+        "name": "MET E INSTR PARA O ENS DE BIOLOGIAUV",
+        "category": "Complementar Obrigatória",
+        "semester": 7,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1302385",
+        "name": "PROJ E EXPERIM NO ENS DE CIENC E BIOLUV",
+        "category": "Complementar Obrigatória",
+        "semester": 7,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1302386",
+        "name": "EST SUP III ENS DE BIOLOGIA NA E E MUV",
+        "category": "Obrigatória",
+        "semester": 7,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1302384"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1106271",
+        "name": "TOPESPENSDE CIENCE DE BIOLIVUV",
+        "category": "Complementar Flexiva",
+        "semester": 8,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1106271",
+            "turmaid": "01",
+            "nome": " TOPESPENSDE CIENCE DE BIOLIVUV",
+            "semester": "2018.2",
+            "professor": "ANTONIA ARISDELIA FONSECA MATIAS AGUIAR FEITOSA",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1302378",
+        "name": "BIOETICA E LEGISLAÇAO PROFISSIONAL  UV",
+        "category": "Optativa",
+        "semester": 8,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1302390",
+        "name": "BIOLOGIA DE CAMPO APL AO ENS  UV",
+        "category": "Optativa",
+        "semester": 8,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1302391",
+        "name": "ALFAB DE JOV E ADULT PROC E METODOSUV",
+        "category": "Optativa",
+        "semester": 8,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1302382",
+        "name": "EDUC MEIO AMB E SAUDE NAS ESCOLASUV",
+        "category": "Complementar Obrigatória",
+        "semester": 8,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1302387",
+        "name": "TRAB ACADEMICO DE CONCL DE CURSO  UV",
+        "category": "Complementar Obrigatória",
+        "semester": 8,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1302387",
+            "turmaid": "01",
+            "nome": " TRAB ACADEMICO DE CONCL DE CURSO  UV",
+            "semester": "2018.2",
+            "professor": "RAFAEL ANGEL TORQUEMADA GUERRA",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1302388",
+        "name": "EST SUP IVPRAT ENS BIOL NA EEM  UV",
+        "category": "Obrigatória",
+        "semester": 8,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1302388",
+            "turmaid": "01",
+            "nome": " EST SUP IVPRAT ENS BIOL NA EEM  UV",
+            "semester": "2018.2",
+            "professor": "ISOLDA AYRES VIANA RAMOS",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+          "1302386"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1303249",
+        "name": "EDUCAÇAO E INCLUSAO SOCIAL  UV",
+        "category": "Obrigatória",
+        "semester": 8,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      }
+    ]
+  }
+}

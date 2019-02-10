@@ -1,0 +1,2437 @@
+{
+  "curriculum": {
+    "id": "272018",
+    "codigo": "2663739",
+    "name": "LETRAS (LÍNGUAS CLÁSSICAS) - João Pessoa - Presencial - LING. CLASSICAS - N - LICENCIATURA PLENA",
+    "faculty": "CENTRO DE CIÊNCIAS HUMANAS, LETRAS E ARTES (CCHLA) (11.00.53)",
+    "minch": "180",
+    "maxch": "420",
+    "semesters": 10,
+    "courses": [
+      {
+        "id": "1202251",
+        "name": "ATIVIDADE DE EXTENSAO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1202252",
+        "name": "ATIVIDADE DE EXTENSAO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1202253",
+        "name": "ATIVIDADE  DE EXTENSAO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "15h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1202254",
+        "name": "ATIVIDADE DE EXTESNSAO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1301138",
+        "name": "ECONOMIA DA EDUCAÇÃO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1301143",
+        "name": "EDUCACAO POPULAR",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1301204",
+        "name": "EDUCAÇÃO SEXUAL",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1301224",
+        "name": "FUNDAMENTOS EPISTEMOLOGICOS DA EDUCACAO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1301227",
+        "name": "CORPO AMBIENTE E EDUCACAO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1301244",
+        "name": "ECONOMIA DA EDUCACAO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1301258",
+        "name": "GESTAO EDUCACIONAL",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1302128",
+        "name": "INTRODUÇÃO AOS RECURSOS AUDIOVISUAIS EM EDUCAÇÃO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1302220",
+        "name": "AVALIAÇÃO DA APRENDIZAGEM",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1302304",
+        "name": "AVALIACAO DA APRENDIZAGEM",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1302307",
+        "name": "LINGUA E LITERATURA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1302308",
+        "name": "INTRODUÇÃO AOS RECURSOS AUDIOVISUAIS EM EDUCAÇÃO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1302317",
+        "name": "LINGUAGEM E INTERAÇAO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1302318",
+        "name": "ENSINO DE ARTE",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1302319",
+        "name": "ENSINO DE PORTUGUES",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1302322",
+        "name": "ENSINO DE HISTORIA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1302324",
+        "name": "ALFABETIZACAO DE JOVENS E ADULTOS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1302325",
+        "name": "EDUCAÇÃO E MOVIMENTOS SOCIAIS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1302337",
+        "name": "CULTURA E EDUCACAO DE JOVENS E ADULTOS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1302339",
+        "name": "EDUCAÇÃO POPULAR",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1302418",
+        "name": "ARTES E EDUCAÇAO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1302419",
+        "name": "ORGANIZAÇÃO E PRÁTICA DE EJA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1302507",
+        "name": "EDUCAÇÃO E MOVIMENTOS SOCIAIS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1303195",
+        "name": "PLANEJAMENTO E GESTÃO ESCOLAR",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1303196",
+        "name": "CURRICULO E TRABALHO PEDAGOGICO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1303199",
+        "name": "EDUCACAO E DIVERSIDADE CULTURAL",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1303204",
+        "name": "EDUCACAO E TRABALHO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1303209",
+        "name": "EDUCACAO E TECNOLOGIA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1303210",
+        "name": "CURRICULO E TRABALHO PEDAGOGICO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1303211",
+        "name": "PESQUISA EDUCACIONAL",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1303212",
+        "name": "EDUCACAO ESPECIAL",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1303217",
+        "name": "GESTAO EDUCACIONAL",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1404310",
+        "name": "LINGUA FRANCESA INSTRUMENTAL I",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1404325",
+        "name": "LINGUA INGLESA INSTRUMENTAL I",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDLCV0141",
+        "name": "TÓPICOS ESPECIAIS",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "0h aula 210h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1404311",
+        "name": "LING FRANCESA INSTRUMENTAL II",
+        "category": "Optativa",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1404310"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1404326",
+        "name": "LÍNGUA INGLESA INSTRUMENTAL II",
+        "category": "Optativa",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1404325"
+        ],
+        "equivalences": [
+          "1404177"
+        ]
+      },
+      {
+        "id": "1301200",
+        "name": "FUNDAMENTOS SOCIOHISTÓRICOS DA EDUCAÇÃO",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1301200",
+            "turmaid": "09",
+            "nome": " FUNDAMENTOS SOCIOHISTÓRICOS DA EDUCAÇÃO",
+            "semester": "2018.2",
+            "professor": "ELIANA ALDA DE FREITAS CALADO",
+            "horario": "3N1234",
+            "local": "CAB 103 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1403110",
+        "name": "LINGUA GREGA I",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1403110",
+            "turmaid": "01",
+            "nome": " LINGUA GREGA I",
+            "semester": "2018.2",
+            "professor": "MARCO VALERIO CLASSE COLONNELLI",
+            "horario": "2N1234",
+            "local": "CCHLA 418 BLOCO A (CCHLA)"
+          },
+          {
+            "id": "1403110",
+            "turmaid": "02",
+            "nome": " LINGUA GREGA I",
+            "semester": "2018.2",
+            "professor": "ALCIONE LUCENA DE ALBERTIM",
+            "horario": "2N1234",
+            "local": "CCHLA 419 BLOCO A (CCHLA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1403180",
+        "name": "INTRODUÇÃO AOS ESTUDOS CLÁSSICOS",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1403180",
+            "turmaid": "03",
+            "nome": " INTRODUÇÃO AOS ESTUDOS CLÁSSICOS",
+            "semester": "2018.2",
+            "professor": "JUVINO ALVES MAIA JUNIOR",
+            "horario": "4N1234",
+            "local": "CAA 104 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1403316",
+        "name": "LÍNGUA LATINA I",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "45h aula 15h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1403316",
+            "turmaid": "03",
+            "nome": " LÍNGUA LATINA I",
+            "semester": "2018.2",
+            "professor": "ALCIONE LUCENA DE ALBERTIM",
+            "horario": "5N1234",
+            "local": "CCHLA 417 BLOCO A (CCHLA)"
+          },
+          {
+            "id": "1403316",
+            "turmaid": "04",
+            "nome": " LÍNGUA LATINA I",
+            "semester": "2018.2",
+            "professor": "HERMES ORIGENES DUARTE VIEIRA",
+            "horario": "5N1234",
+            "local": "CCHLA 421 BLOCO A 1º ANDAR (CCHLA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDLCV0105",
+        "name": "INTRODUÇÃO ÀS LÍNGUAS CLÁSSICAS",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDLCV0105",
+            "turmaid": "01",
+            "nome": " INTRODUÇÃO ÀS LÍNGUAS CLÁSSICAS",
+            "semester": "2018.2",
+            "professor": "MILTON MARQUES JUNIOR",
+            "horario": "6N1234",
+            "local": "CCHLA 417 BLOCO A (CCHLA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1301201",
+        "name": "FUNDAMENTOS PSICOLÓGICOS DA EDUCAÇÃO",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1301201",
+            "turmaid": "06",
+            "nome": " FUNDAMENTOS PSICOLÓGICOS DA EDUCAÇÃO",
+            "semester": "2018.2",
+            "professor": "MARIA TERESA BARROS FALCAO COELHO",
+            "horario": "3N1234",
+            "local": "CAD 104 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1403111",
+        "name": "LINGUA GREGA II",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1403111",
+            "turmaid": "01",
+            "nome": " LINGUA GREGA II",
+            "semester": "2018.2",
+            "professor": "DIOGENES MARQUES FRAZAO DE SOUZA",
+            "horario": "2N1234",
+            "local": "CCHLA 512 (CCHLA)"
+          }
+        ],
+        "prerequisites": [
+          "1403110"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1403308",
+        "name": "METODOLOGIA DO TRABALHO CIENTÍFICO",
+        "category": "Complementar Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1403308",
+            "turmaid": "03",
+            "nome": " METODOLOGIA DO TRABALHO CIENTÍFICO",
+            "semester": "2018.2",
+            "professor": "LEANDRO DOS SANTOS SOUZA e PRISCILA PINTO FABRÍCIO RIBEIRO",
+            "horario": "6N1234",
+            "local": "CAA 101 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1403345",
+        "name": "LÍNGUA LATINA II",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1403345",
+            "turmaid": "01",
+            "nome": " LÍNGUA LATINA II",
+            "semester": "2018.2",
+            "professor": "MILTON MARQUES JUNIOR",
+            "horario": "5N1234",
+            "local": "CAD 107 (PRG)"
+          }
+        ],
+        "prerequisites": [
+          "1403316"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1403373",
+        "name": "TEORIA DA LITERATURA CLASSICA",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1403373",
+            "turmaid": "01",
+            "nome": " TEORIA DA LITERATURA CLASSICA",
+            "semester": "2018.2",
+            "professor": "MARCO VALERIO CLASSE COLONNELLI",
+            "horario": "4N1234",
+            "local": "CAH 102 (PRG)"
+          }
+        ],
+        "prerequisites": [
+          "1403180"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1403370",
+        "name": "INTRODUÇÃO AOS ESTUDOS DA TRADUÇÃO LATINA",
+        "category": "Optativa",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1403345"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1403371",
+        "name": "INTRODUÇÃO AOS ESTUDOS DA TRADUÇÃO GREGA",
+        "category": "Optativa",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1403311",
+          "1403347"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1403387",
+        "name": "LITERATURA LATINA IV",
+        "category": "Optativa",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1403345",
+          "1403373"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDLCV0121",
+        "name": "COMÉDIA ANTIGA",
+        "category": "Optativa",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1403111",
+          "1403345"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDLCV0123",
+        "name": "CULTURA DO PERÍODO CLÁSSICO",
+        "category": "Optativa",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1403111",
+          "1403345"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDLCV0124",
+        "name": "EDUCAÇÃO NA ANTIGUIDADE",
+        "category": "Optativa",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1403111",
+          "1403345"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDLCV0125",
+        "name": "ELEGIA ANTIGA",
+        "category": "Optativa",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1403111",
+          "1403345"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDLCV0126",
+        "name": "EPIGRAMA ANTIGO",
+        "category": "Optativa",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1403111",
+          "1403345"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDLCV0127",
+        "name": "EPOPEIA ANTIGA",
+        "category": "Optativa",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1403111",
+          "1403345"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDLCV0128",
+        "name": "FÁBULA ANTIGA",
+        "category": "Optativa",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1403111",
+          "1403345"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDLCV0129",
+        "name": "GRAMÁTICA ANTIGA",
+        "category": "Optativa",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1403111",
+          "1403345"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDLCV0130",
+        "name": "PERMANÊNCIA DA CULTURA CLÁSSICA",
+        "category": "Optativa",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1403111",
+          "1403345"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDLCV0131",
+        "name": "POESIA BUCÓLICA ANTIGA",
+        "category": "Optativa",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1403111",
+          "1403345"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDLCV0132",
+        "name": "POESIA DIDÁTICA ANTIGA",
+        "category": "Optativa",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1403111",
+          "1403345"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDLCV0133",
+        "name": "POESIA LÍRICA ANTIGA",
+        "category": "Optativa",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1403111",
+          "1403345"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDLCV0134",
+        "name": "RETÓRICA ANTIGA",
+        "category": "Optativa",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1403111",
+          "1403345"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDLCV0135",
+        "name": "ROMANCE ANTIGO",
+        "category": "Optativa",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1403111",
+          "1403345"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDLCV0136",
+        "name": "SÁTIRA ANTIGA",
+        "category": "Optativa",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1403111",
+          "1403345"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDLCV0139",
+        "name": "TRAGÉDIA ANTIGA",
+        "category": "Optativa",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1403111",
+          "1403345"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1302105",
+        "name": "DIDÁTICA",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1302105",
+            "turmaid": "09",
+            "nome": " DIDÁTICA",
+            "semester": "2018.2",
+            "professor": "ISOLDA AYRES VIANA RAMOS",
+            "horario": "4N1234",
+            "local": "CAB 105 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1403376",
+        "name": "LINGUA LATINA III",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1403376",
+            "turmaid": "01",
+            "nome": " LINGUA LATINA III",
+            "semester": "2018.2",
+            "professor": "DIOGENES MARQUES FRAZAO DE SOUZA",
+            "horario": "5N1234",
+            "local": "CAH 103 (PRG)"
+          }
+        ],
+        "prerequisites": [
+          "1403345"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1403380",
+        "name": "LINGUA GREGA III",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1403380",
+            "turmaid": "01",
+            "nome": " LINGUA GREGA III",
+            "semester": "2018.2",
+            "professor": "HERMES ORIGENES DUARTE VIEIRA",
+            "horario": "2N1234",
+            "local": "CCHLA 425 BLOCO A 2º ANDAR (CCHLA)"
+          }
+        ],
+        "prerequisites": [
+          "1403111"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1403388",
+        "name": "LITERATURA GREGA I",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1403388",
+            "turmaid": "01",
+            "nome": " LITERATURA GREGA I",
+            "semester": "2018.2",
+            "professor": "MILTON MARQUES JUNIOR",
+            "horario": "3N1234",
+            "local": "CCHLA 513 (CCHLA)"
+          }
+        ],
+        "prerequisites": [
+          "1403110",
+          "1403373"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDLCV0106",
+        "name": "PESQUISA APLICADA LETRAS CLÁSSICAS",
+        "category": "Complementar Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDLCV0106",
+            "turmaid": "01",
+            "nome": " PESQUISA APLICADA LETRAS CLÁSSICAS",
+            "semester": "2018.2",
+            "professor": "HERMES ORIGENES DUARTE VIEIRA",
+            "horario": "6N1234",
+            "local": "CCHLA 508 (CCHLA)"
+          }
+        ],
+        "prerequisites": [
+          "1403308"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1403348",
+        "name": "FILOLOGIA ROMÂNICA I",
+        "category": "Optativa",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1403376"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1403377",
+        "name": "LINGUA LATINA IV",
+        "category": "Optativa",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1403376"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1403378",
+        "name": "LINGUA LATINA V",
+        "category": "Optativa",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1403376"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1403379",
+        "name": "LINGUA LATINA VI",
+        "category": "Optativa",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1403376"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1403381",
+        "name": "LINGUA GREGA IV",
+        "category": "Optativa",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1403380"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1403382",
+        "name": "PRÁTICA DE TRADUÇÃO EM LATIM",
+        "category": "Optativa",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1403382",
+            "turmaid": "01",
+            "nome": " PRÁTICA DE TRADUÇÃO EM LATIM",
+            "semester": "2018.2",
+            "professor": "JUVINO ALVES MAIA JUNIOR",
+            "horario": "5N1234",
+            "local": "CCHLA 505 (CCHLA)"
+          }
+        ],
+        "prerequisites": [
+          "1403376"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1403383",
+        "name": "PRÁTICA DE TRADUÇÃO EM GREGO",
+        "category": "Optativa",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1403383",
+            "turmaid": "01",
+            "nome": " PRÁTICA DE TRADUÇÃO EM GREGO",
+            "semester": "2018.2",
+            "professor": "JUVINO ALVES MAIA JUNIOR",
+            "horario": "2N1234",
+            "local": "CCHLA 505 (CCHLA)"
+          }
+        ],
+        "prerequisites": [
+          "1403380"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDLCV0111",
+        "name": "LÍNGUAS CLÁSSICAS NO PERÍODO MEDIEVAL",
+        "category": "Optativa",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1403380",
+          "1403376"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDLCV0112",
+        "name": "LÍNGUAS CLÁSSICAS NO PERÍODO MODERNO",
+        "category": "Optativa",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1403380",
+          "1403376"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDLCV0113",
+        "name": "PROSA GREGA EPISTOLOGRAFIA",
+        "category": "Optativa",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1403380"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDLCV0114",
+        "name": "PROSA GREGA FILOSOFIA",
+        "category": "Optativa",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1403380"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDLCV0115",
+        "name": "PROSA GREGA HISTORIOGRAFIA",
+        "category": "Optativa",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1403380"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDLCV0116",
+        "name": "PROSA GREGA ORATORIA",
+        "category": "Optativa",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1403380"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDLCV0117",
+        "name": "PROSA LATINA EPISTOLOGRAFIA",
+        "category": "Optativa",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1403376"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDLCV0118",
+        "name": "PROSA LATINA FILOSOFIA",
+        "category": "Optativa",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1403376"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDLCV0119",
+        "name": "PROSA LATINA HISTORIOGRAFIA",
+        "category": "Optativa",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1403376"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDLCV0120",
+        "name": "PROSA LATINA ORATORIA",
+        "category": "Optativa",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1403376"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDLCV0137",
+        "name": "TRADUÇÃO E LÍNGUAS CLÁSSICAS",
+        "category": "Optativa",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1403380",
+          "1403376"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDLCV0138",
+        "name": "TRADUÇÃO NA ANTIGUIDADE",
+        "category": "Optativa",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1403380",
+          "1403376"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDLCV0140",
+        "name": "PESQUISA APLICADA LETRAS CLÁSSICAS II",
+        "category": "Optativa",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "0106"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1301195",
+        "name": "FUNDAMENTOS  ANTROPOFILOSÓFICO DA EDUCAÇÃO",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1403384",
+        "name": "LITERATURA LATINA I",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1403384",
+            "turmaid": "01",
+            "nome": " LITERATURA LATINA I",
+            "semester": "2018.2",
+            "professor": "FELIPE DOS SANTOS ALMEIDA",
+            "horario": "3N1234",
+            "local": "CCHLA 505 (CCHLA)"
+          }
+        ],
+        "prerequisites": [
+          "1403316",
+          "1403373"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1403398",
+        "name": "ESTAGIO SUPERVISIONADO I LING CLAS",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "ESTÁGIO",
+        "turmas": [
+          {
+            "id": "1403398",
+            "turmaid": "01",
+            "nome": " ESTAGIO SUPERVISIONADO I LING CLAS",
+            "semester": "2018.2",
+            "professor": "FELIPE DOS SANTOS ALMEIDA",
+            "horario": "6N1234 (22/11/2018 - 10/05/2019)",
+            "local": "CAF 102 (PRG)"
+          }
+        ],
+        "prerequisites": [
+          "1403316",
+          "1403110"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1403349",
+        "name": "FILOLOGIA ROMÂNICA II",
+        "category": "Optativa",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1403348"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1303180",
+        "name": "POLITICA E GESTAO DA EDUCACAO",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1303180",
+            "turmaid": "04",
+            "nome": " POLITICA E GESTAO DA EDUCACAO",
+            "semester": "2018.2",
+            "professor": "MAURICEIA ANANIAS",
+            "horario": "3N1234",
+            "local": "CAG 102 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+          "1303208"
+        ]
+      },
+      {
+        "id": "1403389",
+        "name": "LITERATURA GREGA II",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1403389",
+            "turmaid": "01",
+            "nome": " LITERATURA GREGA II",
+            "semester": "2018.2",
+            "professor": "FELIPE DOS SANTOS ALMEIDA",
+            "horario": "4N1234",
+            "local": "CCHLA 512 (CCHLA)"
+          }
+        ],
+        "prerequisites": [
+          "1403110",
+          "1403373"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1403399",
+        "name": "ESTAGIO SUPERVISIONADO II LING CLAS",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "ESTÁGIO",
+        "turmas": [
+          {
+            "id": "1403399",
+            "turmaid": "01",
+            "nome": " ESTAGIO SUPERVISIONADO II LING CLAS",
+            "semester": "2018.2",
+            "professor": "LUCAS CONSOLIN DEZOTTI",
+            "horario": "7M1 (22/11/2018 - 10/05/2019)",
+            "local": "CCHLA 508 (CCHLA)"
+          }
+        ],
+        "prerequisites": [
+          "1403398"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1403385",
+        "name": "LITERATURA LATINA II",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1403385",
+            "turmaid": "01",
+            "nome": " LITERATURA LATINA II",
+            "semester": "2018.2",
+            "professor": "DIOGENES MARQUES FRAZAO DE SOUZA",
+            "horario": "4N1234",
+            "local": "CCHLA 505 (CCHLA)"
+          }
+        ],
+        "prerequisites": [
+          "1403316",
+          "1403373"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1403400",
+        "name": "ESTAGIO SUPERVISIONADO III LING CLAS",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "ESTÁGIO",
+        "turmas": [
+          {
+            "id": "1403400",
+            "turmaid": "01",
+            "nome": " ESTAGIO SUPERVISIONADO III LING CLAS",
+            "semester": "2018.2",
+            "professor": "LUCAS CONSOLIN DEZOTTI",
+            "horario": "7M2 (22/11/2018 - 10/05/2019)",
+            "local": "CCHLA 508 (CCHLA)"
+          }
+        ],
+        "prerequisites": [
+          "1403398"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDLS0024",
+        "name": "LIBRAS",
+        "category": "Complementar Obrigatória",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDLS0024",
+            "turmaid": "04",
+            "nome": " LIBRAS",
+            "semester": "2018.2",
+            "professor": "CAROLINA SILVA RESENDE DA NÓBREGA",
+            "horario": "3N1234",
+            "local": "CAB 105 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1403390",
+        "name": "LITERATURA GREGA III",
+        "category": "Obrigatória",
+        "semester": 7,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1403390",
+            "turmaid": "01",
+            "nome": " LITERATURA GREGA III",
+            "semester": "2018.2",
+            "professor": "MARCO VALERIO CLASSE COLONNELLI",
+            "horario": "6N1234",
+            "local": "CCHLA 505 (CCHLA)"
+          }
+        ],
+        "prerequisites": [
+          "1403110",
+          "1403373"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1403401",
+        "name": "ESTAGIO SUPERVISIONADO IV LING CLAS",
+        "category": "Obrigatória",
+        "semester": 7,
+        "workload": "60h aula 0h lab.",
+        "type": "ESTÁGIO",
+        "turmas": [
+          {
+            "id": "1403401",
+            "turmaid": "01",
+            "nome": " ESTAGIO SUPERVISIONADO IV LING CLAS",
+            "semester": "2018.2",
+            "professor": "LUCAS CONSOLIN DEZOTTI",
+            "horario": "7M3 (22/11/2018 - 10/05/2019)",
+            "local": "CCHLA 508 (CCHLA)"
+          }
+        ],
+        "prerequisites": [
+          "1403398"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDLCV0109",
+        "name": "TEMAS TRANSVERSAIS LETRAS CLÁSSICAS",
+        "category": "Complementar Obrigatória",
+        "semester": 7,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDLCV0109",
+            "turmaid": "01",
+            "nome": " TEMAS TRANSVERSAIS LETRAS CLÁSSICAS",
+            "semester": "2018.2",
+            "professor": "LUCAS CONSOLIN DEZOTTI",
+            "horario": "5N1234",
+            "local": "CCHLA 512 (CCHLA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1403402",
+        "name": "ESTAGIO SUPERVISIONADO V LING CLAS",
+        "category": "Obrigatória",
+        "semester": 8,
+        "workload": "60h aula 0h lab.",
+        "type": "ESTÁGIO",
+        "turmas": [
+          {
+            "id": "1403402",
+            "turmaid": "01",
+            "nome": " ESTAGIO SUPERVISIONADO V LING CLAS",
+            "semester": "2018.2",
+            "professor": "LUCAS CONSOLIN DEZOTTI",
+            "horario": "7M4 (22/11/2018 - 10/05/2019)",
+            "local": "CCHLA 508 (CCHLA)"
+          }
+        ],
+        "prerequisites": [
+          "1403398"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1403405",
+        "name": "LITERATURA LATINA III",
+        "category": "Obrigatória",
+        "semester": 8,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1403316",
+          "1403373"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1403396",
+        "name": "ESTUDOS COMPARATIVOS DA GRAMÁTICA GREGA E LATINA",
+        "category": "Optativa",
+        "semester": 9,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1403376",
+          "1403380"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1403397",
+        "name": "ESTUDOS COMPARATIVOS DA LITERATURA GREGA E LATINA",
+        "category": "Optativa",
+        "semester": 9,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1403111",
+          "1403345"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1403754",
+        "name": "ESTUDOS COMPARATIVOS DA GRAMÁTICA GREGA E LATINA",
+        "category": "Optativa",
+        "semester": 9,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1403755",
+        "name": "ESTUDOS COMPARATIVOS DE LITERATURA GREGA E LATINA",
+        "category": "Optativa",
+        "semester": 9,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDLCV0100",
+        "name": "CULTURA DO PERÍODO ALEXANDRINO",
+        "category": "Optativa",
+        "semester": 9,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1403111",
+          "1403345"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDLCV0101",
+        "name": "INTRODUÇÃO À MÉTRICA GREGA",
+        "category": "Optativa",
+        "semester": 9,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1403110",
+          "1403316"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDLCV0102",
+        "name": "MORFOLOGIA DA LÍNGUA GREGA",
+        "category": "Optativa",
+        "semester": 9,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1403111"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1403403",
+        "name": "ESTAGIO SUPERVISIONADO VI LING CLAS",
+        "category": "Obrigatória",
+        "semester": 9,
+        "workload": "60h aula 0h lab.",
+        "type": "ESTÁGIO",
+        "turmas": [
+          {
+            "id": "1403403",
+            "turmaid": "01",
+            "nome": " ESTAGIO SUPERVISIONADO VI LING CLAS",
+            "semester": "2018.2",
+            "professor": "LUCAS CONSOLIN DEZOTTI",
+            "horario": "7M5 (22/11/2018 - 10/05/2019)",
+            "local": "CCHLA 508 (CCHLA)"
+          }
+        ],
+        "prerequisites": [
+          "1403398"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDLCV0107",
+        "name": "TCC LETRAS CLÁSSICAS I",
+        "category": "Complementar Obrigatória",
+        "semester": 9,
+        "workload": "60h aula 0h lab.",
+        "type": "TRABALHO DE CONCLUSÃO DE CURSO",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "0106"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1403391",
+        "name": "TOPICOS ESPECIAIS EM LING LATINA",
+        "category": "Complementar Flexiva",
+        "semester": 10,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1403392",
+        "name": "TÓPICOS ESPECIAIS EM LING GREGA",
+        "category": "Complementar Flexiva",
+        "semester": 10,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1403393",
+        "name": "TOPICOS ESPECIAIS EM LITERAT LATINA",
+        "category": "Complementar Flexiva",
+        "semester": 10,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1403394",
+        "name": "TOPICOS ESPECIAIS EM LITERATURA GREGA",
+        "category": "Complementar Flexiva",
+        "semester": 10,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1403404",
+        "name": "ESTAGIO SUPERVISIONADO VII LING CLAS",
+        "category": "Obrigatória",
+        "semester": 10,
+        "workload": "60h aula 0h lab.",
+        "type": "ESTÁGIO",
+        "turmas": [
+          {
+            "id": "1403404",
+            "turmaid": "01",
+            "nome": " ESTAGIO SUPERVISIONADO VII LING CLAS",
+            "semester": "2018.2",
+            "professor": "LUCAS CONSOLIN DEZOTTI",
+            "horario": "7M6 (22/11/2018 - 10/05/2019)",
+            "local": "CCHLA 508 (CCHLA)"
+          }
+        ],
+        "prerequisites": [
+          "1403398"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDLCV0108",
+        "name": "TCC LETRAS CLÁSSICAS II",
+        "category": "Complementar Obrigatória",
+        "semester": 10,
+        "workload": "240h aula 0h lab.",
+        "type": "TRABALHO DE CONCLUSÃO DE CURSO",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "0107"
+        ],
+        "equivalences": [
+
+        ]
+      }
+    ]
+  }
+}

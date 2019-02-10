@@ -1,0 +1,1476 @@
+{
+  "curriculum": {
+    "id": "632010",
+    "codigo": "1626665",
+    "name": "CIÊNCIAS ATUARIAIS - João Pessoa - Presencial - T - BACHARELADO",
+    "faculty": "CENTRO DE CIÊNCIAS SOCIAIS E APLICADAS (CCSA) (11.00.52)",
+    "minch": "255",
+    "maxch": "420",
+    "semesters": 8,
+    "courses": [
+      {
+        "id": "1202307",
+        "name": "DIREITO TRIBUTÁRIO EM ATUARIAIS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1202307",
+            "turmaid": "01",
+            "nome": " DIREITO TRIBUTÁRIO EM ATUARIAIS",
+            "semester": "2018.2",
+            "professor": "ESTELA RAISSA MEDEIROS NUNES DA SILVA",
+            "horario": "24T45",
+            "local": "CCSA 228 (CCSA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1202326",
+        "name": "ADMINISTRAÇÃO DE PRODUÇÃO E OPERAÇÕES I",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1202327",
+        "name": "ADMINISTRAÇÃO DE PRODUÇÃO E OPERAÇÕES II",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1202328",
+        "name": "CONTABILIDADE AMBIENTAL",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1202329",
+        "name": "DIREITO TRIBUTÁRIO EM ATUARIAIS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1202330",
+        "name": "ADMINISTRAÇÃO EM MARKETING I",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1202331",
+        "name": "ADMINISTRAÇÃO EM MARKETING II",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1202332",
+        "name": "CONTABILIDADE  DE CUSTOS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1202333",
+        "name": "CONTABILIDADE PÚBLICA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1202334",
+        "name": "ORÇAMENTO EMPRESARIAL",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1202335",
+        "name": "TÓPICOS ESPECIAIS EM CIÊNCIAS ATUARIAIS I",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1202336",
+        "name": "TÓPICOS ESPECIAIS EM CIÊNCIAS ATUARIAIS II",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1403747",
+        "name": "LIBRAS  LÍNGUA BRASILEIRA DE SINAIS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDLS0024",
+        "name": "LIBRAS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1103177",
+        "name": "CÁLCULO DIFERENCIAL E INTEGRAL I",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1201153",
+        "name": "INTRODUCAO A ECONOMIA",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1202255",
+        "name": "CONTABILIDADE I",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1202293",
+        "name": "DIREITO EMPRESARIAL EM  ATUÁRIA",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1202294",
+        "name": "FUNDAMENTOS EMPRESARIAIS",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1202295",
+        "name": "INTRODUÇÃO AS CIÊNCIAS ATUARIAIS",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1202325",
+        "name": "ECONOMIA BRASILEIRA CONTEPORÂNEA",
+        "category": "Optativa",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1201153"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1103104",
+        "name": "ALGEBRA LIN GEO ANALITICA",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1103104",
+            "turmaid": "01",
+            "nome": " ALGEBRA LIN GEO ANALITICA",
+            "semester": "2018.2",
+            "professor": "VALDENILZA FERREIRA DA SILVA",
+            "horario": "35T45",
+            "local": "AMB. SL 1 (CCEN)"
+          },
+          {
+            "id": "1103104",
+            "turmaid": "02",
+            "nome": " ALGEBRA LIN GEO ANALITICA",
+            "semester": "2018.2",
+            "professor": "VALDENILZA FERREIRA DA SILVA",
+            "horario": "2N12 6N34",
+            "local": "SEM SALA5 (CCEN)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+          "1103179"
+        ]
+      },
+      {
+        "id": "1103178",
+        "name": "CALCULO DIFERENCIAL E INTEGRAL II",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1103178",
+            "turmaid": "08",
+            "nome": " CALCULO DIFERENCIAL E INTEGRAL II",
+            "semester": "2018.2",
+            "professor": "Wállace Mangueira de Sousa",
+            "horario": "24T45",
+            "local": "CAB 106 (PRG)"
+          },
+          {
+            "id": "1103178",
+            "turmaid": "12",
+            "nome": " CALCULO DIFERENCIAL E INTEGRAL II",
+            "semester": "2018.2",
+            "professor": "FREDERICO DE OLIVEIRA MATIAS",
+            "horario": "24N34",
+            "local": "CAB 103 (PRG)"
+          }
+        ],
+        "prerequisites": [
+          "1103177",
+          "1103114"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1108100",
+        "name": "CÁLCULO DAS PROBABILIDADES E  ESTATÍSTICA I",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1108100",
+            "turmaid": "06",
+            "nome": " CÁLCULO DAS PROBABILIDADES E  ESTATÍSTICA I",
+            "semester": "2018.2",
+            "professor": "FRANCISCO ELMIRO DE SOUSA FILHO e TATIENE CORREIA DE SOUZA",
+            "horario": "35T23",
+            "local": "CAE 111 (PRG)"
+          },
+          {
+            "id": "1108100",
+            "turmaid": "09",
+            "nome": " CÁLCULO DAS PROBABILIDADES E  ESTATÍSTICA I",
+            "semester": "2018.2",
+            "professor": "ANA HERMINIA ANDRADE E SILVA e JULYANA KELLY TAVARES DE ARAUJO",
+            "horario": "35N12",
+            "local": "CAB 106 (PRG)"
+          }
+        ],
+        "prerequisites": [
+          "1103177"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1201101",
+        "name": "ANÁLISE MACROECONÔMICA I",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1201101",
+            "turmaid": "02",
+            "nome": " ANÁLISE MACROECONÔMICA I",
+            "semester": "2018.2",
+            "professor": "GABRIELA BEZERRA DE MEDEIROS",
+            "horario": "2N34 4N12",
+            "local": "CCSA 232 (CCSA)"
+          },
+          {
+            "id": "1201101",
+            "turmaid": "03",
+            "nome": " ANÁLISE MACROECONÔMICA I",
+            "semester": "2018.2",
+            "professor": "ANDRE DE MATTOS MARQUES e JEVUKS MATHEUS DE ARAUJO",
+            "horario": "2T23 6T45",
+            "local": "CCSA 225 (CCSA)"
+          }
+        ],
+        "prerequisites": [
+          "1103177"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1202256",
+        "name": "CONTABILIDADE II",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1202256",
+            "turmaid": "01",
+            "nome": " CONTABILIDADE II",
+            "semester": "2018.2",
+            "professor": "MIRZA CUNHA SARAIVA",
+            "horario": "46N12",
+            "local": "LAB. CONTÁBIL II (CCSA) / CCSA 233 (CCSA)"
+          },
+          {
+            "id": "1202256",
+            "turmaid": "02",
+            "nome": " CONTABILIDADE II",
+            "semester": "2018.2",
+            "professor": "MIRZA CUNHA SARAIVA",
+            "horario": "5T1 6T123",
+            "local": "CCSA 225 (CCSA)"
+          }
+        ],
+        "prerequisites": [
+          "1202255"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1205003",
+        "name": "METODOLOGIA DO TRABALHO CIENTÍFICO",
+        "category": "Complementar Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1205003",
+            "turmaid": "14",
+            "nome": " METODOLOGIA DO TRABALHO CIENTÍFICO",
+            "semester": "2018.2",
+            "professor": "LILIANE BRAGA ROLIM HOLANDA DE SOUZA",
+            "horario": "35N34",
+            "local": "CAE 111 (PRG)"
+          },
+          {
+            "id": "1205003",
+            "turmaid": "15",
+            "nome": " METODOLOGIA DO TRABALHO CIENTÍFICO",
+            "semester": "2018.2",
+            "professor": "IZABEL FRANCA DE LIMA",
+            "horario": "3T1 4T123",
+            "local": "CAD 110 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+          "1401140",
+          "1709001",
+          "GDTH0036"
+        ]
+      },
+      {
+        "id": "1108169",
+        "name": "CALCULO DAS PROB  E ESTATISTICA IIMAT",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1108100"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1201104",
+        "name": "ANÁLISE MICROECONÔMICA I",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1103178",
+          "1201153"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1201155",
+        "name": "MERCADO FINANCEIRO E DE  CAPITAIS",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1201155",
+            "turmaid": "03",
+            "nome": " MERCADO FINANCEIRO E DE  CAPITAIS",
+            "semester": "2018.2",
+            "professor": "BRUNO FERREIRA FRASCAROLI",
+            "horario": "46N34",
+            "local": "CCSA 232 (CCSA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1202161",
+        "name": "MATEMATICA FINANCEIRA",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1202257",
+        "name": "CONTABILIDADE III",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1202256"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1202296",
+        "name": "LEGISLAÇÃO DE SEGUROS",
+        "category": "Complementar Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1202296",
+            "turmaid": "01",
+            "nome": " LEGISLAÇÃO DE SEGUROS",
+            "semester": "2018.2",
+            "professor": "ESTELA RAISSA MEDEIROS NUNES DA SILVA",
+            "horario": "25N12",
+            "local": "CCSA 232 (CCSA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1201105",
+        "name": "ANÁLISE MICROECONÔMICA II",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1201105",
+            "turmaid": "02",
+            "nome": " ANÁLISE MICROECONÔMICA II",
+            "semester": "2018.2",
+            "professor": "ADRIANO NASCIMENTO DA PAIXÃO",
+            "horario": "3N34 6N12",
+            "local": "CCSA 232 (CCSA)"
+          },
+          {
+            "id": "1201105",
+            "turmaid": "03",
+            "nome": " ANÁLISE MICROECONÔMICA II",
+            "semester": "2018.2",
+            "professor": "ADRIANO NASCIMENTO DA PAIXÃO",
+            "horario": "4T23 6T45",
+            "local": "CCSA 226 (CCSA)"
+          }
+        ],
+        "prerequisites": [
+          "1201104"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1201184",
+        "name": "INTRODUCAO A ECONOMETRIA",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1201184",
+            "turmaid": "02",
+            "nome": " INTRODUCAO A ECONOMETRIA",
+            "semester": "2018.2",
+            "professor": "CASSIO DA NOBREGA BESARRIA",
+            "horario": "35T45",
+            "local": "CCSA 225 (CCSA)"
+          }
+        ],
+        "prerequisites": [
+          "1108100"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1202258",
+        "name": "CONTABILIDADE IV",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1202258",
+            "turmaid": "03",
+            "nome": " CONTABILIDADE IV",
+            "semester": "2018.2",
+            "professor": "ORLEANS SILVA MARTINS",
+            "horario": "3T1 5T123",
+            "local": "CCSA 226 (CCSA)"
+          },
+          {
+            "id": "1202258",
+            "turmaid": "06",
+            "nome": " CONTABILIDADE IV",
+            "semester": "2018.2",
+            "professor": "ORLEANS SILVA MARTINS",
+            "horario": "3N12 5N34",
+            "local": "CCSA 232 (CCSA)"
+          }
+        ],
+        "prerequisites": [
+          "1202257"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1202297",
+        "name": "TEORIA ATUARIAL I",
+        "category": "Complementar Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1202297",
+            "turmaid": "01",
+            "nome": " TEORIA ATUARIAL I",
+            "semester": "2018.2",
+            "professor": "LUIZ CARLOS SANTOS JUNIOR",
+            "horario": "3T23 4T45",
+            "local": "CCSA 226 (CCSA)"
+          }
+        ],
+        "prerequisites": [
+          "1202295"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1202298",
+        "name": "PREVIDÊNCIA  BÁSICA E COMPLEMENTAR",
+        "category": "Complementar Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1202298",
+            "turmaid": "01",
+            "nome": " PREVIDÊNCIA  BÁSICA E COMPLEMENTAR",
+            "semester": "2018.2",
+            "professor": "ESTELA RAISSA MEDEIROS NUNES DA SILVA",
+            "horario": "2T123 4T1",
+            "local": "CCSA 226 (CCSA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1202299",
+        "name": "FINANÇAS  APLICADA I",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1202299",
+            "turmaid": "01",
+            "nome": " FINANÇAS  APLICADA I",
+            "semester": "2018.2",
+            "professor": "LUIZ FELIPE DE ARAUJO PONTES GIRAO",
+            "horario": "2N34 6N12",
+            "local": "CCSA 234 (CCSA)"
+          },
+          {
+            "id": "1202299",
+            "turmaid": "02",
+            "nome": " FINANÇAS  APLICADA I",
+            "semester": "2018.2",
+            "professor": "LUIZ FELIPE DE ARAUJO PONTES GIRAO",
+            "horario": "2T45 6T23",
+            "local": "CCSA 226 (CCSA)"
+          }
+        ],
+        "prerequisites": [
+          "1202161"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1201106",
+        "name": "ANALISE MICROECONÔMICA III",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1201105"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1201302",
+        "name": "ECONOMETRIA",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1201302",
+            "turmaid": "01",
+            "nome": " ECONOMETRIA",
+            "semester": "2018.2",
+            "professor": "ERIK ALENCAR DE FIGUEIREDO",
+            "horario": "35N12",
+            "local": "LAB. ECONOMIA (CCSA)"
+          }
+        ],
+        "prerequisites": [
+          "1201184"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1202300",
+        "name": "FINANÇAS  APLICADA II",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1202299"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1202303",
+        "name": "TEORIA  ATUARIAL  II",
+        "category": "Complementar Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1202303",
+            "turmaid": "01",
+            "nome": " TEORIA  ATUARIAL  II",
+            "semester": "2018.2",
+            "professor": "FILIPE COELHO DE LIMA DUARTE",
+            "horario": "2N12 6N34",
+            "local": "CCSA 234 (CCSA)"
+          }
+        ],
+        "prerequisites": [
+          "1202297"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1202305",
+        "name": "CONTABILIDADE ATUARIAL I",
+        "category": "Complementar Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1202258"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1202310",
+        "name": "ESTÁGIO SUPERVISIONADO I",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1202310",
+            "turmaid": "01",
+            "nome": " ESTÁGIO SUPERVISIONADO I-PRÁTICAS ATUARIAIS",
+            "semester": "2018.2",
+            "professor": "LUIZ CARLOS SANTOS JUNIOR",
+            "horario": "34N34",
+            "local": "CCSA 234 (CCSA)"
+          }
+        ],
+        "prerequisites": [
+          "1202297"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1201286",
+        "name": "ECONOMIA AMBIENTAL",
+        "category": "Optativa",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1201106",
+          "1202309"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1202301",
+        "name": "FINANÇAS  APLICADA III",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1202301",
+            "turmaid": "01",
+            "nome": " FINANÇAS  APLICADA III",
+            "semester": "2018.2",
+            "professor": "EPITACIO EZEQUIEL DE MEDEIROS",
+            "horario": "36N34",
+            "local": "CCSA 212 (CCSA)"
+          },
+          {
+            "id": "1202301",
+            "turmaid": "02",
+            "nome": " FINANÇAS  APLICADA III",
+            "semester": "2018.2",
+            "professor": "EPITACIO EZEQUIEL DE MEDEIROS",
+            "horario": "2T45 5T23",
+            "local": "CCSA 227 (CCSA)"
+          }
+        ],
+        "prerequisites": [
+          "1202300"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1202302",
+        "name": "MATEMÁTICA  ATUARIAL I",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1202302",
+            "turmaid": "02",
+            "nome": " MATEMÁTICA  ATUARIAL I",
+            "semester": "2018.2",
+            "professor": "LUIZ CARLOS SANTOS JUNIOR",
+            "horario": "3T45 4T23",
+            "local": "CCSA 227 (CCSA)"
+          },
+          {
+            "id": "1202302",
+            "turmaid": "03",
+            "nome": " MATEMÁTICA  ATUARIAL I",
+            "semester": "2018.2",
+            "professor": "LUIZ CARLOS SANTOS JUNIOR",
+            "horario": "34N12",
+            "local": "CAD 110 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1202306",
+        "name": "CONTABILIDADE  ATUARIAL II",
+        "category": "Complementar Obrigatória",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1202306",
+            "turmaid": "01",
+            "nome": " CONTABILIDADE  ATUARIAL II",
+            "semester": "2018.2",
+            "professor": "ANA KARLA DE LUCENA GOMES",
+            "horario": "4N12 5N34",
+            "local": "CCSA 234 (CCSA)"
+          },
+          {
+            "id": "1202306",
+            "turmaid": "02",
+            "nome": " CONTABILIDADE  ATUARIAL II",
+            "semester": "2018.2",
+            "professor": "ANA KARLA DE LUCENA GOMES",
+            "horario": "45T45",
+            "local": "CCSA 227 (CCSA)"
+          }
+        ],
+        "prerequisites": [
+          "1202305"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1202311",
+        "name": "ESTÁGIO SUPERVISIONADO II",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1202311",
+            "turmaid": "01",
+            "nome": " ESTÁGIO SUPERVISIONADO II-SEGUROS, CAPITALIZAÇÃO E RESSEGURO",
+            "semester": "2018.2",
+            "professor": "FILIPE COELHO DE LIMA DUARTE",
+            "horario": "2T123 3T1",
+            "local": "CCSA 227 (CCSA)"
+          }
+        ],
+        "prerequisites": [
+          "1202296",
+          "1202310"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1202321",
+        "name": "ANÁLISE DAS DEMONSTRAÇÕES CONTÁBEIS",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1202321",
+            "turmaid": "01",
+            "nome": " ANÁLISE DAS DEMONSTRAÇÕES CONTÁBEIS",
+            "semester": "2018.2",
+            "professor": "VICTORIA PUNTRIANO ZUNIGA DE MELO",
+            "horario": "3T23 6T45",
+            "local": "CCSA 227 (CCSA)"
+          }
+        ],
+        "prerequisites": [
+          "1202258"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1202322",
+        "name": "PESQUISA APLICÀS CIÊNCIAS ATUARIAIS",
+        "category": "Complementar Obrigatória",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1202322",
+            "turmaid": "01",
+            "nome": " PESQUISA APLICÀS CIÊNCIAS ATUARIAIS",
+            "semester": "2018.2",
+            "professor": "ANNA PAOLA FERNANDES FREIRE",
+            "horario": "2N34 6N12",
+            "local": "CAF 107 (PRG)"
+          },
+          {
+            "id": "1202322",
+            "turmaid": "02",
+            "nome": " PESQUISA APLICÀS CIÊNCIAS ATUARIAIS",
+            "semester": "2018.2",
+            "professor": "ANNA PAOLA FERNANDES FREIRE",
+            "horario": "5T1 6T123",
+            "local": "CCSA 227 (CCSA)"
+          }
+        ],
+        "prerequisites": [
+          "1205003"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1103180",
+        "name": "SERIES E EQUACOES DIF ORDINARIAS",
+        "category": "Obrigatória",
+        "semester": 7,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1103178"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1202304",
+        "name": "MATEMÁTICA ATUARIAL II",
+        "category": "Obrigatória",
+        "semester": 7,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1202302"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1202312",
+        "name": "ESTÁGIO SUPERVISIONADO III",
+        "category": "Obrigatória",
+        "semester": 7,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1202306",
+          "1202311"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1202317",
+        "name": "ÉTICA GERAL E PROFISSIONAL EM ATUARIAL",
+        "category": "Complementar Obrigatória",
+        "semester": 7,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1202317",
+            "turmaid": "01",
+            "nome": " ÉTICA GERAL E PROFISSIONAL EM ATUARIAL",
+            "semester": "2018.2",
+            "professor": "IONARA STEFANI VIANA DE OLIVEIRA",
+            "horario": "45N34",
+            "local": "CCSA 233 (CCSA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1202323",
+        "name": "TRABALHO DE CONCLUSÃO I",
+        "category": "Complementar Obrigatória",
+        "semester": 7,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1202323",
+            "turmaid": "02",
+            "nome": " TRABALHO DE CONCLUSÃO I",
+            "semester": "2018.2",
+            "professor": "IONARA STEFANI VIANA DE OLIVEIRA",
+            "horario": "2N34 4N12",
+            "local": "CCSA 212 (CCSA)"
+          }
+        ],
+        "prerequisites": [
+          "1202322"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1202313",
+        "name": "ESTÁGIO SUPERVISIONADO IV",
+        "category": "Obrigatória",
+        "semester": 8,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1202313",
+            "turmaid": "02",
+            "nome": " MATEMÁTICA ATUARIAL III",
+            "semester": "2018.2",
+            "professor": "FILIPE COELHO DE LIMA DUARTE",
+            "horario": "2N34 6N12",
+            "local": "CAE 108 (PRG)"
+          }
+        ],
+        "prerequisites": [
+          "1202304",
+          "1202312"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1202316",
+        "name": "ELABORAÇÃO E ANÁLISE DE PROJETOS",
+        "category": "Complementar Obrigatória",
+        "semester": 8,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1202316",
+            "turmaid": "01",
+            "nome": " ELABORAÇÃO E ANÁLISE DE PROJETOS",
+            "semester": "2018.2",
+            "professor": "IONARA STEFANI VIANA DE OLIVEIRA",
+            "horario": "25N12",
+            "local": "CCSA 205 (CCSA)"
+          },
+          {
+            "id": "1202316",
+            "turmaid": "02",
+            "nome": " ELABORAÇÃO E ANÁLISE DE PROJETOS",
+            "semester": "2018.2",
+            "professor": "IONARA STEFANI VIANA DE OLIVEIRA",
+            "horario": "2T123 5T1",
+            "local": "CCSA 228 (CCSA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1202319",
+        "name": "DEMOGRAFIA  APLICADA A ATUÁRIA",
+        "category": "Complementar Obrigatória",
+        "semester": 8,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1202319",
+            "turmaid": "01",
+            "nome": " DEMOGRAFIA  APLICADA A ATUÁRIA",
+            "semester": "2018.2",
+            "professor": "VICTOR HUGO DIAS DIOGENES",
+            "horario": "35N12",
+            "local": "CCSA 234 (CCSA)"
+          },
+          {
+            "id": "1202319",
+            "turmaid": "02",
+            "nome": " DEMOGRAFIA  APLICADA A ATUÁRIA",
+            "semester": "2018.2",
+            "professor": "VICTOR HUGO DIAS DIOGENES",
+            "horario": "35T23",
+            "local": "CCSA 228 (CCSA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1202324",
+        "name": "TRABALHO DE CONCLUSÃO II",
+        "category": "Complementar Obrigatória",
+        "semester": 8,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1202324",
+            "turmaid": "01",
+            "nome": " TRABALHO DE CONCLUSÃO II",
+            "semester": "2018.2",
+            "professor": "ANNA PAOLA FERNANDES FREIRE",
+            "horario": "2N12 6N34",
+            "local": "CAE 104 (PRG)"
+          },
+          {
+            "id": "1202324",
+            "turmaid": "02",
+            "nome": " TRABALHO DE CONCLUSÃO II",
+            "semester": "2018.2",
+            "professor": "ANNA PAOLA FERNANDES FREIRE",
+            "horario": "3T1 4T123",
+            "local": "CCSA 228 (CCSA)"
+          }
+        ],
+        "prerequisites": [
+          "1202323"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "5103042",
+        "name": "INTRODUÇÃO A PROGRAMAÇÃO",
+        "category": "Obrigatória",
+        "semester": 8,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "5103042",
+            "turmaid": "01",
+            "nome": " INTRODUÇÃO A PROGRAMAÇÃO",
+            "semester": "2018.2",
+            "professor": "CARLOS ALBERTO NUNES MACHADO",
+            "horario": "35N34",
+            "local": "CAA 104 (PRG)"
+          },
+          {
+            "id": "5103042",
+            "turmaid": "03",
+            "nome": " INTRODUÇÃO A PROGRAMAÇÃO",
+            "semester": "2018.2",
+            "professor": "VITOR MENEGHETTI UGULINO DE ARAUJO",
+            "horario": "35T45",
+            "local": "CAA 105 (PRG)"
+          }
+        ],
+        "prerequisites": [
+          "1202302"
+        ],
+        "equivalences": [
+
+        ]
+      }
+    ]
+  }
+}

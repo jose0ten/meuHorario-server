@@ -1,0 +1,1976 @@
+{
+  "curriculum": {
+    "id": "111998",
+    "codigo": "1626656",
+    "name": "COMUNICAÇÃO SOCIAL - João Pessoa - Presencial - RADIALISMO - MT - BACHARELADO",
+    "faculty": "CENTRO DE COMUNICAÇÃO, TURISMO E ARTES (CCTA) (11.00.66)",
+    "minch": "195",
+    "maxch": "510",
+    "semesters": 8,
+    "courses": [
+      {
+        "id": "1202251",
+        "name": "ATIVIDADE DE EXTENSAO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1203157",
+        "name": "INTRODUCAO A DOCUMENTACAO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1204140",
+        "name": "INTRODUCAO A ADMINISTRACAO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+          "GDTH0028"
+        ]
+      },
+      {
+        "id": "1301111",
+        "name": "FUND BIOL DA EDUCACAO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "75h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1401104",
+        "name": "ANTROPOLOGIA CULTURAL",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1401114",
+        "name": "CIENCIA POLITICA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1401120",
+        "name": "CULTURA BRASILEIRA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1401121",
+        "name": "CULTURA BRASILEIRA I",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1402288",
+        "name": "ESTAGIO EXTRA CURRICULAR",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1405108",
+        "name": "INTRODUCAO A PSICOLOGIA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1405124",
+        "name": "PSICOLOGIA DA CRIATIVIDADE",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1405145",
+        "name": "PSICOLOGIA SOCIAL",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1406101",
+        "name": "AGENCIAS DE NOTICIAS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1406102",
+        "name": "ANALISE DE PROD DE COMUNIC",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1406103",
+        "name": "ANALISE VEIC COMUNICACAO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1406105",
+        "name": "ASSESSORIA COMUN NO NORDESTE",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1406106",
+        "name": "ASSESSORIA DE IMPRENSA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1406109",
+        "name": "CINEMA I",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "75h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1406122",
+        "name": "COMUNICACAO EMP REL PUBLIC",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1406123",
+        "name": "COMUNICACAO INST REL PUBLI",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1406124",
+        "name": "COMUNICACAO INTERPESSOAL",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1406128",
+        "name": "COMUNICACAO RURAL",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1406131",
+        "name": "CRITICA CINEMATOGRAFICA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1406132",
+        "name": "CRITICA TEATRAL",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1406136",
+        "name": "DOCUMENTO CINEMATOGRAFICO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1406145",
+        "name": "ESTUDO DE PROC E PRODUTOS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1406146",
+        "name": "ESTUDO ORIENT EM COMUNICACAO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1406153",
+        "name": "FOLKCOMUNICACAO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1406155",
+        "name": "FOTOGRAFIA REL PUBL",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "75h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1406172"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1406162",
+        "name": "HISTORIA DO CINEMA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1406181",
+        "name": "JORNALISMO ESPECIALIZ II",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1406186",
+        "name": "JORNALISMOS ESPECIALIZADOS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1406200",
+        "name": "LINGUAGEM MUSIC EM RADIO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1406201",
+        "name": "LINGUAGEM MUSIC EM TV",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1406205",
+        "name": "MIDIA EM REL PUBLICAS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1406207",
+        "name": "NOVAS TECN EM COMUNICACAO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1406208",
+        "name": "OFICINA BASICA DE TEATRO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1406211",
+        "name": "OFICINA DE FOTOGRAFIA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1406217",
+        "name": "PLANEJAMENTO EM COMUNIC",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1406218",
+        "name": "PLANEJAMETO CAMP PU E PROP",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1406219",
+        "name": "PLANEJAMENTO EV REL PUBLICA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1406221",
+        "name": "PRATICA DE PESQ EM COMUNIC",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1406228",
+        "name": "PRODUTOS AUDIOVISUAIS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1406232",
+        "name": "PUBLICIDADE E PROPAGANDA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1406233",
+        "name": "RADIO NA PARAIBA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1406234",
+        "name": "RADIO NO BRASIL",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1406238",
+        "name": "RELACOES PUBLICAS E HUMANA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1406244",
+        "name": "SEMINARIO DE ATUAL EM COMU",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1406246",
+        "name": "TECNICA RELACOES PUB I",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "90h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1406262",
+        "name": "TOP ESPCOMUNICII PARTE",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1406264",
+        "name": "TOPICOS DE JOR PEQ MEIOS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1406267",
+        "name": "TOPICOS EM COMUNICACAO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1406268",
+        "name": "TOPICOS EM FOTOGRAFIA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1406270",
+        "name": "TOPICOS EM JORNALISMO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1406272",
+        "name": "TOPICOS EM TEOR DA COMUNIC",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1406274",
+        "name": "TOPICOS ESP EM RADIOJORN",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1406275",
+        "name": "TOPICOS ESP EM TELEJORN",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1406276",
+        "name": "TOPICOS ESPECIAIS CINEMA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1406277",
+        "name": "TOPICOS ESPECIAIS EM RADIO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1406278",
+        "name": "TOPICOS ESPECIAIS EM TV",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1406279",
+        "name": "TOPICOS ESPECIAIS PESQ COM",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1406282",
+        "name": "TV NO BRASIL",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1406284",
+        "name": "TOPICOS ESP EM COMUNICACAO R P",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1406335",
+        "name": "COMUNICACAO ORAL",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1406337",
+        "name": "ORGANIZACAO DE PROD EM RADIALISMO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1406338",
+        "name": "NOVAS TECNOLOGIA EM RADIALISMO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1406339",
+        "name": "PESQUISA EM RADIALISMO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1406340",
+        "name": "PUBLICIDADE E PROPAGANDA EM TELEVISAO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1406341",
+        "name": "PUBLICIDADE E PROPAGANDA EM RADIO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1406342",
+        "name": "POETICA DA IMAGEM",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1406343",
+        "name": "NOVAS FRONT DA TELEVISAOTV INTERATIVA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1406345",
+        "name": "TECNOLOGIA EDUCACIONAL  SOMIMAGEM",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1410131",
+        "name": "HISTORIA DA ARTE",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1414006",
+        "name": "DICCAO EM RADIO E TELEVISAO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1414008",
+        "name": "ESTUDO DE PROC E PRODUTOS WEB DESIGN",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1414058",
+        "name": "PRODUÇÃO DE EFEITOS DIGITAIS PARA A TV",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1609247",
+        "name": "EDUCACAO FISICA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "2303092",
+        "name": "COMUNICAÇÃO E IDENTIDADE CULTURAL",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "2303136",
+        "name": "PUBLICIDADE E PROPAGANDA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "2303143",
+        "name": "CONSULTORIA E ASSESSORIA DE COMUNICAÇÃO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "2303159",
+        "name": "DOCUMENTÁRIO AUDIOVISUAL",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "2303233",
+        "name": "LINGUAGEM TELEVISIVA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1401134",
+        "name": "INTRODUCAO A SOCIOLOGIA",
+        "category": "Complementar Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1403120",
+        "name": "LINGUA PORTUGUESA I",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "75h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1406126",
+        "name": "COMUNICACAO R S POL CULT BRASILEIRA",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "75h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1406151",
+        "name": "FILOSOFIA DA COMUNICACAO",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1414007",
+        "name": "INTRODUCAO A COMUNICACAO",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "75h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1403118",
+        "name": "LINGUA PORTII RED EXORAL",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1403120"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1404138",
+        "name": "LINGUA INGLESA I",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "75h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+          "1404325"
+        ]
+      },
+      {
+        "id": "1406256",
+        "name": "TEORIA DA COMUNICACAO I",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "75h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1406172",
+          "1414007"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1406332",
+        "name": "FOTOGRAFIA I",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1403117",
+        "name": "LINGUA PORTUGUESA III RE EX ORAL",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1403118"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1406127",
+        "name": "COMUNICACAO R S POL C REG",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "75h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1406257",
+        "name": "TEORIA DA COMUNICACAO II",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "75h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1406256"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1406259",
+        "name": "TEORIA E MET PESQ EM COMUN",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "105h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1406297",
+        "name": "FOTOGRAFIA II",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1406332",
+          "1406154",
+          "1414001"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1406119",
+        "name": "COMUNICACAO COMPARADA",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "75h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1406257"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1406298",
+        "name": "ELEM DE LING MUS E SONOPLASTIA",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "75h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1406299",
+        "name": "ESTETICA  SOMIMAGEM",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1406402",
+        "name": "LÍNGUA PORTUGUESA IV",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1403117"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1406300",
+        "name": "TECNOLOGIA EM RADIO E TV",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1406301",
+        "name": "JORNALISMO ELETRONICO RADIO E TV",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1406302",
+        "name": "DIRECAO DE PROGRAMA DE TELEVISAO I",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "90h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1406298",
+          "1406299"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1406304",
+        "name": "DIRECAO DE PROGRAMA DE RADIO I",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "90h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1406298",
+          "1406299"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1406403",
+        "name": "LÍNGUA PORTUGUESA V",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1414010",
+          "1406402",
+          "1406333"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1406120",
+        "name": "COMUNICACAO COMUNITARIA",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1406257"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1406303",
+        "name": "DIRECAO DE PROGRAMA DE TELEVISAO II",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "90h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1406302",
+          "1414005"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1406305",
+        "name": "DIRECAO DE PROGRAMA DE RADIO II",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "90h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1406304"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1406306",
+        "name": "ADMINISTRACAO DE EMPRESAS DE RADIODIFUSÃO",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1406309",
+        "name": "LEGISLACAO E ETICA EM RADIALISMO",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1406344",
+        "name": "MIDIAS ALTERNATIVAS",
+        "category": "Optativa",
+        "semester": 7,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1406346",
+        "name": "DICCAO EM RADIO E TELEVISAO",
+        "category": "Optativa",
+        "semester": 7,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1406351",
+        "name": "RELACOES PUBLICAS PARA TURISMO",
+        "category": "Optativa",
+        "semester": 7,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1406308",
+        "name": "TECNICAS DE MERC EM RADIOTV",
+        "category": "Obrigatória",
+        "semester": 7,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1406230",
+        "name": "PROJETOS EXPERIMENTAIS",
+        "category": "Obrigatória",
+        "semester": 8,
+        "workload": "0h aula 270h lab.",
+        "type": "TRABALHO DE CONCLUSÃO DE CURSO",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      }
+    ]
+  }
+}

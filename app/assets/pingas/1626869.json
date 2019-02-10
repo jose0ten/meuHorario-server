@@ -1,0 +1,2591 @@
+{
+  "curriculum": {
+    "id": "452007",
+    "codigo": "1626869",
+    "name": "CIÊNCIAS SOCIAIS - João Pessoa - Presencial - N - LICENCIATURA PLENA",
+    "faculty": "CENTRO DE CIÊNCIAS HUMANAS, LETRAS E ARTES (CCHLA) (11.00.53)",
+    "minch": "135",
+    "maxch": "375",
+    "semesters": 9,
+    "courses": [
+      {
+        "id": "1108104",
+        "name": "ESTATISTICA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1301103",
+        "name": "ECONOMIA DA EDUCACAO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1301112",
+        "name": "FUNDAMENTO BIOL EDUCACAO  UV",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1301146",
+        "name": "FUND ADM EDUCACAO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1301146",
+            "turmaid": "01",
+            "nome": " FUND ADM EDUCACAO",
+            "semester": "2018.2",
+            "professor": "MARISETE FERNANDES DE LIMA",
+            "horario": "2N1234",
+            "local": "CAD 103 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1301150",
+        "name": "EDUCACAO SEXUAL",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1301151",
+        "name": "ANTROPOLOGIA EDUCACIONAL",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1301217",
+        "name": "SOCIOLOGIA DA EDUCACAO I",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1302102",
+        "name": "AVALIACAO DA APRENDIZAGEM",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1302128",
+        "name": "INTRODUÇÃO AOS RECURSOS AUDIOVISUAIS EM EDUCAÇÃO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1302241",
+        "name": "ALFABETIZACAO DE JOVENS E ADULTOS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1302292",
+        "name": "EDUCACAO E MOVIMENTOS SOCIAIS MSC",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1302304",
+        "name": "AVALIACAO DA APRENDIZAGEM",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1302305",
+        "name": "SEMINÁRIO DE PROBLEMAS  ATUAIS DA EDUCAÇÃO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1302305",
+            "turmaid": "01",
+            "nome": " SEMINÁRIO DE PROBLEMAS  ATUAIS DA EDUCAÇÃO",
+            "semester": "2018.2",
+            "professor": "DANIEL VALERIO MARTINS",
+            "horario": "2N1234",
+            "local": "CE 309 (CE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1302309",
+        "name": "SEMINARIO EM EDUCACAO AMBIENTAL",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1302324",
+        "name": "ALFABETIZACAO DE JOVENS E ADULTOS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1302324",
+            "turmaid": "01",
+            "nome": " ALFABETIZACAO DE JOVENS E ADULTOS",
+            "semester": "2018.2",
+            "professor": "QUÉZIA VILA FLOR FURTADO",
+            "horario": "3N1234",
+            "local": "CE 305 (CE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1302325",
+        "name": "EDUCAÇÃO E MOVIMENTOS SOCIAIS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1302507",
+        "name": "EDUCAÇÃO E MOVIMENTOS SOCIAIS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1303195",
+        "name": "PLANEJAMENTO E GESTÃO ESCOLAR",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1303196",
+        "name": "CURRICULO E TRABALHO PEDAGOGICO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1303197",
+        "name": "PESQUISA E COTIDIANO ESCOLAR",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1303197",
+            "turmaid": "03",
+            "nome": " PESQUISA E COTIDIANO ESCOLAR",
+            "semester": "2018.2",
+            "professor": "GIULIANA CAVALCANTI VASCONCELOS",
+            "horario": "5N1234",
+            "local": "CAH 101 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1401101",
+        "name": "ANTROPOLOGIA SOC COMPLEXAS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1401113",
+        "name": "ANTROPOLOGIA URBANA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1401123",
+        "name": "ESTADO E POLIT PUBLICAS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1401123",
+            "turmaid": "02",
+            "nome": " ESTADO E POLIT PUBLICAS",
+            "semester": "2018.2",
+            "professor": "ITALO FITTIPALDI",
+            "horario": "3N1234",
+            "local": "CCHLA 421 BLOCO A 1º ANDAR (CCHLA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1401153",
+        "name": "SOCIOLOGIA DA ARTE",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1401154",
+        "name": "SOCIOLOGIA DA CULTURA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1401154",
+            "turmaid": "01",
+            "nome": " SOCIOLOGIA DA CULTURA",
+            "semester": "2018.2",
+            "professor": "THIAGO PANICA PONTES",
+            "horario": "6M2345",
+            "local": "CAE 108 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1401156",
+        "name": "SOCIOLOGIA DA RELIGIAO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1401159",
+        "name": "SOCIOLOGIA DO DESENVOLVIMENTO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1401161",
+        "name": "SOCIOLOGIA DO TRABALHO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1401161",
+            "turmaid": "07",
+            "nome": " SOCIOLOGIA DO TRABALHO",
+            "semester": "2018.2",
+            "professor": "ROBERTO VERAS DE OLIVEIRA",
+            "horario": "5N1234",
+            "local": "AMBIENTE  Inglês Instrumental 05 (CCHLA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1401168",
+        "name": "SOCIOLOGIA RURAL",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1401168",
+            "turmaid": "01",
+            "nome": " SOCIOLOGIA RURAL",
+            "semester": "2018.2",
+            "professor": "PATRICIA ALVES RAMIRO",
+            "horario": "5M2345",
+            "local": "CAH 105 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1401169",
+        "name": "SOCIOLOGIA URBANA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+          "1401349"
+        ]
+      },
+      {
+        "id": "1401180",
+        "name": "TOP ESP CIENC POLITICA I",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1401181",
+        "name": "TOP ESPECIAIS ANTROPOLOGIA I",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1401182",
+        "name": "TOP ESPECIAIS SOCIOLOGIA I",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1401182",
+            "turmaid": "01",
+            "nome": " TOP ESPECIAIS SOCIOLOGIA I",
+            "semester": "2018.2",
+            "professor": "SIMONE MAGALHAES BRITO",
+            "horario": "6N1234",
+            "local": "CAF 101 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1401222",
+        "name": "METODOS DE PESQUISA QUALITATIVA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1401222",
+            "turmaid": "01",
+            "nome": " METODOS DE PESQUISA QUALITATIVA",
+            "semester": "2018.2",
+            "professor": "TEREZA CORREIA DA NOBREGA QUEIROZ",
+            "horario": "5M2345",
+            "local": "TS-2 (CCHLA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1401245",
+        "name": "TOP ESPECIAIS EM SOCIOLOGIA II",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1401247",
+        "name": "TOP ESPECIAIS EM ANTROPOLOGIA II",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1401247",
+            "turmaid": "01",
+            "nome": " TOP ESPECIAIS EM ANTROPOLOGIA II",
+            "semester": "2018.2",
+            "professor": "RITA DE CASSIA MELO SANTOS",
+            "horario": "3N1234",
+            "local": "CAH 102 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1401255",
+        "name": "ANTROPOLOGIA DA SAUDE",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1401268",
+        "name": "MENSURACAO E ANALISE DE DADOS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1401269",
+        "name": "PESQ ANTROPOLOGICA I  A ETNOGRAFIA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1401270",
+        "name": "PESQ ANTROPOLOGICA II  MET E TECNICAS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1401271",
+        "name": "ORGANIZACAO SOCIAL E PARENTESCO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1401271",
+            "turmaid": "01",
+            "nome": " ORGANIZACAO SOCIAL E PARENTESCO",
+            "semester": "2018.2",
+            "professor": "EDNALVA MACIEL NEVES",
+            "horario": "4M2345",
+            "local": "CAH 105 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1401272",
+        "name": "TEORIAS DA DEMOCRACIA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1401272",
+            "turmaid": "02",
+            "nome": " TEORIAS DA DEMOCRACIA",
+            "semester": "2018.2",
+            "professor": "ANA EDITE RIBEIRO MONTOIA",
+            "horario": "5M2345",
+            "local": "CAF 110 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1401273",
+        "name": "SISTEMAS POLITICOPARTIDARIOS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1401274",
+        "name": "SOCIOLOGIA POLITICA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1401285",
+        "name": "ANTROPOLOGIA ECONOMICA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1401286",
+        "name": "ANTROPOLOGIA DA RELIGIAO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1401287",
+        "name": "ANTROPOLOGIA DAS IDADES",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1401288",
+        "name": "ANTROPOOGIA DAS EMOÇOES",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1401289",
+        "name": "ANTROPOLOGIA DAS POPULAÇOES TRADICIONAIS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1401290",
+        "name": "ANTROPOLOGIA E CULTURAS POPULARES",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1401291",
+        "name": "ANTROPOLOGIA DO CONSUMO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1401292",
+        "name": "ANTROPOLOGIA VISUAL E DA IMAGEM",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1401293",
+        "name": "CULTURA E MEIO AMBIENTE",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1401294",
+        "name": "ESTUDOS AFROBRASILEIROS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1401295",
+        "name": "ETNOLOGIA INDIGENA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1401296",
+        "name": "FAMILIA E RELAÇOES DE GENERO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1401296",
+            "turmaid": "01",
+            "nome": " FAMILIA E RELAÇOES DE GENERO",
+            "semester": "2018.2",
+            "professor": "MONICA LOURDES FRANCH GUTIERREZ",
+            "horario": "3M2345",
+            "local": "CAF 104 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1401297",
+        "name": "RELAÇOES ETNICORACIAIS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1401298",
+        "name": "SISTEMAS SIMBOLICOS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1401299",
+        "name": "DEMOCRACIA NO BRASIL CONTEMPORANEO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1401300",
+        "name": "ESTADO GOVERNO E POLITICA CONTEMPORANEA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1401301",
+        "name": "EST DE POL COMP ESTADO NAS AMERICAS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1401302",
+        "name": "EST POL HISTORIA E TEORIA POLITICA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1401303",
+        "name": "ESTADO TRABALHO E POL SOCIAIS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1401304",
+        "name": "LIBERALISMO SOCIALISMO E DEMOCRACIA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1401305",
+        "name": "MARXISMOS E O ESTADO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1401307",
+        "name": "PENSAMENTO POLITICO BRASILEIRO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1401307",
+            "turmaid": "02",
+            "nome": " PENSAMENTO POLITICO BRASILEIRO",
+            "semester": "2018.2",
+            "professor": "JOSE HENRIQUE ARTIGAS DE GODOY",
+            "horario": "2M2345",
+            "local": "CAE 104 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1401308",
+        "name": "PENSAMENTO POLITICO LIBERAL",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1401309",
+        "name": "PENSAMENTO POLITICO DE MARX",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1401310",
+        "name": "TEORIA POLITICA CONTEMPORANEA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1401311",
+        "name": "TEORIA POLITICA MODERNA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1401312",
+        "name": "TEORIAS DA REPRESENTAÇAO POLITICA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1401312",
+            "turmaid": "01",
+            "nome": " TEORIAS DA REPRESENTAÇAO POLITICA",
+            "semester": "2018.2",
+            "professor": "SAMIR PERRONE DE MIRANDA",
+            "horario": "4N1234",
+            "local": "CAF 103 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1401313",
+        "name": "SOCIOLOGIA AMBIENTAL APLICADA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1401314",
+        "name": "SOCIOLOGIA BRASILEIRA II",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1401315",
+        "name": "SOCIOLOGIA DA CIENCIA E DO CONHECIMENTO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1401316",
+        "name": "SOCIOLOGIA DA COMUNICAÇAO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1401317",
+        "name": "SOCIOLOGIA DO CRIME E DO DESVIO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1401318",
+        "name": "DESIGUALDADE SOCIAL",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1401319",
+        "name": "GENERO SEXUALIDADE E FAMILIA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1401320",
+        "name": "SOCIOLOGIA DA JUVENTUDE",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1401321",
+        "name": "NACIONALISMO E POSCOLONIALISMO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1401322",
+        "name": "SOCIOLOGIA DAS ORGANIZAÇOES",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1401323",
+        "name": "SOCIOLOGIA DA SAUDE E DA DOENÇA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1401324",
+        "name": "SOCIOLOGIA DA TECNOLOGIA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1401327",
+        "name": "ANTROPOLOGIA POLITICA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1401332",
+        "name": "TOP ESP CIENCIA POLITICA II",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1408244",
+        "name": "HISTORIA SOC E POLITICA DO BRASIL I",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1408245",
+        "name": "HISTORIA SOC E POLITICA DO BRASIL II",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1408245",
+            "turmaid": "01",
+            "nome": " HISTORIA SOC E POLITICA DO BRASIL II",
+            "semester": "2018.2",
+            "professor": "PAULO GIOVANI ANTONINO NUNES",
+            "horario": "3M2345",
+            "local": "CCHLA 419 BLOCO A (CCHLA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1205003",
+        "name": "METODOLOGIA DO TRABALHO CIENTÍFICO",
+        "category": "Complementar Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+          "1401140",
+          "1709001",
+          "GDTH0036"
+        ]
+      },
+      {
+        "id": "1401218",
+        "name": "FUNDAMENTOS DO PENS POLITICO",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1401219",
+        "name": "FUNDAMENTOS DO PENS SOCIOLOGICO",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1401256",
+        "name": "FUNDAMENTOS DO PENS ANTROPOLOGICO I",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1402240",
+        "name": "INTRODUCAO A FILOSOFIA",
+        "category": "Complementar Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1301244",
+        "name": "ECONOMIA DA EDUCACAO",
+        "category": "Optativa",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1301195",
+        "name": "FUNDAMENTOS  ANTROPOFILOSÓFICO DA EDUCAÇÃO",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1301195",
+            "turmaid": "12",
+            "nome": " FUNDAMENTOS  ANTROPOFILOSÓFICO DA EDUCAÇÃO",
+            "semester": "2018.2",
+            "professor": "LUIZ GONZAGA GONCALVES",
+            "horario": "3N1234",
+            "local": "CAE 110 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1401214",
+        "name": "FORMACAO DO ESTADO MODERNO",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1401214",
+            "turmaid": "01",
+            "nome": " FORMACAO DO ESTADO MODERNO",
+            "semester": "2018.2",
+            "professor": "GILVANILDO OLIVEIRA AVELINO",
+            "horario": "6N1234",
+            "local": "CAB 105 (PRG)"
+          },
+          {
+            "id": "1401214",
+            "turmaid": "02",
+            "nome": " FORMACAO DO ESTADO MODERNO",
+            "semester": "2018.2",
+            "professor": "GILVANILDO OLIVEIRA AVELINO",
+            "horario": "6M2345",
+            "local": "CAB 106 (PRG)"
+          }
+        ],
+        "prerequisites": [
+          "1401218"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1401236",
+        "name": "TEORIA SOCIOLOGIA CLASSICA",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1401236",
+            "turmaid": "01",
+            "nome": " TEORIA SOCIOLOGIA CLASSICA",
+            "semester": "2018.2",
+            "professor": "TERESA CRISTINA FURTADO MATOS",
+            "horario": "4N1234",
+            "local": "CAE 110 (PRG)"
+          },
+          {
+            "id": "1401236",
+            "turmaid": "02",
+            "nome": " TEORIA SOCIOLOGIA CLASSICA",
+            "semester": "2018.2",
+            "professor": "AECIO DA SILVA AMARAL JUNIOR",
+            "horario": "4M2345",
+            "local": "CAE 108 (PRG)"
+          }
+        ],
+        "prerequisites": [
+          "1401219"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1401257",
+        "name": "FUNDAMENTOS DO PENS ANTROPOLOGICO II",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1401257",
+            "turmaid": "01",
+            "nome": " FUNDAMENTOS DO PENS ANTROPOLOGICO II",
+            "semester": "2018.2",
+            "professor": "RITA DE CASSIA MELO SANTOS",
+            "horario": "2N1234",
+            "local": "CAF 111 (PRG)"
+          },
+          {
+            "id": "1401257",
+            "turmaid": "02",
+            "nome": " FUNDAMENTOS DO PENS ANTROPOLOGICO II",
+            "semester": "2018.2",
+            "professor": "FLAVIA FERREIRA PIRES",
+            "horario": "2M2345",
+            "local": "CAD 108 (PRG)"
+          }
+        ],
+        "prerequisites": [
+          "1401256"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1401328",
+        "name": "METODOLOGIA DS CIENCIAS SOCIAIS",
+        "category": "Complementar Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1401328",
+            "turmaid": "01",
+            "nome": " METODOLOGIA DS CIENCIAS SOCIAIS",
+            "semester": "2018.2",
+            "professor": "SIMONE MAGALHAES BRITO",
+            "horario": "5N1234",
+            "local": "CAF 111 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1301200",
+        "name": "FUNDAMENTOS SOCIOHISTÓRICOS DA EDUCAÇÃO",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1401155",
+        "name": "SOCIOLOGIA DA EDUCACAO",
+        "category": "Complementar Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1401215",
+        "name": "FORMACAO DO ESTADO NO BRASIL",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1401214"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1401258",
+        "name": "TEORIA SOCIOLOGICA MODERNA",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1401236"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1401275",
+        "name": "ANTROPOLOGIA E MUDANCA",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1401257"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1301201",
+        "name": "FUNDAMENTOS PSICOLÓGICOS DA EDUCAÇÃO",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1301201",
+            "turmaid": "07",
+            "nome": " FUNDAMENTOS PSICOLÓGICOS DA EDUCAÇÃO",
+            "semester": "2018.2",
+            "professor": "MARIA DEBORAH CABRAL DE SOUSA",
+            "horario": "3N1234",
+            "local": "CAH 108 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1401237",
+        "name": "TEORIA SOCIOLOGICA CONTEMPORANEA",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1401237",
+            "turmaid": "01",
+            "nome": " TEORIA SOCIOLOGICA CONTEMPORANEA",
+            "semester": "2018.2",
+            "professor": "MAURICIO ROMBALDI",
+            "horario": "4M2345",
+            "local": "CAD 108 (PRG)"
+          },
+          {
+            "id": "1401237",
+            "turmaid": "02",
+            "nome": " TEORIA SOCIOLOGICA CONTEMPORANEA",
+            "semester": "2018.2",
+            "professor": "MIQUELI MICHETTI",
+            "horario": "4N1234",
+            "local": "CAC 108 (PRG)"
+          }
+        ],
+        "prerequisites": [
+          "1401258"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1401259",
+        "name": "ANTROPOLGIA CONTEMPORANEA",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1401259",
+            "turmaid": "01",
+            "nome": " ANTROPOLGIA CONTEMPORANEA",
+            "semester": "2018.2",
+            "professor": "MARIA PATRICIA LOPES GOLDFARB",
+            "horario": "2N1234",
+            "local": "CAH 105 (PRG)"
+          },
+          {
+            "id": "1401259",
+            "turmaid": "02",
+            "nome": " ANTROPOLGIA CONTEMPORANEA",
+            "semester": "2018.2",
+            "professor": "ALICIA FERREIRA GONCALVES",
+            "horario": "2M2345",
+            "local": "CAH 108 (PRG)"
+          }
+        ],
+        "prerequisites": [
+          "1401275"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1401260",
+        "name": "ESTADO CONTEMPORANEO",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1401260",
+            "turmaid": "01",
+            "nome": " ESTADO CONTEMPORANEO",
+            "semester": "2018.2",
+            "professor": "SAMIR PERRONE DE MIRANDA",
+            "horario": "6N1234",
+            "local": "CAE 111 (PRG)"
+          },
+          {
+            "id": "1401260",
+            "turmaid": "02",
+            "nome": " ESTADO CONTEMPORANEO",
+            "semester": "2018.2",
+            "professor": "ITALO FITTIPALDI",
+            "horario": "6M2345",
+            "local": "CAE 111 (PRG)"
+          }
+        ],
+        "prerequisites": [
+          "1401215"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1401329",
+        "name": "EDUCAÇAO  SOCIEDADE NO BRASIL",
+        "category": "Complementar Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1401329",
+            "turmaid": "01",
+            "nome": " EDUCAÇAO  SOCIEDADE NO BRASIL",
+            "semester": "2018.2",
+            "professor": "AINA GUIMARAES AZEVEDO",
+            "horario": "5N1234",
+            "local": "CAC 108 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1302105",
+        "name": "DIDÁTICA",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1303180",
+        "name": "POLITICA E GESTAO DA EDUCACAO",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+          "1303208"
+        ]
+      },
+      {
+        "id": "1401230",
+        "name": "SOCIOLOGIA BRASILEIRA",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1401237"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1401261",
+        "name": "ANTROPOLOGIA NO BRASIL",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1401259"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1401262",
+        "name": "INSTITUICOES POLITICAS BRASILEIRAS",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1401260"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1401330",
+        "name": "EDUCAÇAO E FORMAÇAO PROFISSIONAL",
+        "category": "Complementar Obrigatória",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1401330",
+            "turmaid": "01",
+            "nome": " EDUCAÇAO E FORMAÇAO PROFISSIONAL",
+            "semester": "2018.2",
+            "professor": "THIAGO PANICA PONTES",
+            "horario": "3N1234",
+            "local": "CAA 105 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDMTE0114",
+        "name": "ESTAGIO SUPERVISIONADO I",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "ESTÁGIO",
+        "turmas": [
+          {
+            "id": "GDMTE0114",
+            "turmaid": "01",
+            "nome": " CIENCIAS SOCIAIS",
+            "semester": "2018.2",
+            "professor": "CHARLITON JOSE DOS SANTOS MACHADO",
+            "horario": "5N1234 (22/11/2018 - 09/05/2019)",
+            "local": "CAH 105 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1401325",
+        "name": "TOPICOS ESPECIAIS EM CIENCIAS SOCIAIS I",
+        "category": "Complementar Flexiva",
+        "semester": 7,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1401326",
+        "name": "TOPICOS ESPECIAIS EM CIENCIAS SOCIAIS II",
+        "category": "Complementar Flexiva",
+        "semester": 7,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1401333",
+        "name": "TOP ESP EM CIENCIAS SOCIAIS III",
+        "category": "Complementar Flexiva",
+        "semester": 7,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDLS0024",
+        "name": "LIBRAS",
+        "category": "Complementar Obrigatória",
+        "semester": 7,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDLS0024",
+            "turmaid": "16",
+            "nome": " LIBRAS",
+            "semester": "2018.2",
+            "professor": "EDNEIA DE OLIVEIRA ALVES",
+            "horario": "6N1234",
+            "local": "CAH 104 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDMTE0115",
+        "name": "ESTAGIO SUPERVISIONADO II",
+        "category": "Obrigatória",
+        "semester": 7,
+        "workload": "75h aula 0h lab.",
+        "type": "ESTÁGIO",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1401331",
+        "name": "SEMINARIO DE TCC",
+        "category": "Complementar Obrigatória",
+        "semester": 8,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1401331",
+            "turmaid": "01",
+            "nome": " SEMINARIO DE TCC",
+            "semester": "2018.2",
+            "professor": "EDNALVA MACIEL NEVES e MONICA LOURDES FRANCH GUTIERREZ",
+            "horario": "2N1234",
+            "local": "CAG 101 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDMTE0116",
+        "name": "ESTAGIO SUPERVISIONADO III",
+        "category": "Obrigatória",
+        "semester": 8,
+        "workload": "120h aula 0h lab.",
+        "type": "ESTÁGIO",
+        "turmas": [
+          {
+            "id": "GDMTE0116",
+            "turmaid": "01",
+            "nome": " CIENCIAS SOCIAIS",
+            "semester": "2018.2",
+            "professor": "SEVERINO BEZERRA DA SILVA",
+            "horario": "7M2345 4N1234 (24/11/2018 - 08/05/2019)",
+            "local": "CAF 101 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1401335",
+        "name": "TCCTRAB DE CONCL DE CURSO C SOC LIC",
+        "category": "Complementar Obrigatória",
+        "semester": 9,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1401335",
+            "turmaid": "01",
+            "nome": " TCCTRAB DE CONCL DE CURSO C SOC LIC",
+            "semester": "2018.2",
+            "professor": "TERENCE MULHALL",
+            "horario": "4N1234",
+            "local": "CCHLA 422 BLOCO A 1º ANDAR (CCHLA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDMTE0117",
+        "name": "ESTAGIO SUPERVISIONADO IV",
+        "category": "Obrigatória",
+        "semester": 9,
+        "workload": "150h aula 0h lab.",
+        "type": "ESTÁGIO",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1401264",
+        "name": " ESTAGIO SUPERVISIONADO II  C SOCIAIS",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": "180h",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1401264",
+            "turmaid": "01",
+            "nome": " ESTAGIO SUPERVISIONADO II  C SOCIAIS",
+            "semester": "2018.2",
+            "professor": "MARCELO BURGOS PIMENTEL DOS SANTOS",
+            "horario": "46T123456",
+            "local": "CAF 109 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1401266",
+        "name": " ESTAGIO SUPERVISONADO IV  C SOCIAIS",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": "180h",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1401266",
+            "turmaid": "01",
+            "nome": " ESTAGIO SUPERVISONADO IV  C SOCIAIS",
+            "semester": "2018.2",
+            "professor": "TERENCE MULHALL",
+            "horario": "35T123456",
+            "local": "CAH 102 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDEST0102",
+        "name": " ESTATÍSTICA PARA CIÊNCIAS HUMANAS E SOCIAIS I",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": "30h",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDEST0102",
+            "turmaid": "01",
+            "nome": " ESTATÍSTICA PARA CIÊNCIAS HUMANAS E SOCIAIS I",
+            "semester": "2018.2",
+            "professor": "FRANCISCO ELMIRO DE SOUSA FILHO e TARCIANA LIBERAL PEREIRA DE ARAUJO",
+            "horario": "35M45",
+            "local": "CCSA 222 (CCSA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+          "1108184"
+        ]
+      },
+      {
+        "id": "1401267",
+        "name": " PESQUISA APLICADA AS CIENCIAS SOCIAIS",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": "60h",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1401267",
+            "turmaid": "01",
+            "nome": " PESQUISA APLICADA AS CIENCIAS SOCIAIS",
+            "semester": "2018.2",
+            "professor": "MARCELA ZAMBONI LUCENA",
+            "horario": "35M23",
+            "local": "CCHLA 424 BLOCO A 2º ANDAR (CCHLA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1406353",
+        "name": " SOCIOLOGIA DO TURISMO",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": "60h",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1406353",
+            "turmaid": "01",
+            "nome": " SOCIOLOGIA DO TURISMO",
+            "semester": "2018.2",
+            "professor": "PATRICIA ALVES RAMIRO",
+            "horario": "2N1234",
+            "local": "CCTA 216 - BLOCO B (CCTA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1401276",
+        "name": " TCCTRAB DE CONCL DE CURSO C SOCBACH",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": "60h",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1401276",
+            "turmaid": "01",
+            "nome": " TCCTRAB DE CONCL DE CURSO C SOCBACH",
+            "semester": "2018.2",
+            "professor": "AECIO DA SILVA AMARAL JUNIOR",
+            "horario": "2T2345",
+            "local": "CAF 109 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,1438 @@
+{
+  "curriculum": {
+    "id": "412016",
+    "codigo": "1626775",
+    "name": "JORNALISMO - João Pessoa - Presencial - MT - BACHARELADO",
+    "faculty": "CENTRO DE COMUNICAÇÃO, TURISMO E ARTES (CCTA) (11.00.66)",
+    "minch": "240",
+    "maxch": "405",
+    "semesters": 8,
+    "courses": [
+      {
+        "id": "1401161",
+        "name": "SOCIOLOGIA DO TRABALHO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1403747",
+        "name": "LIBRAS  LÍNGUA BRASILEIRA DE SINAIS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1403752",
+        "name": "REDAÇÃO E EXPRESSÃO ORAL II",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "2303013",
+        "name": "COMUNICAÇÃO E CULTURAS CONTEMPORANEAS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "2303014",
+        "name": "PESQUISA APLICADA A COMUNICAÇÃO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "2303057",
+        "name": "JORNALISMO INVESTIGATIVO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDJOR0021",
+        "name": "ACESSIBILIDADE AS MIDIAS SOCIAIS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDJOR0035",
+        "name": "JORNALISMO ESPORTIVO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDJOR0035",
+            "turmaid": "01",
+            "nome": " JORNALISMO ESPORTIVO",
+            "semester": "2018.2",
+            "professor": "EDONIO ALVES DO NASCIMENTO",
+            "horario": "5M2345",
+            "local": "CCTA 231 - BLOCO B - LABORATÓRIO DE JORNALISMO (CCTA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDJOR0036",
+        "name": "JORNALISMO INVESTIGATIVO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDJOR0037",
+        "name": "JORNALISMO CULTURAL",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDJOR0038",
+        "name": "JORNALISMO POLICIAL",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDJOR0039",
+        "name": "PRODUÇÃO DE GRANDE REPORTAGEM",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDJOR0040",
+        "name": "TOPICOS ESPECIAIS EM JORNALISMO I",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "150h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDJOR0041",
+        "name": "TOPICOS ESPECIAIS EM JORNALISMO II",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "150h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDJOR0042",
+        "name": "JORNALISMO E LITERATURA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDJOR0042",
+            "turmaid": "01",
+            "nome": " JORNALISMO E LITERATURA",
+            "semester": "2018.2",
+            "professor": "CARLOS ALBERTO FARIAS DE AZEVEDO FILHO",
+            "horario": "5M2345",
+            "local": "CCTA 103 -  BLOCO A (CCTA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDJOR0043",
+        "name": "ESTUDOS TEMATICOS EM JORNALISMO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDJOR0044",
+        "name": "GENERO,MIDIA E SEXUALIDADE",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDJOR0045",
+        "name": "ESTUDOS EM NOVAS MIDIAS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDJOR0046",
+        "name": "PRATICA DE COMUNICAÇÃO EM JORNALISMO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDJOR0047",
+        "name": "ESTUDOS EM FOLKCOMUNICAÇÃO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDJOR0048",
+        "name": "ESTUDOS EM CULTURA MIDIATICA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDJOR0049",
+        "name": "ESTUDOS EM ESTETICAS DA COMUNICAÇÃO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDJOR0050",
+        "name": "PRODUÇÃO DE NOTICIAS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDJOR0051",
+        "name": "JORNALISMO DE REVISTA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDJOR0052",
+        "name": "JORNALISMO PARA TERCEIRO SETOR",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDJOR0053",
+        "name": "SOCIOLOGIA DA MIDIA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDJOR0054",
+        "name": "PRODUÇÃO DE REPORTAGENS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDJOR0055",
+        "name": "ANALISE DE DISCURSOS  MIDIATICO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDJOR0056",
+        "name": "ESTUDOS EM ETICA JORNALISTICA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDJOR0057",
+        "name": "ESTUDOS EM ECONOMIA DA CULTURA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDJOR0058",
+        "name": "CIDADANIA E DIREITOS HUMANOS EM MEIOS DE COMUNICAÇÃO DE MASSA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDJOR0059",
+        "name": "ANTROPOLOGIA DA COMUNICAÇÃO VISUAL",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDJOR0060",
+        "name": "ACESSIBILIDADE AS MIDIAS AUDIOVISUAIS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDJOR0061",
+        "name": "ESTUDOS DO COTIDIANO E DA MIDIA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDJOR0062",
+        "name": "COMUNICAÇÃO E CULTURA CONTEMPORANEAS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDJOR0063",
+        "name": "ATIVIDADES COMPLEMENTARES EM RADIOJORNALISMO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDLS0024",
+        "name": "LIBRAS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "2303008",
+        "name": "TEORIAS DA COMUNICAÇÃO",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "2303008",
+            "turmaid": "01",
+            "nome": " TEORIAS DA COMUNICAÇÃO",
+            "semester": "2018.2",
+            "professor": "EDONIO ALVES DO NASCIMENTO",
+            "horario": "4M2345",
+            "local": "CCTA 224 - BLOCO B- LABORATÓRIO DE DANÇA (CCTA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDJOR0001",
+        "name": "ESTETICAS E LINGUAGENS MIDIATICAS",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDJOR0001",
+            "turmaid": "01",
+            "nome": " ESTETICAS E LINGUAGENS MIDIATICAS",
+            "semester": "2018.2",
+            "professor": "PEDRO BENEVIDES",
+            "horario": "5M2345",
+            "local": "CCTA 224 - BLOCO B- LABORATÓRIO DE DANÇA (CCTA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDJOR0002",
+        "name": "LEITURA, REDAÇÃO E EXPRESSÃO ORAL EM JORNALISMO",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDJOR0002",
+            "turmaid": "01",
+            "nome": " LEITURA, REDAÇÃO E EXPRESSÃO ORAL EM JORNALISMO",
+            "semester": "2018.2",
+            "professor": "MARLUCE PEREIRA DA SILVA",
+            "horario": "3M2345",
+            "local": "CCTA 224 - BLOCO B- LABORATÓRIO DE DANÇA (CCTA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDJOR0006",
+        "name": "GÊNEROS  JORNALISTICOS",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "75h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDJOR0006",
+            "turmaid": "01",
+            "nome": " GÊNEROS  JORNALISTICOS",
+            "semester": "2018.2",
+            "professor": "ZULMIRA NOBREGA PIVA DE CARVALHO",
+            "horario": "2M12345",
+            "local": "CCTA 224 - BLOCO B- LABORATÓRIO DE DANÇA (CCTA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDJOR0007",
+        "name": "JORNALISMO FOTOGRAFICO",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDJOR0007",
+            "turmaid": "01",
+            "nome": " JORNALISMO FOTOGRAFICO",
+            "semester": "2018.2",
+            "professor": "KARLA ROSANA FRANCELINO RIBEIRO NORONHA",
+            "horario": "6M2345",
+            "local": "CCTA 224 - BLOCO B- LABORATÓRIO DE DANÇA (CCTA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1205003",
+        "name": "METODOLOGIA DO TRABALHO CIENTÍFICO",
+        "category": "Complementar Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1205003",
+            "turmaid": "01",
+            "nome": " METODOLOGIA DO TRABALHO CIENTÍFICO",
+            "semester": "2018.2",
+            "professor": "IZABEL FRANCA DE LIMA",
+            "horario": "2M2345",
+            "local": "CAD 111 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+          "1401140",
+          "1709001",
+          "GDTH0036"
+        ]
+      },
+      {
+        "id": "GDJOR0005",
+        "name": "TEORIAS DO JORNALISMO",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDJOR0005",
+            "turmaid": "01",
+            "nome": " TEORIAS DO JORNALISMO",
+            "semester": "2018.2",
+            "professor": "PEDRO BENEVIDES",
+            "horario": "4M2345",
+            "local": "CCTA 101 - BLOCO A (CCTA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDJOR0027",
+        "name": "TECNICAS DE REPORTAGEM E INVESTIGAÇÃO JORNALISTICAS",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "75h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDJOR0027",
+            "turmaid": "01",
+            "nome": " TECNICAS DE REPORTAGEM E INVESTIGAÇÃO JORNALISTICAS",
+            "semester": "2018.2",
+            "professor": "SANDRA REGINA MOURA",
+            "horario": "6M12345",
+            "local": "CCTA 101 - BLOCO A (CCTA)"
+          }
+        ],
+        "prerequisites": [
+          "0006"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDJOR0028",
+        "name": "ETICA E DEONTOLOGIA EM JORNALISMO",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDJOR0028",
+            "turmaid": "01",
+            "nome": " ETICA E DEONTOLOGIA EM JORNALISMO",
+            "semester": "2018.2",
+            "professor": "DINARTE VARELA BEZERRA",
+            "horario": "3M2345",
+            "local": "CCTA 101 - BLOCO A (CCTA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDJOR0010",
+        "name": "EDITORAÇÃO E PROGRAMAÇÃO VISUAL",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDJOR0010",
+            "turmaid": "01",
+            "nome": " EDITORAÇÃO E PROGRAMAÇÃO VISUAL",
+            "semester": "2018.2",
+            "professor": "KARLA ROSANA FRANCELINO RIBEIRO NORONHA",
+            "horario": "3M2345",
+            "local": "CCTA 231 - BLOCO B - LABORATÓRIO DE JORNALISMO (CCTA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDJOR0012",
+        "name": "JORNALISMO, CIDADANIA E DIREITOS HUMANOS",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDJOR0012",
+            "turmaid": "01",
+            "nome": " JORNALISMO, CIDADANIA E DIREITOS HUMANOS",
+            "semester": "2018.2",
+            "professor": "GLORIA DE LOURDES FREIRE RABAY",
+            "horario": "5M2345",
+            "local": "CCTA 223 - BLOCO B (CCTA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDJOR0029",
+        "name": "TECNICA DE REPORTAGEM EM BASES DE DADOS",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDJOR0029",
+            "turmaid": "01",
+            "nome": " TECNICA DE REPORTAGEM EM BASES DE DADOS",
+            "semester": "2018.2",
+            "professor": "SANDRA REGINA MOURA",
+            "horario": "4M2345",
+            "local": "CCTA 231 - BLOCO B - LABORATÓRIO DE JORNALISMO (CCTA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDJOR0030",
+        "name": "JORNALISMO ESPECIALIZADO",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDJOR0030",
+            "turmaid": "01",
+            "nome": " JORNALISMO ESPECIALIZADO",
+            "semester": "2018.2",
+            "professor": "SANDRA RAQUEW DOS SANTOS AZEVEDO",
+            "horario": "6M2345",
+            "local": "CCTA 223 - BLOCO B (CCTA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDJOR0031",
+        "name": "HISTORIA DO JORNALISMO",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDJOR0031",
+            "turmaid": "01",
+            "nome": " HISTORIA DO JORNALISMO",
+            "semester": "2018.2",
+            "professor": "SUELLY MARIA MAUX DIAS",
+            "horario": "2M2345",
+            "local": "CCTA 101 - BLOCO A (CCTA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDJOR0003",
+        "name": "RELAÇOES ETNICO",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDJOR0003",
+            "turmaid": "01",
+            "nome": " RELAÇOES ETNICO- RACIAIS",
+            "semester": "2018.2",
+            "professor": "MARLUCE PEREIRA DA SILVA",
+            "horario": "5M2345",
+            "local": "CCTA 225 - BLOCO B (CCTA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDJOR0004",
+        "name": "ESTUDOS CULTURAIS EM COMUNICAÇÃO",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDJOR0004",
+            "turmaid": "01",
+            "nome": " ESTUDOS CULTURAIS EM COMUNICAÇÃO",
+            "semester": "2018.2",
+            "professor": "MARGARETE ALMEIDA NEPOMUCENO",
+            "horario": "3M2345",
+            "local": "CCTA 103 -  BLOCO A (CCTA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDJOR0011",
+        "name": "OFICINA DE JORNALISMO IMPRESSO",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "150h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDJOR0011",
+            "turmaid": "01",
+            "nome": " OFICINA DE JORNALISMO IMPRESSO",
+            "semester": "2018.2",
+            "professor": "CARLOS ALBERTO FARIAS DE AZEVEDO FILHO",
+            "horario": "26M12345",
+            "local": "CCTA 231 - BLOCO B - LABORATÓRIO DE JORNALISMO (CCTA)"
+          }
+        ],
+        "prerequisites": [
+          "0027",
+          "0010"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDJOR0019",
+        "name": "JORNALISMO E SOCIEDADE",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDJOR0019",
+            "turmaid": "01",
+            "nome": " JORNALISMO E SOCIEDADE",
+            "semester": "2018.2",
+            "professor": "GLORIA DE LOURDES FREIRE RABAY",
+            "horario": "4M2345",
+            "local": "CCTA 221 - BLOCO B (CCTA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDJOR0013",
+        "name": "OFICINA DE RADIOJORNALISMO",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "150h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDJOR0013",
+            "turmaid": "01",
+            "nome": " OFICINA DE RADIOJORNALISMO",
+            "semester": "2018.2",
+            "professor": "PATRICIA MONTEIRO CRUZ MENDES",
+            "horario": "26M12345",
+            "local": "CCTA 234 - BLOCO B - REDAÇÃO DE RADIOJORNALISMO (CCTA)"
+          }
+        ],
+        "prerequisites": [
+          "0011"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDJOR0020",
+        "name": "PLANEJAMENTO E PRODUÇÃO EM RADIOJORNALISMO",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDJOR0020",
+            "turmaid": "01",
+            "nome": " PLANEJAMENTO E PRODUÇÃO EM RADIOJORNALISMO",
+            "semester": "2018.2",
+            "professor": "PATRICIA MONTEIRO CRUZ MENDES",
+            "horario": "3M2345",
+            "local": "CCTA 234 - BLOCO B - REDAÇÃO DE RADIOJORNALISMO (CCTA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDJOR0032",
+        "name": "JORNALISMO MULTIPLATAFORMA I",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDJOR0032",
+            "turmaid": "01",
+            "nome": " JORNALISMO MULTIPLATAFORMA I",
+            "semester": "2018.2",
+            "professor": "LAERTE JOSE CERQUEIRA DA SILVA",
+            "horario": "4M2345",
+            "local": "CCTA 223 - BLOCO B (CCTA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDJOR0064",
+        "name": "ESTÁGIO SUPERVISIONADO I",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "150h aula 0h lab.",
+        "type": "ESTÁGIO",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDJOR0015",
+        "name": "OFICINA DE TELEJORNALISMO",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "150h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDJOR0015",
+            "turmaid": "01",
+            "nome": " OFICINA DE TELEJORNALISMO",
+            "semester": "2018.2",
+            "professor": "FABIANA CARDOSO DE SIQUEIRA",
+            "horario": "26M12345",
+            "local": "CCTA 226 -  BLOCO B- LABORATÓRIO DE DANÇA (CCTA)"
+          }
+        ],
+        "prerequisites": [
+          "0013"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDJOR0022",
+        "name": "PESQUISA APLICADA AO JORNALISMO",
+        "category": "Complementar Obrigatória",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDJOR0022",
+            "turmaid": "01",
+            "nome": " PESQUISA APLICADA AO JORNALISMO",
+            "semester": "2018.2",
+            "professor": "A DEFINIR",
+            "horario": "4M2345",
+            "local": "CCTA 226 -  BLOCO B- LABORATÓRIO DE DANÇA (CCTA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDJOR0033",
+        "name": "JORNALISMO MULTIPLATAFORMA II",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDJOR0033",
+            "turmaid": "01",
+            "nome": " JORNALISMO MULTIPLATAFORMA II",
+            "semester": "2018.2",
+            "professor": "ZULMIRA NOBREGA PIVA DE CARVALHO",
+            "horario": "3M2345",
+            "local": "CCTA 226 -  BLOCO B- LABORATÓRIO DE DANÇA (CCTA)"
+          }
+        ],
+        "prerequisites": [
+          "0032"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDJOR0034",
+        "name": "MERCADO DE TRABALHO E EMPREENDIMENTO PROFISSIONAL",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDJOR0034",
+            "turmaid": "01",
+            "nome": " MERCADO DE TRABALHO E EMPREENDIMENTO PROFISSIONAL",
+            "semester": "2018.2",
+            "professor": "MARGARETE ALMEIDA NEPOMUCENO",
+            "horario": "5M2345",
+            "local": "CCTA 101 - BLOCO A (CCTA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDJOR0065",
+        "name": "ESTÁGIO SUPERVISIONADO II",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "150h aula 0h lab.",
+        "type": "ESTÁGIO",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "0017",
+          "0064"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDJOR0014",
+        "name": "ASSESSORIA DE IMPRESSA",
+        "category": "Obrigatória",
+        "semester": 7,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDJOR0014",
+            "turmaid": "01",
+            "nome": " ASSESSORIA DE IMPRESSA",
+            "semester": "2018.2",
+            "professor": "SANDRA RAQUEW DOS SANTOS AZEVEDO",
+            "horario": "4M2345",
+            "local": "CCTA 103 -  BLOCO A (CCTA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDJOR0016",
+        "name": "OFICINA DE WEBJORNALISMO",
+        "category": "Obrigatória",
+        "semester": 7,
+        "workload": "150h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDJOR0016",
+            "turmaid": "01",
+            "nome": " OFICINA DE WEBJORNALISMO",
+            "semester": "2018.2",
+            "professor": "LAERTE JOSE CERQUEIRA DA SILVA",
+            "horario": "25M12345",
+            "local": "CCTA 245 - BLOCO B - LABORATÓRIO DE COMUNICAÇÃO (CCTA)"
+          }
+        ],
+        "prerequisites": [
+          "0015"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDJOR0023",
+        "name": "TRABALHO DE CONCLUSÃO DE CURSO I",
+        "category": "Complementar Obrigatória",
+        "semester": 7,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDJOR0023",
+            "turmaid": "01",
+            "nome": " TRABALHO DE CONCLUSÃO DE CURSO I",
+            "semester": "2018.2",
+            "professor": "SUELLY MARIA MAUX DIAS",
+            "horario": "6M2345 (22/11/2018 - 10/05/2019)",
+            "local": "CCTA 103 -  BLOCO A (CCTA)"
+          }
+        ],
+        "prerequisites": [
+          "0022"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDJOR0024",
+        "name": "TRABALHO DE CONCLUSÃO DE CURSO II",
+        "category": "Complementar Obrigatória",
+        "semester": 8,
+        "workload": "270h aula 0h lab.",
+        "type": "TRABALHO DE CONCLUSÃO DE CURSO",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "0023"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "2303045",
+        "name": " WEBJORNALISMO",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": "60h",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "2303045",
+            "turmaid": "01",
+            "nome": " WEBJORNALISMO",
+            "semester": "2018.2",
+            "professor": "EMILIA DE RODAT MARTINHO BARBOSA BARRETO",
+            "horario": "2M2345",
+            "local": "CCTA 237- BLOCO B (CCTA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      }
+    ]
+  }
+}

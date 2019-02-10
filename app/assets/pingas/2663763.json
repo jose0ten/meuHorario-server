@@ -1,0 +1,1166 @@
+{
+  "curriculum": {
+    "id": "432009",
+    "codigo": "2663763",
+    "name": "LETRAS - LIBRAS /EAD - João Pessoa - A Distância - LIBRAS - MT - LICENCIATURA PLENA",
+    "faculty": "CENTRO DE CIÊNCIAS HUMANAS, LETRAS E ARTES (CCHLA) (11.00.53)",
+    "minch": "240",
+    "maxch": "420",
+    "semesters": 8,
+    "courses": [
+      {
+        "id": "1301278",
+        "name": "SEM DE PROB ATUAIS EM EDUCAÇÃO  LIBUV",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1302478",
+        "name": "ALFAB DE JOV E ADUL PROC E MET  LIBUV",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1302480",
+        "name": "INTR AOS REC AUDIOV EM EDUCAÇÃO  LIBUV",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1302481",
+        "name": "EDUCAÇÃO E INCLUSÃO SOCIAL   LIBUV",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1403750",
+        "name": "TOPESPLITERVISUALLIBUV",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDLS0001",
+        "name": "ANÁLISE DE DISCURSO LIBRAS UV",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1301274",
+        "name": "FUND ANTROPOFILOSOFICO DA EDUC  LIBUV",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1301277",
+        "name": "FUND DA EDUCAÇÃO DE SURDOS LIBUV",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1302483",
+        "name": "INTRODUÇÃO À EAD LIBUV",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDLS0015",
+        "name": "FUNDAMENTOS DE LINGUISTICA LIBUV",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDLS0017",
+        "name": "INTRODUÇÃO AOS ESTUDOS LITERARIOS LIBUV",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDLS0019",
+        "name": "LEITURA E PRODUÇÃO DE TEXTO I LIBRAS",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1301275",
+        "name": "FUND SOCIO HISTORICOS DA EDUC  LIBUV",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1403703",
+        "name": "TEORIAS LINGUISTICAS LIBUV",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1403701",
+          "0015"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1403710",
+        "name": "TEORIAS LITERÁRIAS  LIBUV",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1403700",
+          "0017"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDLS0014",
+        "name": "FONETICA E FONOLOGIA LIBUV",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDLS0020",
+        "name": "LIBRAS I LIBUV",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDLS0030",
+        "name": "METODOLOGIA DO TRABALHO CIENTIFICO LIBUV",
+        "category": "Complementar Obrigatória",
+        "semester": 2,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1403735",
+        "name": "SOCIOLINGUISTICA   LIBRAS UV",
+        "category": "Optativa",
+        "semester": 3,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1403735",
+            "turmaid": "01",
+            "nome": " SOCIOLINGUISTICA   LIBRAS UV",
+            "semester": "2018.2",
+            "professor": "ENEIDA MARTINS DE OLIVEIRA",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1301276",
+        "name": "FUND PSICOLOGICOS DA EDUC  LIBUV",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1301276",
+            "turmaid": "01",
+            "nome": " FUND PSICOLOGICOS DA EDUC  LIBUV",
+            "semester": "2018.2",
+            "professor": "VILMARIA FERNANDES SALES",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1403723",
+        "name": "LITERATURA VISUAL   LIBUV",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDLS0029",
+            "turmaid": "01",
+            "nome": " LITERATURA VISUAL LIBUV",
+            "semester": "2018.2",
+            "professor": "NAYARA DE ALMEIDA ADRIANO",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+          "GDLS0029"
+        ]
+      },
+      {
+        "id": "GDLS0016",
+        "name": "INTRODUÇÃO AOS ESTUDOS DA TRADUÇÃO LIBUV",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDLS0016",
+            "turmaid": "01",
+            "nome": " INTRODUÇÃO AOS ESTUDOS DA TRADUÇÃO LIBUV",
+            "semester": "2018.2",
+            "professor": "CAROLINA SILVA RESENDE DA NÓBREGA",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDLS0021",
+        "name": "LIBRAS II LIBUV",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDLS0021",
+            "turmaid": "01",
+            "nome": " LIBRAS II LIBUV",
+            "semester": "2018.2",
+            "professor": "CAROLINA SILVA RESENDE DA NÓBREGA",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+          "1403704",
+          "0020"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDLS0031",
+        "name": "MORFOLOGIA LIBUV",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDLS0031",
+            "turmaid": "01",
+            "nome": " MORFOLOGIA LIBUV",
+            "semester": "2018.2",
+            "professor": "MARIE GORETT DANTAS DE ASSIS E MEDEIROS BATISTA",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1302482",
+        "name": "CURRICULO E TRABALHO PEDAGOGICO  LIBUV",
+        "category": "Optativa",
+        "semester": 4,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1301279",
+        "name": "POLITICA E GESTAO  DA EDUCACAO LIBUV",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1301279",
+            "turmaid": "01",
+            "nome": " POLITICA E GESTAO  DA EDUCACAO LIBUV",
+            "semester": "2018.2",
+            "professor": "MARIA DA LUZ OLEGARIO",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1403714",
+        "name": "SINTAXE LIBUV",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1403714",
+            "turmaid": "01",
+            "nome": " SINTAXE LIBUV",
+            "semester": "2018.2",
+            "professor": "MAGDIEL MEDEIROS ARAGAO NETO",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1403718",
+        "name": "TEORIAS DA TRADUCAO I   LIBUV",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1403718",
+            "turmaid": "01",
+            "nome": " TEORIAS DA TRADUCAO I   LIBUV",
+            "semester": "2018.2",
+            "professor": "MAYSA RAMOS VIEIRA",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+          "1403717",
+          "0016"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1403720",
+        "name": "ESCRITA DE SINAIS I LIBUV",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDLS0004",
+            "turmaid": "01",
+            "nome": " ESCRITA DE SINAIS I LIB UV",
+            "semester": "2018.2",
+            "professor": "EDNEIA DE OLIVEIRA ALVES",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+          "GDLS0004"
+        ]
+      },
+      {
+        "id": "GDLS0022",
+        "name": "LIBRAS III LIBUV",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDLS0022",
+            "turmaid": "01",
+            "nome": " LIBRAS III LIBUV",
+            "semester": "2018.2",
+            "professor": "ROSILENE SILVA MARINHO",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+          "1403705",
+          "0021"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1403715",
+        "name": "SEMANTICA E PRAGMATICA LIBUV",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1403719",
+        "name": "TEORIAS DA TRADUÇÃO II   LIBUV",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1403724",
+        "name": "DIDÁTICA DA LIBRAS  LIBUV",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+          "GDLS0003"
+        ]
+      },
+      {
+        "id": "GDLS0005",
+        "name": "ESCRITA DE SINAIS II  LIB UV",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "0004",
+          "1403720"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDLS0007",
+        "name": "ESTAGIO SUPERVISIONADO I LIBUV",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "0022",
+          "1403706"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDLS0023",
+        "name": "LIBRAS IV LIBUV",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1403706",
+          "0022"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1403737",
+        "name": "LITERATURA E CULTURA POPULAR   LIBUV",
+        "category": "Optativa",
+        "semester": 6,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1403716",
+        "name": "AQUISIÇÃO DA LINGUAGEM LIBUV",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+          "GDLS0002"
+        ]
+      },
+      {
+        "id": "GDLS0006",
+        "name": "ESCRITA DE SINAIS III LIBUV",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDLS0008",
+        "name": "ESTAGIO SUPERVISIONADO II LIBUV",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "0022",
+          "1403706"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDLS0018",
+        "name": "LEITURA E PRODUÇÃO DE TEXTO II LIBUV",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDLS0027",
+        "name": "LIBRAS V LIBUV",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1302479",
+        "name": "AVALIAÇÃO DA APRENDIZAGEM   LIBUV",
+        "category": "Optativa",
+        "semester": 7,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1302479",
+            "turmaid": "01",
+            "nome": " AVALIAÇÃO DA APRENDIZAGEM   LIBUV",
+            "semester": "2018.2",
+            "professor": "CELIA REGINA TEIXEIRA",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1403749",
+        "name": "TOPESPESCDO PORTUGUESLIBUV",
+        "category": "Complementar Flexiva",
+        "semester": 7,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1403749",
+            "turmaid": "01",
+            "nome": " TOPESPESCDO PORTUGUESLIBUV",
+            "semester": "2018.2",
+            "professor": "MARIA CRISTINA DE ASSIS",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDLS0009",
+        "name": "ESTAGIO SUPERVISIONADO III  LIBUV",
+        "category": "Obrigatória",
+        "semester": 7,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDLS0009",
+            "turmaid": "01",
+            "nome": " ESTAGIO SUPERVISIONADO III  LIBUV",
+            "semester": "2018.2",
+            "professor": "MAYSA RAMOS VIEIRA",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDLS0010",
+        "name": "ESTAGIO SUPERVISIONADO IV LIBUV",
+        "category": "Obrigatória",
+        "semester": 7,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDLS0010",
+            "turmaid": "01",
+            "nome": " ESTAGIO SUPERVISIONADO IV LIBUV",
+            "semester": "2018.2",
+            "professor": "ROBSON DE LIMA PEIXOTO",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDLS0011",
+        "name": "ESTAGIO SUPERVISIONADO V  LIBUV",
+        "category": "Obrigatória",
+        "semester": 7,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDLS0011",
+            "turmaid": "01",
+            "nome": " ESTAGIO SUPERVISIONADO V  LIBUV",
+            "semester": "2018.2",
+            "professor": "JOSILENE RIBEIRO DE OLIVEIRA",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDLS0026",
+        "name": "LIBRAS VI",
+        "category": "Obrigatória",
+        "semester": 7,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDLS0026",
+            "turmaid": "01",
+            "nome": " LIBRAS VI",
+            "semester": "2018.2",
+            "professor": "JOELMA REMIGIO DE ARAUJO",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1403738",
+        "name": "TOPICOS ESPECIAIS EM LIBRAS I   LIBUV",
+        "category": "Complementar Flexiva",
+        "semester": 8,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1403738",
+            "turmaid": "01",
+            "nome": " TOPICOS ESPECIAIS EM LIBRAS I   LIBUV",
+            "semester": "2018.2",
+            "professor": "ANA CRISTINA SILVA DAXENBERGER",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1403739",
+        "name": "TOPICOS ESPECIAIS EM LIBRAS II   LIBUV",
+        "category": "Optativa",
+        "semester": 8,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1403734",
+        "name": "TRABALHO DE CONCL DE CURSOTCC   LIBUV",
+        "category": "Complementar Obrigatória",
+        "semester": 8,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1403734",
+            "turmaid": "01",
+            "nome": " TRABALHO DE CONCL DE CURSOTCC   LIBUV",
+            "semester": "2018.2",
+            "professor": "ALINE CLEIDE BATISTA",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDLS0012",
+        "name": "ESTAGIO SUPERVISIONADO VI LIBUV",
+        "category": "Obrigatória",
+        "semester": 8,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDLS0012",
+            "turmaid": "01",
+            "nome": " ESTAGIO SUPERVISIONADO VI LIBUV",
+            "semester": "2018.2",
+            "professor": "MARIE GORETT DANTAS DE ASSIS E MEDEIROS BATISTA",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDLS0013",
+        "name": "ESTAGIO SUPERVISIONADO VII LIBUV",
+        "category": "Obrigatória",
+        "semester": 8,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDLS0013",
+            "turmaid": "01",
+            "nome": " ESTAGIO SUPERVISIONADO VII LIBUV",
+            "semester": "2018.2",
+            "professor": "JANAINA AGUIAR PEIXOTO",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDLS0032",
+        "name": "PESQUISA APLICADA LIBRAS LIBUV",
+        "category": "Complementar Obrigatória",
+        "semester": 8,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDLS0032",
+            "turmaid": "01",
+            "nome": " PESQUISA APLICADA LIBRAS LIBUV",
+            "semester": "2018.2",
+            "professor": "WILSON JOSE FELIX XAVIER",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDLS0004",
+        "name": " ESCRITA DE SINAIS I LIB UV",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": "60h",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDLS0004",
+            "turmaid": "01",
+            "nome": " ESCRITA DE SINAIS I LIB UV",
+            "semester": "2018.2",
+            "professor": "EDNEIA DE OLIVEIRA ALVES",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDLS0029",
+        "name": " LITERATURA VISUAL LIBUV",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": "60h",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDLS0029",
+            "turmaid": "01",
+            "nome": " LITERATURA VISUAL LIBUV",
+            "semester": "2018.2",
+            "professor": "NAYARA DE ALMEIDA ADRIANO",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      }
+    ]
+  }
+}

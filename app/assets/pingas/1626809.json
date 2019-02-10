@@ -1,0 +1,2319 @@
+{
+  "curriculum": {
+    "id": "252008",
+    "codigo": "1626809",
+    "name": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - OUTRO TIPO DE GRAU ACADÊMICO",
+    "faculty": "CENTRO DE TECNOLOGIA (CT) (11.00.55)",
+    "minch": "315",
+    "maxch": "510",
+    "semesters": 8,
+    "courses": [
+      {
+        "id": "1403747",
+        "name": "LIBRAS  LÍNGUA BRASILEIRA DE SINAIS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDLS0024",
+        "name": "LIBRAS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDLS0024",
+            "turmaid": "04",
+            "nome": " LIBRAS",
+            "semester": "2018.2",
+            "professor": "CAROLINA SILVA RESENDE DA NÓBREGA",
+            "horario": "3N1234",
+            "local": "CAB 105 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1101157",
+        "name": "FISICA GERAL I",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1101157",
+            "turmaid": "01",
+            "nome": " FISICA GERAL I",
+            "semester": "2018.2",
+            "professor": "A DEFINIR",
+            "horario": "24M45",
+            "local": "CAD 110 (PRG)"
+          },
+          {
+            "id": "1101157",
+            "turmaid": "07",
+            "nome": " FISICA GERAL I",
+            "semester": "2018.2",
+            "professor": "A DEFINIR",
+            "horario": "24T23",
+            "local": "CAA 104 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1103118",
+        "name": "CÁLCULO VETORIAL E GEOMETRIA ANALÍTICA",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1103118",
+            "turmaid": "06",
+            "nome": " CÁLCULO VETORIAL E GEOMETRIA ANALÍTICA",
+            "semester": "2018.2",
+            "professor": "PEDRO ANTONIO HINOJOSA VERA",
+            "horario": "35M23",
+            "local": "CAA 106 (PRG)"
+          },
+          {
+            "id": "1103118",
+            "turmaid": "08",
+            "nome": " CÁLCULO VETORIAL E GEOMETRIA ANALÍTICA",
+            "semester": "2018.2",
+            "professor": "SHIRLEY MARIA SANTOS E SOUZA",
+            "horario": "35T23",
+            "local": "CAA 102 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1103177",
+        "name": "CÁLCULO DIFERENCIAL E INTEGRAL I",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1103177",
+            "turmaid": "03",
+            "nome": " CÁLCULO DIFERENCIAL E INTEGRAL I",
+            "semester": "2018.2",
+            "professor": "JACQUELINE FABIOLA ROJAS ARANCIBIA",
+            "horario": "24M23",
+            "local": "CAA 101 (PRG)"
+          },
+          {
+            "id": "1103177",
+            "turmaid": "09",
+            "nome": " CÁLCULO DIFERENCIAL E INTEGRAL I",
+            "semester": "2018.2",
+            "professor": "JORGE COSTA DUARTE FILHO",
+            "horario": "24T45",
+            "local": "CAA 101 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1105163",
+        "name": "QUIMICA BASICA  ESTRUTURA",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1105163",
+            "turmaid": "01",
+            "nome": " QUIMICA BASICA  ESTRUTURA",
+            "semester": "2018.2",
+            "professor": "MARIA DE FATIMA CARVALHO COSTA",
+            "horario": "35M23",
+            "local": "DQ 05 (CCEN)"
+          },
+          {
+            "id": "1105163",
+            "turmaid": "03",
+            "nome": " QUIMICA BASICA  ESTRUTURA",
+            "semester": "2018.2",
+            "professor": "GIANNA DE SOUZA SORRENTINO",
+            "horario": "35M45",
+            "local": "CCENB5 (CCEN)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1105164",
+        "name": "QUIMICA BASICA  TRANSFORMACOES",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1105164",
+            "turmaid": "03",
+            "nome": " QUIMICA BASICA  TRANSFORMACOES",
+            "semester": "2018.2",
+            "professor": "GIANNA DE SOUZA SORRENTINO",
+            "horario": "35T23",
+            "local": "DQ 05 (CCEN)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1107136",
+        "name": "INTRODUÇÃO A PROGRAMAÇÃO",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1107136",
+            "turmaid": "03",
+            "nome": " INTRODUÇÃO A PROGRAMAÇÃO",
+            "semester": "2018.2",
+            "professor": "ALVARO FRANCISCO DE CASTRO MEDEIROS",
+            "horario": "36T6 6N12",
+            "local": "CAD 111 (PRG)"
+          },
+          {
+            "id": "1107136",
+            "turmaid": "05",
+            "nome": " INTRODUÇÃO A PROGRAMAÇÃO",
+            "semester": "2018.2",
+            "professor": "ALVARO FRANCISCO DE CASTRO MEDEIROS",
+            "horario": "35M45",
+            "local": "CAE 111 (PRG)"
+          },
+          {
+            "id": "1107136",
+            "turmaid": "08",
+            "nome": " INTRODUÇÃO A PROGRAMAÇÃO",
+            "semester": "2018.2",
+            "professor": "RAIMUNDO DE GOUVEIA NOBREGA FILHO",
+            "horario": "35T45",
+            "local": "CAB 106 (PRG)"
+          },
+          {
+            "id": "1107136",
+            "turmaid": "10",
+            "nome": " INTRODUÇÃO A PROGRAMAÇÃO",
+            "semester": "2018.2",
+            "professor": "CARLOS EDUARDO COELHO FREIRE BATISTA",
+            "horario": "35T45",
+            "local": "CAD 101 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1708001",
+        "name": "METODOLOGIA DO TRABALHO CIENTIFICO",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1708001",
+            "turmaid": "01",
+            "nome": " METODOLOGIA DO TRABALHO CIENTIFICO",
+            "semester": "2018.2",
+            "professor": "SHEILA ALVES BEZERRA DA COSTA REGO",
+            "horario": "4M2345",
+            "local": "MÍDIA 02 (CT)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1709097",
+        "name": "SEMINÁRIO TEMÁTICO I ED REL ETN RAC",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1709097",
+            "turmaid": "01",
+            "nome": " SEMINÁRIO TEMÁTICO I ED REL ETN RAC",
+            "semester": "2018.2",
+            "professor": "IZABEL CRISTINA EVARISTO DA SILVA e GIOVANILTON FERREIRA DA SILVA",
+            "horario": "6T123",
+            "local": "CTB 101 (CT)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1101163",
+        "name": "FISICA GERAL II",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1101163",
+            "turmaid": "02",
+            "nome": " FISICA GERAL II",
+            "semester": "2018.2",
+            "professor": "A DEFINIR",
+            "horario": "24M45",
+            "local": "CAB 101 (PRG)"
+          },
+          {
+            "id": "1101163",
+            "turmaid": "06",
+            "nome": " FISICA GERAL II",
+            "semester": "2018.2",
+            "professor": "A DEFINIR",
+            "horario": "24T23",
+            "local": "CAB 101 (PRG)"
+          }
+        ],
+        "prerequisites": [
+          "1101157"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1101165",
+        "name": "FISICA EXPERIMENTAL I",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "0h aula 30h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1101165",
+            "turmaid": "05",
+            "nome": " FISICA EXPERIMENTAL I",
+            "semester": "2018.2",
+            "professor": "A DEFINIR",
+            "horario": "6M45",
+            "local": "DF 200 (CCEN)"
+          },
+          {
+            "id": "1101165",
+            "turmaid": "07",
+            "nome": " FISICA EXPERIMENTAL I",
+            "semester": "2018.2",
+            "professor": "A DEFINIR",
+            "horario": "6T23",
+            "local": "DF 200 (CCEN)"
+          }
+        ],
+        "prerequisites": [
+          "1101157"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1103178",
+        "name": "CALCULO DIFERENCIAL E INTEGRAL II",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1103178",
+            "turmaid": "05",
+            "nome": " CALCULO DIFERENCIAL E INTEGRAL II",
+            "semester": "2018.2",
+            "professor": "PEDRO ANTONIO GOMEZ VENEGAS",
+            "horario": "24M23",
+            "local": "CAE 111 (PRG)"
+          },
+          {
+            "id": "1103178",
+            "turmaid": "10",
+            "nome": " CALCULO DIFERENCIAL E INTEGRAL II",
+            "semester": "2018.2",
+            "professor": "CARLOS BOCKER NETO",
+            "horario": "24T45",
+            "local": "CAB 103 (PRG)"
+          }
+        ],
+        "prerequisites": [
+          "1103177"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1103179",
+        "name": "INTRODUCAO A ALGEBRA LINEAR",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1103179",
+            "turmaid": "01",
+            "nome": " INTRODUCAO A ALGEBRA LINEAR",
+            "semester": "2018.2",
+            "professor": "JOAO BOSCO BATISTA LACERDA",
+            "horario": "35M23",
+            "local": "CAB 106 (PRG)"
+          },
+          {
+            "id": "1103179",
+            "turmaid": "09",
+            "nome": " INTRODUCAO A ALGEBRA LINEAR",
+            "semester": "2018.2",
+            "professor": "JOSE NAELITON MARQUES DA SILVA",
+            "horario": "35T23",
+            "local": "CAB 103 (PRG)"
+          }
+        ],
+        "prerequisites": [
+          "1103118"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1105162",
+        "name": "QUIMICA BASICA  EXPERIMENTAL",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1105162",
+            "turmaid": "03",
+            "nome": " QUIMICA BASICA  EXPERIMENTAL",
+            "semester": "2018.2",
+            "professor": "MARIA GARDENNIA DA FONSECA",
+            "horario": "6T2345",
+            "local": "LAB QUI 05 (CCEN)"
+          },
+          {
+            "id": "1105162",
+            "turmaid": "04",
+            "nome": " QUIMICA BASICA  EXPERIMENTAL",
+            "semester": "2018.2",
+            "professor": "GIANNA DE SOUZA SORRENTINO",
+            "horario": "4T2345",
+            "local": "LAB QUI 05 (CCEN)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1105167",
+        "name": "QUIMICA ORGANICA I",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1105167",
+            "turmaid": "02",
+            "nome": " QUIMICA ORGANICA I",
+            "semester": "2018.2",
+            "professor": "MARIO LUIZ ARAUJO DE ALMEIDA VASCONCELLOS",
+            "horario": "35T45",
+            "local": "CCENB8 (CCEN)"
+          }
+        ],
+        "prerequisites": [
+          "1105163"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1403153",
+        "name": "PORTUGUÊS INSTRUMENTAL",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1403153",
+            "turmaid": "01",
+            "nome": " PORTUGUÊS INSTRUMENTAL",
+            "semester": "2018.2",
+            "professor": "MARIA DE FATIMA ALMEIDA",
+            "horario": "3T1234",
+            "local": "CCHLA 414 BLOCO I CENTRAL DE AULAS (CCHLA)"
+          },
+          {
+            "id": "1403153",
+            "turmaid": "02",
+            "nome": " PORTUGUÊS INSTRUMENTAL",
+            "semester": "2018.2",
+            "professor": "ENEIDA MARTINS DE OLIVEIRA",
+            "horario": "5N1234",
+            "local": "TS-1 (CCHLA)"
+          },
+          {
+            "id": "1403153",
+            "turmaid": "03",
+            "nome": " PORTUGUÊS INSTRUMENTAL",
+            "semester": "2018.2",
+            "professor": "ISAIAS MOREIRA FERREIRA",
+            "horario": "6M1234",
+            "local": "CAG 106 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1708002",
+        "name": "INTRODUCAO A CIENCIA DOS MATERIAIS",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1708002",
+            "turmaid": "01",
+            "nome": " INTRODUCAO A CIENCIA DOS MATERIAIS",
+            "semester": "2018.2",
+            "professor": "A DEFINIR",
+            "horario": "35T23",
+            "local": "CTJ 101 (CT)"
+          }
+        ],
+        "prerequisites": [
+          "1105163"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1101164",
+        "name": "FISICA GERAL III",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1101164",
+            "turmaid": "03",
+            "nome": " FISICA GERAL III",
+            "semester": "2018.2",
+            "professor": "A DEFINIR",
+            "horario": "24M45",
+            "local": "CAA 104 (PRG)"
+          },
+          {
+            "id": "1101164",
+            "turmaid": "06",
+            "nome": " FISICA GERAL III",
+            "semester": "2018.2",
+            "professor": "A DEFINIR",
+            "horario": "24T23",
+            "local": "CAE 110 (PRG)"
+          }
+        ],
+        "prerequisites": [
+          "1101163"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1103180",
+        "name": "SERIES E EQUACOES DIF ORDINARIAS",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1103180",
+            "turmaid": "02",
+            "nome": " SERIES E EQUACOES DIF ORDINARIAS",
+            "semester": "2018.2",
+            "professor": "EDUARDO GONCALVES DOS SANTOS",
+            "horario": "35M23",
+            "local": "CAD 110 (PRG)"
+          },
+          {
+            "id": "1103180",
+            "turmaid": "04",
+            "nome": " SERIES E EQUACOES DIF ORDINARIAS",
+            "semester": "2018.2",
+            "professor": "ALLAN GEORGE DE CARVALHO FREITAS",
+            "horario": "35M23",
+            "local": "CAE 110 (PRG)"
+          },
+          {
+            "id": "1103180",
+            "turmaid": "07",
+            "nome": " SERIES E EQUACOES DIF ORDINARIAS",
+            "semester": "2018.2",
+            "professor": "MILTON DE LACERDA OLIVEIRA",
+            "horario": "35T45",
+            "local": "CAA 102 (PRG)"
+          }
+        ],
+        "prerequisites": [
+          "1103178"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1103232",
+        "name": "CALCULO DIF  E INTEGRAL III",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1103232",
+            "turmaid": "04",
+            "nome": " CALCULO DIF  E INTEGRAL III",
+            "semester": "2018.2",
+            "professor": "JOEDSON SILVA DOS SANTOS",
+            "horario": "24M23",
+            "local": "CAE 110 (PRG)"
+          },
+          {
+            "id": "1103232",
+            "turmaid": "07",
+            "nome": " CALCULO DIF  E INTEGRAL III",
+            "semester": "2018.2",
+            "professor": "JOAO BOSCO BATISTA LACERDA",
+            "horario": "24T45",
+            "local": "CAB 102 (PRG)"
+          }
+        ],
+        "prerequisites": [
+          "1103178"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1708003",
+        "name": "DESENHO TECNICO PARA ENG DE MATERIAIS",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1708003",
+            "turmaid": "01",
+            "nome": " DESENHO TECNICO PARA ENG DE MATERIAIS",
+            "semester": "2018.2",
+            "professor": "TIBERIO ANDRADE DOS PASSOS",
+            "horario": "6M2345",
+            "local": "MÍDIA 02 (CT)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1708008",
+        "name": "MATERIAIS POLIMERICOS",
+        "category": "Complementar Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1708008",
+            "turmaid": "01",
+            "nome": " MATERIAIS POLIMERICOS",
+            "semester": "2018.2",
+            "professor": "ELITON SOUTO DE MEDEIROS",
+            "horario": "24T23",
+            "local": "CTJ 106 (CT)"
+          }
+        ],
+        "prerequisites": [
+          "1708002",
+          "1105167"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1708009",
+        "name": "MATERIAIS CERAMICOS",
+        "category": "Complementar Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1708009",
+            "turmaid": "01",
+            "nome": " MATERIAIS CERAMICOS",
+            "semester": "2018.2",
+            "professor": "LISZANDRA FERNANDA ARAUJO CAMPOS",
+            "horario": "35T45",
+            "local": "CTJ 101 (CT)"
+          }
+        ],
+        "prerequisites": [
+          "1708002"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1708010",
+        "name": "MATERIAIS METALICOS",
+        "category": "Complementar Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1708010",
+            "turmaid": "01",
+            "nome": " MATERIAIS METALICOS",
+            "semester": "2018.2",
+            "professor": "DANIELLE GUEDES DE LIMA CAVALCANTE",
+            "horario": "35M45",
+            "local": "CTJ T07 (CT)"
+          }
+        ],
+        "prerequisites": [
+          "1708002"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1708039",
+        "name": "ESTRUTURA E PROPRIEDADES DOS POLIMEROS",
+        "category": "Optativa",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1708008",
+          "1708009",
+          "1708010"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1708040",
+        "name": "ADITIVAÇÃO DE POLIMEROS",
+        "category": "Optativa",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1708040",
+            "turmaid": "01",
+            "nome": " ADITIVAÇÃO DE POLIMEROS",
+            "semester": "2018.2",
+            "professor": "ELITON SOUTO DE MEDEIROS",
+            "horario": "24M23",
+            "local": "CTM 202 (CT)"
+          }
+        ],
+        "prerequisites": [
+          "1708008",
+          "1708009",
+          "1708010"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1708041",
+        "name": "ADESIVOS",
+        "category": "Optativa",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1708008",
+          "1708009",
+          "1708010"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1101120",
+        "name": "FISICA GERAL IV",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1101120",
+            "turmaid": "01",
+            "nome": " FISICA GERAL IV",
+            "semester": "2018.2",
+            "professor": "A DEFINIR",
+            "horario": "24M45",
+            "local": "CAA 105 (PRG)"
+          }
+        ],
+        "prerequisites": [
+          "1101164"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1101166",
+        "name": "FISICA EXPERIMENTAL II",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1101166",
+            "turmaid": "02",
+            "nome": " FISICA EXPERIMENTAL II",
+            "semester": "2018.2",
+            "professor": "A DEFINIR",
+            "horario": "2T45",
+            "local": "LAB (CCEN)"
+          },
+          {
+            "id": "1101166",
+            "turmaid": "04",
+            "nome": " FISICA EXPERIMENTAL II",
+            "semester": "2018.2",
+            "professor": "A DEFINIR",
+            "horario": "4M23",
+            "local": "LAB (CCEN)"
+          }
+        ],
+        "prerequisites": [
+          "1101164"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1404138",
+        "name": "LINGUA INGLESA I",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "75h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1404138",
+            "turmaid": "01",
+            "nome": " LINGUA INGLESA I",
+            "semester": "2018.2",
+            "professor": "GREGÓRIO PEREIRA DE VASCONCELOS",
+            "horario": "35N34 6N1",
+            "local": "CAA 106 (PRG)"
+          },
+          {
+            "id": "1404138",
+            "turmaid": "02",
+            "nome": " LINGUA INGLESA I",
+            "semester": "2018.2",
+            "professor": "GREGÓRIO PEREIRA DE VASCONCELOS",
+            "horario": "24M56 6M6",
+            "local": "CAA 101 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+          "1404325"
+        ]
+      },
+      {
+        "id": "1708011",
+        "name": "MECANICA DOS MATERIAIS I",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1708011",
+            "turmaid": "01",
+            "nome": " MECANICA DOS MATERIAIS I",
+            "semester": "2018.2",
+            "professor": "ROMULO ADOLFO HERINGER FERREIRA",
+            "horario": "35T23",
+            "local": "CTK 201 (CT)"
+          }
+        ],
+        "prerequisites": [
+          "1103232",
+          "1103180",
+          "1101163"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1708012",
+        "name": "PESQUISA APLICADA A ENGENHARIA",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1708012",
+            "turmaid": "01",
+            "nome": " PESQUISA APLICADA A ENGENHARIA",
+            "semester": "2018.2",
+            "professor": "SANDRO MARDEN TORRES e ANTONIO FARIAS LEAL",
+            "horario": "24T23",
+            "local": "CTM 202 (CT)"
+          }
+        ],
+        "prerequisites": [
+          "1103178"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1708013",
+        "name": "PROPRIEDADES MECANICAS DOS MATERIAS",
+        "category": "Complementar Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1708013",
+            "turmaid": "01",
+            "nome": " PROPRIEDADES MECANICAS DOS MATERIAS",
+            "semester": "2018.2",
+            "professor": "DANIELLE GUEDES DE LIMA CAVALCANTE",
+            "horario": "35M23",
+            "local": "CTJ 103 (CT)"
+          }
+        ],
+        "prerequisites": [
+          "1708008",
+          "1708009",
+          "1708010"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1708014",
+        "name": "CARACTERIZAÇÃO MICROESTR DOS MATERIAIS",
+        "category": "Complementar Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1708014",
+            "turmaid": "01",
+            "nome": " CARACTERIZAÇÃO MICROESTR DOS MATERIAIS",
+            "semester": "2018.2",
+            "professor": "HEBER SIVINI FERREIRA",
+            "horario": "35T45",
+            "local": "CTJ 106 (CT)"
+          }
+        ],
+        "prerequisites": [
+          "1708002"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1708015",
+        "name": "ESTAGIO SUPERVISIONADO I",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1708015",
+            "turmaid": "01",
+            "nome": " ENG. DE MATERIAIS",
+            "semester": "2018.2",
+            "professor": "ITAMARA FARIAS LEITE",
+            "horario": "6T123",
+            "local": "CTM 202 (CT)"
+          }
+        ],
+        "prerequisites": [
+          "1708008",
+          "1708009",
+          "1708010"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1705178",
+        "name": "GESTÃO DA QUALIDADE",
+        "category": "Optativa",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1705178",
+            "turmaid": "01",
+            "nome": " GESTÃO DA QUALIDADE",
+            "semester": "2018.2",
+            "professor": "LIGIA DE OLIVEIRA FRANZOSI BESSA",
+            "horario": "35M23",
+            "local": "MANDACARU (CT)"
+          }
+        ],
+        "prerequisites": [
+          "1708008",
+          "1708009",
+          "1708010"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1708046",
+        "name": "TECNOLOGIA DE VIDROS",
+        "category": "Optativa",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1708046",
+            "turmaid": "01",
+            "nome": " TECNOLOGIA DE VIDROS",
+            "semester": "2018.2",
+            "professor": "LISZANDRA FERNANDA ARAUJO CAMPOS",
+            "horario": "6M2345",
+            "local": "CTJ 104 (CT)"
+          }
+        ],
+        "prerequisites": [
+          "1708008",
+          "1708009",
+          "1708010"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1708048",
+        "name": "CERAMICAS VERMELHAS",
+        "category": "Optativa",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1708008",
+          "1708009",
+          "1708010"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1708053",
+        "name": "PROCESSOS DE FABRICAÇÃO",
+        "category": "Optativa",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1708008",
+          "1708009",
+          "1708010"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1401161",
+        "name": "SOCIOLOGIA DO TRABALHO",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1401161",
+            "turmaid": "02",
+            "nome": " SOCIOLOGIA DO TRABALHO",
+            "semester": "2018.2",
+            "professor": "JOSE TAVARES DE ANDRADE FILHO",
+            "horario": "6T2345",
+            "local": "CAE 109 (PRG)"
+          },
+          {
+            "id": "1401161",
+            "turmaid": "06",
+            "nome": " SOCIOLOGIA DO TRABALHO",
+            "semester": "2018.2",
+            "professor": "ANTONIO GIOVANNI BOAES GONCALVES",
+            "horario": "24M45",
+            "local": "CAF 103 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1708017",
+        "name": "MATERIAIS COMPOSITOS",
+        "category": "Complementar Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1708017",
+            "turmaid": "01",
+            "nome": " MATERIAIS COMPOSITOS",
+            "semester": "2018.2",
+            "professor": "LUCINEIDE BALBINO DA SILVA",
+            "horario": "35M23",
+            "local": "CTJ 104 (CT)"
+          }
+        ],
+        "prerequisites": [
+          "1708008",
+          "1708009",
+          "1708010"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1708018",
+        "name": "FENOMENOS DE TRANSPORTES ENG MAT",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1708018",
+            "turmaid": "01",
+            "nome": " FENOMENOS DE TRANSPORTES ENG MAT",
+            "semester": "2018.2",
+            "professor": "FABIANA DE CARVALHO FIM",
+            "horario": "24T45",
+            "local": "CTJ 104 (CT)"
+          }
+        ],
+        "prerequisites": [
+          "1708011"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1708019",
+        "name": "MECANICA DOS MATERIAIS II",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1708019",
+            "turmaid": "01",
+            "nome": " MECANICA DOS MATERIAIS II",
+            "semester": "2018.2",
+            "professor": "IEVERTON CAIANDRE ANDRADE BRITO",
+            "horario": "24T23",
+            "local": "CTJ 104 (CT)"
+          }
+        ],
+        "prerequisites": [
+          "1708011"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1708020",
+        "name": "CARACTERIZAÇÃO MECANICA DOS MATERIAIS",
+        "category": "Complementar Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1708020",
+            "turmaid": "01",
+            "nome": " CARACTERIZAÇÃO MECANICA DOS MATERIAIS",
+            "semester": "2018.2",
+            "professor": "HEBER SIVINI FERREIRA",
+            "horario": "35T23",
+            "local": "CTJ 104 (CT)"
+          }
+        ],
+        "prerequisites": [
+          "1708013"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1708021",
+        "name": "PROPRIEDADES FISICAS DOS MATERIAIS",
+        "category": "Complementar Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1708021",
+            "turmaid": "01",
+            "nome": " PROPRIEDADES FISICAS DOS MATERIAIS",
+            "semester": "2018.2",
+            "professor": "RAMON ALVES TORQUATO",
+            "horario": "35M45",
+            "local": "CTJ 104 (CT)"
+          }
+        ],
+        "prerequisites": [
+          "1708008",
+          "1708009",
+          "1708010"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1708022",
+        "name": "TRATAMENTOS TERMICOS",
+        "category": "Complementar Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1708022",
+            "turmaid": "01",
+            "nome": " TRATAMENTOS TERMICOS",
+            "semester": "2018.2",
+            "professor": "TIBERIO ANDRADE DOS PASSOS",
+            "horario": "24M23",
+            "local": "CTJ 104 (CT)"
+          }
+        ],
+        "prerequisites": [
+          "1708010"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1705141",
+        "name": "GESTAO DE MATERIAIS",
+        "category": "Optativa",
+        "semester": 6,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1708008",
+          "1708009",
+          "1708010"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1708036",
+        "name": "QUIMICA DE POLIMEROS",
+        "category": "Optativa",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1708013",
+          "1708021"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1708037",
+        "name": "SINTESE DE POLIMEROS",
+        "category": "Optativa",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1708021",
+          "1708013"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1708038",
+        "name": "TOPICOS ESPECIAIS EM POLIMEROS",
+        "category": "Complementar Flexiva",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1708043",
+        "name": "CERAMICAS REFRATARIAS",
+        "category": "Optativa",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1708013",
+          "1708021"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1708044",
+        "name": "FORMULAÇAO DE MATERIAS CERAMICOS",
+        "category": "Optativa",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1708013",
+          "1708021"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1708045",
+        "name": "TOPICOS ESPECIAIS EM CERAMICAS",
+        "category": "Complementar Flexiva",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1708047",
+        "name": "PROPRIEDADES E PRODUTOS CERAMICOS",
+        "category": "Optativa",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1708008",
+          "1708009",
+          "1708010"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1708052",
+        "name": "TOPICOS ESPECIAIS EM METAIS",
+        "category": "Complementar Flexiva",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1708052",
+            "turmaid": "01",
+            "nome": " TOPICOS ESPECIAIS EM METAIS",
+            "semester": "2018.2",
+            "professor": "MARIA ROSEANE DE PONTES FERNANDES",
+            "horario": "35T45",
+            "local": "CTB 107 (CT)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1708054",
+        "name": "PROCESSOS DE FABRICAÇÃO",
+        "category": "Optativa",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1708008",
+          "1708009",
+          "1708010"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1708059",
+        "name": "TOPICOS ESPECIAIS EM GESTÃO DE MATERIAIS",
+        "category": "Complementar Flexiva",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1708060",
+        "name": "TOPICOS ESPECIAIS EM ENG DE MATERIAIS",
+        "category": "Complementar Flexiva",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1708008",
+          "1708009",
+          "1708010"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1204115",
+        "name": "ADM DE EMPRESAS",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "75h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1204115",
+            "turmaid": "01",
+            "nome": " ADM DE EMPRESAS",
+            "semester": "2018.2",
+            "professor": "IVAN RAMOS CAVALCANTI",
+            "horario": "4N1234 5N1",
+            "local": "CAH 107 (PRG)"
+          },
+          {
+            "id": "1204115",
+            "turmaid": "02",
+            "nome": " ADM DE EMPRESAS",
+            "semester": "2018.2",
+            "professor": "SANDRA LEANDRO PEREIRA",
+            "horario": "24M45 5M1",
+            "local": "CAF 110 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1708023",
+        "name": "MATERIAIS CIMENTICIOS",
+        "category": "Complementar Obrigatória",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1708023",
+            "turmaid": "01",
+            "nome": " MATERIAIS CIMENTICIOS",
+            "semester": "2018.2",
+            "professor": "SANDRO MARDEN TORRES e ANTONIO FARIAS LEAL",
+            "horario": "24M23",
+            "local": "LSR (CT)"
+          }
+        ],
+        "prerequisites": [
+          "1708008",
+          "1708009",
+          "1708010"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1708024",
+        "name": "TERMODINAMICA",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1708024",
+            "turmaid": "01",
+            "nome": " TERMODINAMICA",
+            "semester": "2018.2",
+            "professor": "DANNIEL FERREIRA DE OLIVEIRA",
+            "horario": "35T23",
+            "local": "LSR (CT)"
+          }
+        ],
+        "prerequisites": [
+          "1708018"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1708025",
+        "name": "MECANICA DOS MATERIAIS III",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1708025",
+            "turmaid": "01",
+            "nome": " MECANICA DOS MATERIAIS III",
+            "semester": "2018.2",
+            "professor": "DANNIEL FERREIRA DE OLIVEIRA",
+            "horario": "35T45",
+            "local": "CTJ 103 (CT)"
+          }
+        ],
+        "prerequisites": [
+          "1708019"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1708026",
+        "name": "MATERIAIS PARTICULADOS",
+        "category": "Complementar Obrigatória",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1708026",
+            "turmaid": "01",
+            "nome": " MATERIAIS PARTICULADOS",
+            "semester": "2018.2",
+            "professor": "DANIEL ARAUJO DE MACEDO",
+            "horario": "35M23",
+            "local": "CTJ 107 (CT)"
+          }
+        ],
+        "prerequisites": [
+          "1708008",
+          "1708009",
+          "1708010"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1708027",
+        "name": "CORROSAO E DEGRADAÇAO DE MATERIAIS",
+        "category": "Complementar Obrigatória",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1708027",
+            "turmaid": "01",
+            "nome": " CORROSAO E DEGRADAÇAO DE MATERIAIS",
+            "semester": "2018.2",
+            "professor": "ITAMARA FARIAS LEITE",
+            "horario": "35M45",
+            "local": "CTM 202 (CT)"
+          }
+        ],
+        "prerequisites": [
+          "1708008",
+          "1708009",
+          "1708010"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1708028",
+        "name": "CRISTALOGRAFIA",
+        "category": "Complementar Obrigatória",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1708028",
+            "turmaid": "01",
+            "nome": " CRISTALOGRAFIA",
+            "semester": "2018.2",
+            "professor": "SANDRO MARDEN TORRES",
+            "horario": "24T45",
+            "local": "CTM 203 (CT)"
+          }
+        ],
+        "prerequisites": [
+          "1708008",
+          "1708009",
+          "1708010",
+          "1708014"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1705129",
+        "name": "LOGISTICA INDUSTRIAL",
+        "category": "Optativa",
+        "semester": 7,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1708008",
+          "1708009",
+          "1708010"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1705130",
+        "name": "PLANEJAMENTO E PROJETO DO PRODUTO",
+        "category": "Optativa",
+        "semester": 7,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1705130",
+            "turmaid": "01",
+            "nome": " PLANEJAMENTO E PROJETO DO PRODUTO",
+            "semester": "2018.2",
+            "professor": "MARCEL DE GOIS PINTO",
+            "horario": "2T123",
+            "local": "CTF 101 (CT)"
+          }
+        ],
+        "prerequisites": [
+          "1708008",
+          "1708009",
+          "1708010"
+        ],
+        "equivalences": [
+          "1705156"
+        ]
+      },
+      {
+        "id": "1708050",
+        "name": "SIDERURGIA",
+        "category": "Optativa",
+        "semester": 7,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1708013",
+          "1708021"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1708055",
+        "name": "PROCESSOS DE FABRICAÇÃO",
+        "category": "Optativa",
+        "semester": 7,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1708008",
+          "1708009",
+          "1708010"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1708057",
+        "name": "ENGENHARIA DE RESIDUOS",
+        "category": "Optativa",
+        "semester": 7,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1708021",
+          "1708013"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1708058",
+        "name": "PROPRIEDADE INTELECTUAL E PATENTES",
+        "category": "Optativa",
+        "semester": 7,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1708013",
+          "1708021"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1201126",
+        "name": "ECONOMIA I",
+        "category": "Obrigatória",
+        "semester": 7,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1201126",
+            "turmaid": "02",
+            "nome": " ECONOMIA I",
+            "semester": "2018.2",
+            "professor": "REJANE GOMES CARVALHO",
+            "horario": "35M45",
+            "local": "CAD 108 (PRG)"
+          },
+          {
+            "id": "1201126",
+            "turmaid": "07",
+            "nome": " ECONOMIA I",
+            "semester": "2018.2",
+            "professor": "FERNANDA BRAGA TAVARES",
+            "horario": "35N12",
+            "local": "CAD 105 (PRG) / CAD 102 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+          "1201180"
+        ]
+      },
+      {
+        "id": "1708029",
+        "name": "MATERIAIS DA INDUSTRIA DO PETROLEO",
+        "category": "Complementar Obrigatória",
+        "semester": 7,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1708029",
+            "turmaid": "01",
+            "nome": " MATERIAIS DA INDUSTRIA DO PETROLEO",
+            "semester": "2018.2",
+            "professor": "CARINA GABRIELA DE MELO E MELO",
+            "horario": "35T23",
+            "local": "CTJ T07 (CT)"
+          }
+        ],
+        "prerequisites": [
+          "1708008",
+          "1708009",
+          "1708010"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1708030",
+        "name": "TRANSFORMAÇOES DE FASE",
+        "category": "Complementar Obrigatória",
+        "semester": 7,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1708030",
+            "turmaid": "01",
+            "nome": " TRANSFORMAÇOES DE FASE",
+            "semester": "2018.2",
+            "professor": "CLAUDIO ALVES DE SIQUEIRA FILHO",
+            "horario": "24T23",
+            "local": "CTJ 103 (CT)"
+          }
+        ],
+        "prerequisites": [
+          "1708024"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1708031",
+        "name": "MODELAGEM DE MATERIAIS",
+        "category": "Obrigatória",
+        "semester": 7,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1708031",
+            "turmaid": "01",
+            "nome": " MODELAGEM DE MATERIAIS",
+            "semester": "2018.2",
+            "professor": "ROMULO ADOLFO HERINGER FERREIRA",
+            "horario": "24T45",
+            "local": "CTK 201 (CT)"
+          }
+        ],
+        "prerequisites": [
+          "1708025"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1708035",
+        "name": "PROCESSAMENTO DE MATERIAIS POLIMERICOS",
+        "category": "Complementar Obrigatória",
+        "semester": 7,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1708035",
+            "turmaid": "01",
+            "nome": " PROCESSAMENTO DE MATERIAIS POLIMERICOS",
+            "semester": "2018.2",
+            "professor": "LUCINEIDE BALBINO DA SILVA",
+            "horario": "24M45",
+            "local": "CTJ 104 (CT)"
+          }
+        ],
+        "prerequisites": [
+          "1708013",
+          "1708021"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1708042",
+        "name": "PROCESSAMENTO DE MATERIAIS CERAMICOS",
+        "category": "Complementar Obrigatória",
+        "semester": 7,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1708042",
+            "turmaid": "01",
+            "nome": " PROCESSAMENTO DE MATERIAIS CERAMICOS",
+            "semester": "2018.2",
+            "professor": "RAMON ALVES TORQUATO",
+            "horario": "35T45",
+            "local": "CTJ 104 (CT)"
+          }
+        ],
+        "prerequisites": [
+          "1708013",
+          "1708021"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1708056",
+        "name": "SELEÇÃO DE MATERIAIS",
+        "category": "Complementar Obrigatória",
+        "semester": 7,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1708013",
+          "1708021"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1705123",
+        "name": "SEGURANCA INDUSTRIAL I",
+        "category": "Optativa",
+        "semester": 8,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1705123",
+            "turmaid": "01",
+            "nome": " SEGURANCA INDUSTRIAL I",
+            "semester": "2018.2",
+            "professor": "FÁBIO MORAIS BORGES",
+            "horario": "6M123",
+            "local": "SALA DE MULTIMIDIAS DE PRODUÇÃO PPGEP (CT)"
+          }
+        ],
+        "prerequisites": [
+          "1708008",
+          "1708009",
+          "1708010"
+        ],
+        "equivalences": [
+          "1705109"
+        ]
+      },
+      {
+        "id": "1705124",
+        "name": "SEGURANCA INDUSTRIAL II",
+        "category": "Optativa",
+        "semester": 8,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1708008",
+          "1708009",
+          "1708010"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1708051",
+        "name": "METALURGIA DOS NÃO FERROSOS",
+        "category": "Optativa",
+        "semester": 8,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1708013",
+          "1708021"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1708061",
+        "name": "MATERIAIS AVAÇADOS",
+        "category": "Optativa",
+        "semester": 8,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1708008",
+          "1708009",
+          "1708010"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1708062",
+        "name": "TRATAMENTO DE MINERIOS",
+        "category": "Optativa",
+        "semester": 8,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1708008",
+          "1708009",
+          "1708010"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1705181",
+        "name": "ECOLOGIA INDUSTRIAL E DESENV SUSTENTÁVE",
+        "category": "Obrigatória",
+        "semester": 8,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1705181",
+            "turmaid": "01",
+            "nome": " ECOLOGIA INDUSTRIAL E DESENV SUSTENTÁVE",
+            "semester": "2018.2",
+            "professor": "RICARDO MOREIRA DA SILVA",
+            "horario": "35M45",
+            "local": "MANDACARU (CT)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1708032",
+        "name": "BIOMATERIAIS",
+        "category": "Complementar Obrigatória",
+        "semester": 8,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1708032",
+            "turmaid": "01",
+            "nome": " BIOMATERIAIS",
+            "semester": "2018.2",
+            "professor": "MARIA ROSEANE DE PONTES FERNANDES",
+            "horario": "35T23",
+            "local": "CTB 107 (CT)"
+          }
+        ],
+        "prerequisites": [
+          "1708008",
+          "1708009",
+          "1708010"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1708034",
+        "name": "UNIAO DE MATERIAIS",
+        "category": "Complementar Obrigatória",
+        "semester": 8,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1708034",
+            "turmaid": "01",
+            "nome": " UNIAO DE MATERIAIS",
+            "semester": "2018.2",
+            "professor": "FABIANA DE CARVALHO FIM",
+            "horario": "6T2345",
+            "local": "CTJ 107 (CT)"
+          }
+        ],
+        "prerequisites": [
+          "1708008",
+          "1708009",
+          "1708010"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDENM0065",
+        "name": "ESTAGIO SUPERVISIONADO II",
+        "category": "Obrigatória",
+        "semester": 8,
+        "workload": "180h aula 0h lab.",
+        "type": "ESTÁGIO",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+          "1708016"
+        ]
+      },
+      {
+        "id": "GDENM0066",
+        "name": "TRABALHO DE CONCLUSAO DE CURSO (TCC)",
+        "category": "Complementar Obrigatória",
+        "semester": 8,
+        "workload": "0h aula 60h lab.",
+        "type": "ATIVIDADE ESPECIAL",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+          "1708033"
+        ]
+      },
+      {
+        "id": "1708049",
+        "name": " PROCESSAMENTO DE MATERIAIS METALICOS",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": "60h",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1708049",
+            "turmaid": "01",
+            "nome": " PROCESSAMENTO DE MATERIAIS METALICOS",
+            "semester": "2018.2",
+            "professor": "IEVERTON CAIANDRE ANDRADE BRITO",
+            "horario": "24M23",
+            "local": "CTJ 103 (CT)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      }
+    ]
+  }
+}

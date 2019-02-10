@@ -1,0 +1,1976 @@
+{
+  "curriculum": {
+    "id": "472012",
+    "codigo": "1626736",
+    "name": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - OUTRO TIPO DE GRAU ACADÊMICO",
+    "faculty": "CENTRO DE TECNOLOGIA (CT) (11.00.55)",
+    "minch": "240",
+    "maxch": "480",
+    "semesters": 10,
+    "courses": [
+      {
+        "id": "1403747",
+        "name": "LIBRAS  LÍNGUA BRASILEIRA DE SINAIS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1704151",
+        "name": "ANALISE DE ESPACO URBANO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1704197",
+        "name": "TOPICOS III FOTOGRAFIA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1704201",
+        "name": "TOPICOS VII DETALHE I",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1704202",
+        "name": "TOPICOS VIII EMPREENDEDORISMO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1704205",
+        "name": "TOPICOS XI  ESTRUTURAS METALICAS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1704205",
+            "turmaid": "01",
+            "nome": " TOPICOS XI  ESTRUTURAS METALICAS",
+            "semester": "2018.2",
+            "professor": "ANTONIO DA SILVA SOBRINHO JUNIOR",
+            "horario": "3T123",
+            "local": "CTH AT1 (CT)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1704237",
+        "name": "OCUPAÇAO E USO DO SOLO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1704243",
+        "name": "TÓPIX REPRESENTGRÁFICA DO PROJETO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1704276",
+        "name": "ARTE CONTEMPORANEA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1704277",
+        "name": "EMPREENDEDORISMO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1704278",
+        "name": "TÉCNICAS DE AVALIAÇÃO PÓSOCUPAÇÃO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1704279",
+        "name": "ARQUITETURA E SEGURANÇA NO TRABALHO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1704280",
+        "name": "FOTOGRAFIA APLICADA A ARQUITETURA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1704281",
+        "name": "DESENHO  À MÃO LIVRE",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1704282",
+        "name": "DETALHES I",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1704283",
+        "name": "DETALHES II",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1704284",
+        "name": "COR NA ARQUITETURA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1704285",
+        "name": "REPRESENTAÇÃO GRÁFICA DO PROJETO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1704286",
+        "name": "PAISAGISMO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1704287",
+        "name": "ILUMINAÇÃO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1704288",
+        "name": "TECTÔNICA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1704289",
+        "name": "PROJETOS ESPECIAIS I",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "15h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1704185"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1704291",
+        "name": "PROJETOS ESPECIAIS III",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1704185"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1704292",
+        "name": "PROJETOS ESPECIAIS IV",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1704292",
+            "turmaid": "01",
+            "nome": " PROJETOS ESPECIAIS IV",
+            "semester": "2018.2",
+            "professor": "CLAUDIA VERONICA TORRES BARBOSA",
+            "horario": "2T123",
+            "local": "CTH 102 (CT)"
+          }
+        ],
+        "prerequisites": [
+          "1704185"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1704293",
+        "name": "PROJETOS ESPECIAIS V",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1704185"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1704294",
+        "name": "PROJETOS ESPECIAIS EM URBANISMO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1704294",
+            "turmaid": "01",
+            "nome": " PROJETOS ESPECIAIS EM URBANISMO",
+            "semester": "2018.2",
+            "professor": "A DEFINIR",
+            "horario": "6M234",
+            "local": "PPGAU 205 (CT)"
+          }
+        ],
+        "prerequisites": [
+          "1704185"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1704295",
+        "name": "TÓPICOS ESPECEM ARQUTE URBANISMO I",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1704296",
+        "name": "TÓPESPECEM ARQUIT E URBANISMO II",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1704297",
+        "name": "TÓPESPECEM ARQUITE URBANISMO III",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1704298",
+        "name": "TÓPESPECEM ARQUITE URBANISMO IV",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDLS0024",
+        "name": "LIBRAS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1704160",
+        "name": "ELEMENTOS DE HISTARTE E ARQUITETURAURA",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1704160",
+            "turmaid": "01",
+            "nome": " ELEMENTOS DE HISTARTE E ARQUITETURAURA",
+            "semester": "2018.2",
+            "professor": "ELIEZER LEITE ROLIM FILHO",
+            "horario": "35M45",
+            "local": "CTH 101 (CT)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1704179",
+        "name": "OFICINA DE DESENHO I",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "90h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1704179",
+            "turmaid": "01",
+            "nome": " OFICINA DE DESENHO I",
+            "semester": "2018.2",
+            "professor": "LUCY DONEGAN",
+            "horario": "35M123",
+            "local": "CTH 101 (CT)"
+          },
+          {
+            "id": "1704179",
+            "turmaid": "02",
+            "nome": " OFICINA DE DESENHO I",
+            "semester": "2018.2",
+            "professor": "MARILIA DE AZEVEDO DIEB",
+            "horario": "35M123",
+            "local": "CTH 102 (CT)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1704208",
+        "name": "SISTEMAS ESTRUTURAIS I",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1704208",
+            "turmaid": "01",
+            "nome": " SISTEMAS ESTRUTURAIS I",
+            "semester": "2018.2",
+            "professor": "GERMANA COSTA ROCHA",
+            "horario": "46M45",
+            "local": "CTH AT5 (CT)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1704248",
+        "name": "MET DO TRABALHO CIENTÍFICO",
+        "category": "Complementar Obrigatória",
+        "semester": 1,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1704248",
+            "turmaid": "01",
+            "nome": " MET DO TRABALHO CIENTÍFICO",
+            "semester": "2018.2",
+            "professor": "ITALO PEREIRA FERNANDES",
+            "horario": "2M45",
+            "local": "CTH 102 (CT)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1704249",
+        "name": "GEOMETRIA DESCRITIVA",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1704249",
+            "turmaid": "01",
+            "nome": " GEOMETRIA DESCRITIVA",
+            "semester": "2018.2",
+            "professor": "CLAUDIA RUBERG",
+            "horario": "2M123",
+            "local": "CTH 101 (CT)"
+          },
+          {
+            "id": "1704249",
+            "turmaid": "02",
+            "nome": " GEOMETRIA DESCRITIVA",
+            "semester": "2018.2",
+            "professor": "DIMITRI COSTA CASTOR",
+            "horario": "2M123",
+            "local": "CTH AT2 (CT)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1704250",
+        "name": "INTRODUÇAO AO DESENHO ARQUITETÔNICO",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1704250",
+            "turmaid": "01",
+            "nome": " INTRODUÇAO AO DESENHO ARQUITETÔNICO",
+            "semester": "2018.2",
+            "professor": "CLAUDIA RUBERG",
+            "horario": "46T23",
+            "local": "CTH 101 (CT)"
+          },
+          {
+            "id": "1704250",
+            "turmaid": "02",
+            "nome": " INTRODUÇAO AO DESENHO ARQUITETÔNICO",
+            "semester": "2018.2",
+            "professor": "MARCELO ANDRADE DINIZ",
+            "horario": "46T23",
+            "local": "CTH 102 (CT)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1704251",
+        "name": "OFICINA DE PLASTICA I",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "90h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1704251",
+            "turmaid": "01",
+            "nome": " OFICINA DE PLASTICA I",
+            "semester": "2018.2",
+            "professor": "AMELIA DE FARIAS PANET BARROS",
+            "horario": "46M123",
+            "local": "CTH 103 (CT)"
+          },
+          {
+            "id": "1704251",
+            "turmaid": "02",
+            "nome": " OFICINA DE PLASTICA I",
+            "semester": "2018.2",
+            "professor": "CLAUDIA RUBERG",
+            "horario": "46M123",
+            "local": "CTH 104 (CT)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1704252",
+        "name": "NOÇÕES DE ARQUITETURA E URBANISMO",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1704252",
+            "turmaid": "01",
+            "nome": " NOÇÕES DE ARQUITETURA E URBANISMO",
+            "semester": "2018.2",
+            "professor": "IVAN CAVALCANTI FILHO",
+            "horario": "3T123",
+            "local": "CTH 101 (CT)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1704128",
+        "name": "OFICINA DE PLASTICA IIARQUITETURA",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "90h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1704128",
+            "turmaid": "01",
+            "nome": " OFICINA DE PLASTICA IIARQUITETURA",
+            "semester": "2018.2",
+            "professor": "CARLOS ALEJANDRO NOME SILVA",
+            "horario": "35M123",
+            "local": "CTH 103 (CT)"
+          },
+          {
+            "id": "1704128",
+            "turmaid": "02",
+            "nome": " OFICINA DE PLASTICA IIARQUITETURA",
+            "semester": "2018.2",
+            "professor": "LIZIA AGRA VILLARIM",
+            "horario": "35M123",
+            "local": "CTH 104 (CT)"
+          }
+        ],
+        "prerequisites": [
+          "1704251",
+          "1704127"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1704154",
+        "name": "DESENHO DE ARQUITETURA",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "90h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1704154",
+            "turmaid": "01",
+            "nome": " DESENHO DE ARQUITETURA",
+            "semester": "2018.2",
+            "professor": "ELISABETTA ROMANO JALES",
+            "horario": "46T123",
+            "local": "CTP  LI3 (CT)"
+          },
+          {
+            "id": "1704154",
+            "turmaid": "02",
+            "nome": " DESENHO DE ARQUITETURA",
+            "semester": "2018.2",
+            "professor": "MARCELO ANDRADE DINIZ",
+            "horario": "35T123",
+            "local": "CTP  LI3 (CT)"
+          }
+        ],
+        "prerequisites": [
+          "1704249",
+          "1704119",
+          "1704176",
+          "1704250"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1704180",
+        "name": "OFICINA DE DESENHO II",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "90h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1704180",
+            "turmaid": "01",
+            "nome": " OFICINA DE DESENHO II",
+            "semester": "2018.2",
+            "professor": "ELIEZER LEITE ROLIM FILHO",
+            "horario": "46M123",
+            "local": "CTH 101 (CT)"
+          }
+        ],
+        "prerequisites": [
+          "1704179"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1704247",
+        "name": "PESQUISA APLICADA A ARQURBANISMO",
+        "category": "Complementar Obrigatória",
+        "semester": 2,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1704247",
+            "turmaid": "01",
+            "nome": " PESQUISA APLICADA A ARQURBANISMO",
+            "semester": "2018.2",
+            "professor": "ANGELINA DIAS LEAO COSTA",
+            "horario": "5T45",
+            "local": "CTH AT1 (CT)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1704253",
+        "name": "HISTÓRIA DA ARQUITE DO URBANISMO I",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1704253",
+            "turmaid": "01",
+            "nome": " HISTÓRIA DA ARQUITE DO URBANISMO I",
+            "semester": "2018.2",
+            "professor": "IVAN CAVALCANTI FILHO",
+            "horario": "35M45",
+            "local": "CTH AT3 (CT)"
+          }
+        ],
+        "prerequisites": [
+          "1704160"
+        ],
+        "equivalences": [
+          "1704169"
+        ]
+      },
+      {
+        "id": "1704258",
+        "name": "INTRODAO PROJDE ARQUTE URBANISMO",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1704258",
+            "turmaid": "01",
+            "nome": " INTRODAO PROJDE ARQUTE URBANISMO",
+            "semester": "2018.2",
+            "professor": "ITALO PEREIRA FERNANDES",
+            "horario": "46M45",
+            "local": "CTH 101 (CT)"
+          },
+          {
+            "id": "1704258",
+            "turmaid": "02",
+            "nome": " INTRODAO PROJDE ARQUTE URBANISMO",
+            "semester": "2018.2",
+            "professor": "JULIANA MAGNA DA SILVA COSTA MORAIS",
+            "horario": "46M45",
+            "local": "CTH AT4 (CT)"
+          }
+        ],
+        "prerequisites": [
+          "1704252",
+          "1704178"
+        ],
+        "equivalences": [
+          "1704177"
+        ]
+      },
+      {
+        "id": "1705147",
+        "name": "ERGONOMIA",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1705147",
+            "turmaid": "01",
+            "nome": " ERGONOMIA",
+            "semester": "2018.2",
+            "professor": "LUIZ BUENO DA SILVA",
+            "horario": "4T45",
+            "local": "CTF 101 (CT)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1703248",
+        "name": "SISTEMAS ESTRUTURAIS II",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "90h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1703248",
+            "turmaid": "01",
+            "nome": " SISTEMAS ESTRUTURAIS II",
+            "semester": "2018.2",
+            "professor": "ENILDO TALES FERREIRA",
+            "horario": "35M123",
+            "local": "CTH AT5 (CT)"
+          }
+        ],
+        "prerequisites": [
+          "1704208"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1704184",
+        "name": "PROJETO DE EDIFICACOES I",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "90h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1704184",
+            "turmaid": "01",
+            "nome": " PROJETO DE EDIFICACOES I",
+            "semester": "2018.2",
+            "professor": "ANGELINA DIAS LEAO COSTA",
+            "horario": "46T123",
+            "local": "CTH AT5 (CT)"
+          },
+          {
+            "id": "1704184",
+            "turmaid": "02",
+            "nome": " PROJETO DE EDIFICACOES I",
+            "semester": "2018.2",
+            "professor": "ISABEL AMALIA MEDERO ROCHA",
+            "horario": "46T123",
+            "local": "CTH AT6 (CT)"
+          }
+        ],
+        "prerequisites": [
+          "1704258"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1704254",
+        "name": "HISTÓRIA DA ARQUITETURA DO URBANISMO II",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1704254",
+            "turmaid": "01",
+            "nome": " HISTÓRIA DA ARQUITETURA DO URBANISMO II",
+            "semester": "2018.2",
+            "professor": "IVAN CAVALCANTI FILHO",
+            "horario": "35T45",
+            "local": "CTH AT3 (CT)"
+          }
+        ],
+        "prerequisites": [
+          "1704253",
+          "1704169"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1704266",
+        "name": "URBANISMO  I",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "90h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1704266",
+            "turmaid": "01",
+            "nome": " URBANISMO  I",
+            "semester": "2018.2",
+            "professor": "JOSE AUGUSTO RIBEIRO DA SILVEIRA",
+            "horario": "35T123",
+            "local": "CTH AT2 (CT)"
+          }
+        ],
+        "prerequisites": [
+          "1704258",
+          "1704177"
+        ],
+        "equivalences": [
+          "1704182"
+        ]
+      },
+      {
+        "id": "1704268",
+        "name": "CONFORTO AMBIENTA I",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1704268",
+            "turmaid": "01",
+            "nome": " CONFORTO AMBIENTA I",
+            "semester": "2018.2",
+            "professor": "SOLANGE MARIA LEDER",
+            "horario": "35M45",
+            "local": "CTH 102 (CT)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1704271",
+        "name": "PERSPECTIVA",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "90h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1704271",
+            "turmaid": "01",
+            "nome": " PERSPECTIVA",
+            "semester": "2018.2",
+            "professor": "ARISTOTELES LOBO DE MAGALHAES CORDEIRO",
+            "horario": "246M45",
+            "local": "MÍDIA 01 (CT)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1401349",
+        "name": "SOCIOLOGIA URBANA",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1401349",
+            "turmaid": "01",
+            "nome": " SOCIOLOGIA URBANA",
+            "semester": "2018.2",
+            "professor": "TEREZA CORREIA DA NOBREGA QUEIROZ",
+            "horario": "2T123",
+            "local": "CAG 103 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+          "1401169"
+        ]
+      },
+      {
+        "id": "1703246",
+        "name": "TECNOLOGIAS DAS CONSTRUÇÕES I",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1703246",
+            "turmaid": "01",
+            "nome": " TECNOLOGIAS DAS CONSTRUÇÕES I",
+            "semester": "2018.2",
+            "professor": "MARCOS AURELIO PEREIRA SANTANA",
+            "horario": "24M45",
+            "local": "CTH AT6 (CT)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1703250",
+        "name": "FUNDAMENTOS DE TOPOGRAFIA",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1703250",
+            "turmaid": "01",
+            "nome": " FUNDAMENTOS DE TOPOGRAFIA",
+            "semester": "2018.2",
+            "professor": "VICTOR HUGO RABELO COELHO",
+            "horario": "2M123",
+            "local": "CTH AT1 (CT)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1704256",
+        "name": "HISTÓRIA DA ARQUITETURA E DO URBANISMO NO BRASIL I",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1704256",
+            "turmaid": "01",
+            "nome": " HISTÓRIA DA ARQUITETURA E DO URBANISMO NO BRASIL I",
+            "semester": "2018.2",
+            "professor": "JOVANKA BARACUHY CAVALCANTI",
+            "horario": "35T45",
+            "local": "CTH AT5 (CT)"
+          }
+        ],
+        "prerequisites": [
+          "1704254",
+          "1704170"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1704259",
+        "name": "PROJETO DE EDIFICAÇÕES II",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "90h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1704259",
+            "turmaid": "01",
+            "nome": " PROJETO DE EDIFICAÇÕES II",
+            "semester": "2018.2",
+            "professor": "DEBORAH PADULA KISHIMOTO",
+            "horario": "46T123",
+            "local": "CTH AT2 (CT)"
+          },
+          {
+            "id": "1704259",
+            "turmaid": "02",
+            "nome": " PROJETO DE EDIFICAÇÕES II",
+            "semester": "2018.2",
+            "professor": "MARILIA DE AZEVEDO DIEB",
+            "horario": "46T123",
+            "local": "CTH AT4 (CT)"
+          }
+        ],
+        "prerequisites": [
+          "1704184"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1704263",
+        "name": "DESENHO URBANO I",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "90h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1704263",
+            "turmaid": "01",
+            "nome": " DESENHO URBANO I",
+            "semester": "2018.2",
+            "professor": "GEOVANY JESSE ALEXANDRE DA SILVA",
+            "horario": "35T123",
+            "local": "CTH AT4 (CT)"
+          },
+          {
+            "id": "1704263",
+            "turmaid": "02",
+            "nome": " DESENHO URBANO I",
+            "semester": "2018.2",
+            "professor": "LUCY DONEGAN",
+            "horario": "35T123",
+            "local": "CTH AT5 (CT)"
+          }
+        ],
+        "prerequisites": [
+          "1704182",
+          "1704266"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1704101",
+        "name": "CONFORTO AMBIENTAL II",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1704101",
+            "turmaid": "01",
+            "nome": " CONFORTO AMBIENTAL II",
+            "semester": "2018.2",
+            "professor": "CLAUDIA VERONICA TORRES BARBOSA",
+            "horario": "35M45",
+            "local": "CTH AT5 (CT)"
+          }
+        ],
+        "prerequisites": [
+          "1704268",
+          "1704152"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1704255",
+        "name": "HISTÓRIA DA ARQUIT E DO URBANISMO III",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1704255",
+            "turmaid": "01",
+            "nome": " HISTÓRIA DA ARQUIT E DO URBANISMO III",
+            "semester": "2018.2",
+            "professor": "MARCIO COTRIM CUNHA",
+            "horario": "35T45",
+            "local": "CTH AT6 (CT)"
+          }
+        ],
+        "prerequisites": [
+          "1704254",
+          "1704170"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1704260",
+        "name": "PROJETO DE EDIFICAÇÕES III",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "90h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1704260",
+            "turmaid": "01",
+            "nome": " PROJETO DE EDIFICAÇÕES III",
+            "semester": "2018.2",
+            "professor": "AMELIA DE FARIAS PANET BARROS",
+            "horario": "46T123",
+            "local": "CTE 105 (CT)"
+          },
+          {
+            "id": "1704260",
+            "turmaid": "02",
+            "nome": " PROJETO DE EDIFICAÇÕES III",
+            "semester": "2018.2",
+            "professor": "MARIA BERTHILDE DE BARROS LIMA E MOURA FILHA",
+            "horario": "46T123",
+            "local": "CTH AT3 (CT)"
+          }
+        ],
+        "prerequisites": [
+          "1704259",
+          "1704185",
+          "1704271",
+          "1704161"
+        ],
+        "equivalences": [
+          "1704186"
+        ]
+      },
+      {
+        "id": "1704264",
+        "name": "DESENHO URBANO II",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "90h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1704264",
+            "turmaid": "01",
+            "nome": " DESENHO URBANO II",
+            "semester": "2018.2",
+            "professor": "DEBORAH PADULA KISHIMOTO",
+            "horario": "35T123",
+            "local": "CTH 102 (CT)"
+          },
+          {
+            "id": "1704264",
+            "turmaid": "02",
+            "nome": " DESENHO URBANO II",
+            "semester": "2018.2",
+            "professor": "ITALO PEREIRA FERNANDES",
+            "horario": "35T123",
+            "local": "CTH AT6 (CT)"
+          }
+        ],
+        "prerequisites": [
+          "1704263",
+          "1704155"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1704270",
+        "name": "FUNDAMENTOS PARA INTERVEM ÀREAS",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "90h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1704270",
+            "turmaid": "01",
+            "nome": " FUNDAMENTOS PARA INTERVEM ÀREAS",
+            "semester": "2018.2",
+            "professor": "MARIA BERTHILDE DE BARROS LIMA E MOURA FILHA",
+            "horario": "46M123",
+            "local": "CTH AT1 (CT)"
+          }
+        ],
+        "prerequisites": [
+          "1704256",
+          "1704173"
+        ],
+        "equivalences": [
+          "1704175"
+        ]
+      },
+      {
+        "id": "1704290",
+        "name": "PROJETOS ESPECIAIS II",
+        "category": "Optativa",
+        "semester": 6,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1704185",
+          "1704259"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDARQ0100",
+        "name": "ARQUITETURA DE INTERIORES",
+        "category": "Optativa",
+        "semester": 6,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1703249",
+        "name": "SISTEMAS  ESTRUTURAIS III",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1703249",
+            "turmaid": "01",
+            "nome": " SISTEMAS  ESTRUTURAIS III",
+            "semester": "2018.2",
+            "professor": "ENILDO TALES FERREIRA",
+            "horario": "46M45",
+            "local": "CTH AT2 (CT)"
+          }
+        ],
+        "prerequisites": [
+          "1703248",
+          "1703173"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1704187",
+        "name": "PROJETO DE EDIFICACOES IV",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "90h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1704187",
+            "turmaid": "01",
+            "nome": " PROJETO DE EDIFICACOES IV",
+            "semester": "2018.2",
+            "professor": "CARLOS ALEJANDRO NOME SILVA",
+            "horario": "24M123",
+            "local": "CTE 105 (CT)"
+          },
+          {
+            "id": "1704187",
+            "turmaid": "02",
+            "nome": " PROJETO DE EDIFICACOES IV",
+            "semester": "2018.2",
+            "professor": "FLAVIA MARIA GUIMARAES MARROQUIM",
+            "horario": "24M123",
+            "local": "CTH 102 (CT)"
+          }
+        ],
+        "prerequisites": [
+          "1704260",
+          "1704186"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1704257",
+        "name": "HISTDA ARQUIE URBANISMO NO BRASIL II",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1704257",
+            "turmaid": "01",
+            "nome": " HISTDA ARQUIE URBANISMO NO BRASIL II",
+            "semester": "2018.2",
+            "professor": "MARCIO COTRIM CUNHA",
+            "horario": "35M45",
+            "local": "CTH AT2 (CT)"
+          }
+        ],
+        "prerequisites": [
+          "1704171",
+          "1704255"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1704265",
+        "name": "DESENHO URBANO III",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "90h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1704265",
+            "turmaid": "01",
+            "nome": " DESENHO URBANO III",
+            "semester": "2018.2",
+            "professor": "JOVANKA BARACUHY CAVALCANTI",
+            "horario": "35M123",
+            "local": "CTH AT1 (CT)"
+          },
+          {
+            "id": "1704265",
+            "turmaid": "02",
+            "nome": " DESENHO URBANO III",
+            "semester": "2018.2",
+            "professor": "LUCAS FIGUEIREDO DE MEDEIROS",
+            "horario": "35M123",
+            "local": "CTH AT3 (CT)"
+          }
+        ],
+        "prerequisites": [
+          "1704264",
+          "1704156"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1704269",
+        "name": "CONFORTO AMBIENTAL  III",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1704269",
+            "turmaid": "01",
+            "nome": " CONFORTO AMBIENTAL  III",
+            "semester": "2018.2",
+            "professor": "JULIANA MAGNA DA SILVA COSTA MORAIS",
+            "horario": "6M123",
+            "local": "CTH AT2 (CT)"
+          }
+        ],
+        "prerequisites": [
+          "1704101"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1704272",
+        "name": "ESTÁGIO SUPERVISIONADO I",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "90h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1704272",
+            "turmaid": "01",
+            "nome": " ESTÁGIO SUPERVISIONADO I",
+            "semester": "2018.2",
+            "professor": "NELCI TINEM",
+            "horario": "7M123456",
+            "local": "CTS 100 (CT)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1703247",
+        "name": "TECNOLOGIA DAS CONSTRUÇÕES II",
+        "category": "Obrigatória",
+        "semester": 7,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1703247",
+            "turmaid": "01",
+            "nome": " TECNOLOGIA DAS CONSTRUÇÕES II",
+            "semester": "2018.2",
+            "professor": "ALUISIO BRAZ DE MELO",
+            "horario": "35M45",
+            "local": "CTH AT6 (CT)"
+          }
+        ],
+        "prerequisites": [
+          "1703246",
+          "1703162"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1704172",
+        "name": "HIST DA ARQUITETURA E DO URBANISMO IV",
+        "category": "Obrigatória",
+        "semester": 7,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1704172",
+            "turmaid": "01",
+            "nome": " HIST DA ARQUITETURA E DO URBANISMO IV",
+            "semester": "2018.2",
+            "professor": "WYLNNA CARLOS LIMA VIDAL",
+            "horario": "35M23",
+            "local": "CTH AT6 (CT)"
+          }
+        ],
+        "prerequisites": [
+          "1704257",
+          "1704174"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1704261",
+        "name": "PROJETO DE EDIFICAÇÕES V",
+        "category": "Obrigatória",
+        "semester": 7,
+        "workload": "90h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1704261",
+            "turmaid": "01",
+            "nome": " PROJETO DE EDIFICAÇÕES V",
+            "semester": "2018.2",
+            "professor": "GERMANA COSTA ROCHA",
+            "horario": "46M123",
+            "local": "CTH AT5 (CT)"
+          },
+          {
+            "id": "1704261",
+            "turmaid": "02",
+            "nome": " PROJETO DE EDIFICAÇÕES V",
+            "semester": "2018.2",
+            "professor": "ROSSANA CRISTINA HONORATO DE OLIVEIRA",
+            "horario": "46M123",
+            "local": "CTH AT6 (CT)"
+          }
+        ],
+        "prerequisites": [
+          "1704187"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1704267",
+        "name": "URBANISMO II",
+        "category": "Obrigatória",
+        "semester": 7,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1704267",
+            "turmaid": "01",
+            "nome": " URBANISMO II",
+            "semester": "2018.2",
+            "professor": "ALUISIO BRAZ DE MELO",
+            "horario": "46M45",
+            "local": "CTH AT3 (CT)"
+          }
+        ],
+        "prerequisites": [
+          "1704265",
+          "1704157"
+        ],
+        "equivalences": [
+          "1704183"
+        ]
+      },
+      {
+        "id": "1704159",
+        "name": "DESENHO URBANO V",
+        "category": "Optativa",
+        "semester": 8,
+        "workload": "90h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1704158"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1704102",
+        "name": "DEONTOLOGIA E PRATICA PROF",
+        "category": "Obrigatória",
+        "semester": 8,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1704102",
+            "turmaid": "01",
+            "nome": " DEONTOLOGIA E PRATICA PROF",
+            "semester": "2018.2",
+            "professor": "ROSSANA CRISTINA HONORATO DE OLIVEIRA",
+            "horario": "4M45",
+            "local": "CTH AT1 (CT)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1704262",
+        "name": "PROJETO DE EDIFICAÇÕES VI",
+        "category": "Obrigatória",
+        "semester": 8,
+        "workload": "90h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1704262",
+            "turmaid": "01",
+            "nome": " PROJETO DE EDIFICAÇÕES VI",
+            "semester": "2018.2",
+            "professor": "JOSE AUGUSTO RIBEIRO DA SILVEIRA",
+            "horario": "35M123",
+            "local": "CTH AT4 (CT)"
+          }
+        ],
+        "prerequisites": [
+          "1704261",
+          "1704188"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1704273",
+        "name": "ESTÁGIO SUPERVISIONADO II",
+        "category": "Obrigatória",
+        "semester": 8,
+        "workload": "90h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1704273",
+            "turmaid": "01",
+            "nome": " ESTÁGIO SUPERVISIONADO II",
+            "semester": "2018.2",
+            "professor": "ISABEL AMALIA MEDERO ROCHA",
+            "horario": "7T123456",
+            "local": "CTS 103 (CT)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1704274",
+        "name": "TRABALHO DE CONCLUSÃO DE CURSO I",
+        "category": "Obrigatória",
+        "semester": 9,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1704274",
+            "turmaid": "01",
+            "nome": " TRABALHO DE CONCLUSÃO DE CURSO I",
+            "semester": "2018.2",
+            "professor": "LUCAS FIGUEIREDO DE MEDEIROS",
+            "horario": "35M45",
+            "local": "CTE 105 (CT)"
+          },
+          {
+            "id": "1704274",
+            "turmaid": "02",
+            "nome": " TRABALHO DE CONCLUSÃO DE CURSO I",
+            "semester": "2018.2",
+            "professor": "WYLNNA CARLOS LIMA VIDAL",
+            "horario": "35M45",
+            "local": "CTF 102 (CT)"
+          }
+        ],
+        "prerequisites": [
+          "1704267",
+          "1704183",
+          "1704262",
+          "1704159"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1704275",
+        "name": "TRABALHO DE CONCLUSÃO DE CURSO II",
+        "category": "Obrigatória",
+        "semester": 10,
+        "workload": "300h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1704275",
+            "turmaid": "01",
+            "nome": " TRABALHO DE CONCLUSÃO DE CURSO II",
+            "semester": "2018.2",
+            "professor": "NELCI TINEM",
+            "horario": "3456T12345",
+            "local": "CTH 104 (CT)"
+          }
+        ],
+        "prerequisites": [
+          "1704172",
+          "1704273",
+          "1704269",
+          "1704247",
+          "1704174",
+          "1704274",
+          "1704189",
+          "1704248",
+          "1705147",
+          "1703250",
+          "1401349",
+          "1704270",
+          "1704272",
+          "1703247",
+          "1704102"
+        ],
+        "equivalences": [
+
+        ]
+      }
+    ]
+  }
+}

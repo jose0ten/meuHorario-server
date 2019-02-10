@@ -1,0 +1,1374 @@
+{
+  "curriculum": {
+    "id": "122018",
+    "codigo": "2291377",
+    "name": "HOTELARIA - João Pessoa - Presencial - MT - BACHARELADO",
+    "faculty": "CENTRO DE COMUNICAÇÃO, TURISMO E ARTES (CCTA) (11.00.66)",
+    "minch": "255",
+    "maxch": "360",
+    "semesters": 7,
+    "courses": [
+      {
+        "id": "1204201",
+        "name": "ADMINISTRACAO DE RECURSOS MATERIAIS I",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1401112",
+        "name": "ANTROPOLOGIA URBANA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1401113",
+        "name": "ANTROPOLOGIA URBANA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1401113",
+            "turmaid": "01",
+            "nome": " ANTROPOLOGIA URBANA",
+            "semester": "2018.2",
+            "professor": "LUCIANA MARIA RIBEIRO DE OLIVEIRA",
+            "horario": "4T2345",
+            "local": "CAH 101 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1401291",
+        "name": "ANTROPOLOGIA DO CONSUMO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1401291",
+            "turmaid": "01",
+            "nome": " ANTROPOLOGIA DO CONSUMO",
+            "semester": "2018.2",
+            "professor": "MARIA TEREZA SANTANA DA COSTA RODRIGUES ALMEIDA",
+            "horario": "2T2345",
+            "local": "CAF 108 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1403747",
+        "name": "LIBRAS  LÍNGUA BRASILEIRA DE SINAIS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1406324",
+        "name": "MARKETING DE EMPRESAS TURÍSTICAS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1406353",
+        "name": "SOCIOLOGIA DO TURISMO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1406354",
+        "name": "TURISMO, ANTROPOLOGIA E CULTURA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1406367",
+        "name": "MARKETING DE EMPRESAS TURÍSTICAS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1406370",
+        "name": "AGÊNCIAS E OPERADORAS EM TURISMO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1406372",
+        "name": "TURISMO E POLÍTICAS PÚBLICAS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1406377",
+        "name": "GESTÃO AMBIENTAL EM EMPREENDIMENTOS TURÍSTICOS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1406379",
+        "name": "DESENVOLVIMENTO SUSTENTÁVEL",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1406380",
+        "name": "GASTRONOMIA E TURISMO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1406386",
+        "name": "SISTEMAS DA INFORMAÇÃO EM HOSPITALIDADE",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8101105",
+        "name": "INTRODUCAO A SOCIOLOGIA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8101122",
+        "name": "PSICOLOGIA DAS RELACOES HUMANAS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8101127",
+        "name": "COMUNICACAO EMPRESARIAL",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8103103",
+        "name": "INFORMATICA APLICADA A HOTELARIA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8105013",
+        "name": "LINGUA INGLESA II  HOTELARIA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8108093",
+        "name": "ADMINISTRAÇÃO DE MATERIAIS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8108094",
+        "name": "ADMINISTRAÇÃO FINAC E CONTROLADORIA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8108097",
+        "name": "SEGURANÇA E HIGIENE DO TRABALHO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8108098",
+        "name": "COMPORTAMENTO ORGANIZACIONAL",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8108099",
+        "name": "MACROANÁLISE DAS ORGANIZAÇÕES",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDLS0024",
+        "name": "LIBRAS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDLS0024",
+            "turmaid": "14",
+            "nome": " LIBRAS",
+            "semester": "2018.2",
+            "professor": "LUCIANA WALESKA DE SOUZA MOURA",
+            "horario": "6T2345",
+            "local": "CAG 104 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDTH0050",
+        "name": "CONTEÚDOS COMPLEMENTARES FLEXÍVEIS",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "120h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDTH0052",
+        "name": "ECONOMIA PARA TURISMO E HOTELARIA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDTH0100",
+        "name": "GESTÃO FINANCEIRA EM HOSPITALIDADE",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDTH0101",
+        "name": "INTRODUÇÃO AO BARISMO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDTH0102",
+        "name": "REDAÇÃO COMERCIAL PARA TURISMO E HOTELARIA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDTH0103",
+        "name": "SISTEMAS E TECNOLOGIA DA INFORMAÇÃO NA HOTELARIA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1401104",
+        "name": "ANTROPOLOGIA CULTURAL",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1401104",
+            "turmaid": "03",
+            "nome": " ANTROPOLOGIA CULTURAL",
+            "semester": "2018.2",
+            "professor": "LUCIANA DE OLIVEIRA CHIANCA",
+            "horario": "2T2345",
+            "local": "CAG 105 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDGAS0055",
+        "name": "INTRODUÇÃO A ALIMENTOS EM HOTELARIA",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDGAS0055",
+            "turmaid": "01",
+            "nome": " INTRODUÇÃO A ALIMENTOS EM HOTELARIA",
+            "semester": "2018.2",
+            "professor": "PATRICIA PINHEIRO FERNANDES VIEIRA",
+            "horario": "5M2345",
+            "local": "CCTA 216 - BLOCO B (CCTA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDTH0028",
+        "name": "FUNDAMENTOS  DE ADMINISTRAÇÃO EM HOSPITALIDADE",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDTH0028",
+            "turmaid": "01",
+            "nome": " FUNDAMENTOS  DE ADMINISTRAÇÃO EM HOSPITALIDADE",
+            "semester": "2018.2",
+            "professor": "NIVEA MARCELA MARQUES NASCIMENTO DE MACEDO",
+            "horario": "3T2345",
+            "local": "CCTA 219 A - BLOCO B (CCTA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDTH0029",
+        "name": "INTRODUÇÃO AO TURISMO E A HOSPITALIDADE",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDTH0029",
+            "turmaid": "01",
+            "nome": " INTRODUÇÃO AO TURISMO E A HOSPITALIDADE",
+            "semester": "2018.2",
+            "professor": "PAULA DUTRA LEAO DE MENEZES",
+            "horario": "4T2345",
+            "local": "CCTA 219 A - BLOCO B (CCTA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDTH0036",
+        "name": "METODOLOGIA DO TRABALHO CIENTÍFICO PARA HOSPITALIDADE",
+        "category": "Complementar Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDTH0036",
+            "turmaid": "02",
+            "nome": " METODOLOGIA DO TRABALHO CIENTÍFICO PARA HOSPITALIDADE",
+            "semester": "2018.2",
+            "professor": "A DEFINIR",
+            "horario": "6T1234",
+            "local": "CCTA 222 - BLOCO B (CCTA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDTH0051",
+        "name": "COMPRAS, GESTÃO DE ESTOQUES E LOGÍSTICA NA HOTELARIA",
+        "category": "Optativa",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "0028",
+          "1204140",
+          "8108001"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1201154",
+        "name": "MATEMÁTICA FINANCEIRA (ECONOMIA)",
+        "category": "Complementar Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1201154",
+            "turmaid": "02",
+            "nome": " MATEMÁTICA FINANCEIRA (ECONOMIA)",
+            "semester": "2018.2",
+            "professor": "JORGE HENRIQUE NOROES VIANA",
+            "horario": "46T45",
+            "local": "CAE 110 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1404114",
+        "name": "INGLES INSTRUMENTAL",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1404114",
+            "turmaid": "01",
+            "nome": " INGLES INSTRUMENTAL",
+            "semester": "2018.2",
+            "professor": "ELAINE ESPINDOLA BALDISSERA",
+            "horario": "35T12",
+            "local": "CAF 108 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDGAS0056",
+        "name": "TECNOLOGIA CULINÁRIA",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDGAS0056",
+            "turmaid": "01",
+            "nome": " TECNOLOGIA CULINÁRIA",
+            "semester": "2018.2",
+            "professor": "MAKARENNA DEL CARMEN CHAVES PORTUGAL ZEGARRA",
+            "horario": "3T3456",
+            "local": "CCTA 216 - BLOCO B (CCTA)"
+          }
+        ],
+        "prerequisites": [
+          "0055",
+          "1904019"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDTH0031",
+        "name": "RESERVAS E RECEPÇÃO",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDTH0031",
+            "turmaid": "01",
+            "nome": " RESERVAS E RECEPÇÃO",
+            "semester": "2018.2",
+            "professor": "PAULA DUTRA LEAO DE MENEZES",
+            "horario": "2T2345",
+            "local": "CCTA 219 A - BLOCO B (CCTA)"
+          }
+        ],
+        "prerequisites": [
+          "0029",
+          "8107001"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GPSAE0105",
+        "name": "ECONOMIA DAS EMPRESAS",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GPSAE0105",
+            "turmaid": "01",
+            "nome": " ECONOMIA DAS EMPRESAS",
+            "semester": "2018.2",
+            "professor": "IGNACIO TAVARES DE ARAUJO JUNIOR",
+            "horario": "46T23",
+            "local": "CAE 108 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1406366",
+        "name": "PLANEJAMENTO E GESTÃO DE PESSOAS EM HOSPITALIDADE",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1406366",
+            "turmaid": "02",
+            "nome": " PLANEJAMENTO E GESTÃO DE PESSOAS EM HOSPITALIDADE",
+            "semester": "2018.2",
+            "professor": "IZOLDA KELLY PEREIRA BARBOSA",
+            "horario": "6T1234",
+            "local": "CCTA 220 - BLOCO B (CCTA)"
+          }
+        ],
+        "prerequisites": [
+          "0028",
+          "1204140",
+          "8108001"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDEST0102",
+        "name": "ESTATÍSTICA PARA CIÊNCIAS HUMANAS E SOCIAIS I",
+        "category": "Complementar Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDEST0102",
+            "turmaid": "03",
+            "nome": " ESTATÍSTICA PARA CIÊNCIAS HUMANAS E SOCIAIS I",
+            "semester": "2018.2",
+            "professor": "LUIZ MEDEIROS DE ARAUJO LIMA FILHO e IZABEL CRISTINA ALCANTARA DE SOUZA",
+            "horario": "24T23",
+            "local": "CCSA 231 (CCSA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+          "1108184"
+        ]
+      },
+      {
+        "id": "GDGAS0058",
+        "name": "GESTÃO EM A&B",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDGAS0058",
+            "turmaid": "01",
+            "nome": " GESTÃO EM A&B",
+            "semester": "2018.2",
+            "professor": "ROGERIO PAODJUENAS",
+            "horario": "4M2345",
+            "local": "CCTA 216 - BLOCO B (CCTA)"
+          }
+        ],
+        "prerequisites": [
+          "0055",
+          "1904013",
+          "1904014",
+          "1904015",
+          "1904016"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDTH0032",
+        "name": "GOVERNANÇA E LAVANDERIA",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDTH0032",
+            "turmaid": "01",
+            "nome": " GOVERNANÇA E LAVANDERIA",
+            "semester": "2018.2",
+            "professor": "MARIANA BUENO DE ANDRADE MATOS",
+            "horario": "3T2345",
+            "local": "CCTA 222 - BLOCO B (CCTA)"
+          }
+        ],
+        "prerequisites": [
+          "0031",
+          "8107006"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDTH0040",
+        "name": "PESQUISA APLICADA AO TURISMO E À HOSPITALIDADE",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDTH0040",
+            "turmaid": "01",
+            "nome": " PESQUISA APLICADA AO TURISMO E À HOSPITALIDADE",
+            "semester": "2018.2",
+            "professor": "PAULA DUTRA LEAO DE MENEZES",
+            "horario": "5T2345",
+            "local": "CCTA 225 - BLOCO B (CCTA)"
+          }
+        ],
+        "prerequisites": [
+          "0036",
+          "1205003"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1406375",
+        "name": "COMPORTAMENTO DO CONSUMIDOR NO TURISMO",
+        "category": "Optativa",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDGAS0057",
+        "name": "BEBIDAS E ENOLOGIA",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDGAS0057",
+            "turmaid": "01",
+            "nome": " BEBIDAS E ENOLOGIA",
+            "semester": "2018.2",
+            "professor": "ANA EMILIA DA COSTA VIEIRA",
+            "horario": "5T2345",
+            "local": "CCTA 216 - BLOCO B (CCTA)"
+          }
+        ],
+        "prerequisites": [
+          "0055",
+          "1904019"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDTH0037",
+        "name": "CONTABILIDADE GERAL E DE CUSTOS APLICADA A EMPRESAS DE HOSPITALIDADE",
+        "category": "Complementar Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDTH0037",
+            "turmaid": "01",
+            "nome": " CONTABILIDADE GERAL E DE CUSTOS APLICADA A EMPRESAS DE HOSPITALIDADE",
+            "semester": "2018.2",
+            "professor": "MARCLEIDE MARIA MACEDO PEDERNEIRAS",
+            "horario": "4T2345",
+            "local": "CCTA 221 - BLOCO B (CCTA)"
+          }
+        ],
+        "prerequisites": [
+          "8101307",
+          "8101271",
+          "8108009",
+          "8103128",
+          "8108111",
+          "1201154"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDTH0041",
+        "name": "HOTELARIA HOSPITALAR",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "0032",
+          "8107007"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDTH0042",
+        "name": "MARKETING APLICADO À HOTELARIA",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDTH0042",
+            "turmaid": "01",
+            "nome": " MARKETING APLICADO À HOTELARIA",
+            "semester": "2018.2",
+            "professor": "ADRIANA BRAMBILLA",
+            "horario": "2T2345",
+            "local": "CCTA 221 - BLOCO B (CCTA)"
+          }
+        ],
+        "prerequisites": [
+          "0028",
+          "1204140",
+          "8108001"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDTH0043",
+        "name": "LAZER E ENTRETENIMENTO",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "0029",
+          "8107001"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDTH0033",
+        "name": "ESTRATÉGIA EMPRESARIAL",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "0042",
+          "8107010"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDTH0044",
+        "name": "ÉTICA PROFISSIONAL E ORGANIZACIONAL",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDTH0044",
+            "turmaid": "01",
+            "nome": " ÉTICA PROFISSIONAL E ORGANIZACIONAL",
+            "semester": "2018.2",
+            "professor": "ELBIO TROCCOLI PAKMAN",
+            "horario": "3T2345",
+            "local": "CCTA 235 - BLOCO B - LABORATÓRIO DE ARTES (CCTA)"
+          }
+        ],
+        "prerequisites": [
+          "0029",
+          "8107001"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDTH0045",
+        "name": "GESTÃO AMBIENTAL EM MEIOS DE HOSPEDAGEM",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDTH0045",
+            "turmaid": "01",
+            "nome": " GESTÃO AMBIENTAL EM MEIOS DE HOSPEDAGEM",
+            "semester": "2018.2",
+            "professor": "VIVIAN MAITE CASTRO",
+            "horario": "6T2345",
+            "local": "CCTA 221 - BLOCO B (CCTA)"
+          }
+        ],
+        "prerequisites": [
+          "0029",
+          "8107001"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDTH0046",
+        "name": "GESTÃO DE VENDAS EM HOTELARIA",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDTH0046",
+            "turmaid": "01",
+            "nome": " GESTÃO DE VENDAS EM HOTELARIA",
+            "semester": "2018.2",
+            "professor": "MARIANA BUENO DE ANDRADE MATOS",
+            "horario": "2T2345",
+            "local": "CCTA 235 - BLOCO B - LABORATÓRIO DE ARTES (CCTA)"
+          }
+        ],
+        "prerequisites": [
+          "0042",
+          "8107010"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDTH0034",
+        "name": "EMPREENDEDORISMO NO SETOR DE HOSPITALIDADE",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDTH0034",
+            "turmaid": "01",
+            "nome": " EMPREENDEDORISMO NO SETOR DE HOSPITALIDADE",
+            "semester": "2018.2",
+            "professor": "IZOLDA KELLY PEREIRA BARBOSA",
+            "horario": "3T2345",
+            "local": "CCTA 221 - BLOCO B (CCTA)"
+          }
+        ],
+        "prerequisites": [
+          "0033",
+          "8101255",
+          "8108095"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDTH0038",
+        "name": "TRABALHO DE CONCLUSÃO DE CURSO I (HOTELARIA)",
+        "category": "Complementar Obrigatória",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "0040",
+          "8107015"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDTH0047",
+        "name": "PLANEJAMENTO E MANUTENÇÃO DE HOTÉIS",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDTH0047",
+            "turmaid": "01",
+            "nome": " PLANEJAMENTO E MANUTENÇÃO DE HOTÉIS",
+            "semester": "2018.2",
+            "professor": "RAMON DAVID DE ABREU",
+            "horario": "5T2345",
+            "local": "CCTA 219 A - BLOCO B (CCTA)"
+          }
+        ],
+        "prerequisites": [
+          "0029",
+          "8107001"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDTH0048",
+        "name": "GESTÃO DA QUALIDADE DOS SERVIÇOS DE HOTELARIA",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDTH0048",
+            "turmaid": "01",
+            "nome": " GESTÃO DA QUALIDADE DOS SERVIÇOS DE HOTELARIA",
+            "semester": "2018.2",
+            "professor": "MARIANA BUENO DE ANDRADE MATOS",
+            "horario": "4T2345",
+            "local": "CCTA 245 - BLOCO B - LABORATÓRIO DE COMUNICAÇÃO (CCTA)"
+          }
+        ],
+        "prerequisites": [
+          "0042",
+          "8107010"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDTH0049",
+        "name": "PLANEJAMENTO E ORGANIZAÇÃO DE EVENTOS",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDTH0049",
+            "turmaid": "01",
+            "nome": " PLANEJAMENTO E ORGANIZAÇÃO DE EVENTOS",
+            "semester": "2018.2",
+            "professor": "ALINE GISELE AZEVEDO LIMA DE BARROS",
+            "horario": "2T2345",
+            "local": "CCTA 217  - BLOCO B (CCTA)"
+          }
+        ],
+        "prerequisites": [
+          "0029",
+          "8107001"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDTH0035",
+        "name": "ESTÁGIO SUPERVISIONADO  (HOTELARIA)",
+        "category": "Obrigatória",
+        "semester": 7,
+        "workload": "300h aula 0h lab.",
+        "type": "ESTÁGIO",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDTH0039",
+        "name": "TRABALHO DE CONCLUSÃO DE CURSO II (HOTELARIA)",
+        "category": "Complementar Obrigatória",
+        "semester": 7,
+        "workload": "60h aula 0h lab.",
+        "type": "TRABALHO DE CONCLUSÃO DE CURSO",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "0038"
+        ],
+        "equivalences": [
+
+        ]
+      }
+    ]
+  }
+}

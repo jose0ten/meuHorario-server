@@ -1,0 +1,2935 @@
+{
+  "curriculum": {
+    "id": "00282011",
+    "codigo": "1626832",
+    "name": "HISTÓRIA - João Pessoa - Presencial - N - LICENCIATURA PLENA",
+    "faculty": "CENTRO DE CIÊNCIAS HUMANAS, LETRAS E ARTES (CCHLA) (11.00.53)",
+    "minch": "210",
+    "maxch": "360",
+    "semesters": 9,
+    "courses": [
+      {
+        "id": "1301103",
+        "name": "ECONOMIA DA EDUCACAO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1301139",
+        "name": "FUNDAMENTOS BIOLÓGICOS DA EDUCAÇÃO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1301139",
+            "turmaid": "01",
+            "nome": " FUNDAMENTOS BIOLÓGICOS DA EDUCAÇÃO",
+            "semester": "2018.2",
+            "professor": "VERA LUCIA ARAUJO DE LUCENA",
+            "horario": "2N1234",
+            "local": "CE 310 (CE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1301146",
+        "name": "FUND ADM EDUCACAO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1301150",
+        "name": "EDUCACAO SEXUAL",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1302226",
+        "name": "EDUCACAO E MOVIMENTOS SOCIAIS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "0h aula 45h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1302241",
+        "name": "ALFABETIZACAO DE JOVENS E ADULTOS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1302293",
+        "name": "DIDATICA MSC",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1302304",
+        "name": "AVALIACAO DA APRENDIZAGEM",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1302304",
+            "turmaid": "03",
+            "nome": " AVALIACAO DA APRENDIZAGEM",
+            "semester": "2018.2",
+            "professor": "MARIA DA CONCEICAO GOMES DE MIRANDA",
+            "horario": "2T2345",
+            "local": "CAE 106 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1302308",
+        "name": "INTRODUÇÃO AOS RECURSOS AUDIOVISUAIS EM EDUCAÇÃO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1302324",
+        "name": "ALFABETIZACAO DE JOVENS E ADULTOS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1302336",
+        "name": "TECNICAS AUDIOVISUAIS EM EDUCACAO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1302351",
+        "name": "SEMINARIOS DE PROB ATUAIS EM EDC  UV",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1302507",
+        "name": "EDUCAÇÃO E MOVIMENTOS SOCIAIS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1302513",
+        "name": "SEMINÁRIOS DE EDUC AMBIENTALUV",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1303195",
+        "name": "PLANEJAMENTO E GESTÃO ESCOLAR",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1303196",
+        "name": "CURRICULO E TRABALHO PEDAGOGICO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1303197",
+        "name": "PESQUISA E COTIDIANO ESCOLAR",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1401136",
+        "name": "INTRODUCAO CIEN SOCIAIS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1408125",
+        "name": "HISTORIA ECONOMICA GERAL",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1408134",
+        "name": "PALEOGRAFIA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1408134",
+            "turmaid": "01",
+            "nome": " PALEOGRAFIA",
+            "semester": "2018.2",
+            "professor": "MOZART VERGETTI DE MENEZES",
+            "horario": "3N1234",
+            "local": "CCHLA 516 - PPGH (CCHLA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1408162",
+        "name": "IGREJA E RELIGIAO IDADE MEDIA OCIDENTAL",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1408256",
+        "name": "TEMAS ESPECIAIS DE HISTORIA II",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1408257",
+        "name": "SEM DE PESQ EM ENSINO DE HISTORIA III",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1408258",
+        "name": "SEM DE PESQ EM ENSINO DE HISTORIA II",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1408259",
+        "name": "SEM DE PESQ EM ENSINO DE HISTORIA I",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1408263",
+        "name": "HISTORIA DOS ESTADOS UNIDOS DA AMERICA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1408263",
+            "turmaid": "01",
+            "nome": " HISTORIA DOS ESTADOS UNIDOS DA AMERICA",
+            "semester": "2018.2",
+            "professor": "LUCIO FLAVIO SA LEITAO PEIXOTO DE VASCONCELOS",
+            "horario": "4T2345",
+            "local": "CCHLA 406 BLOCO IV (CCHLA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1408264",
+        "name": "TOP ESP EM HIST DA AMERICA LAT CONT I",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1408265",
+        "name": "TOP ESP EM HIST DA AMERICA LAT CONT II",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1408266",
+        "name": "TEMAS ESPECIFICOS DE HISTORIA I",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1408266",
+            "turmaid": "01",
+            "nome": " TEMAS ESPECIFICOS DE HISTORIA I",
+            "semester": "2018.2",
+            "professor": "PAULO ROBERTO DE AZEVEDO MAIA",
+            "horario": "4N1234",
+            "local": "CCHLA 425 BLOCO A 2º ANDAR (CCHLA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1408267",
+        "name": "SEM DE PESQUISA EM IMAGINARIO E MITO I",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1408268",
+        "name": "TOP ESP EM HIST DO BRASIL CONTEMP I",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1408269",
+        "name": "TOP ESP EM HIST DO BRASIL CONTEMP II",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1408270",
+        "name": "TOP ESP EM HIST DO BRASIL CONTEMP III",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1408271",
+        "name": "TOP ESP EM HIST DO BRASIL CONTEMP IV",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1408272",
+        "name": "TOP ESP EM HISTORIA ECONOMICA I",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1408273",
+        "name": "TOP ESP EM HISTORIA ECONOMICA II",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1408274",
+        "name": "TOP ESP EM HISTORIA ECONOMICA III",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1408275",
+        "name": "TOP ESP EM HIST ECONOMICA DO BRASIL I",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1408276",
+        "name": "TOP ESP EM HIST ECONOMICA DO BRASIL II",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1408277",
+        "name": "TOP ESP EM HIST ECONOMICA DO BRASIL III",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1408278",
+        "name": "TOP ESP EM HIST ECONOMICA DO BRASIL IV",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1408279",
+        "name": "TOP ESP EM HISTORIA ANTIGA I",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1408279",
+            "turmaid": "01",
+            "nome": " TOP ESP EM HISTORIA ANTIGA I",
+            "semester": "2018.2",
+            "professor": "SERIOJA RODRIGUES CORDEIRO MARIANO",
+            "horario": "4N1234",
+            "local": "TS-2 (CCHLA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1408280",
+        "name": "TOP ESP EM HISTORIA ANTIGA II",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1408281",
+        "name": "TOP ESP EM HISTORIA ANTIGA III",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1408282",
+        "name": "TOP ESP EM HISTORIA MODERNA I",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1408283",
+        "name": "TOP ESP EM HISTORIA MODERNA II",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1408284",
+        "name": "TOP ESP EM HISTORIA MODERNA III",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1408285",
+        "name": "TOP ESP EM HISTORIA MEDIEVAL I",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1408286",
+        "name": "TOP ESP EM HISTORIA MEDIEVAL II",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1408287",
+        "name": "TOP ESP EM HISTORIA MEDIEVAL III",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1408288",
+        "name": "TOP ESP EM HISTORIA CONTEMPORNEA I",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1408289",
+        "name": "TOP ESP EM HISTORIA CONTEMPORNEA II",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1408290",
+        "name": "TOP ESP EM HISTORIA CONTEMPORNEA III",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1408291",
+        "name": "TOP ESP EM HISTORIA CONTEMPORNEA IV",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1408292",
+        "name": "TOP ESP EM HISTORIOGRAFIA I",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1408293",
+        "name": "TOP ESP EM HISTORIOGRAFIA II",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1408294",
+        "name": "TOP ESP EM HISTORIOGRAFIA III",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1408295",
+        "name": "TOP ESP EM TEORIA DA HISTORIA I",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1408295",
+            "turmaid": "01",
+            "nome": " TOP ESP EM TEORIA DA HISTORIA I",
+            "semester": "2018.2",
+            "professor": "TELMA CRISTINA DELGADO DIAS FERNANDES",
+            "horario": "3T2345",
+            "local": "CCHLA 416 BLOCO I CENTRAL DE AULAS (CCHLA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1408296",
+        "name": "TOP ESP EM TEORIA DA HISTORIA II",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1408296",
+            "turmaid": "01",
+            "nome": " TOP ESP EM TEORIA DA HISTORIA II",
+            "semester": "2018.2",
+            "professor": "FERNANDO CAUDURO PUREZA",
+            "horario": "4T2345",
+            "local": "CCHLA 419 BLOCO A (CCHLA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1408297",
+        "name": "TOP ESP EM TEORIA DA HISTORIA III",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1408298",
+        "name": "TOP ESP EM HISTORIA CULTURAL I",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1408299",
+        "name": "TOP ESP EM HISTORIA CULTURAL II",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1408300",
+        "name": "TOP ESP EM HISTORIA CULTURAL III",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1408301",
+        "name": "TOPICOS ESPECIAIS EM ARQUEOLOGIA I",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1408302",
+        "name": "TOPICOS ESPECIAIS EM ARQUEOLOGIA II",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1408303",
+        "name": "TOPICOS ESPECIAIS EM ARQUEOLOGIA III",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1408304",
+        "name": "SEM DE PESQUISA EM IMAGINARIO E MITO II",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1408305",
+        "name": "SEM DE PESQUISA EM IMAGINARIO E MITO III",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1408306",
+        "name": "TOP ESP EM HIST DOS POVOS INDIGENAS I",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1408307",
+        "name": "TOP ESP EM HIST DOS POVOS INDIGENAS II",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1408308",
+        "name": "TOP ESP EM HIST DOS POVOS INDIGENAS III",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1408309",
+        "name": "TOP ESP EM HIST DA EDUC BRASILEIRA I",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1408309",
+            "turmaid": "01",
+            "nome": " TOP ESP EM HIST DA EDUC BRASILEIRA I",
+            "semester": "2018.2",
+            "professor": "DAMIAO DE LIMA",
+            "horario": "4T2345",
+            "local": "CCHLA 423 BLOCO A 2º ANDAR (CCHLA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1408310",
+        "name": "TOP ESP EM HIST DA EDUC BRASILEIRA II",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1408311",
+        "name": "TOP ESP EM HIST DA EDUC BRASILEIRA III",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1408312",
+        "name": "TOP ESP EM HIST DOS MOV SOCIAIS I",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1408313",
+        "name": "TOP ESP EM HIST DOS MOV SOCIAIS II",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1408314",
+        "name": "TOP ESP EM HIST DOS MOV SOCIAIS III",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1408315",
+        "name": "TOPICOS  ESPECIAIS EM HISTORIA DA CULTURA  AFROBRASILEIRA  I",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1408316",
+        "name": "TOP ESP EM HIST DA CULT AFROBRASIL II",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1408317",
+        "name": "TOP ESP EM HIST DA CULT AFROBRASIL III",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1408318",
+        "name": "TOP ESP EM HISTORIA DAS RELIGIOES I",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1408319",
+        "name": "TOP ESP EM HISTORIA DAS RELIGIOES II",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1408320",
+        "name": "TOP ESP EM HISTORIA DAS RELIGIOES III",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1408321",
+        "name": "SEM DE PESQ EM TORIA DA HISTORIA I",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1408322",
+        "name": "SEM DE PESQ EM TORIA DA HISTORIA II",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1408323",
+        "name": "SEM DE PESQ EM TORIA DA HISTORIA III",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1408324",
+        "name": "SEM DE PESQ EM HIST E CONST ESPACO I",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1408325",
+        "name": "SEM DE PESQ EM HIST E CONST ESPACO II",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1408326",
+        "name": "SEM DE PESQ EM HIST E CONST ESPACO III",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1408327",
+        "name": "SEM DE PESQ EM HIST SOCIAL DA ARTE I",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1408328",
+        "name": "SEM DE PESQ EM HIST SOCIAL DA ARTE II",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1408329",
+        "name": "SEM DE PESQ EM HIST SOCIAL DA ARTE III",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1408330",
+        "name": "SEM DE PESQ EM IMAGINARIO E POLITICA I",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1408331",
+        "name": "SEM DE PESQ EM IMAGINARIO E POLITICA II",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1408332",
+        "name": "SEM DE PESQ EM IMAGINARIO E POLITICA III",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1408333",
+        "name": "SEM DE PESQ EM HIST E REGIONALIZACAO I",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1408334",
+        "name": "SEM DE PESQ EM HIST E REGIONALIZACAO II",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1408335",
+        "name": "SEM DE PESQ EM HIST E REGIONALIZACAO III",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1408339",
+        "name": "SEM DE PESQ EM TEORIA DO ESTADO I",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1408340",
+        "name": "SEM DE PESQ EM TEORIA DO ESTADO II",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1408341",
+        "name": "SEM DE PESQ EM TEORIA DO ESTADO III",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1408346",
+        "name": "ACERVO E DOCUMENTAÇÃO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1408347",
+        "name": "MEMORIA E PATRIMONIO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1408348",
+        "name": "LINGUAGENS HISTORIOGRAFICAS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1408349",
+        "name": "TEMAS ESPECIFICOS DE HIST I",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1408350",
+        "name": "TEMAS ESPECIFICOS DE HIST II",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1408351",
+        "name": "TEMAS ESPECIFICOS DE HIST III",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1408352",
+        "name": "TEMAS ESPECIFICOS DE HIST I V",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1408353",
+        "name": "TEMAS ESPECIFICOS DE HISTV",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1408354",
+        "name": "TEMAS ESPECIFICOS DE HIST VI",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1408355",
+        "name": "TEMAS ESPECIFICOS DE HIST VII",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1301195",
+        "name": "FUNDAMENTOS  ANTROPOFILOSÓFICO DA EDUCAÇÃO",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1301195",
+            "turmaid": "10",
+            "nome": " FUNDAMENTOS  ANTROPOFILOSÓFICO DA EDUCAÇÃO",
+            "semester": "2018.2",
+            "professor": "ROBERTO RONDON",
+            "horario": "2N1234",
+            "local": "CAC 108 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1408176",
+        "name": "PREHISTORIA",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1408176",
+            "turmaid": "01",
+            "nome": " PREHISTORIA",
+            "semester": "2018.2",
+            "professor": "CLAUDIA CRISTINA DO LAGO BORGES",
+            "horario": "5N1234",
+            "local": "CCHLA 407 BLOCO IV (CCHLA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1408179",
+        "name": "HISTORIA ANTIGA I",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1408179",
+            "turmaid": "01",
+            "nome": " HISTORIA ANTIGA I",
+            "semester": "2018.2",
+            "professor": "SERIOJA RODRIGUES CORDEIRO MARIANO",
+            "horario": "6N1234",
+            "local": "CCHLA 407 BLOCO IV (CCHLA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1408181",
+        "name": "HISTORIA MEDIEVAL I",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1408181",
+            "turmaid": "01",
+            "nome": " HISTORIA MEDIEVAL I",
+            "semester": "2018.2",
+            "professor": "GUILHERME QUEIROZ DE SOUZA",
+            "horario": "4N1234",
+            "local": "CCHLA 408 BLOCO IV (CCHLA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1408248",
+        "name": "INTRODUCAO AOS ESTUDOS HISTORICOS",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1408248",
+            "turmaid": "01",
+            "nome": " INTRODUCAO AOS ESTUDOS HISTORICOS",
+            "semester": "2018.2",
+            "professor": "ANA MARIA VEIGA",
+            "horario": "3N1234",
+            "local": "CCHLA 407 BLOCO IV (CCHLA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1301200",
+        "name": "FUNDAMENTOS SOCIOHISTÓRICOS DA EDUCAÇÃO",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1301200",
+            "turmaid": "11",
+            "nome": " FUNDAMENTOS SOCIOHISTÓRICOS DA EDUCAÇÃO",
+            "semester": "2018.2",
+            "professor": "ROMILDO RAPOSO FERNANDES",
+            "horario": "4N1234",
+            "local": "CAD 111 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1408135",
+        "name": "TEORIA DA HISTORIA I",
+        "category": "Complementar Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1408135",
+            "turmaid": "01",
+            "nome": " TEORIA DA HISTORIA I",
+            "semester": "2018.2",
+            "professor": "ANGELO EMILIO DA SILVA PESSOA",
+            "horario": "6T2345",
+            "local": "CCHLA 406 BLOCO IV (CCHLA)"
+          }
+        ],
+        "prerequisites": [
+          "1408248"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1408180",
+        "name": "HISTORIA ANTIGA II",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1408180",
+            "turmaid": "01",
+            "nome": " HISTORIA ANTIGA II",
+            "semester": "2018.2",
+            "professor": "PRISCILLA GONTIJO LEITE",
+            "horario": "2T2345",
+            "local": "CCHLA 406 BLOCO IV (CCHLA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1408182",
+        "name": "HISTORIA MEDIEVAL II",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1408182",
+            "turmaid": "01",
+            "nome": " HISTORIA MEDIEVAL II",
+            "semester": "2018.2",
+            "professor": "GUILHERME QUEIROZ DE SOUZA",
+            "horario": "5T2345",
+            "local": "CCHLA 408 BLOCO IV (CCHLA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1408191",
+        "name": "HISTORIA DA AMERICA I",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1408191",
+            "turmaid": "01",
+            "nome": " HISTORIA DA AMERICA I",
+            "semester": "2018.2",
+            "professor": "CLAUDIA CRISTINA DO LAGO BORGES",
+            "horario": "3T2345",
+            "local": "CCHLA 408 BLOCO IV (CCHLA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1301201",
+        "name": "FUNDAMENTOS PSICOLÓGICOS DA EDUCAÇÃO",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1301201",
+            "turmaid": "12",
+            "nome": " FUNDAMENTOS PSICOLÓGICOS DA EDUCAÇÃO",
+            "semester": "2018.2",
+            "professor": "MARIA IVETE MARTINS CORREIA",
+            "horario": "5N1234",
+            "local": "CAB 102 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1408136",
+        "name": "TEORIA DA HISTORIA II",
+        "category": "Complementar Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1408136",
+            "turmaid": "01",
+            "nome": " TEORIA DA HISTORIA II",
+            "semester": "2018.2",
+            "professor": "TELMA CRISTINA DELGADO DIAS FERNANDES",
+            "horario": "2N1234",
+            "local": "CCHLA 406 BLOCO IV (CCHLA)"
+          }
+        ],
+        "prerequisites": [
+          "1408248"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1408183",
+        "name": "HISTORIA MODERNA I",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1408183",
+            "turmaid": "01",
+            "nome": " HISTORIA MODERNA I",
+            "semester": "2018.2",
+            "professor": "CARLA MARY DA SILVA OLIVEIRA",
+            "horario": "6N1234",
+            "local": "CCHLA 406 BLOCO IV (CCHLA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1408187",
+        "name": "HISTORIA DO BRASIL I",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1408187",
+            "turmaid": "01",
+            "nome": " HISTORIA DO BRASIL I",
+            "semester": "2018.2",
+            "professor": "MOZART VERGETTI DE MENEZES",
+            "horario": "4N1234",
+            "local": "CCHLA 406 BLOCO IV (CCHLA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1408192",
+        "name": "HISTORIA DA AMERICA II",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1408192",
+            "turmaid": "01",
+            "nome": " HISTORIA DA AMERICA II",
+            "semester": "2018.2",
+            "professor": "LUCIO FLAVIO SA LEITAO PEIXOTO DE VASCONCELOS",
+            "horario": "3N1234",
+            "local": "CCHLA 406 BLOCO IV (CCHLA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1303180",
+        "name": "POLITICA E GESTAO DA EDUCACAO",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1303180",
+            "turmaid": "08",
+            "nome": " POLITICA E GESTAO DA EDUCACAO",
+            "semester": "2018.2",
+            "professor": "CARLOS EDUARDO REBUA OLIVEIRA",
+            "horario": "3T1234",
+            "local": "CE 304 (CE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+          "1303208"
+        ]
+      },
+      {
+        "id": "1408137",
+        "name": "METODOLOGIA DA HISTORIA I",
+        "category": "Complementar Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1408137",
+            "turmaid": "01",
+            "nome": " METODOLOGIA DA HISTORIA I",
+            "semester": "2018.2",
+            "professor": "CLAUDIA ENGLER CURY",
+            "horario": "2T2345",
+            "local": "CCHLA 407 BLOCO IV (CCHLA)"
+          },
+          {
+            "id": "1408137",
+            "turmaid": "02",
+            "nome": " METODOLOGIA DA HISTORIA I",
+            "semester": "2018.2",
+            "professor": "CLAUDIA ENGLER CURY",
+            "horario": "5T2345",
+            "local": "CCHLA 415 BLOCO I CENTRAL DE AULAS (CCHLA)"
+          }
+        ],
+        "prerequisites": [
+          "1408248"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1408184",
+        "name": "HISTORIA MODERNA II",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1408184",
+            "turmaid": "01",
+            "nome": " HISTORIA MODERNA II",
+            "semester": "2018.2",
+            "professor": "CARLA MARY DA SILVA OLIVEIRA",
+            "horario": "4T2345",
+            "local": "CCHLA 407 BLOCO IV (CCHLA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1408188",
+        "name": "HISTORIA DO BRASIL II",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1408188",
+            "turmaid": "01",
+            "nome": " HISTORIA DO BRASIL II",
+            "semester": "2018.2",
+            "professor": "SOLANGE PEREIRA DA ROCHA",
+            "horario": "5T2345",
+            "local": "CCHLA 401  BLOCO IV (CCHLA)"
+          },
+          {
+            "id": "1408188",
+            "turmaid": "02",
+            "nome": " HISTORIA DO BRASIL II",
+            "semester": "2018.2",
+            "professor": "SOLANGE PEREIRA DA ROCHA",
+            "horario": "2T2345",
+            "local": "CCHLA 408 BLOCO IV (CCHLA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1408193",
+        "name": "HISTORIA DA AMERICA III",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1408193",
+            "turmaid": "01",
+            "nome": " HISTORIA DA AMERICA III",
+            "semester": "2018.2",
+            "professor": "TIAGO BERNARDON DE OLIVEIRA",
+            "horario": "6T2345",
+            "local": "CCHLA 405 BLOCO IV (CCHLA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1302105",
+        "name": "DIDÁTICA",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1302105",
+            "turmaid": "03",
+            "nome": " DIDÁTICA",
+            "semester": "2018.2",
+            "professor": "CESAR CAVALCANTI DA SILVA",
+            "horario": "5T2345",
+            "local": "CCS 305 (CCS)"
+          },
+          {
+            "id": "1302105",
+            "turmaid": "07",
+            "nome": " DIDÁTICA",
+            "semester": "2018.2",
+            "professor": "ISABEL MARINHO DA COSTA",
+            "horario": "2N1234",
+            "local": "CE 306 (CE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1408185",
+        "name": "HISTORIA CONTEMPORANEA I",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1408185",
+            "turmaid": "01",
+            "nome": " HISTORIA CONTEMPORANEA I",
+            "semester": "2018.2",
+            "professor": "TIAGO BERNARDON DE OLIVEIRA",
+            "horario": "5N1234",
+            "local": "CCHLA 401  BLOCO IV (CCHLA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1408189",
+        "name": "HISTORIA DO BRASIL III",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1408189",
+            "turmaid": "01",
+            "nome": " HISTORIA DO BRASIL III",
+            "semester": "2018.2",
+            "professor": "Martinho Guedes dos Santos Neto",
+            "horario": "4N1234",
+            "local": "CCHLA 401  BLOCO IV (CCHLA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1408194",
+        "name": "HISTORIA DA PARAIBA I",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1408194",
+            "turmaid": "01",
+            "nome": " HISTORIA DA PARAIBA I",
+            "semester": "2018.2",
+            "professor": "MOZART VERGETTI DE MENEZES",
+            "horario": "6N1234",
+            "local": "CCHLA 403 BLOCO IV (CCHLA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1408260",
+        "name": "METODOLOGIA DA HISTORIA II",
+        "category": "Complementar Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1408260",
+            "turmaid": "01",
+            "nome": " METODOLOGIA DA HISTORIA II",
+            "semester": "2018.2",
+            "professor": "EDUARDO HENRIQUE DE LIMA GUIMARAES",
+            "horario": "3N1234",
+            "local": "CCHLA 401  BLOCO IV (CCHLA)"
+          }
+        ],
+        "prerequisites": [
+          "1408137"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1408186",
+        "name": "HISTORIA CONTEMPORANEA II",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1408186",
+            "turmaid": "01",
+            "nome": " HISTORIA CONTEMPORANEA II",
+            "semester": "2018.2",
+            "professor": "DAMIAO DE LIMA",
+            "horario": "7M2345",
+            "local": "CCHLA 417 BLOCO A (CCHLA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1408190",
+        "name": "HISTORIA DO BRASIL IV",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1408190",
+            "turmaid": "01",
+            "nome": " HISTORIA DO BRASIL IV",
+            "semester": "2018.2",
+            "professor": "PAULO GIOVANI ANTONINO NUNES",
+            "horario": "6T2345",
+            "local": "CCHLA 401  BLOCO IV (CCHLA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1408196",
+        "name": "HISTORIA DA PARAIBA II",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1408196",
+            "turmaid": "01",
+            "nome": " HISTORIA DA PARAIBA II",
+            "semester": "2018.2",
+            "professor": "MONIQUE GUIMARAES CITTADINO",
+            "horario": "3T2345",
+            "local": "CCHLA 401  BLOCO IV (CCHLA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1408140",
+        "name": "HISTORIOGRAFIA BRASILEIRA",
+        "category": "Obrigatória",
+        "semester": 7,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1408140",
+            "turmaid": "01",
+            "nome": " HISTORIOGRAFIA BRASILEIRA",
+            "semester": "2018.2",
+            "professor": "EDUARDO HENRIQUE DE LIMA GUIMARAES",
+            "horario": "5N1234",
+            "local": "CCHLA 403 BLOCO IV (CCHLA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1408247",
+        "name": "HISTORIA DA AFRICA CONTEMPORANEA",
+        "category": "Obrigatória",
+        "semester": 7,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1408247",
+            "turmaid": "01",
+            "nome": " HISTORIA DA AFRICA CONTEMPORANEA",
+            "semester": "2018.2",
+            "professor": "ELIO CHAVES FLORES",
+            "horario": "2N1234",
+            "local": "CCHLA 403 BLOCO IV (CCHLA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDMTE0111",
+        "name": "ESTAGIO DOC. SUPERVISIONADO I",
+        "category": "Obrigatória",
+        "semester": 7,
+        "workload": "135h aula 0h lab.",
+        "type": "ESTÁGIO",
+        "turmas": [
+          {
+            "id": "GDMTE0111",
+            "turmaid": "01",
+            "nome": " HISTORIA",
+            "semester": "2018.2",
+            "professor": "ANTONIO CARLOS FERREIRA PINHEIRO",
+            "horario": "46N1234 7N1 (22/11/2018 - 10/05/2019)",
+            "local": "CAD 102 (PRG)"
+          }
+        ],
+        "prerequisites": [
+          "1302105"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1408246",
+        "name": "HISTORIA DO ORIENTE CONTEMPORANEO",
+        "category": "Obrigatória",
+        "semester": 8,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1408246",
+            "turmaid": "01",
+            "nome": " HISTORIA DO ORIENTE CONTEMPORANEO",
+            "semester": "2018.2",
+            "professor": "FERNANDO CAUDURO PUREZA",
+            "horario": "3T2345",
+            "local": "CCHLA 422 BLOCO A 1º ANDAR (CCHLA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1408344",
+        "name": "TRAB DE CONCLUSÃO DE CURSO I",
+        "category": "Complementar Obrigatória",
+        "semester": 8,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1408344",
+            "turmaid": "01",
+            "nome": " TRAB DE CONCLUSÃO DE CURSO I",
+            "semester": "2018.2",
+            "professor": "PAULO ROBERTO DE AZEVEDO MAIA",
+            "horario": "5T234",
+            "local": "CCHLA 423 BLOCO A 2º ANDAR (CCHLA)"
+          }
+        ],
+        "prerequisites": [
+          "1408260"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDMTE0112",
+        "name": "ESTAGIO DOC. SUPERVISIONADO II",
+        "category": "Obrigatória",
+        "semester": 8,
+        "workload": "135h aula 0h lab.",
+        "type": "ESTÁGIO",
+        "turmas": [
+          {
+            "id": "GDMTE0112",
+            "turmaid": "01",
+            "nome": " HISTORIA",
+            "semester": "2018.2",
+            "professor": "VILMA DE LURDES BARBOSA E MELO",
+            "horario": "4T2345 6T12345 (22/11/2018 - 10/05/2019)",
+            "local": "CAE 104 (PRG)"
+          }
+        ],
+        "prerequisites": [
+          "0111",
+          "1302527"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1408345",
+        "name": "TRAB DE CONCLUSÃO DE CURSO II",
+        "category": "Complementar Obrigatória",
+        "semester": 9,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1408345",
+            "turmaid": "01",
+            "nome": " TRAB DE CONCLUSÃO DE CURSO II",
+            "semester": "2018.2",
+            "professor": "MONIQUE GUIMARAES CITTADINO",
+            "horario": "5N123",
+            "local": "CCHLA 516 - PPGH (CCHLA)"
+          }
+        ],
+        "prerequisites": [
+          "1408344"
+        ],
+        "equivalences": [
+          "1408262"
+        ]
+      },
+      {
+        "id": "GDLS0024",
+        "name": "LIBRAS",
+        "category": "Complementar Obrigatória",
+        "semester": 9,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDLS0024",
+            "turmaid": "03",
+            "nome": " LIBRAS",
+            "semester": "2018.2",
+            "professor": "LIGIO JOSIAS GOMES DE SOUSA",
+            "horario": "3T1234",
+            "local": "CCS 509 (CCS)"
+          },
+          {
+            "id": "GDLS0024",
+            "turmaid": "04",
+            "nome": " LIBRAS",
+            "semester": "2018.2",
+            "professor": "CAROLINA SILVA RESENDE DA NÓBREGA",
+            "horario": "3N1234",
+            "local": "CAB 105 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDMTE0113",
+        "name": "ESTAGIO DOC. SUPERVISIONADO III",
+        "category": "Obrigatória",
+        "semester": 9,
+        "workload": "135h aula 0h lab.",
+        "type": "ESTÁGIO",
+        "turmas": [
+          {
+            "id": "GDMTE0113",
+            "turmaid": "01",
+            "nome": " HISTORIA",
+            "semester": "2018.2",
+            "professor": "ALINE PRAXEDES DE ARAÚJO",
+            "horario": "7T1 46N1234 (22/11/2018 - 10/05/2019)",
+            "local": "CAF 105 (PRG)"
+          }
+        ],
+        "prerequisites": [
+          "0112",
+          "1302528"
+        ],
+        "equivalences": [
+
+        ]
+      }
+    ]
+  }
+}

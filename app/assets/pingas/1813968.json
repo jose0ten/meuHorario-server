@@ -1,0 +1,1620 @@
+{
+  "curriculum": {
+    "id": "372018",
+    "codigo": "1813968",
+    "name": "DANÇA LICENCIATURA - João Pessoa - Presencial - MT - LICENCIATURA PLENA",
+    "faculty": "CENTRO DE COMUNICAÇÃO, TURISMO E ARTES (CCTA) (11.00.66)",
+    "minch": "255",
+    "maxch": "390",
+    "semesters": 8,
+    "courses": [
+      {
+        "id": "1302304",
+        "name": "AVALIACAO DA APRENDIZAGEM",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1302304",
+            "turmaid": "05",
+            "nome": " AVALIACAO DA APRENDIZAGEM",
+            "semester": "2018.2",
+            "professor": "IRANETE DE ARAÚJO MEIRA",
+            "horario": "2N1234",
+            "local": "CAB 102 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1302305",
+        "name": "SEMINÁRIO DE PROBLEMAS  ATUAIS DA EDUCAÇÃO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1302306",
+        "name": "ALFABETIZAÇÃO DE JOVENS E ADULTOS: PROCESSOS E MÉTODOS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1302308",
+        "name": "INTRODUÇÃO AOS RECURSOS AUDIOVISUAIS EM EDUCAÇÃO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1302309",
+        "name": "SEMINARIO EM EDUCACAO AMBIENTAL",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1302324",
+        "name": "ALFABETIZACAO DE JOVENS E ADULTOS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1302324",
+            "turmaid": "01",
+            "nome": " ALFABETIZACAO DE JOVENS E ADULTOS",
+            "semester": "2018.2",
+            "professor": "QUÉZIA VILA FLOR FURTADO",
+            "horario": "3N1234",
+            "local": "CE 305 (CE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1302507",
+        "name": "EDUCAÇÃO E MOVIMENTOS SOCIAIS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1303195",
+        "name": "PLANEJAMENTO E GESTÃO ESCOLAR",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1303196",
+        "name": "CURRICULO E TRABALHO PEDAGOGICO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1303197",
+        "name": "PESQUISA E COTIDIANO ESCOLAR",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1411131",
+        "name": "TECNICAS CIRCENSE",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1411170",
+        "name": "OFICINA AUDIO VISUAL ATOR E CAMERA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1411172",
+        "name": "OFICINA AUDIO VISUAL DIRETOR E CAMERA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1411173",
+        "name": "OFICINA DE MAQUIAGEM",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1411174",
+        "name": "OFICINA DE SONOPLASTIA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1411177",
+        "name": "TECNICA DE CAPOEIRA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1411179",
+        "name": "PRODUÇÃO E GESTÃO CULTURAL",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1411185",
+        "name": "DRAMATURGIA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1411186",
+        "name": "ESTUDOS AVANÇADOS DE DANÇA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1411187",
+        "name": "ESTUDOS TEÓRICOS EM DANÇA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1411209",
+        "name": "TÓPICOS ESPECIAIS EM DANÇA I",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1411210",
+        "name": "TÓPICOS ESPECIAIS EM DANÇA II",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1411211",
+        "name": "TÓPICOS ESPECIAIS EM DANÇA III",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "90h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "2301016",
+        "name": "O DRAMA BURGUÊS E O TEATRO DO SÉCULO XIX",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+          "1411137"
+        ]
+      },
+      {
+        "id": "2301017",
+        "name": "O SÉCULO XX E AS BASES PARA O  TEATRO CONTEMPORÂNEO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+          "1411138"
+        ]
+      },
+      {
+        "id": "2301018",
+        "name": "PRÁTICA DE INTERPRETAÇÃO  DE ORIGEM POPULAR",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "90h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+          "1411140"
+        ]
+      },
+      {
+        "id": "2301019",
+        "name": "PRÁTINTERPPARA O TEATRO ÉPICO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "90h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+          "1411142"
+        ]
+      },
+      {
+        "id": "2301021",
+        "name": "PRÁTICA DE INTERPRETAÇÃO SOBRE ELEMENTOS DO SISTEMA STANISLAVSKI",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "90h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+          "1411141"
+        ]
+      },
+      {
+        "id": "2301026",
+        "name": "TEATRO ANTIGO MEDIEVAL E RENASCENTISTA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+          "1411126"
+        ]
+      },
+      {
+        "id": "2301029",
+        "name": "CONTAÇÃO DE HISTÓRIAS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "2301032",
+        "name": "EXPERIMENTOS CÊNICOS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "2301033",
+        "name": "FUNDAMENTOS DA  DIREÇÃO TEATRAL",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+          "1411149"
+        ]
+      },
+      {
+        "id": "2301036",
+        "name": "PROJETO CENOGRÁFICO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+          "1411155"
+        ]
+      },
+      {
+        "id": "2301041",
+        "name": "EXERCICIO DE ENCENAÇÃO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "2301047",
+        "name": "PRÁTICA DE CRIAÇÃO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "2301047",
+            "turmaid": "01",
+            "nome": " PRÁTICA DE CRIAÇÃO",
+            "semester": "2018.2",
+            "professor": "CAROLINA DIAS LARANJEIRA",
+            "horario": "3M2345",
+            "local": "15 - DAC (CCTA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "2301048",
+        "name": "PRÁTICA DE ENSINO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "2301052",
+        "name": "TEATRO NA EDUCAÇÃO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDAC0102",
+        "name": "PRATICAS DE SAUDE CORPORAL",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "30h aula 30h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDAC0107",
+        "name": "LABORATORIOS PRATICOS DE HISTORIA DA DANÇA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDAC0111",
+        "name": "ATIVIDADES COMPLEMENTARES",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "0h aula 165h lab.",
+        "type": "ATIVIDADE ESPECIAL",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1301200",
+        "name": "FUNDAMENTOS SOCIOHISTÓRICOS DA EDUCAÇÃO",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1301200",
+            "turmaid": "12",
+            "nome": " FUNDAMENTOS SOCIOHISTÓRICOS DA EDUCAÇÃO",
+            "semester": "2018.2",
+            "professor": "ROSEANE MARIA DE AMORIM",
+            "horario": "5N1234",
+            "local": "CE 306 (CE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1411130",
+        "name": "METODOLOGIA DO TRABALHO CIENTIFICO",
+        "category": "Complementar Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1411130",
+            "turmaid": "01",
+            "nome": " METODOLOGIA DO TRABALHO CIENTIFICO",
+            "semester": "2018.2",
+            "professor": "JULIANA COSTA RIBEIRO",
+            "horario": "5M2345",
+            "local": "11 -  DAC (CCTA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1411182",
+        "name": "ARTE E SOCIEDADE",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1411182",
+            "turmaid": "01",
+            "nome": " ARTE E SOCIEDADE",
+            "semester": "2018.2",
+            "professor": "SERGIO JOSE DE OLIVEIRA",
+            "horario": "3M2345",
+            "local": "11 -  DAC (CCTA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDAC0126",
+        "name": "EXPERIÊNCIAS SONORAS CRIATIVAS",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "MODULO",
+        "turmas": [
+          {
+            "id": "GDAC0126",
+            "turmaid": "01",
+            "nome": " EXPERIÊNCIAS SONORAS CRIATIVAS",
+            "semester": "2018.2",
+            "professor": "ELTHON GOMES FERNANDES DA SILVA",
+            "horario": "246M2345 (29/03/2019 - 06/05/2019)",
+            "local": "08 - DAC - LABORATÓRIO DE SOM E TEC (CCTA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDAC0129",
+        "name": "TÉCNICA BÁSICA DO MOVIMENTO",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "MODULO",
+        "turmas": [
+          {
+            "id": "GDAC0129",
+            "turmaid": "01",
+            "nome": " TÉCNICA BÁSICA DO MOVIMENTO",
+            "semester": "2018.2",
+            "professor": "GUILHERME BARBOSA SCHULZE",
+            "horario": "246M2345 (18/02/2019 - 27/03/2019)",
+            "local": "15 - DAC (CCTA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDAC0131",
+        "name": "TÉCNICAS SOMÁTICAS",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "MODULO",
+        "turmas": [
+          {
+            "id": "GDAC0131",
+            "turmaid": "01",
+            "nome": " TÉCNICAS SOMÁTICAS",
+            "semester": "2018.2",
+            "professor": "BARBARA CONCEICAO SANTOS DA SILVA",
+            "horario": "246M2345 (26/11/2018 - 15/02/2019)",
+            "local": "08 - DAC - LABORATÓRIO DE SOM E TEC (CCTA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "2301010",
+        "name": "A VOZ DO ATOR PERSONAGEM",
+        "category": "Optativa",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "2301013",
+          "0126"
+        ],
+        "equivalences": [
+          "1411145"
+        ]
+      },
+      {
+        "id": "2301022",
+        "name": "A VOZ NO CORPO DO ATOR",
+        "category": "Optativa",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "2301013",
+          "0126"
+        ],
+        "equivalences": [
+          "1411144"
+        ]
+      },
+      {
+        "id": "1301195",
+        "name": "FUNDAMENTOS  ANTROPOFILOSÓFICO DA EDUCAÇÃO",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "2301005",
+        "name": "ANATOMIA E FISIOLOGIA PARA A DANÇA",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDAC0122",
+        "name": "CORPO E MOVIMENTO I",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "MODULO",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "0129"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDAC0130",
+        "name": "TÉCNICAS DE IMPROVISAÇÃO",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "MODULO",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDAC0132",
+        "name": "TEORIA DO MOVIMENTO CORPORAL",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "MODULO",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDAC0133",
+        "name": "TRADIÇÕES BRASILEIRAS",
+        "category": "Complementar Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "MODULO",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1301201",
+        "name": "FUNDAMENTOS PSICOLÓGICOS DA EDUCAÇÃO",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1301201",
+            "turmaid": "10",
+            "nome": " FUNDAMENTOS PSICOLÓGICOS DA EDUCAÇÃO",
+            "semester": "2018.2",
+            "professor": "MARIA TERESA BARROS FALCAO COELHO",
+            "horario": "5N1234",
+            "local": "CAE 110 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1411163",
+        "name": "PESQUISA APLICADA AS ARTES CENICAS",
+        "category": "Complementar Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1411163",
+            "turmaid": "01",
+            "nome": " PESQUISA APLICADA AS ARTES CENICAS",
+            "semester": "2018.2",
+            "professor": "SERGIO JOSE DE OLIVEIRA",
+            "horario": "5M2345",
+            "local": "12 -  DAC (CCTA)"
+          }
+        ],
+        "prerequisites": [
+          "1411130"
+        ],
+        "equivalences": [
+          "2301034",
+          "2301035"
+        ]
+      },
+      {
+        "id": "GDAC0112",
+        "name": "EVOLUÇÃO DA DANÇA CÊNICA",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDAC0112",
+            "turmaid": "01",
+            "nome": " EVOLUÇÃO DA DANÇA CÊNICA",
+            "semester": "2018.2",
+            "professor": "CANDICE DIDONET",
+            "horario": "3M2345",
+            "local": "12 -  DAC (CCTA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDAC0114",
+        "name": "DANÇAS POPULARES: MATRIZES ÉTNICAS E CORPORALIDADES",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "MODULO",
+        "turmas": [
+          {
+            "id": "GDAC0114",
+            "turmaid": "01",
+            "nome": " DANÇAS POPULARES: MATRIZES ÉTNICAS E CORPORALIDADES",
+            "semester": "2018.2",
+            "professor": "CAROLINA DIAS LARANJEIRA",
+            "horario": "246M2345 (18/02/2019 - 27/03/2019)",
+            "local": "09 - DAC (CCTA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDAC0121",
+        "name": "CINESIOLOGIA PARA A DANÇA",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "MODULO",
+        "turmas": [
+          {
+            "id": "GDAC0121",
+            "turmaid": "01",
+            "nome": " CINESIOLOGIA PARA A DANÇA",
+            "semester": "2018.2",
+            "professor": "A DEFINIR",
+            "horario": "246M2345 (29/03/2019 - 06/05/2019)",
+            "local": "09 - DAC (CCTA)"
+          }
+        ],
+        "prerequisites": [
+          "2301005"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDAC0123",
+        "name": "CORPO E MOVIMENTO II",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "MODULO",
+        "turmas": [
+          {
+            "id": "GDAC0123",
+            "turmaid": "01",
+            "nome": " CORPO E MOVIMENTO II",
+            "semester": "2018.2",
+            "professor": "VICTOR HUGO NEVES DE OLIVEIRA",
+            "horario": "246M2345 (26/11/2018 - 15/02/2019)",
+            "local": "15 - DAC (CCTA)"
+          }
+        ],
+        "prerequisites": [
+          "0129"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1302105",
+        "name": "DIDÁTICA",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1411194",
+        "name": "MODERNIDADE NA DANÇA BRASILEIRA E PARAIBANA",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDAC0115",
+        "name": "DANÇAS POPULARES",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "MODULO",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "0114"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDAC0127",
+        "name": "METODOLOGIA DO ENSINO DA DANÇA",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "MODULO",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDAC0128",
+        "name": "PROCESSO DE CRIAÇÃO COREOGRÁFICA",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "MODULO",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDLS0024",
+        "name": "LIBRAS",
+        "category": "Complementar Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1303180",
+        "name": "POLITICA E GESTAO DA EDUCACAO",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1303180",
+            "turmaid": "05",
+            "nome": " POLITICA E GESTAO DA EDUCACAO",
+            "semester": "2018.2",
+            "professor": "MARCOS ANGELUS MIRANDA DE ALCANTARA",
+            "horario": "5N1234",
+            "local": "CAF 105 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+          "1303208"
+        ]
+      },
+      {
+        "id": "GDAC0113",
+        "name": "CRIAÇÃO EM DANÇA NA ESCOLA",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "MODULO",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDAC0116",
+        "name": "DANÇAS POPULARES",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "MODULO",
+        "turmas": [
+          {
+            "id": "GDAC0116",
+            "turmaid": "01",
+            "nome": " INVESTIGAÇÕES CRIATIVAS E PEDAGÓGICAS",
+            "semester": "2018.2",
+            "professor": "DANIELA SANTOS DA SILVA",
+            "horario": "246M2345 (29/03/2019 - 06/05/2019)",
+            "local": "15 - DAC (CCTA)"
+          }
+        ],
+        "prerequisites": [
+          "0114"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDAC0119",
+        "name": "JOGOS CORPORAIS",
+        "category": "Complementar Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDAC0125",
+        "name": "ELEMENTOS DE DANÇA CONTEMPORÂNEA",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "MODULO",
+        "turmas": [
+          {
+            "id": "GDAC0125",
+            "turmaid": "01",
+            "nome": " ELEMENTOS DE DANÇA CONTEMPORÂNEA",
+            "semester": "2018.2",
+            "professor": "LIRIA DE ARAUJO MORAIS",
+            "horario": "246M2345 (26/11/2018 - 15/02/2019)",
+            "local": "09 - DAC (CCTA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "2301055",
+        "name": "ESTÁGIO SUPERVISIONADO I",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "150h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1411196",
+          "0127",
+          "1302105"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDAC0120",
+        "name": "VOZ E MOVIMENTO EM DANÇA",
+        "category": "Complementar Obrigatória",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "MODULO",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDAC0124",
+        "name": "COREOGRAFIA E DRAMATURGIA DA DANÇA",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "MODULO",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1411200",
+        "name": "COREOGRAFIA E DRAMATURGIA DA DANÇA II",
+        "category": "Optativa",
+        "semester": 7,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1411199",
+          "0124"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1411202",
+        "name": "PROJETO COREOGRÁFICO",
+        "category": "Obrigatória",
+        "semester": 7,
+        "workload": "150h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1411202",
+            "turmaid": "01",
+            "nome": " PROJETO COREOGRÁFICO",
+            "semester": "2018.2",
+            "professor": "ARTHUR MARQUES DE ALMEIDA NETO",
+            "horario": "24M2345 6M23",
+            "local": "13 -  DAC (CCTA)"
+          }
+        ],
+        "prerequisites": [
+          "0124",
+          "1411199"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "2301056",
+        "name": "ESTÁGIO SUPERVISIONADO II",
+        "category": "Obrigatória",
+        "semester": 7,
+        "workload": "150h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1411196",
+          "0127",
+          "1302105"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDAC0117",
+        "name": "TRABALHO DE CONCLUSÃO DE CURSO I",
+        "category": "Complementar Obrigatória",
+        "semester": 7,
+        "workload": "90h aula 0h lab.",
+        "type": "TRABALHO DE CONCLUSÃO DE CURSO",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1411163"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "2301057",
+        "name": "ESTÁGIO SUPERVISIONADO III",
+        "category": "Obrigatória",
+        "semester": 8,
+        "workload": "105h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1411196",
+          "0127",
+          "1302105"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDAC0118",
+        "name": "TRABALHO DE CONCLUSÃO DE CURSO II",
+        "category": "Complementar Obrigatória",
+        "semester": 8,
+        "workload": "90h aula 0h lab.",
+        "type": "TRABALHO DE CONCLUSÃO DE CURSO",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "0117"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDAC0134",
+        "name": " CRIAÇÃO EM DANÇA NA ESCOLA",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": "15h",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDAC0134",
+            "turmaid": "01",
+            "nome": " CRIAÇÃO EM DANÇA NA ESCOLA",
+            "semester": "2018.2",
+            "professor": "CANDICE DIDONET",
+            "horario": "5M2345",
+            "local": "15 - DAC (CCTA)"
+          },
+          {
+            "id": "GDAC0134",
+            "turmaid": "02",
+            "nome": " CRIAÇÃO EM DANÇA NA ESCOLA",
+            "semester": "2018.2",
+            "professor": "DANIELA SANTOS DA SILVA",
+            "horario": "3M2345",
+            "local": "13 -  DAC (CCTA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1411207",
+        "name": " ESTÁGIO SUPERVISIONADO III",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": "60h",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1411207",
+            "turmaid": "01",
+            "nome": " ESTÁGIO SUPERVISIONADO III",
+            "semester": "2018.2",
+            "professor": "JULIANA COSTA RIBEIRO",
+            "horario": "2345M1",
+            "local": "03 - DAC (CCTA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDAC0136",
+        "name": " JOGOS CORPORAIS",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": null,
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDAC0136",
+            "turmaid": "01",
+            "nome": " JOGOS CORPORAIS",
+            "semester": "2018.2",
+            "professor": "A DEFINIR",
+            "horario": "246M2345 (18/02/2019 - 27/03/2019)",
+            "local": "08 - DAC - LABORATÓRIO DE SOM E TEC (CCTA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      }
+    ]
+  }
+}

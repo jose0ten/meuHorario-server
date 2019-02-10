@@ -1,0 +1,1401 @@
+{
+  "curriculum": {
+    "id": "0712006",
+    "codigo": "1626838",
+    "name": "LICENCIATURA EM PEDAGOGIA - CCAE - Mamanguape - Presencial - N - LICENCIATURA PLENA",
+    "faculty": "CENTRO DE CIÊNCIAS APLICADAS E EDUCAÇÃO (CCAE) (11.00.59)",
+    "minch": "270",
+    "maxch": "420",
+    "semesters": 9,
+    "courses": [
+      {
+        "id": "8102177",
+        "name": "FUNDAMENTOS BIOLÓGICOS DA EDUCAÇÃO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDEDC0097",
+        "name": "ANTROPOLOGIA EDUCACIONAL",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDEDC0098",
+        "name": "EDUCAÇÃO AMBIENTAL",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDEDC0099",
+        "name": "EDUCAÇÃO PRÉ",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDEDC0100",
+        "name": "FUNDAMENTOS PSICOSOCIAIS DAS RELAÇÕES HUMANAS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDEDC0100",
+            "turmaid": "01",
+            "nome": " FUNDAMENTOS PSICOSOCIAIS DAS RELAÇÕES HUMANAS",
+            "semester": "2018.2",
+            "professor": "RENATA MONTEIRO GARCIA",
+            "horario": "4N1234",
+            "local": "M.C-103 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDEDC0101",
+        "name": "TÉCNICAS AUDIOVISUAIS EM  EDUCAÇÃO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDEDC0102",
+        "name": "TEORIAS E PRÁTICAS DA EDUCAÇÃO POPULAR",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8102168",
+        "name": "TOPICOS ESPECIAIS EM EDUCAÇÃO I",
+        "category": "Complementar Flexiva",
+        "semester": 1,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8102101",
+        "name": "FILOSOFIA DA EDUCACAO I",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8102102",
+        "name": "HISTORIA DA EDUCACAO I",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8102103",
+        "name": "SOCIOLOGIA DA EDUCAÇÃO I",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8102104",
+        "name": "PSICOLOGIA DA EDUCACAO I",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8102105",
+        "name": "SEMINARIO TEMATICO EM EDUCACAO I",
+        "category": "Complementar Obrigatória",
+        "semester": 1,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8102125",
+        "name": "METODOLOGIA DO TRABALHO CIENTIFICO",
+        "category": "Complementar Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8102169",
+        "name": "TOPICOS ESPECIAIS EM EDUCAÇÃO   II",
+        "category": "Complementar Flexiva",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8102115",
+        "name": "FILOSOFIA DA EDUCACAO II",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8102115",
+            "turmaid": "01",
+            "nome": " FILOSOFIA DA EDUCACAO II",
+            "semester": "2018.2",
+            "professor": "ANTONIO ALBERTO PEREIRA",
+            "horario": "5N1234",
+            "local": "M.C-101 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+          "8102101"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8102116",
+        "name": "HISTORIA DA EDUCACAO II",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8102116",
+            "turmaid": "01",
+            "nome": " HISTORIA DA EDUCACAO II",
+            "semester": "2018.2",
+            "professor": "FRANCYMARA ANTONINO NUNES DE ASSIS",
+            "horario": "2N1234",
+            "local": "M.C-101 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+          "8102102"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8102117",
+        "name": "SOCIOLOGIA DA EDUCACAO II",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8102117",
+            "turmaid": "01",
+            "nome": " SOCIOLOGIA DA EDUCACAO II",
+            "semester": "2018.2",
+            "professor": "PAULO ROBERTO PALHANO SILVA",
+            "horario": "6N1234",
+            "local": "M.C-101 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+          "8102103"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8102118",
+        "name": "PSICOLOGIA DA EDUCACAO II",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8102118",
+            "turmaid": "01",
+            "nome": " PSICOLOGIA DA EDUCACAO II",
+            "semester": "2018.2",
+            "professor": "RENATA MONTEIRO GARCIA",
+            "horario": "3N1234",
+            "local": "M.C-101 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+          "8102104"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8102119",
+        "name": "PESQUISA EDUCACIONAL",
+        "category": "Complementar Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8102119",
+            "turmaid": "01",
+            "nome": " PESQUISA EDUCACIONAL",
+            "semester": "2018.2",
+            "professor": "SONIA MARIA CANDIDO DA SILVA",
+            "horario": "4N1234",
+            "local": "M.C-101 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8102120",
+        "name": "SEMINARIO TEMATICO EM EDUCACAO II",
+        "category": "Complementar Obrigatória",
+        "semester": 2,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8102120",
+            "turmaid": "01",
+            "nome": " SEMINARIO TEMATICO EM EDUCACAO II",
+            "semester": "2018.2",
+            "professor": "IVONALDO NERES LEITE e RENATA MONTEIRO GARCIA",
+            "horario": "4T56",
+            "local": "M.C-102 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8102170",
+        "name": "TOPICOS ESPECIAIS EM EDUCAÇÃO III",
+        "category": "Complementar Flexiva",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8102109",
+        "name": "POLITICA EDUCACIONAL DA EDUCACAO BASICA",
+        "category": "Complementar Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8102110",
+        "name": "ECONOMIA DA EDUCAÇÃO",
+        "category": "Complementar Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8102121",
+        "name": "SEMINARIO TEMATICO EM EDUCAÇÃO III",
+        "category": "Complementar Obrigatória",
+        "semester": 3,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8102123",
+        "name": "EDUCAÇÃO E TRABALHO",
+        "category": "Complementar Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8102124",
+        "name": "EDUCACAO E MOVIMENTOS SOCIAIS",
+        "category": "Complementar Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8105031",
+        "name": "LIBRASLINGUA BRASILEIRA DE SINAIS",
+        "category": "Complementar Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8102171",
+        "name": "TOPICOS ESPECIAIS EM EDUCAÇÃO IV",
+        "category": "Complementar Flexiva",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8102128",
+        "name": "GESTAO EDUCACIONAL",
+        "category": "Complementar Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8102128",
+            "turmaid": "01",
+            "nome": " GESTAO EDUCACIONAL",
+            "semester": "2018.2",
+            "professor": "CELIA REGINA TEIXEIRA",
+            "horario": "2N1234",
+            "local": "M.C-102 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8102129",
+        "name": "PLANEJAMENTO EDUCACIONAL",
+        "category": "Complementar Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8102129",
+            "turmaid": "01",
+            "nome": " PLANEJAMENTO EDUCACIONAL",
+            "semester": "2018.2",
+            "professor": "MARIA VALDENICE RESENDE SOARES",
+            "horario": "6N1234",
+            "local": "M.C-102 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8102130",
+        "name": "ORGANIZAÇÃO E PRAT DO ENSINO NORMAL",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8102130",
+            "turmaid": "01",
+            "nome": " ORGANIZAÇÃO E PRAT DO ENSINO NORMAL",
+            "semester": "2018.2",
+            "professor": "FRANCYMARA ANTONINO NUNES DE ASSIS",
+            "horario": "3N1234",
+            "local": "M.C-102 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8102131",
+        "name": "ESTAGIO SUPERVISIONADO I",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8102131",
+            "turmaid": "01",
+            "nome": " ESTAGIO SUPERVISIONADO I",
+            "semester": "2018.2",
+            "professor": "FRANCYMARA ANTONINO NUNES DE ASSIS",
+            "horario": "5N1234",
+            "local": "M.C-102 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8102132",
+        "name": "SEMINÁRIO TEMÁTICO EM EDUCAÇÃO IV",
+        "category": "Complementar Obrigatória",
+        "semester": 4,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8102132",
+            "turmaid": "01",
+            "nome": " SEMINÁRIO TEMÁTICO EM EDUCAÇÃO IV",
+            "semester": "2018.2",
+            "professor": "CELIA REGINA TEIXEIRA",
+            "horario": "4T56",
+            "local": "M.C-103 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8102162",
+        "name": "CURRÍCULO E TRABALHO PEDAGÓGICO",
+        "category": "Complementar Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8102162",
+            "turmaid": "03",
+            "nome": " CURRÍCULO E TRABALHO PEDAGÓGICO",
+            "semester": "2018.2",
+            "professor": "ALINE CLEIDE BATISTA",
+            "horario": "4N1234",
+            "local": "M.C-102 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8102172",
+        "name": "TÓPICOS ESPECIAIS EM EDUCAÇÃO V",
+        "category": "Complementar Flexiva",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8102108",
+        "name": "DIDÁTICA",
+        "category": "Complementar Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8102133",
+        "name": "AVALIAÇÃO EDUCACIONAL",
+        "category": "Complementar Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8102134",
+        "name": "EDUCAÇÃO E NOVAS TECNOLOGIAS",
+        "category": "Complementar Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8102135",
+        "name": "ORG E PRÁTICA DA GESTÃO EDUCACIONAL",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8102136",
+        "name": "ESTAGIO SUPERVISIONADO II",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8102137",
+        "name": "SEMINARIO TEMATICO EM EDUCAÇÃO V",
+        "category": "Complementar Obrigatória",
+        "semester": 5,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8102113",
+        "name": "FUNDAMENTOS BIOLOGICOS DA EDUCACAO",
+        "category": "Optativa",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8102161",
+        "name": "ORGANIZAÇÃO DO TRABALHO  PEDAGOGICO",
+        "category": "Optativa",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8102185",
+        "name": "CULTURA GÊNERO E RELIGIOSIDADE",
+        "category": "Optativa",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8102138",
+        "name": "ARTE E EDUCAÇÃO",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8102138",
+            "turmaid": "01",
+            "nome": " ARTE E EDUCAÇÃO",
+            "semester": "2018.2",
+            "professor": "GILMAR LEITE FERREIRA",
+            "horario": "5N1234",
+            "local": "M.C-103 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8102139",
+        "name": "LINGUA E LITERATURA INFANTIL",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8102139",
+            "turmaid": "01",
+            "nome": " LINGUA E LITERATURA INFANTIL",
+            "semester": "2018.2",
+            "professor": "SONIA MARIA CANDIDO DA SILVA",
+            "horario": "2N1234",
+            "local": "M.C-103 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8102140",
+        "name": "ORG E PRATICA DA EDUCAÇÃO INFANTIL",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8102140",
+            "turmaid": "01",
+            "nome": " ORG E PRATICA DA EDUCAÇÃO INFANTIL",
+            "semester": "2018.2",
+            "professor": "AURILIA COUTINHO BESERRA DE ANDRADE",
+            "horario": "3N1234",
+            "local": "M.C-103 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8102141",
+        "name": "ESTAGIO SUPERVISIONADO III",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8102141",
+            "turmaid": "01",
+            "nome": " ESTAGIO SUPERVISIONADO III",
+            "semester": "2018.2",
+            "professor": "AURILIA COUTINHO BESERRA DE ANDRADE",
+            "horario": "6N1234",
+            "local": "M.C-103 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+          "8102108"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8102142",
+        "name": "SEMINARIO TEMATICO EM EDUCAÇÃO VI",
+        "category": "Complementar Obrigatória",
+        "semester": 6,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8102142",
+            "turmaid": "01",
+            "nome": " SEMINARIO TEMATICO EM EDUCAÇÃO VI",
+            "semester": "2018.2",
+            "professor": "AURILIA COUTINHO BESERRA DE ANDRADE",
+            "horario": "4T56",
+            "local": "M.C-104 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8102143",
+        "name": "ENSINO DE PORTUGUES",
+        "category": "Obrigatória",
+        "semester": 7,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8102143",
+            "turmaid": "01",
+            "nome": " ENSINO DE PORTUGUES",
+            "semester": "2018.2",
+            "professor": "SONIA MARIA CANDIDO DA SILVA",
+            "horario": "3N1234",
+            "local": "M.E-101 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8102144",
+        "name": "ENSINO DE MATEMATICA",
+        "category": "Obrigatória",
+        "semester": 7,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8102144",
+            "turmaid": "01",
+            "nome": " ENSINO DE MATEMATICA",
+            "semester": "2018.2",
+            "professor": "FRANCISCA TEREZINHA OLIVEIRA ALVES",
+            "horario": "4N1234",
+            "local": "M.E-101 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8102145",
+        "name": "ENSINO DE CIENCIAS",
+        "category": "Obrigatória",
+        "semester": 7,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8102145",
+            "turmaid": "01",
+            "nome": " ENSINO DE CIENCIAS",
+            "semester": "2018.2",
+            "professor": "JOEL ARAUJO QUEIROZ",
+            "horario": "6N1234",
+            "local": "M.E-101 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8102146",
+        "name": "ORG E PRATICA DO ENSINO FUNDAMENTAL",
+        "category": "Obrigatória",
+        "semester": 7,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8102146",
+            "turmaid": "01",
+            "nome": " ORG E PRATICA DO ENSINO FUNDAMENTAL",
+            "semester": "2018.2",
+            "professor": "AURILIA COUTINHO BESERRA DE ANDRADE",
+            "horario": "5N1234",
+            "local": "M.E-101 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8102147",
+        "name": "ESTAGIO SUPERVISIONADO IV",
+        "category": "Obrigatória",
+        "semester": 7,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8102147",
+            "turmaid": "01",
+            "nome": " ESTAGIO SUPERVISIONADO IV",
+            "semester": "2018.2",
+            "professor": "EVELYN FERNANDES AZEVEDO FAHEINA",
+            "horario": "2N1234",
+            "local": "M.E-101 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+          "8102108"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8102148",
+        "name": "SEMINARIO TEMATICO EM EDUCAÇÃO VII",
+        "category": "Complementar Obrigatória",
+        "semester": 7,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8102148",
+            "turmaid": "01",
+            "nome": " SEMINARIO TEMATICO EM EDUCAÇÃO VII",
+            "semester": "2018.2",
+            "professor": "JOEL ARAUJO QUEIROZ",
+            "horario": "4T56",
+            "local": "M.E-101 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8102112",
+        "name": "EDUCACAO SEXUAL",
+        "category": "Optativa",
+        "semester": 8,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8102166",
+        "name": "ÉTICA PROFISSIONAL",
+        "category": "Optativa",
+        "semester": 8,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8102149",
+        "name": "ENSINO DA HISTORIA",
+        "category": "Obrigatória",
+        "semester": 8,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8102150",
+        "name": "ENSINO DE GEOGRAFIA",
+        "category": "Obrigatória",
+        "semester": 8,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8102151",
+        "name": "POLITICAS SOCIAIS E EDUCACAO ESPECIAL",
+        "category": "Complementar Obrigatória",
+        "semester": 8,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8102152",
+        "name": "ESTAGIO SUPERVISIONADO V",
+        "category": "Obrigatória",
+        "semester": 8,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "8102147"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8102153",
+        "name": "SEMINARIO TEMATICO EM EDUCACAO VIII",
+        "category": "Complementar Obrigatória",
+        "semester": 8,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8102155",
+        "name": "TCC  TRABALHO DE CONCLUSÃO DE CURSO",
+        "category": "Complementar Obrigatória",
+        "semester": 9,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8102155",
+            "turmaid": "01",
+            "nome": " TCC  TRABALHO DE CONCLUSÃO DE CURSO",
+            "semester": "2018.2",
+            "professor": "FRANCISCA TEREZINHA OLIVEIRA ALVES",
+            "horario": "2N1234",
+            "local": "M.E-202 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8102156",
+        "name": "FUND DA EDUCACAO DE JOVENS E ADULTOS",
+        "category": "Obrigatória",
+        "semester": 9,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8102156",
+            "turmaid": "01",
+            "nome": " FUND DA EDUCACAO DE JOVENS E ADULTOS",
+            "semester": "2018.2",
+            "professor": "MARIA VALDENICE RESENDE SOARES",
+            "horario": "4N1234",
+            "local": "M.E-201 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8102157",
+        "name": "ALFABETIZACAO DE JOVENS E ADULTOS",
+        "category": "Obrigatória",
+        "semester": 9,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8102157",
+            "turmaid": "01",
+            "nome": " ALFABETIZACAO DE JOVENS E ADULTOS",
+            "semester": "2018.2",
+            "professor": "MARIA DA PENHA CAETANO DE FIGUEIREDO GILL",
+            "horario": "6N1234",
+            "local": "M.E-201 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8102158",
+        "name": "ORG E PRAT EDUCACAO JOVENS E ADULTOS",
+        "category": "Obrigatória",
+        "semester": 9,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8102158",
+            "turmaid": "01",
+            "nome": " ORG E PRAT EDUCACAO JOVENS E ADULTOS",
+            "semester": "2018.2",
+            "professor": "THATYANNE KRAUSE LIMA BRITO DOS SANTOS",
+            "horario": "5N1234",
+            "local": "M.E-201 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8102159",
+        "name": "ESTAGIO SUPERVISIONADO VI",
+        "category": "Obrigatória",
+        "semester": 9,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8102159",
+            "turmaid": "01",
+            "nome": " ESTAGIO SUPERVISIONADO VI",
+            "semester": "2018.2",
+            "professor": "THATYANNE KRAUSE LIMA BRITO DOS SANTOS",
+            "horario": "3N1234",
+            "local": "M.E-201 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+          "8102108"
+        ],
+        "equivalences": [
+
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,1048 @@
+{
+  "curricula": [
+    {
+      "id": "642011",
+      "codigo": "1626692",
+      "name": "ADMINISTRAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+      "faculty": "CENTRO DE CIÊNCIAS SOCIAIS E APLICADAS (CCSA) (11.00.52)",
+      "minch": "255",
+      "maxch": "510",
+      "semesters": 8
+    },
+    {
+      "id": "0322005",
+      "codigo": "1626764",
+      "name": "ADMINISTRAÇÃO - CCHSA - Bananeiras - Presencial - N - BACHARELADO",
+      "faculty": "CENTRO DE CIÊNCIAS HUMANAS SOCIAIS E AGRÁRIAS (CCHSA) (11.00.45)",
+      "minch": "300",
+      "maxch": "540",
+      "semesters": 9
+    },
+    {
+      "id": "04-A2013",
+      "codigo": "1813969",
+      "name": "ADMINISTRAÇÃO PÚBLICA / UV - João Pessoa - A Distância - MT - BACHARELADO",
+      "faculty": "CENTRO DE CIÊNCIAS SOCIAIS E APLICADAS (CCSA) (11.00.52)",
+      "minch": "250",
+      "maxch": "480",
+      "semesters": 9
+    },
+    {
+      "id": "00742010",
+      "codigo": "1626662",
+      "name": "AGROECOLOGIA - CCHSA - Bananeiras - Presencial - MT - BACHARELADO",
+      "faculty": "CENTRO DE CIÊNCIAS HUMANAS SOCIAIS E AGRÁRIAS (CCHSA) (11.00.45)",
+      "minch": "255",
+      "maxch": "435",
+      "semesters": 9
+    },
+    {
+      "id": "352007",
+      "codigo": "1626648",
+      "name": "AGROINDÚSTRIA - CCHSA - Bananeiras - Presencial - MT - BACHARELADO",
+      "faculty": "CENTRO DE CIÊNCIAS HUMANAS SOCIAIS E AGRÁRIAS (CCHSA) (11.00.45)",
+      "minch": "120",
+      "maxch": "420",
+      "semesters": 8
+    },
+    {
+      "id": "00422007",
+      "codigo": "1626755",
+      "name": "AGRONOMIA - AR - Areia - Presencial - MT - BACHARELADO",
+      "faculty": "CENTRO DE CIÊNCIAS AGRÁRIAS (CCA) (11.00.44)",
+      "minch": "60",
+      "maxch": "510",
+      "semesters": 10
+    },
+    {
+      "id": "572010",
+      "codigo": "1626862",
+      "name": "ANTROPOLOGIA -CCAE - Rio Tinto - Presencial - ANTROP SOCIAL - N - BACHARELADO",
+      "faculty": "CENTRO DE CIÊNCIAS APLICADAS E EDUCAÇÃO (CCAE) (11.00.59)",
+      "minch": "195",
+      "maxch": "390",
+      "semesters": 9
+    },
+    {
+      "id": "472012",
+      "codigo": "1626736",
+      "name": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - OUTRO TIPO DE GRAU ACADÊMICO",
+      "faculty": "CENTRO DE TECNOLOGIA (CT) (11.00.55)",
+      "minch": "240",
+      "maxch": "480",
+      "semesters": 10
+    },
+    {
+      "id": "0422008",
+      "codigo": "1626802",
+      "name": "ARQUIVOLOGIA (BACHARELADO) - João Pessoa - Presencial - N - BACHARELADO",
+      "faculty": "CENTRO DE CIÊNCIAS SOCIAIS E APLICADAS (CCSA) (11.00.52)",
+      "minch": "180",
+      "maxch": "360",
+      "semesters": 10
+    },
+    {
+      "id": "48-012006",
+      "codigo": "1626843",
+      "name": "ARTES VISUAIS - João Pessoa - Presencial - MT - LICENCIATURA PLENA",
+      "faculty": "CENTRO DE COMUNICAÇÃO, TURISMO E ARTES (CCTA) (11.00.66)",
+      "minch": "270",
+      "maxch": "420",
+      "semesters": 8
+    },
+    {
+      "id": "0022008",
+      "codigo": "1626693",
+      "name": "BIBLIOTECONOMIA - João Pessoa - Presencial - N - BACHARELADO",
+      "faculty": "CENTRO DE CIÊNCIAS SOCIAIS E APLICADAS (CCSA) (11.00.52)",
+      "minch": "180",
+      "maxch": "360",
+      "semesters": 10
+    },
+    {
+      "id": "092017",
+      "codigo": "7906146",
+      "name": "BIOMEDICINA - João Pessoa - Presencial - MT - BACHARELADO",
+      "faculty": "CENTRO DE CIÊNCIAS DA SAÚDE (CCS) (11.00.54)",
+      "minch": "255",
+      "maxch": "405",
+      "semesters": 9
+    },
+    {
+      "id": "95012011",
+      "codigo": "1626776",
+      "name": "BIOTECNOLOGIA - João Pessoa - Presencial - MT - BACHARELADO",
+      "faculty": "CENTRO DE BIOTECNOLOGIA (CBIOTEC) (11.01.44)",
+      "minch": "375",
+      "maxch": "450",
+      "semesters": 8
+    },
+    {
+      "id": "102015",
+      "codigo": "1626772",
+      "name": "CINEMA E AUDIOVISUAL - João Pessoa - Presencial - MT - BACHARELADO",
+      "faculty": "CENTRO DE COMUNICAÇÃO, TURISMO E ARTES (CCTA) (11.00.66)",
+      "minch": "225",
+      "maxch": "435",
+      "semesters": 8
+    },
+    {
+      "id": "162006",
+      "codigo": "1626669",
+      "name": "CIÊNCIA DA COMPUTAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+      "faculty": "CENTRO DE INFORMÁTICA (CI) (11.00.64)",
+      "minch": "285",
+      "maxch": "525",
+      "semesters": 8
+    },
+    {
+      "id": "692006",
+      "codigo": "1626786",
+      "name": "CIÊNCIA DA COMPUTAÇÃO-CCAE - Rio Tinto - Presencial - MT - LICENCIATURA PLENA",
+      "faculty": "CENTRO DE CIÊNCIAS APLICADAS E EDUCAÇÃO (CCAE) (11.00.59)",
+      "minch": "225",
+      "maxch": "420",
+      "semesters": 9
+    },
+    {
+      "id": "00382012",
+      "codigo": "1626758",
+      "name": "CIÊNCIAS AGRÁRIAS - Bananeiras - Presencial - MT - LICENCIATURA PLENA",
+      "faculty": "CENTRO DE CIÊNCIAS HUMANAS SOCIAIS E AGRÁRIAS (CCHSA) (11.00.45)",
+      "minch": "255",
+      "maxch": "495",
+      "semesters": 8
+    },
+    {
+      "id": "342008",
+      "codigo": "1626847",
+      "name": "CIÊNCIAS AGRÁRIAS -EAD - Bananeiras - A Distância - MT - LICENCIATURA PLENA",
+      "faculty": "CENTRO DE CIÊNCIAS HUMANAS SOCIAIS E AGRÁRIAS (CCHSA) (11.00.45)",
+      "minch": "330",
+      "maxch": "555",
+      "semesters": 9
+    },
+    {
+      "id": "632010",
+      "codigo": "1626665",
+      "name": "CIÊNCIAS ATUARIAIS - João Pessoa - Presencial - T - BACHARELADO",
+      "faculty": "CENTRO DE CIÊNCIAS SOCIAIS E APLICADAS (CCSA) (11.00.52)",
+      "minch": "255",
+      "maxch": "420",
+      "semesters": 8
+    },
+    {
+      "id": "65-022006",
+      "codigo": "1626855",
+      "name": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - BACHARELADO",
+      "faculty": "CENTRO DE CIÊNCIAS EXATAS E DA NATUREZA (CCEN) (11.00.41)",
+      "minch": "360",
+      "maxch": "480",
+      "semesters": 8
+    },
+    {
+      "id": "0652006",
+      "codigo": "5505677",
+      "name": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - LICENCIATURA PLENA",
+      "faculty": "CENTRO DE CIÊNCIAS EXATAS E DA NATUREZA (CCEN) (11.00.41)",
+      "minch": "360",
+      "maxch": "480",
+      "semesters": 8
+    },
+    {
+      "id": "332012",
+      "codigo": "1626846",
+      "name": "CIÊNCIAS BIOLÓGICAS - EAD - João Pessoa - A Distância - MT - LICENCIATURA PLENA",
+      "faculty": "CENTRO DE CIÊNCIAS EXATAS E DA NATUREZA (CCEN) (11.00.41)",
+      "minch": "330",
+      "maxch": "540",
+      "semesters": 8
+    },
+    {
+      "id": "252005",
+      "codigo": "1626780",
+      "name": "CIÊNCIAS BIOLÓGICAS- AREIA - Areia - Presencial - MT - BACHARELADO",
+      "faculty": "CENTRO DE CIÊNCIAS AGRÁRIAS (CCA) (11.00.44)",
+      "minch": "240",
+      "maxch": "450",
+      "semesters": 8
+    },
+    {
+      "id": "372016",
+      "codigo": "1626694",
+      "name": "CIÊNCIAS CONTÁBEIS - João Pessoa - Presencial - N - BACHARELADO",
+      "faculty": "CENTRO DE CIÊNCIAS SOCIAIS E APLICADAS (CCSA) (11.00.52)",
+      "minch": "180",
+      "maxch": "480",
+      "semesters": 8
+    },
+    {
+      "id": "662010",
+      "codigo": "1626789",
+      "name": "CIÊNCIAS CONTÁBEIS - CCAE - Mamanguape - Presencial - N - BACHARELADO",
+      "faculty": "CENTRO DE CIÊNCIAS APLICADAS E EDUCAÇÃO (CCAE) (11.00.59)",
+      "minch": "180",
+      "maxch": "300",
+      "semesters": 10
+    },
+    {
+      "id": "672011",
+      "codigo": "1626768",
+      "name": "CIÊNCIAS DAS RELIGIÕES - João Pessoa - Presencial - N - BACHARELADO",
+      "faculty": "CENTRO DE EDUCAÇÃO (CE) (11.00.56)",
+      "minch": "210",
+      "maxch": "345",
+      "semesters": 8
+    },
+    {
+      "id": "622008",
+      "codigo": "1626696",
+      "name": "CIÊNCIAS ECONÔMICAS - João Pessoa - Presencial - MT - BACHARELADO",
+      "faculty": "CENTRO DE CIÊNCIAS SOCIAIS E APLICADAS (CCSA) (11.00.52)",
+      "minch": "255",
+      "maxch": "570",
+      "semesters": 8
+    },
+    {
+      "id": "402008",
+      "codigo": "1626848",
+      "name": "CIÊNCIAS NATURAIS - João Pessoa - A Distância - MT - LICENCIATURA PLENA",
+      "faculty": "CENTRO DE EDUCAÇÃO (CE) (11.00.56)",
+      "minch": "255",
+      "maxch": "495",
+      "semesters": 8
+    },
+    {
+      "id": "452007",
+      "codigo": "1626869",
+      "name": "CIÊNCIAS SOCIAIS - João Pessoa - Presencial - N - LICENCIATURA PLENA",
+      "faculty": "CENTRO DE CIÊNCIAS HUMANAS, LETRAS E ARTES (CCHLA) (11.00.53)",
+      "minch": "135",
+      "maxch": "375",
+      "semesters": 9
+    },
+    {
+      "id": "662012",
+      "codigo": "1813971",
+      "name": "COMPUTAÇÃO / EAD - João Pessoa - A Distância - MT - LICENCIATURA PLENA",
+      "faculty": "CENTRO DE CIÊNCIAS EXATAS E DA NATUREZA (CCEN) (11.00.41)",
+      "minch": "240",
+      "maxch": "450",
+      "semesters": 8
+    },
+    {
+      "id": "392009",
+      "codigo": "1626827",
+      "name": "COMUNICAÇÃO EM MÍDIAS DIGITAIS - João Pessoa - Presencial - T - BACHARELADO",
+      "faculty": "CENTRO DE CIÊNCIAS HUMANAS, LETRAS E ARTES (CCHLA) (11.00.53)",
+      "minch": "285",
+      "maxch": "555",
+      "semesters": 8
+    },
+    {
+      "id": "111998",
+      "codigo": "1626656",
+      "name": "COMUNICAÇÃO SOCIAL - João Pessoa - Presencial - RADIALISMO - MT - BACHARELADO",
+      "faculty": "CENTRO DE COMUNICAÇÃO, TURISMO E ARTES (CCTA) (11.00.66)",
+      "minch": "195",
+      "maxch": "510",
+      "semesters": 8
+    },
+    {
+      "id": "512009",
+      "codigo": "1626826",
+      "name": "CURSO SUPERIOR DE TECNOLOGIA EM GESTÃO PÚBLICA - João Pessoa - Presencial - T - TECNOLÓGICO",
+      "faculty": "CENTRO DE CIÊNCIAS SOCIAIS E APLICADAS (CCSA) (11.00.52)",
+      "minch": "240",
+      "maxch": "540",
+      "semesters": 6
+    },
+    {
+      "id": "372018",
+      "codigo": "1813968",
+      "name": "DANÇA LICENCIATURA - João Pessoa - Presencial - MT - LICENCIATURA PLENA",
+      "faculty": "CENTRO DE COMUNICAÇÃO, TURISMO E ARTES (CCTA) (11.00.66)",
+      "minch": "255",
+      "maxch": "390",
+      "semesters": 8
+    },
+    {
+      "id": "0312009",
+      "codigo": "1626836",
+      "name": "DESIGN - CCAE - Rio Tinto - Presencial - MT - BACHARELADO",
+      "faculty": "CENTRO DE CIÊNCIAS APLICADAS E EDUCAÇÃO (CCAE) (11.00.59)",
+      "minch": "300",
+      "maxch": "450",
+      "semesters": 8
+    },
+    {
+      "id": "4932008",
+      "codigo": "1626880",
+      "name": "DIREITO - Santa Rita - Presencial - N - BACHARELADO",
+      "faculty": "CENTRO DE CIÊNCIAS JURÍDICAS (CCJ) (11.00.57)",
+      "minch": "60",
+      "maxch": "615",
+      "semesters": 10
+    },
+    {
+      "id": "0492008",
+      "codigo": "1626727",
+      "name": "DIREITO - João Pessoa - Presencial - N - BACHARELADO",
+      "faculty": "CENTRO DE CIÊNCIAS JURÍDICAS (CCJ) (11.00.57)",
+      "minch": "60",
+      "maxch": "615",
+      "semesters": 10
+    },
+    {
+      "id": "152010",
+      "codigo": "1626787",
+      "name": "ECOLOGIA- CCAE - Rio Tinto - Presencial - MT - BACHARELADO",
+      "faculty": "CENTRO DE CIÊNCIAS APLICADAS E EDUCAÇÃO (CCAE) (11.00.59)",
+      "minch": "240",
+      "maxch": "390",
+      "semesters": 8
+    },
+    {
+      "id": "632007",
+      "codigo": "2663771",
+      "name": "EDUCAÇÃO FÍSICA - BACHARELADO - João Pessoa - Presencial - MT - BACHARELADO",
+      "faculty": "CENTRO DE CIÊNCIAS DA SAÚDE (CCS) (11.00.54)",
+      "minch": "300",
+      "maxch": "585",
+      "semesters": 8
+    },
+    {
+      "id": "632007",
+      "codigo": "1626645",
+      "name": "EDUCAÇÃO FÍSICA - LICENCIATURA - João Pessoa - Presencial - MT - LICENCIATURA PLENA",
+      "faculty": "CENTRO DE CIÊNCIAS DA SAÚDE (CCS) (11.00.54)",
+      "minch": "300",
+      "maxch": "585",
+      "semesters": 8
+    },
+    {
+      "id": "51-012007",
+      "codigo": "1626663",
+      "name": "ENFERMAGEM - João Pessoa - Presencial - MT - LICENCIATURA PLENA E BACHARELADO",
+      "faculty": "CENTRO DE CIÊNCIAS DA SAÚDE (CCS) (11.00.54)",
+      "minch": "330",
+      "maxch": "510",
+      "semesters": 10
+    },
+    {
+      "id": "0292008",
+      "codigo": "1626806",
+      "name": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - OUTRO TIPO DE GRAU ACADÊMICO",
+      "faculty": "CENTRO DE TECNOLOGIA (CT) (11.00.55)",
+      "minch": "285",
+      "maxch": "510",
+      "semesters": 9
+    },
+    {
+      "id": "0152006",
+      "codigo": "1626738",
+      "name": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - OUTRO TIPO DE GRAU ACADÊMICO",
+      "faculty": "CENTRO DE TECNOLOGIA (CT) (11.00.55)",
+      "minch": "285",
+      "maxch": "705",
+      "semesters": 9
+    },
+    {
+      "id": "442009",
+      "codigo": "1626740",
+      "name": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - OUTRO TIPO DE GRAU ACADÊMICO",
+      "faculty": "CENTRO DE TECNOLOGIA (CT) (11.00.55)",
+      "minch": "270",
+      "maxch": "525",
+      "semesters": 10
+    },
+    {
+      "id": "492016",
+      "codigo": "1626865",
+      "name": "ENGENHARIA DE COMPUTAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+      "faculty": "CENTRO DE INFORMÁTICA (CI) (11.00.64)",
+      "minch": "240",
+      "maxch": "480",
+      "semesters": 10
+    },
+    {
+      "id": "962011",
+      "codigo": "1626777",
+      "name": "ENGENHARIA DE ENERGIAS RENOVÁVEIS - João Pessoa - Presencial - MT - BACHARELADO",
+      "faculty": "CENTRO DE ENERGIAS E ALTERNATIVAS E RENOVÁVEIS (CEAR) (11.00.65)",
+      "minch": "270",
+      "maxch": "495",
+      "semesters": 10
+    },
+    {
+      "id": "252008",
+      "codigo": "1626809",
+      "name": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - OUTRO TIPO DE GRAU ACADÊMICO",
+      "faculty": "CENTRO DE TECNOLOGIA (CT) (11.00.55)",
+      "minch": "315",
+      "maxch": "510",
+      "semesters": 8
+    },
+    {
+      "id": "0402009",
+      "codigo": "1626849",
+      "name": "ENGENHARIA DE PRODUCAO - João Pessoa - Presencial - N - BACHARELADO",
+      "faculty": "CENTRO DE TECNOLOGIA (CT) (11.00.55)",
+      "minch": "255",
+      "maxch": "435",
+      "semesters": 10
+    },
+    {
+      "id": "591997",
+      "codigo": "1626741",
+      "name": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - OUTRO TIPO DE GRAU ACADÊMICO",
+      "faculty": "CENTRO DE TECNOLOGIA (CT) (11.00.55)",
+      "minch": "180",
+      "maxch": "555",
+      "semesters": 10
+    },
+    {
+      "id": "23-022008",
+      "codigo": "1626808",
+      "name": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - OUTRO TIPO DE GRAU ACADÊMICO",
+      "faculty": "CENTRO DE ENERGIAS E ALTERNATIVAS E RENOVÁVEIS (CEAR) (11.00.65)",
+      "minch": "270",
+      "maxch": "495",
+      "semesters": 10
+    },
+    {
+      "id": "252006",
+      "codigo": "1626866",
+      "name": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - OUTRO TIPO DE GRAU ACADÊMICO",
+      "faculty": "CENTRO DE TECNOLOGIA (CT) (11.00.55)",
+      "minch": "255",
+      "maxch": "600",
+      "semesters": 10
+    },
+    {
+      "id": "00272008",
+      "codigo": "1626804",
+      "name": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - OUTRO TIPO DE GRAU ACADÊMICO",
+      "faculty": "CENTRO DE TECNOLOGIA (CT) (11.00.55)",
+      "minch": "300",
+      "maxch": "540",
+      "semesters": 10
+    },
+    {
+      "id": "232013",
+      "codigo": "1626868",
+      "name": "ESTATÍSTICA - João Pessoa - Presencial - MT - BACHARELADO",
+      "faculty": "CENTRO DE CIÊNCIAS EXATAS E DA NATUREZA (CCEN) (11.00.41)",
+      "minch": "180",
+      "maxch": "480",
+      "semesters": 8
+    },
+    {
+      "id": "492007",
+      "codigo": "1626729",
+      "name": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+      "faculty": "CENTRO DE CIÊNCIAS DA SAÚDE (CCS) (11.00.54)",
+      "minch": "390",
+      "maxch": "540",
+      "semesters": 10
+    },
+    {
+      "id": "1992",
+      "codigo": "1626711",
+      "name": "FILOSOFIA - João Pessoa - Presencial - MT",
+      "faculty": "CENTRO DE CIÊNCIAS HUMANAS, LETRAS E ARTES (CCHLA) (11.00.53)",
+      "minch": "180",
+      "maxch": "375",
+      "semesters": 10
+    },
+    {
+      "id": "652008",
+      "codigo": "1626867",
+      "name": "FISIOTERAPIA - João Pessoa - Presencial - MT - BACHARELADO",
+      "faculty": "CENTRO DE CIÊNCIAS DA SAÚDE (CCS) (11.00.54)",
+      "minch": "300",
+      "maxch": "525",
+      "semesters": 10
+    },
+    {
+      "id": "372009",
+      "codigo": "1626815",
+      "name": "FONOAUDIOLOGIA - João Pessoa - Presencial - MT - OUTRO TIPO DE GRAU ACADÊMICO",
+      "faculty": "CENTRO DE CIÊNCIAS DA SAÚDE (CCS) (11.00.54)",
+      "minch": "300",
+      "maxch": "510",
+      "semesters": 8
+    },
+    {
+      "id": "452017",
+      "codigo": "1626675",
+      "name": "FÍSICA - João Pessoa - Presencial - MT - BACHARELADO",
+      "faculty": "CENTRO DE CIÊNCIAS EXATAS E DA NATUREZA (CCEN) (11.00.41)",
+      "minch": "210",
+      "maxch": "420",
+      "semesters": 8
+    },
+    {
+      "id": "672012",
+      "codigo": "1976359",
+      "name": "GASTRONOMIA - João Pessoa - Presencial - MT - BACHARELADO",
+      "faculty": "CENTRO DE TECNOLOGIA E DESENVOLVIMENTO REGIONAL (CTDR) (11.00.62)",
+      "minch": "240",
+      "maxch": "420",
+      "semesters": 8
+    },
+    {
+      "id": "072016",
+      "codigo": "1626651",
+      "name": "GEOGRAFIA - João Pessoa - Presencial - MT - BACHARELADO",
+      "faculty": "CENTRO DE CIÊNCIAS EXATAS E DA NATUREZA (CCEN) (11.00.41)",
+      "minch": "180",
+      "maxch": "360",
+      "semesters": 8
+    },
+    {
+      "id": "082016",
+      "codigo": "4028601",
+      "name": "GEOGRAFIA - João Pessoa - Presencial - N - LICENCIATURA",
+      "faculty": "CENTRO DE CIÊNCIAS EXATAS E DA NATUREZA (CCEN) (11.00.41)",
+      "minch": "180",
+      "maxch": "450",
+      "semesters": 9
+    },
+    {
+      "id": "432016",
+      "codigo": "5766890",
+      "name": "GESTÃO PÚBLICA - João Pessoa - Presencial - T - BACHARELADO",
+      "faculty": "CENTRO DE CIÊNCIAS SOCIAIS E APLICADAS (CCSA) (11.00.52)",
+      "minch": "180",
+      "maxch": "375",
+      "semesters": 8
+    },
+    {
+      "id": "20041",
+      "codigo": "2663764",
+      "name": "HISTORIA (LICENCIATURA PLENA - MSC) - João Pessoa - Presencial - MOVIMENTOS SOCIAIS DO CAMPO - MT - LICENCIATURA PLENA",
+      "faculty": "CENTRO DE CIÊNCIAS HUMANAS, LETRAS E ARTES (CCHLA) (11.00.53)",
+      "minch": "15",
+      "maxch": "540",
+      "semesters": 10
+    },
+    {
+      "id": "00282011",
+      "codigo": "1626832",
+      "name": "HISTÓRIA - João Pessoa - Presencial - N - LICENCIATURA PLENA",
+      "faculty": "CENTRO DE CIÊNCIAS HUMANAS, LETRAS E ARTES (CCHLA) (11.00.53)",
+      "minch": "210",
+      "maxch": "360",
+      "semesters": 9
+    },
+    {
+      "id": "672006",
+      "codigo": "1626790",
+      "name": "HOTELARIA - Mamanguape - Presencial - MT - BACHARELADO",
+      "faculty": "CENTRO DE CIÊNCIAS APLICADAS E EDUCAÇÃO (CCAE) (11.00.59)",
+      "minch": "285",
+      "maxch": "435",
+      "semesters": 8
+    },
+    {
+      "id": "122018",
+      "codigo": "2291377",
+      "name": "HOTELARIA - João Pessoa - Presencial - MT - BACHARELADO",
+      "faculty": "CENTRO DE COMUNICAÇÃO, TURISMO E ARTES (CCTA) (11.00.66)",
+      "minch": "255",
+      "maxch": "360",
+      "semesters": 7
+    },
+    {
+      "id": "412016",
+      "codigo": "1626775",
+      "name": "JORNALISMO - João Pessoa - Presencial - MT - BACHARELADO",
+      "faculty": "CENTRO DE COMUNICAÇÃO, TURISMO E ARTES (CCTA) (11.00.66)",
+      "minch": "240",
+      "maxch": "405",
+      "semesters": 8
+    },
+    {
+      "id": "29-022006",
+      "codigo": "1626872",
+      "name": "LETRAS - João Pessoa - Presencial - LING. PORTUGUESA - N - LICENCIATURA PLENA",
+      "faculty": "CENTRO DE CIÊNCIAS HUMANAS, LETRAS E ARTES (CCHLA) (11.00.53)",
+      "minch": "240",
+      "maxch": "360",
+      "semesters": 10
+    },
+    {
+      "id": "0292006",
+      "codigo": "2663753",
+      "name": "LETRAS (LÍNGUA ESPANHOLA) - João Pessoa - Presencial - LING. ESPANHOLA - MT - LICENCIATURA PLENA",
+      "faculty": "CENTRO DE CIÊNCIAS HUMANAS, LETRAS E ARTES (CCHLA) (11.00.53)",
+      "minch": "240",
+      "maxch": "420",
+      "semesters": 8
+    },
+    {
+      "id": "542013",
+      "codigo": "2663760",
+      "name": "LETRAS (LÍNGUA ESPANHOLA) - EAD - Mamanguape - A Distância - LINGUA ESPANHOLA - MT - LICENCIATURA PLENA",
+      "faculty": "CENTRO DE CIÊNCIAS APLICADAS E EDUCAÇÃO (CCAE) (11.00.59)",
+      "minch": "120",
+      "maxch": "480",
+      "semesters": 8
+    },
+    {
+      "id": "29-022006",
+      "codigo": "4057805",
+      "name": "LETRAS (LÍNGUA FRANCESA) - João Pessoa - Presencial - LING. FRANCESA - MT - LICENCIATURA PLENA",
+      "faculty": "CENTRO DE CIÊNCIAS HUMANAS, LETRAS E ARTES (CCHLA) (11.00.53)",
+      "minch": "240",
+      "maxch": "420",
+      "semesters": 8
+    },
+    {
+      "id": "522013",
+      "codigo": "2051542",
+      "name": "LETRAS (LÍNGUA INGLESA) -EAD - Mamanguape - A Distância - LINGUA INGLESA - MT - LICENCIATURA PLENA",
+      "faculty": "CENTRO DE CIÊNCIAS APLICADAS E EDUCAÇÃO (CCAE) (11.00.59)",
+      "minch": "120",
+      "maxch": "480",
+      "semesters": 8
+    },
+    {
+      "id": "272018",
+      "codigo": "2663739",
+      "name": "LETRAS (LÍNGUAS CLÁSSICAS) - João Pessoa - Presencial - LING. CLASSICAS - N - LICENCIATURA PLENA",
+      "faculty": "CENTRO DE CIÊNCIAS HUMANAS, LETRAS E ARTES (CCHLA) (11.00.53)",
+      "minch": "180",
+      "maxch": "420",
+      "semesters": 10
+    },
+    {
+      "id": "292006",
+      "codigo": "2663749",
+      "name": "LETRAS (LÍNGUAS INGLESA) - João Pessoa - Presencial - LING. INGLESA - MT - LICENCIATURA PLENA",
+      "faculty": "CENTRO DE CIÊNCIAS HUMANAS, LETRAS E ARTES (CCHLA) (11.00.53)",
+      "minch": "240",
+      "maxch": "420",
+      "semesters": 8
+    },
+    {
+      "id": "432009",
+      "codigo": "2663763",
+      "name": "LETRAS - LIBRAS /EAD - João Pessoa - A Distância - LIBRAS - MT - LICENCIATURA PLENA",
+      "faculty": "CENTRO DE CIÊNCIAS HUMANAS, LETRAS E ARTES (CCHLA) (11.00.53)",
+      "minch": "240",
+      "maxch": "420",
+      "semesters": 8
+    },
+    {
+      "id": "20-012007",
+      "codigo": "1626844",
+      "name": "LETRAS / EAD - João Pessoa - A Distância - MT - LICENCIATURA PLENA",
+      "faculty": "CENTRO DE CIÊNCIAS HUMANAS, LETRAS E ARTES (CCHLA) (11.00.53)",
+      "minch": "270",
+      "maxch": "420",
+      "semesters": 8
+    },
+    {
+      "id": "0302011",
+      "codigo": "1626874",
+      "name": "LETRAS- CCAE - Mamanguape - Presencial - T - LICENCIATURA PLENA",
+      "faculty": "CENTRO DE CIÊNCIAS APLICADAS E EDUCAÇÃO (CCAE) (11.00.59)",
+      "minch": "240",
+      "maxch": "435",
+      "semesters": 8
+    },
+    {
+      "id": "0712006",
+      "codigo": "1626838",
+      "name": "LICENCIATURA EM PEDAGOGIA - CCAE - Mamanguape - Presencial - N - LICENCIATURA PLENA",
+      "faculty": "CENTRO DE CIÊNCIAS APLICADAS E EDUCAÇÃO (CCAE) (11.00.59)",
+      "minch": "270",
+      "maxch": "420",
+      "semesters": 9
+    },
+    {
+      "id": "172017",
+      "codigo": "1626814",
+      "name": "LÍNGUAS ESTRANGEIRAS APLICADAS ÀS NEGOCIAÇÕES INTERNACIONAIS - João Pessoa - Presencial - MT - BACHARELADO",
+      "faculty": "CENTRO DE CIÊNCIAS HUMANAS, LETRAS E ARTES (CCHLA) (11.00.53)",
+      "minch": "240",
+      "maxch": "450",
+      "semesters": 8
+    },
+    {
+      "id": "0332007",
+      "codigo": "1626785",
+      "name": "MATEMÁTICA (LICENCIATURA) - CCAE - Rio Tinto - Presencial - N - LICENCIATURA PLENA",
+      "faculty": "CENTRO DE CIÊNCIAS APLICADAS E EDUCAÇÃO (CCAE) (11.00.59)",
+      "minch": "240",
+      "maxch": "360",
+      "semesters": 10
+    },
+    {
+      "id": "22012007",
+      "codigo": "1626841",
+      "name": "MATEMÁTICA - EAD - João Pessoa - A Distância - MT - LICENCIATURA PLENA",
+      "faculty": "CENTRO DE CIÊNCIAS EXATAS E DA NATUREZA (CCEN) (11.00.41)",
+      "minch": "240",
+      "maxch": "480",
+      "semesters": 8
+    },
+    {
+      "id": "702011",
+      "codigo": "1626769",
+      "name": "MATEMÁTICA COMPUTACIONAL - João Pessoa - Presencial - MT - BACHARELADO",
+      "faculty": "CENTRO DE INFORMÁTICA (CI) (11.00.64)",
+      "minch": "240",
+      "maxch": "450",
+      "semesters": 8
+    },
+    {
+      "id": "752006",
+      "codigo": "1626681",
+      "name": "MATEMÁTICA - João Pessoa - Presencial - MT - BACHARELADO",
+      "faculty": "CENTRO DE CIÊNCIAS EXATAS E DA NATUREZA (CCEN) (11.00.41)",
+      "minch": "285",
+      "maxch": "480",
+      "semesters": 8
+    },
+    {
+      "id": "0282007",
+      "codigo": "1626795",
+      "name": "MEDICINA - João Pessoa - Presencial - MT - OUTRO TIPO DE GRAU ACADÊMICO",
+      "faculty": "CENTRO DE CIENCIAS MEDICAS (CCM) (11.00.60)",
+      "minch": "32",
+      "maxch": "704",
+      "semesters": 12
+    },
+    {
+      "id": "00532012",
+      "codigo": "1626810",
+      "name": "MEDICINA VETERINÁRIA - AREIA - Areia - Presencial - MT - BACHARELADO",
+      "faculty": "CENTRO DE CIÊNCIAS AGRÁRIAS (CCA) (11.00.44)",
+      "minch": "30",
+      "maxch": "645",
+      "semesters": 10
+    },
+    {
+      "id": "2007",
+      "codigo": "1626732",
+      "name": "MEDICINA - João Pessoa - Presencial - MT - OUTRO TIPO DE GRAU ACADÊMICO",
+      "faculty": "CENTRO DE CIÊNCIAS DA SAÚDE (CCS) (11.00.54)",
+      "minch": "480",
+      "maxch": "10560",
+      "semesters": 14
+    },
+    {
+      "id": "572009",
+      "codigo": "1626881",
+      "name": "MUSICA POPULAR - João Pessoa - Presencial - N - OUTRO TIPO DE GRAU ACADÊMICO",
+      "faculty": "CENTRO DE COMUNICAÇÃO, TURISMO E ARTES (CCTA) (11.00.66)",
+      "minch": "270",
+      "maxch": "480",
+      "semesters": 4
+    },
+    {
+      "id": "34-082009",
+      "codigo": "1626778",
+      "name": "MÚSICA - João Pessoa - Presencial - PRATICAS INTERPRETATIVAS - MT - LICENCIATURA PLENA",
+      "faculty": "CENTRO DE COMUNICAÇÃO, TURISMO E ARTES (CCTA) (11.00.66)",
+      "minch": "240",
+      "maxch": "450",
+      "semesters": 8
+    },
+    {
+      "id": "352009",
+      "codigo": "2675573",
+      "name": "MÚSICA - BACHARELADO - João Pessoa - Presencial - COMPOSICAO - MT - BACHARELADO",
+      "faculty": "CENTRO DE COMUNICAÇÃO, TURISMO E ARTES (CCTA) (11.00.66)",
+      "minch": "210",
+      "maxch": "405",
+      "semesters": 8
+    },
+    {
+      "id": "372007",
+      "codigo": "1626733",
+      "name": "NUTRIÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+      "faculty": "CENTRO DE CIÊNCIAS DA SAÚDE (CCS) (11.00.54)",
+      "minch": "180",
+      "maxch": "525",
+      "semesters": 8
+    },
+    {
+      "id": "362016",
+      "codigo": "1626646",
+      "name": "ODONTOLOGIA - João Pessoa - Presencial - MT - BACHARELADO",
+      "faculty": "CENTRO DE CIÊNCIAS DA SAÚDE (CCS) (11.00.54)",
+      "minch": "90",
+      "maxch": "555",
+      "semesters": 10
+    },
+    {
+      "id": "472009",
+      "codigo": "2699762",
+      "name": "PEDAGOGIA (EDUCAÇÃO DO CAMPO) - João Pessoa - Presencial - EDUCAÇÃO DO CAMPO - N - LICENCIATURA PLENA",
+      "faculty": "CENTRO DE EDUCAÇÃO (CE) (11.00.56)",
+      "minch": "210",
+      "maxch": "360",
+      "semesters": 10
+    },
+    {
+      "id": "2007",
+      "codigo": "1626698",
+      "name": "PEDAGOGIA - João Pessoa - Presencial - MAGIST ANOS INIC PEC MSC - MT - LICENCIATURA PLENA",
+      "faculty": "CENTRO DE EDUCAÇÃO (CE) (11.00.56)",
+      "minch": "540",
+      "maxch": "450",
+      "semesters": 10
+    },
+    {
+      "id": "122013",
+      "codigo": "1626845",
+      "name": "PEDAGOGIA (LICENCIATURA)/UV - João Pessoa - A Distância - MT - LICENCIATURA PLENA",
+      "faculty": "CENTRO DE EDUCAÇÃO (CE) (11.00.56)",
+      "minch": "180",
+      "maxch": "480",
+      "semesters": 8
+    },
+    {
+      "id": "612007",
+      "codigo": "2663759",
+      "name": "PEDAGOGIA (MSC) - João Pessoa - Presencial - MAG ANOS INIC PEC MSC - MT - LICENCIATURA PLENA",
+      "faculty": "CENTRO DE EDUCAÇÃO (CE) (11.00.56)",
+      "minch": "240",
+      "maxch": "540",
+      "semesters": 8
+    },
+    {
+      "id": "352012",
+      "codigo": "1626877",
+      "name": "PEDAGOGIA - CCHSA - Bananeiras - Presencial - MT - LICENCIATURA PLENA",
+      "faculty": "CENTRO DE CIÊNCIAS HUMANAS SOCIAIS E AGRÁRIAS (CCHSA) (11.00.45)",
+      "minch": "270",
+      "maxch": "480",
+      "semesters": 8
+    },
+    {
+      "id": "0562008",
+      "codigo": "1626724",
+      "name": "PSICOLOGIA - João Pessoa - Presencial - FORMACAO DE PSICOLOGO - MT - BACHARELADO",
+      "faculty": "CENTRO DE CIÊNCIAS HUMANAS, LETRAS E ARTES (CCHLA) (11.00.53)",
+      "minch": "285",
+      "maxch": "495",
+      "semesters": 10
+    },
+    {
+      "id": "552010",
+      "codigo": "1626818",
+      "name": "PSICOPEDAGOGIA (BACH) - João Pessoa - Presencial - T - BACHARELADO",
+      "faculty": "CENTRO DE EDUCAÇÃO (CE) (11.00.56)",
+      "minch": "255",
+      "maxch": "525",
+      "semesters": 7
+    },
+    {
+      "id": "00662011",
+      "codigo": "1626770",
+      "name": "QUÍMICA - AREIA - Areia - Presencial - N - BACHARELADO",
+      "faculty": "CENTRO DE CIÊNCIAS AGRÁRIAS (CCA) (11.00.44)",
+      "minch": "225",
+      "maxch": "435",
+      "semesters": 9
+    },
+    {
+      "id": "342011",
+      "codigo": "1626647",
+      "name": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+      "faculty": "CENTRO DE TECNOLOGIA (CT) (11.00.55)",
+      "minch": "270",
+      "maxch": "495",
+      "semesters": 8
+    },
+    {
+      "id": "112006",
+      "codigo": "1626799",
+      "name": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA PLENA",
+      "faculty": "CENTRO DE CIÊNCIAS EXATAS E DA NATUREZA (CCEN) (11.00.41)",
+      "minch": "210",
+      "maxch": "435",
+      "semesters": 9
+    },
+    {
+      "id": "922011",
+      "codigo": "1626774",
+      "name": "RADIALISMO - João Pessoa - Presencial - MT - BACHARELADO",
+      "faculty": "CENTRO DE COMUNICAÇÃO, TURISMO E ARTES (CCTA) (11.00.66)",
+      "minch": "225",
+      "maxch": "450",
+      "semesters": 8
+    },
+    {
+      "id": "0572009",
+      "codigo": "1626823",
+      "name": "REGÊNCIA DE BANDAS E FANFARRAS - João Pessoa - Presencial - N - OUTRO TIPO DE GRAU ACADÊMICO",
+      "faculty": "CENTRO DE COMUNICAÇÃO, TURISMO E ARTES (CCTA) (11.00.66)",
+      "minch": "270",
+      "maxch": "480",
+      "semesters": 4
+    },
+    {
+      "id": "0692009",
+      "codigo": "1626850",
+      "name": "RELACÕES INTERNACIONAIS - João Pessoa - Presencial - N - BACHARELADO",
+      "faculty": "CENTRO DE CIÊNCIAS SOCIAIS E APLICADAS (CCSA) (11.00.52)",
+      "minch": "210",
+      "maxch": "360",
+      "semesters": 9
+    },
+    {
+      "id": "602016",
+      "codigo": "1626773",
+      "name": "RELAÇÕES PÚBLICAS - João Pessoa - Presencial - N - BACHARELADO",
+      "faculty": "CENTRO DE COMUNICAÇÃO, TURISMO E ARTES (CCTA) (11.00.66)",
+      "minch": "225",
+      "maxch": "450",
+      "semesters": 9
+    },
+    {
+      "id": "412006",
+      "codigo": "1626793",
+      "name": "SECRETARIADO EXECUTIVO BILÍNGUE - CCAE - Mamanguape - Presencial - N - BACHARELADO",
+      "faculty": "CENTRO DE CIÊNCIAS APLICADAS E EDUCAÇÃO (CCAE) (11.00.59)",
+      "minch": "210",
+      "maxch": "300",
+      "semesters": 9
+    },
+    {
+      "id": "102017",
+      "codigo": "1626882",
+      "name": "SERVIÇO SOCIAL - João Pessoa - Presencial - T - BACHARELADO",
+      "faculty": "CENTRO DE CIÊNCIAS HUMANAS, LETRAS E ARTES (CCHLA) (11.00.53)",
+      "minch": "120",
+      "maxch": "480",
+      "semesters": 8
+    },
+    {
+      "id": "0722009",
+      "codigo": "1626837",
+      "name": "SISTEMAS DE INFORMAÇÃO - CCAE - Rio Tinto - Presencial - MT - BACHARELADO",
+      "faculty": "CENTRO DE CIÊNCIAS APLICADAS E EDUCAÇÃO (CCAE) (11.00.59)",
+      "minch": "255",
+      "maxch": "435",
+      "semesters": 8
+    },
+    {
+      "id": "072015",
+      "codigo": "2663765",
+      "name": "TEATRO (BACHARELADO) - João Pessoa - Presencial - MT - BACHARELADO",
+      "faculty": "CENTRO DE COMUNICAÇÃO, TURISMO E ARTES (CCTA) (11.00.66)",
+      "minch": "210",
+      "maxch": "360",
+      "semesters": 8
+    },
+    {
+      "id": "0082015",
+      "codigo": "1626842",
+      "name": "TEATRO (LICENCIATURA) - João Pessoa - Presencial - MT - LICENCIATURA PLENA",
+      "faculty": "CENTRO DE COMUNICAÇÃO, TURISMO E ARTES (CCTA) (11.00.66)",
+      "minch": "270",
+      "maxch": "480",
+      "semesters": 8
+    },
+    {
+      "id": "652010",
+      "codigo": "1626859",
+      "name": "TECNOLOGIA DE ALIMENTOS - João Pessoa - Presencial - N - TECNOLÓGICO",
+      "faculty": "CENTRO DE TECNOLOGIA E DESENVOLVIMENTO REGIONAL (CTDR) (11.00.62)",
+      "minch": "225",
+      "maxch": "435",
+      "semesters": 8
+    },
+    {
+      "id": "642010",
+      "codigo": "1626861",
+      "name": "TECNOLOGIA EM PRODUÇÃO SUCROALCOOLEIRA - João Pessoa - Presencial - T - TECNOLÓGICO",
+      "faculty": "CENTRO DE TECNOLOGIA E DESENVOLVIMENTO REGIONAL (CTDR) (11.00.62)",
+      "minch": "285",
+      "maxch": "525",
+      "semesters": 6
+    },
+    {
+      "id": "462009",
+      "codigo": "1626813",
+      "name": "TERAPIA OCUPACIONAL - João Pessoa - Presencial - MT - OUTRO TIPO DE GRAU ACADÊMICO",
+      "faculty": "CENTRO DE CIÊNCIAS DA SAÚDE (CCS) (11.00.54)",
+      "minch": "300",
+      "maxch": "495",
+      "semesters": 8
+    },
+    {
+      "id": "402016",
+      "codigo": "1626816",
+      "name": "TRADUÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+      "faculty": "CENTRO DE CIÊNCIAS HUMANAS, LETRAS E ARTES (CCHLA) (11.00.53)",
+      "minch": "210",
+      "maxch": "315",
+      "semesters": 8
+    },
+    {
+      "id": "062011",
+      "codigo": "1626743",
+      "name": "TURISMO - João Pessoa - Presencial - N - BACHARELADO",
+      "faculty": "CENTRO DE COMUNICAÇÃO, TURISMO E ARTES (CCTA) (11.00.66)",
+      "minch": "225",
+      "maxch": "450",
+      "semesters": 8
+    },
+    {
+      "id": "0432007",
+      "codigo": "1626754",
+      "name": "ZOOTECNIA - AREIA - Areia - Presencial - MT - BACHARELADO",
+      "faculty": "CENTRO DE CIÊNCIAS AGRÁRIAS (CCA) (11.00.44)",
+      "minch": "30",
+      "maxch": "540",
+      "semesters": 9
+    }
+  ]
+}

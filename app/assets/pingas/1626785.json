@@ -1,0 +1,1225 @@
+{
+  "curriculum": {
+    "id": "0332007",
+    "codigo": "1626785",
+    "name": "MATEMÁTICA (LICENCIATURA) - CCAE - Rio Tinto - Presencial - N - LICENCIATURA PLENA",
+    "faculty": "CENTRO DE CIÊNCIAS APLICADAS E EDUCAÇÃO (CCAE) (11.00.59)",
+    "minch": "240",
+    "maxch": "360",
+    "semesters": 10,
+    "courses": [
+      {
+        "id": "8102110",
+        "name": "ECONOMIA DA EDUCAÇÃO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8102111",
+        "name": "FUNDAMENTOS DA ADMINISTRACAO DA EDUCACAO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8102112",
+        "name": "EDUCACAO SEXUAL",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8102163",
+        "name": "AVALIACAO DE APRENDIZAGEM",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8102163",
+            "turmaid": "02",
+            "nome": " AVALIACAO DE APRENDIZAGEM",
+            "semester": "2018.2",
+            "professor": "GILMAR LEITE FERREIRA",
+            "horario": "6N1234",
+            "local": "R.A-102 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8102167",
+        "name": "PESQUISA E COTIDIANO ESCOLAR",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8102167",
+            "turmaid": "01",
+            "nome": " PESQUISA E COTIDIANO ESCOLAR",
+            "semester": "2018.2",
+            "professor": "IVONALDO NERES LEITE",
+            "horario": "5N1234",
+            "local": "R.A-104 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8103109",
+        "name": "MATEMATICA PENSINO BASICO I",
+        "category": "Complementar Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8103109",
+            "turmaid": "01",
+            "nome": " MATEMATICA PENSINO BASICO I",
+            "semester": "2018.2",
+            "professor": "CIBELLE DE FATIMA CASTRO DE ASSIS",
+            "horario": "2N1234",
+            "local": "R.E-106 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8103110",
+        "name": "MATEMATICA PENSINO BASICO II",
+        "category": "Complementar Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8103110",
+            "turmaid": "01",
+            "nome": " MATEMATICA PENSINO BASICO II",
+            "semester": "2018.2",
+            "professor": "CARLOS ALBERTO GOMES DE ALMEIDA",
+            "horario": "3N34 5N12",
+            "local": "R.E-106 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8103118",
+        "name": "CALCULO DIFERENCIAL E INTEGRAL I",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8103118",
+            "turmaid": "01",
+            "nome": " CALCULO DIFERENCIAL E INTEGRAL I",
+            "semester": "2018.2",
+            "professor": "MARCOS ANDRE JOSE VALCACIO",
+            "horario": "3N12 5N34",
+            "local": "R.E-106 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8103120",
+        "name": "ARGUMENTACAO EM MATEMATICA",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8103120",
+            "turmaid": "01",
+            "nome": " ARGUMENTACAO EM MATEMATICA",
+            "semester": "2018.2",
+            "professor": "VANLEX GOMES GALDINO",
+            "horario": "4N12 6N34",
+            "local": "R.E-106 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8103226",
+        "name": "METODOLOGIA DO TRABALHO CIENTIFICO",
+        "category": "Complementar Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8103226",
+            "turmaid": "01",
+            "nome": " METODOLOGIA DO TRABALHO CIENTIFICO",
+            "semester": "2018.2",
+            "professor": "REGINA COELLY MENDES DA SILVA",
+            "horario": "4N34 6N12",
+            "local": "R.E-106 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8102100",
+        "name": "FUNDAMANTROFILOSÓFICOS DA EDUCAÇÃO",
+        "category": "Complementar Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8102100",
+            "turmaid": "01",
+            "nome": " FUNDAMANTROFILOSÓFICOS DA EDUCAÇÃO",
+            "semester": "2018.2",
+            "professor": "ANTONIO ALBERTO PEREIRA",
+            "horario": "6N1234",
+            "local": "R.E-105 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8103101",
+        "name": "CALCULO VETORIAL E GEOMETRIA ANALITICA",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8103101",
+            "turmaid": "02",
+            "nome": " CALCULO VETORIAL E GEOMETRIA ANALITICA",
+            "semester": "2018.2",
+            "professor": "AGNES LILIANE LIMA SOARES",
+            "horario": "3N12 5N34",
+            "local": "R.E-105 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8103116",
+        "name": "MATEMATICA PENSINO BASICO III",
+        "category": "Complementar Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8103116",
+            "turmaid": "01",
+            "nome": " MATEMATICA PENSINO BASICO III",
+            "semester": "2018.2",
+            "professor": "EMMANUEL DE SOUSA FERNANDES FALCAO",
+            "horario": "4N1234",
+            "local": "R.E-105 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8103119",
+        "name": "CALCULO DIFERENCIAL E INTEGRAL II",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8103119",
+            "turmaid": "01",
+            "nome": " CALCULO DIFERENCIAL E INTEGRAL II",
+            "semester": "2018.2",
+            "professor": "WENDHEL RAFFA COIMBRA",
+            "horario": "3N34 5N12",
+            "local": "R.E-105 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+          "8103118"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8103122",
+        "name": "INFORMATICA APLICADA A MATEMATICA",
+        "category": "Complementar Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8103122",
+            "turmaid": "01",
+            "nome": " INFORMATICA APLICADA A MATEMATICA",
+            "semester": "2018.2",
+            "professor": "EMMANUEL DE SOUSA FERNANDES FALCAO",
+            "horario": "2N1234",
+            "local": "R.E-105 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8102106",
+        "name": "FUNDAMSÓCIOHISTÓRICOS DA EDUCAÇÃO",
+        "category": "Complementar Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8102106",
+            "turmaid": "02",
+            "nome": " FUNDAMSÓCIOHISTÓRICOS DA EDUCAÇÃO",
+            "semester": "2018.2",
+            "professor": "IVONALDO NERES LEITE",
+            "horario": "4N1234",
+            "local": "R.E-104 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8103117",
+        "name": "MATEMATICA PENSINO BASICO IV",
+        "category": "Complementar Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8103117",
+            "turmaid": "01",
+            "nome": " MATEMATICA PENSINO BASICO IV",
+            "semester": "2018.2",
+            "professor": "CARLOS ALBERTO GOMES DE ALMEIDA",
+            "horario": "6N1234",
+            "local": "R.E-104 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8103131",
+        "name": "FUNDAMENTOS DA GEOMETRIA EUCLIDIANA",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8103131",
+            "turmaid": "01",
+            "nome": " FUNDAMENTOS DA GEOMETRIA EUCLIDIANA",
+            "semester": "2018.2",
+            "professor": "ROY PERCY TOCTO GUARNIZ",
+            "horario": "2N1234",
+            "local": "R.E-104 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8103132",
+        "name": "CALCULO DIFERENCIAL E INTEGRAL III",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8103132",
+            "turmaid": "01",
+            "nome": " CALCULO DIFERENCIAL E INTEGRAL III",
+            "semester": "2018.2",
+            "professor": "ROY PERCY TOCTO GUARNIZ",
+            "horario": "3N12 5N34",
+            "local": "R.E-104 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+          "8103119",
+          "8103101"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8103133",
+        "name": "INTRODUCAO A ALGEBRA LINEAR",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8103133",
+            "turmaid": "01",
+            "nome": " INTRODUCAO A ALGEBRA LINEAR",
+            "semester": "2018.2",
+            "professor": "AGNES LILIANE LIMA SOARES",
+            "horario": "3N34 5N12",
+            "local": "R.E-104 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+          "8103101"
+        ],
+        "equivalences": [
+          "8103135",
+          "8103144"
+        ]
+      },
+      {
+        "id": "8102107",
+        "name": "FUNDAMENTOS PSICOLÓGICOS DA EDUCAÇÃO",
+        "category": "Complementar Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8102107",
+            "turmaid": "01",
+            "nome": " FUNDAMENTOS PSICOLÓGICOS DA EDUCAÇÃO",
+            "semester": "2018.2",
+            "professor": "GERALDO ALEXANDRE DE OLIVEIRA GOMES",
+            "horario": "6N1234",
+            "local": "R.E-103 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8102126",
+        "name": "POLÍTICA E GESTÃO DA EDUCAÇÃO",
+        "category": "Complementar Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8102126",
+            "turmaid": "01",
+            "nome": " POLÍTICA E GESTÃO DA EDUCAÇÃO",
+            "semester": "2018.2",
+            "professor": "GILMAR LEITE FERREIRA",
+            "horario": "4N1234",
+            "local": "R.E-103 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8103186",
+        "name": "HISTORIA DA MATEMATICA",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8103186",
+            "turmaid": "01",
+            "nome": " HISTORIA DA MATEMATICA",
+            "semester": "2018.2",
+            "professor": "GRACIANA FERREIRA DIAS",
+            "horario": "2N12 5N34",
+            "local": "R.E-103 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8103190",
+        "name": "INTRODUCAO A TEORIA DOS NUMEROS",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8103190",
+            "turmaid": "01",
+            "nome": " INTRODUCAO A TEORIA DOS NUMEROS",
+            "semester": "2018.2",
+            "professor": "GIVALDO DE LIMA",
+            "horario": "2N34 5N12",
+            "local": "R.E-103 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8103192",
+        "name": "SERIES E EQUACOES DIFER ORDINARIAS",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8103192",
+            "turmaid": "01",
+            "nome": " SERIES E EQUACOES DIFER ORDINARIAS",
+            "semester": "2018.2",
+            "professor": "CLAUDILENE GOMES DA COSTA",
+            "horario": "3N1234",
+            "local": "R.E-103 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+          "8103132"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8102108",
+        "name": "DIDÁTICA",
+        "category": "Complementar Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8102108",
+            "turmaid": "01",
+            "nome": " DIDÁTICA",
+            "semester": "2018.2",
+            "professor": "MARIA DA PENHA CAETANO DE FIGUEIREDO GILL",
+            "horario": "5N1234",
+            "local": "R.A-205 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+          "8102100",
+          "8102106",
+          "8102107"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8103108",
+        "name": "MATEMATICA ELEMENTAR",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8103108",
+            "turmaid": "02",
+            "nome": " MATEMATICA ELEMENTAR",
+            "semester": "2018.2",
+            "professor": "JAMILSON RAMOS CAMPOS",
+            "horario": "3N12 6N34",
+            "local": "R.A-205 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+          "8103190"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8103184",
+        "name": "ESTATISTICA",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8103184",
+            "turmaid": "01",
+            "nome": " ESTATISTICA",
+            "semester": "2018.2",
+            "professor": "PATRICIA SILVA NASCIMENTO BARROS",
+            "horario": "4N1234",
+            "local": "R.A-205 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+          "8103118",
+          "8103119"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8103185",
+        "name": "FISICA GERAL I",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8103185",
+            "turmaid": "01",
+            "nome": " FISICA GERAL I",
+            "semester": "2018.2",
+            "professor": "ROBERTO MENEZES DA SILVA",
+            "horario": "2N1234",
+            "local": "R.A-205 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+          "8103118",
+          "8103119"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8108111",
+        "name": "MATEMÁTICA FINANCEIRA",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8108111",
+            "turmaid": "01",
+            "nome": " MATEMÁTICA FINANCEIRA",
+            "semester": "2018.2",
+            "professor": "MANOEL HELENO GOMES DA SILVA",
+            "horario": "6N12",
+            "local": "R.A-205 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8103200",
+        "name": "TOPICOS ESPECIAIS EM MATEMATICA I",
+        "category": "Complementar Flexiva",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8103188",
+        "name": "INTRODUCAO A ANALISE",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8103188",
+            "turmaid": "01",
+            "nome": " INTRODUCAO A ANALISE",
+            "semester": "2018.2",
+            "professor": "JAMILSON RAMOS CAMPOS",
+            "horario": "3N34 6N12",
+            "local": "R.A-206 (CCAE)"
+          },
+          {
+            "id": "8103188",
+            "turmaid": "02",
+            "nome": " INTRODUCAO A ANALISE",
+            "semester": "2018.2",
+            "professor": "JAMILSON RAMOS CAMPOS",
+            "horario": "36T56",
+            "local": "R.A-205 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+          "8103132",
+          "8103108"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8103193",
+        "name": "ESTAGIO SUPERVISIONADO I MATEMATICA",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "75h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8103193",
+            "turmaid": "01",
+            "nome": " ESTAGIO SUPERVISIONADO I MATEMATICA",
+            "semester": "2018.2",
+            "professor": "REGINA COELLY MENDES DA SILVA",
+            "horario": "2N4 4N12 6N34",
+            "local": "R.A-206 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+          "8102108"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8103198",
+        "name": "LABORATORIO DO ENSINO DA MATEMATICA I",
+        "category": "Complementar Obrigatória",
+        "semester": 6,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8103198",
+            "turmaid": "01",
+            "nome": " LABORATORIO DO ENSINO DA MATEMATICA I",
+            "semester": "2018.2",
+            "professor": "REGINA COELLY MENDES DA SILVA",
+            "horario": "2N123",
+            "local": "R.A-206 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8103201",
+        "name": "TOPICOS ESPECIAIS EM MATEMATICA II",
+        "category": "Complementar Flexiva",
+        "semester": 7,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8103187",
+        "name": "INTRODUCAO A ALGEBRA",
+        "category": "Obrigatória",
+        "semester": 7,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8103187",
+            "turmaid": "01",
+            "nome": " INTRODUCAO A ALGEBRA",
+            "semester": "2018.2",
+            "professor": "MARCOS ANDRE JOSE VALCACIO",
+            "horario": "3N34 5N12",
+            "local": "R.A-101 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+          "8103108"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8103194",
+        "name": "ESTAGIO SUPERVISIONADO II MATEMATICA",
+        "category": "Obrigatória",
+        "semester": 7,
+        "workload": "90h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8103194",
+            "turmaid": "01",
+            "nome": " ESTAGIO SUPERVISIONADO II MATEMATICA",
+            "semester": "2018.2",
+            "professor": "CIBELLE DE FATIMA CASTRO DE ASSIS",
+            "horario": "3N12 6N1234",
+            "local": "R.A-101 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+          "8103193"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8103199",
+        "name": "LABORATORIO DO ENSINO DA MATEMATICA II",
+        "category": "Complementar Obrigatória",
+        "semester": 7,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8103199",
+            "turmaid": "01",
+            "nome": " LABORATORIO DO ENSINO DA MATEMATICA II",
+            "semester": "2018.2",
+            "professor": "CIBELLE DE FATIMA CASTRO DE ASSIS",
+            "horario": "4N123",
+            "local": "R.A-101 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+          "8103198"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8102174",
+        "name": "SEMINARIOS DE PROB ATUAIS EM EDUCAÇÃO",
+        "category": "Optativa",
+        "semester": 8,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8103121",
+        "name": "PESQUISA APLICADA A MATEMATICA",
+        "category": "Complementar Obrigatória",
+        "semester": 8,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8103121",
+            "turmaid": "01",
+            "nome": " PESQUISA APLICADA A MATEMATICA",
+            "semester": "2018.2",
+            "professor": "CRISTIANE FERNANDES DE SOUZA",
+            "horario": "3N34 5N12",
+            "local": "R.A-102 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+          "8103226"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8103189",
+        "name": "INTRODUCAO A GEOMETRIA DIFERENCIAL",
+        "category": "Obrigatória",
+        "semester": 8,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8103189",
+            "turmaid": "01",
+            "nome": " INTRODUCAO A GEOMETRIA DIFERENCIAL",
+            "semester": "2018.2",
+            "professor": "WENDHEL RAFFA COIMBRA",
+            "horario": "3N12 5N34",
+            "local": "R.A-102 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+          "8103132"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8103195",
+        "name": "ESTAGIO SUPERVISIONADO III MATEMATICA",
+        "category": "Obrigatória",
+        "semester": 8,
+        "workload": "120h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8103195",
+            "turmaid": "01",
+            "nome": " ESTAGIO SUPERVISIONADO III MATEMATICA",
+            "semester": "2018.2",
+            "professor": "CRISTIANE FERNANDES DE SOUZA",
+            "horario": "24N1234",
+            "local": "R.A-102 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+          "8103194"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8103202",
+        "name": "TOPICOS ESPECIAIS EM MATEMATICA III",
+        "category": "Complementar Flexiva",
+        "semester": 9,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8103191",
+        "name": "INTRODUCAO A VARIAVEIS COMPLEXAS",
+        "category": "Obrigatória",
+        "semester": 9,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8103191",
+            "turmaid": "01",
+            "nome": " INTRODUCAO A VARIAVEIS COMPLEXAS",
+            "semester": "2018.2",
+            "professor": "GIVALDO DE LIMA",
+            "horario": "2N12 5N34",
+            "local": "R.A-103 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+          "8103132"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8103196",
+        "name": "ESTAGIO SUPERVISIONADO IV MATEMATICA",
+        "category": "Obrigatória",
+        "semester": 9,
+        "workload": "120h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8103196",
+            "turmaid": "01",
+            "nome": " ESTAGIO SUPERVISIONADO IV MATEMATICA",
+            "semester": "2018.2",
+            "professor": "GRACIANA FERREIRA DIAS",
+            "horario": "2N34 5N12 6N1234",
+            "local": "R.A-103 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+          "8103195"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8102162",
+        "name": "CURRÍCULO E TRABALHO PEDAGÓGICO",
+        "category": "Optativa",
+        "semester": 10,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8102173",
+        "name": "EDUCAÇÃO E INCLUSÃO SOCIAL",
+        "category": "Optativa",
+        "semester": 10,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8102181",
+        "name": "ALFABETIZAÇÃO DE JOVENS ADULTOS PROCESSSOS E MÉTODOS",
+        "category": "Optativa",
+        "semester": 10,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8102181",
+            "turmaid": "01",
+            "nome": " ALFABETIZAÇÃO DE JOVENS ADULTOS PROCESSSOS E MÉTODOS",
+            "semester": "2018.2",
+            "professor": "SHIRLEY TARGINO SILVA",
+            "horario": "2N1234",
+            "local": "R.A-104 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8103224",
+        "name": "TOPICOS ESPECIAIS EM MATEMATICA IV",
+        "category": "Complementar Flexiva",
+        "semester": 10,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8103197",
+        "name": "T C C MATEMÁTICA",
+        "category": "Complementar Obrigatória",
+        "semester": 10,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8103197",
+            "turmaid": "01",
+            "nome": " T C C MATEMÁTICA",
+            "semester": "2018.2",
+            "professor": "CLAUDILENE GOMES DA COSTA",
+            "horario": "5T3456",
+            "local": "R.C-206 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+          "8103121",
+          "8103226"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8105031",
+        "name": "LIBRASLINGUA BRASILEIRA DE SINAIS",
+        "category": "Complementar Obrigatória",
+        "semester": 10,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8105031",
+            "turmaid": "03",
+            "nome": " LIBRASLINGUA BRASILEIRA DE SINAIS",
+            "semester": "2018.2",
+            "professor": "A DEFINIR",
+            "horario": "4N1234",
+            "local": "M.D-106 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      }
+    ]
+  }
+}

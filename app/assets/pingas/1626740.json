@@ -1,0 +1,2504 @@
+{
+  "curriculum": {
+    "id": "442009",
+    "codigo": "1626740",
+    "name": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - OUTRO TIPO DE GRAU ACADÊMICO",
+    "faculty": "CENTRO DE TECNOLOGIA (CT) (11.00.55)",
+    "minch": "270",
+    "maxch": "525",
+    "semesters": 10,
+    "courses": [
+      {
+        "id": "1403747",
+        "name": "LIBRAS  LÍNGUA BRASILEIRA DE SINAIS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1404138",
+        "name": "LINGUA INGLESA I",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "75h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1404138",
+            "turmaid": "01",
+            "nome": " LINGUA INGLESA I",
+            "semester": "2018.2",
+            "professor": "GREGÓRIO PEREIRA DE VASCONCELOS",
+            "horario": "35N34 6N1",
+            "local": "CAA 106 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+          "1404325"
+        ]
+      },
+      {
+        "id": "1404139",
+        "name": "LINGUA INGLESA I",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "75h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1405183",
+        "name": "PSICOLOGIA DO TRABALHO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "75h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1405183",
+            "turmaid": "02",
+            "nome": " PSICOLOGIA DO TRABALHO",
+            "semester": "2018.2",
+            "professor": "MARIA DE FATIMA FERNANDES MARTINS CATAO",
+            "horario": "3T45 5T456",
+            "local": "CAG 104 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1406238",
+        "name": "RELACOES PUBLICAS E HUMANA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1702150",
+        "name": "ESTAGIO EXTRA CURRICULAR",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "240h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1702190",
+        "name": "TOPICOS ESPECIAIS EM ENG DE ALIMENTOS I",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1702191",
+        "name": "TOPICOS ESPECIAIS EM ENG DE ALIMENTOS II",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1702202",
+        "name": "TECNOLOGIA DE BEBIDAS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1702202",
+            "turmaid": "01",
+            "nome": " TECNOLOGIA DE BEBIDAS",
+            "semester": "2018.2",
+            "professor": "IAN CARNEIRO DA CUNHA NOBREGA",
+            "horario": "4T2345",
+            "local": "CTJ 105 (CT)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1705102",
+        "name": "CUSTOS DA PRODUCAO INDUSTRIAL",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1705102",
+            "turmaid": "02",
+            "nome": " CUSTOS DA PRODUCAO INDUSTRIAL",
+            "semester": "2018.2",
+            "professor": "JONAS ALVES DE PAIVA",
+            "horario": "35T45",
+            "local": "AUD DEP (CT)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1709023",
+        "name": "TECNOLOGIA DO AÇÚCAR E DO ALCOOL",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDEAL0100",
+        "name": "FUNDAMENTOS DA TECNOLOGIA DA CERVEJA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDEAL0101",
+        "name": "FUNDAMENTOS DE TECNOLOGIA DA CACHAÇA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDLS0024",
+        "name": "LIBRAS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1103118",
+        "name": "CÁLCULO VETORIAL E GEOMETRIA ANALÍTICA",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1103118",
+            "turmaid": "06",
+            "nome": " CÁLCULO VETORIAL E GEOMETRIA ANALÍTICA",
+            "semester": "2018.2",
+            "professor": "PEDRO ANTONIO HINOJOSA VERA",
+            "horario": "35M23",
+            "local": "CAA 106 (PRG)"
+          },
+          {
+            "id": "1103118",
+            "turmaid": "08",
+            "nome": " CÁLCULO VETORIAL E GEOMETRIA ANALÍTICA",
+            "semester": "2018.2",
+            "professor": "SHIRLEY MARIA SANTOS E SOUZA",
+            "horario": "35T23",
+            "local": "CAA 102 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1103177",
+        "name": "CÁLCULO DIFERENCIAL E INTEGRAL I",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1103177",
+            "turmaid": "05",
+            "nome": " CÁLCULO DIFERENCIAL E INTEGRAL I",
+            "semester": "2018.2",
+            "professor": "FLAVIA JERONIMO BARBOSA",
+            "horario": "24M23",
+            "local": "CAA 105 (PRG)"
+          },
+          {
+            "id": "1103177",
+            "turmaid": "07",
+            "nome": " CÁLCULO DIFERENCIAL E INTEGRAL I",
+            "semester": "2018.2",
+            "professor": "EVERALDO SOUTO DE MEDEIROS",
+            "horario": "24T45",
+            "local": "CAA 102 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1104232",
+        "name": "FUND BIO CEL E MOL APL A ENG ALIMEN",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1104232",
+            "turmaid": "01",
+            "nome": " FUND BIO CEL E MOL APL A ENG ALIMEN",
+            "semester": "2018.2",
+            "professor": "GLAUCIA MARQUES FREITAS RIBEIRO",
+            "horario": "24T23",
+            "local": "CTB 101 (CT)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1105220",
+        "name": "QUIMICA GERAL E INORGANICA",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1105220",
+            "turmaid": "02",
+            "nome": " QUIMICA GERAL E INORGANICA",
+            "semester": "2018.2",
+            "professor": "AFRANIO GABRIEL DA SILVA",
+            "horario": "35T45",
+            "local": "DQ 06 (CCEN)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1107136",
+        "name": "INTRODUÇÃO A PROGRAMAÇÃO",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1107136",
+            "turmaid": "05",
+            "nome": " INTRODUÇÃO A PROGRAMAÇÃO",
+            "semester": "2018.2",
+            "professor": "ALVARO FRANCISCO DE CASTRO MEDEIROS",
+            "horario": "35M45",
+            "local": "CAE 111 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1205003",
+        "name": "METODOLOGIA DO TRABALHO CIENTÍFICO",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1205003",
+            "turmaid": "11",
+            "nome": " METODOLOGIA DO TRABALHO CIENTÍFICO",
+            "semester": "2018.2",
+            "professor": "IZABEL FRANCA DE LIMA",
+            "horario": "4M1 6M123",
+            "local": "CAB 102 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+          "1401140",
+          "1709001",
+          "GDTH0036"
+        ]
+      },
+      {
+        "id": "1401134",
+        "name": "INTRODUCAO A SOCIOLOGIA",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1401134",
+            "turmaid": "04",
+            "nome": " INTRODUCAO A SOCIOLOGIA",
+            "semester": "2018.2",
+            "professor": "MARCOS AYALA",
+            "horario": "24M45",
+            "local": "CAE 102 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1702154",
+        "name": "ENG DE ALIMENTOS NA SOCIEDADE",
+        "category": "Complementar Obrigatória",
+        "semester": 1,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1702154",
+            "turmaid": "01",
+            "nome": " ENG DE ALIMENTOS NA SOCIEDADE",
+            "semester": "2018.2",
+            "professor": "MARCELO BARBOSA MUNIZ",
+            "horario": "3M23",
+            "local": "CTB 101 (CT)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1704239",
+        "name": "DESENHO ASSIST POR COMP PENG DE ALIM",
+        "category": "Optativa",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1704238"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1101157",
+        "name": "FISICA GERAL I",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1101157",
+            "turmaid": "04",
+            "nome": " FISICA GERAL I",
+            "semester": "2018.2",
+            "professor": "A DEFINIR",
+            "horario": "24M45",
+            "local": "CAE 110 (PRG)"
+          },
+          {
+            "id": "1101157",
+            "turmaid": "10",
+            "nome": " FISICA GERAL I",
+            "semester": "2018.2",
+            "professor": "A DEFINIR",
+            "horario": "24T23",
+            "local": "CAB 103 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1103141",
+        "name": "INTRODUCAO ALGEBRA LINEAR",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1103179",
+            "turmaid": "02",
+            "nome": " INTRODUCAO A ALGEBRA LINEAR",
+            "semester": "2018.2",
+            "professor": "FERNANDO ANTONIO XAVIER DE SOUZA",
+            "horario": "35M23",
+            "local": "CAB 103 (PRG)"
+          },
+          {
+            "id": "1103179",
+            "turmaid": "07",
+            "nome": " INTRODUCAO A ALGEBRA LINEAR",
+            "semester": "2018.2",
+            "professor": "FERNANDO ANTONIO XAVIER DE SOUZA",
+            "horario": "35T23",
+            "local": "CAB 104 (PRG)"
+          }
+        ],
+        "prerequisites": [
+          "1103118"
+        ],
+        "equivalences": [
+          "1103179"
+        ]
+      },
+      {
+        "id": "1103178",
+        "name": "CALCULO DIFERENCIAL E INTEGRAL II",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1103178",
+            "turmaid": "02",
+            "nome": " CALCULO DIFERENCIAL E INTEGRAL II",
+            "semester": "2018.2",
+            "professor": "CARLOS BOCKER NETO",
+            "horario": "24M23",
+            "local": "CAA 106 (PRG)"
+          },
+          {
+            "id": "1103178",
+            "turmaid": "10",
+            "nome": " CALCULO DIFERENCIAL E INTEGRAL II",
+            "semester": "2018.2",
+            "professor": "CARLOS BOCKER NETO",
+            "horario": "24T45",
+            "local": "CAB 103 (PRG)"
+          }
+        ],
+        "prerequisites": [
+          "1103177",
+          "1103118"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1105167",
+        "name": "QUIMICA ORGANICA I",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1105167",
+            "turmaid": "04",
+            "nome": " QUIMICA ORGANICA I",
+            "semester": "2018.2",
+            "professor": "ARNALDO BUENO PEREIRA",
+            "horario": "35M45",
+            "local": "DQ 06 (CCEN)"
+          }
+        ],
+        "prerequisites": [
+          "1105220"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1105218",
+        "name": "FUNDAMENTOS DE FISICOQUIMICA",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1105218",
+            "turmaid": "02",
+            "nome": " FUNDAMENTOS DE FISICOQUIMICA",
+            "semester": "2018.2",
+            "professor": "GERD BRUNO DA ROCHA",
+            "horario": "24M23",
+            "local": "DQ 06 (CCEN)"
+          }
+        ],
+        "prerequisites": [
+          "1105220"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1105219",
+        "name": "QUIMICA GERAL E INORG EXPERIMENTAL",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "30h aula 3h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1105219",
+            "turmaid": "03",
+            "nome": " QUIMICA GERAL E INORG EXPERIMENTAL",
+            "semester": "2018.2",
+            "professor": "RAFAELA BERNARDO PROVAZI PESCI",
+            "horario": "3T23",
+            "local": "LAB QUI 02 (CCEN)"
+          },
+          {
+            "id": "1105219",
+            "turmaid": "04",
+            "nome": " QUIMICA GERAL E INORG EXPERIMENTAL",
+            "semester": "2018.2",
+            "professor": "RAFAELA BERNARDO PROVAZI PESCI",
+            "horario": "2M45",
+            "local": "LAB QUI 02 (CCEN)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1702170",
+        "name": "MAT PRIM AGROP DE ORIGEM ANIMAL",
+        "category": "Complementar Obrigatória",
+        "semester": 2,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1702170",
+            "turmaid": "01",
+            "nome": " MAT PRIM AGROP DE ORIGEM ANIMAL",
+            "semester": "2018.2",
+            "professor": "RICARDO TARGINO MOREIRA",
+            "horario": "3T123",
+            "local": "CTJ T03 (CT)"
+          }
+        ],
+        "prerequisites": [
+          "1104232"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1702171",
+        "name": "MAT PRIM AGROP DE ORIGEM VEGETAL",
+        "category": "Complementar Obrigatória",
+        "semester": 2,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1702171",
+            "turmaid": "01",
+            "nome": " MAT PRIM AGROP DE ORIGEM VEGETAL",
+            "semester": "2018.2",
+            "professor": "HEINZ JOHANN HOLSCHUH",
+            "horario": "2M123",
+            "local": "MIDIA DEA (CT)"
+          },
+          {
+            "id": "1702171",
+            "turmaid": "02",
+            "nome": " MAT PRIM AGROP DE ORIGEM VEGETAL",
+            "semester": "2018.2",
+            "professor": "HEINZ JOHANN HOLSCHUH",
+            "horario": "4M123",
+            "local": "MIDIA DEA (CT)"
+          },
+          {
+            "id": "1702171",
+            "turmaid": "03",
+            "nome": " MAT PRIM AGROP DE ORIGEM VEGETAL",
+            "semester": "2018.2",
+            "professor": "HEINZ JOHANN HOLSCHUH",
+            "horario": "6M123",
+            "local": "CTB 105 (CT)"
+          }
+        ],
+        "prerequisites": [
+          "1104232"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1105172",
+        "name": "QUIMICA ORGANICA II",
+        "category": "Optativa",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1105167"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1101163",
+        "name": "FISICA GERAL II",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1101163",
+            "turmaid": "03",
+            "nome": " FISICA GERAL II",
+            "semester": "2018.2",
+            "professor": "A DEFINIR",
+            "horario": "24M45",
+            "local": "CAB 103 (PRG)"
+          },
+          {
+            "id": "1101163",
+            "turmaid": "06",
+            "nome": " FISICA GERAL II",
+            "semester": "2018.2",
+            "professor": "A DEFINIR",
+            "horario": "24T23",
+            "local": "CAB 101 (PRG)"
+          }
+        ],
+        "prerequisites": [
+          "1101157"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1101165",
+        "name": "FISICA EXPERIMENTAL I",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "0h aula 30h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1101165",
+            "turmaid": "05",
+            "nome": " FISICA EXPERIMENTAL I",
+            "semester": "2018.2",
+            "professor": "A DEFINIR",
+            "horario": "6M45",
+            "local": "DF 200 (CCEN)"
+          },
+          {
+            "id": "1101165",
+            "turmaid": "07",
+            "nome": " FISICA EXPERIMENTAL I",
+            "semester": "2018.2",
+            "professor": "A DEFINIR",
+            "horario": "6T23",
+            "local": "DF 200 (CCEN)"
+          }
+        ],
+        "prerequisites": [
+          "1101157"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1103180",
+        "name": "SERIES E EQUACOES DIF ORDINARIAS",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1103180",
+            "turmaid": "04",
+            "nome": " SERIES E EQUACOES DIF ORDINARIAS",
+            "semester": "2018.2",
+            "professor": "ALLAN GEORGE DE CARVALHO FREITAS",
+            "horario": "35M23",
+            "local": "CAE 110 (PRG)"
+          },
+          {
+            "id": "1103180",
+            "turmaid": "05",
+            "nome": " SERIES E EQUACOES DIF ORDINARIAS",
+            "semester": "2018.2",
+            "professor": "NACIB ANDRE GURGEL E ALBUQUERQUE",
+            "horario": "35T45",
+            "local": "CAA 101 (PRG)"
+          }
+        ],
+        "prerequisites": [
+          "1103178",
+          "1103141"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1103232",
+        "name": "CALCULO DIF  E INTEGRAL III",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1103232",
+            "turmaid": "04",
+            "nome": " CALCULO DIF  E INTEGRAL III",
+            "semester": "2018.2",
+            "professor": "JOEDSON SILVA DOS SANTOS",
+            "horario": "24M23",
+            "local": "CAE 110 (PRG)"
+          },
+          {
+            "id": "1103232",
+            "turmaid": "08",
+            "nome": " CALCULO DIF  E INTEGRAL III",
+            "semester": "2018.2",
+            "professor": "LENIMAR NUNES DE ANDRADE",
+            "horario": "24T45",
+            "local": "CAC 108 (PRG)"
+          }
+        ],
+        "prerequisites": [
+          "1103178"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1105171",
+        "name": "QUIMICA ORGANIGA EXPERIMENTAL I",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "0h aula 45h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1105171",
+            "turmaid": "06",
+            "nome": " QUIMICA ORGANIGA EXPERIMENTAL I",
+            "semester": "2018.2",
+            "professor": "MARIA ALDEIZA MEIRELES ALMEIDA DE MAURERA",
+            "horario": "4M456",
+            "local": "LAB QUI 06 (CCEN)"
+          }
+        ],
+        "prerequisites": [
+          "1105167"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1105222",
+        "name": "FUND DA FISICOQUIMICA EXPERIMENTAL",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1105222",
+            "turmaid": "01",
+            "nome": " FUND DA FISICOQUIMICA EXPERIMENTAL",
+            "semester": "2018.2",
+            "professor": "KAREN CACILDA WEBER",
+            "horario": "4M23",
+            "local": "LAB QUI 01 (CCEN)"
+          },
+          {
+            "id": "1105222",
+            "turmaid": "03",
+            "nome": " FUND DA FISICOQUIMICA EXPERIMENTAL",
+            "semester": "2018.2",
+            "professor": "KAREN CACILDA WEBER",
+            "horario": "3M23",
+            "local": "LAB QUI 01 (CCEN)"
+          }
+        ],
+        "prerequisites": [
+          "1105218"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1702158",
+        "name": "QUÍMICA DE ALIMENTOS I",
+        "category": "Complementar Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1702158",
+            "turmaid": "01",
+            "nome": " QUÍMICA DE ALIMENTOS I",
+            "semester": "2018.2",
+            "professor": "FABIO ANDERSON PEREIRA DA SILVA",
+            "horario": "35M23",
+            "local": "CTJ 105 (CT)"
+          },
+          {
+            "id": "1702158",
+            "turmaid": "02",
+            "nome": " QUÍMICA DE ALIMENTOS I",
+            "semester": "2018.2",
+            "professor": "FABIO ANDERSON PEREIRA DA SILVA",
+            "horario": "35T23",
+            "local": "CTJ 107 (CT)"
+          }
+        ],
+        "prerequisites": [
+          "1105167",
+          "1105142"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1702160",
+        "name": "MICROBIOLOGIA DE ALIMENTOS I",
+        "category": "Complementar Obrigatória",
+        "semester": 3,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1702160",
+            "turmaid": "01",
+            "nome": " MICROBIOLOGIA DE ALIMENTOS I",
+            "semester": "2018.2",
+            "professor": "JANEEYRE FERREIRA MACIEL",
+            "horario": "2T23",
+            "local": "CTJ 107 (CT)"
+          }
+        ],
+        "prerequisites": [
+          "1104232"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1702161",
+        "name": "LABORATORIO DE MICROBIOL DE ALIMENTOS I",
+        "category": "Complementar Obrigatória",
+        "semester": 3,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1702161",
+            "turmaid": "01",
+            "nome": " LABORATORIO DE MICROBIOL DE ALIMENTOS I",
+            "semester": "2018.2",
+            "professor": "JANEEYRE FERREIRA MACIEL",
+            "horario": "4T23",
+            "local": "LMA DEA (CT)"
+          },
+          {
+            "id": "1702161",
+            "turmaid": "02",
+            "nome": " LABORATORIO DE MICROBIOL DE ALIMENTOS I",
+            "semester": "2018.2",
+            "professor": "JANEEYRE FERREIRA MACIEL",
+            "horario": "6M23",
+            "local": "LMA DEA (CT)"
+          }
+        ],
+        "prerequisites": [
+          "1104232"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1105179",
+        "name": "QUIMICA ORGANICA EXPERIMENTAL II",
+        "category": "Optativa",
+        "semester": 4,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1101165"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1101164",
+        "name": "FISICA GERAL III",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1101164",
+            "turmaid": "02",
+            "nome": " FISICA GERAL III",
+            "semester": "2018.2",
+            "professor": "A DEFINIR",
+            "horario": "24M45",
+            "local": "CAA 106 (PRG)"
+          },
+          {
+            "id": "1101164",
+            "turmaid": "04",
+            "nome": " FISICA GERAL III",
+            "semester": "2018.2",
+            "professor": "A DEFINIR",
+            "horario": "24T23",
+            "local": "CAD 111 (PRG)"
+          }
+        ],
+        "prerequisites": [
+          "1101163"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1105166",
+        "name": "QUIMICA ANALITICA CLASSICA",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1105166",
+            "turmaid": "04",
+            "nome": " QUIMICA ANALITICA CLASSICA",
+            "semester": "2018.2",
+            "professor": "KATIA MESSIAS BICHINHO",
+            "horario": "35M45",
+            "local": "DQ 05 (CCEN)"
+          }
+        ],
+        "prerequisites": [
+          "1105220"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1108100",
+        "name": "CÁLCULO DAS PROBABILIDADES E  ESTATÍSTICA I",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1108100",
+            "turmaid": "07",
+            "nome": " CÁLCULO DAS PROBABILIDADES E  ESTATÍSTICA I",
+            "semester": "2018.2",
+            "professor": "TIE DIAS DE FARIAS e EUFRASIO DE ANDRADE LIMA NETO",
+            "horario": "35T23",
+            "local": "CAE 110 (PRG)"
+          }
+        ],
+        "prerequisites": [
+          "1103177"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1701141",
+        "name": "MECANICA APLICADA TECNOLOG DE ALIMENTOS",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1701141",
+            "turmaid": "01",
+            "nome": " MECANICA APLICADA TECNOLOG DE ALIMENTOS",
+            "semester": "2018.2",
+            "professor": "JOSELMA ARAUJO DE AMORIM",
+            "horario": "35T45",
+            "local": "CTJ T02 (CT) / CTB 105 (CT)"
+          }
+        ],
+        "prerequisites": [
+          "1101157",
+          "1103178"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1702159",
+        "name": "QUÍMICA DE ALIMENTOS II",
+        "category": "Complementar Obrigatória",
+        "semester": 4,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1702159",
+            "turmaid": "01",
+            "nome": " QUÍMICA DE ALIMENTOS II",
+            "semester": "2018.2",
+            "professor": "MARCIANE MAGNANI",
+            "horario": "6M123",
+            "local": "CTB 103 (CT)"
+          }
+        ],
+        "prerequisites": [
+          "1702158"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1702162",
+        "name": "MICROBIOL DE ALIMENTOS II",
+        "category": "Complementar Obrigatória",
+        "semester": 4,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1702162",
+            "turmaid": "01",
+            "nome": " MICROBIOL DE ALIMENTOS II",
+            "semester": "2018.2",
+            "professor": "JANEEYRE FERREIRA MACIEL",
+            "horario": "2M23",
+            "local": "CTB 103 (CT)"
+          }
+        ],
+        "prerequisites": [
+          "1702160",
+          "1702161"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1702163",
+        "name": "LAB DE MICROBIOL DE ALIMENTOS II",
+        "category": "Complementar Obrigatória",
+        "semester": 4,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1702163",
+            "turmaid": "01",
+            "nome": " LAB DE MICROBIOL DE ALIMENTOS II",
+            "semester": "2018.2",
+            "professor": "JANEEYRE FERREIRA MACIEL",
+            "horario": "4M23",
+            "local": "LMA DEA (CT)"
+          }
+        ],
+        "prerequisites": [
+          "1702160",
+          "1702161"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1702164",
+        "name": "PESQUISA APLICADA A ENG DE ALIMENTOS",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1702164",
+            "turmaid": "01",
+            "nome": " PESQUISA APLICADA A ENG DE ALIMENTOS",
+            "semester": "2018.2",
+            "professor": "STELA DE LOURDES RIBEIRO DE MENDONCA",
+            "horario": "2M45",
+            "local": "CTB 107 (CT)"
+          }
+        ],
+        "prerequisites": [
+          "1205003"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1702165",
+        "name": "TERMODINAMICA APLICADA",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1702165",
+            "turmaid": "02",
+            "nome": " TERMODINAMICA APLICADA",
+            "semester": "2018.2",
+            "professor": "ANOAR ABBAS EL AOUAR",
+            "horario": "35M23",
+            "local": "MIDIA DEA (CT)"
+          }
+        ],
+        "prerequisites": [
+          "1105218",
+          "1103180"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1108124",
+        "name": "METODOS EST APL AS CIENCIAS TECNOLOGICAS",
+        "category": "Optativa",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1108100"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1101166",
+        "name": "FISICA EXPERIMENTAL II",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1101166",
+            "turmaid": "01",
+            "nome": " FISICA EXPERIMENTAL II",
+            "semester": "2018.2",
+            "professor": "A DEFINIR",
+            "horario": "2T23",
+            "local": "LAB (CCEN)"
+          },
+          {
+            "id": "1101166",
+            "turmaid": "03",
+            "nome": " FISICA EXPERIMENTAL II",
+            "semester": "2018.2",
+            "professor": "A DEFINIR",
+            "horario": "3T23",
+            "local": "LAB (CCEN)"
+          },
+          {
+            "id": "1101166",
+            "turmaid": "04",
+            "nome": " FISICA EXPERIMENTAL II",
+            "semester": "2018.2",
+            "professor": "A DEFINIR",
+            "horario": "4M23",
+            "local": "LAB (CCEN)"
+          }
+        ],
+        "prerequisites": [
+          "1101164",
+          "1101165"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1105168",
+        "name": "QUIMICA ANAL QUALITATIVA EXPERIMENTAL",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "0h aula 45h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1105166"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1403153",
+        "name": "PORTUGUÊS INSTRUMENTAL",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1403153",
+            "turmaid": "03",
+            "nome": " PORTUGUÊS INSTRUMENTAL",
+            "semester": "2018.2",
+            "professor": "ISAIAS MOREIRA FERREIRA",
+            "horario": "6M1234",
+            "local": "CAG 106 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1701453",
+        "name": "INT A CIENCIA E TEC DE MATERIAIS",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1701453",
+            "turmaid": "01",
+            "nome": " INT A CIENCIA E TEC DE MATERIAIS",
+            "semester": "2018.2",
+            "professor": "RODINEI MEDEIROS GOMES",
+            "horario": "24T45",
+            "local": "CTA 103 (CT)"
+          }
+        ],
+        "prerequisites": [
+          "1105220",
+          "1101157"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1702166",
+        "name": "BIOQUIMICA DE ALIMENTOS I",
+        "category": "Complementar Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1702166",
+            "turmaid": "01",
+            "nome": " BIOQUIMICA DE ALIMENTOS I",
+            "semester": "2018.2",
+            "professor": "HEINZ JOHANN HOLSCHUH",
+            "horario": "35T45",
+            "local": "CTB 103 (CT)"
+          }
+        ],
+        "prerequisites": [
+          "1702158"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1702168",
+        "name": "FENOMENOS DE TRANSPORTES I",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1702168",
+            "turmaid": "01",
+            "nome": " FENOMENOS DE TRANSPORTES I",
+            "semester": "2018.2",
+            "professor": "PIERRE CORREA MARTINS",
+            "horario": "35T23",
+            "local": "CTM 202 (CT)"
+          }
+        ],
+        "prerequisites": [
+          "1101163",
+          "1702165"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1704238",
+        "name": "DESENHO BASICO PENG DE ALIMENTOS",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1704245"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDCOC0072",
+        "name": "CALCULO NUMERICO",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDCOC0072",
+            "turmaid": "05",
+            "nome": " CALCULO NUMERICO",
+            "semester": "2018.2",
+            "professor": "ANTONIO JOSE BONESS DOS SANTOS",
+            "horario": "35T23",
+            "local": "CAA 106 (PRG)"
+          }
+        ],
+        "prerequisites": [
+          "1107136",
+          "1103180"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1702192",
+        "name": "REC COMPUT PARA ENG DE ALIMENTOS",
+        "category": "Optativa",
+        "semester": 6,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1103176"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1702167",
+        "name": "BIOQUIMICA DE ALIMENTOS II",
+        "category": "Complementar Obrigatória",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1702167",
+            "turmaid": "01",
+            "nome": " BIOQUIMICA DE ALIMENTOS II",
+            "semester": "2018.2",
+            "professor": "MARCIANE MAGNANI",
+            "horario": "5M2345",
+            "local": "CTB 101 (CT)"
+          }
+        ],
+        "prerequisites": [
+          "1702166"
+        ],
+        "equivalences": [
+          "GDPEQ0114"
+        ]
+      },
+      {
+        "id": "1702169",
+        "name": "FENOMENOS DE TRANSPORTES II",
+        "category": "Complementar Obrigatória",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1702169",
+            "turmaid": "01",
+            "nome": " FENOMENOS DE TRANSPORTES II",
+            "semester": "2018.2",
+            "professor": "ANOAR ABBAS EL AOUAR",
+            "horario": "24M45",
+            "local": "CTE 104 (CT)"
+          }
+        ],
+        "prerequisites": [
+          "1702168"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1702172",
+        "name": "ANALISE DE ALIMENTOS I",
+        "category": "Complementar Obrigatória",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1702172",
+            "turmaid": "01",
+            "nome": " ANALISE DE ALIMENTOS I",
+            "semester": "2018.2",
+            "professor": "MARTA SUELY MADRUGA",
+            "horario": "2T2345",
+            "local": "CTE 104 (CT)"
+          }
+        ],
+        "prerequisites": [
+          "1105166",
+          "1702158"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1702174",
+        "name": "PRINCIPIOS DE CONSERV DE ALIMENTOS",
+        "category": "Complementar Obrigatória",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1702174",
+            "turmaid": "01",
+            "nome": " PRINCIPIOS DE CONSERV DE ALIMENTOS",
+            "semester": "2018.2",
+            "professor": "HELENICE DUARTE DE HOLANDA",
+            "horario": "3M2345",
+            "local": "CTJ 102 (CT)"
+          }
+        ],
+        "prerequisites": [
+          "1702158",
+          "1702162"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1702175",
+        "name": "INST INDUSTRIAIS E INSTRUMENTAÇÃO I",
+        "category": "Complementar Obrigatória",
+        "semester": 6,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1702175",
+            "turmaid": "01",
+            "nome": " INST INDUSTRIAIS E INSTRUMENTAÇÃO I",
+            "semester": "2018.2",
+            "professor": "MABEL DE BARROS BATISTA",
+            "horario": "6M123",
+            "local": "CTK 201 (CT)"
+          }
+        ],
+        "prerequisites": [
+          "1704238",
+          "1704245",
+          "1701453"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1702177",
+        "name": "HIGIENE NA INDUSTRIA DE ALIMENTOS",
+        "category": "Complementar Obrigatória",
+        "semester": 6,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1702177",
+            "turmaid": "01",
+            "nome": " HIGIENE NA INDUSTRIA DE ALIMENTOS",
+            "semester": "2018.2",
+            "professor": "YURI MONTENEGRO ISHIHARA",
+            "horario": "4T123",
+            "local": "CTJ 201 (CT)"
+          }
+        ],
+        "prerequisites": [
+          "1702162"
+        ],
+        "equivalences": [
+          "GDPEQ0117"
+        ]
+      },
+      {
+        "id": "1703103",
+        "name": "CIENCIAS DO AMBIENTE",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1703103",
+            "turmaid": "01",
+            "nome": " CIENCIAS DO AMBIENTE",
+            "semester": "2018.2",
+            "professor": "ADRIANO ROLIM DA PAZ",
+            "horario": "3T123",
+            "local": "CTM 205 (CT)"
+          },
+          {
+            "id": "1703103",
+            "turmaid": "02",
+            "nome": " CIENCIAS DO AMBIENTE",
+            "semester": "2018.2",
+            "professor": "CARMEM LUCIA MOREIRA GADELHA",
+            "horario": "5M123",
+            "local": "CTM 201 (CT)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1707010",
+        "name": "ELETROTECNICA",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1707010",
+            "turmaid": "04",
+            "nome": " ELETROTECNICA",
+            "semester": "2018.2",
+            "professor": "FRANCISCO ANTONIO BELO",
+            "horario": "35T45",
+            "local": "CTM 204 (CT)"
+          }
+        ],
+        "prerequisites": [
+          "1101164",
+          "1103232",
+          "1103180",
+          "1103141"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1702116",
+        "name": "FUNDAMENTOS DE NUTRICAO",
+        "category": "Obrigatória",
+        "semester": 7,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1702166"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1702173",
+        "name": "ANALISE DE ALIMENTOS II",
+        "category": "Complementar Obrigatória",
+        "semester": 7,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1702173",
+            "turmaid": "01",
+            "nome": " ANALISE DE ALIMENTOS II",
+            "semester": "2018.2",
+            "professor": "MARTA SUELY MADRUGA",
+            "horario": "2M123",
+            "local": "CTM 203 (CT)"
+          }
+        ],
+        "prerequisites": [
+          "1702172"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1702176",
+        "name": "INST INDUSTRIAIS E INSTRUMENTAÇÃO II",
+        "category": "Complementar Obrigatória",
+        "semester": 7,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1702176",
+            "turmaid": "01",
+            "nome": " INST INDUSTRIAIS E INSTRUMENTAÇÃO II",
+            "semester": "2018.2",
+            "professor": "GERALDO DANTAS SILVESTRE FILHO",
+            "horario": "36M12",
+            "local": "CTM 202 (CT)"
+          }
+        ],
+        "prerequisites": [
+          "1702169"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1702178",
+        "name": "OPERAÇÕES UNITARIAS I",
+        "category": "Complementar Obrigatória",
+        "semester": 7,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1702178",
+            "turmaid": "01",
+            "nome": " OPERAÇÕES UNITARIAS I",
+            "semester": "2018.2",
+            "professor": "ANOAR ABBAS EL AOUAR",
+            "horario": "46T45",
+            "local": "CTB 105 (CT)"
+          }
+        ],
+        "prerequisites": [
+          "1702169"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1702179",
+        "name": "OPERAÇÕES UNITARIAS II",
+        "category": "Complementar Obrigatória",
+        "semester": 7,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1702179",
+            "turmaid": "01",
+            "nome": " OPERAÇÕES UNITARIAS II",
+            "semester": "2018.2",
+            "professor": "PIERRE CORREA MARTINS",
+            "horario": "35T45",
+            "local": "CTM 202 (CT)"
+          }
+        ],
+        "prerequisites": [
+          "1702168"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1702180",
+        "name": "CONTROLE DE QUALIDADE DE ALIMENTOS",
+        "category": "Complementar Obrigatória",
+        "semester": 7,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1702180",
+            "turmaid": "01",
+            "nome": " CONTROLE DE QUALIDADE DE ALIMENTOS",
+            "semester": "2018.2",
+            "professor": "HELENICE DUARTE DE HOLANDA",
+            "horario": "4M123",
+            "local": "CTE 104 (CT)"
+          }
+        ],
+        "prerequisites": [
+          "1108100",
+          "1702174"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1702181",
+        "name": "PROC DE ALIM DE ORIGEM VEGETAL",
+        "category": "Complementar Obrigatória",
+        "semester": 7,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1702181",
+            "turmaid": "01",
+            "nome": " PROC DE ALIM DE ORIGEM VEGETAL",
+            "semester": "2018.2",
+            "professor": "STELA DE LOURDES RIBEIRO DE MENDONCA e HELENICE DUARTE DE HOLANDA",
+            "horario": "5M2345",
+            "local": "LTA DEA (CT)"
+          }
+        ],
+        "prerequisites": [
+          "1702174",
+          "1702171"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1702182",
+        "name": "PROC DE ALIM DE ORIGEM ANIMAL",
+        "category": "Complementar Obrigatória",
+        "semester": 7,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1702182",
+            "turmaid": "01",
+            "nome": " PROC DE ALIM DE ORIGEM ANIMAL",
+            "semester": "2018.2",
+            "professor": "RICARDO TARGINO MOREIRA",
+            "horario": "2T456 4T6",
+            "local": "CTM 201 (CT)"
+          }
+        ],
+        "prerequisites": [
+          "1702174",
+          "1702170"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1702193",
+        "name": "TECNOL DE LEITE E DERIVADOS",
+        "category": "Optativa",
+        "semester": 8,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1702182"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1702194",
+        "name": "TECNOL DE PESCADO E DERIVADAOS",
+        "category": "Optativa",
+        "semester": 8,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1702194",
+            "turmaid": "01",
+            "nome": " TECNOL DE PESCADO E DERIVADAOS",
+            "semester": "2018.2",
+            "professor": "YURI MONTENEGRO ISHIHARA",
+            "horario": "5T123",
+            "local": "CTB 103 (CT)"
+          }
+        ],
+        "prerequisites": [
+          "1702182"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1702195",
+        "name": "TECNOL DE CARNES E DERIVADOS",
+        "category": "Optativa",
+        "semester": 8,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1702195",
+            "turmaid": "01",
+            "nome": " TECNOL DE CARNES E DERIVADOS",
+            "semester": "2018.2",
+            "professor": "FABIO ANDERSON PEREIRA DA SILVA",
+            "horario": "4T123",
+            "local": "CTE 104 (CT)"
+          }
+        ],
+        "prerequisites": [
+          "1702182"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1702196",
+        "name": "TEC DE CEREAISRAIZES TUBERC E PANIFIC",
+        "category": "Optativa",
+        "semester": 8,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1702196",
+            "turmaid": "01",
+            "nome": " TEC DE CEREAISRAIZES TUBERC E PANIFIC",
+            "semester": "2018.2",
+            "professor": "STELA DE LOURDES RIBEIRO DE MENDONCA",
+            "horario": "3T123",
+            "local": "LTP DEA (CT)"
+          }
+        ],
+        "prerequisites": [
+          "1702181"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1702197",
+        "name": "TECN DA AGUA E RESIDUOS DA INDUSTRIA",
+        "category": "Optativa",
+        "semester": 8,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1702168",
+          "1702175"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1702198",
+        "name": "TECNOL DO AÇUCAR E DO ALCOOL",
+        "category": "Optativa",
+        "semester": 8,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1702181"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1705109",
+        "name": "SEGURANCA INDUSTRIAL",
+        "category": "Optativa",
+        "semester": 8,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+          "1705123"
+        ]
+      },
+      {
+        "id": "1201126",
+        "name": "ECONOMIA I",
+        "category": "Obrigatória",
+        "semester": 8,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1201126",
+            "turmaid": "03",
+            "nome": " ECONOMIA I",
+            "semester": "2018.2",
+            "professor": "IGNACIO TAVARES DE ARAUJO JUNIOR",
+            "horario": "46T45",
+            "local": "CAE 108 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+          "1201180"
+        ]
+      },
+      {
+        "id": "1204115",
+        "name": "ADM DE EMPRESAS",
+        "category": "Obrigatória",
+        "semester": 8,
+        "workload": "75h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1204115",
+            "turmaid": "02",
+            "nome": " ADM DE EMPRESAS",
+            "semester": "2018.2",
+            "professor": "SANDRA LEANDRO PEREIRA",
+            "horario": "24M45 5M1",
+            "local": "CAF 110 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1702184",
+        "name": "ENGENHARIA BIOQUIMICA",
+        "category": "Complementar Obrigatória",
+        "semester": 8,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1702184",
+            "turmaid": "01",
+            "nome": " ENGENHARIA BIOQUIMICA",
+            "semester": "2018.2",
+            "professor": "MARCELO BARBOSA MUNIZ",
+            "horario": "34T23",
+            "local": "MIDIA DEA (CT) / CTM 204 (CT)"
+          }
+        ],
+        "prerequisites": [
+          "1702167",
+          "1702162"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1702185",
+        "name": "REFRIGERAÇÃO NA IND DE ALIMENTOS",
+        "category": "Complementar Obrigatória",
+        "semester": 8,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1702185",
+            "turmaid": "01",
+            "nome": " REFRIGERAÇÃO NA IND DE ALIMENTOS",
+            "semester": "2018.2",
+            "professor": "JOSELMA ARAUJO DE AMORIM",
+            "horario": "35M23",
+            "local": "CTJ 101 (CT)"
+          }
+        ],
+        "prerequisites": [
+          "1702169"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1702186",
+        "name": "EMBALAGEM DE ALIMENTOS",
+        "category": "Complementar Obrigatória",
+        "semester": 8,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1702186",
+            "turmaid": "01",
+            "nome": " EMBALAGEM DE ALIMENTOS",
+            "semester": "2018.2",
+            "professor": "YURI MONTENEGRO ISHIHARA",
+            "horario": "2T123",
+            "local": "CTA 105 (CT)"
+          }
+        ],
+        "prerequisites": [
+          "1701453"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1702187",
+        "name": "ANALISE SENSORIAL",
+        "category": "Complementar Obrigatória",
+        "semester": 8,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1702187",
+            "turmaid": "01",
+            "nome": " ANALISE SENSORIAL",
+            "semester": "2018.2",
+            "professor": "RICARDO TARGINO MOREIRA",
+            "horario": "5T123",
+            "local": "CTE 104 (CT)"
+          }
+        ],
+        "prerequisites": [
+          "1108100",
+          "1702174"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1702199",
+        "name": "LABORAT DE ENG BIOQUIMICA",
+        "category": "Optativa",
+        "semester": 9,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1702199",
+            "turmaid": "01",
+            "nome": " LABORAT DE ENG BIOQUIMICA",
+            "semester": "2018.2",
+            "professor": "MARCELO BARBOSA MUNIZ",
+            "horario": "6T123",
+            "local": "CTB 105 (CT)"
+          }
+        ],
+        "prerequisites": [
+          "1702184"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1702200",
+        "name": "PROJ DE REFRIG NA INDUST DE ALIMENTOS",
+        "category": "Optativa",
+        "semester": 9,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1702185"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1702201",
+        "name": "FUND SEC DE PRODUTOS BIOLOGICOS",
+        "category": "Optativa",
+        "semester": 9,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1702168"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1705177",
+        "name": "PLANEJAMENTO PROJINDALIMENTOS",
+        "category": "Complementar Obrigatória",
+        "semester": 9,
+        "workload": "75h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1705177",
+            "turmaid": "01",
+            "nome": " PLANEJAMENTO PROJINDALIMENTOS",
+            "semester": "2018.2",
+            "professor": "AURELIA ALTEMIRA ACUNA IDROGO",
+            "horario": "2T345 4T45",
+            "local": "BOUNGANVILLE (CT)"
+          }
+        ],
+        "prerequisites": [
+          "1702185",
+          "1702182",
+          "1702181"
+        ],
+        "equivalences": [
+          "1705107"
+        ]
+      },
+      {
+        "id": "1702188",
+        "name": "ESTAGIO SUPERVISIONADO",
+        "category": "Obrigatória",
+        "semester": 10,
+        "workload": "180h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1702188",
+            "turmaid": "02",
+            "nome": " ESTAGIO SUPERVISIONADO",
+            "semester": "2018.2",
+            "professor": "STELA DE LOURDES RIBEIRO DE MENDONCA, MARTA SUELY MADRUGA e MABEL DE BARROS BATISTA",
+            "horario": "5M23 7M12345 6T12345",
+            "local": "CTS 101 (CT)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1702189",
+        "name": "TRABALHO DE CONCLUSÃO DE CURSOTCC",
+        "category": "Complementar Obrigatória",
+        "semester": 10,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1702189",
+            "turmaid": "01",
+            "nome": " TRABALHO DE CONCLUSÃO DE CURSOTCC",
+            "semester": "2018.2",
+            "professor": "STELA DE LOURDES RIBEIRO DE MENDONCA",
+            "horario": "6M45",
+            "local": "CTF 102 (CT)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1704245",
+        "name": " DESENHO BÁSICO",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": "60h",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1704245",
+            "turmaid": "01",
+            "nome": " DESENHO BÁSICO",
+            "semester": "2018.2",
+            "professor": "DIMITRI COSTA CASTOR",
+            "horario": "35M23",
+            "local": "CTE 101 (CT)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1702183",
+        "name": " FUNDAMENTOS DE NUTRIÇÃO",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": "60h",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1702183",
+            "turmaid": "01",
+            "nome": " FUNDAMENTOS DE NUTRIÇÃO",
+            "semester": "2018.2",
+            "professor": "IAN CARNEIRO DA CUNHA NOBREGA",
+            "horario": "35T23",
+            "local": "MIDIA DEA (CT) / CTJ T03 (CT)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1103179",
+        "name": " INTRODUCAO A ALGEBRA LINEAR",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": "60h",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1103179",
+            "turmaid": "02",
+            "nome": " INTRODUCAO A ALGEBRA LINEAR",
+            "semester": "2018.2",
+            "professor": "FERNANDO ANTONIO XAVIER DE SOUZA",
+            "horario": "35M23",
+            "local": "CAB 103 (PRG)"
+          },
+          {
+            "id": "1103179",
+            "turmaid": "07",
+            "nome": " INTRODUCAO A ALGEBRA LINEAR",
+            "semester": "2018.2",
+            "professor": "FERNANDO ANTONIO XAVIER DE SOUZA",
+            "horario": "35T23",
+            "local": "CAB 104 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      }
+    ]
+  }
+}

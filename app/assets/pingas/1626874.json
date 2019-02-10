@@ -1,0 +1,1115 @@
+{
+  "curriculum": {
+    "id": "0302011",
+    "codigo": "1626874",
+    "name": "LETRAS- CCAE - Mamanguape - Presencial - T - LICENCIATURA PLENA",
+    "faculty": "CENTRO DE CIÊNCIAS APLICADAS E EDUCAÇÃO (CCAE) (11.00.59)",
+    "minch": "240",
+    "maxch": "435",
+    "semesters": 8,
+    "courses": [
+      {
+        "id": "8102162",
+        "name": "CURRÍCULO E TRABALHO PEDAGÓGICO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8102162",
+            "turmaid": "01",
+            "nome": " CURRÍCULO E TRABALHO PEDAGÓGICO",
+            "semester": "2018.2",
+            "professor": "FRANCISCA TEREZINHA OLIVEIRA ALVES",
+            "horario": "5T1234",
+            "local": "M.A-107 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8102163",
+        "name": "AVALIACAO DE APRENDIZAGEM",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8102163",
+            "turmaid": "01",
+            "nome": " AVALIACAO DE APRENDIZAGEM",
+            "semester": "2018.2",
+            "professor": "CELIA REGINA TEIXEIRA",
+            "horario": "4T1234",
+            "local": "M.A-104 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8102167",
+        "name": "PESQUISA E COTIDIANO ESCOLAR",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8105003",
+        "name": "INGLES INSTRUMENTAL",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+          "8105014"
+        ]
+      },
+      {
+        "id": "8105070",
+        "name": "SÓCIOLINGUÍSTICA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8105075",
+        "name": "ANÁLISE DO DISCURSO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8105082",
+        "name": "LITERATURA PARAIBANA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8105087",
+        "name": "TÓPICOS ESPECIAIS EM LETRAS I",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8105088",
+        "name": "TÓPICOS ESPECIAIS EM LETRAS II",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDDLT0154",
+        "name": "FILOLOGIA ROMÂNICA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDDLT0156",
+        "name": "TEORIA DA LITERATURA III",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8102100",
+        "name": "FUNDAMANTROFILOSÓFICOS DA EDUCAÇÃO",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8105032",
+        "name": "TEORIAS LINGUÍSTICAS I",
+        "category": "Complementar Obrigatória",
+        "semester": 1,
+        "workload": "75h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8105033",
+        "name": "HISTÓRIA DA LÍNGUA PORTUGUESA",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8105034",
+        "name": "LEITURA E PRODUÇÃO DE TEXTO",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "75h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8105035",
+        "name": "INTRODUÇÃO AOS ESTUDOS CLÁSSICOS",
+        "category": "Complementar Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8105061",
+        "name": "METODOLOGIA DO TRABALHO CIENTÍFICO",
+        "category": "Complementar Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8101373",
+        "name": "FUND FILOSÓFICOS DA LINGUAGEM",
+        "category": "Complementar Obrigatória",
+        "semester": 2,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8101373",
+            "turmaid": "01",
+            "nome": " FUND FILOSÓFICOS DA LINGUAGEM",
+            "semester": "2018.2",
+            "professor": "WESLEY RENNYER MARTINS RABELO PORTO",
+            "horario": "6T345",
+            "local": "M.A-101 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8102106",
+        "name": "FUNDAMSÓCIOHISTÓRICOS DA EDUCAÇÃO",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8102106",
+            "turmaid": "01",
+            "nome": " FUNDAMSÓCIOHISTÓRICOS DA EDUCAÇÃO",
+            "semester": "2018.2",
+            "professor": "PAULO ROBERTO PALHANO SILVA",
+            "horario": "3T1234",
+            "local": "M.A-101 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8102160",
+        "name": "POLITICA E GESTAO DA EDUCACAO",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8102160",
+            "turmaid": "01",
+            "nome": " POLITICA E GESTAO DA EDUCACAO",
+            "semester": "2018.2",
+            "professor": "MARIA DA PENHA CAETANO DE FIGUEIREDO GILL",
+            "horario": "2T1234",
+            "local": "M.A-101 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8105041",
+        "name": "LINGUA LATINA I",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8105041",
+            "turmaid": "01",
+            "nome": " LINGUA LATINA I",
+            "semester": "2018.2",
+            "professor": "ANTONIETA BURITI DE SOUZA HOSOKAWA",
+            "horario": "2T5 4T345",
+            "local": "M.A-101 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8105063",
+        "name": "TEORIAS  LINGUÍSTICAS II",
+        "category": "Complementar Obrigatória",
+        "semester": 2,
+        "workload": "75h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8105063",
+            "turmaid": "01",
+            "nome": " TEORIAS  LINGUÍSTICAS II",
+            "semester": "2018.2",
+            "professor": "PALOMA SABATA LOPES DA SILVA",
+            "horario": "3T5 46T12",
+            "local": "M.A-101 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+          "8105032"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8105066",
+        "name": "TEORIA DA LITERATURA I",
+        "category": "Complementar Obrigatória",
+        "semester": 2,
+        "workload": "75h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8105066",
+            "turmaid": "01",
+            "nome": " TEORIA DA LITERATURA I",
+            "semester": "2018.2",
+            "professor": "RAÍRA COSTA MAIA DE VASCONCELOS",
+            "horario": "5T12345",
+            "local": "M.A-101 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8102107",
+        "name": "FUNDAMENTOS PSICOLÓGICOS DA EDUCAÇÃO",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8102108",
+        "name": "DIDÁTICA",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8105031",
+        "name": "LIBRASLINGUA BRASILEIRA DE SINAIS",
+        "category": "Complementar Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8105064",
+        "name": "LING APLAO ENSDE LINPORTUGUESA",
+        "category": "Complementar Obrigatória",
+        "semester": 3,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "8105063"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8105065",
+        "name": "ENSINO DE LEITURA E LITERATURA",
+        "category": "Complementar Obrigatória",
+        "semester": 3,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "8105066"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8105067",
+        "name": "TEORIA DA LITERATURA II",
+        "category": "Complementar Obrigatória",
+        "semester": 3,
+        "workload": "75h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "8105066"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8105069",
+        "name": "ETNOLINGUÍSTICA",
+        "category": "Optativa",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8105042",
+        "name": "FONÉTICA E FONOLDA LÍNGUA PORTUGUESA",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8105042",
+            "turmaid": "01",
+            "nome": " FONÉTICA E FONOLDA LÍNGUA PORTUGUESA",
+            "semester": "2018.2",
+            "professor": "FERNANDA BARBOZA DE LIMA",
+            "horario": "3T45 5T12",
+            "local": "M.A-104 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+          "8105063"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8105043",
+        "name": "MORFOLOGIA DA LÍNGUA PORTUGUESA",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "75h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8105043",
+            "turmaid": "01",
+            "nome": " MORFOLOGIA DA LÍNGUA PORTUGUESA",
+            "semester": "2018.2",
+            "professor": "ROSEANE BATISTA FEITOSA NICOLAU",
+            "horario": "2T1234 6T5",
+            "local": "M.A-104 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+          "8105063"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8105048",
+        "name": "LITERATURA BRASILEIRA I",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8105048",
+            "turmaid": "01",
+            "nome": " LITERATURA BRASILEIRA I",
+            "semester": "2018.2",
+            "professor": "AMANDA RAMALHO DE FREITAS BRITO",
+            "horario": "2T5 5T345",
+            "local": "M.A-104 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+          "8105067"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8105053",
+        "name": "LITERATURA INFANTO JUVENIL",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8105053",
+            "turmaid": "01",
+            "nome": " LITERATURA INFANTO JUVENIL",
+            "semester": "2018.2",
+            "professor": "LUCIANE ALVES SANTOS",
+            "horario": "3T123",
+            "local": "M.A-104 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+          "8105067"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8105054",
+        "name": "LITERATURA PORTUGUESA I",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8105054",
+            "turmaid": "01",
+            "nome": " LITERATURA PORTUGUESA I",
+            "semester": "2018.2",
+            "professor": "RAÍRA COSTA MAIA DE VASCONCELOS",
+            "horario": "6T1234",
+            "local": "M.A-104 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+          "8105067"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8105044",
+        "name": "SINTAXE DA LINGUA PORTUGUESA",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "75h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "8105063"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8105045",
+        "name": "SEMÂNTICA",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "8105063"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8105049",
+        "name": "LITERATURA BRASILEIRA II",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "8105067"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8105055",
+        "name": "LITERATURA PORTUGUESA II",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "8105067"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8105057",
+        "name": "ESTÁGIO SUPERVISIONADO I",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "90h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8105085",
+        "name": "LITERATURA DRAMÁTICA NO BRASIL",
+        "category": "Optativa",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8105046",
+        "name": "PRAGMÁTICA",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8105046",
+            "turmaid": "01",
+            "nome": " PRAGMÁTICA",
+            "semester": "2018.2",
+            "professor": "ERIVALDO PEREIRA DO NASCIMENTO",
+            "horario": "3T1243",
+            "local": "M.A-107 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+          "8105063"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8105050",
+        "name": "LITERATURA BRASILEIRA  III",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8105050",
+            "turmaid": "01",
+            "nome": " LITERATURA BRASILEIRA  III",
+            "semester": "2018.2",
+            "professor": "RAÍRA COSTA MAIA DE VASCONCELOS",
+            "horario": "4T1234",
+            "local": "M.A-107 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+          "8105067"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8105056",
+        "name": "LITERATURAS DE TRADIÇÃO ORAL",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "75h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8105056",
+            "turmaid": "01",
+            "nome": " LITERATURAS DE TRADIÇÃO ORAL",
+            "semester": "2018.2",
+            "professor": "AMANDA RAMALHO DE FREITAS BRITO",
+            "horario": "6T12345",
+            "local": "M.A-107 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+          "8105067"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8105058",
+        "name": "ESTÁGIO SUPERVISIONADO II",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "90h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8105058",
+            "turmaid": "01",
+            "nome": " ESTÁGIO SUPERVISIONADO II",
+            "semester": "2018.2",
+            "professor": "LUCIANE ALVES SANTOS",
+            "horario": "2T12345 3T5",
+            "local": "M.A-107 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8105047",
+        "name": "LINGUÍSTICA TEXTUAL",
+        "category": "Obrigatória",
+        "semester": 7,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8105047",
+            "turmaid": "01",
+            "nome": " LINGUÍSTICA TEXTUAL",
+            "semester": "2018.2",
+            "professor": "FERNANDA BARBOZA DE LIMA",
+            "horario": "3T12 5T5",
+            "local": "M.A-108 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+          "8105063"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8105051",
+        "name": "LITERATURA BRASILEIRA IV",
+        "category": "Obrigatória",
+        "semester": 7,
+        "workload": "75h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8105051",
+            "turmaid": "01",
+            "nome": " LITERATURA BRASILEIRA IV",
+            "semester": "2018.2",
+            "professor": "AMANDA RAMALHO DE FREITAS BRITO",
+            "horario": "4T12345",
+            "local": "M.A-108 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+          "8105067"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8105052",
+        "name": "LITERATURAS AFR EM LINGPORTUGUESA",
+        "category": "Obrigatória",
+        "semester": 7,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8105052",
+            "turmaid": "01",
+            "nome": " LITERATURAS AFR EM LINGPORTUGUESA",
+            "semester": "2018.2",
+            "professor": "MOAMA LORENA DE LACERDA MARQUES",
+            "horario": "5T1234",
+            "local": "M.A-108 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+          "8105067"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8105059",
+        "name": "ESTÁGIO SUPERVISIONADO III",
+        "category": "Obrigatória",
+        "semester": 7,
+        "workload": "120h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8105059",
+            "turmaid": "01",
+            "nome": " ESTÁGIO SUPERVISIONADO III",
+            "semester": "2018.2",
+            "professor": "LUANA FRANCISLEYDE PESSOA DE FARIAS",
+            "horario": "2T12345 6T123",
+            "local": "M.A-108 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+          "8105057"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8105062",
+        "name": "PESQUISA APLAO ENSDE LINE LITERATURA",
+        "category": "Complementar Obrigatória",
+        "semester": 7,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8105062",
+            "turmaid": "01",
+            "nome": " PESQUISA APLAO ENSDE LINE LITERATURA",
+            "semester": "2018.2",
+            "professor": "FÁBIO PESSOA DA SILVA",
+            "horario": "3T345",
+            "local": "M.A-108 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8105073",
+        "name": "AQUISIÇÃO DA LINGUAGEM",
+        "category": "Optativa",
+        "semester": 8,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8105079",
+        "name": "LITERATURA E ESTUDOS   DE GÊNERO",
+        "category": "Optativa",
+        "semester": 8,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8105060",
+        "name": "ESTÁGIO SUPERVISIONADO IV",
+        "category": "Obrigatória",
+        "semester": 8,
+        "workload": "120h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "8105058"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8105068",
+        "name": "TRABALHO DE CONCLUSÃO DE CURSO",
+        "category": "Complementar Obrigatória",
+        "semester": 8,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8105068",
+            "turmaid": "01",
+            "nome": " TRABALHO DE CONCLUSÃO DE CURSO",
+            "semester": "2018.2",
+            "professor": "FÁBIO PESSOA DA SILVA",
+            "horario": "3M2345",
+            "local": "M.A-101 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+          "8105062"
+        ],
+        "equivalences": [
+
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,2645 @@
+{
+  "curriculum": {
+    "id": "0432007",
+    "codigo": "1626754",
+    "name": "ZOOTECNIA - AREIA - Areia - Presencial - MT - BACHARELADO",
+    "faculty": "CENTRO DE CIÊNCIAS AGRÁRIAS (CCA) (11.00.44)",
+    "minch": "30",
+    "maxch": "540",
+    "semesters": 9,
+    "courses": [
+      {
+        "id": "3102001",
+        "name": "TOPOGRAFIA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "3102045",
+        "name": "TOPOGRAFIA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "3102101",
+        "name": "FONTES DE ENERGIA ALTERNATIVA PARA O NORDESTE",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "3103128",
+        "name": "ALTERNATIVAS AGROINDUSTRIAIS PARA O SEMI ÁRIDO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "3103171",
+        "name": "MANEJO INTEGRADO DE PRAGAS DE PASTAGENS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "3104054",
+        "name": "COOPERATIVISMO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "3104059",
+        "name": "FÍSICA GERAL",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "3104105",
+        "name": "INGLÊS INSTRUMENTAL I",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "3104105",
+            "turmaid": "01",
+            "nome": " INGLÊS INSTRUMENTAL I",
+            "semester": "2018.2",
+            "professor": "SHEILA COSTA DE FARIAS",
+            "horario": "4T45",
+            "local": "BLOCO C - SALA 1 (CCA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "3104106",
+        "name": "LEITURA E PRODUÇÃO TEXTUAL",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "3104106",
+            "turmaid": "01",
+            "nome": " LEITURA E PRODUÇÃO TEXTUAL",
+            "semester": "2018.2",
+            "professor": "MAGNA LUCIA DA SILVA",
+            "horario": "6T123",
+            "local": "BLOCO A - SALA 3 (CCA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "3104107",
+        "name": "PRÁTICA DESPORTIVA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "3104130",
+        "name": "PRÁTICA DESPORTIVA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "3104131",
+        "name": "FILOSOFIA DA CIENCIA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "3104135",
+        "name": "LIBRAS  LÍNGUA BRASILEIRA DE SINAIS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "3104135",
+            "turmaid": "01",
+            "nome": " LIBRAS  LÍNGUA BRASILEIRA DE SINAIS",
+            "semester": "2018.2",
+            "professor": "ROBSON DE LIMA PEIXOTO",
+            "horario": "23T45",
+            "local": "BLOCO C - SALA 3 (CCA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "3104139",
+        "name": "DIDÁTICA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "3104207",
+        "name": "EDUCAÇÃO  DAS RELAÇÕES ÉTNICO RACIAIS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDZOO0104",
+        "name": "FISIOLOGIA E MANEJO DE EQUINOS ATLETAS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDZOO0104",
+            "turmaid": "01",
+            "nome": " FISIOLOGIA E MANEJO DE EQUINOS ATLETAS",
+            "semester": "2018.2",
+            "professor": "MARIA LINDOMARCIA LEONARDO DA COSTA",
+            "horario": "5T345",
+            "local": "BLOCO B - SALA 1 (CCA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDZOO0105",
+        "name": "MELIPONICULTURA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "3103157",
+        "name": "TOPICOS ESPECIAIS EM ZOOTECNIA I",
+        "category": "Complementar Flexiva",
+        "semester": 1,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "3103157",
+            "turmaid": "01",
+            "nome": " TOPICOS ESPECIAIS EM ZOOTECNIA I",
+            "semester": "2018.2",
+            "professor": "ADRIANA EVANGELISTA RODRIGUES",
+            "horario": "2T123",
+            "local": "ZOO 2 - APICULTURA (CCA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "3103001",
+        "name": "INTRODUCAO A ZOOTECNIA",
+        "category": "Complementar Obrigatória",
+        "semester": 1,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "3103001",
+            "turmaid": "01",
+            "nome": " INTRODUCAO A ZOOTECNIA",
+            "semester": "2018.2",
+            "professor": "SEVERINO GONZAGA NETO",
+            "horario": "5T123",
+            "local": "ZOO 1 - BOVINOCULTURA DE LEITE (CCA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "3104094",
+        "name": "BIOFISICA",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "3104094",
+            "turmaid": "01",
+            "nome": " BIOFISICA",
+            "semester": "2018.2",
+            "professor": "JOSE CAETANO DA SILVA FILHO",
+            "horario": "3T123",
+            "local": "BLOCO A - SALA 3 (CCA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "3104095",
+        "name": "MATEMATICA APLICADA A ZOOTECNIA",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "75h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "3104095",
+            "turmaid": "01",
+            "nome": " MATEMATICA APLICADA A ZOOTECNIA",
+            "semester": "2018.2",
+            "professor": "SUELEN DE SOUZA ROCHA",
+            "horario": "5M123 4T34",
+            "local": "BLOCO C - SALA 3 (CCA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "3105062",
+        "name": "ANATOMIA ANIMAL",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "75h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "3105062",
+            "turmaid": "01",
+            "nome": " ANATOMIA ANIMAL",
+            "semester": "2018.2",
+            "professor": "NORMA LUCIA DE SOUZA ARAUJO",
+            "horario": "2M234 4T12",
+            "local": "BLOCO D - SALA 5 (CCA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "3106005",
+        "name": "BIOLOGIA CELULAR",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "3106005",
+            "turmaid": "01",
+            "nome": " BIOLOGIA CELULAR",
+            "semester": "2018.2",
+            "professor": "NUBIA PEREIRA DA COSTA LUNA",
+            "horario": "4M234",
+            "local": "BIO3 (CCA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDCFS0121",
+        "name": "EDUCAÇÃO DAS RELAÇÕES ÉTNICO RACIAIS",
+        "category": "Complementar Obrigatória",
+        "semester": 1,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDCFS0121",
+            "turmaid": "01",
+            "nome": " EDUCAÇÃO DAS RELAÇÕES ÉTNICO RACIAIS",
+            "semester": "2018.2",
+            "professor": "ANA CRISTINA SILVA DAXENBERGER",
+            "horario": "5T345",
+            "local": "BLOCO C - SALA 4 (CCA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDQF0005",
+        "name": "BIOQUIMICA BASICA",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDQF0005",
+            "turmaid": "01",
+            "nome": " BIOQUIMICA BASICA",
+            "semester": "2018.2",
+            "professor": "YANNA CAROLINA FERREIRA TELES",
+            "horario": "3M234",
+            "local": "BLOCO D - SALA 4 (CCA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDQF0042",
+        "name": "TÉCNICAS DE LABORATÓRIOS E QUÍMICA ANALÍTICA",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDQF0042",
+            "turmaid": "01",
+            "nome": " TÉCNICAS DE LABORATÓRIOS E QUÍMICA ANALÍTICA",
+            "semester": "2018.2",
+            "professor": "MARIA BETANIA HERMENEGILDO DOS SANTOS",
+            "horario": "6T234",
+            "local": "BLOCO A -SALA 1 (CCA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "3101095",
+        "name": "BIOLOGIA MOLECULAR",
+        "category": "Optativa",
+        "semester": 2,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "3106005"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "3103124",
+        "name": "CULTIVO DE PEIXES ORNAMENTAIS",
+        "category": "Optativa",
+        "semester": 2,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "3103001"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "3103145",
+        "name": "RANICULTURA",
+        "category": "Optativa",
+        "semester": 2,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "3103145",
+            "turmaid": "01",
+            "nome": " RANICULTURA",
+            "semester": "2018.2",
+            "professor": "MARCELO LUIS RODRIGUES",
+            "horario": "2M34",
+            "local": "ZOO 6 - PSICULTURA (CCA)"
+          }
+        ],
+        "prerequisites": [
+          "3103001"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "3104121",
+        "name": "INGLÊS INSTRUMENTAL II",
+        "category": "Optativa",
+        "semester": 2,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "3104121",
+            "turmaid": "02",
+            "nome": " INGLÊS INSTRUMENTAL II",
+            "semester": "2018.2",
+            "professor": "SHEILA COSTA DE FARIAS",
+            "horario": "5T45",
+            "local": "BLOCO A - SALA 3 (CCA)"
+          }
+        ],
+        "prerequisites": [
+          "3104105"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "3105058",
+        "name": "TOXICOLOGIA E PLANTAS TÓXICAS",
+        "category": "Optativa",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "3104092"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "3106017",
+        "name": "BIOLOGIA MOLECULAR",
+        "category": "Optativa",
+        "semester": 2,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "3101124",
+          "3106005"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "3102046",
+        "name": "ELEMENTOS DE SOLOS",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "3102046",
+            "turmaid": "01",
+            "nome": " ELEMENTOS DE SOLOS",
+            "semester": "2018.2",
+            "professor": "BRUNO DE OLIVEIRA DIAS",
+            "horario": "6M123",
+            "local": "DSER 2 (CCA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "3102054",
+        "name": "METEOROLOGIA E CLIMATOLOGIA",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "3102054",
+            "turmaid": "02",
+            "nome": " METEOROLOGIA E CLIMATOLOGIA",
+            "semester": "2018.2",
+            "professor": "VALERIA PEIXOTO BORGES",
+            "horario": "45M45",
+            "local": "DSER 2 (CCA)"
+          },
+          {
+            "id": "3102054",
+            "turmaid": "03",
+            "nome": " METEOROLOGIA E CLIMATOLOGIA",
+            "semester": "2018.2",
+            "professor": "ROBSON DE SOUSA NASCIMENTO",
+            "horario": "45T23",
+            "local": "DSER 4 (CCA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "3104102",
+        "name": "METODOLOGIA CIENTÍFICA E PESQUISA APLICADA",
+        "category": "Complementar Obrigatória",
+        "semester": 2,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "3104102",
+            "turmaid": "02",
+            "nome": " METODOLOGIA CIENTÍFICA E PESQUISA APLICADA",
+            "semester": "2018.2",
+            "professor": "ANDREIA DE SOUSA GUIMARAES",
+            "horario": "3T234",
+            "local": "BLOCO D - SALA 5 (CCA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "3104104",
+        "name": "BIOQUIMICA APLICADA",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "3104104",
+            "turmaid": "01",
+            "nome": " BIOQUIMICA APLICADA",
+            "semester": "2018.2",
+            "professor": "LARA TOLEDO HENRIQUES",
+            "horario": "3M345",
+            "local": "BLOCO C - SALA 1 (CCA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "3105063",
+        "name": "HISTOLOGIA E EMBRIOLOGIA ANIMAL",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "3105063",
+            "turmaid": "01",
+            "nome": " HISTOLOGIA E EMBRIOLOGIA ANIMAL",
+            "semester": "2018.2",
+            "professor": "ABRAAO RIBEIRO BARBOSA",
+            "horario": "4M23 2T12",
+            "local": "BLOCO B - SALA 3 (CCA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "3106006",
+        "name": "ORGANOGRAFIA VEGETAL",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "3106006",
+            "turmaid": "01",
+            "nome": " ORGANOGRAFIA VEGETAL",
+            "semester": "2018.2",
+            "professor": "LENYNEVES DUARTE ALVINO DE ARAUJO",
+            "horario": "5M23 6M45",
+            "local": "BIO 2 (CCA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "3101061",
+        "name": "PRODUÇÃO E TECNOLOGIA DE SEMENTES FORRAGEIRAS",
+        "category": "Optativa",
+        "semester": 3,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "3106006",
+          "3101131"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "3102074",
+        "name": "FERTILIDADE E CONSERVACAO DE SOLOS",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "3102074",
+            "turmaid": "01",
+            "nome": " FERTILIDADE E CONSERVACAO DE SOLOS",
+            "semester": "2018.2",
+            "professor": "SAULO CABRAL GONDIM",
+            "horario": "6M45 3T45",
+            "local": "BLOCO C - SALA 2 (CCA)"
+          },
+          {
+            "id": "3102074",
+            "turmaid": "02",
+            "nome": " FERTILIDADE E CONSERVACAO DE SOLOS",
+            "semester": "2018.2",
+            "professor": "SAULO CABRAL GONDIM",
+            "horario": "3M12 6M23",
+            "local": "BLOCO D - SALA 1 (CCA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "3103097",
+        "name": "FISIOLOGIA ANIMAL I",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "3103097",
+            "turmaid": "01",
+            "nome": " FISIOLOGIA ANIMAL I",
+            "semester": "2018.2",
+            "professor": "PATRICIA EMILIA NAVES GIVISIEZ",
+            "horario": "35T23",
+            "local": "ZOO 3 - LAB. DE NUTRIÇÃO ANIMAL (CCA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "3104118",
+        "name": "INFORMATICA",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "3104118",
+            "turmaid": "01",
+            "nome": " INFORMATICA",
+            "semester": "2018.2",
+            "professor": "MARCIA VERONICA COSTA MIRANDA",
+            "horario": "3M345",
+            "local": "LACACIA (CCA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "3104119",
+        "name": "ESTATÍSTICA GERAL",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "3104119",
+            "turmaid": "01",
+            "nome": " ESTATÍSTICA GERAL",
+            "semester": "2018.2",
+            "professor": "LAZARO DE SOUTO ARAUJO",
+            "horario": "2M23 5M12",
+            "local": "BLOCO C - SALA 2 (CCA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "3105064",
+        "name": "MICROBIOLOGIA ZOOTECNICA",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "3105064",
+            "turmaid": "01",
+            "nome": " MICROBIOLOGIA ZOOTECNICA",
+            "semester": "2018.2",
+            "professor": "SUZANA APARECIDA COSTA DE ARAUJO",
+            "horario": "4M45 5M34",
+            "local": "BLOCO B - SALA 1 (CCA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "3106007",
+        "name": "FISIOLOGIA VEGETAL",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "3106016",
+            "turmaid": "01",
+            "nome": " FISIOLOGIA VEGETAL",
+            "semester": "2018.2",
+            "professor": "MARIO LUIZ FARIAS CAVALCANTI",
+            "horario": "24T23",
+            "local": "BIO 2 (CCA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+          "3106016"
+        ]
+      },
+      {
+        "id": "3106008",
+        "name": "ZOOLOGIA",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "3106008",
+            "turmaid": "01",
+            "nome": " ZOOLOGIA",
+            "semester": "2018.2",
+            "professor": "YIRINA VALDES VAZQUEZ",
+            "horario": "4M23 5T45",
+            "local": "BIO 1 (CCA) / BIO 2 (CCA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "3102094",
+        "name": "RESÍDUOS AGRÍCOLAS URBANOS E INDUSTRIAIS",
+        "category": "Optativa",
+        "semester": 4,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "3105064",
+          "3103105"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "3103114",
+        "name": "TÉCNICAS DE CRIAÇÃO DE ANIMAIS DE LABORATÓRIO",
+        "category": "Optativa",
+        "semester": 4,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "3106008"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "3103123",
+        "name": "SERICICULTURA",
+        "category": "Optativa",
+        "semester": 4,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "3103137",
+        "name": "SEGURANÇA ALIMENTAR",
+        "category": "Optativa",
+        "semester": 4,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "3103137",
+            "turmaid": "01",
+            "nome": " SEGURANÇA ALIMENTAR",
+            "semester": "2018.2",
+            "professor": "CELSO JOSE BRUNO DE OLIVEIRA",
+            "horario": "2T23",
+            "local": "ZOO 4 - LAB. DE AVALIAÇÃO DE PRODUTOS DE ORIGEM ANIMAL ..."
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "3105011",
+        "name": "IMUNOLOGIA VETERINÁRIA",
+        "category": "Optativa",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "3103066",
+        "name": "NUTRICÃO DE RUMINANTES",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "3103066",
+            "turmaid": "01",
+            "nome": " NUTRICÃO DE RUMINANTES",
+            "semester": "2018.2",
+            "professor": "JULIANA SILVA DE OLIVEIRA",
+            "horario": "3M23 5T23",
+            "local": "BLOCO A - SALA 3 (CCA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "3103104",
+        "name": "FISIOLOGIA ANIMAL II",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "3103104",
+            "turmaid": "01",
+            "nome": " FISIOLOGIA ANIMAL II",
+            "semester": "2018.2",
+            "professor": "PATRICIA EMILIA NAVES GIVISIEZ",
+            "horario": "2M45",
+            "local": "ZOO 1 - BOVINOCULTURA DE LEITE (CCA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "3103119",
+        "name": "BROMATOLOGIA",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "3103119",
+            "turmaid": "01",
+            "nome": " BROMATOLOGIA",
+            "semester": "2018.2",
+            "professor": "ARIOSVALDO NUNES DE MEDEIROS",
+            "horario": "3M45 4M23",
+            "local": "ZOO 3 - LAB. DE NUTRIÇÃO ANIMAL (CCA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "3103120",
+        "name": "NUTRIÇÃO DE NÃO RUMINANTES;",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "3103120",
+            "turmaid": "01",
+            "nome": " NUTRIÇÃO DE NÃO RUMINANTES;",
+            "semester": "2018.2",
+            "professor": "LUDMILA DA PAZ GOMES DA SILVA e MARIA LINDOMARCIA LEONARDO DA COSTA",
+            "horario": "3T45 4T23",
+            "local": "BLOCO A - SALA 2 (CCA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "3103121",
+        "name": "FORRAGICULTURA I",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "3103121",
+            "turmaid": "01",
+            "nome": " FORRAGICULTURA I",
+            "semester": "2018.2",
+            "professor": "ALINE MENDES RIBEIRO",
+            "horario": "24T45",
+            "local": "BLOCO A - SALA 2 (CCA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "3103122",
+        "name": "ESTÁGIO SUPERVISIONADO I",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "3103122",
+            "turmaid": "01",
+            "nome": " ESTÁGIO SUPERVISIONADO I",
+            "semester": "2018.2",
+            "professor": "PATRICIA EMILIA NAVES GIVISIEZ e MARIA LINDOMARCIA LEONARDO DA COSTA",
+            "horario": "7M1234",
+            "local": "BLOCO A - SALA 2 (CCA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "3104039",
+        "name": "ESTATÍSTICA EXPERIMENTAL",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "3104039",
+            "turmaid": "01",
+            "nome": " ESTATÍSTICA EXPERIMENTAL",
+            "semester": "2018.2",
+            "professor": "WALTER ESFRAIN PEREIRA",
+            "horario": "4M45 2T23",
+            "local": "BLOCO D - SALA 3 (CCA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "3105060",
+        "name": "HIGIENE SANIDADE ANIMAL I",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "3105060",
+            "turmaid": "01",
+            "nome": " HIGIENE SANIDADE ANIMAL I",
+            "semester": "2018.2",
+            "professor": "INACIO JOSE CLEMENTINO",
+            "horario": "5M45 6M34",
+            "local": "BLOCO B - SALA 3 (CCA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "3101152",
+        "name": "CONTROLE DE PLANTAS DANINHAS",
+        "category": "Optativa",
+        "semester": 5,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "3103121"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "3103019",
+        "name": "FORRAGICULTURA II",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "3103019",
+            "turmaid": "01",
+            "nome": " FORRAGICULTURA II",
+            "semester": "2018.2",
+            "professor": "EDSON MAURO SANTOS",
+            "horario": "4M34 3T23",
+            "local": "BLOCO A -SALA 1 (CCA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "3103126",
+        "name": "BIOCLIMATOLOGIA ANIMAL",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "3103126",
+            "turmaid": "01",
+            "nome": " BIOCLIMATOLOGIA ANIMAL",
+            "semester": "2018.2",
+            "professor": "EDILSON PAES SARAIVA",
+            "horario": "5M123",
+            "local": "BLOCO A - SALA 3 (CCA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "3103127",
+        "name": "TECNOLOGIA ALIMENTAR",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "3103127",
+            "turmaid": "01",
+            "nome": " TECNOLOGIA ALIMENTAR",
+            "semester": "2018.2",
+            "professor": "CARLA APARECIDA SOARES SARAIVA",
+            "horario": "4T123",
+            "local": "BLOCO A -SALA 1 (CCA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "3104134",
+        "name": "SOCIOLOGIA RURAL",
+        "category": "Complementar Obrigatória",
+        "semester": 5,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "3104134",
+            "turmaid": "01",
+            "nome": " SOCIOLOGIA RURAL",
+            "semester": "2018.2",
+            "professor": "CAUBY DANTAS",
+            "horario": "3M345",
+            "local": "BLOCO D - SALA 1 (CCA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "3105067",
+        "name": "HIGIENE E SANIDADE ANIMAL II",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "3105067",
+            "turmaid": "01",
+            "nome": " HIGIENE E SANIDADE ANIMAL II",
+            "semester": "2018.2",
+            "professor": "ARTUR CEZAR DE CARVALHO FERNANDES",
+            "horario": "5M45 4T45",
+            "local": "BLOCO B - SALA 2 (CCA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "3105068",
+        "name": "REPRODUÇÃO ANIMAL",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "3105068",
+            "turmaid": "01",
+            "nome": " REPRODUÇÃO ANIMAL",
+            "semester": "2018.2",
+            "professor": "MARQUILIANO FARIAS DE MOURA",
+            "horario": "2M23 3M12",
+            "local": "BLOCO A - SALA 2 (CCA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "3106014",
+        "name": "GENÉTICA",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "3106014",
+            "turmaid": "01",
+            "nome": " GENÉTICA",
+            "semester": "2018.2",
+            "professor": "MARCOS ELI BUZANSKAS",
+            "horario": "2M45 4M12",
+            "local": "BLOCO B - SALA 1 (CCA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "3101145",
+        "name": "TÉCNICAS DE CONVIVÊNCIA COM O SEMIÀRIDO",
+        "category": "Optativa",
+        "semester": 6,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "3103126"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "3103130",
+        "name": "TECNOLOGIA DA PRODUÇÃO DE BUBALINOS",
+        "category": "Optativa",
+        "semester": 6,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "3103130",
+            "turmaid": "01",
+            "nome": " TECNOLOGIA DA PRODUÇÃO DE BUBALINOS",
+            "semester": "2018.2",
+            "professor": "CARLA APARECIDA SOARES SARAIVA",
+            "horario": "3M23",
+            "local": "BLOCO A -SALA 1 (CCA)"
+          }
+        ],
+        "prerequisites": [
+          "3103126",
+          "3103066"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "3103136",
+        "name": "CUNICULTURA",
+        "category": "Optativa",
+        "semester": 6,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "3103126",
+          "3103001"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "3103172",
+        "name": "MANEJO DE PASTAGENS NATIVAS",
+        "category": "Optativa",
+        "semester": 6,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "3103019"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "3105045",
+        "name": "EXPLORAÇÃO ZOOTÉCNICA DE ANIMAIS SILVESTRES",
+        "category": "Optativa",
+        "semester": 6,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "3103001",
+          "3103126"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "3105088",
+        "name": "BIOTECNOLOGIA DA REPRODUÇÃO",
+        "category": "Optativa",
+        "semester": 6,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "3105088",
+            "turmaid": "01",
+            "nome": " BIOTECNOLOGIA DA REPRODUÇÃO",
+            "semester": "2018.2",
+            "professor": "LUCIANA DINIZ ROLA",
+            "horario": "2M345",
+            "local": "BLOCO B - SALA 2 (CCA)"
+          }
+        ],
+        "prerequisites": [
+          "3105068"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDZOO0102",
+        "name": "EXPLORAÇÃO ZOOTÉCNICA DE ANIMAIS SILVESTRES",
+        "category": "Optativa",
+        "semester": 6,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDZOO0102",
+            "turmaid": "01",
+            "nome": " EXPLORAÇÃO ZOOTÉCNICA DE ANIMAIS SILVESTRES",
+            "semester": "2018.2",
+            "professor": "LUCIANA DINIZ ROLA",
+            "horario": "6M123",
+            "local": "BLOCO B - SALA 1 (CCA)"
+          }
+        ],
+        "prerequisites": [
+          "3103001",
+          "3103126"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "3101154",
+        "name": "ECOLOGIA GERAL",
+        "category": "Complementar Obrigatória",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "3101154",
+            "turmaid": "01",
+            "nome": " ECOLOGIA GERAL",
+            "semester": "2018.2",
+            "professor": "JOSE DOMINGOS RIBEIRO NETO",
+            "horario": "25M12",
+            "local": "FIT 1 (CCA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "3102083",
+        "name": "INSTALAÇÕES ZOOTÉCNICAS E AMBIÊNCIA",
+        "category": "Complementar Obrigatória",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "3102083",
+            "turmaid": "01",
+            "nome": " INSTALAÇÕES ZOOTÉCNICAS E AMBIÊNCIA",
+            "semester": "2018.2",
+            "professor": "FERNANDA FERNANDES DE MELO",
+            "horario": "25T23",
+            "local": "DSER 7 (CCA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "3102084",
+        "name": "MECÂNICA MÁQUINA E EQUIPAMENTOS ZOOTÉCNICOS",
+        "category": "Complementar Obrigatória",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "3102084",
+            "turmaid": "01",
+            "nome": " MECÂNICA MÁQUINA E EQUIPAMENTOS ZOOTÉCNICOS",
+            "semester": "2018.2",
+            "professor": "MAURICIO JAVIER DE LEON",
+            "horario": "3T12 6T23",
+            "local": "DSER 8 (CCA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "3103131",
+        "name": "ETOLOGIA E BEM ESTAR ANIMAL",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "3103131",
+            "turmaid": "01",
+            "nome": " ETOLOGIA E BEM ESTAR ANIMAL",
+            "semester": "2018.2",
+            "professor": "EDILSON PAES SARAIVA",
+            "horario": "2M345",
+            "local": "BLOCO A - SALA 3 (CCA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "3103132",
+        "name": "TECNOLOGIA E FORMULAÇÃO DE RAÇÕES",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "3103132",
+            "turmaid": "01",
+            "nome": " TECNOLOGIA E FORMULAÇÃO DE RAÇÕES",
+            "semester": "2018.2",
+            "professor": "BRUNA AGY LOUREIRO",
+            "horario": "3M123",
+            "local": "BLOCO B - SALA 3 (CCA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "3103133",
+        "name": "MELHORAMENTO ANIMAL",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "3103133",
+            "turmaid": "01",
+            "nome": " MELHORAMENTO ANIMAL",
+            "semester": "2018.2",
+            "professor": "MARCOS ELI BUZANSKAS",
+            "horario": "25T45",
+            "local": "BLOCO A -SALA 1 (CCA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "3103134",
+        "name": "TECNOLOGIA DA PRODUÇÃO DE OVINOS",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "3103134",
+            "turmaid": "01",
+            "nome": " TECNOLOGIA DA PRODUÇÃO DE OVINOS",
+            "semester": "2018.2",
+            "professor": "MARCOS ELI BUZANSKAS",
+            "horario": "4T123",
+            "local": "BLOCO C - SALA 1 (CCA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "3103135",
+        "name": "ESTAGIO SUPERVISIONADO II",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "75h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "3103135",
+            "turmaid": "01",
+            "nome": " ESTAGIO SUPERVISIONADO II",
+            "semester": "2018.2",
+            "professor": "MARCOS ELI BUZANSKAS",
+            "horario": "7M12345",
+            "local": "BLOCO A - SALA 3 (CCA)"
+          }
+        ],
+        "prerequisites": [
+          "3103122"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "3101161",
+        "name": "AGROECOLOGIA",
+        "category": "Optativa",
+        "semester": 7,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "3101154"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "3101165",
+        "name": "AVALIAÇÃO DE IMPACTOS AMBIENTAIS",
+        "category": "Optativa",
+        "semester": 7,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "3101154"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "3101179",
+        "name": "UNIDADES DE CONSERVAÇÃO",
+        "category": "Optativa",
+        "semester": 7,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "3101154"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "3101181",
+        "name": "GESTÃO DE RECURSOS NATURAIS E AMBIENTAIS",
+        "category": "Optativa",
+        "semester": 7,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "3101154"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "3101185",
+        "name": "UNIDADES  DE  CONSERVAÇÃO",
+        "category": "Optativa",
+        "semester": 7,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "3101154"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "3103144",
+        "name": "PECUÁRIA ORGÂNICA",
+        "category": "Optativa",
+        "semester": 7,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "3103144",
+            "turmaid": "01",
+            "nome": " PECUÁRIA ORGÂNICA",
+            "semester": "2018.2",
+            "professor": "CARLA APARECIDA SOARES SARAIVA",
+            "horario": "5M34",
+            "local": "BLOCO C - SALA 1 (CCA)"
+          }
+        ],
+        "prerequisites": [
+          "3101154",
+          "3103131"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "3104144",
+        "name": "LEGISLAÇÃO AGRÁRIA E AMBIENTAL",
+        "category": "Optativa",
+        "semester": 7,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "3101154"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "3103140",
+        "name": "TECNOLOGIA DA PRODUÇÃO DE BOVINOS DE CORTE",
+        "category": "Obrigatória",
+        "semester": 7,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "3103140",
+            "turmaid": "01",
+            "nome": " TECNOLOGIA DA PRODUÇÃO DE BOVINOS DE CORTE",
+            "semester": "2018.2",
+            "professor": "EDSON MAURO SANTOS",
+            "horario": "35M45",
+            "local": "BLOCO A - SALA 3 (CCA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+          "3103163"
+        ]
+      },
+      {
+        "id": "3103141",
+        "name": "TECNOLOGIA DA PRODUÇÃO DE EQUÍDEOS",
+        "category": "Obrigatória",
+        "semester": 7,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "3103141",
+            "turmaid": "01",
+            "nome": " TECNOLOGIA DA PRODUÇÃO DE EQUÍDEOS",
+            "semester": "2018.2",
+            "professor": "MARIA LINDOMARCIA LEONARDO DA COSTA",
+            "horario": "2T345",
+            "local": "BLOCO B - SALA 3 (CCA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "3103142",
+        "name": "TECNOLOGIA DA PRODUÇÃO DE AVES",
+        "category": "Obrigatória",
+        "semester": 7,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "3103142",
+            "turmaid": "01",
+            "nome": " TECNOLOGIA DA PRODUÇÃO DE AVES",
+            "semester": "2018.2",
+            "professor": "FERNANDO GUILHERME PERAZZO COSTA",
+            "horario": "5M23 4T45",
+            "local": "ZOO 2 - APICULTURA (CCA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "3103143",
+        "name": "TECNOLOGIA DA PRODUÇÃO DE ABELHAS",
+        "category": "Obrigatória",
+        "semester": 7,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "3103143",
+            "turmaid": "01",
+            "nome": " TECNOLOGIA DA PRODUÇÃO DE ABELHAS",
+            "semester": "2018.2",
+            "professor": "ADRIANA EVANGELISTA RODRIGUES",
+            "horario": "4M45 5T23",
+            "local": "ZOO 2 - APICULTURA (CCA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "3104008",
+        "name": "EXTENSÃO RURAL",
+        "category": "Complementar Obrigatória",
+        "semester": 7,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "3104008",
+            "turmaid": "01",
+            "nome": " EXTENSÃO RURAL",
+            "semester": "2018.2",
+            "professor": "ROSIVALDO GOMES DE SA SOBRINHO",
+            "horario": "6M45 5T45",
+            "local": "BLOCO C - SALA 1 (CCA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "3104137",
+        "name": "ECONOMIA DA PRODUÇÃO",
+        "category": "Complementar Obrigatória",
+        "semester": 7,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "3104137",
+            "turmaid": "01",
+            "nome": " ECONOMIA DA PRODUÇÃO",
+            "semester": "2018.2",
+            "professor": "ROSEANE DE QUEIRÓS SANTOS",
+            "horario": "4M23 3T23",
+            "local": "FIT 1 (CCA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "3104138",
+        "name": "POLÍTICA AGRÍCOLA E CRÉDITO RURAL",
+        "category": "Complementar Obrigatória",
+        "semester": 7,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "3104138",
+            "turmaid": "01",
+            "nome": " POLÍTICA AGRÍCOLA E CRÉDITO RURAL",
+            "semester": "2018.2",
+            "professor": "ROSEANE DE QUEIRÓS SANTOS",
+            "horario": "3T45",
+            "local": "BLOCO B - SALA 1 (CCA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDCFS0133",
+        "name": "EMPREENDEDORISMO NA AGROPECUÁRIA",
+        "category": "Optativa",
+        "semester": 8,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "3104137"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "3103094",
+        "name": "TECNOLOGIA DE PRODUTOS DE ORIGEM ANIMAL I",
+        "category": "Complementar Obrigatória",
+        "semester": 8,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "3103094",
+            "turmaid": "01",
+            "nome": " TECNOLOGIA DE PRODUTOS DE ORIGEM ANIMAL I",
+            "semester": "2018.2",
+            "professor": "PAULO SERGIO DE AZEVEDO e CELSO JOSE BRUNO DE OLIVEIRA",
+            "horario": "3M2345",
+            "local": "ZOO 4 - LAB. DE AVALIAÇÃO DE PRODUTOS DE ORIGEM ANIMAL ..."
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "3103149",
+        "name": "TÉCNOLOGIA DE PRODUÇÃO DE SUÍNOS",
+        "category": "Obrigatória",
+        "semester": 8,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "3103149",
+            "turmaid": "01",
+            "nome": " TÉCNOLOGIA DE PRODUÇÃO DE SUÍNOS",
+            "semester": "2018.2",
+            "professor": "LUDMILA DA PAZ GOMES DA SILVA",
+            "horario": "4T45 5T12",
+            "local": "BLOCO B - SALA 1 (CCA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "3103150",
+        "name": "TECNOLOGIA DE PRODUÇÃO DE PEIXES",
+        "category": "Obrigatória",
+        "semester": 8,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "3103150",
+            "turmaid": "01",
+            "nome": " TECNOLOGIA DE PRODUÇÃO DE PEIXES",
+            "semester": "2018.2",
+            "professor": "MARCELO LUIS RODRIGUES",
+            "horario": "24T23",
+            "local": "ZOO 6 - PSICULTURA (CCA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "3103151",
+        "name": "TECNOLOGIA DE PRODUÇÃO DE BOVINOS DE LEITE",
+        "category": "Obrigatória",
+        "semester": 8,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "3103151",
+            "turmaid": "01",
+            "nome": " TECNOLOGIA DE PRODUÇÃO DE BOVINOS DE LEITE",
+            "semester": "2018.2",
+            "professor": "SEVERINO GONZAGA NETO",
+            "horario": "5M12 3T23",
+            "local": "ZOO 1 - BOVINOCULTURA DE LEITE (CCA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "3103152",
+        "name": "TECNOLOGIA DE PRODUÇÃO DE CAPRINOS",
+        "category": "Obrigatória",
+        "semester": 8,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "3103152",
+            "turmaid": "01",
+            "nome": " TECNOLOGIA DE PRODUÇÃO DE CAPRINOS",
+            "semester": "2018.2",
+            "professor": "ARIOSVALDO NUNES DE MEDEIROS",
+            "horario": "4M45 3T45",
+            "local": "ZOO 3 - LAB. DE NUTRIÇÃO ANIMAL (CCA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "3103153",
+        "name": "AVALIAÇÃO E TIPIFICAÇÃO DE CARCAÇA",
+        "category": "Complementar Obrigatória",
+        "semester": 8,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "3103153",
+            "turmaid": "01",
+            "nome": " AVALIAÇÃO E TIPIFICAÇÃO DE CARCAÇA",
+            "semester": "2018.2",
+            "professor": "PAULO SERGIO DE AZEVEDO",
+            "horario": "4M23",
+            "local": "ZOO 4 - LAB. DE AVALIAÇÃO DE PRODUTOS DE ORIGEM ANIMAL ..."
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "3103154",
+        "name": "ESTÁGIO SUPERVISIONADO III",
+        "category": "Obrigatória",
+        "semester": 8,
+        "workload": "105h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "3103154",
+            "turmaid": "01",
+            "nome": " ESTÁGIO SUPERVISIONADO III",
+            "semester": "2018.2",
+            "professor": "LUCIANA DINIZ ROLA",
+            "horario": "7M12345 7T12",
+            "local": "BLOCO B - SALA 1 (CCA)"
+          }
+        ],
+        "prerequisites": [
+          "3103135"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDZOO0100",
+        "name": "ANIMAIS DE GUARDA ESTIMAÇÃO E COMPANHIA",
+        "category": "Complementar Obrigatória",
+        "semester": 8,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDZOO0100",
+            "turmaid": "01",
+            "nome": " ANIMAIS DE GUARDA ESTIMAÇÃO E COMPANHIA",
+            "semester": "2018.2",
+            "professor": "BRUNA AGY LOUREIRO",
+            "horario": "6M123",
+            "local": "BLOCO A - SALA 2 (CCA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "3103077",
+        "name": "AQUICULTURA",
+        "category": "Optativa",
+        "semester": 9,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "3103077",
+            "turmaid": "01",
+            "nome": " AQUICULTURA",
+            "semester": "2018.2",
+            "professor": "MARCELO LUIS RODRIGUES",
+            "horario": "5T123",
+            "local": "ZOO 6 - PSICULTURA (CCA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "3103156",
+        "name": "EXTERIOR E JULGAMENTO DE ANIMAIS",
+        "category": "Optativa",
+        "semester": 9,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "3103156",
+            "turmaid": "01",
+            "nome": " EXTERIOR E JULGAMENTO DE ANIMAIS",
+            "semester": "2018.2",
+            "professor": "JOSE IVANILDO DE VASCONCELOS",
+            "horario": "5M123",
+            "local": "BLOCO A -SALA 1 (CCA)"
+          }
+        ],
+        "prerequisites": [
+          "3103140",
+          "3103141",
+          "3103152"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "3103158",
+        "name": "TOPICOS ESPECIAIS EMZOOTECNIA II",
+        "category": "Complementar Flexiva",
+        "semester": 9,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "3103159",
+        "name": "TOPICOS ESPECIAIS EM ZOOTECNIA III",
+        "category": "Complementar Flexiva",
+        "semester": 9,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "3103160",
+        "name": "TOPICOS ESPECIAIS EM ZOOTECNIA IV",
+        "category": "Complementar Flexiva",
+        "semester": 9,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "3103155",
+        "name": "TRABALHO DE CONCLUSÃO DE CURSO TCC",
+        "category": "Complementar Obrigatória",
+        "semester": 9,
+        "workload": "120h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "3103155",
+            "turmaid": "01",
+            "nome": " TRABALHO DE CONCLUSÃO DE CURSO TCC",
+            "semester": "2018.2",
+            "professor": "ADRIANA EVANGELISTA RODRIGUES",
+            "horario": "7M123456 4T23",
+            "local": "ZOO 2 - APICULTURA (CCA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "3104141",
+        "name": "GESTÃO DO AGRONEGÓCIO",
+        "category": "Complementar Obrigatória",
+        "semester": 9,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "3104141",
+            "turmaid": "01",
+            "nome": " GESTÃO DO AGRONEGÓCIO",
+            "semester": "2018.2",
+            "professor": "EMANUELLE ALICIA SANTOS DE VASCONCELOS",
+            "horario": "3T123",
+            "local": "Lab. de Didática (CCA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "3104142",
+        "name": "PLANEJAMENTO AGROPECUÁRIO E ELABORAÇÃO DE PROJETOS",
+        "category": "Complementar Obrigatória",
+        "semester": 9,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "3104142",
+            "turmaid": "02",
+            "nome": " PLANEJAMENTO AGROPECUÁRIO E ELABORAÇÃO DE PROJETOS",
+            "semester": "2018.2",
+            "professor": "LAÉRCIO DE BARROS SILVA",
+            "horario": "3M45 2T23",
+            "local": "BLOCO D - SALA 5 (CCA) / BLOCO D - SALA 5 (CCA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "3104143",
+        "name": "COMERCIALIZAÇÃO E MARKETING AGROPECUÁRIO",
+        "category": "Complementar Obrigatória",
+        "semester": 9,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "3104143",
+            "turmaid": "01",
+            "nome": " COMERCIALIZAÇÃO E MARKETING AGROPECUÁRIO",
+            "semester": "2018.2",
+            "professor": "EMANUELLE ALICIA SANTOS DE VASCONCELOS",
+            "horario": "4M123",
+            "local": "BLOCO A - SALA 2 (CCA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "3106016",
+        "name": " FISIOLOGIA VEGETAL",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": "60h",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "3106016",
+            "turmaid": "01",
+            "nome": " FISIOLOGIA VEGETAL",
+            "semester": "2018.2",
+            "professor": "MARIO LUIZ FARIAS CAVALCANTI",
+            "horario": "24T23",
+            "local": "BIO 2 (CCA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "3103116",
+        "name": " NUTRIÇÃO DE CÃES E GATOS",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": "45h",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "3103116",
+            "turmaid": "01",
+            "nome": " NUTRIÇÃO DE CÃES E GATOS",
+            "semester": "2018.2",
+            "professor": "BRUNA AGY LOUREIRO",
+            "horario": "5M123",
+            "local": "BLOCO B - SALA 2 (CCA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      }
+    ]
+  }
+}

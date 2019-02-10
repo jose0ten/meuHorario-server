@@ -1,0 +1,1917 @@
+{
+  "curriculum": {
+    "id": "48-012006",
+    "codigo": "1626843",
+    "name": "ARTES VISUAIS - João Pessoa - Presencial - MT - LICENCIATURA PLENA",
+    "faculty": "CENTRO DE COMUNICAÇÃO, TURISMO E ARTES (CCTA) (11.00.66)",
+    "minch": "270",
+    "maxch": "420",
+    "semesters": 8,
+    "courses": [
+      {
+        "id": "1301150",
+        "name": "EDUCACAO SEXUAL",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1301198",
+        "name": "ANTROPOLOGIA DA EDUCACAO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1302128",
+        "name": "INTRODUÇÃO AOS RECURSOS AUDIOVISUAIS EM EDUCAÇÃO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1302507",
+        "name": "EDUCAÇÃO E MOVIMENTOS SOCIAIS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1303153",
+        "name": "ETICA PROFISSIONAL",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1303195",
+        "name": "PLANEJAMENTO E GESTÃO ESCOLAR",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1303196",
+        "name": "CURRICULO E TRABALHO PEDAGOGICO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1303197",
+        "name": "PESQUISA E COTIDIANO ESCOLAR",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1303210",
+        "name": "CURRICULO E TRABALHO PEDAGOGICO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1303398",
+        "name": "EDUCACAO E INCLUSAO SOCIAL",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1401104",
+        "name": "ANTROPOLOGIA CULTURAL",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1401120",
+        "name": "CULTURA BRASILEIRA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1401120",
+            "turmaid": "01",
+            "nome": " CULTURA BRASILEIRA",
+            "semester": "2018.2",
+            "professor": "AINA GUIMARAES AZEVEDO",
+            "horario": "3T1234",
+            "local": "CCTA 107 - BLOCO A (CCTA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1401183",
+        "name": "SOCIOLOGIA DA ARTE CIENCIAS SOCIAIS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1405124",
+        "name": "PSICOLOGIA DA CRIATIVIDADE",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1406153",
+        "name": "FOLKCOMUNICACAO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1406161",
+        "name": "HISTORIA DA FOTOGRAFIA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1406297",
+        "name": "FOTOGRAFIA II",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1411176",
+        "name": "TEATRO DE BONECOS ARTES VISUAIS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1412143",
+        "name": "INTRODUCAO AO CINEMA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1412144",
+        "name": "CRITICA DE ARTE II",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1412144",
+            "turmaid": "02",
+            "nome": " CRITICA DE ARTE II",
+            "semester": "2018.2",
+            "professor": "MARTA PENNER DA CUNHA",
+            "horario": "3T123",
+            "local": "CCTA 227 - BLOCO B- LABORATÓRIO DE DANÇA (CCTA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1412145",
+        "name": "ESTAG SUP EM INSTITUICOES CULTURAIS I",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1412146",
+        "name": "ESTAG SUP EM INSTITUICOES CULTURAIS II",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1412146",
+            "turmaid": "02",
+            "nome": " ESTAG SUP EM INSTITUICOES CULTURAIS II",
+            "semester": "2018.2",
+            "professor": "JOSE AUGUSTO COSTA DE ALMEIDA",
+            "horario": "4T456 4N1",
+            "local": "CCTA 226 -  BLOCO B- LABORATÓRIO DE DANÇA (CCTA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1412147",
+        "name": "HISTORIA DA ESTETICA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1412148",
+        "name": "HISTORIA DO DESIGN",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1412148",
+            "turmaid": "02",
+            "nome": " HISTORIA DO DESIGN",
+            "semester": "2018.2",
+            "professor": "MARTA PENNER DA CUNHA",
+            "horario": "5T123",
+            "local": "CCTA 226 -  BLOCO B- LABORATÓRIO DE DANÇA (CCTA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1412149",
+        "name": "LABORATORIO DE CRIACAO DE TEXTOS I",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1412149",
+            "turmaid": "02",
+            "nome": " LABORATORIO DE CRIACAO DE TEXTOS I",
+            "semester": "2018.2",
+            "professor": "MARCELO FARIAS COUTINHO",
+            "horario": "4T123",
+            "local": "CCTA 227 - BLOCO B- LABORATÓRIO DE DANÇA (CCTA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1412150",
+        "name": "SEM SCURD E MONT DE EV EM A VISUAIS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1412150",
+            "turmaid": "01",
+            "nome": " SEM SCURD E MONT DE EV EM A VISUAIS",
+            "semester": "2018.2",
+            "professor": "JOSE AUGUSTO COSTA DE ALMEIDA",
+            "horario": "4T123",
+            "local": "CCTA 226 -  BLOCO B- LABORATÓRIO DE DANÇA (CCTA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1412151",
+        "name": "SEM DE PESQ EM HISTORIA SOCIAL DA ARTE",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1412153",
+        "name": "TEORIAS DA ARTE NA ERA DA GLOBALIZACAO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1412153",
+            "turmaid": "02",
+            "nome": " TEORIAS DA ARTE NA ERA DA GLOBALIZACAO",
+            "semester": "2018.2",
+            "professor": "ROBSON XAVIER DA COSTA",
+            "horario": "3T123",
+            "local": "CCTA 225 - BLOCO B (CCTA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1412171",
+        "name": "ESCULTURA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "75h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1412175",
+        "name": "TOPICOS EM ESCULTURA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1412175",
+            "turmaid": "02",
+            "nome": " TOPICOS EM ESCULTURA",
+            "semester": "2018.2",
+            "professor": "MARCO AURELIO ALCANTARA DAMACENO",
+            "horario": "3T1234",
+            "local": "CCTA 102 - BLOCO A (CCTA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1412176",
+        "name": "INTROD AO CINEMA DE ANIMAÇÃO ART VIS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1412176",
+            "turmaid": "02",
+            "nome": " INTROD AO CINEMA DE ANIMAÇÃO ART VIS",
+            "semester": "2018.2",
+            "professor": "ALBERTO LUCENA BARBOSA JUNIOR",
+            "horario": "6T456 6N1",
+            "local": "CCTA 235 - BLOCO B - LABORATÓRIO DE ARTES (CCTA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1412179",
+        "name": "TÓPICOS EM CERÂMICA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1412179",
+            "turmaid": "02",
+            "nome": " TÓPICOS EM CERÂMICA",
+            "semester": "2018.2",
+            "professor": "ROSILDA MARIA SA GONCALVES DE MEDEIROS",
+            "horario": "3M2345",
+            "local": "CCTA 203 - BLOCO B - LABORATÓRIO DE ARTES (CCTA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1412180",
+        "name": "TÓPICOS EM DESENHO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1412180",
+            "turmaid": "02",
+            "nome": " TÓPICOS EM DESENHO",
+            "semester": "2018.2",
+            "professor": "MARTA PENNER DA CUNHA",
+            "horario": "6T1234",
+            "local": "CCTA 102 - BLOCO A (CCTA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1412181",
+        "name": "INTRODUÇÃO  A  MUSEOLOGIA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1412182",
+        "name": "POLÍTICA CULTURAL",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1412183",
+        "name": "TÓPICOS EM ESTÉTICA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "3h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1412184",
+        "name": "ARTES DA FIBRA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1412186",
+        "name": "CINEMA I",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "75h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1412187",
+        "name": "PRINCÍPIO DE CONSERV E RESTAURO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDAVI0091",
+        "name": "ARTES DO CORPO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1301200",
+        "name": "FUNDAMENTOS SOCIOHISTÓRICOS DA EDUCAÇÃO",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1412121",
+        "name": "HISTORIA DA ARTE I",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1412122",
+        "name": "HISTORIA DO ENSINO DAS ARTES VISUAIS",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1412123",
+        "name": "DESENHO I",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1412124",
+        "name": "CERAMICA I",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1412125",
+        "name": "FUNDAMENTOS DA LING VISUAL",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDLS0024",
+        "name": "LIBRAS",
+        "category": "Complementar Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1302304",
+        "name": "AVALIACAO DA APRENDIZAGEM",
+        "category": "Optativa",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1302304",
+            "turmaid": "05",
+            "nome": " AVALIACAO DA APRENDIZAGEM",
+            "semester": "2018.2",
+            "professor": "IRANETE DE ARAÚJO MEIRA",
+            "horario": "2N1234",
+            "local": "CAB 102 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1302305",
+        "name": "SEMINÁRIO DE PROBLEMAS  ATUAIS DA EDUCAÇÃO",
+        "category": "Optativa",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1301195",
+        "name": "FUNDAMENTOS  ANTROPOFILOSÓFICO DA EDUCAÇÃO",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1301195",
+            "turmaid": "04",
+            "nome": " FUNDAMENTOS  ANTROPOFILOSÓFICO DA EDUCAÇÃO",
+            "semester": "2018.2",
+            "professor": "JOSE DE ARIMATEA FONTES",
+            "horario": "3M2345",
+            "local": "CE 304 (CE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1412126",
+        "name": "CERAMICA II",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1412126",
+            "turmaid": "03",
+            "nome": " CERAMICA II",
+            "semester": "2018.2",
+            "professor": "ROSILDA MARIA SA GONCALVES DE MEDEIROS",
+            "horario": "2M234",
+            "local": "CCTA 203 - BLOCO B - LABORATÓRIO DE ARTES (CCTA)"
+          },
+          {
+            "id": "1412126",
+            "turmaid": "04",
+            "nome": " CERAMICA II",
+            "semester": "2018.2",
+            "professor": "ROSILDA MARIA SA GONCALVES DE MEDEIROS",
+            "horario": "2T123",
+            "local": "CCTA 203 - BLOCO B - LABORATÓRIO DE ARTES (CCTA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1412132",
+        "name": "HISTORIA DA ARTE II",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1412132",
+            "turmaid": "03",
+            "nome": " HISTORIA DA ARTE II",
+            "semester": "2018.2",
+            "professor": "CARMEN SILVIA MAIA DE PAIVA",
+            "horario": "5T456",
+            "local": "CCTA 227 - BLOCO B- LABORATÓRIO DE DANÇA (CCTA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1412136",
+        "name": "METODOLOGIA DO ENSINO DAS ARTES VISUAIS",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1412136",
+            "turmaid": "02",
+            "nome": " METODOLOGIA DO ENSINO DAS ARTES VISUAIS",
+            "semester": "2018.2",
+            "professor": "ERINALDO ALVES DO NASCIMENTO",
+            "horario": "4T123",
+            "local": "CCTA 225 - BLOCO B (CCTA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1412157",
+        "name": "METODOLOGIA DO TRABALHO CIENTIFICO",
+        "category": "Complementar Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1412157",
+            "turmaid": "01",
+            "nome": " METODOLOGIA DO TRABALHO CIENTIFICO",
+            "semester": "2018.2",
+            "professor": "MARCELO FARIAS COUTINHO",
+            "horario": "6T1234",
+            "local": "CCTA 225 - BLOCO B (CCTA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1412160",
+        "name": "DESENHO II",
+        "category": "Complementar Obrigatória",
+        "semester": 2,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1412160",
+            "turmaid": "02",
+            "nome": " DESENHO II",
+            "semester": "2018.2",
+            "professor": "ALBERTO LUCENA BARBOSA JUNIOR",
+            "horario": "5T123",
+            "local": "CCTA 235 - BLOCO B - LABORATÓRIO DE ARTES (CCTA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1301201",
+        "name": "FUNDAMENTOS PSICOLÓGICOS DA EDUCAÇÃO",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1412130",
+        "name": "GRAVURA I",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1412133",
+        "name": "HISTORIA DA ARTE III",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1412137",
+        "name": "ARTE NO BRASIL I",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1412158",
+        "name": "METODOLOGIA DA PESQUISA EM ARTES VISUAIS",
+        "category": "Complementar Obrigatória",
+        "semester": 3,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1412165",
+        "name": "ENS DAS ARTES E EDUCACAO INCLUSIVA",
+        "category": "Complementar Obrigatória",
+        "semester": 3,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1302105",
+        "name": "DIDÁTICA",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1302105",
+            "turmaid": "05",
+            "nome": " DIDÁTICA",
+            "semester": "2018.2",
+            "professor": "AURENISIA COUTINHO IVO e MARA LEITE SIMOES",
+            "horario": "35T45",
+            "local": "CAB 103 (PRG)"
+          },
+          {
+            "id": "1302105",
+            "turmaid": "08",
+            "nome": " DIDÁTICA",
+            "semester": "2018.2",
+            "professor": "JOSE RAMOS BARBOSA DA SILVA",
+            "horario": "3N1234",
+            "local": "CAB 101 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1303180",
+        "name": "POLITICA E GESTAO DA EDUCACAO",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1303180",
+            "turmaid": "03",
+            "nome": " POLITICA E GESTAO DA EDUCACAO",
+            "semester": "2018.2",
+            "professor": "LUIZ DE SOUSA JUNIOR",
+            "horario": "3N1234",
+            "local": "CAG 105 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+          "1303208"
+        ]
+      },
+      {
+        "id": "1412127",
+        "name": "PINTURA I",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1412127",
+            "turmaid": "03",
+            "nome": " PINTURA I",
+            "semester": "2018.2",
+            "professor": "MARIA HELENA MOUSINHO MAGALHAES PACHECO",
+            "horario": "2M2345",
+            "local": "CCTA 202 - BLOCO B - LABORATÓRIO DE ARTES (CCTA)"
+          },
+          {
+            "id": "1412127",
+            "turmaid": "04",
+            "nome": " PINTURA I",
+            "semester": "2018.2",
+            "professor": "MARIA HELENA MOUSINHO MAGALHAES PACHECO",
+            "horario": "2T1234",
+            "local": "CCTA 202 - BLOCO B - LABORATÓRIO DE ARTES (CCTA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1412131",
+        "name": "GRAVURA II",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1412131",
+            "turmaid": "02",
+            "nome": " GRAVURA II",
+            "semester": "2018.2",
+            "professor": "ALEXANDRE JOSE BARBOSA DA CAMARA",
+            "horario": "3T123",
+            "local": "CCTA 201 - BLOCO B - LABORATÓRIO DE ARTES (CCTA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1412134",
+        "name": "HISTORIA DA ARTE IV",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1412134",
+            "turmaid": "03",
+            "nome": " HISTORIA DA ARTE IV",
+            "semester": "2018.2",
+            "professor": "GABRIEL BECHARA FILHO",
+            "horario": "6T123",
+            "local": "CCTA 227 - BLOCO B- LABORATÓRIO DE DANÇA (CCTA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1412138",
+        "name": "ARTE NO BRASIL II",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1412138",
+            "turmaid": "01",
+            "nome": " ARTE NO BRASIL II",
+            "semester": "2018.2",
+            "professor": "CARMEN SILVIA MAIA DE PAIVA",
+            "horario": "5T123",
+            "local": "CCTA 227 - BLOCO B- LABORATÓRIO DE DANÇA (CCTA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1412156",
+        "name": "LEITURA DE IMAGENS",
+        "category": "Complementar Obrigatória",
+        "semester": 4,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1412156",
+            "turmaid": "01",
+            "nome": " LEITURA DE IMAGENS",
+            "semester": "2018.2",
+            "professor": "ROBSON XAVIER DA COSTA",
+            "horario": "6T456",
+            "local": "CCTA 226 -  BLOCO B- LABORATÓRIO DE DANÇA (CCTA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1412128",
+        "name": "PINTURA II",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1412129",
+        "name": "CRITICA DE ARTE I",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1412135",
+        "name": "HISTORIA DA ARTE V",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1412139",
+        "name": "ESTAGIO SUPERVISIONADO I ARTES VISUAIS",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "90h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1412154",
+        "name": "ANAL DAS LING ART CONTEMPORANEAS I",
+        "category": "Complementar Obrigatória",
+        "semester": 5,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1412162",
+        "name": "INTRODUCAO AO CINEMA",
+        "category": "Complementar Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1412164",
+        "name": "ENS DAS A VISUAIS EM INST CULT E SOCIAIS",
+        "category": "Complementar Obrigatória",
+        "semester": 5,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1406332",
+        "name": "FOTOGRAFIA I",
+        "category": "Complementar Obrigatória",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1412140",
+        "name": "ESTAGIO SUPERVISIONADO IIARTES VISUAIS",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "105h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1412140",
+            "turmaid": "01",
+            "nome": " ESTAGIO SUPERVISIONADO IIARTES VISUAIS",
+            "semester": "2018.2",
+            "professor": "ERINALDO ALVES DO NASCIMENTO",
+            "horario": "4T456 5T123 4N1",
+            "local": "CCTA 201 - BLOCO B - LABORATÓRIO DE ARTES (CCTA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1412155",
+        "name": "ANAL DAS LING ART CONTEMPORANEAS II",
+        "category": "Complementar Obrigatória",
+        "semester": 6,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1412155",
+            "turmaid": "02",
+            "nome": " ANAL DAS LING ART CONTEMPORANEAS II",
+            "semester": "2018.2",
+            "professor": "JOSE AUGUSTO COSTA DE ALMEIDA",
+            "horario": "6T123",
+            "local": "CCTA 226 -  BLOCO B- LABORATÓRIO DE DANÇA (CCTA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1412163",
+        "name": "ENS DAS ARTES VISUAIS E N TECNOLOGIAS",
+        "category": "Complementar Obrigatória",
+        "semester": 6,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1412163",
+            "turmaid": "02",
+            "nome": " ENS DAS ARTES VISUAIS E N TECNOLOGIAS",
+            "semester": "2018.2",
+            "professor": "JOAO VICENTE DOS SANTOS ADARIO",
+            "horario": "5T456",
+            "local": "CCTA 243 -BLOCO B-  LABORATÓRIO DE INFORMÁTICA (CCTA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1412177",
+        "name": "TÓPICOS ESPECIAIS EM ARTES VISUAIS I",
+        "category": "Complementar Flexiva",
+        "semester": 7,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1412177",
+            "turmaid": "02",
+            "nome": " TÓPICOS ESPECIAIS EM ARTES VISUAIS I",
+            "semester": "2018.2",
+            "professor": "MARCO AURELIO ALCANTARA DAMACENO",
+            "horario": "2T123",
+            "local": "CCTA 225 - BLOCO B (CCTA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1412178",
+        "name": "TÓPICOS ESPECIAIS EM ARTES VISUAIS II",
+        "category": "Complementar Flexiva",
+        "semester": 7,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1412178",
+            "turmaid": "02",
+            "nome": " TÓPICOS ESPECIAIS EM ARTES VISUAIS II",
+            "semester": "2018.2",
+            "professor": "ERINALDO ALVES DO NASCIMENTO",
+            "horario": "5M345",
+            "local": "CCTA 201 - BLOCO B - LABORATÓRIO DE ARTES (CCTA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1412141",
+        "name": "ESTAGIO SUPERVISIONADO III ART VISUAIS",
+        "category": "Obrigatória",
+        "semester": 7,
+        "workload": "105h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1412159",
+        "name": "TOPICOS EM ARTES VISUAIS E TECNOLOGIAS",
+        "category": "Complementar Obrigatória",
+        "semester": 7,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1412167",
+        "name": "T C C I  ARTES VISUAISLIC",
+        "category": "Complementar Obrigatória",
+        "semester": 7,
+        "workload": "30h aula 0h lab.",
+        "type": "TRABALHO DE CONCLUSÃO DE CURSO",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1412169",
+        "name": "PROJETO ARTISTICO I",
+        "category": "Complementar Obrigatória",
+        "semester": 7,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1412152",
+        "name": "SEMINARIO SOBRE ARTE E MERCADO",
+        "category": "Optativa",
+        "semester": 8,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1412152",
+            "turmaid": "01",
+            "nome": " SEMINARIO SOBRE ARTE E MERCADO",
+            "semester": "2018.2",
+            "professor": "GABRIEL BECHARA FILHO",
+            "horario": "6T456",
+            "local": "CCTA 227 - BLOCO B- LABORATÓRIO DE DANÇA (CCTA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1412142",
+        "name": "ESTAGIO SUPERVISIONADO IVARTES VISUAIS",
+        "category": "Obrigatória",
+        "semester": 8,
+        "workload": "105h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1412142",
+            "turmaid": "02",
+            "nome": " ESTAGIO SUPERVISIONADO IVARTES VISUAIS",
+            "semester": "2018.2",
+            "professor": "JOAO VICENTE DOS SANTOS ADARIO",
+            "horario": "2T1234 4T56 4N1",
+            "local": "CCTA 243 -BLOCO B-  LABORATÓRIO DE INFORMÁTICA (CCTA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1412161",
+        "name": "PROG VISUAL E AS VIS NO ENS DAS A VISU",
+        "category": "Complementar Obrigatória",
+        "semester": 8,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1412161",
+            "turmaid": "01",
+            "nome": " PROG VISUAL E AS VIS NO ENS DAS A VISU",
+            "semester": "2018.2",
+            "professor": "JOAO VICENTE DOS SANTOS ADARIO",
+            "horario": "4T34",
+            "local": "CCTA 243 -BLOCO B-  LABORATÓRIO DE INFORMÁTICA (CCTA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1412168",
+        "name": "T C C II  ARTES VISUAISLIC",
+        "category": "Complementar Obrigatória",
+        "semester": 8,
+        "workload": "30h aula 0h lab.",
+        "type": "TRABALHO DE CONCLUSÃO DE CURSO",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1412170",
+        "name": "PROJETO ARTISTICO II",
+        "category": "Complementar Obrigatória",
+        "semester": 8,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1412170",
+            "turmaid": "02",
+            "nome": " PROJETO ARTISTICO II",
+            "semester": "2018.2",
+            "professor": "MARIA HELENA MOUSINHO MAGALHAES PACHECO",
+            "horario": "5T123",
+            "local": "CCTA 202 - BLOCO B - LABORATÓRIO DE ARTES (CCTA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1412185",
+        "name": " ARTES NA PARAÌBA E NO NORDESTE",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": "45h",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1412185",
+            "turmaid": "02",
+            "nome": " ARTES NA PARAÌBA E NO NORDESTE",
+            "semester": "2018.2",
+            "professor": "GABRIEL BECHARA FILHO",
+            "horario": "2T123",
+            "local": "CCTA 227 - BLOCO B- LABORATÓRIO DE DANÇA (CCTA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "2303003",
+        "name": " FOTOGRAFIA E ILUMINAÇÃO",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": "60h",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "2303003",
+            "turmaid": "01",
+            "nome": " FOTOGRAFIA E ILUMINAÇÃO",
+            "semester": "2018.2",
+            "professor": "ISABELLA CHIANCA BESSA RIBEIRO DO VALLE",
+            "horario": "2T2345",
+            "local": "CCTA 244 - BLOCO B - LABORATÓRIO DE FOTOGRAFIA (CCTA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1408142",
+        "name": " SEMINARIO PESQ HIST SOCIAL DA ARTE",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": "60h",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1408142",
+            "turmaid": "01",
+            "nome": " SEMINARIO PESQ HIST SOCIAL DA ARTE",
+            "semester": "2018.2",
+            "professor": "MARCELO FARIAS COUTINHO",
+            "horario": "5T1234",
+            "local": "CCTA 222 - BLOCO B (CCTA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      }
+    ]
+  }
+}

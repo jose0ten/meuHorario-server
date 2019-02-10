@@ -1,0 +1,1445 @@
+{
+  "curriculum": {
+    "id": "232013",
+    "codigo": "1626868",
+    "name": "ESTATÍSTICA - João Pessoa - Presencial - MT - BACHARELADO",
+    "faculty": "CENTRO DE CIÊNCIAS EXATAS E DA NATUREZA (CCEN) (11.00.41)",
+    "minch": "180",
+    "maxch": "480",
+    "semesters": 8,
+    "courses": [
+      {
+        "id": "1103128",
+        "name": "FUNCOES DE UMA VARIAVEL COMPLEXA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1103232"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1103153",
+        "name": "MATEMATICA ELEMENTAR  I",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1108128",
+        "name": "ANALISE DE DADOS CATEGORIZADOS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1108205"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1108135",
+        "name": "BIOMETRIA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1108135",
+            "turmaid": "03",
+            "nome": " BIOMETRIA",
+            "semester": "2018.2",
+            "professor": "EVERLANE SUANE DE ARAÚJO DA SILVA",
+            "horario": "24M45",
+            "local": "CAE 106 (PRG)"
+          }
+        ],
+        "prerequisites": [
+          "1108149"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1108141",
+        "name": "DEMOGRAFIA II",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1108141",
+            "turmaid": "01",
+            "nome": " DEMOGRAFIA II",
+            "semester": "2018.2",
+            "professor": "EVERLANE SUANE DE ARAÚJO DA SILVA",
+            "horario": "24T23",
+            "local": "DE 19 (CCEN)"
+          }
+        ],
+        "prerequisites": [
+          "1108140"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1108142",
+        "name": "ESTAT APLIC AO PROC DIGITAL DE IMAGEM",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1108149"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1108146",
+        "name": "GEOESTATISTICA E ESTATISTICA ESPACIAL",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1108146",
+            "turmaid": "01",
+            "nome": " GEOESTATISTICA E ESTATISTICA ESPACIAL",
+            "semester": "2018.2",
+            "professor": "RONEI MARCOS DE MORAES",
+            "horario": "24T45",
+            "local": "LAB JL (CCEN)"
+          }
+        ],
+        "prerequisites": [
+          "1108149"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1108150",
+        "name": "INTRODUCAO A TEORIA DE GRAFOS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1108157"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1108153",
+        "name": "INTRODUCAO A INFERENCIA BAYESIANA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1108156",
+        "name": "PESQUISA DE MERCADO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1108149"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1108157",
+        "name": "PESQUISA OPERACIONAL",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1108157",
+            "turmaid": "01",
+            "nome": " PESQUISA OPERACIONAL",
+            "semester": "2018.2",
+            "professor": "ANA FLAVIA UZEDA DOS SANTOS MACAMBIRA",
+            "horario": "35T23",
+            "local": "DE 19 (CCEN)"
+          }
+        ],
+        "prerequisites": [
+          "1103179"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1108159",
+        "name": "PLANEJAMENTO DE EXPERIMENTOS II",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1108158"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1108162",
+        "name": "PROGRAMACAO MATEMATICA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1108157"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1108195",
+        "name": "TÓPICOS ESPECIAIS EM ESTATÍSTICA I",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1108199",
+        "name": "TÓPICOS ESPECIAIS EM ESTATÍSTICA II",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1108200",
+        "name": "TÓPICOS ESPECIAIS EM ESTATÍSTICA III",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1108201",
+        "name": "TÓPICOS ESPECIAIS EM ESTATÍSTICA IV",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1108209",
+        "name": "PROCESSOS ESTOCÁSTICOS II",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1108208"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1108211",
+        "name": "INTRODUÇÃO A INFERENCIA BAYESIANA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1108149"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1108212",
+        "name": "ANÁLESTATÍSDE DADOS ECOLÓGICOS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1108207"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1108213",
+        "name": "INTRODUÇÃO A GESTÃO DE PRJETOS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1108214",
+        "name": "SIMULAÇÃO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1108143"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1108215",
+        "name": "ENSAIOS BIOLÓGICOS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1108205"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1108350",
+        "name": "INTRODUÇÃO À CONSULTORIA ESTATÍSTICA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1108351",
+        "name": "ECONOMETRIA I",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1108351",
+            "turmaid": "01",
+            "nome": " ECONOMETRIA I",
+            "semester": "2018.2",
+            "professor": "TARCIANA LIBERAL PEREIRA DE ARAUJO",
+            "horario": "35T45",
+            "local": "LAB JL (CCEN)"
+          }
+        ],
+        "prerequisites": [
+          "1108204"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1108352",
+        "name": "ECONOMETRIA II",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1108351"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1403747",
+        "name": "LIBRAS  LÍNGUA BRASILEIRA DE SINAIS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDLS0024",
+        "name": "LIBRAS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDLS0024",
+            "turmaid": "11",
+            "nome": " LIBRAS",
+            "semester": "2018.2",
+            "professor": "CAROLINA SILVA RESENDE DA NÓBREGA",
+            "horario": "5T2345",
+            "local": "CAD 106 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1103118",
+        "name": "CÁLCULO VETORIAL E GEOMETRIA ANALÍTICA",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1103118",
+            "turmaid": "01",
+            "nome": " CÁLCULO VETORIAL E GEOMETRIA ANALÍTICA",
+            "semester": "2018.2",
+            "professor": "PEDRO ANTONIO GOMEZ VENEGAS",
+            "horario": "35M23",
+            "local": "CAA 102 (PRG)"
+          },
+          {
+            "id": "1103118",
+            "turmaid": "08",
+            "nome": " CÁLCULO VETORIAL E GEOMETRIA ANALÍTICA",
+            "semester": "2018.2",
+            "professor": "SHIRLEY MARIA SANTOS E SOUZA",
+            "horario": "35T23",
+            "local": "CAA 102 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1103177",
+        "name": "CÁLCULO DIFERENCIAL E INTEGRAL I",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1103177",
+            "turmaid": "01",
+            "nome": " CÁLCULO DIFERENCIAL E INTEGRAL I",
+            "semester": "2018.2",
+            "professor": "RICARDO BURITY CROCCIA MACEDO",
+            "horario": "24M23",
+            "local": "CAA 102 (PRG)"
+          },
+          {
+            "id": "1103177",
+            "turmaid": "10",
+            "nome": " CÁLCULO DIFERENCIAL E INTEGRAL I",
+            "semester": "2018.2",
+            "professor": "GABRIELA ALBUQUERQUE WANDERLEY",
+            "horario": "24T45",
+            "local": "CAA 103 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1108189",
+        "name": "METODOLOGIA DO TRABALHO CIENTIFICO",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1108190",
+        "name": "ANÁLISE EXPLORATÓRIA DE DADOS",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1108191",
+        "name": "PROBABILIDADE I",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1108198",
+        "name": "FUNDAMENTOS EM BANCOS DE DADOS ESTAT",
+        "category": "Optativa",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1103178",
+        "name": "CALCULO DIFERENCIAL E INTEGRAL II",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1103178",
+            "turmaid": "01",
+            "nome": " CALCULO DIFERENCIAL E INTEGRAL II",
+            "semester": "2018.2",
+            "professor": "MARIVALDO PEREIRA MATOS",
+            "horario": "24M23",
+            "local": "CAB 104 (PRG)"
+          },
+          {
+            "id": "1103178",
+            "turmaid": "04",
+            "nome": " CALCULO DIFERENCIAL E INTEGRAL II",
+            "semester": "2018.2",
+            "professor": "JOSE GOMES DE ASSIS",
+            "horario": "24M23",
+            "local": "CAD 110 (PRG)"
+          }
+        ],
+        "prerequisites": [
+          "1103177",
+          "1103118"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1103179",
+        "name": "INTRODUCAO A ALGEBRA LINEAR",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1103179",
+            "turmaid": "01",
+            "nome": " INTRODUCAO A ALGEBRA LINEAR",
+            "semester": "2018.2",
+            "professor": "JOAO BOSCO BATISTA LACERDA",
+            "horario": "35M23",
+            "local": "CAB 106 (PRG)"
+          }
+        ],
+        "prerequisites": [
+          "1103118"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1108192",
+        "name": "PESQUISA APLICADA À ESTATÍSTICA",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1108192",
+            "turmaid": "01",
+            "nome": " PESQUISA APLICADA À ESTATÍSTICA",
+            "semester": "2018.2",
+            "professor": "GILMARA ALVES CAVALCANTI",
+            "horario": "24M45",
+            "local": "LAB RB (CCEN)"
+          }
+        ],
+        "prerequisites": [
+          "1108190"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1108193",
+        "name": "PROBABILIDADE II",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1108193",
+            "turmaid": "01",
+            "nome": " PROBABILIDADE II",
+            "semester": "2018.2",
+            "professor": "RODRIGO BERNARDO DA SILVA",
+            "horario": "35M45",
+            "local": "DE 19 (CCEN)"
+          }
+        ],
+        "prerequisites": [
+          "1108191",
+          "1103177"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1108194",
+        "name": "PROGRAMAÇÃO APLICADA À ESTATÍSTICA",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1108194",
+            "turmaid": "01",
+            "nome": " PROGRAMAÇÃO APLICADA À ESTATÍSTICA",
+            "semester": "2018.2",
+            "professor": "PEDRO RAFAEL DINIZ MARINHO",
+            "horario": "6M2345",
+            "local": "LAB RB (CCEN)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1108165",
+        "name": "TEORIA DAS MATRIZES E APLICACOES",
+        "category": "Optativa",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1103178",
+          "1103179"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1108196",
+        "name": "INTRODUÇÃO AOS SOFTWARES ESTATÍSTICOS",
+        "category": "Optativa",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1108192"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1103180",
+        "name": "SERIES E EQUACOES DIF ORDINARIAS",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1103180",
+            "turmaid": "01",
+            "nome": " SERIES E EQUACOES DIF ORDINARIAS",
+            "semester": "2018.2",
+            "professor": "CARLOS BOCKER NETO",
+            "horario": "35M23",
+            "local": "CAF 111 (PRG)"
+          }
+        ],
+        "prerequisites": [
+          "1103178",
+          "1103179"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1103232",
+        "name": "CALCULO DIF  E INTEGRAL III",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1103232",
+            "turmaid": "02",
+            "nome": " CALCULO DIF  E INTEGRAL III",
+            "semester": "2018.2",
+            "professor": "PEDRO ANTONIO HINOJOSA VERA",
+            "horario": "24M23",
+            "local": "CAF 110 (PRG)"
+          }
+        ],
+        "prerequisites": [
+          "1103178"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1108140",
+        "name": "DEMOGRAFIA I",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1108190"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1108148",
+        "name": "INFERENCIA ESTATISTICA I",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1103177",
+          "1108193"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1108197",
+        "name": "PROBABILIDADE III",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1108193",
+          "1103178"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1103142",
+        "name": "INTRODUCAO ANALISE REAL",
+        "category": "Optativa",
+        "semester": 4,
+        "workload": "90h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1103153",
+          "1103180"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1108149",
+        "name": "INFERENCIA ESTATISTICA II",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1108149",
+            "turmaid": "01",
+            "nome": " INFERENCIA ESTATISTICA II",
+            "semester": "2018.2",
+            "professor": "TATIENE CORREIA DE SOUZA",
+            "horario": "35M23",
+            "local": "ESTAT RB (CCEN)"
+          }
+        ],
+        "prerequisites": [
+          "1108148",
+          "1108197"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1108202",
+        "name": "AMOSTRAGEM I",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1108202",
+            "turmaid": "01",
+            "nome": " AMOSTRAGEM I",
+            "semester": "2018.2",
+            "professor": "HEMILIO FERNANDES CAMPOS COELHO",
+            "horario": "24M45",
+            "local": "LAB JL (CCEN)"
+          }
+        ],
+        "prerequisites": [
+          "1108148"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1108203",
+        "name": "PROBABILIDADE IV",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1108203",
+            "turmaid": "01",
+            "nome": " PROBABILIDADE IV",
+            "semester": "2018.2",
+            "professor": "CLAUDIO JAVIER TABLADA",
+            "horario": "24M23",
+            "local": "DE 19 (CCEN)"
+          }
+        ],
+        "prerequisites": [
+          "1103180",
+          "1103232",
+          "1108197"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDCOC0072",
+        "name": "CALCULO NUMERICO",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDCOC0072",
+            "turmaid": "03",
+            "nome": " CALCULO NUMERICO",
+            "semester": "2018.2",
+            "professor": "APARECIDO JESUINO DE SOUZA",
+            "horario": "35M45",
+            "local": "CAA 105 (PRG)"
+          }
+        ],
+        "prerequisites": [
+          "1103180",
+          "1108194",
+          "1107136"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1108139",
+        "name": "CONTROLE ESTATISTICO DE QUALIDADE",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1108149"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1108143",
+        "name": "ESTATISTICA COMPUTACIONAL",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1108149",
+          "1103176"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1108204",
+        "name": "REGRESSÃO I",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1108149"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1108206",
+        "name": "ANÁLISE MULTIVARIADA I",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1108149"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1108208",
+        "name": "PROCESSOS ESTOCÁSTICOS I",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1108203"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1108130",
+        "name": "ANALISE DE SOBREVIVENCIA",
+        "category": "Optativa",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1108149",
+          "1108204"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1108216",
+        "name": "AMOSTRAGEM II",
+        "category": "Optativa",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1108216",
+            "turmaid": "01",
+            "nome": " AMOSTRAGEM II",
+            "semester": "2018.2",
+            "professor": "HEMILIO FERNANDES CAMPOS COELHO",
+            "horario": "24T45",
+            "local": "LAB RB (CCEN)"
+          }
+        ],
+        "prerequisites": [
+          "1108202",
+          "1108204"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1108217",
+        "name": "INTRODUÇAÕ A ANÁL DE DADOS LONGITUDINAI",
+        "category": "Optativa",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1108202",
+          "1108204"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1108145",
+        "name": "ESTATISTICA NAOPARAMETRICA",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1108145",
+            "turmaid": "01",
+            "nome": " ESTATISTICA NAOPARAMETRICA",
+            "semester": "2018.2",
+            "professor": "ANA HERMINIA ANDRADE E SILVA",
+            "horario": "35M45",
+            "local": "LAB JL (CCEN)"
+          }
+        ],
+        "prerequisites": [
+          "1108149"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1108158",
+        "name": "PLANEJAMENTO DE EXPERIMENTOS I",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1108158",
+            "turmaid": "02",
+            "nome": " PLANEJAMENTO DE EXPERIMENTOS I",
+            "semester": "2018.2",
+            "professor": "JOAO AGNALDO DO NASCIMENTO",
+            "horario": "24M23",
+            "local": "LAB JL (CCEN)"
+          }
+        ],
+        "prerequisites": [
+          "1108204"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1108163",
+        "name": "SERIES TEMPORAIS",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1108163",
+            "turmaid": "01",
+            "nome": " SERIES TEMPORAIS",
+            "semester": "2018.2",
+            "professor": "RODRIGO BERNARDO DA SILVA",
+            "horario": "35T23",
+            "local": "LAB JL (CCEN)"
+          }
+        ],
+        "prerequisites": [
+          "1108149"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1108205",
+        "name": "REGRESSÃO II",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1108205",
+            "turmaid": "01",
+            "nome": " REGRESSÃO II",
+            "semester": "2018.2",
+            "professor": "EUFRASIO DE ANDRADE LIMA NETO",
+            "horario": "35M23",
+            "local": "LAB JL (CCEN)"
+          }
+        ],
+        "prerequisites": [
+          "1108204"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1108207",
+        "name": "ANÁLISE MULTIVARIADA II",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1108207",
+            "turmaid": "03",
+            "nome": " ANÁLISE MULTIVARIADA II",
+            "semester": "2018.2",
+            "professor": "MARCELO RODRIGO PORTELA FERREIRA",
+            "horario": "24T23",
+            "local": "LAB RB (CCEN)"
+          }
+        ],
+        "prerequisites": [
+          "1108206"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1108353",
+        "name": "ESTÁGIO SUPERVISIONADO I",
+        "category": "Complementar Obrigatória",
+        "semester": 7,
+        "workload": "180h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1108353",
+            "turmaid": "01",
+            "nome": " ESTÁGIO SUPERVISIONADO I",
+            "semester": "2018.2",
+            "professor": "A DEFINIR",
+            "horario": "234567M1 234567T1",
+            "local": "SEM SALA1 (CCEN)"
+          }
+        ],
+        "prerequisites": [
+          "1108148"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1108354",
+        "name": "ESTÁGIO SUPERVISIONADO II",
+        "category": "Complementar Obrigatória",
+        "semester": 7,
+        "workload": "180h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1108354",
+            "turmaid": "01",
+            "nome": " ESTÁGIO SUPERVISIONADO II",
+            "semester": "2018.2",
+            "professor": "A DEFINIR",
+            "horario": "234567M1 234567T1",
+            "local": "SEM SALA4 (CCEN)"
+          }
+        ],
+        "prerequisites": [
+          "1108353"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1108355",
+        "name": "TRABALHO DE CONCLUSÃO DE CURSO  I",
+        "category": "Complementar Obrigatória",
+        "semester": 8,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1108355",
+            "turmaid": "01",
+            "nome": " TRABALHO DE CONCLUSÃO DE CURSO  I",
+            "semester": "2018.2",
+            "professor": "A DEFINIR",
+            "horario": "6T2345",
+            "local": "SEM SALA3 (CCEN)"
+          }
+        ],
+        "prerequisites": [
+          "1108205",
+          "1108207"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1108356",
+        "name": "TRABALHO DE CONCLUSÃO DE CURSO II",
+        "category": "Complementar Obrigatória",
+        "semester": 8,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1108356",
+            "turmaid": "01",
+            "nome": " TRABALHO DE CONCLUSÃO DE CURSO II",
+            "semester": "2018.2",
+            "professor": "A DEFINIR",
+            "horario": "6T2345",
+            "local": "ESTAT 23 (CCEN)"
+          }
+        ],
+        "prerequisites": [
+          "1108355"
+        ],
+        "equivalences": [
+
+        ]
+      }
+    ]
+  }
+}

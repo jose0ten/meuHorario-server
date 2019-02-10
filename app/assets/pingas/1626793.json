@@ -1,0 +1,1762 @@
+{
+  "curriculum": {
+    "id": "412006",
+    "codigo": "1626793",
+    "name": "SECRETARIADO EXECUTIVO BILÍNGUE - CCAE - Mamanguape - Presencial - N - BACHARELADO",
+    "faculty": "CENTRO DE CIÊNCIAS APLICADAS E EDUCAÇÃO (CCAE) (11.00.59)",
+    "minch": "210",
+    "maxch": "300",
+    "semesters": 9,
+    "courses": [
+      {
+        "id": "8101103",
+        "name": "INTRODUCAO A ADMINISTRACAO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+          "GDTH0028"
+        ]
+      },
+      {
+        "id": "8101106",
+        "name": "INTROD AS ATIV TURISTICAS E HOTELEIRAS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8101118",
+        "name": "DIREITO EMPRESARIAL",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8101168",
+        "name": "INTRODUCAO A ANTROPOLOGIA CULTURAL",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8101169",
+        "name": "ORGANIZACAO DE EVENTOS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8101170",
+        "name": "COMPORTAMENTO ORGANIZACIONAL",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8101171",
+        "name": "MERCADO FINANCEIRO DE CAPITAIS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8101172",
+        "name": "ADMINISTRACAO DE RECURSOS HUMANOS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8101173",
+        "name": "ADMINISTRACAO  DESENVOLVIMENTO ECONOMICO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8101177",
+        "name": "INTRODUCAO A PSICOLOGIA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8101178",
+        "name": "ECONOMIA BRASILEIRA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8105029",
+        "name": "LINGUA FRANCESA I",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8105031",
+        "name": "LIBRASLINGUA BRASILEIRA DE SINAIS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8108001",
+        "name": "INTRODUÇÃO A ADMINISTRAÇÃO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+          "GDTH0028"
+        ]
+      },
+      {
+        "id": "8108049",
+        "name": "ECONOMIA BRASILEIRA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8108080",
+        "name": "INTROD AS ATIV TURIST E HOTELEIRAS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8108081",
+        "name": "ORGANIZAÇÃO DE EVENTOS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8108081",
+            "turmaid": "01",
+            "nome": " ORGANIZAÇÃO DE EVENTOS",
+            "semester": "2018.2",
+            "professor": "EDIVANIA LUIZ DE ALMEIDA",
+            "horario": "5N123",
+            "local": "M.C-106 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8108082",
+        "name": "COMPORTAMENTO ORGANIZACIONAL",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8108083",
+        "name": "MERCADO FINANCEIRO E DE CAPITAIS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8108084",
+        "name": "ADMINISTRAÇÃO DE RECURSOS HUMANOS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8108085",
+        "name": "ADMINISTRAÇÃO E DESENVOLVECONOMICO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8108086",
+        "name": "CHEFIA E LIDERANÇA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "8101145",
+          "8108066"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8108087",
+        "name": "RELAÇÕES PÚBLICAS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8108088",
+        "name": "ECONOMIA BRASILEIRA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8108089",
+        "name": "DIREITO EMPRESARIAL",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8108090",
+        "name": "TÓPICOS ESPECIAIS EM SECRETAR EXECUTIVO",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8101104",
+        "name": "INTRODUCAO A FILOSOFIA",
+        "category": "Complementar Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8101104",
+            "turmaid": "01",
+            "nome": " INTRODUCAO A FILOSOFIA",
+            "semester": "2018.2",
+            "professor": "JOSE PAULO MALDONADO DE SOUZA",
+            "horario": "6N1234",
+            "local": "M.B-105 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8101105",
+        "name": "INTRODUCAO A SOCIOLOGIA",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8101105",
+            "turmaid": "02",
+            "nome": " INTRODUCAO A SOCIOLOGIA",
+            "semester": "2018.2",
+            "professor": "OSICLEIDE DE LIMA BEZERRA",
+            "horario": "5N1234",
+            "local": "M.B-105 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8101107",
+        "name": "METODOLOGIA DO TRABALHO CIENTIFICO",
+        "category": "Complementar Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8101107",
+            "turmaid": "02",
+            "nome": " METODOLOGIA DO TRABALHO CIENTIFICO",
+            "semester": "2018.2",
+            "professor": "MARIA LUZITANA CONCEICAO DOS SANTOS",
+            "horario": "4N1234",
+            "local": "M.B-105 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8108007",
+        "name": "ECONOMIA I",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8108007",
+            "turmaid": "01",
+            "nome": " ECONOMIA I",
+            "semester": "2018.2",
+            "professor": "TABIRA DE SOUZA ANDRADE",
+            "horario": "3N1234",
+            "local": "M.B-105 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8108064",
+        "name": "TÉCNICAS SECRETARIAS I",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8108064",
+            "turmaid": "01",
+            "nome": " TÉCNICAS SECRETARIAS I",
+            "semester": "2018.2",
+            "professor": "EDIVANIA LUIZ DE ALMEIDA",
+            "horario": "2N123",
+            "local": "M.B-105 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8101125",
+        "name": "FUND SOCIOHIST E POL DO BRASIL",
+        "category": "Complementar Obrigatória",
+        "semester": 2,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8101125",
+            "turmaid": "01",
+            "nome": " FUND SOCIOHIST E POL DO BRASIL",
+            "semester": "2018.2",
+            "professor": "LUZIANA MARQUES DA FONSECA SILVA",
+            "horario": "2N1 4N34",
+            "local": "M.B-106 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8101127",
+        "name": "COMUNICACAO EMPRESARIAL",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8101127",
+            "turmaid": "01",
+            "nome": " COMUNICACAO EMPRESARIAL",
+            "semester": "2018.2",
+            "professor": "JULIO AFONSO SA DE PINHO NETO",
+            "horario": "2N234",
+            "local": "M.B-106 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8105008",
+        "name": "LINGUA INGLESA I  SECRETARIADO",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8105008",
+            "turmaid": "01",
+            "nome": " LINGUA INGLESA I  SECRETARIADO",
+            "semester": "2018.2",
+            "professor": "CARLA ALECSANDRA DE MELO BONIFACIO",
+            "horario": "5N1234",
+            "local": "M.B-106 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8105018",
+        "name": "LINGUA PORTUGUESA I",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8105018",
+            "turmaid": "01",
+            "nome": " LINGUA PORTUGUESA I",
+            "semester": "2018.2",
+            "professor": "PALOMA SABATA LOPES DA SILVA",
+            "horario": "6N1234",
+            "local": "M.B-106 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+          "8105002"
+        ]
+      },
+      {
+        "id": "8105022",
+        "name": "LÍNGUA ESPANHOLA I SECRT",
+        "category": "Complementar Obrigatória",
+        "semester": 2,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8105022",
+            "turmaid": "02",
+            "nome": " LÍNGUA ESPANHOLA I SECRT",
+            "semester": "2018.2",
+            "professor": "A DEFINIR",
+            "horario": "3N234",
+            "local": "R.A-106 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8108065",
+        "name": "TÉCNICAS SECRETARIAIS II",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8108065",
+            "turmaid": "01",
+            "nome": " TÉCNICAS SECRETARIAIS II",
+            "semester": "2018.2",
+            "professor": "EDIVANIA LUIZ DE ALMEIDA",
+            "horario": "3N1 4N12",
+            "local": "M.B-106 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+          "8101109",
+          "8108064"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8103129",
+        "name": "INTRODUCAO A INFORMATICA",
+        "category": "Complementar Obrigatória",
+        "semester": 3,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8103129",
+            "turmaid": "01",
+            "nome": " INTRODUCAO A INFORMATICA",
+            "semester": "2018.2",
+            "professor": "ADRIANA ZENAIDE CLERICUZI",
+            "horario": "4N34 5N4",
+            "local": "M.H-102 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8105009",
+        "name": "LINGUA INGLESA II  SECRETARIADO",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8105009",
+            "turmaid": "01",
+            "nome": " LINGUA INGLESA II  SECRETARIADO",
+            "semester": "2018.2",
+            "professor": "SANDRA MARIA ARAUJO DIAS",
+            "horario": "6N1234",
+            "local": "M.B-107 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+          "8101120",
+          "8105008"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8105019",
+        "name": "LÍNGUA PORTUGUESA II",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8105019",
+            "turmaid": "01",
+            "nome": " LÍNGUA PORTUGUESA II",
+            "semester": "2018.2",
+            "professor": "MARIA JABERLÂNYE DA SILVA NELO",
+            "horario": "3N1234",
+            "local": "M.D-107 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+          "8105018",
+          "8101129"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8105023",
+        "name": "LÍNGUA ESPANHOLA II  SECRET",
+        "category": "Complementar Obrigatória",
+        "semester": 3,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8105023",
+            "turmaid": "01",
+            "nome": " LÍNGUA ESPANHOLA II  SECRET",
+            "semester": "2018.2",
+            "professor": "GRAZIELLEN GELLI PINHEIRO LIMA",
+            "horario": "2N234",
+            "local": "M.B-107 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8108066",
+        "name": "TEORIAS DE ADMINISTRAÇÃO I",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8108066",
+            "turmaid": "01",
+            "nome": " TEORIAS DE ADMINISTRAÇÃO I",
+            "semester": "2018.2",
+            "professor": "SAULO EMMANUEL VIEIRA MACIEL",
+            "horario": "2N1 4N12",
+            "local": "M.B-107 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8108073",
+        "name": "PESQUISA APLICADA A SECRETARIADO",
+        "category": "Complementar Obrigatória",
+        "semester": 3,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8108073",
+            "turmaid": "01",
+            "nome": " PESQUISA APLICADA A SECRETARIADO",
+            "semester": "2018.2",
+            "professor": "ALBERTO SANTOS ARRUDA",
+            "horario": "5N123",
+            "local": "M.E-102 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8103108",
+        "name": "MATEMATICA ELEMENTAR",
+        "category": "Complementar Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8103108",
+            "turmaid": "01",
+            "nome": " MATEMATICA ELEMENTAR",
+            "semester": "2018.2",
+            "professor": "SURAMA SANTOS ISMAEL DA COSTA",
+            "horario": "3N1234",
+            "local": "M.B-108 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8103130",
+        "name": "INFORMATICA ALICADA A SECRETARIADO",
+        "category": "Complementar Obrigatória",
+        "semester": 4,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8103130",
+            "turmaid": "01",
+            "nome": " INFORMATICA ALICADA A SECRETARIADO",
+            "semester": "2018.2",
+            "professor": "ADRIANA ZENAIDE CLERICUZI",
+            "horario": "6N123",
+            "local": "M.H-102 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+          "8103129"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8105004",
+        "name": "REDAÇÃO  COMERCIAL EM PORTUGUÊS I",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8105004",
+            "turmaid": "01",
+            "nome": " REDAÇÃO  COMERCIAL EM PORTUGUÊS I",
+            "semester": "2018.2",
+            "professor": "ANTONIETA BURITI DE SOUZA HOSOKAWA",
+            "horario": "4N12 6N4",
+            "local": "M.B-108 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+          "8105019",
+          "8101137"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8105010",
+        "name": "LINGUA INGLESA III  SECRETARIADO",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8105010",
+            "turmaid": "01",
+            "nome": " LINGUA INGLESA III  SECRETARIADO",
+            "semester": "2018.2",
+            "professor": "MARIA DO ROSARIO SILVA LEITE",
+            "horario": "5N1234",
+            "local": "M.B-108 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+          "8101140",
+          "8105009"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8105024",
+        "name": "LÍNGUA ESPANHOLA III  SECRET",
+        "category": "Complementar Obrigatória",
+        "semester": 4,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8105024",
+            "turmaid": "02",
+            "nome": " LÍNGUA ESPANHOLA III  SECRET",
+            "semester": "2018.2",
+            "professor": "A DEFINIR",
+            "horario": "2N123",
+            "local": "M.C-106 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+          "8101157",
+          "8105023"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8108067",
+        "name": "GESTÃO ORGANIZACIONAL",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8108067",
+            "turmaid": "01",
+            "nome": " GESTÃO ORGANIZACIONAL",
+            "semester": "2018.2",
+            "professor": "SAULO EMMANUEL VIEIRA MACIEL",
+            "horario": "2N4 4N34",
+            "local": "M.B-108 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8105005",
+        "name": "REDAÇÃO  COMERCIAL EM PORTUGUÊS II",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8105005",
+            "turmaid": "01",
+            "nome": " REDAÇÃO  COMERCIAL EM PORTUGUÊS II",
+            "semester": "2018.2",
+            "professor": "ROSEANE BATISTA FEITOSA NICOLAU",
+            "horario": "2N123",
+            "local": "M.A-105 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+          "8101138",
+          "8105004"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8105011",
+        "name": "LINGUA INGLESA IV  SECRETARIADO",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8105011",
+            "turmaid": "01",
+            "nome": " LINGUA INGLESA IV  SECRETARIADO",
+            "semester": "2018.2",
+            "professor": "MARIA DO ROSARIO SILVA LEITE",
+            "horario": "6N1234",
+            "local": "M.A-105 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+          "8101141",
+          "8105010"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8105025",
+        "name": "LÍNGUA ESPANHOLA IV  SECRET",
+        "category": "Complementar Obrigatória",
+        "semester": 5,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8105025",
+            "turmaid": "02",
+            "nome": " LÍNGUA ESPANHOLA IV  SECRET",
+            "semester": "2018.2",
+            "professor": "A DEFINIR",
+            "horario": "4N1 5N12",
+            "local": "M.A-105 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8108009",
+        "name": "MATEMATICA FINANCEIRA",
+        "category": "Complementar Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8108009",
+            "turmaid": "01",
+            "nome": " MATEMATICA FINANCEIRA",
+            "semester": "2018.2",
+            "professor": "MANOEL HELENO GOMES DA SILVA",
+            "horario": "35N34",
+            "local": "M.A-105 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+          "8103108"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8108074",
+        "name": "PLANEJAMENTO ESTRATÉG PARA SECRETARIADO",
+        "category": "Complementar Obrigatória",
+        "semester": 5,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8108074",
+            "turmaid": "01",
+            "nome": " PLANEJAMENTO ESTRATÉG PARA SECRETARIADO",
+            "semester": "2018.2",
+            "professor": "KÁTIA REGINA GONÇALVES DE DEUS",
+            "horario": "4N234",
+            "local": "M.A-105 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8108077",
+        "name": "ARQUIVO E DOCUMENTAÇÃO",
+        "category": "Complementar Obrigatória",
+        "semester": 5,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8108077",
+            "turmaid": "01",
+            "nome": " ARQUIVO E DOCUMENTAÇÃO",
+            "semester": "2018.2",
+            "professor": "KÁTIA REGINA GONÇALVES DE DEUS",
+            "horario": "2N4 3N12",
+            "local": "M.A-105 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+          "8101126",
+          "8108065"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8101122",
+        "name": "PSICOLOGIA DAS RELACOES HUMANAS",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8101122",
+            "turmaid": "01",
+            "nome": " PSICOLOGIA DAS RELACOES HUMANAS",
+            "semester": "2018.2",
+            "professor": "ALBERTO SANTOS ARRUDA",
+            "horario": "6N234",
+            "local": "M.A-106 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8105016",
+        "name": "REDACAO COMERCIAL EM INGLÊS",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8105016",
+            "turmaid": "01",
+            "nome": " REDACAO COMERCIAL EM INGLÊS",
+            "semester": "2018.2",
+            "professor": "JULIENE PAIVA DE ARAÚJO OSIAS",
+            "horario": "2N12 6N1",
+            "local": "M.A-106 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+          "8101142",
+          "8105011"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8105027",
+        "name": "REDACAO COMERCIAL EM ESPANHOL",
+        "category": "Complementar Obrigatória",
+        "semester": 6,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8105027",
+            "turmaid": "01",
+            "nome": " REDACAO COMERCIAL EM ESPANHOL",
+            "semester": "2018.2",
+            "professor": "RUTH MARCELA BOWN CUELLO",
+            "horario": "4N234",
+            "local": "M.A-107 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+          "8101160",
+          "8105026"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8108061",
+        "name": "INSTDE DIREITO PÚBLICO E PRIVADO",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8108061",
+            "turmaid": "01",
+            "nome": " INSTDE DIREITO PÚBLICO E PRIVADO",
+            "semester": "2018.2",
+            "professor": "LAURA TADDEI ALVES PEREIRA PINTO BERQUO",
+            "horario": "4N1234",
+            "local": "M.A-106 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8108068",
+        "name": "GESTÃO CONTÁBIL PA RA SECRETARIADO",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8108068",
+            "turmaid": "01",
+            "nome": " GESTÃO CONTÁBIL PA RA SECRETARIADO",
+            "semester": "2018.2",
+            "professor": "MARILIA AUGUSTA RAULINO JÁCOME",
+            "horario": "2N34 5N1",
+            "local": "M.D-105 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8108069",
+        "name": "ESTÁGIO SUPERVISIONADO I",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8108069",
+            "turmaid": "01",
+            "nome": " ESTÁGIO SUPERVISIONADO I",
+            "semester": "2018.2",
+            "professor": "FRANCISCA JANETE DA SILVA ADELINO",
+            "horario": "3N1234",
+            "local": "M.A-106 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+          "8105018",
+          "8105010",
+          "8105024",
+          "8108065"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8105030",
+        "name": "LINGUA FRANCESA II",
+        "category": "Optativa",
+        "semester": 7,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "8105029"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8101146",
+        "name": "ETICA PROFISSIONAL",
+        "category": "Obrigatória",
+        "semester": 7,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8101146",
+            "turmaid": "01",
+            "nome": " ETICA PROFISSIONAL",
+            "semester": "2018.2",
+            "professor": "WESLEY RENNYER MARTINS RABELO PORTO",
+            "horario": "5N123",
+            "local": "M.A-107 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+          "GDTH0044"
+        ]
+      },
+      {
+        "id": "8103124",
+        "name": "ESTATISTICA I",
+        "category": "Complementar Obrigatória",
+        "semester": 7,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8103124",
+            "turmaid": "01",
+            "nome": " ESTATISTICA I",
+            "semester": "2018.2",
+            "professor": "JOSEILME FERNANDES GOUVEIA",
+            "horario": "2N1234",
+            "local": "M.A-107 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+          "8103108"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8105017",
+        "name": "TECNICAS DE TRADUCAO EM INGLES",
+        "category": "Obrigatória",
+        "semester": 7,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8105017",
+            "turmaid": "01",
+            "nome": " TECNICAS DE TRADUCAO EM INGLES",
+            "semester": "2018.2",
+            "professor": "JULIENE PAIVA DE ARAÚJO OSIAS",
+            "horario": "6N234",
+            "local": "M.A-108 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+          "8101142",
+          "8105011"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8105028",
+        "name": "TECNICAS DE TRADUCAO EM ESPANHOL",
+        "category": "Complementar Obrigatória",
+        "semester": 7,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "8101160",
+          "8105026"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8108063",
+        "name": "INTRODUÇÃO A MÁRKETING",
+        "category": "Obrigatória",
+        "semester": 7,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8108063",
+            "turmaid": "01",
+            "nome": " INTRODUÇÃO A MÁRKETING",
+            "semester": "2018.2",
+            "professor": "SAULO EMMANUEL VIEIRA MACIEL",
+            "horario": "3N123",
+            "local": "M.A-107 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8108070",
+        "name": "ESTÁGIO SUPERVISIONADO II",
+        "category": "Obrigatória",
+        "semester": 7,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8108070",
+            "turmaid": "01",
+            "nome": " ESTÁGIO SUPERVISIONADO II",
+            "semester": "2018.2",
+            "professor": "FRANCISCA JANETE DA SILVA ADELINO",
+            "horario": "23T23",
+            "local": "M.C-106 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+          "8108069",
+          "8105005",
+          "8105025",
+          "8105011"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8101133",
+        "name": "TOPICOS ESP EM SECRETARIADO EXECUTIVO",
+        "category": "Complementar Flexiva",
+        "semester": 8,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8101133",
+            "turmaid": "01",
+            "nome": " TOPICOS ESP EM SECRETARIADO EXECUTIVO",
+            "semester": "2018.2",
+            "professor": "CIBELLE DA SILVA SANTIAGO",
+            "horario": "6N234",
+            "local": "M.E-102 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8101176",
+        "name": "CHEFIA E LIDERANCA",
+        "category": "Optativa",
+        "semester": 8,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "8101145"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8105026",
+        "name": "LÍNGUA ESPANHOLA V  SECRET",
+        "category": "Complementar Obrigatória",
+        "semester": 8,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8105026",
+            "turmaid": "01",
+            "nome": " LÍNGUA ESPANHOLA V  SECRET",
+            "semester": "2018.2",
+            "professor": "GRAZIELLEN GELLI PINHEIRO LIMA",
+            "horario": "5N234",
+            "local": "M.A-106 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8108062",
+        "name": "LEGISLSOCIAL E DIREITO DO TRABALHO",
+        "category": "Obrigatória",
+        "semester": 8,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8108062",
+            "turmaid": "02",
+            "nome": " LEGISLSOCIAL E DIREITO DO TRABALHO",
+            "semester": "2018.2",
+            "professor": "EDDLA KARINA GOMES PEREIRA",
+            "horario": "3N1234",
+            "local": "M.E-102 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8108071",
+        "name": "ESTÁGIO SUPERVISIONADO III",
+        "category": "Obrigatória",
+        "semester": 8,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8108071",
+            "turmaid": "01",
+            "nome": " ESTÁGIO SUPERVISIONADO III",
+            "semester": "2018.2",
+            "professor": "FRANCISCA JANETE DA SILVA ADELINO",
+            "horario": "23T45",
+            "local": "M.D-105 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+          "8101151",
+          "8108070"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8108078",
+        "name": "RELAÇÕES PÚBLICAS",
+        "category": "Complementar Obrigatória",
+        "semester": 8,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8108078",
+            "turmaid": "01",
+            "nome": " RELAÇÕES PÚBLICAS",
+            "semester": "2018.2",
+            "professor": "KÁTIA REGINA GONÇALVES DE DEUS",
+            "horario": "2N123",
+            "local": "M.A-108 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8108079",
+        "name": "COMÉRCIO EXTERIOR",
+        "category": "Complementar Obrigatória",
+        "semester": 8,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8108079",
+            "turmaid": "01",
+            "nome": " COMÉRCIO EXTERIOR",
+            "semester": "2018.2",
+            "professor": "ANA CANDIDA FERREIRA VIEIRA",
+            "horario": "4N123",
+            "local": "M.E-103 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8108072",
+        "name": "ESTÁGIO SUPERVISIONADO IV",
+        "category": "Obrigatória",
+        "semester": 9,
+        "workload": "120h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8108072",
+            "turmaid": "01",
+            "nome": " ESTÁGIO SUPERVISIONADO IV",
+            "semester": "2018.2",
+            "professor": "MARIA LUZITANA CONCEICAO DOS SANTOS",
+            "horario": "6T5634 6N1234",
+            "local": "M.E-103 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+          "8101152",
+          "8108071"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8108075",
+        "name": "TRABALHO DE CONCLUSÃO DE CURSO TCC",
+        "category": "Complementar Obrigatória",
+        "semester": 9,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8108075",
+            "turmaid": "01",
+            "nome": " TRABALHO DE CONCLUSÃO DE CURSO TCC",
+            "semester": "2018.2",
+            "professor": "MARIA LUZITANA CONCEICAO DOS SANTOS",
+            "horario": "5N1234",
+            "local": "M.E-103 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8108076",
+        "name": "CERIMONIALPROT E ETIQUETA EMPRESARIAL",
+        "category": "Complementar Obrigatória",
+        "semester": 9,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8108076",
+            "turmaid": "01",
+            "nome": " CERIMONIALPROT E ETIQUETA EMPRESARIAL",
+            "semester": "2018.2",
+            "professor": "FRANCISCA JANETE DA SILVA ADELINO",
+            "horario": "2N1234",
+            "local": "M.A-103 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+          "8101126",
+          "8108065"
+        ],
+        "equivalences": [
+
+        ]
+      }
+    ]
+  }
+}

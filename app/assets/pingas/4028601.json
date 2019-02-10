@@ -1,0 +1,1802 @@
+{
+  "curriculum": {
+    "id": "082016",
+    "codigo": "4028601",
+    "name": "GEOGRAFIA - João Pessoa - Presencial - N - LICENCIATURA",
+    "faculty": "CENTRO DE CIÊNCIAS EXATAS E DA NATUREZA (CCEN) (11.00.41)",
+    "minch": "180",
+    "maxch": "450",
+    "semesters": 9,
+    "courses": [
+      {
+        "id": "1102110",
+        "name": "ECONOMIA URBANA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1102116",
+        "name": "FUNDAMENTOS DE GEOLOGIA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1102165",
+        "name": "PALEONTOLOGIA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "30h aula 30h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1102183",
+        "name": "GEOGRAFIA E TURISMO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1102184",
+        "name": "GEOGRAFIA E MEIO AMBIENTE",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1102203",
+        "name": "TEMAS ESPECIAIS GEOGRAFIA E LITERATURA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1102204",
+        "name": "GEOMORFOLOGIA COSTEIRA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1102205",
+        "name": "SEDIMENTOLOGIA E ESTRATIGRAFIA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1102206",
+        "name": "GEOGRAFIA REGIONAL DA AMER LATINA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1102208",
+        "name": "GEOGRAFIA POLITICA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1102209",
+        "name": "SENSORIAMENTO REMOTO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1102210",
+        "name": "GEOGRAFIA DO SOLO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1102217",
+        "name": "TEMAS ESPECIAIS GEOGRAFIA DO TRABALHO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1102218",
+        "name": "TEMAS ESPECIAIS URBANIZACAO BRASILEIRA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1102219",
+        "name": "TEMAS ESPECIAIS TOP APLIC A GEOGRAFIA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1102220",
+        "name": "TEMAS ESPECIAIS AST E GEOD A A GEOG",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1102221",
+        "name": "TEMAS ESPECIAIS GEOG AGRARIA DA PB",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1102223",
+        "name": "TEMAS ESPECIAIS PLANEJAMENTO URBANO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1102225",
+        "name": "TEMAS ESPECIAISGEOLOGIA AMBIENTAL",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1102226",
+        "name": "TEMAS ESPECIAIS GEOMORFOLOGIA FLUVIAL",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1102227",
+        "name": "TEMAS ESPECIAIS DIREITO AMBIENTAL",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1102228",
+        "name": "TEMAS ESPECIAIS  GAPA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "75h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1102229",
+        "name": "TEMAS ESPECIAISGEOGRAFIA AGRARIA DO NE",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1102230",
+        "name": "TEMAS ESPECIAISGEO A A AMBIENTAL",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1102231",
+        "name": "TEMAS ESPECIAISENS GEOG C L DIDATICOS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1102234",
+        "name": "TEMAS ESPECIAIS  MAP GEOMORFOLÓGICO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1102235",
+        "name": "TEMAS ESPEC ABORD C E T SC PAISAGEM M",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1102236",
+        "name": "T ESPECIAISPOP TRA ESP REP S P CAMPO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1102239",
+        "name": "BIOGEOGRAFIA CLIMATICA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1102250",
+        "name": "GEOGRAFIA POLÍTICA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1203124",
+        "name": "ELABORACAO TRAB MONOGRAFICO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1303101",
+        "name": "CURRICULOS E PROGRAMAS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1303115",
+        "name": "LEGISLACAO DO ENSINO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1303122",
+        "name": "PLANEJAMENTO EDUCACIONAL",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+          "1303205"
+        ]
+      },
+      {
+        "id": "1402240",
+        "name": "INTRODUCAO A FILOSOFIA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1402290",
+        "name": "ESTAGIO EXTRA CURRICULAR",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1403120",
+        "name": "LINGUA PORTUGUESA I",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "75h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1404128",
+        "name": "LINGUA FRANCESA I",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "75h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1404138",
+        "name": "LINGUA INGLESA I",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "75h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+          "1404325"
+        ]
+      },
+      {
+        "id": "1609247",
+        "name": "EDUCACAO FISICA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDGEO0138",
+        "name": "TÓPICOS ESPECIAIS EM GEOGRAFIA I",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "105h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDGEO0139",
+        "name": "TÓPICOS ESPECIAIS EM GEOGRAFIA II",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "105h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1401134",
+        "name": "INTRODUCAO A SOCIOLOGIA",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1401134",
+            "turmaid": "02",
+            "nome": " INTRODUCAO A SOCIOLOGIA",
+            "semester": "2018.2",
+            "professor": "ANTONIO GOMES DA SILVA",
+            "horario": "6N1234",
+            "local": "CAH 107 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDGEO0075",
+        "name": "HISTORIA DO PENSAMENTO GEOGRAFICO",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDGEO0075",
+            "turmaid": "01",
+            "nome": " HISTORIA DO PENSAMENTO GEOGRAFICO",
+            "semester": "2018.2",
+            "professor": "MARIA FRANCO GARCIA",
+            "horario": "2N1234",
+            "local": "DGEOC A4 (CCEN)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDGEO0100",
+        "name": "GEOLOGIA",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDGEO0100",
+            "turmaid": "01",
+            "nome": " GEOLOGIA",
+            "semester": "2018.2",
+            "professor": "EDUARDO GALLIZA DO AMARAL MARINHO",
+            "horario": "4N1234",
+            "local": "LEGAM (CCEN)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDGEO0104",
+        "name": "GEOGRAFIA DA POPULAÇÃO",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDGEO0104",
+            "turmaid": "01",
+            "nome": " GEOGRAFIA DA POPULAÇÃO",
+            "semester": "2018.2",
+            "professor": "SINVAL ALMEIDA PASSOS",
+            "horario": "3N34 5N12",
+            "local": "DGEOC A4 (CCEN)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDGEO0123",
+        "name": "MÉTODOS ESTATÍSTICOS PARA GEOGRAFIA",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDGEO0123",
+            "turmaid": "01",
+            "nome": " MÉTODOS ESTATÍSTICOS PARA GEOGRAFIA",
+            "semester": "2018.2",
+            "professor": "DAISY BESERRA LUCENA",
+            "horario": "3N12 5N34",
+            "local": "DGEOC A4 (CCEN)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDGEO0101",
+        "name": "GEOMORFOLOGIA",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDGEO0102",
+        "name": "TEORIA E MÉTODO EM GEOGRAFIA",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDGEO0103",
+        "name": "CLIMATOLOGIA",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDGEO0118",
+        "name": "CARTOGRAFIA BÁSICA",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDGEO0124",
+        "name": "METOLOGIA DO TRABALHO CIENTÍFICO",
+        "category": "Complementar Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1301254",
+        "name": "FUNDAMENTOS ANTROPOFILOSÓFICOS DA EDUCAÇÃO",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDGEO0105",
+        "name": "FORMAÇÃO DO ESPAÇO GEOGRAFICO BRASILEIRO",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDGEO0105",
+            "turmaid": "02",
+            "nome": " FORMAÇÃO DO ESPAÇO GEOGRAFICO BRASILEIRO",
+            "semester": "2018.2",
+            "professor": "MARIA DE FATIMA FERREIRA RODRIGUES",
+            "horario": "5N1234",
+            "local": "DGEOC 103 (CCEN)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDGEO0111",
+        "name": "PEDOLOGIA",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDGEO0111",
+            "turmaid": "01",
+            "nome": " PEDOLOGIA",
+            "semester": "2018.2",
+            "professor": "FILLIPE SILVEIRA MARINI",
+            "horario": "4N1234",
+            "local": "MUSEU (CCEN)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDGEO0119",
+        "name": "CARTOGRAFIA TEMÁTICA",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDGEO0119",
+            "turmaid": "02",
+            "nome": " CARTOGRAFIA TEMÁTICA",
+            "semester": "2018.2",
+            "professor": "CAMILA CUNICO",
+            "horario": "3N1234",
+            "local": "CDREUNI (CCEN)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDGEO0150",
+        "name": "METODOLOGIA DO ENSINO DE GEOGRAFIA",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDGEO0150",
+            "turmaid": "02",
+            "nome": " METODOLOGIA DO ENSINO DE GEOGRAFIA",
+            "semester": "2018.2",
+            "professor": "ANTONIO CARLOS PINHEIRO",
+            "horario": "2N1234",
+            "local": "DGEOC 103 (CCEN)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDGEO0106",
+        "name": "HIDROGEOGRAFIA",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDGEO0107",
+        "name": "GEOGRAFIA AGRARIA",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDGEO0108",
+        "name": "BIOGEOGRAFIA",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDGEO0120",
+        "name": "FUNDAMENTOS DE GEOTECNOLOGIAS",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDGEO0126",
+        "name": "PESQUISA APLICADA A GEOGRAFIA",
+        "category": "Complementar Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1301201",
+        "name": "FUNDAMENTOS PSICOLÓGICOS DA EDUCAÇÃO",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1301201",
+            "turmaid": "10",
+            "nome": " FUNDAMENTOS PSICOLÓGICOS DA EDUCAÇÃO",
+            "semester": "2018.2",
+            "professor": "MARIA TERESA BARROS FALCAO COELHO",
+            "horario": "5N1234",
+            "local": "CAE 110 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1302105",
+        "name": "DIDÁTICA",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1302105",
+            "turmaid": "11",
+            "nome": " DIDÁTICA",
+            "semester": "2018.2",
+            "professor": "JOSE RAMOS BARBOSA DA SILVA",
+            "horario": "4N1234",
+            "local": "CE 321 (CE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1302398",
+        "name": "FUNDAMENTOS SOCIOHIST DA EDUCACAO",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDGEO0110",
+        "name": "BASES NATURAIS DO BRASIL",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDGEO0110",
+            "turmaid": "01",
+            "nome": " BASES NATURAIS DO BRASIL",
+            "semester": "2018.2",
+            "professor": "VINÍCIUS FERREIRA DE LIMA",
+            "horario": "6N1234",
+            "local": "DGEOC A1 (CCEN)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDGEO0114",
+        "name": "GEOGRAFIA URBANA",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDGEO0114",
+            "turmaid": "01",
+            "nome": " GEOGRAFIA URBANA",
+            "semester": "2018.2",
+            "professor": "DORALICE SATYRO MAIA",
+            "horario": "3N1234",
+            "local": "DGEOC A1 (CCEN)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDGEO0112",
+        "name": "QUESTÃO AGRARIA BRASILEIRA",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDGEO0115",
+        "name": "ORGANIZAÇÃO DO ESPAÇO REGIONAL BRASILEIRO",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDGEO0116",
+        "name": "GEOGRAFIA POLITICA",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDGEO0151",
+        "name": "ESTAGIO SUPERVISIONADO DE ENSINO I",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "105h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1303180",
+        "name": "POLITICA E GESTAO DA EDUCACAO",
+        "category": "Obrigatória",
+        "semester": 7,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1303180",
+            "turmaid": "04",
+            "nome": " POLITICA E GESTAO DA EDUCACAO",
+            "semester": "2018.2",
+            "professor": "MAURICEIA ANANIAS",
+            "horario": "3N1234",
+            "local": "CAG 102 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+          "1303208"
+        ]
+      },
+      {
+        "id": "GDGEO0113",
+        "name": "GEOGRAFIA DA PARAIBA",
+        "category": "Obrigatória",
+        "semester": 7,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDGEO0117",
+        "name": "ORGANIZAÇÃO DO ESPAÇO MUNDIAL",
+        "category": "Obrigatória",
+        "semester": 7,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDGEO0152",
+        "name": "ESTAGIO SUPERVISIONADO DE ENSINO II",
+        "category": "Obrigatória",
+        "semester": 7,
+        "workload": "150h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDLS0024",
+        "name": "LIBRAS",
+        "category": "Complementar Obrigatória",
+        "semester": 7,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDLS0024",
+            "turmaid": "12",
+            "nome": " LIBRAS",
+            "semester": "2018.2",
+            "professor": "MARIE GORETT DANTAS DE ASSIS E MEDEIROS BATISTA",
+            "horario": "5N1234",
+            "local": "CCHLA 423 BLOCO A 2º ANDAR (CCHLA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDGEO0109",
+        "name": "URBANIZAÇÃO BRASILEIRA",
+        "category": "Obrigatória",
+        "semester": 8,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDGEO0121",
+        "name": "GEOPOLITICA DOS RECURSOS NATURAIS",
+        "category": "Obrigatória",
+        "semester": 8,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDGEO0153",
+        "name": "ESTAGIO SUPERVISIONADO DE ENSINO III",
+        "category": "Obrigatória",
+        "semester": 8,
+        "workload": "150h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDGEO0154",
+        "name": "EDUCAÇÃO DAS RELAÇÕES ETNICO",
+        "category": "Complementar Obrigatória",
+        "semester": 8,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDGEO0154",
+            "turmaid": "01",
+            "nome": " EDUCAÇÃO DAS RELAÇÕES ETNICO-RACIAIS",
+            "semester": "2018.2",
+            "professor": "MARIA DE FATIMA FERREIRA RODRIGUES",
+            "horario": "4T2345",
+            "local": "DGEOC A2 (CCEN)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "2203016",
+        "name": "BASES DA BIOLOGIA MOLECULAR",
+        "category": "Obrigatória",
+        "semester": 9,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "2203019",
+        "name": "BASES DA GENÉTICA",
+        "category": "Obrigatória",
+        "semester": 9,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDGEO0125",
+        "name": "TRABALHO DE CONCLUSÃO DE CURSO",
+        "category": "Complementar Obrigatória",
+        "semester": 9,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1301195",
+        "name": " FUNDAMENTOS  ANTROPOFILOSÓFICO DA EDUCAÇÃO",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": "60h",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1301195",
+            "turmaid": "15",
+            "nome": " FUNDAMENTOS  ANTROPOFILOSÓFICO DA EDUCAÇÃO",
+            "semester": "2018.2",
+            "professor": "JOSE DE ARIMATEA FONTES",
+            "horario": "6N1234",
+            "local": "CAD 107 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1301200",
+        "name": " FUNDAMENTOS SOCIOHISTÓRICOS DA EDUCAÇÃO",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": "60h",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1301200",
+            "turmaid": "07",
+            "nome": " FUNDAMENTOS SOCIOHISTÓRICOS DA EDUCAÇÃO",
+            "semester": "2018.2",
+            "professor": "ROMILDO RAPOSO FERNANDES",
+            "horario": "2N1234",
+            "local": "CCHLA 414 BLOCO I CENTRAL DE AULAS (CCHLA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1102248",
+        "name": " GEOGRAFIA E MEIO AMBIENTE",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": "60h",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1102248",
+            "turmaid": "01",
+            "nome": " GEOGRAFIA E MEIO AMBIENTE",
+            "semester": "2018.2",
+            "professor": "ANDREA LEANDRA PORTO SALES",
+            "horario": "5N1234",
+            "local": "CCTA 217  - BLOCO B (CCTA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1102202",
+        "name": " GEOPROCESSAMENTO",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": "120h",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1102202",
+            "turmaid": "05",
+            "nome": " GEOPROCESSAMENTO",
+            "semester": "2018.2",
+            "professor": "FRANCISCO VILAR DE ARAÚJO SEGUNDO NETO",
+            "horario": "56N1234",
+            "local": "CDREUNI (CCEN)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1102188",
+        "name": " INICIACAO A PESQUISA GEOGRAFICA",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": "120h",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1102188",
+            "turmaid": "03",
+            "nome": " INICIACAO A PESQUISA GEOGRAFICA",
+            "semester": "2018.2",
+            "professor": "ALEXANDRE SABINO DO NASCIMENTO",
+            "horario": "23N1234",
+            "local": "AUD GEOG (CCEN)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1405108",
+        "name": " INTRODUCAO A PSICOLOGIA",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": "60h",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1405108",
+            "turmaid": "04",
+            "nome": " INTRODUCAO A PSICOLOGIA",
+            "semester": "2018.2",
+            "professor": "ALBERTO SANTOS ARRUDA",
+            "horario": "4N1234",
+            "local": "CAG 106 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1102178",
+        "name": " MINERALOGIA",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": "60h",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1102178",
+            "turmaid": "01",
+            "nome": " MINERALOGIA",
+            "semester": "2018.2",
+            "professor": "WERNER MAXIMILIAN TOPITSCH",
+            "horario": "6T2345",
+            "local": "LEGAM (CCEN)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDMTE0118",
+        "name": " GEOGRAFIA",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": "60h",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDMTE0118",
+            "turmaid": "01",
+            "nome": " GEOGRAFIA",
+            "semester": "2018.2",
+            "professor": "AVELAR ARAUJO SANTOS JUNIOR",
+            "horario": "24N1234 7N12 (22/11/2018 - 10/05/2019)",
+            "local": "CCENB7 (CCEN)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDMTE0119",
+        "name": " GEOGRAFIA",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": "60h",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDMTE0119",
+            "turmaid": "01",
+            "nome": " GEOGRAFIA",
+            "semester": "2018.2",
+            "professor": "MARIA ADAILZA MARTINS DE ALBUQUERQUE",
+            "horario": "35N1234 7N34 (22/11/2018 - 10/05/2019)",
+            "local": "CCENB4 (CCEN)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1401247",
+        "name": " TOP ESPECIAIS EM ANTROPOLOGIA II",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": "60h",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1401247",
+            "turmaid": "02",
+            "nome": " TOP ESPECIAIS EM ANTROPOLOGIA II",
+            "semester": "2018.2",
+            "professor": "MARIA OTILIA TELLES STORNI",
+            "horario": "3N1234",
+            "local": "CCENA 103 (CCEN)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      }
+    ]
+  }
+}

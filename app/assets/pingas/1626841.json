@@ -1,0 +1,898 @@
+{
+  "curriculum": {
+    "id": "22012007",
+    "codigo": "1626841",
+    "name": "MATEMÁTICA - EAD - João Pessoa - A Distância - MT - LICENCIATURA PLENA",
+    "faculty": "CENTRO DE CIÊNCIAS EXATAS E DA NATUREZA (CCEN) (11.00.41)",
+    "minch": "240",
+    "maxch": "480",
+    "semesters": 8,
+    "courses": [
+      {
+        "id": "GDLS0025",
+        "name": "LIBRAS UV",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1103212",
+        "name": "INT EDUCACAO A DISTANCIA  UV",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1103213",
+        "name": "MATEMATICA ENS BASICO I  UV",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1103214",
+        "name": "MATEMATICA ENS BASICO II  UV",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1103215",
+        "name": "MATEMATICA ENS BASICO III  UV",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1103217",
+        "name": "METDO TRABALHO CIENTIFICO  UV",
+        "category": "Complementar Obrigatória",
+        "semester": 1,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1103216",
+        "name": "CALCULO VET E GEOANALITICA  UV",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1103218",
+        "name": "MATEMATICA ENS BASICO IV  UV",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1103219",
+        "name": "ARGUMENTACAO MATEMATICA  UV",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1103220",
+        "name": "CALCULO DIFE INTEGRAL I  UV",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1107243",
+        "name": "INICIACAO A COMPUTACAO  UV",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1103229",
+        "name": "INTRODUÇÃO A ALGEBRA LINEAR UV",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1103229",
+            "turmaid": "01",
+            "nome": " INTRODUÇÃO A ALGEBRA LINEAR UV",
+            "semester": "2018.2",
+            "professor": "DANIEL MARINHO PELLEGRINO",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1103230",
+        "name": "CALCULO DIFE INTEGRAL IIUV",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1103230",
+            "turmaid": "01",
+            "nome": " CALCULO DIFE INTEGRAL IIUV",
+            "semester": "2018.2",
+            "professor": "FREDERICO DE OLIVEIRA MATIAS",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1103231",
+        "name": "FUND DA GEOMETRIA EUCLIDIANAUV",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1103231",
+            "turmaid": "01",
+            "nome": " FUND DA GEOMETRIA EUCLIDIANAUV",
+            "semester": "2018.2",
+            "professor": "JOAO BATISTA ALVES PARENTE",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1301213",
+        "name": "FUND ANTROPOFILOSEDUCACO  UV",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1301213",
+            "turmaid": "01",
+            "nome": " FUND ANTROPOFILOSEDUCACO  UV",
+            "semester": "2018.2",
+            "professor": "JUDY MAURIA GUEIROS ROSAS",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1301214",
+        "name": "FUND SOCIOHISTORICOS DA EDUCACAO  UV",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1301214",
+            "turmaid": "02",
+            "nome": " FUND SOCIOHISTORICOS DA EDUCACAO  UV",
+            "semester": "2018.2",
+            "professor": "ANA CLAUDIA DA SILVA RODRIGUES",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1103236",
+        "name": "TOPICOS ESPMATEMATICA IUV",
+        "category": "Complementar Flexiva",
+        "semester": 4,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1103236",
+            "turmaid": "01",
+            "nome": " TOPICOS ESPMATEMATICA IUV",
+            "semester": "2018.2",
+            "professor": "ADRIANO ALVES DE MEDEIROS",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1103237",
+        "name": "CALCULO DIFE INTEGRAL IIIUV",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1103237",
+            "turmaid": "01",
+            "nome": " CALCULO DIFE INTEGRAL IIIUV",
+            "semester": "2018.2",
+            "professor": "RICARDO BURITY CROCCIA MACEDO",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1103238",
+        "name": "SERIES E EQUACOES DIFERENCIAISUV",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1103238",
+            "turmaid": "01",
+            "nome": " SERIES E EQUACOES DIFERENCIAISUV",
+            "semester": "2018.2",
+            "professor": "NACIB ANDRE GURGEL E ALBUQUERQUE",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1301253",
+        "name": "DIDATICA  UV",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1301253",
+            "turmaid": "01",
+            "nome": " DIDATICA  UV",
+            "semester": "2018.2",
+            "professor": "EDUARDO JORGE LOPES DA SILVA",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1301262",
+        "name": "FUND PSICOLOGICOS DA EDUCAÇAO UV",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1301262",
+            "turmaid": "01",
+            "nome": " FUND PSICOLOGICOS DA EDUCAÇAO UV",
+            "semester": "2018.2",
+            "professor": "LUIZ PEREIRA DE LIMA JUNIOR",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDMTE0100",
+        "name": "ESTÁGIO SUPERVISIONADO I (MATEMÁTICA UV)",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDMTE0100",
+            "turmaid": "01",
+            "nome": " ESTÁGIO SUPERVISIONADO I (MATEMÁTICA UV)",
+            "semester": "2018.2",
+            "professor": "SURAMA SANTOS ISMAEL DA COSTA",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1103246",
+        "name": "TOPICOS ESP MATEMATICA II  UV",
+        "category": "Complementar Flexiva",
+        "semester": 5,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1101782",
+        "name": "FISICA GERAL I  UV",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1103244",
+        "name": "MATEMATICA ELEMENTAR  UV",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1103245",
+        "name": "PESQUISA APLICADA A MATEMATICA  UV",
+        "category": "Complementar Obrigatória",
+        "semester": 5,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1108186",
+        "name": "CÁLCULO DAS PROB  ESTAT I  UV",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDMTE0101",
+        "name": "ESTÁGIO SUPERVISIONADO II (MATEMÁTICA UV)",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1103248",
+        "name": "TOPICOS ESPMATEMATICA III  UV",
+        "category": "Complementar Flexiva",
+        "semester": 6,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1101783",
+        "name": "FISICA GERAL II  UV",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1103247",
+        "name": "INTRODUÇAO A ALGEBRA  UV",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1303246",
+        "name": "POLITICA E GESTAO DA EDUCAÇAO  UV",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1303246",
+            "turmaid": "01",
+            "nome": " POLITICA E GESTAO DA EDUCAÇAO  UV",
+            "semester": "2018.2",
+            "professor": "CARLOS EDUARDO REBUA OLIVEIRA",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDMTE0102",
+        "name": "ESTÁGIO SUPERVISIONADO III (MATEMÁTICA UV)",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1103251",
+        "name": "TOPICOS ESP MATEMATICA IV  UV",
+        "category": "Complementar Flexiva",
+        "semester": 7,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1302520",
+        "name": "OPTATIVAAVALIAÇÃO DA APRENDIZAGEM UV",
+        "category": "Optativa",
+        "semester": 7,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1303379",
+        "name": "PESQUISA E COTIDIANO ESCOLARUV",
+        "category": "Optativa",
+        "semester": 7,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1303379",
+            "turmaid": "01",
+            "nome": " PESQUISA E COTIDIANO ESCOLARUV",
+            "semester": "2018.2",
+            "professor": "MARIA APARECIDA NUNES PEREIRA",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1103249",
+        "name": "INTRODUÇAO A ANALISE REAL  UV",
+        "category": "Obrigatória",
+        "semester": 7,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1103250",
+        "name": "FUNDAMENTOS DA MATEMATICA UV",
+        "category": "Obrigatória",
+        "semester": 7,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDMTE0103",
+        "name": "ESTÁGIO SUPERVISIONADO IV (MATEMÁTICA UV)",
+        "category": "Obrigatória",
+        "semester": 7,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1103253",
+        "name": "TOPICOS ESP MATEMATIA V UV",
+        "category": "Complementar Flexiva",
+        "semester": 8,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1301260",
+        "name": "OPTATIVAECONOMIA DA EDUCAÇAOUV",
+        "category": "Optativa",
+        "semester": 8,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1302375",
+        "name": "OPTATIVAAVALIACAO DA APRENDIZAGEMUV",
+        "category": "Optativa",
+        "semester": 8,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1302375",
+            "turmaid": "01",
+            "nome": " OPTATIVAAVALIACAO DA APRENDIZAGEMUV",
+            "semester": "2018.2",
+            "professor": "SEVERINA ANDRÉA DANTAS DE FARIAS",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1303247",
+        "name": "PLANEJAMENTO E GESTAO ESCOLAR  UV",
+        "category": "Optativa",
+        "semester": 8,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1103252",
+        "name": "HISTORIA DA MATEMATICA  UV",
+        "category": "Obrigatória",
+        "semester": 8,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1103266",
+        "name": "TRABALHO DE CONCLUSÃO DE CURSO TCC UV",
+        "category": "Complementar Obrigatória",
+        "semester": 8,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1103266",
+            "turmaid": "01",
+            "nome": " TRABALHO DE CONCLUSÃO DE CURSO TCC UV",
+            "semester": "2018.2",
+            "professor": "JORGE COSTA DUARTE FILHO",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      }
+    ]
+  }
+}

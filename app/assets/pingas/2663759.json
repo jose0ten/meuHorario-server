@@ -1,0 +1,855 @@
+{
+  "curriculum": {
+    "id": "612007",
+    "codigo": "2663759",
+    "name": "PEDAGOGIA (MSC) - João Pessoa - Presencial - MAG ANOS INIC PEC MSC - MT - LICENCIATURA PLENA",
+    "faculty": "CENTRO DE EDUCAÇÃO (CE) (11.00.56)",
+    "minch": "240",
+    "maxch": "540",
+    "semesters": 8,
+    "courses": [
+      {
+        "id": "1301230",
+        "name": "FILOSOFIA DA EDUCACAO PEC MSC",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "75h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1301231",
+        "name": "SOCIOLOGIA DA EDUCACAO PEC MSC",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "75h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1301232",
+        "name": "HISTORIA DA EDUCACAO PEC MSC",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "75h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1301233",
+        "name": "PSICOLOGIA DA EDUCACAO PEC MSC",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "75h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1303219",
+        "name": "METODOLOGIA DO TRABALHO CIENTIFICO MSC",
+        "category": "Complementar Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1403153",
+        "name": "PORTUGUÊS INSTRUMENTAL",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1301236",
+        "name": "SEMINARIO I REALID EDUC BRAS PEC MSC",
+        "category": "Complementar Flexiva",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1301237",
+        "name": "TOPICOS ESPEC CULT GEN RELIG PEC MSC",
+        "category": "Complementar Flexiva",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1301234",
+        "name": "FUND SOCIOHISTORICOS EDUC CAMPO PEC MSC",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1301231",
+          "1301232"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1301235",
+        "name": "EDUC ECON POP SOLID PRAT ASSOC PEC MSC",
+        "category": "Complementar Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1303220",
+        "name": "POLITICA EDUCACIONAL PEC MSC",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1303221",
+        "name": "PESQUISA E PRATICAS EDUCATIVA I PEC MSC",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "75h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+          "1303210"
+        ]
+      },
+      {
+        "id": "1301259",
+        "name": "SEMINARIO II REALID EDUC BRAS DO CAMPO",
+        "category": "Complementar Flexiva",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1301257",
+        "name": "FUNDAMENTOS DA EDUC E DO ENSINO FUNDAMEN",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1303220"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1301258",
+        "name": "GESTAO EDUCACIONAL",
+        "category": "Complementar Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1302292",
+        "name": "EDUCACAO E MOVIMENTOS SOCIAIS MSC",
+        "category": "Complementar Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1302293",
+        "name": "DIDATICA MSC",
+        "category": "Complementar Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1302369",
+        "name": "PROJETO DE PESQUISA E EXTENSAO",
+        "category": "Complementar Obrigatória",
+        "semester": 3,
+        "workload": "90h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1303245",
+        "name": "PESQUISA E PRATICAS EDUCATIVA II",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1303221"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1302426",
+        "name": "PLANEJAMENTO E AVALIAÇAO EDUC  PECMSC",
+        "category": "Optativa",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1302293"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1301273",
+        "name": "FUNDAMENTOS DA EJA  PECMSC",
+        "category": "Complementar Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1302467",
+        "name": "ARTES E EDUCAÇÃO  PECMSC",
+        "category": "Complementar Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1303365",
+        "name": "CURRÍCULO E EDUCAÇÃO PECMSC",
+        "category": "Complementar Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1303366",
+        "name": "PESQUISA E PRÁTICAS EDUC III PEC MSC",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1303367",
+        "name": "PROJETO DE PESQ E EXTENSÃO II PECMSC",
+        "category": "Complementar Obrigatória",
+        "semester": 4,
+        "workload": "90h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1302369"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1303368",
+        "name": "ESTÁGIO SUPERVISIONADO I  PECMSC",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1303245"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1302469",
+        "name": "ORGANIZAÇOA E PRATICA DA ED ESP PECMSC",
+        "category": "Optativa",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1302473",
+        "name": "TOP ESP TEPSOFINAS DE ART E ED PECMSC",
+        "category": "Complementar Flexiva",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1302468",
+        "name": "CONTEUDO E METOD DO ENS DE PORT PECMSC",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "75h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1403163",
+          "1403153"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1302470",
+        "name": "ORGANIZAÇOA E PRATICA DA EJA PECMSC",
+        "category": "Complementar Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1301273"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1302471",
+        "name": "CONTEUDO E METOD DO ENS DE HIST PECMSC",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1301232"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1302472",
+        "name": "CONTEUDO E METOD DO ENS DE GEO PECMSC",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1302474",
+        "name": "ESTAGIO SUPERVISIONADO II PECMSC",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "75h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1303368"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1301286",
+        "name": "TOP ESP EDUC CAMPO E DESV AUTOPEC MSC",
+        "category": "Complementar Flexiva",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1302500",
+        "name": "EDUCAÇÃO POPULAR",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1302501",
+        "name": "CONTEÚDO E METODOL DO ENS DA MATPEC MSC",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "75h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1302502",
+        "name": "CONTEÚDO E MET DO ENS DE CIÊNCPEC MSC",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1302503",
+        "name": "ALFABPROC  MÉTOD E PRÁTICASPEC MSC",
+        "category": "Complementar Obrigatória",
+        "semester": 6,
+        "workload": "75h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1302504",
+        "name": "ESTÁGIO SUPERVISIONADO III  PEC MSC",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "120h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1302474"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1301287",
+        "name": "EDUCAÇÃO AMBIENTAL PECMSC",
+        "category": "Optativa",
+        "semester": 7,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1303382",
+        "name": "EDUCAÇÃO E TRABALHO  PEC MSC",
+        "category": "Optativa",
+        "semester": 7,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1303391",
+        "name": "TECNOL EDUC E PROC INCLUSIVOS  PEC MSC",
+        "category": "Optativa",
+        "semester": 7,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1302508",
+        "name": "TEORIAS E PRÁT DA ED POPULARPEC MSC",
+        "category": "Complementar Obrigatória",
+        "semester": 7,
+        "workload": "75h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1302500"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1303389",
+        "name": "ESTÁGIO SUPERVISIONADO IV  PEC MSC",
+        "category": "Obrigatória",
+        "semester": 7,
+        "workload": "120h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1302504"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1301288",
+        "name": "SEMINÁRIO TEMÁTICO  PEC MSC",
+        "category": "Complementar Flexiva",
+        "semester": 8,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1303383",
+        "name": "ORGANIZ DO TRAB DE CONCL CURSO PEC MSC",
+        "category": "Complementar Obrigatória",
+        "semester": 8,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1303383",
+            "turmaid": "01",
+            "nome": " ORGANIZ DO TRAB DE CONCL CURSO PEC MSC",
+            "semester": "2018.2",
+            "professor": "ANA PAULA ROMAO DE SOUZA FERREIRA",
+            "horario": "3N5612",
+            "local": "CE 311 (CE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1303390",
+        "name": "ESTÁGIO SUPERVISIONADO V  PEC MSC",
+        "category": "Obrigatória",
+        "semester": 8,
+        "workload": "120h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1303390",
+            "turmaid": "01",
+            "nome": " ESTÁGIO SUPERVISIONADO V  PEC MSC",
+            "semester": "2018.2",
+            "professor": "A DEFINIR",
+            "horario": "5N561234 6N56",
+            "local": "MESTR 02 (CE)"
+          }
+        ],
+        "prerequisites": [
+          "1303389"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDLS0024",
+        "name": "LIBRAS",
+        "category": "Complementar Obrigatória",
+        "semester": 8,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDLS0024",
+            "turmaid": "05",
+            "nome": " LIBRAS",
+            "semester": "2018.2",
+            "professor": "EVERTON DE LIMA SILVA",
+            "horario": "4M2345",
+            "local": "CAH 103 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      }
+    ]
+  }
+}

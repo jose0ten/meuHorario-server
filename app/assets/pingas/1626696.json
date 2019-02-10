@@ -1,0 +1,2153 @@
+{
+  "curriculum": {
+    "id": "622008",
+    "codigo": "1626696",
+    "name": "CIÊNCIAS ECONÔMICAS - João Pessoa - Presencial - MT - BACHARELADO",
+    "faculty": "CENTRO DE CIÊNCIAS SOCIAIS E APLICADAS (CCSA) (11.00.52)",
+    "minch": "255",
+    "maxch": "570",
+    "semesters": 8,
+    "courses": [
+      {
+        "id": "1107159",
+        "name": "PRINCIPIO DE COMPUTACAO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1107159",
+            "turmaid": "01",
+            "nome": " PRINCIPIO DE COMPUTACAO",
+            "semester": "2018.2",
+            "professor": "FRANCISCO DE ASSIS COUTINHO SOUTO",
+            "horario": "24N12",
+            "local": "Laboratório de Informática II - LABINF II (CCHSA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+          "1204186"
+        ]
+      },
+      {
+        "id": "1201290",
+        "name": "TOPICOS AVANCADOS EM ECONOMIA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1201103"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1204140",
+        "name": "INTRODUCAO A ADMINISTRACAO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+          "GDTH0028"
+        ]
+      },
+      {
+        "id": "1204224",
+        "name": "INTRODUCAO A ADMINISTRACAO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1401133",
+        "name": "INTRODUCAO A SOCIOLOGIA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1402118",
+        "name": "ETICA I",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1402240",
+        "name": "INTRODUCAO A FILOSOFIA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1402246",
+        "name": "LOGICA FORMAL",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1403747",
+        "name": "LIBRAS  LÍNGUA BRASILEIRA DE SINAIS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1408193",
+        "name": "HISTORIA DA AMERICA III",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1408196",
+        "name": "HISTORIA DA PARAIBA II",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDLS0024",
+        "name": "LIBRAS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GPSAE0101",
+        "name": "GESTÃO DE RISCO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GPSAE0102",
+        "name": "COMERCIO EXTERIOR",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GPSAE0103",
+        "name": "MERCADO DE DERIVATIVOS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GPSAE0103",
+            "turmaid": "01",
+            "nome": " MERCADO DE DERIVATIVOS",
+            "semester": "2018.2",
+            "professor": "SINEZIO FERNANDES MAIA",
+            "horario": "2N12 5N34",
+            "local": "CAG 102 (PRG) / CAG 103 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GPSAE0104",
+        "name": "EMPREENDEDORISMO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1103233",
+        "name": "MATEMATICA PARA ECONOMIA I",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1103233",
+            "turmaid": "01",
+            "nome": " MATEMATICA PARA ECONOMIA I",
+            "semester": "2018.2",
+            "professor": "JOAO BATISTA ALVES PARENTE",
+            "horario": "35M45",
+            "local": "CCSA 231 (CCSA)"
+          },
+          {
+            "id": "1103233",
+            "turmaid": "02",
+            "nome": " MATEMATICA PARA ECONOMIA I",
+            "semester": "2018.2",
+            "professor": "JOAO BATISTA ALVES PARENTE",
+            "horario": "35N12",
+            "local": "CCSA 224 (CCSA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1201181",
+        "name": "INTRODUCAO A ECONOMIA",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1201181",
+            "turmaid": "01",
+            "nome": " INTRODUCAO A ECONOMIA",
+            "semester": "2018.2",
+            "professor": "PAULO AGUIAR DO MONTE",
+            "horario": "24M45",
+            "local": "CCSA 231 (CCSA)"
+          },
+          {
+            "id": "1201181",
+            "turmaid": "02",
+            "nome": " INTRODUCAO A ECONOMIA",
+            "semester": "2018.2",
+            "professor": "PAULO FERNANDO DE MOURA BEZERRA CAVALCANTI FILHO",
+            "horario": "2N34 4N12",
+            "local": "CCSA 224 (CCSA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+          "1201295"
+        ]
+      },
+      {
+        "id": "1201182",
+        "name": "FUNDAMENTOS DAS IDEIAS ECONOMICAS",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1201182",
+            "turmaid": "01",
+            "nome": " FUNDAMENTOS DAS IDEIAS ECONOMICAS",
+            "semester": "2018.2",
+            "professor": "ALEXANDRE LYRA MARTINS",
+            "horario": "25M23",
+            "local": "CCSA 231 (CCSA)"
+          },
+          {
+            "id": "1201182",
+            "turmaid": "02",
+            "nome": " FUNDAMENTOS DAS IDEIAS ECONOMICAS",
+            "semester": "2018.2",
+            "professor": "ROSANGELA PALHANO RAMALHO",
+            "horario": "36N34",
+            "local": "CCSA 224 (CCSA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1202283",
+        "name": "INTRODUCAO A ANALISE DE BALANCO",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1202283",
+            "turmaid": "02",
+            "nome": " INTRODUCAO A ANALISE DE BALANCO",
+            "semester": "2018.2",
+            "professor": "PEDRO SABINO DE FARIAS NETO",
+            "horario": "46N34",
+            "local": "CAE 108 (PRG)"
+          },
+          {
+            "id": "1202283",
+            "turmaid": "03",
+            "nome": " INTRODUCAO A ANALISE DE BALANCO",
+            "semester": "2018.2",
+            "professor": "DANIELLE KARLA VIEIRA E SILVA",
+            "horario": "3M123 5M1",
+            "local": "CCSA 231 (CCSA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1205003",
+        "name": "METODOLOGIA DO TRABALHO CIENTÍFICO",
+        "category": "Complementar Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1205003",
+            "turmaid": "02",
+            "nome": " METODOLOGIA DO TRABALHO CIENTÍFICO",
+            "semester": "2018.2",
+            "professor": "ALZIRA KARLA ARAUJO DA SILVA",
+            "horario": "4N34 6N12",
+            "local": "CCSA 224 (CCSA)"
+          },
+          {
+            "id": "1205003",
+            "turmaid": "03",
+            "nome": " METODOLOGIA DO TRABALHO CIENTÍFICO",
+            "semester": "2018.2",
+            "professor": "EDNA GOMES PINHEIRO",
+            "horario": "4M3 6M123",
+            "local": "CCSA 231 (CCSA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+          "1401140",
+          "1709001",
+          "GDTH0036"
+        ]
+      },
+      {
+        "id": "1408125",
+        "name": "HISTORIA ECONOMICA GERAL",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1408125",
+            "turmaid": "01",
+            "nome": " HISTORIA ECONOMICA GERAL",
+            "semester": "2018.2",
+            "professor": "FLAVIO LUCIO RODRIGUES VIEIRA",
+            "horario": "4M12 6M45",
+            "local": "CCSA 231 (CCSA)"
+          },
+          {
+            "id": "1408125",
+            "turmaid": "02",
+            "nome": " HISTORIA ECONOMICA GERAL",
+            "semester": "2018.2",
+            "professor": "FLAVIO LUCIO RODRIGUES VIEIRA",
+            "horario": "2N12 5N34",
+            "local": "CCSA 224 (CCSA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1201154",
+        "name": "MATEMÁTICA FINANCEIRA (ECONOMIA)",
+        "category": "Optativa",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1201154",
+            "turmaid": "01",
+            "nome": " MATEMÁTICA FINANCEIRA (ECONOMIA)",
+            "semester": "2018.2",
+            "professor": "JORGE HENRIQUE NOROES VIANA",
+            "horario": "4N34 5N12",
+            "local": "CCSA 210 (CCSA)"
+          }
+        ],
+        "prerequisites": [
+          "1103233"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1201287",
+        "name": "ECONOMIA DAS MICRO E PEQUENAS EMPRESAS",
+        "category": "Optativa",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1201181"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1201289",
+        "name": "COMERCIO ELETRONICO",
+        "category": "Optativa",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1201181"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1201300",
+        "name": "ECONOMIA DO TURISMO",
+        "category": "Optativa",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1201181"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1204225",
+        "name": "ADMINISTRACAO DE PEQUENAS E MÉDIAS EMPRESAS",
+        "category": "Optativa",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1204224"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1103234",
+        "name": "MATEMATICA PARA ECONOMIA II",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1103234",
+            "turmaid": "01",
+            "nome": " MATEMATICA PARA ECONOMIA II",
+            "semester": "2018.2",
+            "professor": "ROGERIA GAUDENCIO DO REGO",
+            "horario": "35M45",
+            "local": "CCSA 230 (CCSA)"
+          },
+          {
+            "id": "1103234",
+            "turmaid": "02",
+            "nome": " MATEMATICA PARA ECONOMIA II",
+            "semester": "2018.2",
+            "professor": "ROGERIA GAUDENCIO DO REGO",
+            "horario": "35N12",
+            "local": "CCSA 206 (CCSA)"
+          }
+        ],
+        "prerequisites": [
+          "1103233"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1201109",
+        "name": "CONTABILIDADE SOCIAL",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1201109",
+            "turmaid": "01",
+            "nome": " CONTABILIDADE SOCIAL",
+            "semester": "2018.2",
+            "professor": "WALLACE PATRICK SANTOS DE FARIAS SOUZA",
+            "horario": "24M45",
+            "local": "CCSA 230 (CCSA)"
+          },
+          {
+            "id": "1201109",
+            "turmaid": "02",
+            "nome": " CONTABILIDADE SOCIAL",
+            "semester": "2018.2",
+            "professor": "WALLACE PATRICK SANTOS DE FARIAS SOUZA",
+            "horario": "2N34 4N12",
+            "local": "CCSA 206 (CCSA)"
+          }
+        ],
+        "prerequisites": [
+          "1201181"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1201136",
+        "name": "ECONOMIA PARAIBANA",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1201136",
+            "turmaid": "01",
+            "nome": " ECONOMIA PARAIBANA",
+            "semester": "2018.2",
+            "professor": "WANDERLEYA DOS SANTOS FARIAS",
+            "horario": "2N12 5N34",
+            "local": "CAD 105 (PRG) / CAD 107 (PRG)"
+          },
+          {
+            "id": "1201136",
+            "turmaid": "02",
+            "nome": " ECONOMIA PARAIBANA",
+            "semester": "2018.2",
+            "professor": "WANDERLEYA DOS SANTOS FARIAS",
+            "horario": "2M12 5M23",
+            "local": "CCSA 230 (CCSA)"
+          }
+        ],
+        "prerequisites": [
+          "1201181"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1201138",
+        "name": "ECONOMIA POLITICA I",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1201138",
+            "turmaid": "01",
+            "nome": " ECONOMIA POLITICA I",
+            "semester": "2018.2",
+            "professor": "ROSANGELA PALHANO RAMALHO",
+            "horario": "3M12 6M45",
+            "local": "CCSA 230 (CCSA)"
+          },
+          {
+            "id": "1201138",
+            "turmaid": "02",
+            "nome": " ECONOMIA POLITICA I",
+            "semester": "2018.2",
+            "professor": "ROSANGELA PALHANO RAMALHO",
+            "horario": "2N12 5N34",
+            "local": "CCSA 206 (CCSA)"
+          }
+        ],
+        "prerequisites": [
+          "1201182"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1201188",
+        "name": "HISTORIA DO PENSAMENTO ECONOMICO",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1201188",
+            "turmaid": "01",
+            "nome": " HISTORIA DO PENSAMENTO ECONOMICO",
+            "semester": "2018.2",
+            "professor": "TIAGO FARIAS SOBEL",
+            "horario": "3M3 4M123",
+            "local": "CCSA 230 (CCSA)"
+          },
+          {
+            "id": "1201188",
+            "turmaid": "02",
+            "nome": " HISTORIA DO PENSAMENTO ECONOMICO",
+            "semester": "2018.2",
+            "professor": "TIAGO FARIAS SOBEL",
+            "horario": "4N34 6N12",
+            "local": "CCSA 206 (CCSA)"
+          }
+        ],
+        "prerequisites": [
+          "1201181",
+          "1201182"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1401282",
+        "name": "CIENCIA POLITICA",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1401282",
+            "turmaid": "01",
+            "nome": " CIENCIA POLITICA",
+            "semester": "2018.2",
+            "professor": "ANA EDITE RIBEIRO MONTOIA",
+            "horario": "2M3 6M123",
+            "local": "CCSA 230 (CCSA)"
+          },
+          {
+            "id": "1401282",
+            "turmaid": "02",
+            "nome": " CIENCIA POLITICA",
+            "semester": "2018.2",
+            "professor": "MARI CRISTINA DE FREITAS FAGUNDES",
+            "horario": "36N34",
+            "local": "CCSA 206 (CCSA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1103235",
+        "name": "MATEMATICA PARA ECONOMIA III",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1103235",
+            "turmaid": "01",
+            "nome": " MATEMATICA PARA ECONOMIA III",
+            "semester": "2018.2",
+            "professor": "JOAO BOSCO NOGUEIRA",
+            "horario": "26M12",
+            "local": "CCSA 232 (CCSA)"
+          },
+          {
+            "id": "1103235",
+            "turmaid": "02",
+            "nome": " MATEMATICA PARA ECONOMIA III",
+            "semester": "2018.2",
+            "professor": "JOAO BOSCO NOGUEIRA",
+            "horario": "35N12",
+            "local": "CAD 108 (PRG)"
+          }
+        ],
+        "prerequisites": [
+          "1103234"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1108100",
+        "name": "CÁLCULO DAS PROBABILIDADES E  ESTATÍSTICA I",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1108100",
+            "turmaid": "03",
+            "nome": " CÁLCULO DAS PROBABILIDADES E  ESTATÍSTICA I",
+            "semester": "2018.2",
+            "professor": "JOAO AGNALDO DO NASCIMENTO e IZABEL CRISTINA ALCANTARA DE SOUZA",
+            "horario": "35M23",
+            "local": "CCSA 232 (CCSA)"
+          },
+          {
+            "id": "1108100",
+            "turmaid": "08",
+            "nome": " CÁLCULO DAS PROBABILIDADES E  ESTATÍSTICA I",
+            "semester": "2018.2",
+            "professor": "ANA HERMINIA ANDRADE E SILVA e ANA FLAVIA UZEDA DOS SANTOS MACAMBIRA",
+            "horario": "35N12",
+            "local": "CAA 104 (PRG)"
+          }
+        ],
+        "prerequisites": [
+          "1103233"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1201101",
+        "name": "ANÁLISE MACROECONÔMICA I",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1201101",
+            "turmaid": "01",
+            "nome": " ANÁLISE MACROECONÔMICA I",
+            "semester": "2018.2",
+            "professor": "EDILEAN KLEBER DA SILVA BEJARANO ARAGON",
+            "horario": "24M45",
+            "local": "CCSA 232 (CCSA)"
+          },
+          {
+            "id": "1201101",
+            "turmaid": "02",
+            "nome": " ANÁLISE MACROECONÔMICA I",
+            "semester": "2018.2",
+            "professor": "GABRIELA BEZERRA DE MEDEIROS",
+            "horario": "2N34 4N12",
+            "local": "CCSA 232 (CCSA)"
+          }
+        ],
+        "prerequisites": [
+          "1201109",
+          "1103233"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1201104",
+        "name": "ANÁLISE MICROECONÔMICA I",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1201104",
+            "turmaid": "01",
+            "nome": " ANÁLISE MICROECONÔMICA I",
+            "semester": "2018.2",
+            "professor": "HILTON MARTINS DE BRITO RAMALHO",
+            "horario": "35M45",
+            "local": "CCSA 232 (CCSA)"
+          },
+          {
+            "id": "1201104",
+            "turmaid": "02",
+            "nome": " ANÁLISE MICROECONÔMICA I",
+            "semester": "2018.2",
+            "professor": "SHIRLEY PEREIRA DE MESQUITA",
+            "horario": "3N34 6N12",
+            "local": "CAE 104 (PRG)"
+          }
+        ],
+        "prerequisites": [
+          "1201181",
+          "1103234"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1201139",
+        "name": "ECONOMIA POLITICA II",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1201139",
+            "turmaid": "01",
+            "nome": " ECONOMIA POLITICA II",
+            "semester": "2018.2",
+            "professor": "NELSON ROSAS RIBEIRO",
+            "horario": "3M1 6M345",
+            "local": "CCSA 232 (CCSA)"
+          },
+          {
+            "id": "1201139",
+            "turmaid": "02",
+            "nome": " ECONOMIA POLITICA II",
+            "semester": "2018.2",
+            "professor": "REJANE GOMES CARVALHO",
+            "horario": "2N12 5N34",
+            "local": "CCSA 208 (CCSA)"
+          }
+        ],
+        "prerequisites": [
+          "1201138"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1201183",
+        "name": "ECONOMIA E ETICA",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1201183",
+            "turmaid": "01",
+            "nome": " ECONOMIA E ETICA",
+            "semester": "2018.2",
+            "professor": "ALEXANDRE LYRA MARTINS",
+            "horario": "45N34",
+            "local": "CAE 106 (PRG) / CAF 102 (PRG)"
+          },
+          {
+            "id": "1201183",
+            "turmaid": "02",
+            "nome": " ECONOMIA E ETICA",
+            "semester": "2018.2",
+            "professor": "ALEXANDRE LYRA MARTINS",
+            "horario": "4M123 5M1",
+            "local": "CCSA 232 (CCSA)"
+          }
+        ],
+        "prerequisites": [
+          "1201182"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1201112",
+        "name": "ECONOMIA AGRICOLA",
+        "category": "Optativa",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1201104"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1201117",
+        "name": "ECONOMIA DA POPULACAO",
+        "category": "Optativa",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1108100"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1201120",
+        "name": "ECONOMIA DO TRABALHO",
+        "category": "Optativa",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1201138",
+          "1201104"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1201130",
+        "name": "ECONOMIA INDUSTRIAL",
+        "category": "Optativa",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1201104"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1201140",
+        "name": "ECONOMIA POLITICA III",
+        "category": "Optativa",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1201139"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1201293",
+        "name": "ECONOMIA URBANA",
+        "category": "Optativa",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1201101",
+          "1201104"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1201102",
+        "name": "ANÁLISE MACROECONÔMICA II",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1201102",
+            "turmaid": "01",
+            "nome": " ANÁLISE MACROECONÔMICA II",
+            "semester": "2018.2",
+            "professor": "MAGNO VAMBERTO BATISTA DA SILVA",
+            "horario": "24M45",
+            "local": "CCSA 229 (CCSA)"
+          },
+          {
+            "id": "1201102",
+            "turmaid": "02",
+            "nome": " ANÁLISE MACROECONÔMICA II",
+            "semester": "2018.2",
+            "professor": "MAGNO VAMBERTO BATISTA DA SILVA",
+            "horario": "2N34 4N12",
+            "local": "CCSA 208 (CCSA)"
+          }
+        ],
+        "prerequisites": [
+          "1201101",
+          "1201104"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1201105",
+        "name": "ANÁLISE MICROECONÔMICA II",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1201105",
+            "turmaid": "01",
+            "nome": " ANÁLISE MICROECONÔMICA II",
+            "semester": "2018.2",
+            "professor": "ADRIANO FIRMINO VALDEVINO DE ARAUJO",
+            "horario": "35M45",
+            "local": "CCSA 229 (CCSA)"
+          },
+          {
+            "id": "1201105",
+            "turmaid": "02",
+            "nome": " ANÁLISE MICROECONÔMICA II",
+            "semester": "2018.2",
+            "professor": "ADRIANO NASCIMENTO DA PAIXÃO",
+            "horario": "3N34 6N12",
+            "local": "CCSA 232 (CCSA)"
+          }
+        ],
+        "prerequisites": [
+          "1201104"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1201119",
+        "name": "ECONOMIA DO SETOR PUBLICO I",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1201119",
+            "turmaid": "01",
+            "nome": " ECONOMIA DO SETOR PUBLICO I",
+            "semester": "2018.2",
+            "professor": "JORGE LUIZ MARIANO DA SILVA",
+            "horario": "46N34",
+            "local": "CAD 105 (PRG)"
+          },
+          {
+            "id": "1201119",
+            "turmaid": "02",
+            "nome": " ECONOMIA DO SETOR PUBLICO I",
+            "semester": "2018.2",
+            "professor": "JORGE LUIZ MARIANO DA SILVA",
+            "horario": "3M3 6M123",
+            "local": "CCSA 229 (CCSA)"
+          }
+        ],
+        "prerequisites": [
+          "1201101",
+          "1201104"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1201184",
+        "name": "INTRODUCAO A ECONOMETRIA",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1201184",
+            "turmaid": "01",
+            "nome": " INTRODUCAO A ECONOMETRIA",
+            "semester": "2018.2",
+            "professor": "PAULO AMILTON MAIA LEITE FILHO",
+            "horario": "35N12",
+            "local": "CAE 101 (PRG) / CAE 104 (PRG)"
+          },
+          {
+            "id": "1201184",
+            "turmaid": "03",
+            "nome": " INTRODUCAO A ECONOMETRIA",
+            "semester": "2018.2",
+            "professor": "SINEZIO FERNANDES MAIA",
+            "horario": "2M12 5M23",
+            "local": "LAB. ECONOMIA (CCSA)"
+          }
+        ],
+        "prerequisites": [
+          "1108100"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1201185",
+        "name": "ECONOMIA MONETARIA E FINANCEIRA",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1201185",
+            "turmaid": "01",
+            "nome": " ECONOMIA MONETARIA E FINANCEIRA",
+            "semester": "2018.2",
+            "professor": "HELIO DE SOUSA RAMOS FILHO",
+            "horario": "3M12 6M45",
+            "local": "CCSA 229 (CCSA)"
+          },
+          {
+            "id": "1201185",
+            "turmaid": "02",
+            "nome": " ECONOMIA MONETARIA E FINANCEIRA",
+            "semester": "2018.2",
+            "professor": "HELIO DE SOUSA RAMOS FILHO",
+            "horario": "46N34",
+            "local": "CAH 101 (PRG)"
+          }
+        ],
+        "prerequisites": [
+          "1201101"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1201189",
+        "name": "ECONOMIA BRASILEIRA I",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1201189",
+            "turmaid": "01",
+            "nome": " ECONOMIA BRASILEIRA I",
+            "semester": "2018.2",
+            "professor": "WALLACE PATRICK SANTOS DE FARIAS SOUZA",
+            "horario": "2M3 4M123",
+            "local": "CCSA 229 (CCSA)"
+          },
+          {
+            "id": "1201189",
+            "turmaid": "02",
+            "nome": " ECONOMIA BRASILEIRA I",
+            "semester": "2018.2",
+            "professor": "GABRIELA BEZERRA DE MEDEIROS",
+            "horario": "2N12 5N34",
+            "local": "CCSA 210 (CCSA)"
+          }
+        ],
+        "prerequisites": [
+          "1201188",
+          "1408125",
+          "1201101"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1201134",
+        "name": "ECONOMIA MATEMATICA",
+        "category": "Optativa",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1103235",
+          "1201102"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1201281",
+        "name": "ECONOMIA DOS SERVICOS",
+        "category": "Optativa",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1201102"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1201286",
+        "name": "ECONOMIA AMBIENTAL",
+        "category": "Optativa",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1201101",
+          "1201105"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1201288",
+        "name": "ECONOMIA DA EMPRESA",
+        "category": "Optativa",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1201105",
+          "1201188"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1201291",
+        "name": "POLITICA AGRICOLA",
+        "category": "Optativa",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1201119"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1201103",
+        "name": "ANÁLISE MACROECONÔMICA III",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1201103",
+            "turmaid": "01",
+            "nome": " ANÁLISE MACROECONÔMICA III",
+            "semester": "2018.2",
+            "professor": "JOSE LUIS DA SILVA NETTO JUNIOR",
+            "horario": "2N34 4N12",
+            "local": "CCSA 210 (CCSA)"
+          },
+          {
+            "id": "1201103",
+            "turmaid": "02",
+            "nome": " ANÁLISE MACROECONÔMICA III",
+            "semester": "2018.2",
+            "professor": "PAULO FERNANDO DE MOURA BEZERRA CAVALCANTI FILHO",
+            "horario": "24M45",
+            "local": "CCSA 233 (CCSA)"
+          }
+        ],
+        "prerequisites": [
+          "1201102"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1201106",
+        "name": "ANALISE MICROECONÔMICA III",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1201106",
+            "turmaid": "01",
+            "nome": " ANALISE MICROECONÔMICA III",
+            "semester": "2018.2",
+            "professor": "JORGE LUIZ MARIANO DA SILVA",
+            "horario": "3N34 6N12",
+            "local": "CAD 110 (PRG)"
+          },
+          {
+            "id": "1201106",
+            "turmaid": "02",
+            "nome": " ANALISE MICROECONÔMICA III",
+            "semester": "2018.2",
+            "professor": "MARIA DA CONCEICAO SAMPAIO DE SOUSA",
+            "horario": "35M45",
+            "local": "CCSA 233 (CCSA)"
+          }
+        ],
+        "prerequisites": [
+          "1201105"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1201116",
+        "name": "ECONOMIA BRASILEIRA II",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1201116",
+            "turmaid": "01",
+            "nome": " ECONOMIA BRASILEIRA II",
+            "semester": "2018.2",
+            "professor": "LUCAS MILANEZ DE LIMA ALMEIDA",
+            "horario": "2N12 6N34",
+            "local": "CAE 106 (PRG) / CAE 107 (PRG)"
+          },
+          {
+            "id": "1201116",
+            "turmaid": "02",
+            "nome": " ECONOMIA BRASILEIRA II",
+            "semester": "2018.2",
+            "professor": "LUCAS MILANEZ DE LIMA ALMEIDA",
+            "horario": "2M3 4M123",
+            "local": "CCSA 233 (CCSA)"
+          }
+        ],
+        "prerequisites": [
+          "1201102",
+          "1201189"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1201186",
+        "name": "ECONOMIA REGIONAL I",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1201186",
+            "turmaid": "01",
+            "nome": " ECONOMIA REGIONAL I",
+            "semester": "2018.2",
+            "professor": "LIEDJE BETTIZAIDE OLIVEIRA DE SIQUEIRA",
+            "horario": "3M3 6M123",
+            "local": "LAB. ECONOMIA (CCSA)"
+          },
+          {
+            "id": "1201186",
+            "turmaid": "02",
+            "nome": " ECONOMIA REGIONAL I",
+            "semester": "2018.2",
+            "professor": "LIEDJE BETTIZAIDE OLIVEIRA DE SIQUEIRA",
+            "horario": "3N34 5N12",
+            "local": "CAG 105 (PRG) / CAB 104 (PRG)"
+          }
+        ],
+        "prerequisites": [
+          "1201181",
+          "1103234"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1201302",
+        "name": "ECONOMETRIA",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1201302",
+            "turmaid": "01",
+            "nome": " ECONOMETRIA",
+            "semester": "2018.2",
+            "professor": "ERIK ALENCAR DE FIGUEIREDO",
+            "horario": "35N12",
+            "local": "LAB. ECONOMIA (CCSA)"
+          },
+          {
+            "id": "1201302",
+            "turmaid": "02",
+            "nome": " ECONOMETRIA",
+            "semester": "2018.2",
+            "professor": "MERCIA SANTOS DA CRUZ",
+            "horario": "3M12 6M45",
+            "local": "LAB. ECONOMIA (CCSA)"
+          }
+        ],
+        "prerequisites": [
+          "1201102",
+          "1201184"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1501212",
+        "name": "INTRODUCAO AO ESTUDO DO DIREITO",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1501212",
+            "turmaid": "01",
+            "nome": " INTRODUCAO AO ESTUDO DO DIREITO",
+            "semester": "2018.2",
+            "professor": "MARINA JOSINO DA SILVA SOUZA",
+            "horario": "3N12 6N34",
+            "local": "CCSA 208 (CCSA)"
+          },
+          {
+            "id": "1501212",
+            "turmaid": "02",
+            "nome": " INTRODUCAO AO ESTUDO DO DIREITO",
+            "semester": "2018.2",
+            "professor": "EDWARD ANTONIO PINTO DE LEMOS",
+            "horario": "2M12 5M23",
+            "local": "CCSA 233 (CCSA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+          "1502231"
+        ]
+      },
+      {
+        "id": "1201161",
+        "name": "POLITICA E PLANEJAMENTO ECONOMICO",
+        "category": "Optativa",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1201161",
+            "turmaid": "01",
+            "nome": " POLITICA E PLANEJAMENTO ECONOMICO",
+            "semester": "2018.2",
+            "professor": "ADEMARIO FELIX DE ARAUJO FILHO",
+            "horario": "2N34 5N12",
+            "local": "CAE 105 (PRG) / CAF 103 (PRG)"
+          }
+        ],
+        "prerequisites": [
+          "1201103"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1201166",
+        "name": "PROJETOS TÉCNICO",
+        "category": "Optativa",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1202284",
+          "1201116"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1202105",
+        "name": "ANALISE DE CUSTO",
+        "category": "Optativa",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1202105",
+            "turmaid": "04",
+            "nome": " ANALISE DE CUSTO",
+            "semester": "2018.2",
+            "professor": "WENNER GLAUCIO LOPES LUCENA",
+            "horario": "23N34",
+            "local": "CAD 111 (PRG)"
+          }
+        ],
+        "prerequisites": [
+          "1202283"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1501216",
+        "name": "DIREITO ECONOMICO",
+        "category": "Optativa",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1501212"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1501236",
+        "name": "DIREITO ECONOMICO",
+        "category": "Optativa",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1501212"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1201113",
+        "name": "ECONOMIA BRASILEIRA CONTEMPORÂNEA",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1201113",
+            "turmaid": "01",
+            "nome": " ECONOMIA BRASILEIRA CONTEMPORÂNEA",
+            "semester": "2018.2",
+            "professor": "ADEMARIO FELIX DE ARAUJO FILHO",
+            "horario": "2N12 5N34",
+            "local": "CAF 103 (PRG) / CAF 102 (PRG)"
+          }
+        ],
+        "prerequisites": [
+          "1201116"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1201132",
+        "name": "ECONOMIA INTERNACIONAL  I",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1201132",
+            "turmaid": "01",
+            "nome": " ECONOMIA INTERNACIONAL  I",
+            "semester": "2018.2",
+            "professor": "MARCIA CRISTINA SILVA PAIXAO",
+            "horario": "3N34 6N12",
+            "local": "CAH 105 (PRG)"
+          }
+        ],
+        "prerequisites": [
+          "1201102",
+          "1201105"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1201170",
+        "name": "TEORIA DO DESENVOLVIMENTO SÓCIO",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1201170",
+            "turmaid": "01",
+            "nome": " TEORIA DO DESENVOLVIMENTO SÓCIO-ECONÔMICO",
+            "semester": "2018.2",
+            "professor": "IVAN TARGINO MOREIRA",
+            "horario": "2N34 4N12",
+            "local": "CAF 102 (PRG)"
+          }
+        ],
+        "prerequisites": [
+          "1201103"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1201190",
+        "name": "FINANCAS COORPORATIVAS",
+        "category": "Complementar Obrigatória",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1201190",
+            "turmaid": "01",
+            "nome": " FINANCAS COORPORATIVAS",
+            "semester": "2018.2",
+            "professor": "RAFAEL CAMPELO DE MELO FERRAZ",
+            "horario": "2N34 4N12",
+            "local": "CAE 104 (PRG)"
+          },
+          {
+            "id": "1201190",
+            "turmaid": "02",
+            "nome": " FINANCAS COORPORATIVAS",
+            "semester": "2018.2",
+            "professor": "RAFAEL CAMPELO DE MELO FERRAZ",
+            "horario": "24M23",
+            "local": "CCSA 234 (CCSA)"
+          }
+        ],
+        "prerequisites": [
+          "1201185"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1201191",
+        "name": "TECNICAS DE PESQUISA EM ECONOMIA",
+        "category": "Complementar Obrigatória",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1201191",
+            "turmaid": "01",
+            "nome": " TECNICAS DE PESQUISA EM ECONOMIA",
+            "semester": "2018.2",
+            "professor": "MERCIA SANTOS DA CRUZ",
+            "horario": "3N12 6N34",
+            "local": "CCSA 210 (CCSA)"
+          }
+        ],
+        "prerequisites": [
+          "1108100",
+          "1201102",
+          "1205003"
+        ],
+        "equivalences": [
+          "1201169"
+        ]
+      },
+      {
+        "id": "1201133",
+        "name": "ECONOMIA INTERNAC   II",
+        "category": "Optativa",
+        "semester": 7,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1201133",
+            "turmaid": "01",
+            "nome": " ECONOMIA INTERNAC   II",
+            "semester": "2018.2",
+            "professor": "HELIO DE SOUSA RAMOS FILHO",
+            "horario": "3N34 6N12",
+            "local": "CCSA 210 (CCSA)"
+          }
+        ],
+        "prerequisites": [
+          "1201132"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1201155",
+        "name": "MERCADO FINANCEIRO E DE  CAPITAIS",
+        "category": "Optativa",
+        "semester": 7,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1201155",
+            "turmaid": "01",
+            "nome": " MERCADO FINANCEIRO E DE  CAPITAIS",
+            "semester": "2018.2",
+            "professor": "BRUNO FERREIRA FRASCAROLI",
+            "horario": "45M45",
+            "local": "CCSA 234 (CCSA)"
+          },
+          {
+            "id": "1201155",
+            "turmaid": "02",
+            "nome": " MERCADO FINANCEIRO E DE  CAPITAIS",
+            "semester": "2018.2",
+            "professor": "ANTONIO VINICIUS BARROS BARBOSA",
+            "horario": "4N34 6N12",
+            "local": "CAE 104 (PRG) / CCSA 229 (CCSA)"
+          }
+        ],
+        "prerequisites": [
+          "1201190"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1201282",
+        "name": "EXPERIÊNCIAS DE DESENVOLVIMENTO COMPARADAS",
+        "category": "Optativa",
+        "semester": 7,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1201170"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1201283",
+        "name": "PERICIA ECONOMICA",
+        "category": "Optativa",
+        "semester": 7,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1201283",
+            "turmaid": "01",
+            "nome": " PERICIA ECONOMICA",
+            "semester": "2018.2",
+            "professor": "LAERCIO DAMIANE CERQUEIRA DA SILVA",
+            "horario": "35N12",
+            "local": "CAH 104 (PRG)"
+          }
+        ],
+        "prerequisites": [
+          "1501212",
+          "1201190"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1201284",
+        "name": "ECONOMIA REGIONAL II",
+        "category": "Optativa",
+        "semester": 7,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1201113",
+          "1201105"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1201285",
+        "name": "ECONOMIA DO SETOR PUBLICO II",
+        "category": "Optativa",
+        "semester": 7,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1201170"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1201292",
+        "name": "POBREZA E DESIGUALDADE",
+        "category": "Optativa",
+        "semester": 7,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1201170"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1201165",
+        "name": "PROJETOS TÉCNICO",
+        "category": "Complementar Obrigatória",
+        "semester": 7,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1201165",
+            "turmaid": "01",
+            "nome": " PROJETOS TÉCNICO-ECONÔMICOS  I",
+            "semester": "2018.2",
+            "professor": "ANA CLAUDIA DE QUEIROZ LIRA",
+            "horario": "4N34 6N12",
+            "local": "CCSA 208 (CCSA)"
+          }
+        ],
+        "prerequisites": [
+          "1201104"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1201192",
+        "name": "TRABALHO DE CONCLUSAO DO CURSO I",
+        "category": "Complementar Obrigatória",
+        "semester": 7,
+        "workload": "90h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1201192",
+            "turmaid": "01",
+            "nome": " TRABALHO DE CONCLUSAO DO CURSO I",
+            "semester": "2018.2",
+            "professor": "PAULO AGUIAR DO MONTE",
+            "horario": "7M123456 (22/11/2018 - 10/05/2019)",
+            "local": "CCSA 206 (CCSA)"
+          }
+        ],
+        "prerequisites": [
+          "1201191"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1201194",
+        "name": "ESTAGIO SUPERVISIONADO",
+        "category": "Complementar Obrigatória",
+        "semester": 7,
+        "workload": "120h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1201194",
+            "turmaid": "01",
+            "nome": " ESTAGIO SUPERVISIONADO",
+            "semester": "2018.2",
+            "professor": "TIAGO FARIAS SOBEL",
+            "horario": "7T123456 7N12 (22/11/2018 - 10/05/2019)",
+            "local": "CCSA 201 (CCSA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1201207",
+        "name": "TOPICOS ESPECIAIS EM ECONOMIA",
+        "category": "Complementar Flexiva",
+        "semester": 8,
+        "workload": "120h aula 0h lab.",
+        "type": "ESTÁGIO",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1201193",
+        "name": "TRABALHO DE CONCLUSAO DO CURSO II",
+        "category": "Complementar Obrigatória",
+        "semester": 8,
+        "workload": "90h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1201193",
+            "turmaid": "01",
+            "nome": " TRABALHO DE CONCLUSAO DO CURSO II",
+            "semester": "2018.2",
+            "professor": "LIEDJE BETTIZAIDE OLIVEIRA DE SIQUEIRA",
+            "horario": "7M123456 (22/11/2018 - 10/05/2019)",
+            "local": "CCSA 201 (CCSA)"
+          }
+        ],
+        "prerequisites": [
+          "1201192"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1201157",
+        "name": " MONOGRAFIA ECONOMIA",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": "30h",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1201157",
+            "turmaid": "01",
+            "nome": " MONOGRAFIA ECONOMIA",
+            "semester": "2018.2",
+            "professor": "ADEMARIO FELIX DE ARAUJO FILHO",
+            "horario": "7T123456 (22/11/2018 - 10/05/2019)",
+            "local": "CCSA 206 (CCSA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      }
+    ]
+  }
+}

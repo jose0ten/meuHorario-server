@@ -1,0 +1,1697 @@
+{
+  "curriculum": {
+    "id": "0692009",
+    "codigo": "1626850",
+    "name": "RELACÕES INTERNACIONAIS - João Pessoa - Presencial - N - BACHARELADO",
+    "faculty": "CENTRO DE CIÊNCIAS SOCIAIS E APLICADAS (CCSA) (11.00.52)",
+    "minch": "210",
+    "maxch": "360",
+    "semesters": 9,
+    "courses": [
+      {
+        "id": "1102249",
+        "name": "GEOGRAFIA ECONÔMICA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1102250",
+        "name": "GEOGRAFIA POLÍTICA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1102250",
+            "turmaid": "01",
+            "nome": " GEOGRAFIA POLÍTICA",
+            "semester": "2018.2",
+            "professor": "A DEFINIR",
+            "horario": "4M2345",
+            "local": "DGEOC A1 (CCEN)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1201307",
+        "name": "ECONOMIA INSTITUCIONAL",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1206015",
+        "name": "ESTUDOS REGIONAIS AFRICA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1206016",
+        "name": "INTRODUÇÃO AO DESENV INTERNACIONAL",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1206030",
+        "name": "AVALIAÇÃO DE CENÁRIOS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1206031",
+        "name": "ESTUDOS REGIONAIS AMÉRICA LATINA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1206032",
+        "name": "POLÍTICA E ECON NA AMÉRICA LAT CONTEMP",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1206033",
+        "name": "POLÍTICA AMBIENTAL GLOBAL",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1206034",
+        "name": "ECONOMIA POLÍTICA CONTEMPORANEA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1206036",
+        "name": "FORMDO PENSBRASEM RELINTERNACIONAIS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1206036",
+            "turmaid": "01",
+            "nome": " FORMDO PENSBRASEM RELINTERNACIONAIS",
+            "semester": "2018.2",
+            "professor": "DANIEL DE CAMPOS ANTIQUERA",
+            "horario": "4T2345",
+            "local": "CCSA 219 (CCSA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1206038",
+        "name": "NEGOCIAÇÕES INTERNACIONAIS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1206039",
+        "name": "OS ESTUNIDOS NAS RELINTERNACIONAIS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1206040",
+        "name": "ESTUDOS REG ORIENTE MÉDIO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1206040",
+            "turmaid": "01",
+            "nome": " ESTUDOS REG ORIENTE MÉDIO",
+            "semester": "2018.2",
+            "professor": "MARCOS ALAN SHAIKHZADEH VAHDAT FERREIRA",
+            "horario": "3N1234",
+            "local": "CCSA 223 (CCSA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1206041",
+        "name": "ESTUDOS REGIONAIS ÁSIA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1206042",
+        "name": "ESTUDOS REGIONAIS EUROPA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "MODULO",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1403747",
+        "name": "LIBRAS  LÍNGUA BRASILEIRA DE SINAIS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1404446",
+        "name": "INGLÊS APLICAOS NEGOCIOS INTERNACIONAIS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1404446",
+            "turmaid": "01",
+            "nome": " INGLÊS APLICAOS NEGOCIOS INTERNACIONAIS",
+            "semester": "2018.2",
+            "professor": "A DEFINIR",
+            "horario": "4N1234",
+            "local": "AMBIENTE  Inglês Instrumental 14 (CCHLA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1404447",
+        "name": "FRANCÊS APLICAOS NEGINTERNACIONAIS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1903018",
+        "name": "GESTÃO MUNICIPAL",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1903026",
+        "name": "ORÇAMENTO PUBLICO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDLS0024",
+        "name": "LIBRAS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDRIN0045",
+        "name": "TEMAS EM TEORIA DE RELAÇÕES INTERNACIONAIS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDRIN0046",
+        "name": "TEMAS EM POLÍTICA EXTERNA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDRIN0047",
+        "name": "TEMAS EM SEGURANÇA INTERNACIONAL",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDRIN0048",
+        "name": "TEMAS EM ECONOMIA POLÍTICA INTERNACIONAL",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDRIN0049",
+        "name": "TEMAS EM POLÍTICA INTERNACIONAL",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDRIN0050",
+        "name": "DIMENSÕES JURÍDICAS DAS RELAÇÕES INTERNACIONAIS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDRIN0051",
+        "name": "REVOLUÇÕES E CONTRARREVOLUÇÕES NA AMÉRICA LATINA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDRIN0052",
+        "name": "HISTÓRIA, CULTURA E PODER NAS RELAÇÕES INTERNACIONAIS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDRIN0053",
+        "name": "ANÁLISE POLÍTICA EXTERNA DO BRASIL",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDRIN0054",
+        "name": "POLÍTICAS PÚBLICAS E RELAÇÕES INTERNACIONAIS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDRIN0054",
+            "turmaid": "01",
+            "nome": " POLÍTICAS PÚBLICAS E RELAÇÕES INTERNACIONAIS",
+            "semester": "2018.2",
+            "professor": "DAVID SOARES DE SOUZA",
+            "horario": "5N1234",
+            "local": "CAF 104 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDRIN0055",
+        "name": "COOPERAÇÃO INTERNACIONAL PARA O DESENVOLVIMENTO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDRIN0056",
+        "name": "GLOBALIZAÇÃO E RELAÇÕES INTERNACIONAIS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDRIN0056",
+            "turmaid": "01",
+            "nome": " GLOBALIZAÇÃO E RELAÇÕES INTERNACIONAIS",
+            "semester": "2018.2",
+            "professor": "LILIANA RAMALHO FROIO",
+            "horario": "5T2345",
+            "local": "CCSA 219 (CCSA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDRIN0057",
+        "name": "ESTUDOS ESTRATÉGICOS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDRIN0057",
+            "turmaid": "01",
+            "nome": " ESTUDOS ESTRATÉGICOS",
+            "semester": "2018.2",
+            "professor": "AUGUSTO WAGNER MENEZES TEIXEIRA JUNIOR",
+            "horario": "6T2345",
+            "local": "CCSA 219 (CCSA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDRIN0058",
+        "name": "SOLUÇÃO PACÍFICA DE CONFLITOS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDRIN0059",
+        "name": "ESTUDOS DE PAZ",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDRIN0060",
+        "name": "ESTUDOS REGIONAIS EUROPA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDRIN0061",
+        "name": "RELAÇÕES INTERNACIONAIS E SISTEMAS AGROALIMENTARES",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1201298",
+        "name": "INTRODUCAO A ECONOMIA I",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1206001",
+        "name": "INTRODUÇÃO À CIÊNCIA POLÍTICA",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1206002",
+        "name": "INTRODUÇÃO ÀS RELAÇÕES INTERNACIONAIS",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1408125",
+        "name": "HISTORIA ECONOMICA GERAL",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1502227",
+        "name": "INTRODUÇÃO AO DIREITO",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1502251",
+        "name": "DIREITO INTERNPRIVADO",
+        "category": "Optativa",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1502227"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1201299",
+        "name": "INTRODUÇÃO A ECONOMIA II",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1201299",
+            "turmaid": "01",
+            "nome": " INTRODUÇÃO A ECONOMIA II",
+            "semester": "2018.2",
+            "professor": "ALESSIO TONY CAVALCANTI DE ALMEIDA",
+            "horario": "4M45 6M23",
+            "local": "CCSA 213 (CCSA)"
+          },
+          {
+            "id": "1201299",
+            "turmaid": "02",
+            "nome": " INTRODUÇÃO A ECONOMIA II",
+            "semester": "2018.2",
+            "professor": "LUCAS MILANEZ DE LIMA ALMEIDA",
+            "horario": "4N34 6N12",
+            "local": "CCSA 221 (CCSA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1205003",
+        "name": "METODOLOGIA DO TRABALHO CIENTÍFICO",
+        "category": "Complementar Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1205003",
+            "turmaid": "04",
+            "nome": " METODOLOGIA DO TRABALHO CIENTÍFICO",
+            "semester": "2018.2",
+            "professor": "GISELE ROCHA CORTES",
+            "horario": "2M2345",
+            "local": "CCSA 213 (CCSA)"
+          },
+          {
+            "id": "1205003",
+            "turmaid": "12",
+            "nome": " METODOLOGIA DO TRABALHO CIENTÍFICO",
+            "semester": "2018.2",
+            "professor": "EDILENE TOSCANO GALDINO DOS SANTOS",
+            "horario": "2N1234",
+            "local": "CCSA 221 (CCSA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+          "1401140",
+          "1709001",
+          "GDTH0036"
+        ]
+      },
+      {
+        "id": "1206003",
+        "name": "HIST DAS RELAÇ  INTERN NA IDADE MODERNA",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1206003",
+            "turmaid": "01",
+            "nome": " HIST DAS RELAÇ  INTERN NA IDADE MODERNA",
+            "semester": "2018.2",
+            "professor": "MOJANA VARGAS CORREIA DA SILVA",
+            "horario": "3N1234",
+            "local": "CCSA 221 (CCSA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1206004",
+        "name": "TEORIA DAS RELAÇÕES INTERNACIONAIS I",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1206004",
+            "turmaid": "01",
+            "nome": " TEORIA DAS RELAÇÕES INTERNACIONAIS I",
+            "semester": "2018.2",
+            "professor": "MARIANA PIMENTA OLIVEIRA BACCARINI",
+            "horario": "3M2345",
+            "local": "CCSA 213 (CCSA)"
+          },
+          {
+            "id": "1206004",
+            "turmaid": "02",
+            "nome": " TEORIA DAS RELAÇÕES INTERNACIONAIS I",
+            "semester": "2018.2",
+            "professor": "MARIANA PIMENTA OLIVEIRA BACCARINI",
+            "horario": "5N1234",
+            "local": "CCSA 221 (CCSA)"
+          }
+        ],
+        "prerequisites": [
+          "1206002"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1206005",
+        "name": "TEORIA POLÍTICA MODERNA",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1206005",
+            "turmaid": "01",
+            "nome": " TEORIA POLÍTICA MODERNA",
+            "semester": "2018.2",
+            "professor": "DANIEL DE CAMPOS ANTIQUERA",
+            "horario": "4M23 6M45",
+            "local": "CCSA 213 (CCSA)"
+          },
+          {
+            "id": "1206005",
+            "turmaid": "02",
+            "nome": " TEORIA POLÍTICA MODERNA",
+            "semester": "2018.2",
+            "professor": "DAVID SOARES DE SOUZA",
+            "horario": "4N12 6N34",
+            "local": "CCSA 221 (CCSA)"
+          }
+        ],
+        "prerequisites": [
+          "1206001"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1201306",
+        "name": "ECONOMIA DO SETOR PÚBLICO",
+        "category": "Optativa",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1201299"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1206035",
+        "name": "POLÍTICA COMPARADA",
+        "category": "Optativa",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1205003"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1206037",
+        "name": "SISTEMA FINANCEIRO INTERNACIONAL",
+        "category": "Optativa",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1201299"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1206006",
+        "name": "HISTÓRIA DAS RELAÇ INTERN NA ID CONTEMP",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1206006",
+            "turmaid": "01",
+            "nome": " HISTÓRIA DAS RELAÇ INTERN NA ID CONTEMP",
+            "semester": "2018.2",
+            "professor": "MOJANA VARGAS CORREIA DA SILVA",
+            "horario": "2T2345",
+            "local": "CCSA 213 (CCSA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1206007",
+        "name": "ECONOMIA E COMÉRCIO INTERNACIONAL I",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1201299"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1206009",
+        "name": "TEORIA DAS RELAÇÕES INTERNACIONAIS II",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1206004"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1206010",
+        "name": "TEORIA POLÍTICA CONTEMPORÂNEA",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1206001"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1206011",
+        "name": "INTRODUÇÃO À SOCIOLOGIA",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1206008",
+        "name": "GEOPOLÍTICA E SEGURANÇA",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1206008",
+            "turmaid": "01",
+            "nome": " GEOPOLÍTICA E SEGURANÇA",
+            "semester": "2018.2",
+            "professor": "AUGUSTO WAGNER MENEZES TEIXEIRA JUNIOR",
+            "horario": "6N1234",
+            "local": "CCSA 222 (CCSA)"
+          }
+        ],
+        "prerequisites": [
+          "1206002"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1206012",
+        "name": "REGIMES E ORGANIZAÇÕES INTERNACIONAIS",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1206012",
+            "turmaid": "01",
+            "nome": " REGIMES E ORGANIZAÇÕES INTERNACIONAIS",
+            "semester": "2018.2",
+            "professor": "IELBO MARCUS LOBO DE SOUZA",
+            "horario": "3M2345",
+            "local": "CCSA 218 (CCSA)"
+          },
+          {
+            "id": "1206012",
+            "turmaid": "02",
+            "nome": " REGIMES E ORGANIZAÇÕES INTERNACIONAIS",
+            "semester": "2018.2",
+            "professor": "IELBO MARCUS LOBO DE SOUZA",
+            "horario": "3N1234",
+            "local": "CCSA 222 (CCSA)"
+          }
+        ],
+        "prerequisites": [
+          "1206002"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1206013",
+        "name": "ECONOMIA E COMÉRCIO INTERNACIONAL II",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1206013",
+            "turmaid": "01",
+            "nome": " ECONOMIA E COMÉRCIO INTERNACIONAL II",
+            "semester": "2018.2",
+            "professor": "THIAGO LIMA DA SILVA",
+            "horario": "4M2345",
+            "local": "CCSA 218 (CCSA)"
+          },
+          {
+            "id": "1206013",
+            "turmaid": "02",
+            "nome": " ECONOMIA E COMÉRCIO INTERNACIONAL II",
+            "semester": "2018.2",
+            "professor": "THIAGO LIMA DA SILVA",
+            "horario": "4N1234",
+            "local": "CCSA 222 (CCSA)"
+          }
+        ],
+        "prerequisites": [
+          "1206007"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1408154",
+        "name": "FORMACAO ECONOMICA DO BRASIL",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1408154",
+            "turmaid": "01",
+            "nome": " FORMACAO ECONOMICA DO BRASIL",
+            "semester": "2018.2",
+            "professor": "JOSE ERNESTO PIMENTEL FILHO",
+            "horario": "5M2345",
+            "local": "CCSA 213 (CCSA)"
+          },
+          {
+            "id": "1408154",
+            "turmaid": "02",
+            "nome": " FORMACAO ECONOMICA DO BRASIL",
+            "semester": "2018.2",
+            "professor": "JOSE ERNESTO PIMENTEL FILHO",
+            "horario": "5N1234",
+            "local": "CCSA 222 (CCSA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1501230",
+        "name": "DIREITO INTERNACIONAL PÚBLICO REL INT",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1501230",
+            "turmaid": "02",
+            "nome": " DIREITO INTERNACIONAL PÚBLICO REL INT",
+            "semester": "2018.2",
+            "professor": "BASILE GEORGES CAMPOS CHRISTOPOULOS",
+            "horario": "2N1234",
+            "local": "CCSA 222 (CCSA)"
+          }
+        ],
+        "prerequisites": [
+          "1502227"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1501259",
+        "name": "DIREITO DAS RELAÇÕES INTERNACIONAIS",
+        "category": "Optativa",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1501230"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1201301",
+        "name": "ECONOMIA BRASILEIRA CONTEMPORÂNEA I",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1201301",
+            "turmaid": "01",
+            "nome": " ECONOMIA BRASILEIRA CONTEMPORÂNEA I",
+            "semester": "2018.2",
+            "professor": "ANDRE DE MATTOS MARQUES e JEVUKS MATHEUS DE ARAUJO",
+            "horario": "25M45",
+            "local": "CCSA 218 (CCSA)"
+          }
+        ],
+        "prerequisites": [
+          "1201299"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1206014",
+        "name": "PROCESSOS DE INTEGRAÇÃO REGIONAL",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1206014",
+            "turmaid": "01",
+            "nome": " PROCESSOS DE INTEGRAÇÃO REGIONAL",
+            "semester": "2018.2",
+            "professor": "ALINE CONTTI CASTRO",
+            "horario": "6M2345",
+            "local": "CCSA 218 (CCSA)"
+          }
+        ],
+        "prerequisites": [
+          "1206002"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1206018",
+        "name": "POLÍTICA INTERNACIONAL CONTEMPORÂNEA",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1206019",
+        "name": "ÉTICA E RELAÇÕES INTERNACIONAIS",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1201303",
+        "name": "ECONOMIA BRASILEIRA CONTEMPORÂNEA II",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1201303",
+            "turmaid": "01",
+            "nome": " ECONOMIA BRASILEIRA CONTEMPORÂNEA II",
+            "semester": "2018.2",
+            "professor": "FERNANDA BRAGA TAVARES",
+            "horario": "56N34",
+            "local": "CCSA 223 (CCSA)"
+          }
+        ],
+        "prerequisites": [
+          "1201301"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1206021",
+        "name": "ECONOMIA POLÍTICA INTERNACIONAL",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1206021",
+            "turmaid": "01",
+            "nome": " ECONOMIA POLÍTICA INTERNACIONAL",
+            "semester": "2018.2",
+            "professor": "HENRIQUE ZEFERINO DE MENEZES",
+            "horario": "2M2345",
+            "local": "CCSA 219 (CCSA)"
+          },
+          {
+            "id": "1206021",
+            "turmaid": "02",
+            "nome": " ECONOMIA POLÍTICA INTERNACIONAL",
+            "semester": "2018.2",
+            "professor": "HENRIQUE ZEFERINO DE MENEZES",
+            "horario": "2N1234",
+            "local": "CCSA 223 (CCSA)"
+          }
+        ],
+        "prerequisites": [
+          "1201299"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1206022",
+        "name": "ANÁLISE DE POLÍTICA EXTERNA",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1206022",
+            "turmaid": "01",
+            "nome": " ANÁLISE DE POLÍTICA EXTERNA",
+            "semester": "2018.2",
+            "professor": "MARCOS ALAN SHAIKHZADEH VAHDAT FERREIRA",
+            "horario": "3M2345",
+            "local": "CCSA 219 (CCSA)"
+          },
+          {
+            "id": "1206022",
+            "turmaid": "02",
+            "nome": " ANÁLISE DE POLÍTICA EXTERNA",
+            "semester": "2018.2",
+            "professor": "ANDRE MENDES PINI",
+            "horario": "4N1234",
+            "local": "CCSA 223 (CCSA)"
+          }
+        ],
+        "prerequisites": [
+          "1206004"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1206017",
+        "name": "POLÍTICA EXTERNA BRASILEIRA I",
+        "category": "Obrigatória",
+        "semester": 7,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1206006"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1206020",
+        "name": "PESQ APLIC ÀS RELAÇÕES INTERNACIONAIS",
+        "category": "Complementar Obrigatória",
+        "semester": 7,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1206020",
+            "turmaid": "01",
+            "nome": " PESQ APLIC ÀS RELAÇÕES INTERNACIONAIS",
+            "semester": "2018.2",
+            "professor": "PASCOAL TEOFILO CARVALHO GONCALVES",
+            "horario": "4M2345",
+            "local": "CCSA 219 (CCSA)"
+          }
+        ],
+        "prerequisites": [
+          "1205003"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1206024",
+        "name": "ESTÁGIO SUPERVISIONADO I",
+        "category": "Obrigatória",
+        "semester": 7,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1206024",
+            "turmaid": "01",
+            "nome": " ESTÁGIO SUPERVISIONADO I",
+            "semester": "2018.2",
+            "professor": "HENRY IURE DE PAIVA SILVA",
+            "horario": "7N1234",
+            "local": "CCSA 219 (CCSA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1206026",
+        "name": "TÓPICOS ESPECIAIS EM RELAÇ INTERN I",
+        "category": "Complementar Flexiva",
+        "semester": 8,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1206023",
+        "name": "POLÍTICA EXTERNA BRASILEIRA II",
+        "category": "Obrigatória",
+        "semester": 8,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1206023",
+            "turmaid": "01",
+            "nome": " POLÍTICA EXTERNA BRASILEIRA II",
+            "semester": "2018.2",
+            "professor": "ANDRE MENDES PINI",
+            "horario": "5M2345",
+            "local": "CCSA 219 (CCSA)"
+          },
+          {
+            "id": "1206023",
+            "turmaid": "02",
+            "nome": " POLÍTICA EXTERNA BRASILEIRA II",
+            "semester": "2018.2",
+            "professor": "ANDRE MENDES PINI",
+            "horario": "3N1234",
+            "local": "CAF 103 (PRG)"
+          }
+        ],
+        "prerequisites": [
+          "1206017"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1206025",
+        "name": "TRABALHO DE CONCLUSÃO D CURSO I",
+        "category": "Complementar Obrigatória",
+        "semester": 8,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1206025",
+            "turmaid": "01",
+            "nome": " TRABALHO DE CONCLUSÃO D CURSO I",
+            "semester": "2018.2",
+            "professor": "PASCOAL TEOFILO CARVALHO GONCALVES",
+            "horario": "4N1234",
+            "local": "CAF 106 (PRG)"
+          }
+        ],
+        "prerequisites": [
+          "1206020"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1206027",
+        "name": "ESTÁGIO SUPERVISINADO II",
+        "category": "Obrigatória",
+        "semester": 8,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1206027",
+            "turmaid": "01",
+            "nome": " ESTÁGIO SUPERVISINADO II",
+            "semester": "2018.2",
+            "professor": "HENRY IURE DE PAIVA SILVA",
+            "horario": "2T2345",
+            "local": "CCSA 219 (CCSA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1206029",
+        "name": "TÓPICOS ESPECIAIS EM RELAÇ INTERN II",
+        "category": "Complementar Flexiva",
+        "semester": 9,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1206028",
+        "name": "TRABALHO DE CONCLUSÃO D CURSO II",
+        "category": "Complementar Obrigatória",
+        "semester": 9,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1206028",
+            "turmaid": "01",
+            "nome": " TRABALHO DE CONCLUSÃO D CURSO II",
+            "semester": "2018.2",
+            "professor": "LILIANA RAMALHO FROIO",
+            "horario": "7M2345",
+            "local": "CCSA 213 (CCSA)"
+          }
+        ],
+        "prerequisites": [
+          "1206025"
+        ],
+        "equivalences": [
+
+        ]
+      }
+    ]
+  }
+}

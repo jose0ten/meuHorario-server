@@ -1,0 +1,2527 @@
+{
+  "curriculum": {
+    "id": "0152006",
+    "codigo": "1626738",
+    "name": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - OUTRO TIPO DE GRAU ACADÊMICO",
+    "faculty": "CENTRO DE TECNOLOGIA (CT) (11.00.55)",
+    "minch": "285",
+    "maxch": "705",
+    "semesters": 9,
+    "courses": [
+      {
+        "id": "1402287",
+        "name": "ESTAGIO EXTRA CURRICULAR",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "15h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1703238",
+        "name": "POLUICÃO AMBIENTAL",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDECV0102",
+        "name": "DRENAGEM URBANA DE ÁGUAS PLUVIAIS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDECV0102",
+            "turmaid": "01",
+            "nome": " DRENAGEM URBANA DE ÁGUAS PLUVIAIS",
+            "semester": "2018.2",
+            "professor": "GUSTAVO BARBOSA LIMA SILVA",
+            "horario": "35T45",
+            "local": "CTJ 107 (CT)"
+          }
+        ],
+        "prerequisites": [
+          "1703127",
+          "1703128"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDECV0104",
+        "name": "USO RACIONAL DA ÁGUA EM EDIFICAÇÕES'",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDECV0104",
+            "turmaid": "01",
+            "nome": " USO RACIONAL DA ÁGUA EM EDIFICAÇÕES'",
+            "semester": "2018.2",
+            "professor": "GILSON BARBOSA ATHAYDE JUNIOR",
+            "horario": "6M45",
+            "local": "CTJ 105 (CT)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDECV0105",
+        "name": "DESEMPENHO DAS EDIFICAÇÕES",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDECV0105",
+            "turmaid": "01",
+            "nome": " DESEMPENHO DAS EDIFICAÇÕES",
+            "semester": "2018.2",
+            "professor": "UBIRATAN HENRIQUE OLIVEIRA PIMENTEL",
+            "horario": "5T23 6T45",
+            "local": "CTM 205 (CT)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDLS0024",
+        "name": "LIBRAS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1103118",
+        "name": "CÁLCULO VETORIAL E GEOMETRIA ANALÍTICA",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1103118",
+            "turmaid": "04",
+            "nome": " CÁLCULO VETORIAL E GEOMETRIA ANALÍTICA",
+            "semester": "2018.2",
+            "professor": "SHIRLEY MARIA SANTOS E SOUZA",
+            "horario": "35M23",
+            "local": "CAA 104 (PRG)"
+          },
+          {
+            "id": "1103118",
+            "turmaid": "10",
+            "nome": " CÁLCULO VETORIAL E GEOMETRIA ANALÍTICA",
+            "semester": "2018.2",
+            "professor": "GILMAR OTAVIO CORREIA",
+            "horario": "35T23",
+            "local": "CAA 105 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1103177",
+        "name": "CÁLCULO DIFERENCIAL E INTEGRAL I",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1103177",
+            "turmaid": "03",
+            "nome": " CÁLCULO DIFERENCIAL E INTEGRAL I",
+            "semester": "2018.2",
+            "professor": "JACQUELINE FABIOLA ROJAS ARANCIBIA",
+            "horario": "24M23",
+            "local": "CAA 101 (PRG)"
+          },
+          {
+            "id": "1103177",
+            "turmaid": "09",
+            "nome": " CÁLCULO DIFERENCIAL E INTEGRAL I",
+            "semester": "2018.2",
+            "professor": "JORGE COSTA DUARTE FILHO",
+            "horario": "24T45",
+            "local": "CAA 101 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1105161",
+        "name": "QUÍMICA FUNDAMENTAL",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1105161",
+            "turmaid": "01",
+            "nome": " QUÍMICA FUNDAMENTAL",
+            "semester": "2018.2",
+            "professor": "AFRANIO GABRIEL DA SILVA",
+            "horario": "24M45",
+            "local": "CAB 104 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1201126",
+        "name": "ECONOMIA I",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1201126",
+            "turmaid": "02",
+            "nome": " ECONOMIA I",
+            "semester": "2018.2",
+            "professor": "REJANE GOMES CARVALHO",
+            "horario": "35M45",
+            "local": "CAD 108 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+          "1201180"
+        ]
+      },
+      {
+        "id": "1405183",
+        "name": "PSICOLOGIA DO TRABALHO",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "75h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1405183",
+            "turmaid": "01",
+            "nome": " PSICOLOGIA DO TRABALHO",
+            "semester": "2018.2",
+            "professor": "ANISIO JOSE DA SILVA ARAUJO",
+            "horario": "2T23 4T123",
+            "local": "CAG 106 (PRG)"
+          },
+          {
+            "id": "1405183",
+            "turmaid": "02",
+            "nome": " PSICOLOGIA DO TRABALHO",
+            "semester": "2018.2",
+            "professor": "MARIA DE FATIMA FERNANDES MARTINS CATAO",
+            "horario": "3T45 5T456",
+            "local": "CAG 104 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1704228",
+        "name": "DESENHO BASICO PENG CIVIL",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1704228",
+            "turmaid": "01",
+            "nome": " DESENHO BASICO PENG CIVIL",
+            "semester": "2018.2",
+            "professor": "ILTON DA COSTA SOUZA FILHO",
+            "horario": "35T23",
+            "local": "CTE 101 (CT)"
+          },
+          {
+            "id": "1704228",
+            "turmaid": "02",
+            "nome": " DESENHO BASICO PENG CIVIL",
+            "semester": "2018.2",
+            "professor": "DIMITRI COSTA CASTOR",
+            "horario": "35T23",
+            "local": "CTE 103 (CT)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1101157",
+        "name": "FISICA GERAL I",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1101157",
+            "turmaid": "02",
+            "nome": " FISICA GERAL I",
+            "semester": "2018.2",
+            "professor": "A DEFINIR",
+            "horario": "24M45",
+            "local": "CAE 111 (PRG)"
+          },
+          {
+            "id": "1101157",
+            "turmaid": "10",
+            "nome": " FISICA GERAL I",
+            "semester": "2018.2",
+            "professor": "A DEFINIR",
+            "horario": "24T23",
+            "local": "CAB 103 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1103178",
+        "name": "CALCULO DIFERENCIAL E INTEGRAL II",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1103178",
+            "turmaid": "01",
+            "nome": " CALCULO DIFERENCIAL E INTEGRAL II",
+            "semester": "2018.2",
+            "professor": "MARIVALDO PEREIRA MATOS",
+            "horario": "24M23",
+            "local": "CAB 104 (PRG)"
+          },
+          {
+            "id": "1103178",
+            "turmaid": "09",
+            "nome": " CALCULO DIFERENCIAL E INTEGRAL II",
+            "semester": "2018.2",
+            "professor": "ANTONIO JOAQUIM RODRIGUES FEITOSA",
+            "horario": "24T45",
+            "local": "CAB 104 (PRG)"
+          }
+        ],
+        "prerequisites": [
+          "1103177",
+          "1103114"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1103179",
+        "name": "INTRODUCAO A ALGEBRA LINEAR",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1103179",
+            "turmaid": "03",
+            "nome": " INTRODUCAO A ALGEBRA LINEAR",
+            "semester": "2018.2",
+            "professor": "ANTONIO JOAQUIM RODRIGUES FEITOSA",
+            "horario": "35M23",
+            "local": "CAB 101 (PRG)"
+          }
+        ],
+        "prerequisites": [
+          "1103118"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1703203",
+        "name": "GEOLOGIA APLICADA A ENGENHARIA",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1703203",
+            "turmaid": "01",
+            "nome": " GEOLOGIA APLICADA A ENGENHARIA",
+            "semester": "2018.2",
+            "professor": "BELARMINO BARBOSA LIRA",
+            "horario": "35T45",
+            "local": "LABEME (CT)"
+          }
+        ],
+        "prerequisites": [
+          "1105161"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1703228",
+        "name": "METODOLOGIA DO TRABALHO CIENTIFICO",
+        "category": "Complementar Obrigatória",
+        "semester": 2,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1703228",
+            "turmaid": "01",
+            "nome": " METODOLOGIA DO TRABALHO CIENTIFICO",
+            "semester": "2018.2",
+            "professor": "VICTOR HUGO RABELO COELHO",
+            "horario": "6M123",
+            "local": "CTJ 102 (CT)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1704227",
+        "name": "DESENHO ARQUITETONICO",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1704227",
+            "turmaid": "01",
+            "nome": " DESENHO ARQUITETONICO",
+            "semester": "2018.2",
+            "professor": "ALUISIO COSTA FILHO",
+            "horario": "35T23",
+            "local": "CTP LI4 (CT)"
+          }
+        ],
+        "prerequisites": [
+          "1704228"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1101163",
+        "name": "FISICA GERAL II",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1101163",
+            "turmaid": "01",
+            "nome": " FISICA GERAL II",
+            "semester": "2018.2",
+            "professor": "A DEFINIR",
+            "horario": "24M45",
+            "local": "CAC 108 (PRG)"
+          },
+          {
+            "id": "1101163",
+            "turmaid": "05",
+            "nome": " FISICA GERAL II",
+            "semester": "2018.2",
+            "professor": "A DEFINIR",
+            "horario": "24T23",
+            "local": "CAA 103 (PRG)"
+          }
+        ],
+        "prerequisites": [
+          "1101157"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1101165",
+        "name": "FISICA EXPERIMENTAL I",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "0h aula 30h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1101165",
+            "turmaid": "02",
+            "nome": " FISICA EXPERIMENTAL I",
+            "semester": "2018.2",
+            "professor": "A DEFINIR",
+            "horario": "5T23",
+            "local": "DF 200 (CCEN)"
+          },
+          {
+            "id": "1101165",
+            "turmaid": "05",
+            "nome": " FISICA EXPERIMENTAL I",
+            "semester": "2018.2",
+            "professor": "A DEFINIR",
+            "horario": "6M45",
+            "local": "DF 200 (CCEN)"
+          },
+          {
+            "id": "1101165",
+            "turmaid": "07",
+            "nome": " FISICA EXPERIMENTAL I",
+            "semester": "2018.2",
+            "professor": "A DEFINIR",
+            "horario": "6T23",
+            "local": "DF 200 (CCEN)"
+          }
+        ],
+        "prerequisites": [
+          "1101157"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1103232",
+        "name": "CALCULO DIF  E INTEGRAL III",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1103232",
+            "turmaid": "05",
+            "nome": " CALCULO DIF  E INTEGRAL III",
+            "semester": "2018.2",
+            "professor": "EDUARDO GONCALVES DOS SANTOS",
+            "horario": "24M23",
+            "local": "CAG 106 (PRG)"
+          },
+          {
+            "id": "1103232",
+            "turmaid": "08",
+            "nome": " CALCULO DIF  E INTEGRAL III",
+            "semester": "2018.2",
+            "professor": "LENIMAR NUNES DE ANDRADE",
+            "horario": "24T45",
+            "local": "CAC 108 (PRG)"
+          }
+        ],
+        "prerequisites": [
+          "1103178",
+          "1103118"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1107136",
+        "name": "INTRODUÇÃO A PROGRAMAÇÃO",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1107136",
+            "turmaid": "06",
+            "nome": " INTRODUÇÃO A PROGRAMAÇÃO",
+            "semester": "2018.2",
+            "professor": "CARLOS EDUARDO COELHO FREIRE BATISTA",
+            "horario": "35M45",
+            "local": "CAF 108 (PRG)"
+          },
+          {
+            "id": "1107136",
+            "turmaid": "07",
+            "nome": " INTRODUÇÃO A PROGRAMAÇÃO",
+            "semester": "2018.2",
+            "professor": "GIORGIA DE OLIVEIRA MATTOS",
+            "horario": "35M45",
+            "local": "CAB 106 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1108100",
+        "name": "CÁLCULO DAS PROBABILIDADES E  ESTATÍSTICA I",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1108100",
+            "turmaid": "02",
+            "nome": " CÁLCULO DAS PROBABILIDADES E  ESTATÍSTICA I",
+            "semester": "2018.2",
+            "professor": "FRANCISCO ELMIRO DE SOUSA FILHO e MARCELO RODRIGO PORTELA FERREIRA",
+            "horario": "35M23",
+            "local": "CAH 104 (PRG)"
+          },
+          {
+            "id": "1108100",
+            "turmaid": "05",
+            "nome": " CÁLCULO DAS PROBABILIDADES E  ESTATÍSTICA I",
+            "semester": "2018.2",
+            "professor": "ANA HERMINIA ANDRADE E SILVA e MARCELO RODRIGO PORTELA FERREIRA",
+            "horario": "35T23",
+            "local": "CAF 110 (PRG)"
+          }
+        ],
+        "prerequisites": [
+          "1103177"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1703134",
+        "name": "MATERIAIS DE CONSTRUCAO CIVIL I",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1703134",
+            "turmaid": "01",
+            "nome": " MATERIAIS DE CONSTRUCAO CIVIL I",
+            "semester": "2018.2",
+            "professor": "PAULO GERMANO TOSCANO MOURA e CIBELLE GUIMARAES SILVA SEVERO",
+            "horario": "35T23",
+            "local": "CTB 101 (CT) / CTD 103 (CT)"
+          }
+        ],
+        "prerequisites": [
+          "1703203"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1704229",
+        "name": "ELEMENTOS DE ARQUITETURA",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1704229",
+            "turmaid": "01",
+            "nome": " ELEMENTOS DE ARQUITETURA",
+            "semester": "2018.2",
+            "professor": "WYLNNA CARLOS LIMA VIDAL e FLAVIA MARIA GUIMARAES MARROQUIM",
+            "horario": "6M123",
+            "local": "CTE 103 (CT)"
+          },
+          {
+            "id": "1704229",
+            "turmaid": "02",
+            "nome": " ELEMENTOS DE ARQUITETURA",
+            "semester": "2018.2",
+            "professor": "JULIANA MAGNA DA SILVA COSTA MORAIS",
+            "horario": "4T123",
+            "local": "CTE 103 (CT)"
+          }
+        ],
+        "prerequisites": [
+          "1704227"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1403747",
+        "name": "LIBRAS  LÍNGUA BRASILEIRA DE SINAIS",
+        "category": "Optativa",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1101164",
+        "name": "FISICA GERAL III",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1101164",
+            "turmaid": "01",
+            "nome": " FISICA GERAL III",
+            "semester": "2018.2",
+            "professor": "A DEFINIR",
+            "horario": "24M45",
+            "local": "CAA 103 (PRG)"
+          }
+        ],
+        "prerequisites": [
+          "1101163"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1103180",
+        "name": "SERIES E EQUACOES DIF ORDINARIAS",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1103180",
+            "turmaid": "02",
+            "nome": " SERIES E EQUACOES DIF ORDINARIAS",
+            "semester": "2018.2",
+            "professor": "EDUARDO GONCALVES DOS SANTOS",
+            "horario": "35M23",
+            "local": "CAD 110 (PRG)"
+          },
+          {
+            "id": "1103180",
+            "turmaid": "07",
+            "nome": " SERIES E EQUACOES DIF ORDINARIAS",
+            "semester": "2018.2",
+            "professor": "MILTON DE LACERDA OLIVEIRA",
+            "horario": "35T45",
+            "local": "CAA 102 (PRG)"
+          }
+        ],
+        "prerequisites": [
+          "1103178",
+          "1103179"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1703103",
+        "name": "CIENCIAS DO AMBIENTE",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1703103",
+            "turmaid": "04",
+            "nome": " CIENCIAS DO AMBIENTE",
+            "semester": "2018.2",
+            "professor": "ANA CLAUDIA FERNANDES MEDEIROS BRAGA",
+            "horario": "6M123",
+            "local": "CTD 107 (CT)"
+          },
+          {
+            "id": "1703103",
+            "turmaid": "05",
+            "nome": " CIENCIAS DO AMBIENTE",
+            "semester": "2018.2",
+            "professor": "ALINE FLAVIA NUNES REMIGIO ANTUNES",
+            "horario": "6T123",
+            "local": "CTD 105 (CT)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1703184",
+        "name": "ANALISE DE SISTEMAS DE TRANSPORTE",
+        "category": "Complementar Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1703184",
+            "turmaid": "01",
+            "nome": " ANALISE DE SISTEMAS DE TRANSPORTE",
+            "semester": "2018.2",
+            "professor": "NILTON PEREIRA DE ANDRADE",
+            "horario": "35M45",
+            "local": "CTD 101 (CT)"
+          }
+        ],
+        "prerequisites": [
+          "1108100"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1703205",
+        "name": "MATERIAIS DE CONSTRUCAO CIVIL II",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1703205",
+            "turmaid": "01",
+            "nome": " MATERIAIS DE CONSTRUCAO CIVIL II",
+            "semester": "2018.2",
+            "professor": "GIVANILDO ALVES DE AZEREDO",
+            "horario": "24T23",
+            "local": "LABEME (CT)"
+          }
+        ],
+        "prerequisites": [
+          "1703134"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1703208",
+        "name": "MECANICA GERAL E ISOSTATICA",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "90h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1703208",
+            "turmaid": "01",
+            "nome": " MECANICA GERAL E ISOSTATICA",
+            "semester": "2018.2",
+            "professor": "ANGELO VIEIRA MENDONCA",
+            "horario": "2T45 35T23",
+            "local": "CTD 101 (CT) / CTD 103 (CT)"
+          },
+          {
+            "id": "1703208",
+            "turmaid": "02",
+            "nome": " MECANICA GERAL E ISOSTATICA",
+            "semester": "2018.2",
+            "professor": "CARLOS ANTONIO TAURINO DE LUCENA",
+            "horario": "24M23 6M45",
+            "local": "CTJ 201 (CT) / CTJ 102 (CT)"
+          }
+        ],
+        "prerequisites": [
+          "1101157",
+          "1103232"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1101120",
+        "name": "FISICA GERAL IV",
+        "category": "Optativa",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1101164"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1703202",
+        "name": "GESTAO DE RESIDUOS SOLIDOS URBANOS",
+        "category": "Optativa",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1703202",
+            "turmaid": "01",
+            "nome": " GESTAO DE RESIDUOS SOLIDOS URBANOS",
+            "semester": "2018.2",
+            "professor": "ALINE FLAVIA NUNES REMIGIO ANTUNES",
+            "horario": "24M45",
+            "local": "CTD 107 (CT)"
+          }
+        ],
+        "prerequisites": [
+          "1703103"
+        ],
+        "equivalences": [
+          "GDECV0108"
+        ]
+      },
+      {
+        "id": "1703215",
+        "name": "SANEAMENTO AMBIENTAL",
+        "category": "Optativa",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1703215",
+            "turmaid": "01",
+            "nome": " SANEAMENTO AMBIENTAL",
+            "semester": "2018.2",
+            "professor": "ALINE FLAVIA NUNES REMIGIO ANTUNES",
+            "horario": "35M45",
+            "local": "CTB 107 (CT) / CTB 101 (CT)"
+          }
+        ],
+        "prerequisites": [
+          "1703103"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1703220",
+        "name": "TOPICOS III EM ENGENHARIA",
+        "category": "Complementar Flexiva",
+        "semester": 5,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1703223",
+        "name": "TRANSPORTE AEREO",
+        "category": "Optativa",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1703184"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1101166",
+        "name": "FISICA EXPERIMENTAL II",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1101166",
+            "turmaid": "02",
+            "nome": " FISICA EXPERIMENTAL II",
+            "semester": "2018.2",
+            "professor": "A DEFINIR",
+            "horario": "2T45",
+            "local": "LAB (CCEN)"
+          },
+          {
+            "id": "1101166",
+            "turmaid": "03",
+            "nome": " FISICA EXPERIMENTAL II",
+            "semester": "2018.2",
+            "professor": "A DEFINIR",
+            "horario": "3T23",
+            "local": "LAB (CCEN)"
+          },
+          {
+            "id": "1101166",
+            "turmaid": "05",
+            "nome": " FISICA EXPERIMENTAL II",
+            "semester": "2018.2",
+            "professor": "A DEFINIR",
+            "horario": "4T45",
+            "local": "LAB (CCEN)"
+          }
+        ],
+        "prerequisites": [
+          "1101164"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1703139",
+        "name": "MECANICA DOS FLUIDOS",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "90h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1703139",
+            "turmaid": "01",
+            "nome": " MECANICA DOS FLUIDOS",
+            "semester": "2018.2",
+            "professor": "LUIZ SIMAO DE ANDRADE FILHO",
+            "horario": "24M123",
+            "local": "CTD 103 (CT)"
+          },
+          {
+            "id": "1703139",
+            "turmaid": "03",
+            "nome": " MECANICA DOS FLUIDOS",
+            "semester": "2018.2",
+            "professor": "KARINE CRISTIANE DE OLIVEIRA SOUZA",
+            "horario": "46M123",
+            "local": "CTJ T02 (CT)"
+          },
+          {
+            "id": "1703139",
+            "turmaid": "04",
+            "nome": " MECANICA DOS FLUIDOS",
+            "semester": "2018.2",
+            "professor": "RONILDO INACIO SOARES DE ALENCAR",
+            "horario": "35T123",
+            "local": "CTD 107 (CT)"
+          }
+        ],
+        "prerequisites": [
+          "1103112",
+          "1103228",
+          "1103232",
+          "1703208"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1703206",
+        "name": "MECANICA DOS SOLOS I",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1703206",
+            "turmaid": "01",
+            "nome": " MECANICA DOS SOLOS I",
+            "semester": "2018.2",
+            "professor": "CELSO AUGUSTO GUIMARAES SANTOS",
+            "horario": "24T23",
+            "local": "CTD 103 (CT)"
+          }
+        ],
+        "prerequisites": [
+          "1703203"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1703213",
+        "name": "RESISTENCIA DOS MATERIAIS I",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1703213",
+            "turmaid": "01",
+            "nome": " RESISTENCIA DOS MATERIAIS I",
+            "semester": "2018.2",
+            "professor": "ROBERTO LEAL PIMENTEL",
+            "horario": "24M45",
+            "local": "LABEME (CT)"
+          },
+          {
+            "id": "1703213",
+            "turmaid": "02",
+            "nome": " RESISTENCIA DOS MATERIAIS I",
+            "semester": "2018.2",
+            "professor": "PRIMO FERNANDES FILHO",
+            "horario": "24M45",
+            "local": "CTD 103 (CT)"
+          }
+        ],
+        "prerequisites": [
+          "1703208"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1703221",
+        "name": "TOPOGRAFIA",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1703221",
+            "turmaid": "01",
+            "nome": " TOPOGRAFIA",
+            "semester": "2018.2",
+            "professor": "ISABELLE YRUSKA DE LUCENA GOMES BRAGA",
+            "horario": "35M23",
+            "local": "CTE 104 (CT)"
+          },
+          {
+            "id": "1703221",
+            "turmaid": "02",
+            "nome": " TOPOGRAFIA",
+            "semester": "2018.2",
+            "professor": "ISABELLE YRUSKA DE LUCENA GOMES BRAGA",
+            "horario": "35M45",
+            "local": "CTE 104 (CT)"
+          }
+        ],
+        "prerequisites": [
+          "1103177"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1705109",
+        "name": "SEGURANCA INDUSTRIAL",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1705109",
+            "turmaid": "01",
+            "nome": " SEGURANCA INDUSTRIAL",
+            "semester": "2018.2",
+            "professor": "MARIA BERNADETE FERNANDES VIEIRA DE MELO",
+            "horario": "6M123",
+            "local": "AUD DEP (CT)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+          "1705123"
+        ]
+      },
+      {
+        "id": "GDCOC0072",
+        "name": "CALCULO NUMERICO",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDCOC0072",
+            "turmaid": "04",
+            "nome": " CALCULO NUMERICO",
+            "semester": "2018.2",
+            "professor": "ANTONIO JOSE BONESS DOS SANTOS",
+            "horario": "35M45",
+            "local": "CAA 101 (PRG)"
+          }
+        ],
+        "prerequisites": [
+          "1103112",
+          "1103228",
+          "1103232",
+          "1107136"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1703190",
+        "name": "ENGENHARIA DE TRAFEGO",
+        "category": "Optativa",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1703190",
+            "turmaid": "01",
+            "nome": " ENGENHARIA DE TRAFEGO",
+            "semester": "2018.2",
+            "professor": "PABLO BRILHANTE DE SOUSA",
+            "horario": "35M45",
+            "local": "CTD 103 (CT)"
+          }
+        ],
+        "prerequisites": [
+          "1703221",
+          "1703184"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1703201",
+        "name": "GEOPROCESSAMENTO",
+        "category": "Optativa",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1703201",
+            "turmaid": "01",
+            "nome": " GEOPROCESSAMENTO",
+            "semester": "2018.2",
+            "professor": "CRISTIANO DAS NEVES ALMEIDA",
+            "horario": "35T23",
+            "local": "LENHS (CT)"
+          }
+        ],
+        "prerequisites": [
+          "1703221"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1703226",
+        "name": "TRANSPORTE PUBLICO URBANO",
+        "category": "Optativa",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1703226",
+            "turmaid": "01",
+            "nome": " TRANSPORTE PUBLICO URBANO",
+            "semester": "2018.2",
+            "professor": "NILTON PEREIRA DE ANDRADE",
+            "horario": "35M23",
+            "local": "CTK 201 (CT)"
+          }
+        ],
+        "prerequisites": [
+          "1703221",
+          "1703184"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1403153",
+        "name": "PORTUGUÊS INSTRUMENTAL",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1403153",
+            "turmaid": "03",
+            "nome": " PORTUGUÊS INSTRUMENTAL",
+            "semester": "2018.2",
+            "professor": "ISAIAS MOREIRA FERREIRA",
+            "horario": "6M1234",
+            "local": "CAG 106 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1703118",
+        "name": "ESTRADAS E TRANSPORTES I",
+        "category": "Complementar Obrigatória",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1703118",
+            "turmaid": "02",
+            "nome": " ESTRADAS E TRANSPORTES I",
+            "semester": "2018.2",
+            "professor": "CLOVIS DIAS",
+            "horario": "36T45",
+            "local": "MÍDIA 02 (CT)"
+          },
+          {
+            "id": "1703118",
+            "turmaid": "1",
+            "nome": " ESTRADAS E TRANSPORTES I",
+            "semester": "2018.2",
+            "professor": "CLOVIS DIAS",
+            "horario": "35M23",
+            "local": "CTP  LI3 (CT)"
+          }
+        ],
+        "prerequisites": [
+          "1703184",
+          "1703221"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1703127",
+        "name": "HIDRAULICA",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "75h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1703127",
+            "turmaid": "01",
+            "nome": " HIDRAULICA",
+            "semester": "2018.2",
+            "professor": "HAMILCAR JOSE ALMEIDA FILGUEIRA",
+            "horario": "2M123 4M45",
+            "local": "CTD 101 (CT)"
+          },
+          {
+            "id": "1703127",
+            "turmaid": "02",
+            "nome": " HIDRAULICA",
+            "semester": "2018.2",
+            "professor": "LUIZ SIMAO DE ANDRADE FILHO",
+            "horario": "2T456 4T45",
+            "local": "CTD 103 (CT) / CTA 105 (CT)"
+          },
+          {
+            "id": "1703127",
+            "turmaid": "03",
+            "nome": " HIDRAULICA",
+            "semester": "2018.2",
+            "professor": "KARINE CRISTIANE DE OLIVEIRA SOUZA",
+            "horario": "3T123 5T45",
+            "local": "CTJ 201 (CT) / CTJ T02 (CT)"
+          }
+        ],
+        "prerequisites": [
+          "1703139"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1703128",
+        "name": "HIDROLOGIA",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1703128",
+            "turmaid": "01",
+            "nome": " HIDROLOGIA",
+            "semester": "2018.2",
+            "professor": "CRISTIANO DAS NEVES ALMEIDA",
+            "horario": "35M23",
+            "local": "CTD 107 (CT)"
+          },
+          {
+            "id": "1703128",
+            "turmaid": "02",
+            "nome": " HIDROLOGIA",
+            "semester": "2018.2",
+            "professor": "ANA CRISTINA SOUZA DA SILVA",
+            "horario": "56T23",
+            "local": "CTJ 103 (CT) / CTB 101 (CT)"
+          }
+        ],
+        "prerequisites": [
+          "1703203",
+          "1108100",
+          "1703139"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1703207",
+        "name": "MECANICA DOS SOLOS II",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1703207",
+            "turmaid": "01",
+            "nome": " MECANICA DOS SOLOS II",
+            "semester": "2018.2",
+            "professor": "FABIO LOPES SOARES",
+            "horario": "24T23",
+            "local": "CTM 203 (CT)"
+          }
+        ],
+        "prerequisites": [
+          "1703206"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1703214",
+        "name": "RESISTENCIA DOS MATERIAIS II",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1703214",
+            "turmaid": "01",
+            "nome": " RESISTENCIA DOS MATERIAIS II",
+            "semester": "2018.2",
+            "professor": "PRIMO FERNANDES FILHO",
+            "horario": "24M23",
+            "local": "CTD 101 (CT) / CTA 107 (CT)"
+          },
+          {
+            "id": "1703214",
+            "turmaid": "02",
+            "nome": " RESISTENCIA DOS MATERIAIS II",
+            "semester": "2018.2",
+            "professor": "PRIMO FERNANDES FILHO",
+            "horario": "3T23 5T45",
+            "local": "CTD 107 (CT) / CTD 103 (CT)"
+          }
+        ],
+        "prerequisites": [
+          "1703213"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1707010",
+        "name": "ELETROTECNICA",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1707010",
+            "turmaid": "01",
+            "nome": " ELETROTECNICA",
+            "semester": "2018.2",
+            "professor": "ANTONIO SERGIO CAVALCANTI DE MENEZES",
+            "horario": "35M45",
+            "local": "CTM 203 (CT)"
+          }
+        ],
+        "prerequisites": [
+          "1101166",
+          "1103179",
+          "1103112",
+          "1103228",
+          "1103232"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1703102",
+        "name": "BARRAGENS",
+        "category": "Optativa",
+        "semester": 7,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1703127",
+          "1703207",
+          "1703128"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1703132",
+        "name": "IRRIGACAO E DRENAGEM",
+        "category": "Optativa",
+        "semester": 7,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1703128"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1703153",
+        "name": "RECURSOS HIDRICOS",
+        "category": "Optativa",
+        "semester": 7,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1703153",
+            "turmaid": "01",
+            "nome": " RECURSOS HIDRICOS",
+            "semester": "2018.2",
+            "professor": "FRANCISCO JACOME SARMENTO",
+            "horario": "56N61",
+            "local": "CTM 203 (CT)"
+          }
+        ],
+        "prerequisites": [
+          "1703128"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1703192",
+        "name": "ESTABILIDADE DE TALUDES",
+        "category": "Optativa",
+        "semester": 7,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1703192",
+            "turmaid": "01",
+            "nome": " ESTABILIDADE DE TALUDES",
+            "semester": "2018.2",
+            "professor": "FABIO LOPES SOARES",
+            "horario": "35M23",
+            "local": "CTD 103 (CT)"
+          }
+        ],
+        "prerequisites": [
+          "1703207"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1703200",
+        "name": "ESTRUTURAS HIDRAULICAS",
+        "category": "Optativa",
+        "semester": 7,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1703200",
+            "turmaid": "01",
+            "nome": " ESTRUTURAS HIDRAULICAS",
+            "semester": "2018.2",
+            "professor": "HEBER PIMENTEL GOMES",
+            "horario": "24M45",
+            "local": "LENHS (CT)"
+          }
+        ],
+        "prerequisites": [
+          "1703128"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1703225",
+        "name": "TRANSPORTE HIDROVIARIO",
+        "category": "Optativa",
+        "semester": 7,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1703128",
+          "1703184"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1401161",
+        "name": "SOCIOLOGIA DO TRABALHO",
+        "category": "Obrigatória",
+        "semester": 7,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1401161",
+            "turmaid": "02",
+            "nome": " SOCIOLOGIA DO TRABALHO",
+            "semester": "2018.2",
+            "professor": "JOSE TAVARES DE ANDRADE FILHO",
+            "horario": "6T2345",
+            "local": "CAE 109 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1703119",
+        "name": "ESTRADAS E TRANSPORTES II",
+        "category": "Complementar Obrigatória",
+        "semester": 7,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1703119",
+            "turmaid": "01",
+            "nome": " ESTRADAS E TRANSPORTES II",
+            "semester": "2018.2",
+            "professor": "PABLO BRILHANTE DE SOUSA",
+            "horario": "24T23",
+            "local": "CTD 107 (CT) / CTD 105 (CT)"
+          }
+        ],
+        "prerequisites": [
+          "1703118",
+          "1703207"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1703130",
+        "name": "INSTALACOES HIDR SANITARIA",
+        "category": "Complementar Obrigatória",
+        "semester": 7,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1703130",
+            "turmaid": "01",
+            "nome": " INSTALACOES HIDR SANITARIA",
+            "semester": "2018.2",
+            "professor": "GILSON BARBOSA ATHAYDE JUNIOR",
+            "horario": "24T45",
+            "local": "CTD 105 (CT)"
+          }
+        ],
+        "prerequisites": [
+          "1703127",
+          "1704227"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1703185",
+        "name": "ANALISE ESTRUTURAL I",
+        "category": "Complementar Obrigatória",
+        "semester": 7,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1703185",
+            "turmaid": "01",
+            "nome": " ANALISE ESTRUTURAL I",
+            "semester": "2018.2",
+            "professor": "ANDREA BRASILIANO SILVA",
+            "horario": "35M45",
+            "local": "CTD 107 (CT)"
+          },
+          {
+            "id": "1703185",
+            "turmaid": "02",
+            "nome": " ANALISE ESTRUTURAL I",
+            "semester": "2018.2",
+            "professor": "ANDREA BRASILIANO SILVA",
+            "horario": "35T45",
+            "local": "CTD 105 (CT)"
+          }
+        ],
+        "prerequisites": [
+          "1703214"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1703196",
+        "name": "ESTRUTURA DE CONCRETO ARMADO I",
+        "category": "Complementar Obrigatória",
+        "semester": 7,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1703196",
+            "turmaid": "01",
+            "nome": " ESTRUTURA DE CONCRETO ARMADO I",
+            "semester": "2018.2",
+            "professor": "ENILDO TALES FERREIRA",
+            "horario": "35T23",
+            "local": "CTD 105 (CT)"
+          }
+        ],
+        "prerequisites": [
+          "1703214",
+          "1704227"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1707005",
+        "name": "INSTALAÇOES ELETRICAS PREDIAIS",
+        "category": "Complementar Obrigatória",
+        "semester": 7,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1707005",
+            "turmaid": "01",
+            "nome": " INSTALAÇOES ELETRICAS PREDIAIS",
+            "semester": "2018.2",
+            "professor": "CLIVALDO SILVA DE ARAUJO",
+            "horario": "36M23",
+            "local": "CTD 101 (CT)"
+          }
+        ],
+        "prerequisites": [
+          "1707010",
+          "1701115"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1703199",
+        "name": "ESTRUTURAS DE MADEIRA",
+        "category": "Optativa",
+        "semester": 8,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1703185"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1703186",
+        "name": "ANALISE ESTRUTURAL II",
+        "category": "Complementar Obrigatória",
+        "semester": 8,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1703186",
+            "turmaid": "01",
+            "nome": " ANALISE ESTRUTURAL II",
+            "semester": "2018.2",
+            "professor": "JOSE MARCILIO FILGUEIRAS CRUZ",
+            "horario": "35T45",
+            "local": "CTD 103 (CT)"
+          }
+        ],
+        "prerequisites": [
+          "1703185"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1703188",
+        "name": "CONSTRUCOES DE EDIFICIOS I",
+        "category": "Complementar Obrigatória",
+        "semester": 8,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1703188",
+            "turmaid": "01",
+            "nome": " CONSTRUCOES DE EDIFICIOS I",
+            "semester": "2018.2",
+            "professor": "CIBELLE GUIMARAES SILVA SEVERO e HIDELBRANDO JOSE FARKAT DIOGENES",
+            "horario": "46T23",
+            "local": "CTD 101 (CT)"
+          }
+        ],
+        "prerequisites": [
+          "1701123",
+          "1707005",
+          "1703130",
+          "1703205",
+          "1703196"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1703189",
+        "name": "CONSTRUCOES DE EDIFICIOS II",
+        "category": "Complementar Obrigatória",
+        "semester": 8,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1703189",
+            "turmaid": "01",
+            "nome": " CONSTRUCOES DE EDIFICIOS II",
+            "semester": "2018.2",
+            "professor": "UBIRATAN HENRIQUE OLIVEIRA PIMENTEL",
+            "horario": "6M45 2T23",
+            "local": "CTD 101 (CT)"
+          }
+        ],
+        "prerequisites": [
+          "1701123",
+          "1703130",
+          "1703205",
+          "1703196",
+          "1707005"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1703195",
+        "name": "ESTRUTURAS DE ACO",
+        "category": "Complementar Obrigatória",
+        "semester": 8,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1703195",
+            "turmaid": "01",
+            "nome": " ESTRUTURAS DE ACO",
+            "semester": "2018.2",
+            "professor": "ROMULO DE FREITAS PAIXAO",
+            "horario": "24T6 24N1",
+            "local": "CTD 103 (CT)"
+          }
+        ],
+        "prerequisites": [
+          "1703185"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1703197",
+        "name": "ESTRUTURA DE CONCRETO ARMADO II",
+        "category": "Complementar Obrigatória",
+        "semester": 8,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1703197",
+            "turmaid": "01",
+            "nome": " ESTRUTURA DE CONCRETO ARMADO II",
+            "semester": "2018.2",
+            "professor": "GIVANILDO ALVES DE AZEREDO",
+            "horario": "35T23",
+            "local": "LABEME (CT)"
+          }
+        ],
+        "prerequisites": [
+          "1703196"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1703211",
+        "name": "PESQUISA APLICADA A ENGENHARIA",
+        "category": "Complementar Obrigatória",
+        "semester": 8,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1703211",
+            "turmaid": "01",
+            "nome": " PESQUISA APLICADA A ENGENHARIA",
+            "semester": "2018.2",
+            "professor": "CLOVIS DIAS",
+            "horario": "6M123",
+            "local": "CTB 101 (CT)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1703216",
+        "name": "SISTEMA DE ABASTECIMENTO DE AGUA",
+        "category": "Complementar Obrigatória",
+        "semester": 8,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1703216",
+            "turmaid": "01",
+            "nome": " SISTEMA DE ABASTECIMENTO DE AGUA",
+            "semester": "2018.2",
+            "professor": "ANA CLAUDIA FERNANDES MEDEIROS BRAGA",
+            "horario": "24T45",
+            "local": "CTD 107 (CT)"
+          },
+          {
+            "id": "1703216",
+            "turmaid": "02",
+            "nome": " SISTEMA DE ABASTECIMENTO DE AGUA",
+            "semester": "2018.2",
+            "professor": "GILSON BARBOSA ATHAYDE JUNIOR",
+            "horario": "46M23",
+            "local": "CTJ 105 (CT)"
+          }
+        ],
+        "prerequisites": [
+          "1703127",
+          "1703103",
+          "1703128"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1703121",
+        "name": "ESTRUTURA CONCR PROTENDIDO",
+        "category": "Optativa",
+        "semester": 9,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1703197",
+          "1703186"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1703147",
+        "name": "PONTES",
+        "category": "Optativa",
+        "semester": 9,
+        "workload": "75h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1703147",
+            "turmaid": "01",
+            "nome": " PONTES",
+            "semester": "2018.2",
+            "professor": "CARLOS ANTONIO TAURINO DE LUCENA",
+            "horario": "4M45 6M123",
+            "local": "CTJ 107 (CT) / CTJ 105 (CT)"
+          }
+        ],
+        "prerequisites": [
+          "1703186",
+          "1703197"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1703170",
+        "name": "TRATAMENTO DE ÁGUA E ESGOTO",
+        "category": "Optativa",
+        "semester": 9,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1703170",
+            "turmaid": "01",
+            "nome": " TRATAMENTO DE ÁGUA E ESGOTO",
+            "semester": "2018.2",
+            "professor": "CARMEM LUCIA MOREIRA GADELHA",
+            "horario": "46M23",
+            "local": "CTD 103 (CT) / CTD 105 (CT)"
+          }
+        ],
+        "prerequisites": [
+          "1703216"
+        ],
+        "equivalences": [
+          "GDECV0107"
+        ]
+      },
+      {
+        "id": "1703183",
+        "name": "ALVENARIA ESTRUTURAL",
+        "category": "Optativa",
+        "semester": 9,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1703183",
+            "turmaid": "01",
+            "nome": " ALVENARIA ESTRUTURAL",
+            "semester": "2018.2",
+            "professor": "ROBERTO LEAL PIMENTEL",
+            "horario": "3M123",
+            "local": "LABEME (CT)"
+          }
+        ],
+        "prerequisites": [
+          "1703186",
+          "1703197"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1703187",
+        "name": "AVALIACAO E PERICIAS DE ENGENHARIA",
+        "category": "Optativa",
+        "semester": 9,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1703187",
+            "turmaid": "01",
+            "nome": " AVALIACAO E PERICIAS DE ENGENHARIA",
+            "semester": "2018.2",
+            "professor": "UBIRATAN HENRIQUE OLIVEIRA PIMENTEL",
+            "horario": "24T45",
+            "local": "CTA 107 (CT)"
+          }
+        ],
+        "prerequisites": [
+          "1703188"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1703191",
+        "name": "ENGENHARIA LEGAL",
+        "category": "Optativa",
+        "semester": 9,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1703188"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1703198",
+        "name": "ESTRUTURA DE CONCRETO ARMADO III",
+        "category": "Optativa",
+        "semester": 9,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1703198",
+            "turmaid": "02",
+            "nome": " ESTRUTURA DE CONCRETO ARMADO III",
+            "semester": "2018.2",
+            "professor": "JOSE MARCILIO FILGUEIRAS CRUZ",
+            "horario": "24T45",
+            "local": "CTJ 106 (CT)"
+          }
+        ],
+        "prerequisites": [
+          "1703186",
+          "1703197"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1703204",
+        "name": "INTROD AO METODO DOS ELEMENTOS FINITOS",
+        "category": "Optativa",
+        "semester": 9,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1703204",
+            "turmaid": "01",
+            "nome": " INTROD AO METODO DOS ELEMENTOS FINITOS",
+            "semester": "2018.2",
+            "professor": "ANGELO VIEIRA MENDONCA",
+            "horario": "2M2345",
+            "local": "CTJ 101 (CT)"
+          }
+        ],
+        "prerequisites": [
+          "1703186",
+          "1103176",
+          "0072"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1703210",
+        "name": "PATOLOGIA E REABILITACAO DAS CONSTRUCOES",
+        "category": "Optativa",
+        "semester": 9,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1703210",
+            "turmaid": "01",
+            "nome": " PATOLOGIA E REABILITACAO DAS CONSTRUCOES",
+            "semester": "2018.2",
+            "professor": "PAULO GERMANO TOSCANO MOURA",
+            "horario": "6T123",
+            "local": "CTD 103 (CT)"
+          }
+        ],
+        "prerequisites": [
+          "1703186",
+          "1703197"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1703212",
+        "name": "PLANEJAMENTO E CONTROLE DA PRODUCAO",
+        "category": "Optativa",
+        "semester": 9,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1703188"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1703219",
+        "name": "TOPICOS II EM ENGENHARIA",
+        "category": "Optativa",
+        "semester": 9,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1703219",
+            "turmaid": "01",
+            "nome": " TOPICOS II EM ENGENHARIA",
+            "semester": "2018.2",
+            "professor": "RICARDO ALMEIDA DE MELO",
+            "horario": "35M23",
+            "local": "CTJ 201 (CT)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1703224",
+        "name": "TRANSPORTE FERROVIARIO",
+        "category": "Optativa",
+        "semester": 9,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1703184"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDECV0106",
+        "name": "MODELAGEM DA INFORMAÇÃO DA CONSTRUÇÃO",
+        "category": "Optativa",
+        "semester": 9,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDECV0106",
+            "turmaid": "01",
+            "nome": " MODELAGEM DA INFORMAÇÃO DA CONSTRUÇÃO",
+            "semester": "2018.2",
+            "professor": "CIBELLE GUIMARAES SILVA SEVERO e HIDELBRANDO JOSE FARKAT DIOGENES",
+            "horario": "35T45",
+            "local": "CTD 101 (CT)"
+          }
+        ],
+        "prerequisites": [
+          "1703188",
+          "1703189"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1703182",
+        "name": "ADMINIST DE EMPRESAS DE CONST CIVIL",
+        "category": "Obrigatória",
+        "semester": 9,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1703182",
+            "turmaid": "01",
+            "nome": " ADMINIST DE EMPRESAS DE CONST CIVIL",
+            "semester": "2018.2",
+            "professor": "PAULO GERMANO TOSCANO MOURA",
+            "horario": "35T45",
+            "local": "CTJ 105 (CT)"
+          }
+        ],
+        "prerequisites": [
+          "1703188"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1703194",
+        "name": "PAVIMENTACAO",
+        "category": "Complementar Obrigatória",
+        "semester": 9,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1703194",
+            "turmaid": "01",
+            "nome": " PAVIMENTACAO",
+            "semester": "2018.2",
+            "professor": "RICARDO ALMEIDA DE MELO",
+            "horario": "24T23",
+            "local": "CTD 107 (CT) / CTJ 102 (CT)"
+          }
+        ],
+        "prerequisites": [
+          "1703119"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1703217",
+        "name": "SISTEMAS DE ESGOTO E DRENAGEM",
+        "category": "Complementar Obrigatória",
+        "semester": 9,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1703217",
+            "turmaid": "01",
+            "nome": " SISTEMAS DE ESGOTO E DRENAGEM",
+            "semester": "2018.2",
+            "professor": "LEONARDO VIEIRA SOARES",
+            "horario": "24T45",
+            "local": "CTD 101 (CT)"
+          },
+          {
+            "id": "1703217",
+            "turmaid": "02",
+            "nome": " SISTEMAS DE ESGOTO E DRENAGEM",
+            "semester": "2018.2",
+            "professor": "ANA CLAUDIA FERNANDES MEDEIROS BRAGA",
+            "horario": "24M23",
+            "local": "CTJ 107 (CT)"
+          }
+        ],
+        "prerequisites": [
+          "1703216",
+          "1703127"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1703218",
+        "name": "TOPICOS I EM ENGENHARIA",
+        "category": "Complementar Obrigatória",
+        "semester": 9,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1703218",
+            "turmaid": "01",
+            "nome": " TOPICOS I EM ENGENHARIA",
+            "semester": "2018.2",
+            "professor": "BELARMINO BARBOSA LIRA",
+            "horario": "35T23",
+            "local": "CTJ 105 (CT)"
+          },
+          {
+            "id": "1703218",
+            "turmaid": "02",
+            "nome": " TOPICOS I EM ENGENHARIA",
+            "semester": "2018.2",
+            "professor": "ALINE FLAVIA NUNES REMIGIO ANTUNES",
+            "horario": "24M23",
+            "local": "CTD 107 (CT)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDECV0110",
+        "name": "ESTAGIO SUPERVISIONADO (ENGENHARIA CIVIL)",
+        "category": "Obrigatória",
+        "semester": 9,
+        "workload": "300h aula 0h lab.",
+        "type": "ESTÁGIO",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDECV0111",
+        "name": "TRABALHO DE CONCLUSÃO DE CURSO (ENGENHARIA CIVIL)",
+        "category": "Complementar Obrigatória",
+        "semester": 9,
+        "workload": "60h aula 0h lab.",
+        "type": "TRABALHO DE CONCLUSÃO DE CURSO",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      }
+    ]
+  }
+}

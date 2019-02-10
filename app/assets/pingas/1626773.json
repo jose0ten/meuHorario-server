@@ -1,0 +1,2925 @@
+{
+  "curriculum": {
+    "id": "602016",
+    "codigo": "1626773",
+    "name": "RELAÇÕES PÚBLICAS - João Pessoa - Presencial - N - BACHARELADO",
+    "faculty": "CENTRO DE COMUNICAÇÃO, TURISMO E ARTES (CCTA) (11.00.66)",
+    "minch": "225",
+    "maxch": "450",
+    "semesters": 9,
+    "courses": [
+      {
+        "id": "1108210",
+        "name": "ESTATÍSTICA APLICADA À COMUNICAÇÃO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1202251",
+        "name": "ATIVIDADE DE EXTENSAO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1401161",
+        "name": "SOCIOLOGIA DO TRABALHO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1403747",
+        "name": "LIBRAS  LÍNGUA BRASILEIRA DE SINAIS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "2303001",
+        "name": "HISTORIA DO CINEMA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "2303002",
+        "name": "TEORIAS DO CINEMA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "2303010",
+        "name": "FOTOGRAFIA DIGITAL",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "2303011",
+        "name": "HISTÓRIA DO AUDIOVISUAL",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "2303015",
+        "name": "GÊNEROS JORNALISTÍCOS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+          "GDJOR0006"
+        ]
+      },
+      {
+        "id": "2303016",
+        "name": "JORNALISMO FOTOGRÁFICO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+          "GDJOR0007"
+        ]
+      },
+      {
+        "id": "2303017",
+        "name": "HISTÓRIA  SOCIAL DOS MEIOS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "2303020",
+        "name": "TÓPICOS ESPECIAIS EM RELPÚBLICAS I",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "2303021",
+        "name": "CINEMA BRASILEIRO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "2303030",
+        "name": "REPORTAGEM E PESQUISA EM JORNALISMO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+          "GDJOR0027"
+        ]
+      },
+      {
+        "id": "2303031",
+        "name": "ESTETICA E LINGUAGEM DO AUDIOVISUAL",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+          "GDJOR0001"
+        ]
+      },
+      {
+        "id": "2303032",
+        "name": "EDITORAÇÃO E PROGRAMAÇÃO VISUAL",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+          "GDJOR0010"
+        ]
+      },
+      {
+        "id": "2303035",
+        "name": "ESTUDOS CULTURAIS EM COMUNICAÇÃO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "2303043",
+        "name": "ASSESSORIA DE COMUNICAÇÃO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "2303044",
+        "name": "JORNALISMO E CIDADANIA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+          "GDJOR0012"
+        ]
+      },
+      {
+        "id": "2303045",
+        "name": "WEBJORNALISMO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "2303048",
+        "name": "ESTUDOS EM NOVAS MIDIAS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "2303049",
+        "name": "ESTUDOS EM NOVOS MEIOS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "2303050",
+        "name": "PRÁTICA DE ADMINISTRAÇÃO EM JORNALISMO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "2303051",
+        "name": "ESTUDOS EM FOLKCOMUNICAÇÃO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "2303052",
+        "name": "ESTUDOS EM CULTURA MIDIATICA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "2303053",
+        "name": "ESTUDOS EM ESTETICA DA COMUNICAÇÃO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "2303054",
+        "name": "PRODUÇÃO DE NOTICIAS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "2303055",
+        "name": "JORNALISMO DE REVISTA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "2303056",
+        "name": "JORNALISMO PARA O TERCEIRO SETOR",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "2303057",
+        "name": "JORNALISMO INVESTIGATIVO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "2303058",
+        "name": "EDUCOMUNICAÇÃO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "2303059",
+        "name": "GRANDE REPORTAGEM EM VIDEODOCUMENTARIO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "2303060",
+        "name": "JORNALISMO POLÍTICO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "2303061",
+        "name": "JORNALISMO ECONOMICO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "2303062",
+        "name": "JORNALISMO ESPORTIVO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "2303063",
+        "name": "JORNALISMO CULTURAL",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "2303064",
+        "name": "JORNALISMO POLICIAL",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "2303065",
+        "name": "JORNALISMO AMBIENTAL",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "2303066",
+        "name": "JORNALISMO EMPRESARIAL",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "2303067",
+        "name": "SOCIOLOGIA DA MIDIA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "2303068",
+        "name": "PRODUÇÃO DE REPORTAGENS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "2303069",
+        "name": "PRODUÇÃO DE GRANDE REPORTAGEM",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "2303070",
+        "name": "ANALISE DOS DISCURSOS MIDIATICOS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "2303071",
+        "name": "ESTUDOS EM ETICA JORNALISTICA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "2303072",
+        "name": "ESTUDOS EM ECONOMIA DA CULTURA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "2303073",
+        "name": "CIDADANIA E DIREITOS HUMANOS EM MCM",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "2303074",
+        "name": "ACESSIBILIDADE AS MIDIAS SOCIAIS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "2303075",
+        "name": "CRITICA CINEMATOGRÁFICA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "2303076",
+        "name": "COMUNICAÇÃO E LITERATURA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "2303077",
+        "name": "ANTROPOLOGIA DA COMUNICAÇÃO VISUAL",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "2303078",
+        "name": "ESTUDOS DO COTIDIANO E DA MÍDIA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "2303082",
+        "name": "COMUNICAÇÕES E RELAÇÕES INTERPESSOAIS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "2303083",
+        "name": "CIBERCULTURA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "2303087",
+        "name": "FICÇÃO TELEVISUAL",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "2303087",
+            "turmaid": "01",
+            "nome": " FICÇÃO TELEVISUAL",
+            "semester": "2018.2",
+            "professor": "CLAUDIO CARDOSO DE PAIVA",
+            "horario": "5M2345",
+            "local": "CCTA 242 - BLOCO B (CCTA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "2303092",
+        "name": "COMUNICAÇÃO E IDENTIDADE CULTURAL",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "2303093",
+        "name": "MARKETING CULTURAL",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "2303093",
+            "turmaid": "01",
+            "nome": " MARKETING CULTURAL",
+            "semester": "2018.2",
+            "professor": "JAMILE MIRIA FERNANDES PAIVA",
+            "horario": "5N1234",
+            "local": "CCTA 226 -  BLOCO B- LABORATÓRIO DE DANÇA (CCTA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "2303095",
+        "name": "TÓPICOS ESPECIAIS EM REL PÚBLICAS II",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "2303096",
+        "name": "TÓPICOS ESPECIAIS EM REL PÚBLICAS III",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "2303097",
+        "name": "COMUNICAÇÃO PÚBLICA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "2303098",
+        "name": "ROTEIRO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "2303101",
+        "name": "CINEMA PARAIBANO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "2303124",
+        "name": "PRODUÇÃO DE CONTEÚDOS PARA A WEB",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "2303126",
+        "name": "PLANEJAMENTO DE MARKETING PARA PRODUTOS AUDIOVISUAIS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "2303127",
+        "name": "DIREÇÃO DE ARTE",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "2303148",
+        "name": "GOVERNANÇA COORPORATIVA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "2303149",
+        "name": "RELAÇÕES PÚBLICAS PARA O TURISMO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "2303150",
+        "name": "LIDERANÇA E TRABALHO EM EQUIPE",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "2303151",
+        "name": "CULTURA ORGANIZAÇÃO EM REDES INFORM",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "2303153",
+        "name": "CRÍTICA DE AUDIOVISUAL",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "2303158",
+        "name": "RÁDIO E TELEVISÃO DIGITAL",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "2303159",
+        "name": "DOCUMENTÁRIO AUDIOVISUAL",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "2303162",
+        "name": "EXPERIMENTO AUDIOVISUAL",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "2303168",
+        "name": "ACESSIBILIDADE ÀS MIDIDAS AUDIOVISUAIS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "2303169",
+        "name": "ANÁLISE E CRÍTICA FÍLMICA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "2303170",
+        "name": "GÊNEROS DO AUDIOVISUAL",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "2303171",
+        "name": "PRODUÇÃO AUDIOVISUAL BRASILEIRA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "2303172",
+        "name": "DINÂMICA DOS SISTEMAS HIPERMÍDIA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "2303173",
+        "name": "VIDEOGRAFISMO E ANIMAÇÃODIGITAL",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "2303174",
+        "name": "SEMIÓTICA APLI AOS SIST AUDIOVISUAIS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "2303175",
+        "name": "PROCESSOS INTERSEMIÓTICOS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "2303176",
+        "name": "EDUCOMUNICAÇÃO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "2303177",
+        "name": "HISTÓRIA DOS MEIOS DE MASSA PARAÍBANOS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "2303178",
+        "name": "SISTEMAS DIGITAIS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "2303179",
+        "name": "PRODUÇÃO AUDIOVISUAL PARAÍBANA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "2303180",
+        "name": "GRAMÁTICA DE DESIGN VISUAL",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "2303181",
+        "name": "POLÍTICAS DO AUDIOVISUAL",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "2303182",
+        "name": "TRILHA SONORA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "2303183",
+        "name": "ARTEMÍDIA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "2303184",
+        "name": "PLANEJ DE CAMP DE PUB E PROPAGANDA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "2303185",
+        "name": "PUBLICIDADE E PROPAGANDA PARA TV",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "2303187",
+        "name": "GÊNEROS CINEMATOGRÁFICOS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "2303189",
+        "name": "EDIÇÃO E MONTAGEM II",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "2303191",
+        "name": "CRÍTICA CINEMATOGRÁFICA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "2303193",
+        "name": "GRAFISMO EM CINEMA E AUDIOVISUAL",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "2303205",
+        "name": "SEMIÓTICA DOS MEIOS AUDIOVISUAIS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "2303207",
+        "name": "TEORIA DA IMAGEM",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "2303208",
+        "name": "CINEMA E ANÁLISE DO DISCURSO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "2303209",
+        "name": "ESTUDOS DE RECEPÇAO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "2303210",
+        "name": "CORPO E COMUNICAÇÃO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "2303213",
+        "name": "CINEMA E MEMÓRIA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "2303214",
+        "name": "CINEMA E SEXUALIDADE",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "2303216",
+        "name": "COMUNICAÇÃO E CULTURA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "2303222",
+        "name": "ANIMAÇÃO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 60h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "2303223",
+        "name": "CINEMA E TURISMO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "2303224",
+        "name": "TÉCNICA E ESTÉTICA DA VOZ",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "2303226",
+        "name": "DUBLAGEM",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "2303231",
+        "name": "JORNALISMO E LITERATURA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "2303232",
+        "name": "MÍDIA CONVERE PORTABILIDADE",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "2305001",
+        "name": "TRILHA SONORA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDCOM0115",
+        "name": "TOPICOS ESPECIAIS EM RELAÇÕES PUBLICAS IV",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDCOM0116",
+        "name": "TOPICOS ESPECIAIS EM RELAÇÕES PUBLICAS V",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDCOM0117",
+        "name": "ECONOMIA CRIATIVA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDCOM0117",
+            "turmaid": "01",
+            "nome": " ECONOMIA CRIATIVA",
+            "semester": "2018.2",
+            "professor": "JOSILENE RIBEIRO DE OLIVEIRA",
+            "horario": "3N1234",
+            "local": "CCTA 238 - BLOCO B (CCTA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDCOM0118",
+        "name": "COMUNICAÇÃO PÚBLICA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDCOM0119",
+        "name": "RELACIONAMENTO COM A MIDIA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDCOM0120",
+        "name": "RESPONSABILIDADE SOCIOAMBIENTAL",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDCOM0121",
+        "name": "GESTÃO DE CRISE",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDCOM0122",
+        "name": "RELAÇÕES PÚBLICAS COMUNITÁRIAS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDCOM0123",
+        "name": "SEMINÁRIOS PROFISSIONAIS EM RELAÇÕES PÚBLICAS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDCOM0124",
+        "name": "GESTÃO COM PESSOAS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1205003",
+        "name": "METODOLOGIA DO TRABALHO CIENTÍFICO",
+        "category": "Complementar Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1205003",
+            "turmaid": "13",
+            "nome": " METODOLOGIA DO TRABALHO CIENTÍFICO",
+            "semester": "2018.2",
+            "professor": "EDILENE TOSCANO GALDINO DOS SANTOS",
+            "horario": "3N1234",
+            "local": "CAC 108 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+          "1401140",
+          "1709001",
+          "GDTH0036"
+        ]
+      },
+      {
+        "id": "1403751",
+        "name": "REDAÇÃO E EXPRESSÃO ORAL I",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1403751",
+            "turmaid": "01",
+            "nome": " REDAÇÃO E EXPRESSÃO ORAL I",
+            "semester": "2018.2",
+            "professor": "MARIA LEONOR MAIA DOS SANTOS",
+            "horario": "2N1234",
+            "local": "CCTA 242 - BLOCO B (CCTA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+          "GDJOR0002"
+        ]
+      },
+      {
+        "id": "2303006",
+        "name": "TEORIA  DAS RELAÇÕES PÚBLICAS",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "2303006",
+            "turmaid": "01",
+            "nome": " TEORIA  DAS RELAÇÕES PÚBLICAS",
+            "semester": "2018.2",
+            "professor": "ANDRE LUIZ DIAS DE FRANCA",
+            "horario": "6N1234",
+            "local": "CCTA 242 - BLOCO B (CCTA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "2303007",
+        "name": "SOCIOLOGIA DAS ORGANIZAÇÕES",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "2303007",
+            "turmaid": "01",
+            "nome": " SOCIOLOGIA DAS ORGANIZAÇÕES",
+            "semester": "2018.2",
+            "professor": "JOSILENE RIBEIRO DE OLIVEIRA",
+            "horario": "4N1234",
+            "local": "CCTA 242 - BLOCO B (CCTA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "2303008",
+        "name": "TEORIAS DA COMUNICAÇÃO",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "2303008",
+            "turmaid": "02",
+            "nome": " TEORIAS DA COMUNICAÇÃO",
+            "semester": "2018.2",
+            "professor": "EDONIO ALVES DO NASCIMENTO",
+            "horario": "5N1234",
+            "local": "CCTA 231 - BLOCO B - LABORATÓRIO DE JORNALISMO (CCTA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1403752",
+        "name": "REDAÇÃO E EXPRESSÃO ORAL II",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1403752",
+            "turmaid": "01",
+            "nome": " REDAÇÃO E EXPRESSÃO ORAL II",
+            "semester": "2018.2",
+            "professor": "FABIANA SOUZA SILVA MENDES DE ARAUJO",
+            "horario": "5N1234",
+            "local": "CCTA 225 - BLOCO B (CCTA)"
+          }
+        ],
+        "prerequisites": [
+          "1403751"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "2303013",
+        "name": "COMUNICAÇÃO E CULTURAS CONTEMPORANEAS",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "2303013",
+            "turmaid": "01",
+            "nome": " COMUNICAÇÃO E CULTURAS CONTEMPORANEAS",
+            "semester": "2018.2",
+            "professor": "CLAUDIO CARDOSO DE PAIVA",
+            "horario": "3M2345",
+            "local": "NUDOC (CCTA)"
+          },
+          {
+            "id": "2303013",
+            "turmaid": "02",
+            "nome": " COMUNICAÇÃO E CULTURAS CONTEMPORANEAS",
+            "semester": "2018.2",
+            "professor": "JOSILENE RIBEIRO DE OLIVEIRA",
+            "horario": "2N1234",
+            "local": "CCTA 225 - BLOCO B (CCTA)"
+          }
+        ],
+        "prerequisites": [
+          "2303008"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "2303018",
+        "name": "COMUNICAÇÃO ORGANIZACIONAL",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "2303007"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "2303019",
+        "name": "TEORIAS DAS ORGANIZAÇÕES",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "2303019",
+            "turmaid": "01",
+            "nome": " TEORIAS DAS ORGANIZAÇÕES",
+            "semester": "2018.2",
+            "professor": "JAMILE MIRIA FERNANDES PAIVA",
+            "horario": "4N1234",
+            "local": "CCTA 225 - BLOCO B (CCTA)"
+          }
+        ],
+        "prerequisites": [
+          "2303007"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDCOM0108",
+        "name": "COMUNICAÇÃOE DESENVOLVIMENTO LOCAL",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDCOM0108",
+            "turmaid": "01",
+            "nome": " COMUNICAÇÃOE DESENVOLVIMENTO LOCAL",
+            "semester": "2018.2",
+            "professor": "ANDREA KARINNE ALBUQUERQUE MAIA",
+            "horario": "6N1234",
+            "local": "CCTA 225 - BLOCO B (CCTA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "2303026",
+        "name": "REDAÇÃO E COMUNICAÇÃO ORGANIZACIONAL",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "2303026",
+            "turmaid": "01",
+            "nome": " REDAÇÃO E COMUNICAÇÃO ORGANIZACIONAL",
+            "semester": "2018.2",
+            "professor": "ANDREA KARINNE ALBUQUERQUE MAIA",
+            "horario": "3N1234",
+            "local": "CCTA 225 - BLOCO B (CCTA)"
+          }
+        ],
+        "prerequisites": [
+          "1403752"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "2303027",
+        "name": "PESQUISA DE OPINIÃO PÚBLICA",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "2303027",
+            "turmaid": "01",
+            "nome": " PESQUISA DE OPINIÃO PÚBLICA",
+            "semester": "2018.2",
+            "professor": "ANDRE LUIZ DIAS DE FRANCA",
+            "horario": "5N1234",
+            "local": "CCTA 242 - BLOCO B (CCTA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "2303028",
+        "name": "INTRODUÇÃO AO PLANEJAMENTO",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "2303028",
+            "turmaid": "01",
+            "nome": " INTRODUÇÃO AO PLANEJAMENTO",
+            "semester": "2018.2",
+            "professor": "BRUNO DE ARAUJO RIBEIRO",
+            "horario": "2N1234",
+            "local": "CCTA 238 - BLOCO B (CCTA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "2303029",
+        "name": "CULTURA ORGANIZACIONAL",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "2303029",
+            "turmaid": "01",
+            "nome": " CULTURA ORGANIZACIONAL",
+            "semester": "2018.2",
+            "professor": "JULIO AFONSO SA DE PINHO NETO",
+            "horario": "4N1234",
+            "local": "CCTA 238 - BLOCO B (CCTA)"
+          }
+        ],
+        "prerequisites": [
+          "2303018",
+          "2303019"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "2303088",
+        "name": "PLANEJAMENTO DE RELAÇOES PÚBLICAS",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "2303028"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "2303089",
+        "name": "PLANEJAMENTO DE MARKETING",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "2303089",
+            "turmaid": "01",
+            "nome": " PLANEJAMENTO DE MARKETING",
+            "semester": "2018.2",
+            "professor": "BRUNO DE ARAUJO RIBEIRO",
+            "horario": "5N1234",
+            "local": "CCTA 223 - BLOCO B (CCTA)"
+          }
+        ],
+        "prerequisites": [
+          "2303028"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "2303090",
+        "name": "PESQUISA APLICADA AS RELAÇÕES PÚBLICAS",
+        "category": "Complementar Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "2303090",
+            "turmaid": "01",
+            "nome": " PESQUISA APLICADA AS RELAÇÕES PÚBLICAS",
+            "semester": "2018.2",
+            "professor": "FELLIPE SÁ BRASILEIRO",
+            "horario": "4N1234",
+            "local": "CCTA 223 - BLOCO B (CCTA)"
+          }
+        ],
+        "prerequisites": [
+          "2303027"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDCOM0109",
+        "name": "MIDIA IMPRESSA EM RELAÇÕES PUBLICAS",
+        "category": "Complementar Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDCOM0109",
+            "turmaid": "01",
+            "nome": " MIDIA IMPRESSA EM RELAÇÕES PUBLICAS",
+            "semester": "2018.2",
+            "professor": "KARLA ROSANA FRANCELINO RIBEIRO NORONHA",
+            "horario": "3N1234",
+            "local": "CCTA 236 - BLOCO B (CCTA)"
+          }
+        ],
+        "prerequisites": [
+          "2303026"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "2303136",
+        "name": "PUBLICIDADE E PROPAGANDA",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "2303136",
+            "turmaid": "01",
+            "nome": " PUBLICIDADE E PROPAGANDA",
+            "semester": "2018.2",
+            "professor": "FERNANDA GABRIELA GADELHA ROMERO",
+            "horario": "6N1234",
+            "local": "CCTA 238 - BLOCO B (CCTA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "2303137",
+        "name": "ESTRATÉGIAS DE MEDIAÇÃO E NEGOCIAÇÃO",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "2303137",
+            "turmaid": "01",
+            "nome": " ESTRATÉGIAS DE MEDIAÇÃO E NEGOCIAÇÃO",
+            "semester": "2018.2",
+            "professor": "FELLIPE SÁ BRASILEIRO",
+            "horario": "3N1234",
+            "local": "CCTA 223 - BLOCO B (CCTA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "2303239",
+        "name": "ESTÁGIO SUPERVISIONADO I RP",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "150h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "2303239",
+            "turmaid": "01",
+            "nome": " ESTÁGIO SUPERVISIONADO I RP",
+            "semester": "2018.2",
+            "professor": "ANDRE LUIZ DIAS DE FRANCA, ANDREA KARINNE ALBUQUERQUE MAIA e FELLIPE SÁ BRASILEIRO",
+            "horario": "7M123456 7T1234",
+            "local": "CCTA 238 - BLOCO B (CCTA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDCOM0110",
+        "name": "MIDIA SONORA EM RELAÇÕES PUBLICAS",
+        "category": "Complementar Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "2303086",
+        "name": "ÉTICA E DEONTOLOGIA",
+        "category": "Complementar Obrigatória",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "2303086",
+            "turmaid": "01",
+            "nome": " ÉTICA E DEONTOLOGIA",
+            "semester": "2018.2",
+            "professor": "BRUNO DE ARAUJO RIBEIRO",
+            "horario": "3N1234",
+            "local": "CCTA 224 - BLOCO B- LABORATÓRIO DE DANÇA (CCTA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "2303140",
+        "name": "EMPREENDEDORISMO EM COMUNICAÇÃO ORGANIZACIONAL",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "2303140",
+            "turmaid": "01",
+            "nome": " EMPREENDEDORISMO EM COMUNICAÇÃO ORGANIZACIONAL",
+            "semester": "2018.2",
+            "professor": "LAÍZ SILVEIRA FERREIRA",
+            "horario": "2N1234",
+            "local": "CCTA 223 - BLOCO B (CCTA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDCOM0100",
+        "name": "ESTÁGIO SUPERVISIONADO II",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "150h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDCOM0100",
+            "turmaid": "01",
+            "nome": " RELAÇÕES PÚBLICA",
+            "semester": "2018.2",
+            "professor": "PATRICIA MORAIS DE AZEVEDO, JAMILE MIRIA FERNANDES PAIVA e JOSILENE RIBEIRO DE OLIVEIRA",
+            "horario": "7M123456 7T1234",
+            "local": "CCTA 223 - BLOCO B (CCTA)"
+          }
+        ],
+        "prerequisites": [
+          "2303239"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDCOM0111",
+        "name": "AUDIOVISUAL EM RELAÇÕES PUBLICAS",
+        "category": "Complementar Obrigatória",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "2303143",
+        "name": "CONSULTORIA E ASSESSORIA DE COMUNICAÇÃO",
+        "category": "Obrigatória",
+        "semester": 7,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "2303143",
+            "turmaid": "01",
+            "nome": " CONSULTORIA E ASSESSORIA DE COMUNICAÇÃO",
+            "semester": "2018.2",
+            "professor": "FERNANDA GABRIELA GADELHA ROMERO e LAÍZ SILVEIRA FERREIRA",
+            "horario": "3N1234",
+            "local": "CCTA 226 -  BLOCO B- LABORATÓRIO DE DANÇA (CCTA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "2303144",
+        "name": "COMUNICAÇÃO NAS ORGANIZAÇÕES PÚBLICAS  E NO TERCEIRO SETOR",
+        "category": "Obrigatória",
+        "semester": 7,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "2303144",
+            "turmaid": "01",
+            "nome": " COMUNICAÇÃO NAS ORGANIZAÇÕES PÚBLICAS  E NO TERCEIRO SETOR",
+            "semester": "2018.2",
+            "professor": "JAMILE MIRIA FERNANDES PAIVA",
+            "horario": "2N1234",
+            "local": "CCTA 224 - BLOCO B- LABORATÓRIO DE DANÇA (CCTA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDCOM0112",
+        "name": "MIDIAS DIGITAIS EM RELAÇÕES PUBLICAS",
+        "category": "Complementar Obrigatória",
+        "semester": 7,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDCOM0113",
+        "name": "PLANEJAMENTO E ORGANIZAÇÃO DE EVENTOS",
+        "category": "Obrigatória",
+        "semester": 7,
+        "workload": "75h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "2303146",
+        "name": "TRABALHO DE CONCLUSÃO DE CURSO I (RP)",
+        "category": "Complementar Obrigatória",
+        "semester": 8,
+        "workload": "60h aula 0h lab.",
+        "type": "TRABALHO DE CONCLUSÃO DE CURSO",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDCOM0107",
+        "name": "SEMINÁRIO ETNICO",
+        "category": "Complementar Obrigatória",
+        "semester": 8,
+        "workload": "60h aula 0h lab.",
+        "type": "ATIVIDADE ESPECIAL",
+        "turmas": [
+          {
+            "id": "GDCOM0107",
+            "turmaid": "01",
+            "nome": " SEMINÁRIO ETNICO- RACIAIS",
+            "semester": "2018.2",
+            "professor": "PATRICIA MORAIS DE AZEVEDO",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+          "2303234"
+        ]
+      },
+      {
+        "id": "GDCOM0114",
+        "name": "PRODUÇÃO CULTURAL",
+        "category": "Obrigatória",
+        "semester": 8,
+        "workload": "75h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "2303147",
+        "name": "TRABALHO DE CONCLUSÃO DE CURSO II ( RP)",
+        "category": "Complementar Obrigatória",
+        "semester": 9,
+        "workload": "240h aula 0h lab.",
+        "type": "TRABALHO DE CONCLUSÃO DE CURSO",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "2303146"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "2303142",
+        "name": " OFICINA DE MÍDIAS DIGITAIS",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": "60h",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "2303142",
+            "turmaid": "01",
+            "nome": " OFICINA DE MÍDIAS DIGITAIS",
+            "semester": "2018.2",
+            "professor": "FERNANDA GABRIELA GADELHA ROMERO",
+            "horario": "4N1234",
+            "local": "CCTA 224 - BLOCO B- LABORATÓRIO DE DANÇA (CCTA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "2303135",
+        "name": " OFICINA DE MÍDIA SONORA",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": "60h",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "2303135",
+            "turmaid": "01",
+            "nome": " OFICINA DE MÍDIA SONORA",
+            "semester": "2018.2",
+            "professor": "FILIPE BARROS BELTRAO",
+            "horario": "4N1234",
+            "local": "CCTA 232 - BLOCO B - LABORATÓRIO DE RADIALISMO 1 (CCTA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "2303139",
+        "name": " OFICINA DE PRODUÇÃO AUDIO VISUAL",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": "60h",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "2303139",
+            "turmaid": "01",
+            "nome": " OFICINA DE PRODUÇÃO AUDIO VISUAL",
+            "semester": "2018.2",
+            "professor": "LAÍZ SILVEIRA FERREIRA",
+            "horario": "4N1234",
+            "local": "CCTA 204 - BLOCO B - LABORATÓRIO DE ARTES (CCTA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      }
+    ]
+  }
+}

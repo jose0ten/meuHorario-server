@@ -1,0 +1,1478 @@
+{
+  "curriculum": {
+    "id": "462009",
+    "codigo": "1626813",
+    "name": "TERAPIA OCUPACIONAL - João Pessoa - Presencial - MT - OUTRO TIPO DE GRAU ACADÊMICO",
+    "faculty": "CENTRO DE CIÊNCIAS DA SAÚDE (CCS) (11.00.54)",
+    "minch": "300",
+    "maxch": "495",
+    "semesters": 8,
+    "courses": [
+      {
+        "id": "1104217",
+        "name": "BIOFISICA I",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1104235",
+        "name": "TÓPICOS DE GENÉTICA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1108181",
+        "name": "BIOESTATISTICA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1401336",
+        "name": "SOCIOLOGIA DA SAÚDE",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1403747",
+        "name": "LIBRAS  LÍNGUA BRASILEIRA DE SINAIS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1609247",
+        "name": "EDUCACAO FISICA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1611139",
+        "name": "PARASITOLOGIA II",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1611173",
+        "name": "IMUNOLOGIA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1611175",
+        "name": "FISIOLOGIA DO EXERCICIO FISICO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1611177",
+        "name": "MICROBIOLOGIA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1611196",
+        "name": "FARMACOLOGIA BASICA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1613123",
+        "name": "SAUDE MENTAL",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1614103",
+        "name": "CINESIOLOGIA E BIOMECANICA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "75h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1618051",
+        "name": "SAÚDE MENTAL",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1619010",
+        "name": "TÓPICOS ESP EM TERAPIA OCUPACIONAL I",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1619011",
+        "name": "TÓPICOS ESP EM TERAPIA OCUPACIONAL II",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1619012",
+        "name": "TÓPICOS ESP EM TERAPIA OCUPACIONAL III",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1619013",
+        "name": "TÓPICOS ESP EM TERAPIA OCUPACIONAL IV",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1619014",
+        "name": "TEMAS DE ATUALIZ EM TERAPIA OCUPACIONAL",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1619016",
+        "name": "TERAPIA OCUPACIONAL E SAÚDE PÚBLICA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1619033",
+        "name": "SEMINÁRIO DE TERAPIA OCUPACIONAL",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1619033",
+            "turmaid": "01",
+            "nome": " SEMINÁRIO DE TERAPIA OCUPACIONAL",
+            "semester": "2018.2",
+            "professor": "ANA CAROLLYNE DANTAS DE LIMA",
+            "horario": "4T23",
+            "local": "TO 04 (CCS)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDLS0024",
+        "name": "LIBRAS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDTOC0034",
+        "name": "TÓPICOSD ESPECIAIS EM TERAPIA OCUPACIONAL EM SAÚDE MENTAL",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1104234",
+        "name": "NOÇÕES BÁSICAS DE BIOQUÍMICA",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1104234",
+            "turmaid": "01",
+            "nome": " NOÇÕES BÁSICAS DE BIOQUÍMICA",
+            "semester": "2018.2",
+            "professor": "LEONOR ALVES DE OLIVEIRA DA SILVA",
+            "horario": "4M23",
+            "local": "TO 04 (CCS)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1401134",
+        "name": "INTRODUCAO A SOCIOLOGIA",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1401134",
+            "turmaid": "05",
+            "nome": " INTRODUCAO A SOCIOLOGIA",
+            "semester": "2018.2",
+            "professor": "LILIA MARIA JUNQUEIRA",
+            "horario": "5T1234",
+            "local": "CAF 102 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1610184",
+        "name": "BIOLOGIA DO DESENV E HISTOLOGIA HUMANA",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1610184",
+            "turmaid": "02",
+            "nome": " BIOLOGIA DO DESENV E HISTOLOGIA HUMANA",
+            "semester": "2018.2",
+            "professor": "ROSSANA SEIXAS MAIA DA SILVA e PATRICIA MARQUES LIMA STADE",
+            "horario": "2M23 4M45",
+            "local": "CCS/LAB401 (CCS)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1610199",
+        "name": "ANATOMIA APLIC À TERAPIA OCUPACIONAL",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "75h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1610199",
+            "turmaid": "01",
+            "nome": " ANATOMIA APLIC À TERAPIA OCUPACIONAL",
+            "semester": "2018.2",
+            "professor": "FABIOLA FERREIRA DA SILVA",
+            "horario": "3M123 5M12",
+            "local": "CCS 418 (CCS)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1619002",
+        "name": "INTROD PRÁTICA EM TERAPIA OCUPACIONAL",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1619002",
+            "turmaid": "01",
+            "nome": " INTROD PRÁTICA EM TERAPIA OCUPACIONAL",
+            "semester": "2018.2",
+            "professor": "MARCIA QUEIROZ DE CARVALHO GOMES",
+            "horario": "2T1234",
+            "local": "TO 02 (CCS)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1619008",
+        "name": "HISTÓRIA DA TERAPIA OCUPACIONAL",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1619008",
+            "turmaid": "01",
+            "nome": " HISTÓRIA DA TERAPIA OCUPACIONAL",
+            "semester": "2018.2",
+            "professor": "FLAVIA REGINA RIBEIRO CAVALCANTI BUFFONE e CLAUDIA FELL AMADO",
+            "horario": "5M345",
+            "local": "TO 01 (CCS)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1805140",
+        "name": "INTRODUÇÃO  À SAÚDE PÚBLICA",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1805140",
+            "turmaid": "01",
+            "nome": " INTRODUÇÃO  À SAÚDE PÚBLICA",
+            "semester": "2018.2",
+            "professor": "ANDRE LUIS BONIFACIO DE CARVALHO",
+            "horario": "6M345",
+            "local": "CCM GERAL 2 2º ANDAR (CCM)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1405108",
+        "name": "INTRODUCAO A PSICOLOGIA",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1405108",
+            "turmaid": "02",
+            "nome": " INTRODUCAO A PSICOLOGIA",
+            "semester": "2018.2",
+            "professor": "MIRIAN GRACIELA DA SILVA STIEBBE SALVADORI",
+            "horario": "3M23 4M45",
+            "local": "TO 05 (CCS)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1610200",
+        "name": "NEUROANATOMIA APLIC À TER OCUPACIONAL",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1610200",
+            "turmaid": "01",
+            "nome": " NEUROANATOMIA APLIC À TER OCUPACIONAL",
+            "semester": "2018.2",
+            "professor": "ANA LUCIA BASILIO CARNEIRO",
+            "horario": "5T123",
+            "local": "CCS 416 (CCS)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1611194",
+        "name": "FISIOLOGIA HUMANA II",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "90h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1611194",
+            "turmaid": "04",
+            "nome": " FISIOLOGIA HUMANA II",
+            "semester": "2018.2",
+            "professor": "LUIZ HENRIQUE CESAR VASCONCELOS",
+            "horario": "3M45 4M23 6M34",
+            "local": "TO 05 (CCS) / CCS 214 (CCS) / TO 05 (CCS)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1613135",
+        "name": "MET DO TRABALHO CIENTIFICO",
+        "category": "Complementar Obrigatória",
+        "semester": 2,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1613135",
+            "turmaid": "01",
+            "nome": " MET DO TRABALHO CIENTIFICO",
+            "semester": "2018.2",
+            "professor": "ANNA LUIZA CASTRO GOMES",
+            "horario": "5M23",
+            "local": "CCS 504 (CCS)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1619003",
+        "name": "FUNDAMENTOS DA TERAPIA OCUPACIONAL",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1619003",
+            "turmaid": "01",
+            "nome": " FUNDAMENTOS DA TERAPIA OCUPACIONAL",
+            "semester": "2018.2",
+            "professor": "ANA CAROLLYNE DANTAS DE LIMA",
+            "horario": "3T234",
+            "local": "TO 05 (CCS)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1619004",
+        "name": "DESENVOLVIMENTO  HUMANO E OCUPAÇÃO I",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "90h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1619004",
+            "turmaid": "01",
+            "nome": " DESENVOLVIMENTO  HUMANO E OCUPAÇÃO I",
+            "semester": "2018.2",
+            "professor": "CLARICE RIBEIRO SOARES ARAUJO",
+            "horario": "5M45 4T1234",
+            "local": "TO 05 (CCS)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1611215",
+        "name": "COGNIÇÃO E MEMÓRIA",
+        "category": "Optativa",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1611194"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1401104",
+        "name": "ANTROPOLOGIA CULTURAL",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1401104",
+            "turmaid": "01",
+            "nome": " ANTROPOLOGIA CULTURAL",
+            "semester": "2018.2",
+            "professor": "LUCIANA MARIA RIBEIRO DE OLIVEIRA",
+            "horario": "5T1234",
+            "local": "CAF 109 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1405210",
+        "name": "PSICOLOGIA DO DESENVOLVIMENTO",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1405210",
+            "turmaid": "02",
+            "nome": " PSICOLOGIA DO DESENVOLVIMENTO",
+            "semester": "2018.2",
+            "professor": "ELOÁ LOSANO DE ABREU",
+            "horario": "2T1234",
+            "local": "CAG 104 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1611141",
+        "name": "PATOLOGIA GERAL",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1611141",
+            "turmaid": "01",
+            "nome": " PATOLOGIA GERAL",
+            "semester": "2018.2",
+            "professor": "IARA LEÃO LUNA DE SOUZA",
+            "horario": "5M123",
+            "local": "NEPHF (CCS)"
+          }
+        ],
+        "prerequisites": [
+          "1611194"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1619005",
+        "name": "DESENVOLVIMENTO  HUMANO E OCUPAÇÃO II",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1619005",
+            "turmaid": "01",
+            "nome": " DESENVOLVIMENTO  HUMANO E OCUPAÇÃO II",
+            "semester": "2018.2",
+            "professor": "ISABELA LEMOS ARTEIRO RIBEIRO LINS",
+            "horario": "2M2345",
+            "local": "TO 01 (CCS)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1619007",
+        "name": "CINESIOLOGIA",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "90h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1619007",
+            "turmaid": "01",
+            "nome": " CINESIOLOGIA",
+            "semester": "2018.2",
+            "professor": "ANA CAROLLYNE DANTAS DE LIMA",
+            "horario": "4M2345 5M45",
+            "local": "LABTO10 (CCS)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDESC0063",
+        "name": "EPIDEMIOLOGIA",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1619009",
+        "name": "TÓP DE TR OCUP GERONTOGERIÁTRICA",
+        "category": "Optativa",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1619015",
+        "name": "INTRODUÇÃO À ERGONOMIA E ERGOLOGIA",
+        "category": "Optativa",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1619015",
+            "turmaid": "01",
+            "nome": " INTRODUÇÃO À ERGONOMIA E ERGOLOGIA",
+            "semester": "2018.2",
+            "professor": "BARBARA IANSA DE LIMA BARROSO",
+            "horario": "6T1234",
+            "local": "TO 07 (CCS)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1619017",
+        "name": "ÓRTESES E ADAPTAÇÕES",
+        "category": "Optativa",
+        "semester": 4,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1619017",
+            "turmaid": "02",
+            "nome": " ÓRTESES E ADAPTAÇÕES",
+            "semester": "2018.2",
+            "professor": "BARBARA IANSA DE LIMA BARROSO e CLAUDIA REGINA CABRAL GALVAO",
+            "horario": "7M45",
+            "local": "LABTO10 (CCS)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1619006",
+        "name": "DESENVOLVIMENTO  HUMANO E OCUPAÇÃO III",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1619006",
+            "turmaid": "01",
+            "nome": " DESENVOLVIMENTO  HUMANO E OCUPAÇÃO III",
+            "semester": "2018.2",
+            "professor": "MARCIA QUEIROZ DE CARVALHO GOMES",
+            "horario": "4T1234",
+            "local": "TO 01 (CCS)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1619018",
+        "name": "TECNOLOGIA ASSISTIVA",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1619018",
+            "turmaid": "01",
+            "nome": " TECNOLOGIA ASSISTIVA",
+            "semester": "2018.2",
+            "professor": "BARBARA IANSA DE LIMA BARROSO e CLAUDIA REGINA CABRAL GALVAO",
+            "horario": "6M2345",
+            "local": "TO 04 (CCS)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1619019",
+        "name": "AVALIAÇÃO EM TERAPIA OCUPACIONAL",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1619019",
+            "turmaid": "01",
+            "nome": " AVALIAÇÃO EM TERAPIA OCUPACIONAL",
+            "semester": "2018.2",
+            "professor": "CLARICE RIBEIRO SOARES ARAUJO",
+            "horario": "4M123",
+            "local": "TO 05 (CCS)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1619020",
+        "name": "DINÂMICA E ATIVIDADE GRUPAL",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1619020",
+            "turmaid": "01",
+            "nome": " DINÂMICA E ATIVIDADE GRUPAL",
+            "semester": "2018.2",
+            "professor": "ISABELA LEMOS ARTEIRO RIBEIRO LINS",
+            "horario": "3M2345",
+            "local": "LABTO44 (CCS)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1619021",
+        "name": "TER OCUP POL PÚB SAÚDE EDC E ASSIST SOC",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "90h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1619021",
+            "turmaid": "01",
+            "nome": " TER OCUP POL PÚB SAÚDE EDC E ASSIST SOC",
+            "semester": "2018.2",
+            "professor": "BERLA MOREIRA DE MORAES",
+            "horario": "2M2345 4M45",
+            "local": "TO 04 (CCS)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1619026",
+        "name": "PSICOMOTRICIDADE",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1619026",
+            "turmaid": "01",
+            "nome": " PSICOMOTRICIDADE",
+            "semester": "2018.2",
+            "professor": "ISABELA LEMOS ARTEIRO RIBEIRO LINS",
+            "horario": "3T1234",
+            "local": "LABTO44 (CCS)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1619029",
+        "name": "ÉTICA E BIOÉTICA APLIC TER OCUPACIONAL",
+        "category": "Complementar Obrigatória",
+        "semester": 4,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1619029",
+            "turmaid": "01",
+            "nome": " ÉTICA E BIOÉTICA APLIC TER OCUPACIONAL",
+            "semester": "2018.2",
+            "professor": "MARCIA MARIA MONTALVERNE DE BARROS",
+            "horario": "2T23",
+            "local": "TO 05 (CCS)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1619030",
+        "name": "PESQUISA APLICADA À TER OCUPACIONAL",
+        "category": "Complementar Obrigatória",
+        "semester": 4,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1619030",
+            "turmaid": "01",
+            "nome": " PESQUISA APLICADA À TER OCUPACIONAL",
+            "semester": "2018.2",
+            "professor": "CLARICE RIBEIRO SOARES ARAUJO",
+            "horario": "5M123",
+            "local": "TO 04 (CCS)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1619022",
+        "name": "ÁREAS INTERV TER OCUP CENÁRIOS PRÁT I",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "180h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1619022",
+            "turmaid": "01",
+            "nome": " ÁREAS INTERV TER OCUP CENÁRIOS PRÁT I",
+            "semester": "2018.2",
+            "professor": "CLAUDIA FELL AMADO",
+            "horario": "3M2345 23T1234",
+            "local": "TO 01 (CCS)"
+          },
+          {
+            "id": "1619022",
+            "turmaid": "02",
+            "nome": " ÁREAS INTERV TER OCUP CENÁRIOS PRÁT I",
+            "semester": "2018.2",
+            "professor": "CAMILA DE MOURA CASTRO",
+            "horario": "3M2345 23T1234",
+            "local": "TO 03 (CCS)"
+          },
+          {
+            "id": "1619022",
+            "turmaid": "03",
+            "nome": " ÁREAS INTERV TER OCUP CENÁRIOS PRÁT I",
+            "semester": "2018.2",
+            "professor": "ANGELA CRISTINA DORNELAS DA SILVA",
+            "horario": "3M2345 23T1234",
+            "local": "TO 04 (CCS)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1619023",
+        "name": "ÁREAS INTERV TER OCUP CENÁRIOS PRÁT II",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "180h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1619023",
+            "turmaid": "01",
+            "nome": " ÁREAS INTERV TER OCUP CENÁRIOS PRÁT II",
+            "semester": "2018.2",
+            "professor": "CLAUDIA REGINA CABRAL GALVAO",
+            "horario": "45M2345 4T1234",
+            "local": "LABTO43 (CCS)"
+          },
+          {
+            "id": "1619023",
+            "turmaid": "02",
+            "nome": " ÁREAS INTERV TER OCUP CENÁRIOS PRÁT II",
+            "semester": "2018.2",
+            "professor": "FLAVIA REGINA RIBEIRO CAVALCANTI BUFFONE e CAMILA DE MOURA CASTRO",
+            "horario": "45M2345 4T1234",
+            "local": "LABTO44 (CCS)"
+          },
+          {
+            "id": "1619023",
+            "turmaid": "03",
+            "nome": " ÁREAS INTERV TER OCUP CENÁRIOS PRÁT II",
+            "semester": "2018.2",
+            "professor": "MARCIA MARIA MONTALVERNE DE BARROS",
+            "horario": "45M2345 4T1234",
+            "local": "TO 06 (CCS)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1619024",
+        "name": "ÁREAS INTERV TER OCUP CENÁRIOS PRÁT III",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "180h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1619024",
+            "turmaid": "01",
+            "nome": " ÁREAS INTERV TER OCUP CENÁRIOS PRÁT III",
+            "semester": "2018.2",
+            "professor": "ALYNE KALYANE CAMARA DE OLIVEIRA",
+            "horario": "34M2345 3T1234",
+            "local": "TO 02 (CCS)"
+          },
+          {
+            "id": "1619024",
+            "turmaid": "02",
+            "nome": " ÁREAS INTERV TER OCUP CENÁRIOS PRÁT III",
+            "semester": "2018.2",
+            "professor": "VALERIA LEITE SOARES DE ARAUJO",
+            "horario": "34M2345 3T1234",
+            "local": "TO 07 (CCS)"
+          },
+          {
+            "id": "1619024",
+            "turmaid": "03",
+            "nome": " ÁREAS INTERV TER OCUP CENÁRIOS PRÁT III",
+            "semester": "2018.2",
+            "professor": "THAYZZY FATIMA  ARAÚJO SANTOS",
+            "horario": "34M2345 3T1234",
+            "local": ". LABTO09 (CCS)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1619025",
+        "name": "ÁREAS INTERV TER OCUP CENÁRIOS PRÁT IV",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "180h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1619025",
+            "turmaid": "01",
+            "nome": " ÁREAS INTERV TER OCUP CENÁRIOS PRÁT IV",
+            "semester": "2018.2",
+            "professor": "BEATRIZ PRADO PEREIRA",
+            "horario": "56M2345 4T1234",
+            "local": "TO 07 (CCS)"
+          },
+          {
+            "id": "1619025",
+            "turmaid": "02",
+            "nome": " ÁREAS INTERV TER OCUP CENÁRIOS PRÁT IV",
+            "semester": "2018.2",
+            "professor": "IARA FALLEIROS BRAGA",
+            "horario": "56M2345 4T1234",
+            "local": "TO 02 (CCS)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1619027",
+        "name": "ESTÁGIOSUPERVISIONADO I",
+        "category": "Obrigatória",
+        "semester": 7,
+        "workload": "360h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1619027",
+            "turmaid": "01",
+            "nome": " ESTÁGIOSUPERVISIONADO I",
+            "semester": "2018.2",
+            "professor": "CAROLINA COUTO DA MATA e SILMARA MARIA ALVES FERNANDES DA SILVA",
+            "horario": "47M123456 56T123456",
+            "local": "TO 03 (CCS)"
+          },
+          {
+            "id": "1619027",
+            "turmaid": "02",
+            "nome": " ESTÁGIOSUPERVISIONADO I",
+            "semester": "2018.2",
+            "professor": "MARIA NATALIA SANTOS CALHEIROS e GABRIELLA NAYARA SIQUEIRA DE LIMA",
+            "horario": "47M123456 56T123456",
+            "local": "TO 01 (CCS)"
+          },
+          {
+            "id": "1619027",
+            "turmaid": "03",
+            "nome": " ESTÁGIOSUPERVISIONADO I",
+            "semester": "2018.2",
+            "professor": "BARBARA IANSA DE LIMA BARROSO",
+            "horario": "3M456 7M123 457T123456",
+            "local": "LABTO08 (CCS)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1619031",
+        "name": "TRABALHO DE CONCLUSÃO DE CURSO I  TCC I",
+        "category": "Complementar Obrigatória",
+        "semester": 7,
+        "workload": "60h aula 0h lab.",
+        "type": "TRABALHO DE CONCLUSÃO DE CURSO",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1619028",
+        "name": "ESTÁGIO  SUPERVISIONADO II",
+        "category": "Obrigatória",
+        "semester": 8,
+        "workload": "360h aula 0h lab.",
+        "type": "ESTÁGIO",
+        "turmas": [
+          {
+            "id": "1619028",
+            "turmaid": "01",
+            "nome": " ESTÁGIO  SUPERVISIONADO II",
+            "semester": "2018.2",
+            "professor": "FLAVIA REGINA RIBEIRO CAVALCANTI BUFFONE",
+            "horario": "67M123456 57T123456",
+            "local": "LABTO43 (CCS)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1619032",
+        "name": "TRABALHO DE CONCLUSÃO DE CURSO IITCC II",
+        "category": "Complementar Obrigatória",
+        "semester": 8,
+        "workload": "60h aula 0h lab.",
+        "type": "TRABALHO DE CONCLUSÃO DE CURSO",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1805106",
+        "name": " EPIDEMIOLOGIA",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": "45h",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1805106",
+            "turmaid": "02",
+            "nome": " EPIDEMIOLOGIA",
+            "semester": "2018.2",
+            "professor": "CLODOALDO DA SILVEIRA COSTA",
+            "horario": "3M345",
+            "local": "CCM GERAL 1 2º ANDAR (CCM)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+          "GDESC0063"
+        ]
+      },
+      {
+        "id": "GDCFA0109",
+        "name": " TOPICOS ESPCECIAIS I",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": "15h",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDCFA0109",
+            "turmaid": "02",
+            "nome": " TOPICOS ESPCECIAIS I",
+            "semester": "2018.2",
+            "professor": "FRANKLIN DELANO SOARES FORTE, WALLERI CHRISTINI TORELLI REIS e GERALDO EDUARDO GUEDES DE BRITO",
+            "horario": "3T345",
+            "local": "DCF - AUDITÓRIO 1 (CCS)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      }
+    ]
+  }
+}

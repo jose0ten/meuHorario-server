@@ -1,0 +1,2252 @@
+{
+  "curriculum": {
+    "id": "662010",
+    "codigo": "1626789",
+    "name": "CIÊNCIAS CONTÁBEIS - CCAE - Mamanguape - Presencial - N - BACHARELADO",
+    "faculty": "CENTRO DE CIÊNCIAS APLICADAS E EDUCAÇÃO (CCAE) (11.00.59)",
+    "minch": "180",
+    "maxch": "300",
+    "semesters": 10,
+    "courses": [
+      {
+        "id": "8101207",
+        "name": "AUDITORIA CONTABIL II",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8101273",
+        "name": "INGLES INSTRUMENTAL I",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8101313",
+        "name": "TOPICOS ESPECIAIS EM CONTABILIDADE IIIL",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "180h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8101334",
+        "name": "LIBRASLINGUA BRASILEIRA DE SINAIS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8101340",
+        "name": "INTRODUÇÃO A FILOSOFIA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8101341",
+        "name": "INTRODUÇÃO A PSICOLOGIA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8101342",
+        "name": "CHEFIA E LIDERANÇA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8101343",
+        "name": "GESTÃO CONTABIL",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8101344",
+        "name": "CONTABILIDADE SOCIAL",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8101345",
+        "name": "CONTABILIDADE HOSPITALAR",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8101346",
+        "name": "CONTABILIDADE ESTRATEGICA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8101347",
+        "name": "CONTABILIDADE DA CONSTRUÇÃO CIVIL",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8101348",
+        "name": "CONTABILIDADE DE HOTELARIA E RESTAURANTE",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8101349",
+        "name": "CONTABILIDADE TRIBUTARIA II",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8101350",
+        "name": "CONTABILIDADE COMERCIAL",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8101351",
+        "name": "LINGUA ESTRANGFINCONTINGLESESPAN",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8101352",
+        "name": "INGLES INSTRUMENTAL II",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8101353",
+        "name": "ESPANHOL COMERCIAL I",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8101354",
+        "name": "ESPANHOL COMERCIAL II",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8101355",
+        "name": "LIDERANÇA SITUACIONAL",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8101356",
+        "name": "ADMINISTRAÇÃO MERCADOLOGICA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8101357",
+        "name": "FUNDAMENTOS DE ANALISE DE INVEST",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8101358",
+        "name": "ECONOMIA BRASILEIRA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8101359",
+        "name": "ECONOMIA DA TECNOLOGIA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8101360",
+        "name": "ECONOMIA DO SETOR TERCIARIO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8101361",
+        "name": "ECONOMIA CLASSICA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8101362",
+        "name": "INTRODUÇÃO AO PROCESSAMENTO DE DADOS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8101363",
+        "name": "ORÇAMENTO E FINANCGOVERNAMENTAL",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8101364",
+        "name": "ORÇAMENTO EMPRPLANESTRATEGICO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8101365",
+        "name": "ECONOMIA DAS ORGANIZAÇÕES",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8101366",
+        "name": "ECONOMIA II",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8102164",
+        "name": "LIBRASLÍNGUA BRASILEIRA DE SINAISLN",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8105003",
+        "name": "INGLES INSTRUMENTAL",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+          "8105014"
+        ]
+      },
+      {
+        "id": "8105031",
+        "name": "LIBRASLINGUA BRASILEIRA DE SINAIS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8105036",
+        "name": "LINGESTRANGPARA FIN E CONTINGE ESP",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8105037",
+        "name": "INGLÊS INSTRUMENTAL I",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8105038",
+        "name": "INGLÊS INSTRUMENTAL II",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8105039",
+        "name": "ESPANHOL COMERCIAL I",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8105040",
+        "name": "ESPANHOL COMERCIAL II",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8108033",
+        "name": "AUDITORIA CONTABIL II",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8108034",
+        "name": "CHEFIA E LIDERANÇA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8108035",
+        "name": "GESTÃO CONTÁBIL",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8108036",
+        "name": "CONTABILIDADE SOCIAL",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8108036",
+            "turmaid": "01",
+            "nome": " CONTABILIDADE SOCIAL",
+            "semester": "2018.2",
+            "professor": "ANA CANDIDA FERREIRA VIEIRA",
+            "horario": "3N3412",
+            "local": "M.D-103 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8108039",
+        "name": "CONTABILIDADE HOSPITALAR",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8108040",
+        "name": "CONTABILIDADE ESTRATÉGICA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8108041",
+        "name": "CONTABILIDADE DA CONSTRUÇÃO CIVIL",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8108042",
+        "name": "CONTABILIDADE DE HOTELARIA E RESTAURANTE",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8108044",
+        "name": "CONTABILIDADE COMERCIAL",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8108046",
+        "name": "LIDERANÇA SITUACIONAL",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8108047",
+        "name": "ADMINISTRAÇÃO MERCADOLÓGICA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8108047",
+            "turmaid": "01",
+            "nome": " ADMINISTRAÇÃO MERCADOLÓGICA",
+            "semester": "2018.2",
+            "professor": "THALES BATISTA DE LIMA",
+            "horario": "2N1234",
+            "local": "M.D-102 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8108048",
+        "name": "FUNDAMENTOS DE ANÁLISE DE INVESTIMENTOS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8108049",
+        "name": "ECONOMIA BRASILEIRA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8108049",
+            "turmaid": "01",
+            "nome": " ECONOMIA BRASILEIRA",
+            "semester": "2018.2",
+            "professor": "EDILANE DO AMARAL HELENO",
+            "horario": "4N1234",
+            "local": "M.D-103 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8108050",
+        "name": "ECONOMIA DA TECNOLOGIA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8108051",
+        "name": "ECONOMIA DO SETOR TERCIÁRIO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8108052",
+        "name": "ECONOMIA CLASSICA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8108053",
+        "name": "INTRODUÇÃO AO PROCESSAMENTO DE DADOS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8108055",
+        "name": "ORÇAMENTO EMPRES E PLANEJ ESTRATÉGICO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8108055",
+            "turmaid": "01",
+            "nome": " ORÇAMENTO EMPRES E PLANEJ ESTRATÉGICO",
+            "semester": "2018.2",
+            "professor": "MARIZELMA PATRIOTA LIMEIRA",
+            "horario": "2N1234",
+            "local": "M.B-104 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8108056",
+        "name": "ECONOMIA DAS ORGANIZAÇÕES",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8108057",
+        "name": "ECONOMIA II",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8108057",
+            "turmaid": "01",
+            "nome": " ECONOMIA II",
+            "semester": "2018.2",
+            "professor": "TABIRA DE SOUZA ANDRADE",
+            "horario": "6N1234",
+            "local": "M.A-103 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8108058",
+        "name": "TÓPICOS ESPECIAIS EM COMTABILIDADE I",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8108059",
+        "name": "TÓPICOS ESPECIAIS EM CONTABILIDADE II",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8108060",
+        "name": "TÓPICOS ESPECIAIS EM CONTABILIDADE III",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "180h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8101105",
+        "name": "INTRODUCAO A SOCIOLOGIA",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8101105",
+            "turmaid": "01",
+            "nome": " INTRODUCAO A SOCIOLOGIA",
+            "semester": "2018.2",
+            "professor": "OSICLEIDE DE LIMA BEZERRA",
+            "horario": "2N1234",
+            "local": "M.D-106 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8101107",
+        "name": "METODOLOGIA DO TRABALHO CIENTIFICO",
+        "category": "Complementar Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8101107",
+            "turmaid": "01",
+            "nome": " METODOLOGIA DO TRABALHO CIENTIFICO",
+            "semester": "2018.2",
+            "professor": "DANIELA CINTIA DE CARVALHO LEITE MENEZES",
+            "horario": "3N12 4N34",
+            "local": "M.A-101 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8103107",
+        "name": "MATEMATICA APLIC A CONTABILIDADE I",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8103107",
+            "turmaid": "01",
+            "nome": " MATEMATICA APLIC A CONTABILIDADE I",
+            "semester": "2018.2",
+            "professor": "SURAMA SANTOS ISMAEL DA COSTA",
+            "horario": "5N1234",
+            "local": "M.A-101 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8105002",
+        "name": "PORTUGUES INSTRUMENTAL",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8105002",
+            "turmaid": "01",
+            "nome": " PORTUGUES INSTRUMENTAL",
+            "semester": "2018.2",
+            "professor": "LUANA FRANCISLEYDE PESSOA DE FARIAS",
+            "horario": "6N1234",
+            "local": "M.A-101 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8108010",
+        "name": "CONTABILIDADE I",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8108010",
+            "turmaid": "01",
+            "nome": " CONTABILIDADE I",
+            "semester": "2018.2",
+            "professor": "JOSE JASSUIPE DA SILVA MORAIS",
+            "horario": "3N34 4N12",
+            "local": "M.A-101 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8108001",
+        "name": "INTRODUÇÃO A ADMINISTRAÇÃO",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8108001",
+            "turmaid": "01",
+            "nome": " INTRODUÇÃO A ADMINISTRAÇÃO",
+            "semester": "2018.2",
+            "professor": "THALES BATISTA DE LIMA",
+            "horario": "4N1234",
+            "local": "M.C-107 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+          "GDTH0028"
+        ]
+      },
+      {
+        "id": "8108003",
+        "name": "INSTITUIÇÕES DE DIREITO PÚB E PRIVADO",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8108003",
+            "turmaid": "01",
+            "nome": " INSTITUIÇÕES DE DIREITO PÚB E PRIVADO",
+            "semester": "2018.2",
+            "professor": "DANIEL CESAR FRANKLIN CHACON",
+            "horario": "35N12",
+            "local": "M.D-106 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8108007",
+        "name": "ECONOMIA I",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8108007",
+            "turmaid": "02",
+            "nome": " ECONOMIA I",
+            "semester": "2018.2",
+            "professor": "EDILANE DO AMARAL HELENO",
+            "horario": "2N1243",
+            "local": "M.C-107 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8108009",
+        "name": "MATEMATICA FINANCEIRA",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8108009",
+            "turmaid": "02",
+            "nome": " MATEMATICA FINANCEIRA",
+            "semester": "2018.2",
+            "professor": "ANA CANDIDA FERREIRA VIEIRA",
+            "horario": "6N1234",
+            "local": "M.D-106 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+          "8103107"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8108011",
+        "name": "CONTABILIDADE II",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8108011",
+            "turmaid": "01",
+            "nome": " CONTABILIDADE II",
+            "semester": "2018.2",
+            "professor": "JOSICARLA SOARES SANTIAGO",
+            "horario": "35N34",
+            "local": "M.D-108 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+          "8108010"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8108045",
+        "name": "CONSULTORIA EM CONTABILIDADE",
+        "category": "Optativa",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8103208",
+        "name": "INFORMATICA APLICADA A CONTABILIDADE",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8103208",
+            "turmaid": "01",
+            "nome": " INFORMATICA APLICADA A CONTABILIDADE",
+            "semester": "2018.2",
+            "professor": "ADRIANA ZENAIDE CLERICUZI",
+            "horario": "2N1234",
+            "local": "M.H-102 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8108005",
+        "name": "LEGISLSOCDIR DO TRAB E PREVIDENCIA",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8108005",
+            "turmaid": "01",
+            "nome": " LEGISLSOCDIR DO TRAB E PREVIDENCIA",
+            "semester": "2018.2",
+            "professor": "DANIEL CESAR FRANKLIN CHACON",
+            "horario": "35N34",
+            "local": "M.A-103 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+          "8108003"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8108008",
+        "name": "MERCADO FINANCEIRO E DE CAPITAIS",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8108008",
+            "turmaid": "01",
+            "nome": " MERCADO FINANCEIRO E DE CAPITAIS",
+            "semester": "2018.2",
+            "professor": "MANOEL HELENO GOMES DA SILVA",
+            "horario": "35N12",
+            "local": "M.A-103 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8108012",
+        "name": "CONTABILIDADE III",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8108012",
+            "turmaid": "01",
+            "nome": " CONTABILIDADE III",
+            "semester": "2018.2",
+            "professor": "LUIZ MARCELO MARTINS DO AMARAL CARNEIRO CABRAL",
+            "horario": "4N1234",
+            "local": "M.A-103 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+          "8108011"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8101227",
+        "name": "TOPICOS ESPECIAIS EM CONTABILIDADE I",
+        "category": "Complementar Flexiva",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8103124",
+        "name": "ESTATISTICA I",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8103124",
+            "turmaid": "02",
+            "nome": " ESTATISTICA I",
+            "semester": "2018.2",
+            "professor": "MARILZA PEREIRA VALENTINI",
+            "horario": "3N34 5N12",
+            "local": "M.A-104 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8108004",
+        "name": "DIREITO EMPRESARIAL",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8108004",
+            "turmaid": "01",
+            "nome": " DIREITO EMPRESARIAL",
+            "semester": "2018.2",
+            "professor": "LAURA TADDEI ALVES PEREIRA PINTO BERQUO",
+            "horario": "2N1234",
+            "local": "M.A-104 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+          "8108003"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8108013",
+        "name": "CONTABILIDADE IV",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8108013",
+            "turmaid": "01",
+            "nome": " CONTABILIDADE IV",
+            "semester": "2018.2",
+            "professor": "LUIZ MARCELO MARTINS DO AMARAL CARNEIRO CABRAL",
+            "horario": "6N1234",
+            "local": "M.A-104 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+          "8108012"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8108019",
+        "name": "PESQUISA APLICADA A CONTABILIDADE",
+        "category": "Complementar Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8108019",
+            "turmaid": "01",
+            "nome": " PESQUISA APLICADA A CONTABILIDADE",
+            "semester": "2018.2",
+            "professor": "JOSE JASSUIPE DA SILVA MORAIS",
+            "horario": "3N12 5N34",
+            "local": "M.A-104 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8101231",
+        "name": "ETICA PROFISSIONAL",
+        "category": "Complementar Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8101231",
+            "turmaid": "01",
+            "nome": " ETICA PROFISSIONAL",
+            "semester": "2018.2",
+            "professor": "CRISTIANO BONNEAU",
+            "horario": "2N2341",
+            "local": "M.B-101 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8103207",
+        "name": "ESTATISTICA APLICADA A CONTABILIDADE",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8103207",
+            "turmaid": "01",
+            "nome": " ESTATISTICA APLICADA A CONTABILIDADE",
+            "semester": "2018.2",
+            "professor": "MARILZA PEREIRA VALENTINI",
+            "horario": "3N12 5N34",
+            "local": "M.B-101 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8108006",
+        "name": "DIREITO TRIBUTARIO",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8108006",
+            "turmaid": "01",
+            "nome": " DIREITO TRIBUTARIO",
+            "semester": "2018.2",
+            "professor": "EDDLA KARINA GOMES PEREIRA",
+            "horario": "6N1234",
+            "local": "M.B-101 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8108027",
+        "name": "CONTABILIDADE PÚBLICA",
+        "category": "Complementar Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8108027",
+            "turmaid": "01",
+            "nome": " CONTABILIDADE PÚBLICA",
+            "semester": "2018.2",
+            "professor": "DIMMITRE MORANT VIEIRA GONCALVES PEREIRA",
+            "horario": "3N34 5N12",
+            "local": "M.C-107 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8108028",
+        "name": "CONTABILIDADE DE CUSTOS",
+        "category": "Complementar Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8108028",
+            "turmaid": "01",
+            "nome": " CONTABILIDADE DE CUSTOS",
+            "semester": "2018.2",
+            "professor": "FERNANDA MARQUES DE ALMEIDA HOLANDA",
+            "horario": "4N1234",
+            "local": "M.B-101 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8108002",
+        "name": "ADMINISTRAÇÃO FINANCEIRA",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8108002",
+            "turmaid": "01",
+            "nome": " ADMINISTRAÇÃO FINANCEIRA",
+            "semester": "2018.2",
+            "professor": "MARCIA MARIA DE MEDEIROS TRAVASSOS SAEGER",
+            "horario": "2N1234",
+            "local": "M.B-102 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+          "8108001"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8108024",
+        "name": "ANÁLISE DE CUSTOS",
+        "category": "Complementar Obrigatória",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8108024",
+            "turmaid": "01",
+            "nome": " ANÁLISE DE CUSTOS",
+            "semester": "2018.2",
+            "professor": "GILSON RODRIGUES DA SILVA",
+            "horario": "35N12",
+            "local": "M.B-102 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+          "8108028"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8108025",
+        "name": "AUDITORIA CONTÁBIL I",
+        "category": "Complementar Obrigatória",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8108025",
+            "turmaid": "01",
+            "nome": " AUDITORIA CONTÁBIL I",
+            "semester": "2018.2",
+            "professor": "FABIO JOSE LIRA DOS SANTOS",
+            "horario": "45N34",
+            "local": "M.B-102 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+          "8108013"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8108029",
+        "name": "CONTABILIDADE TRIBUTÁRIA I",
+        "category": "Complementar Obrigatória",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8108029",
+            "turmaid": "01",
+            "nome": " CONTABILIDADE TRIBUTÁRIA I",
+            "semester": "2018.2",
+            "professor": "MARILIA AUGUSTA RAULINO JÁCOME",
+            "horario": "6N1234",
+            "local": "M.B-102 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+          "8108013"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8108030",
+        "name": "CONTROLADORIA ORGANIZACIONAL",
+        "category": "Complementar Obrigatória",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8108030",
+            "turmaid": "01",
+            "nome": " CONTROLADORIA ORGANIZACIONAL",
+            "semester": "2018.2",
+            "professor": "DANIELA CINTIA DE CARVALHO LEITE MENEZES",
+            "horario": "3N34 4N12",
+            "local": "M.B-102 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8108015",
+        "name": "ESTAGIO SUPERVISIONADO I",
+        "category": "Obrigatória",
+        "semester": 7,
+        "workload": "60h aula 0h lab.",
+        "type": "ESTÁGIO",
+        "turmas": [
+          {
+            "id": "8108015",
+            "turmaid": "01",
+            "nome": " ESTAGIO SUPERVISIONADO I",
+            "semester": "2018.2",
+            "professor": "FERNANDA MARQUES DE ALMEIDA HOLANDA",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+          "8108013"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8108022",
+        "name": "TEORIA DA CONTABILIDADE",
+        "category": "Complementar Obrigatória",
+        "semester": 7,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8108022",
+            "turmaid": "01",
+            "nome": " TEORIA DA CONTABILIDADE",
+            "semester": "2018.2",
+            "professor": "JOSICARLA SOARES SANTIAGO",
+            "horario": "35N12",
+            "local": "M.B-107 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+          "8108013"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8108026",
+        "name": "PERICIA CONTÁBIL E ARBITRAGEM",
+        "category": "Complementar Obrigatória",
+        "semester": 7,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8108026",
+            "turmaid": "01",
+            "nome": " PERICIA CONTÁBIL E ARBITRAGEM",
+            "semester": "2018.2",
+            "professor": "LUIZ GUSTAVO DE SENA BRANDAO PESSOA",
+            "horario": "2N1234",
+            "local": "M.B-103 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+          "8108013"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8108031",
+        "name": "CONTABILIDADE GERENCIAL",
+        "category": "Complementar Obrigatória",
+        "semester": 7,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8108031",
+            "turmaid": "01",
+            "nome": " CONTABILIDADE GERENCIAL",
+            "semester": "2018.2",
+            "professor": "GILSON RODRIGUES DA SILVA",
+            "horario": "35N34",
+            "local": "M.B-103 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+          "8108028"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8108032",
+        "name": "SISTEMAS DE INFORMAÇÕES GERENCIAIS",
+        "category": "Complementar Obrigatória",
+        "semester": 7,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8108032",
+            "turmaid": "01",
+            "nome": " SISTEMAS DE INFORMAÇÕES GERENCIAIS",
+            "semester": "2018.2",
+            "professor": "MARIZELMA PATRIOTA LIMEIRA",
+            "horario": "6N1234",
+            "local": "M.B-103 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+          "8108013"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8101272",
+        "name": "CONTABILIDADE RURAL",
+        "category": "Optativa",
+        "semester": 8,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8108037",
+        "name": "CONTABILIDADE RURAL",
+        "category": "Optativa",
+        "semester": 8,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8108014",
+        "name": "CONTABILIDADE INTERNACIONAL",
+        "category": "Obrigatória",
+        "semester": 8,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8108014",
+            "turmaid": "01",
+            "nome": " CONTABILIDADE INTERNACIONAL",
+            "semester": "2018.2",
+            "professor": "DIMMITRE MORANT VIEIRA GONCALVES PEREIRA",
+            "horario": "3N12 5N34",
+            "local": "M.B-104 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+          "8108013"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8108016",
+        "name": "ESTAGIO SUPERVISIONADO II",
+        "category": "Obrigatória",
+        "semester": 8,
+        "workload": "90h aula 0h lab.",
+        "type": "ESTÁGIO",
+        "turmas": [
+          {
+            "id": "8108016",
+            "turmaid": "01",
+            "nome": " ESTAGIO SUPERVISIONADO II",
+            "semester": "2018.2",
+            "professor": "FERNANDA MARQUES DE ALMEIDA HOLANDA",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+          "8108015"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8108023",
+        "name": "ANALISE DAS DEMONSTRAÇÕES CONTABEIS",
+        "category": "Complementar Obrigatória",
+        "semester": 8,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8108023",
+            "turmaid": "01",
+            "nome": " ANALISE DAS DEMONSTRAÇÕES CONTABEIS",
+            "semester": "2018.2",
+            "professor": "FABIO JOSE LIRA DOS SANTOS",
+            "horario": "45N12",
+            "local": "M.E-202 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+          "8108013"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8101311",
+        "name": "NOCÕES ATUARIAIS",
+        "category": "Optativa",
+        "semester": 9,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8101312",
+        "name": "TOPICOS ESPECIAIS EM CONTABILIDADE IILN",
+        "category": "Complementar Flexiva",
+        "semester": 9,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8108038",
+        "name": "NOÇÕES ATUARIAIS",
+        "category": "Optativa",
+        "semester": 9,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8108017",
+        "name": "ESTAGIO SUPERVISIONADO III",
+        "category": "Obrigatória",
+        "semester": 9,
+        "workload": "90h aula 0h lab.",
+        "type": "ESTÁGIO",
+        "turmas": [
+          {
+            "id": "8108017",
+            "turmaid": "01",
+            "nome": " ESTAGIO SUPERVISIONADO III",
+            "semester": "2018.2",
+            "professor": "MARILIA AUGUSTA RAULINO JÁCOME",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+          "8108016"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8108020",
+        "name": "TRABALHO DE CONCLUSÃO DE CURSO I",
+        "category": "Complementar Obrigatória",
+        "semester": 9,
+        "workload": "60h aula 0h lab.",
+        "type": "TRABALHO DE CONCLUSÃO DE CURSO",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "8108019"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8108043",
+        "name": "CONTABILIDADE TRIBUTÁRIA II",
+        "category": "Optativa",
+        "semester": 10,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8108054",
+        "name": "ORÇAMENTO E FINANCIAMENTO GOVERNAMENTAL",
+        "category": "Optativa",
+        "semester": 10,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8108054",
+            "turmaid": "01",
+            "nome": " ORÇAMENTO E FINANCIAMENTO GOVERNAMENTAL",
+            "semester": "2018.2",
+            "professor": "LUIZ GUSTAVO DE SENA BRANDAO PESSOA",
+            "horario": "4N1234",
+            "local": "M.A-104 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8108018",
+        "name": "ESTAGIO SUPERVISIONADO IV",
+        "category": "Obrigatória",
+        "semester": 10,
+        "workload": "60h aula 0h lab.",
+        "type": "ESTÁGIO",
+        "turmas": [
+          {
+            "id": "8108018",
+            "turmaid": "01",
+            "nome": " ESTAGIO SUPERVISIONADO IV",
+            "semester": "2018.2",
+            "professor": "LUIZ GUSTAVO DE SENA BRANDAO PESSOA",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+          "8108017"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8108021",
+        "name": "TRABALHO DE CONCLUSÃO DE CURSO II",
+        "category": "Complementar Obrigatória",
+        "semester": 10,
+        "workload": "60h aula 0h lab.",
+        "type": "TRABALHO DE CONCLUSÃO DE CURSO",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+          "8101310"
+        ]
+      }
+    ]
+  }
+}

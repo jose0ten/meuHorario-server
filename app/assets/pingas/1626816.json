@@ -1,0 +1,2504 @@
+{
+  "curriculum": {
+    "id": "402016",
+    "codigo": "1626816",
+    "name": "TRADUÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+    "faculty": "CENTRO DE CIÊNCIAS HUMANAS, LETRAS E ARTES (CCHLA) (11.00.53)",
+    "minch": "210",
+    "maxch": "315",
+    "semesters": 8,
+    "courses": [
+      {
+        "id": "1201182",
+        "name": "FUNDAMENTOS DAS IDEIAS ECONOMICAS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1201183",
+        "name": "ECONOMIA E ETICA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1403110",
+        "name": "LINGUA GREGA I",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1403153",
+        "name": "PORTUGUÊS INSTRUMENTAL",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1403313",
+        "name": "TEORIA DA LITERATURA I",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1403316",
+        "name": "LÍNGUA LATINA I",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "45h aula 15h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1403345",
+        "name": "LÍNGUA LATINA II",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1403346",
+        "name": "LÍNGUA GREGA I",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1403369",
+        "name": "INTROD AOS EST LIT GRECOLATINOS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1403370",
+        "name": "INTRODUÇÃO AOS ESTUDOS DA TRADUÇÃO LATINA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1403371",
+        "name": "INTRODUÇÃO AOS ESTUDOS DA TRADUÇÃO GREGA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1403372",
+        "name": "INTROD A HIST CULT DA L GREGA E DA L LAT",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1403747",
+        "name": "LIBRAS  LÍNGUA BRASILEIRA DE SINAIS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1404192",
+        "name": "CULTURA DOS POVOS DE LÍNGUA INGLESA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1404193",
+        "name": "CULTURA DOS POVOS DE LÍNGUA ESPANHOLA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1404194",
+        "name": "CULTURA DOS POVOS DE LÍNGUA FRANCESA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1404208",
+        "name": "ESTUDOS SEMÂNTICOS EM LÍNGUA ESTRANGEIRA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1404209",
+        "name": "ESTUDOS PRAGMÁTICOS EM LÍNGUA ESTRANGEIRA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1404221",
+        "name": "FONÉTICA E FONOLOGIA DA LÍNGUA INGLESA I",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1404222",
+        "name": "FONÉTICA E FONOLOGIA DA LÍNGUA INGLESA II",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1404225",
+        "name": "LITERATURA INGLESA   I",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1404254",
+        "name": "FONÉTICA E FONOLOGIA DA LÍNGUA FRANCESA I",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1404255",
+        "name": "FONÉTICA E FONOLOGIA DA LÍNGUA FRANCESA II",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1404284",
+        "name": "FONÉTICA E FONOLOGIA DA LÍNGUA ESPANHOLA I",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1404285",
+        "name": "FONÉTICA E FONOLOGIA DA LÍNGUA ESPANHOLA II",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1404312",
+        "name": "FRANCES I",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "75h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+          "GDMI0182"
+        ]
+      },
+      {
+        "id": "1404313",
+        "name": "INGLES I",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "75h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+          "GDMI0183"
+        ]
+      },
+      {
+        "id": "1404328",
+        "name": "TEORIAS DO TEXTO II ASPECTOS LINGUIST",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1404335",
+        "name": "ESPANHOL II",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+          "GDMI0184"
+        ]
+      },
+      {
+        "id": "1404341",
+        "name": "FRANCES II",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "75h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+          "GDMI0185"
+        ]
+      },
+      {
+        "id": "1404347",
+        "name": "INGLES II",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "75h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+          "GDMI0186"
+        ]
+      },
+      {
+        "id": "1404348",
+        "name": "INGLES III",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "75h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+          "GDMI0190"
+        ]
+      },
+      {
+        "id": "1404353",
+        "name": "CULTURA DOS PAISES DE LINGUA ESPANHOLA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1404389",
+        "name": "LINGUA FANCESA VII TRAD L2",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1404391",
+        "name": "LINGUA ESPANHOLA VII TRAD L2",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1404393",
+        "name": "LINGUA ALEMÃ VII TRAD L2",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1404396",
+        "name": "TRADUÇÃO E CULTURA II",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1404401",
+        "name": "LÍNGUA FRANCESA VIII TRAD L2",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1404403",
+        "name": "LÍNGUA ESPANHOLA VIII TRAD L2",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1404405",
+        "name": "LÍNGUA ALEMÃ VIII TRAD L2",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1404411",
+        "name": "TÓPICOS ESPECIAIS EM TRADUÇÃO I",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1404412",
+        "name": "TÓPICOS ESPECIAIS EM TRADUÇÃO II",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1404413",
+        "name": "TÓPICOS ESPECIAIS EM TRADUÇÃO III",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1404416",
+        "name": "LÍNGUA FRANCESA IX TRAD L2",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1404417",
+        "name": "LÍNGUA FRANCESA X TRAD L2",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "5h aula 60h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1404418",
+        "name": "LÍNGUA ESPANHOLA IX TRAD L2",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1404419",
+        "name": "LÍNGUA ESPANHOLA X TRAD L2",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1404420",
+        "name": "LÍNGUA ALEMÃ IX TRAD L2",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1404421",
+        "name": "LÍNGUA ALEMÃ X TRAD L2",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1404427",
+        "name": "LINGUISTICA SISTÊMICA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1404430",
+        "name": "PRÁT LEIT PROD TEXTOS EM LE ALEMÃO L2",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1404431",
+        "name": "PRÁT LEIT PROD TEXTOS EM LE ESPANH L2",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1404433",
+        "name": "PRÁT LEIT PROD TEXTOS EM LE  FRANCÊS L2",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1404435",
+        "name": "TRADUÇAÕ LINGTEXTUAL TRADUÇÃO CULTURAL",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1404441",
+        "name": "LITERATURAS INDÍGENAS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1404442",
+        "name": "LITEXPRESFRANCMAGREBÁFRNEGHAITI",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1404443",
+        "name": "HISTÓRIA DA LÍNGUA INGLESA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1404444",
+        "name": "HISTÓRIA DA LINGUA FRANCESA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1404445",
+        "name": "HISTÓRIA DA LÍNGUA ESPANHOLA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1408125",
+        "name": "HISTORIA ECONOMICA GERAL",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1408154",
+        "name": "FORMACAO ECONOMICA DO BRASIL",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDMI0129",
+        "name": "ASPECTOS TEXTUAIS DE TRADUÇÃO II",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDMI0130",
+        "name": "TRADUÇÃO E ESTUDOS INTERCULTURAIS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDMI0131",
+        "name": "ESTUDOS CONTRASTIVOS DE TRADUAÇÃO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDMI0132",
+        "name": "ESTUDOS SISTÊMICOS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDMI0133",
+        "name": "ABORDAGEM PROCESSUAL NOS ESTUDOS DA TRADUÇÃO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDMI0134",
+        "name": "AQUISIÇÃO DA COMPETÊNCIA TRADUTÓRIA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDMI0135",
+        "name": "ASPECTOS TEÓRICOS DA TRADUÇÃO ORAL",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDMI0136",
+        "name": "ESTUDOS DA TRADUÇÃO:INTERFACES INTERDISCIPLINARES",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDMI0137",
+        "name": "ESTUDOS DE TRADUÇÃO LITERÁRIA: ESCRITAS DE MULHERES, NEGROS E ÍNDIOS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDMI0138",
+        "name": "FORMAÇÃO DE TRADUTORES:ABORDAGENS TEÓRICAS E PRÁTICA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDMI0139",
+        "name": "LÍNGUA DE SINAIS NO EIXO DAS PESQUISAS EM TRADUÇÃO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDMI0140",
+        "name": "PESQUISA EM TERMINOLOGIA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDMI0141",
+        "name": "PRÁTICA DE TRADUÇÃO EM LÍNGUA INGLESA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDMI0146",
+        "name": "TRADUÇÃO E LOCALIZAÇÃO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDMI0147",
+        "name": "TRADUÇÃO E TECNOLOGIA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDMI0148",
+        "name": "ESTUDOS TEMÁTICOS EM TRADUÇÃO I",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDMI0149",
+        "name": "ESTUDOS TEMÁTICOS EM TRADUÇÃO II",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDMI0150",
+        "name": "ESTUDOS TEMÁTICOS EM TRADUÇÃO III",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDMI0151",
+        "name": "INGLÊS APLICADO À TRADUÇÃO NÍVEL A1.2",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDMI0152",
+        "name": "INGLÊS APLICADO À TRADUÇÃO NÍVEL A2.1",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDMI0153",
+        "name": "INGLÊS APLICADO À TRADUÇÃO NÍVEL A2.2",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDMI0154",
+        "name": "INGLÊS APLICADO À TRADUÇÃO NÍVEL B1.1",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDMI0155",
+        "name": "TÓPICOS ESPECIAIS EM TRADUÇÃO III",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "75h aula 0h lab.",
+        "type": "ATIVIDADE ESPECIAL",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDMI0157",
+        "name": "PRATICA DE TRADUÇÃO EM LINGUA ALEMÃ",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDMI0158",
+        "name": "PRATICA DE TRADUÇÃO EM LINGUA ESPANHOLA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDMI0159",
+        "name": "PRATICA DE TRADUÇÃO EM LINGUA FRANCESA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDMI0160",
+        "name": "TRADUÇÃO E CULTURA II",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDMI0160",
+            "turmaid": "01",
+            "nome": " TRADUÇÃO E CULTURA II",
+            "semester": "2018.2",
+            "professor": "CHRISTIANE MARIA DE SENA DINIZ",
+            "horario": "35M45",
+            "local": "CCHLA 421 BLOCO A 1º ANDAR (CCHLA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDMI0161",
+        "name": "SOCIOLOGIA DA TRADUÇÃO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDMI0162",
+        "name": "HISTORIA DA TRADUÇÃO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDMI0162",
+            "turmaid": "01",
+            "nome": " HISTORIA DA TRADUÇÃO",
+            "semester": "2018.2",
+            "professor": "ANA CRISTINA BEZERRIL CARDOSO",
+            "horario": "6M2345",
+            "local": "CCHLA 420 BLOCO A 1º ANDAR (CCHLA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDMI0163",
+        "name": "ANALISE CRITICA DO DISCURSO E SUAS RELAÇÕES COM TRADUÇÃO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDMI0164",
+        "name": "PRATICA DE TRADUÇÃO EM LINGUA ALEMÃ",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDMI0165",
+        "name": "PRATICA DE TRADUÇÃO EM LINGUA ESPANHOLA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDMI0166",
+        "name": "PRATICA DE TRADUÇÃO EM LINGUA FRANCESA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDMI0167",
+        "name": "ESPANHOL APLICADO A TRADUÇÃO NÍVEL A1.2",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDMI0168",
+        "name": "ESPANHOL APLICADO A TRADUÇÃO NÍVEL A2.1",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDMI0169",
+        "name": "ESPANHOL APLICADO A TRADUÇÃO NÍVEL A2.2",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDMI0170",
+        "name": "ESPANHOL APLICADO A TRADUÇÃO NÍVEL B1.1",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDMI0171",
+        "name": "FRANCÊS APLICADO A TRADUÇÃO NÍVEL A1.2",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDMI0172",
+        "name": "FRANCÊS APLICADO A TRADUÇÃO NÍVEL A2.1",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDMI0173",
+        "name": "FRANCÊS APLICADO A TRADUÇÃO NÍVEL A2.2",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDMI0174",
+        "name": "FRANCÊS APLICADO A TRADUÇÃO NÍVEL B1.1",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDMI0175",
+        "name": "ALEMÃO APLICADO A TRADUÇÃO NÍVEL A1.2",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDMI0175",
+            "turmaid": "01",
+            "nome": " ALEMÃO APLICADO A TRADUÇÃO NÍVEL A1.2",
+            "semester": "2018.2",
+            "professor": "PEDRO PAULO NUNES DA SILVA e LUCIANE LEIPNITZ",
+            "horario": "35M45",
+            "local": "CCHLA 424 BLOCO A 2º ANDAR (CCHLA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDMI0176",
+        "name": "ALEMÃO APLICADO A TRADUÇÃO NÍVEL A2.1",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDMI0177",
+        "name": "ALEMÃO APLICADO A TRADUÇÃO NÍVEL A2.2",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDMI0178",
+        "name": "ALEMÃO APLICADO A TRADUÇÃO NÍVEL B1.1",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDMI0179",
+        "name": "TÓPICOS ESPECIAIS EM TRADUÇÃO I",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "ATIVIDADE ESPECIAL",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDMI0180",
+        "name": "TÓPICOS ESPECIAIS EM TRADUÇÃO II",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "ATIVIDADE ESPECIAL",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDMI0101",
+        "name": "INGLÊS APLICADO À TRADUÇÃO I",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDMI0119",
+        "name": "METODOLOGIA DO TRABALHO CIENTÍFICO",
+        "category": "Complementar Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+          "1404358"
+        ]
+      },
+      {
+        "id": "GDMI0120",
+        "name": "ASPECTOS TEXTUAIS DA TRADUÇÃO I",
+        "category": "Complementar Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDMI0121",
+        "name": "TEORIAS DA TRADUÇÃO I",
+        "category": "Complementar Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDMI0124",
+        "name": "LÉXICO E DICIONÁRIOS",
+        "category": "Complementar Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1403699",
+        "name": "LEITURA E PRODUÇAO DE TEXTO I",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1403699",
+            "turmaid": "01",
+            "nome": " LEITURA E PRODUÇAO DE TEXTO I",
+            "semester": "2018.2",
+            "professor": "MARGARETE VON MUHLEN POLL",
+            "horario": "5M2345",
+            "local": "CCHLA 419 BLOCO A (CCHLA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDMI0102",
+        "name": "INGLÊS APLICADO À TRADUÇÃO II",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDMI0102",
+            "turmaid": "01",
+            "nome": " INGLÊS APLICADO À TRADUÇÃO II",
+            "semester": "2018.2",
+            "professor": "CAMILA NATHALIA DE OLIVEIRA BRAGA",
+            "horario": "24M45",
+            "local": "CCHLA 412 BLOCO I CENTRAL DE AULAS (CCHLA)"
+          }
+        ],
+        "prerequisites": [
+          "0101"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDMI0107",
+        "name": "TIC E DOCUMENTAÇÃO",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDMI0107",
+            "turmaid": "01",
+            "nome": " TIC E DOCUMENTAÇÃO",
+            "semester": "2018.2",
+            "professor": "DANIEL ANTONIO DE SOUSA ALVES",
+            "horario": "6M2345",
+            "local": "LAB TRADUÇÃO - CCHLA - BLOCO C (CCHLA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDMI0112",
+        "name": "ESTÁGIO SUPERVISIONADO I: INTRODUÇÃO À PRÁTICA PROFISSIONAL",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDMI0112",
+            "turmaid": "01",
+            "nome": " ESTÁGIO SUPERVISIONADO I: INTRODUÇÃO À PRÁTICA PROFISSIONAL",
+            "semester": "2018.2",
+            "professor": "TANIA LIPARINI CAMPOS",
+            "horario": "3M2345",
+            "local": "LAB TRADUÇÃO - CCHLA - BLOCO C (CCHLA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDMI0122",
+        "name": "TEORIAS DA TRADUÇÃO II",
+        "category": "Complementar Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDMI0122",
+            "turmaid": "01",
+            "nome": " TEORIAS DA TRADUÇÃO II",
+            "semester": "2018.2",
+            "professor": "ANA CRISTINA BEZERRIL CARDOSO",
+            "horario": "24M23",
+            "local": "CCHLA 412 BLOCO I CENTRAL DE AULAS (CCHLA)"
+          }
+        ],
+        "prerequisites": [
+          "0121"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1403741",
+        "name": "LEITURA E PRODUÇÃO DE TEXTO II",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDMI0103",
+        "name": "INGLÊS APLICADO À TRADUÇÃO III",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "0102"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDMI0108",
+        "name": "TRADUÇÃO E CULTURA I",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDMI0109",
+        "name": "ESTUDOS DE CORPORA NA TRADUÇÃO",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDMI0113",
+        "name": "ESTÁGIO SUPERVISIONADO II:PRÁTICA E TRADUÇÃO EM TEXTOS TÉCNICOS",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDMI0104",
+        "name": "INGLÊS APLICADO À TRADUÇÃO IV",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDMI0104",
+            "turmaid": "01",
+            "nome": " INGLÊS APLICADO À TRADUÇÃO IV",
+            "semester": "2018.2",
+            "professor": "ROBERTO CARLOS DE ASSIS",
+            "horario": "3M45 4M23",
+            "local": "CCHLA 420 BLOCO A 1º ANDAR (CCHLA)"
+          }
+        ],
+        "prerequisites": [
+          "0103"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDMI0106",
+        "name": "PRÁTICA DE LEITURA E PRODUÇÃO DE TEXTOS EM LÍNGUA INGLESA",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDMI0106",
+            "turmaid": "01",
+            "nome": " PRÁTICA DE LEITURA E PRODUÇÃO DE TEXTOS EM LÍNGUA INGLESA",
+            "semester": "2018.2",
+            "professor": "ROBERTO CARLOS DE ASSIS",
+            "horario": "2M2345",
+            "local": "LAB TRADUÇÃO - CCHLA - BLOCO C (CCHLA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDMI0114",
+        "name": "ESTÁGIO SUPERVISIONADO III: PRÁTICA DE TRADUÇÃO EM TEXTOS JURÍDICOS",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDMI0114",
+            "turmaid": "01",
+            "nome": " ESTÁGIO SUPERVISIONADO III: PRÁTICA DE TRADUÇÃO EM TEXTOS JURÍDICOS",
+            "semester": "2018.2",
+            "professor": "CAMILA NATHALIA DE OLIVEIRA BRAGA",
+            "horario": "5M2345",
+            "local": "LAB TRADUÇÃO - CCHLA - BLOCO C (CCHLA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDMI0123",
+        "name": "PESQUISA APLICAD AOS ESTUDOS DA TRADUÇÃO",
+        "category": "Complementar Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDMI0123",
+            "turmaid": "01",
+            "nome": " PESQUISA APLICAD AOS ESTUDOS DA TRADUÇÃO",
+            "semester": "2018.2",
+            "professor": "TANIA LIPARINI CAMPOS",
+            "horario": "6M2345",
+            "local": "CCHLA 421 BLOCO A 1º ANDAR (CCHLA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDMI0125",
+        "name": "INTRODUÇÃO AOS ESTUDOS DE TRADUÇÃO LITERÁRIA",
+        "category": "Complementar Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDMI0125",
+            "turmaid": "01",
+            "nome": " INTRODUÇÃO AOS ESTUDOS DE TRADUÇÃO LITERÁRIA",
+            "semester": "2018.2",
+            "professor": "CHRISTIANE MARIA DE SENA DINIZ",
+            "horario": "3M23 4M45",
+            "local": "CCHLA 420 BLOCO A 1º ANDAR (CCHLA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDMI0105",
+        "name": "INGLÊS APLICADO À TRADUÇÃO V",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "0104"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDMI0115",
+        "name": "ESTÁGIO SUPERVISIONADO IV:PRÁTICA DE TRADUÇÃO EM MÍDIA IMPRESSA E VIRTUAL",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDMI0126",
+        "name": "TEORIA LITERÁRIA APLICADA AOS ESTUDOS DE TRADUÇÃO",
+        "category": "Complementar Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDMI0110",
+        "name": "ESTUDOS COMPARADOS EM TRADUÇÃO",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDMI0110",
+            "turmaid": "01",
+            "nome": " ESTUDOS COMPARADOS EM TRADUÇÃO",
+            "semester": "2018.2",
+            "professor": "PEDRO PAULO NUNES DA SILVA e LUCIANE LEIPNITZ",
+            "horario": "35M23",
+            "local": "CCHLA 421 BLOCO A 1º ANDAR (CCHLA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDMI0116",
+        "name": "ESTÁGIO SUPERVISIONADO V: PRÁTICA DE TRADUÇÃO EM TEXTOS LITERÁRIOS",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDMI0116",
+            "turmaid": "01",
+            "nome": " ESTÁGIO SUPERVISIONADO V: PRÁTICA DE TRADUÇÃO EM TEXTOS LITERÁRIOS",
+            "semester": "2018.2",
+            "professor": "DANIEL ANTONIO DE SOUSA ALVES",
+            "horario": "2M2345",
+            "local": "CCHLA 422 BLOCO A 1º ANDAR (CCHLA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDMI0156",
+        "name": "ESTUDOS ETNICOS RACIAIS",
+        "category": "Complementar Obrigatória",
+        "semester": 6,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDMI0111",
+        "name": "ANÁLISE CRÍTICA DA TRADUÇÃO",
+        "category": "Obrigatória",
+        "semester": 7,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDMI0117",
+        "name": "ESTÁGIO SUPERVISIONADO VI : PRÁTICA DE REVISÃO DE TEXTOS TRADUZIDOS",
+        "category": "Obrigatória",
+        "semester": 7,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDMI0127",
+        "name": "TRABALHO DE CONCLUSÃO DE CURSO I",
+        "category": "Complementar Obrigatória",
+        "semester": 7,
+        "workload": "60h aula 0h lab.",
+        "type": "TRABALHO DE CONCLUSÃO DE CURSO",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDMI0118",
+        "name": "ESTÁGIO SUPERVISIONADO VII",
+        "category": "Obrigatória",
+        "semester": 8,
+        "workload": "60h aula 0h lab.",
+        "type": "ESTÁGIO",
+        "turmas": [
+          {
+            "id": "GDMI0118",
+            "turmaid": "01",
+            "nome": " ESTÁGIO SUPERVISIONADO VII",
+            "semester": "2018.2",
+            "professor": "CAMILA NATHALIA DE OLIVEIRA BRAGA",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDMI0128",
+        "name": "TRABALHO DE CONCLUSÃO DE CURSO II",
+        "category": "Complementar Obrigatória",
+        "semester": 8,
+        "workload": "60h aula 0h lab.",
+        "type": "TRABALHO DE CONCLUSÃO DE CURSO",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "0127"
+        ],
+        "equivalences": [
+
+        ]
+      }
+    ]
+  }
+}

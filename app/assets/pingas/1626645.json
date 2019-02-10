@@ -1,0 +1,2082 @@
+{
+  "curriculum": {
+    "id": "632007",
+    "codigo": "1626645",
+    "name": "EDUCAÇÃO FÍSICA - LICENCIATURA - João Pessoa - Presencial - MT - LICENCIATURA PLENA",
+    "faculty": "CENTRO DE CIÊNCIAS DA SAÚDE (CCS) (11.00.54)",
+    "minch": "300",
+    "maxch": "585",
+    "semesters": 8,
+    "courses": [
+      {
+        "id": "1202251",
+        "name": "ATIVIDADE DE EXTENSAO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1301146",
+        "name": "FUND ADM EDUCACAO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1301150",
+        "name": "EDUCACAO SEXUAL",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1301198",
+        "name": "ANTROPOLOGIA DA EDUCACAO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1301203",
+        "name": "FUNDAMENTOS DA ADMINISTRACAO DA EDUCACAO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1301204",
+        "name": "EDUCAÇÃO SEXUAL",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1301205",
+        "name": "FUNDAMENTOS BIOLOGICOS DA EDUCACO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1301244",
+        "name": "ECONOMIA DA EDUCACAO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1301255",
+        "name": "ANTROPOLOGIA DA EDUCACAO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1302220",
+        "name": "AVALIAÇÃO DA APRENDIZAGEM",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1302304",
+        "name": "AVALIACAO DA APRENDIZAGEM",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1302305",
+        "name": "SEMINÁRIO DE PROBLEMAS  ATUAIS DA EDUCAÇÃO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1302308",
+        "name": "INTRODUÇÃO AOS RECURSOS AUDIOVISUAIS EM EDUCAÇÃO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1302309",
+        "name": "SEMINARIO EM EDUCACAO AMBIENTAL",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1302325",
+        "name": "EDUCAÇÃO E MOVIMENTOS SOCIAIS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1302507",
+        "name": "EDUCAÇÃO E MOVIMENTOS SOCIAIS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1303195",
+        "name": "PLANEJAMENTO E GESTÃO ESCOLAR",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1303196",
+        "name": "CURRICULO E TRABALHO PEDAGOGICO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1303197",
+        "name": "PESQUISA E COTIDIANO ESCOLAR",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1303210",
+        "name": "CURRICULO E TRABALHO PEDAGOGICO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1609262",
+        "name": "CAPOEIRA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1609251"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1609263",
+        "name": "TENIS DE CAMPO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1609263",
+            "turmaid": "01",
+            "nome": " TENIS DE CAMPO",
+            "semester": "2018.2",
+            "professor": "VALTER AZEVEDO PEREIRA",
+            "horario": "4M123",
+            "local": "Q. TENIS (CCS)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1609269",
+        "name": "PRÁTICAS ALTERNATIVAS EM EDUCAÇÃO FÍSICA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1609256"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1609275",
+        "name": "TÓPICO TEMÁTICO V  ED FÍSICA E SAÚDE",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1609336",
+        "name": "METODOLOGIA DO TREINO DO VOLEIBOL",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1609283"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1609343",
+        "name": "TÓPICOS ESPEM EDUCAÇÃO FÍSICA I",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1609344",
+        "name": "TÓPICOS ESP EM EDUCAÇÃO FÍSICAII",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1609345",
+        "name": "TÓPICOS ESP EM EDUCAÇÃO FÍSICAIII",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1609346",
+        "name": "TÓPICOS ESP EM EDUCAÇÃO FÍSICA IV",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDCFS0112",
+        "name": "SEMINÁRIO DE PROBLEMAS ATUAIS EM EDUCAÇÃO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1301201",
+        "name": "FUNDAMENTOS PSICOLÓGICOS DA EDUCAÇÃO",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1301201",
+            "turmaid": "04",
+            "nome": " FUNDAMENTOS PSICOLÓGICOS DA EDUCAÇÃO",
+            "semester": "2018.2",
+            "professor": "LUIZ PEREIRA DE LIMA JUNIOR",
+            "horario": "3T1234",
+            "local": "CAB 102 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1301254",
+        "name": "FUNDAMENTOS ANTROPOFILOSÓFICOS DA EDUCAÇÃO",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1609251",
+        "name": "CRESCIMENTO E DESENVOLVIMENTO",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1609251",
+            "turmaid": "01",
+            "nome": " CRESCIMENTO E DESENVOLVIMENTO",
+            "semester": "2018.2",
+            "professor": "CLARICE MARIA DE LUCENA MARTINS",
+            "horario": "25T12",
+            "local": "DEF 01 (CCS)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1609252",
+        "name": "PRODUCAO E VEIC DO CONHEC EM EDUC FISICA",
+        "category": "Complementar Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1609252",
+            "turmaid": "01",
+            "nome": " PRODUCAO E VEIC DO CONHEC EM EDUC FISICA",
+            "semester": "2018.2",
+            "professor": "FERNANDO JOSE DE PAULA CUNHA",
+            "horario": "2T34 6T12",
+            "local": "DEF 01 (CCS)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1610191",
+        "name": "ANATOMIA APLICADA A EDUCACAO FISICA",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "75h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1610191",
+            "turmaid": "02",
+            "nome": " ANATOMIA APLICADA A EDUCACAO FISICA",
+            "semester": "2018.2",
+            "professor": "JAKINA GUIMARAES VIEIRA",
+            "horario": "5T345 6T34",
+            "local": "CCS 415 (CCS)"
+          },
+          {
+            "id": "1610191",
+            "turmaid": "03",
+            "nome": " ANATOMIA APLICADA A EDUCACAO FISICA",
+            "semester": "2018.2",
+            "professor": "IVSON BEZERRA DA SILVA",
+            "horario": "5T345 6T34",
+            "local": "CCS 419 (CCS)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1611195",
+        "name": "FISIOLOGIA HUMANA I",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1611195",
+            "turmaid": "01",
+            "nome": " FISIOLOGIA HUMANA I",
+            "semester": "2018.2",
+            "professor": "MARIA REGINA DE FREITAS",
+            "horario": "24M45",
+            "local": "CCS 210 (CCS)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDLS0024",
+        "name": "LIBRAS",
+        "category": "Complementar Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDLS0024",
+            "turmaid": "01",
+            "nome": " LIBRAS",
+            "semester": "2018.2",
+            "professor": "LIGIO JOSIAS GOMES DE SOUSA",
+            "horario": "3M2345",
+            "local": "CAF 103 (PRG)"
+          },
+          {
+            "id": "GDLS0024",
+            "turmaid": "11",
+            "nome": " LIBRAS",
+            "semester": "2018.2",
+            "professor": "CAROLINA SILVA RESENDE DA NÓBREGA",
+            "horario": "5T2345",
+            "local": "CAD 106 (PRG)"
+          },
+          {
+            "id": "GDLS0024",
+            "turmaid": "12",
+            "nome": " LIBRAS",
+            "semester": "2018.2",
+            "professor": "MARIE GORETT DANTAS DE ASSIS E MEDEIROS BATISTA",
+            "horario": "5N1234",
+            "local": "CCHLA 423 BLOCO A 2º ANDAR (CCHLA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1609268",
+        "name": "PEDAGOGIA DO ENSINO DO ATLETISMO",
+        "category": "Optativa",
+        "semester": 2,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1609253",
+        "name": "ATLETISMO",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1609253",
+            "turmaid": "01",
+            "nome": " ATLETISMO",
+            "semester": "2018.2",
+            "professor": "MARIENI BELLO CORREA",
+            "horario": "4T3 6T345",
+            "local": "DEF 02 (CCS)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1609255",
+        "name": "FUND EPISTEMOLOGICOS DA ED FISICA",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1609255",
+            "turmaid": "01",
+            "nome": " FUND EPISTEMOLOGICOS DA ED FISICA",
+            "semester": "2018.2",
+            "professor": "IRAQUITAN DE OLIVEIRA CAMINHA",
+            "horario": "5T345",
+            "local": "DEF 02 (CCS)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1609257",
+        "name": "GINASTICA ARTISTICA",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1609257",
+            "turmaid": "01",
+            "nome": " GINASTICA ARTISTICA",
+            "semester": "2018.2",
+            "professor": "CLAUDIO LUIZ DE SOUZA MEIRELES",
+            "horario": "45T12",
+            "local": "DEF 02 (CCS)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1609259",
+        "name": "FUTEBOL",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1609259",
+            "turmaid": "01",
+            "nome": " FUTEBOL",
+            "semester": "2018.2",
+            "professor": "EUGENIO PACELLI DO NASCIMENTO",
+            "horario": "4T45 6T12",
+            "local": "DEF 02 (CCS)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1609260",
+        "name": "DANCA",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1609260",
+            "turmaid": "01",
+            "nome": " DANCA",
+            "semester": "2018.2",
+            "professor": "LAISE TAVARES PADILHA BEZERRA",
+            "horario": "2T23 3T12",
+            "local": "DEF 02 (CCS)"
+          }
+        ],
+        "prerequisites": [
+          "1609251"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1609261",
+        "name": "EDUCACAO FISICA E SAUDE",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1609261",
+            "turmaid": "01",
+            "nome": " EDUCACAO FISICA E SAUDE",
+            "semester": "2018.2",
+            "professor": "JOSE CAZUZA DE FARIAS JUNIOR",
+            "horario": "2T45",
+            "local": "DEF 02 (CCS)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1612181",
+        "name": "NUTRICAO E ATIVIDADE FISICA",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1612181",
+            "turmaid": "01",
+            "nome": " NUTRICAO E ATIVIDADE FISICA",
+            "semester": "2018.2",
+            "professor": "RAFAELA LIRA FORMIGA CAVALCANTI DE LIMA e LEYLLIANE DE FATIMA LEAL INTERAMINENSE DE ANDRADE",
+            "horario": "3T345",
+            "local": "DEF 02 (CCS)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1609337",
+        "name": "PEDAGOGIA DO ENSINO DA DANÇA",
+        "category": "Optativa",
+        "semester": 3,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1609340",
+        "name": "PEDAGOGIA DO ENSINO DO FUTEBOL",
+        "category": "Optativa",
+        "semester": 3,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1609347",
+        "name": "TÓPICO TEMÁTICO I    PESQ EDUCFÍSICA",
+        "category": "Optativa",
+        "semester": 3,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1609347",
+            "turmaid": "01",
+            "nome": " TÓPICO TEMÁTICO I    PESQ EDUCFÍSICA",
+            "semester": "2018.2",
+            "professor": "IRAQUITAN DE OLIVEIRA CAMINHA",
+            "horario": "4T12",
+            "local": "DEF 08 (CCS)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1302105",
+        "name": "DIDÁTICA",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1302105",
+            "turmaid": "05",
+            "nome": " DIDÁTICA",
+            "semester": "2018.2",
+            "professor": "AURENISIA COUTINHO IVO e MARA LEITE SIMOES",
+            "horario": "35T45",
+            "local": "CAB 103 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1609258",
+        "name": "FUND H E FILOSO ED FISICA E ESPORTE",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1609258",
+            "turmaid": "02",
+            "nome": " FUND H E FILOSO ED FISICA E ESPORTE",
+            "semester": "2018.2",
+            "professor": "LUCIANO MEIRELES DE PONTES",
+            "horario": "6T345",
+            "local": "DEF 03 (CCS)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1609264",
+        "name": "EDUCAÇÃO FÍSICA INFANTIL",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1609264",
+            "turmaid": "01",
+            "nome": " EDUCAÇÃO FÍSICA INFANTIL",
+            "semester": "2018.2",
+            "professor": "JORGE FERNANDO HERMIDA AVEIRO",
+            "horario": "2T3456",
+            "local": "DEF 03 (CCS)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1609265",
+        "name": "FISIOLOGIA DA ATIVIDADE FÍSICA LIC",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1609265",
+            "turmaid": "01",
+            "nome": " FISIOLOGIA DA ATIVIDADE FÍSICA LIC",
+            "semester": "2018.2",
+            "professor": "A DEFINIR",
+            "horario": "3T12 4T34",
+            "local": "DEF 03 (CCS)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1609266",
+        "name": "NATAÇÃO",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1609266",
+            "turmaid": "03",
+            "nome": " NATAÇÃO",
+            "semester": "2018.2",
+            "professor": "PAULO SERGIO BRINDEIRO DE ARAUJO",
+            "horario": "4T56 5T23",
+            "local": "DEF 03 (CCS)"
+          }
+        ],
+        "prerequisites": [
+          "1609251"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1609267",
+        "name": "GINÁSTICA RÍTMICA",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1609267",
+            "turmaid": "01",
+            "nome": " GINÁSTICA RÍTMICA",
+            "semester": "2018.2",
+            "professor": "HOSANA CLAUDIA MATIAS",
+            "horario": "24T12",
+            "local": "DEF 03 (CCS)"
+          }
+        ],
+        "prerequisites": [
+          "1609251"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1609361",
+        "name": "PRIMEIROS SOCORROS",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1609361",
+            "turmaid": "01",
+            "nome": " PRIMEIROS SOCORROS",
+            "semester": "2018.2",
+            "professor": "MARIENI BELLO CORREA",
+            "horario": "6T12",
+            "local": "DEF 03 (CCS)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1609290",
+        "name": "PEDAG DO ENSINO DA GINÁSTICA ARTÍSTICA",
+        "category": "Optativa",
+        "semester": 4,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1609291",
+        "name": "PEDAG DO ENSINO DA NATAÇÃO",
+        "category": "Optativa",
+        "semester": 4,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1609291",
+            "turmaid": "02",
+            "nome": " PEDAG DO ENSINO DA NATAÇÃO",
+            "semester": "2018.2",
+            "professor": "MATEUS DAVID FINCO",
+            "horario": "2T56 2N1",
+            "local": "DEF 09 (CCS)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1609312",
+        "name": "PEDAG DO ENS DA GINÁSTICA RÍTMICA",
+        "category": "Optativa",
+        "semester": 4,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1609270",
+        "name": "PESQUISA APLICADA À EDUCAÇÃO FÍSICA",
+        "category": "Complementar Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1609270",
+            "turmaid": "01",
+            "nome": " PESQUISA APLICADA À EDUCAÇÃO FÍSICA",
+            "semester": "2018.2",
+            "professor": "JORGE FERNANDO HERMIDA AVEIRO",
+            "horario": "2T12 3T34",
+            "local": "DEF 04 (CCS)"
+          }
+        ],
+        "prerequisites": [
+          "1609252"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1609272",
+        "name": "CINESIOLOGIA E BIOMEC APLIC À EDUC FÍS",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1609272",
+            "turmaid": "02",
+            "nome": " CINESIOLOGIA E BIOMEC APLIC À EDUC FÍS",
+            "semester": "2018.2",
+            "professor": "LYDIANE TAVARES TOSCANO",
+            "horario": "24M45",
+            "local": "DEF 09 (CCS)"
+          }
+        ],
+        "prerequisites": [
+          "1610191",
+          "1611195"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1609273",
+        "name": "HANDEBOL",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1609273",
+            "turmaid": "01",
+            "nome": " HANDEBOL",
+            "semester": "2018.2",
+            "professor": "GILMARIO RICARTE BATISTA",
+            "horario": "4T345 5T3",
+            "local": "DEF 04 (CCS)"
+          }
+        ],
+        "prerequisites": [
+          "1609251"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1609283",
+        "name": "VOLEIBOL",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1609283",
+            "turmaid": "01",
+            "nome": " VOLEIBOL",
+            "semester": "2018.2",
+            "professor": "IDEBALDO GRISI",
+            "horario": "2T34 5T45",
+            "local": "DEF 04 (CCS)"
+          }
+        ],
+        "prerequisites": [
+          "1609251"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1609288",
+        "name": "APRENDIZAGEM E CONTROLE MOTOR",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1609288",
+            "turmaid": "01",
+            "nome": " APRENDIZAGEM E CONTROLE MOTOR",
+            "semester": "2018.2",
+            "professor": "CAROLINE DE OLIVEIRA MARTINS",
+            "horario": "35T12",
+            "local": "DEF 04 (CCS)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1609289",
+        "name": "ÉTICA PROFISSIONAL NA ED FÍSICA",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1609289",
+            "turmaid": "01",
+            "nome": " ÉTICA PROFISSIONAL NA ED FÍSICA",
+            "semester": "2018.2",
+            "professor": "LUCIANO MEIRELES DE PONTES",
+            "horario": "3T5 4T12",
+            "local": "DEF 04 (CCS)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1609292",
+        "name": "DIDÁTICA APLIC A EDUCAÇÃO FÍSICA",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1609292",
+            "turmaid": "01",
+            "nome": " DIDÁTICA APLIC A EDUCAÇÃO FÍSICA",
+            "semester": "2018.2",
+            "professor": "PIERRE NORMANDO GOMES DA SILVA",
+            "horario": "6T123",
+            "local": "DEF 04 (CCS)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1609313",
+        "name": "PEDAG DO ENS DO HANDEBOL",
+        "category": "Optativa",
+        "semester": 5,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1609341",
+        "name": "PEDAGOGIA DO ENSINO DO VOLEIBOL",
+        "category": "Optativa",
+        "semester": 5,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1301200",
+        "name": "FUNDAMENTOS SOCIOHISTÓRICOS DA EDUCAÇÃO",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1301200",
+            "turmaid": "05",
+            "nome": " FUNDAMENTOS SOCIOHISTÓRICOS DA EDUCAÇÃO",
+            "semester": "2018.2",
+            "professor": "ANA MARIA NOBREGA DE SOUSA",
+            "horario": "4T2345",
+            "local": "CCHLA 414 BLOCO I CENTRAL DE AULAS (CCHLA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1405123",
+        "name": "PSICOLOGIA DA APRENDIZAGEM",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1405123",
+            "turmaid": "02",
+            "nome": " PSICOLOGIA DA APRENDIZAGEM",
+            "semester": "2018.2",
+            "professor": "KAREN GUEDES OLIVEIRA",
+            "horario": "6T2345",
+            "local": "CAG 105 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1609278",
+        "name": "FUTSAL",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1609278",
+            "turmaid": "03",
+            "nome": " FUTSAL",
+            "semester": "2018.2",
+            "professor": "EUGENIO PACELLI DO NASCIMENTO",
+            "horario": "2T123 4T1",
+            "local": "DEF 05 (CCS)"
+          }
+        ],
+        "prerequisites": [
+          "1609251"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1609281",
+        "name": "MEDIDAS E AVALIAÇÃO EM ED FÍSICA I",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1609281",
+            "turmaid": "03",
+            "nome": " MEDIDAS E AVALIAÇÃO EM ED FÍSICA I",
+            "semester": "2018.2",
+            "professor": "ALINE ALBUQUERQUE NÓBREGA RABAY",
+            "horario": "35T12",
+            "local": "DEF 05 (CCS)"
+          }
+        ],
+        "prerequisites": [
+          "1609251",
+          "1609256"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1609285",
+        "name": "ANÁLISE E INTERPR DE DADOS EM ED FÍSICA",
+        "category": "Complementar Obrigatória",
+        "semester": 5,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1609285",
+            "turmaid": "01",
+            "nome": " ANÁLISE E INTERPR DE DADOS EM ED FÍSICA",
+            "semester": "2018.2",
+            "professor": "JOSE CAZUZA DE FARIAS JUNIOR",
+            "horario": "4T345",
+            "local": "DEF 07 (CCS)"
+          }
+        ],
+        "prerequisites": [
+          "1609270"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1609294",
+        "name": "JUDÔ",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1609294",
+            "turmaid": "04",
+            "nome": " JUDÔ",
+            "semester": "2018.2",
+            "professor": "FILIPE FERREIRA DA COSTA",
+            "horario": "2T45 3T34",
+            "local": "DEF 05 (CCS)"
+          }
+        ],
+        "prerequisites": [
+          "1609251"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1609303",
+        "name": "ESTAGIO PROFIS SUPERVISIONADO I",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "150h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1609303",
+            "turmaid": "01",
+            "nome": " ESTAGIO PROFIS SUPERVISIONADO I",
+            "semester": "2018.2",
+            "professor": "MARCELLO FERNANDO BULHOES MARTINS e FERNANDO JOSE DE PAULA CUNHA",
+            "horario": "24M123 6M1234",
+            "local": "DEF 09 (CCS)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1609325",
+        "name": "VOLEI DE PRAIA",
+        "category": "Optativa",
+        "semester": 6,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1609283"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1609338",
+        "name": "PEDAGOGIA DO ENSINO DO FUTSAL",
+        "category": "Optativa",
+        "semester": 6,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1609339",
+        "name": "PEDAGOGIA DO ENSINO DO BASQUETEBOL",
+        "category": "Optativa",
+        "semester": 6,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1609348",
+        "name": "TÓPICO TEMÁTICO II PLANENSEDFÍSESC",
+        "category": "Optativa",
+        "semester": 6,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1609279",
+        "name": "TREINAMENTO DESPORTIVO I",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1609279",
+            "turmaid": "01",
+            "nome": " TREINAMENTO DESPORTIVO I",
+            "semester": "2018.2",
+            "professor": "YTALO MOTA SOARES",
+            "horario": "35T34",
+            "local": "DEF 06 (CCS)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1609308",
+        "name": "BASQUETEBOL",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1609308",
+            "turmaid": "01",
+            "nome": " BASQUETEBOL",
+            "semester": "2018.2",
+            "professor": "YTALO MOTA SOARES",
+            "horario": "35T12",
+            "local": "DEF 06 (CCS)"
+          }
+        ],
+        "prerequisites": [
+          "1609251"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1609309",
+        "name": "MANIFESTAÇÕES CULTURAIS",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1609309",
+            "turmaid": "01",
+            "nome": " MANIFESTAÇÕES CULTURAIS",
+            "semester": "2018.2",
+            "professor": "MARCELLO FERNANDO BULHOES MARTINS",
+            "horario": "4T345",
+            "local": "DEF 06 (CCS)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1609310",
+        "name": "PEDAGOGIA DO LAZER",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1609310",
+            "turmaid": "01",
+            "nome": " PEDAGOGIA DO LAZER",
+            "semester": "2018.2",
+            "professor": "MATEUS DAVID FINCO",
+            "horario": "2T234",
+            "local": "DEF 06 (CCS)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1609311",
+        "name": "ESTÁGIO PROFISSIONAL SUPERVISIONADO II",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "150h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1609311",
+            "turmaid": "01",
+            "nome": " ESTÁGIO PROFISSIONAL SUPERVISIONADO II",
+            "semester": "2018.2",
+            "professor": "MELINA SILVA ALVES e MATEUS DAVID FINCO",
+            "horario": "24M123 6M1234",
+            "local": "MULTIMEIOS (CCS)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1609349",
+        "name": "TÓPICO TEMÁTICO III DESENV HUMANO",
+        "category": "Optativa",
+        "semester": 7,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1609351",
+        "name": "TÓPICO TEMÁTICO V EDUC FÍS E SAÚDE",
+        "category": "Optativa",
+        "semester": 7,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1303180",
+        "name": "POLITICA E GESTAO DA EDUCACAO",
+        "category": "Obrigatória",
+        "semester": 7,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1303180",
+            "turmaid": "01",
+            "nome": " POLITICA E GESTAO DA EDUCACAO",
+            "semester": "2018.2",
+            "professor": "GALDINO TOSCANO DE BRITO FILHO",
+            "horario": "3T1234",
+            "local": "CCS 106 (CCS)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+          "1303208"
+        ]
+      },
+      {
+        "id": "1609320",
+        "name": "ORGANIZAÇÃO DE EVENTOS E COM ESCOLARES",
+        "category": "Obrigatória",
+        "semester": 7,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1609320",
+            "turmaid": "01",
+            "nome": " ORGANIZAÇÃO DE EVENTOS E COM ESCOLARES",
+            "semester": "2018.2",
+            "professor": "LUCIANO FLAVIO DA SILVA LEONIDIO",
+            "horario": "5T21",
+            "local": "DEF 07 (CCS)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1609321",
+        "name": "EDUCAÇAÕ FISICA ESPECIAL",
+        "category": "Obrigatória",
+        "semester": 7,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1609321",
+            "turmaid": "02",
+            "nome": " EDUCAÇAÕ FISICA ESPECIAL",
+            "semester": "2018.2",
+            "professor": "ANA CRISTINA OLIVEIRA MARQUES SILVESTRE",
+            "horario": "5T345",
+            "local": "DEF 05 (CCS)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1609322",
+        "name": "SEMINARIO DE MONOGRAFIA I",
+        "category": "Complementar Obrigatória",
+        "semester": 7,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1609322",
+            "turmaid": "01",
+            "nome": " SEMINARIO DE MONOGRAFIA I",
+            "semester": "2018.2",
+            "professor": "MARCELLO FERNANDO BULHOES MARTINS",
+            "horario": "4T12 6T23",
+            "local": "DEF 07 (CCS)"
+          }
+        ],
+        "prerequisites": [
+          "1609270"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1609342",
+        "name": "ESTÁGIO PROFISSIONAL SUPERV III",
+        "category": "Obrigatória",
+        "semester": 7,
+        "workload": "105h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1609342",
+            "turmaid": "01",
+            "nome": " ESTÁGIO PROFISSIONAL SUPERV III",
+            "semester": "2018.2",
+            "professor": "PAULO SERGIO BRINDEIRO DE ARAUJO e MATEUS DAVID FINCO",
+            "horario": "24M123 6M1",
+            "local": "DEF AUDITORIO (CCS)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1609350",
+        "name": "TÓPICO TEMÁTICO IV   DESPORTO ESCOLAR",
+        "category": "Optativa",
+        "semester": 8,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1609352",
+        "name": "TÓPICOS TEMÁTICOS VI FORMPROFEDFÍSICA",
+        "category": "Optativa",
+        "semester": 8,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1609352",
+            "turmaid": "01",
+            "nome": " TÓPICOS TEMÁTICOS VI FORMPROFEDFÍSICA",
+            "semester": "2018.2",
+            "professor": "MELINA SILVA ALVES e FERNANDO JOSE DE PAULA CUNHA",
+            "horario": "4T6 4N1",
+            "local": "MULTIMEIOS (CCS)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1609353",
+        "name": "TÓPICOS TEMÁTICOS VII  TREINAMENTO DESPORTIVO",
+        "category": "Optativa",
+        "semester": 8,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1609323",
+        "name": "SEMINARIO DE MONOGRAFIA II",
+        "category": "Complementar Obrigatória",
+        "semester": 8,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1609323",
+            "turmaid": "01",
+            "nome": " SEMINARIO DE MONOGRAFIA II",
+            "semester": "2018.2",
+            "professor": "MARCELLO FERNANDO BULHOES MARTINS",
+            "horario": "2T45",
+            "local": "DEF 08 (CCS)"
+          }
+        ],
+        "prerequisites": [
+          "1609322"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1301195",
+        "name": " FUNDAMENTOS  ANTROPOFILOSÓFICO DA EDUCAÇÃO",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": "60h",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1301195",
+            "turmaid": "14",
+            "nome": " FUNDAMENTOS  ANTROPOFILOSÓFICO DA EDUCAÇÃO",
+            "semester": "2018.2",
+            "professor": "FERNANDES ANTONIO BRASILEIRO RODRIGUES",
+            "horario": "4T1234",
+            "local": "CAF 108 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1609200",
+        "name": " MONOGRAFIA",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": null,
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1609200",
+            "turmaid": "01",
+            "nome": " MONOGRAFIA",
+            "semester": "2018.2",
+            "professor": "A DEFINIR",
+            "horario": "2T456 2N1",
+            "local": "GD (CCS)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      }
+    ]
+  }
+}

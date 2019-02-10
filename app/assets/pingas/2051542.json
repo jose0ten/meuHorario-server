@@ -1,0 +1,1307 @@
+{
+  "curriculum": {
+    "id": "522013",
+    "codigo": "2051542",
+    "name": "LETRAS (LÍNGUA INGLESA) -EAD - Mamanguape - A Distância - LINGUA INGLESA - MT - LICENCIATURA PLENA",
+    "faculty": "CENTRO DE CIÊNCIAS APLICADAS E EDUCAÇÃO (CCAE) (11.00.59)",
+    "minch": "120",
+    "maxch": "480",
+    "semesters": 8,
+    "courses": [
+      {
+        "id": "8105112",
+        "name": "LINGUISTICA TEXTUAL",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDDLT0104",
+        "name": "LITERATURA E ESTUDO DE GÊNEROS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDDLT0104",
+            "turmaid": "01",
+            "nome": " UV",
+            "semester": "2018.2",
+            "professor": "MOAMA LORENA DE LACERDA MARQUES",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDDLT0150",
+        "name": "LINGUÍSTICA INTERACIONAL UV",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDDLT0151",
+        "name": "SEMÂNTICA ARGUMENTATIVA UV",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDDLT0152",
+        "name": "TÓPICOS ESPECIAIS EM LINGUA INGLESA I  UV",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDDLT0153",
+        "name": "TÓPICOS ESPECIAIS EM LINGUA INGLESA II   UV",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDDLT0155",
+        "name": "SOCIOLINGUISTICA  EAD",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDDLT0157",
+        "name": "LITERATURA COMPARADA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDDLT0158",
+        "name": "EDUCAÇÃO E MOVIMENTOS SOCIAIS (EAD)",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDDLT0159",
+        "name": "ESTUDOS SEMÂNTICOS EM LÍNGUA ESTRANGEIRA UV",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDDLT0160",
+        "name": "ESTUDOS PRAGMÁTICOS EM LÍNGUA ESTRANGEIRA UV",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDDLT0162",
+        "name": "AQUISIÇÃO DA LINGUAGEM UV",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDDLT0163",
+        "name": "ANÁLISE DE DISCURSO UV",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDDLT0164",
+        "name": "LINGUÍSTICA APLICADA AO ENSINO DE PORTUGUÊS COMO LÍNGUA ESTRANGEIRA UV",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDEDC0091",
+        "name": "PESQUISA E COTIDIANO ESCOLAR",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDEDC0092",
+        "name": "INTRODUÇÃO AOS RECURSOS AUDIOVISUAIS EM EDUCAÇÃO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDEDC0093",
+        "name": "ECONOMIA DA EDUCAÇÃO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDEDC0094",
+        "name": "ALFABETIZAÇÃO DE JOVENS E ADULTOS PROCESSOS E  METODOS UV",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDEDC0103",
+        "name": "EDUCAÇÃO SEXUAL",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDEDC0104",
+        "name": "ANTROPOLOGIA DA EDUCAÇÃO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDEDC0105",
+        "name": "EDUCAÇÃO E INCLUSÃO SOCIAL",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDEDC0106",
+        "name": "AVALIAÇÃO DA APRENDIZAGEM",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDEDC0107",
+        "name": "CURRÍCULO E TRABALHO PEDAGÓGICO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDEDC0109",
+        "name": "FUNDAMENTOS DA ADMINISTRAÇÃO DA EDUCAÇÃO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDEDC0110",
+        "name": "FUNDAMENTOS BIOLÓGICOS DA EDUCAÇÃO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDEDC0111",
+        "name": "PLANEJAMENTO E GESTÃO ESCOLAR",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDEDC0112",
+        "name": "SEMINÁRIOS DE PROBLEMAS ATUAIS EM EDUCAÇÃO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDEDC0113",
+        "name": "SEMINÁRIO DE EDUCAÇÃO AMBIENTAL",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8102186",
+        "name": "FUNDAMENTOS ANTROPOFILOSÓFICOS DA EDUCACAO",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8105095",
+        "name": "INSTRUMENTALIZACAO PARA EAD LN  UV",
+        "category": "Complementar Obrigatória",
+        "semester": 1,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8105097",
+        "name": "LINGUA INGLESA I LN  UV",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8105098",
+        "name": "CULTURA DE POVOS DA LININGLESA LN  UV",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8105108",
+        "name": "METODOLOGIA DO TRABALHO CIENTIFICO  UV",
+        "category": "Complementar Obrigatória",
+        "semester": 1,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8105108",
+            "turmaid": "01",
+            "nome": " METODOLOGIA DO TRABALHO CIENTIFICO  UV",
+            "semester": "2018.2",
+            "professor": "MARCIA MARIA DE MEDEIROS TRAVASSOS SAEGER",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8102187",
+        "name": "FUNDAMENTOS SÓCIO HISTÓRICOS DA EDUCAÇÃO",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8105093",
+        "name": "TEORIA DA LITERATURA I LN  UV",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8105093",
+            "turmaid": "01",
+            "nome": " TEORIA DA LITERATURA I LN  UV",
+            "semester": "2018.2",
+            "professor": "RAÍRA COSTA MAIA DE VASCONCELOS",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8105094",
+        "name": "TEORIA DA LINGUISTICA I LN  UV",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8105100",
+        "name": "LINGUA INGLESA II  UV",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "8105097"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8105104",
+        "name": "PRÁTICAS DE LEITURA E PRODUÇÃO TEXTUAL EM LÍNGUA INGLESA I",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8102188",
+        "name": "FUNDAMENTOS PSICOLÓGICOS DA EDUCAÇÃO",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8105106",
+        "name": "TEORIA DA LITERATURA II  LN  UV",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "8105102",
+          "8105093"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8105107",
+        "name": "TEORIAS DA LINGUISTICA II  LN UV",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8105107",
+            "turmaid": "02",
+            "nome": " TEORIAS DA LINGUISTICA II  LN UV",
+            "semester": "2018.2",
+            "professor": "ROSEANE BATISTA FEITOSA NICOLAU",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+          "8105103",
+          "8105094"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8105109",
+        "name": "LINGUA INGLESA IIIUV",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8105109",
+            "turmaid": "01",
+            "nome": " LINGUA INGLESA IIIUV",
+            "semester": "2018.2",
+            "professor": "MARIA DO ROSARIO SILVA LEITE",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+          "8105100"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8105110",
+        "name": "PRATLEITPRODTEXTLINGINGLESA IIUV",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8105110",
+            "turmaid": "01",
+            "nome": " PRATLEITPRODTEXTLINGINGLESA IIUV",
+            "semester": "2018.2",
+            "professor": "CARLA ALECSANDRA DE MELO BONIFACIO",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+          "8105104"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDDLT0161",
+        "name": "LITERATURA NORTE AMERICANA III UV",
+        "category": "Optativa",
+        "semester": 4,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "8105107",
+          "8105109"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8102189",
+        "name": "POLITICA E GESTAO EDUCACIONAL  UV",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDDLT0120",
+        "name": "LINGUÍSTICA APLICADA I (INGLÊS) UV",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDDLT0120",
+            "turmaid": "01",
+            "nome": " LINGUÍSTICA APLICADA I (INGLÊS) UV",
+            "semester": "2018.2",
+            "professor": "JULIENE PAIVA DE ARAÚJO OSIAS",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDDLT0121",
+        "name": "LINGUA INGLESA IV UV",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDDLT0121",
+            "turmaid": "01",
+            "nome": " LINGUA INGLESA IV UV",
+            "semester": "2018.2",
+            "professor": "DANIELLE DE LUNA E SILVA",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+          "8105109"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDDLT0122",
+        "name": "FONÉTICA E FONOLOGIA DA LINGUA INGLESA I  UV",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDDLT0126",
+        "name": "LITERATURA INGLESA I UV",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDDLT0126",
+            "turmaid": "01",
+            "nome": " LITERATURA INGLESA I UV",
+            "semester": "2018.2",
+            "professor": "JEOVA ROCHA DE MENDONCA",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+          "8105107",
+          "8105109"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDDLT0130",
+        "name": "PESQUISA APLICADA AO ENSINO DA LINGUA INGLESA UV",
+        "category": "Complementar Obrigatória",
+        "semester": 4,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDDLT0132",
+        "name": "LINGUÍSTICA APLICADA II (INGLES)  UV",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDDLT0133",
+        "name": "LINGUA INGLESA V  UV",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDDLT0134",
+        "name": "FONÉTICA E FONOLOGIA DA LINGUA INGLESA II  UV",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "0122"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDDLT0135",
+        "name": "LITERATURA INGLESA II  UV",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "0126",
+          "8105106"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDEDC0090",
+        "name": "DIDÁTICA",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDDLT0127",
+        "name": "LINGUA INGLESA VI  UV",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "0133"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDDLT0136",
+        "name": "LINGUAGEM E DISCURSO  UV",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDDLT0136",
+            "turmaid": "01",
+            "nome": " LINGUAGEM E DISCURSO  UV",
+            "semester": "2018.2",
+            "professor": "SILVIO LUIS DA SILVA",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDDLT0137",
+        "name": "LITERATURA INGLESA III",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "8105106",
+          "8105109"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDDLT0138",
+        "name": "LITERATURAB NORTE",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDDLT0139",
+        "name": "ESTÁGIO SUPERVISIONADO I (INGLÊS) UV",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDDLT0139",
+            "turmaid": "01",
+            "nome": " ESTÁGIO SUPERVISIONADO I (INGLÊS) UV",
+            "semester": "2018.2",
+            "professor": "SANDRA MARIA ARAUJO DIAS",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+          "0130"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8105113",
+        "name": "LIBRAS IUV",
+        "category": "Complementar Obrigatória",
+        "semester": 7,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "8105102",
+          "8105093"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDDLT0140",
+        "name": "ESTÁGIO SUPERVISIONADO II (INGLÊS) UV",
+        "category": "Obrigatória",
+        "semester": 7,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDDLT0142",
+        "name": "LINGUA INGLESA VII  UV",
+        "category": "Obrigatória",
+        "semester": 7,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "0127"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDDLT0143",
+        "name": "LITERATURAB NORTE",
+        "category": "Obrigatória",
+        "semester": 7,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "8105106",
+          "8105109"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDDLT0144",
+        "name": "PROJETO TCC   UV",
+        "category": "Complementar Obrigatória",
+        "semester": 7,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "8105099",
+          "8105108"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDDLT0102",
+        "name": "LIBRAS II UV",
+        "category": "Complementar Obrigatória",
+        "semester": 8,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDDLT0141",
+        "name": "ESTÁGIO SUPERVISIONADO III (INGLÊS) UV",
+        "category": "Obrigatória",
+        "semester": 8,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDDLT0141",
+            "turmaid": "01",
+            "nome": " ESTÁGIO SUPERVISIONADO III (INGLÊS) UV",
+            "semester": "2018.2",
+            "professor": "SANDRA MARIA ARAUJO DIAS",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDDLT0145",
+        "name": "TCC  UV",
+        "category": "Complementar Obrigatória",
+        "semester": 8,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDDLT0145",
+            "turmaid": "01",
+            "nome": " TCC  UV",
+            "semester": "2018.2",
+            "professor": "MARCIA MARIA DE MEDEIROS TRAVASSOS SAEGER",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+          "0144"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDDLT0149",
+        "name": "LINGUA INGLESA VIII  UV",
+        "category": "Obrigatória",
+        "semester": 8,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDDLT0149",
+            "turmaid": "01",
+            "nome": " LINGUA INGLESA VIII  UV",
+            "semester": "2018.2",
+            "professor": "MARIA DO ROSARIO SILVA LEITE",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      }
+    ]
+  }
+}

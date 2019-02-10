@@ -1,0 +1,2286 @@
+{
+  "curriculum": {
+    "id": "392009",
+    "codigo": "1626827",
+    "name": "COMUNICAÇÃO EM MÍDIAS DIGITAIS - João Pessoa - Presencial - T - BACHARELADO",
+    "faculty": "CENTRO DE CIÊNCIAS HUMANAS, LETRAS E ARTES (CCHLA) (11.00.53)",
+    "minch": "285",
+    "maxch": "555",
+    "semesters": 8,
+    "courses": [
+      {
+        "id": "1403747",
+        "name": "LIBRAS  LÍNGUA BRASILEIRA DE SINAIS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1414035",
+        "name": "DISCIPLINA OPTATIVA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1414030"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1414039",
+        "name": "BASES PSICOFISIOL PERCE SOM FIS DO SOM",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1414068",
+        "name": "MÍDIA E COTIDIANO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1414069",
+        "name": "COMUNICAÇÃO E CULTURA AUDIOVISUAL",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1414071",
+        "name": "COMUNICAÇÃO E COGNIÇÃO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1414072",
+        "name": "LINGUAGENS EM MÍDIA MÓVEL",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1414073",
+        "name": "LABORATÓRIO EM MÍDIA MÓVEL",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1414074",
+        "name": "HIPERTEXTO NO PRCESSO DIGITAL",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1414075",
+        "name": "ESTÉTICAS DA ARTE DIGITAL",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1414076",
+        "name": "CULTURAS DAS MÍDIAS DIGITAIS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1414077",
+        "name": "COMUNIDADES INTERATIVAS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1414078",
+        "name": "TEORIAS EM MÍDIA DIGITAL I",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1414079",
+        "name": "TEORIAS EM MÍDIA DIGITAL II",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1414080",
+        "name": "SEMIÓTICA DA IMAGEM DIGITAL",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1414081",
+        "name": "FANZINES E HQTRÔNICAS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1414083",
+        "name": "TÓPICOS ESPECIAIS EM MÍDIAS DIGITAIS I",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "15h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1414084",
+        "name": "TÓPICOS ESPECIAIS EM MÍDIAS DIGITAIS II",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "15h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1414085",
+        "name": "TÓPICOS ESPECIAIS EM MÍDIAS DIGITAIS III",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1414086",
+        "name": "TÓPICOS ESPECIAIS EM MÍDIAS DIGITAIS IV",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1414092",
+        "name": "ESTATÍSTICA APLICADA A MÍDIAS DIGITAIS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1414094",
+        "name": "EDUCAÇÃO TURÍSTICA A DISTÂNCIA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1414106",
+        "name": "GESTÃO DE PROJETOS EM MÍDIAS DIGITAIS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1414110",
+        "name": "COMPOSIÇÃO CRIATIVA EM FOTOGRAFIA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1414131",
+        "name": "AUDIO E VÍDEO DISPONIB VIA INTERNET",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1414145",
+        "name": "HIST DA ARTE E TECNOL IMAG ANALOG E DIG",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1414149",
+        "name": "PRODUÇÃO DE ANIMAÇÃO 3D",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1414150",
+        "name": "JOGOS ELETRÔNICOS EVOLUÇÃO TECNOLÓGICA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1414154",
+        "name": "NOVOS MERCADOS EM MÍDIAS DIGITAIS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDLS0024",
+        "name": "LIBRAS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDMDI0100",
+        "name": "ABORDAGENS TEÓRICAS DA COMUNICAÇÃO NAS REDES DIGITAIS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDMDI0101",
+        "name": "TECNOLOGIAS DA INFORMAÇÃO E COMUNICAÇÃO APLICADAS À ADMINISTRAÇÃO PÚBLICA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDMDI0102",
+        "name": "ASPECTOS ADMINISTRATIVOS E MERCADOLÓGICOS EM MÍDIAS DIGITAIS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDMDI0103",
+        "name": "ASPECTOS COGNITIVOS E ERGONÔMICOS: PUBLICAÇÕES E IPS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDMDI0104",
+        "name": "ASPECTOS COGNITIVOS, ERGONÔMICOS E TECNOLÓGICOS EM MULTIMÍDIA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDMDI0105",
+        "name": "TECNOLOGIAS DE INFORMAÇÃO E COMUNICAÇÃO II",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDMDI0106",
+        "name": "ESTADO DA ARTE EM TECNOLOGIAS E MÍDIAS DIGITAIS I",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDMDI0107",
+        "name": "ESTADO DA ARTE EM TECNOLOGIAS E MÍDIAS DIGITAIS II",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDMDI0108",
+        "name": "INFOGRAFIA III",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDMDI0109",
+        "name": "PRODUÇÃO E CONTROLE DE ÁUDIO EM TV E CINEMA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDMDI0110",
+        "name": "PRODUÇÃO DE ANIMAÇÕES PARA A WEB",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDMDI0111",
+        "name": "LINGUAGEM PARA APLICAÇÕES DINÂMICAS EM MÍDIAS DIGITAIS II",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDMDI0112",
+        "name": "LINGUAGEM PARA APLICAÇÕES DINÂMICAS EM MÍDIAS DIGITAIS III",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDMDI0113",
+        "name": "BANCO DE DADOS PARA APLICAÇÕES VIA WEB",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDMDI0114",
+        "name": "ÁUDIO E VÍDEO DISPONIBILIZADOS VIA INTERNET",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDMDI0116",
+        "name": "MODELIZAÇÃO COGNITIVA PARA O DESIGN PEDAGÓGICO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDMDI0117",
+        "name": "CONCEPÇÃO E PRODUÇÃO DE OBJETOS PEDAGÓGICOS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDMDI0118",
+        "name": "DIFUSÃO DE OBJETOS PEDAGÓGICOS EDUCACIONAIS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDMDI0119",
+        "name": "TÓPICOS EM MULTIMÍDIA APLICADOS AO EAD",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDMDI0120",
+        "name": "LINGUAGEM INTERATIVA PARA TV DIGITAL",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDMDI0121",
+        "name": "DESENVOLVIMENTO DE APLICAÇÕES INTERATIVAS PARA TV DIGITAL",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDMDI0122",
+        "name": "PRODUÇÃO DE APLICAÇÕES MULTIMÍDIA II",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDMDI0123",
+        "name": "SCRIPTS PARA ANIMAÇÃO E INTERATIVIDADE MULTIMÍDIA I (BÁSICO)",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDMDI0124",
+        "name": "SCRIPTS PARA ANIMAÇÃO E INTERATIVIDADE MULTIMÍDIA II (AVANÇADO)",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDMDI0125",
+        "name": "HISTÓRIA DA ARTE E TECNOLOGIA DA IMAGEM ANALÓGICA E DIGITAL",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDMDI0126",
+        "name": "INTRODUÇÃO AO DESENVOLVIMENTO DE PERSONAGENS E ENCENAÇÃO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDMDI0127",
+        "name": "JOGOS ELETRÔNICOS: EVOLUÇÃO TECNOLÓGICA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDMDI0128",
+        "name": "MULTIMÍDIA, JOGOS ELETRÔNICOS E INTERATIVIDADE",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDMDI0129",
+        "name": "TÓPICOS ESPECIAIS EM MÍDIAS DIGITAIS I (ATIVIDADES EXTRA CLASSE)",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "15h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDMDI0130",
+        "name": "TÓPICOS ESPECIAIS EM MÍDIAS DIGITAIS II",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "15h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDMDI0131",
+        "name": "TÓPICOS ESPECIAIS EM MÍDIAS DIGITAIS III",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDMDI0132",
+        "name": "TÓPICOS ESPECIAIS EM MÍDIAS DIGITAIS IV",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDMDI0132",
+            "turmaid": "01",
+            "nome": " TÓPICOS ESPECIAIS EM MÍDIAS DIGITAIS IV",
+            "semester": "2018.2",
+            "professor": "OLAVO ANTONIO SARAIVA MENDES e DERVAL GOMES GOLZIO",
+            "horario": "24T12",
+            "local": "TL-1 - Lab.PC. 01 (CCHLA)"
+          },
+          {
+            "id": "GDMDI0132",
+            "turmaid": "02",
+            "nome": " TÓPICOS ESPECIAIS EM MÍDIAS DIGITAIS IV",
+            "semester": "2018.2",
+            "professor": "LUCIO SERGIO DE OLIVEIRA VILAR",
+            "horario": "24T12",
+            "local": "TS-1 (CCHLA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1414082",
+        "name": "PROC DE CRIAÇÃO E OFICINA DE IDÉIAS",
+        "category": "Optativa",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1414103",
+        "name": "ASPEC COGN E ERGONÔMICOSPUBLIC E IPS",
+        "category": "Optativa",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1414014",
+        "name": "LEITURA E ANALISE CRITICA DE TEXTOS I",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1414014",
+            "turmaid": "01",
+            "nome": " LEITURA E ANALISE CRITICA DE TEXTOS I",
+            "semester": "2018.2",
+            "professor": "NADJA DE MOURA CARVALHO",
+            "horario": "6T1234",
+            "local": "PL-2  - Lab. MAC. 02 (CCHLA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1414016",
+        "name": "FILOSOFIA DA COM E MIDIAS DIGITAIS",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1414016",
+            "turmaid": "01",
+            "nome": " FILOSOFIA DA COM E MIDIAS DIGITAIS",
+            "semester": "2018.2",
+            "professor": "WELLINGTON JOSE DE OLIVEIRA PEREIRA",
+            "horario": "35T56",
+            "local": "TS-1 (CCHLA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1414018",
+        "name": "INFORMAÇÃO TECNOL E MIDIAS DIGITAIS",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1414018",
+            "turmaid": "01",
+            "nome": " INFORMAÇÃO TECNOL E MIDIAS DIGITAIS",
+            "semester": "2018.2",
+            "professor": "PAULO HENRIQUE SOUTO MAIOR SERRANO",
+            "horario": "5T34",
+            "local": "TS-2 (CCHLA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1414019",
+        "name": "TECNOLOGIAS DE INFORM E COMUNICAÇÃO I",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1414019",
+            "turmaid": "01",
+            "nome": " TECNOLOGIAS DE INFORM E COMUNICAÇÃO I",
+            "semester": "2018.2",
+            "professor": "PAULO HENRIQUE SOUTO MAIOR SERRANO",
+            "horario": "4T3456",
+            "local": "PL-1 - LAB. MAC.01 (CCHLA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1414021",
+        "name": "FOTOGRAFIA DIGITAL",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1414021",
+            "turmaid": "01",
+            "nome": " FOTOGRAFIA DIGITAL",
+            "semester": "2018.2",
+            "professor": "DERVAL GOMES GOLZIO",
+            "horario": "3T1234",
+            "local": "TS-1 (CCHLA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1414022",
+        "name": "IMAGENS DIGITAIS I",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1414022",
+            "turmaid": "01",
+            "nome": " IMAGENS DIGITAIS I",
+            "semester": "2018.2",
+            "professor": "ALBERTO RICARDO PESSOA",
+            "horario": "5T12",
+            "local": "PL-1 - LAB. MAC.01 (CCHLA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1414026",
+        "name": "EDITORAÇÃO I",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1414026",
+            "turmaid": "01",
+            "nome": " EDITORAÇÃO I",
+            "semester": "2018.2",
+            "professor": "CAROLINA CAVALCANTI FALCAO",
+            "horario": "2T3456",
+            "local": "TL-1 - Lab.PC. 01 (CCHLA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1414070",
+        "name": "ANTROPOLOGIA VISUAL",
+        "category": "Optativa",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1414015",
+        "name": "LEITURA E ANALISE CRITICA DE TEXTOS II",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1414014"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1414017",
+        "name": "SOCIOLOGIA DA COM E MIDIAS DIGITAIS",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1414023",
+        "name": "IMAGENS DIGITAIS II",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1414028",
+        "name": "AUDIO I",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1414030",
+        "name": "INTERNET I",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1414040",
+        "name": "METOD DO TRABALHO CIENTÍFICO MÍD DIG",
+        "category": "Complementar Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1414152",
+        "name": "FOTOJORNALISMO E FOT ARTÍSTICA",
+        "category": "Optativa",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1414024",
+        "name": "IMAGENS DIGITAIS III",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1414024",
+            "turmaid": "01",
+            "nome": " IMAGENS DIGITAIS III",
+            "semester": "2018.2",
+            "professor": "A DEFINIR",
+            "horario": "6T1234",
+            "local": "PL-1 - LAB. MAC.01 (CCHLA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1414027",
+        "name": "EDITORAÇÃO II",
+        "category": "Complementar Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1414027",
+            "turmaid": "01",
+            "nome": " EDITORAÇÃO II",
+            "semester": "2018.2",
+            "professor": "ALBERTO RICARDO PESSOA",
+            "horario": "5T3456",
+            "local": "PL-1 - LAB. MAC.01 (CCHLA)"
+          }
+        ],
+        "prerequisites": [
+          "1414026"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1414029",
+        "name": "AUDIO II",
+        "category": "Complementar Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1414029",
+            "turmaid": "01",
+            "nome": " AUDIO II",
+            "semester": "2018.2",
+            "professor": "ANDRE VIEIRA SONODA",
+            "horario": "4T3456",
+            "local": "PL-2  - Lab. MAC. 02 (CCHLA)"
+          }
+        ],
+        "prerequisites": [
+          "1414028"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1414031",
+        "name": "INTERNET II",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1414031",
+            "turmaid": "01",
+            "nome": " INTERNET II",
+            "semester": "2018.2",
+            "professor": "PAULO HENRIQUE SOUTO MAIOR SERRANO",
+            "horario": "3T1234",
+            "local": "PL-2  - Lab. MAC. 02 (CCHLA)"
+          }
+        ],
+        "prerequisites": [
+          "1414030"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1414036",
+        "name": "OFICINA DE PROD DE TEXTO EM MD DIGIT I",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1414036",
+            "turmaid": "01",
+            "nome": " OFICINA DE PROD DE TEXTO EM MD DIGIT I",
+            "semester": "2018.2",
+            "professor": "DERVAL GOMES GOLZIO",
+            "horario": "3T56 5T12",
+            "local": "TL-1 - Lab.PC. 01 (CCHLA)"
+          }
+        ],
+        "prerequisites": [
+          "1414015"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1414041",
+        "name": "TEORIAS DA COM EM MÍDIAS DIGITAIS",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1414041",
+            "turmaid": "01",
+            "nome": " TEORIAS DA COM EM MÍDIAS DIGITAIS",
+            "semester": "2018.2",
+            "professor": "LUCIO SERGIO DE OLIVEIRA VILAR",
+            "horario": "2T3456",
+            "local": "TS-2 (CCHLA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1414113",
+        "name": "TÉCNICAS E EQUIPAMENTOS DE ÁUDIO",
+        "category": "Optativa",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1414118",
+        "name": "PROD E CONTROLE DE ÁUDIO EM TV E CINEMA",
+        "category": "Optativa",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1414032",
+        "name": "INTERNET III",
+        "category": "Complementar Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1414031"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1414037",
+        "name": "OFICINA DE PROD DE TEXTO EM MD DIGIT II",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1414036"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1414042",
+        "name": "TEORIA DO JORNALISMO EM MÍDIAS DIGITAIS",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1414043",
+        "name": "TÉCN DE ENTREV  EM REPORTAGENS ON LINE",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1414051",
+        "name": "INFOGRAFIA I",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1414024"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1414055",
+        "name": "ARGUMENTO E ROTEIRO",
+        "category": "Complementar Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1414104",
+        "name": "ASPEC COGN ERGONÔM TECNOL EM MULTIMÍDIA",
+        "category": "Optativa",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1414051"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1414126",
+        "name": "LING P APLIC DINÂMICAS EM MÍD DIG I",
+        "category": "Optativa",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1414146",
+        "name": "INTROD À HIST E À TEORIA DA ANIMAÇÃO",
+        "category": "Optativa",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1414038",
+        "name": "OFICINA DE PROD DE TEXTO EM MD DIGIT III",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1414038",
+            "turmaid": "01",
+            "nome": " OFICINA DE PROD DE TEXTO EM MD DIGIT III",
+            "semester": "2018.2",
+            "professor": "CAROLINA CAVALCANTI FALCAO",
+            "horario": "35T12",
+            "local": "TS-2 (CCHLA)"
+          }
+        ],
+        "prerequisites": [
+          "1414037"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1414045",
+        "name": "OFICINA DE PRODUÇÃO DE VÍDEO I",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1414045",
+            "turmaid": "01",
+            "nome": " OFICINA DE PRODUÇÃO DE VÍDEO I",
+            "semester": "2018.2",
+            "professor": "BERTRAND DE SOUZA LIRA",
+            "horario": "4T3456",
+            "local": "TS-2 (CCHLA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1414047",
+        "name": "EDIÇÃO DE VÍDEO I",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1414047",
+            "turmaid": "01",
+            "nome": " EDIÇÃO DE VÍDEO I",
+            "semester": "2018.2",
+            "professor": "A DEFINIR",
+            "horario": "6T1234",
+            "local": "TL-1 - Lab.PC. 01 (CCHLA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1414050",
+        "name": "ASPÉCTOS TÉCN DE SOM E ILUMINAÇÃO",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1414050",
+            "turmaid": "01",
+            "nome": " ASPÉCTOS TÉCN DE SOM E ILUMINAÇÃO",
+            "semester": "2018.2",
+            "professor": "BERTRAND DE SOUZA LIRA",
+            "horario": "2T3456",
+            "local": "PL-2  - Lab. MAC. 02 (CCHLA)"
+          }
+        ],
+        "prerequisites": [
+          "1414028"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1414052",
+        "name": "INFOGRAFIA II",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1414052",
+            "turmaid": "01",
+            "nome": " INFOGRAFIA II",
+            "semester": "2018.2",
+            "professor": "HERCILIO DE MEDEIROS SOUSA",
+            "horario": "3T3456",
+            "local": "PL-1 - LAB. MAC.01 (CCHLA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1414053",
+        "name": "ESTÁGIO SUPERVISIONADO I  MÍD DIG",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "150h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1414053",
+            "turmaid": "01",
+            "nome": " ESTÁGIO SUPERVISIONADO I  MÍD DIG",
+            "semester": "2018.2",
+            "professor": "YAKARA VASCONCELOS PEREIRA",
+            "horario": "6T5 23N1234 4N1",
+            "local": "TL-1 - Lab.PC. 01 (CCHLA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1414057",
+        "name": "ASPECTOS TÉCN DO VÍDEO E TRATAM DIGITAL",
+        "category": "Complementar Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1414057",
+            "turmaid": "01",
+            "nome": " ASPECTOS TÉCN DO VÍDEO E TRATAM DIGITAL",
+            "semester": "2018.2",
+            "professor": "A DEFINIR",
+            "horario": "5T3456",
+            "local": "TL-1 - Lab.PC. 01 (CCHLA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1414033",
+        "name": "INTERNET IV",
+        "category": "Complementar Obrigatória",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1414032"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1414044",
+        "name": "LEGISL E ÉTICA PARA MÍDIAS DIGITAIS",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1414046",
+        "name": "OFICINA DE PRODUÇÃO DE VÍDEO II",
+        "category": "Complementar Obrigatória",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1414045"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1414054",
+        "name": "ESTÁGIO SUPERVISIONADO II  MÍD DIG",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "150h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1414054",
+            "turmaid": "01",
+            "nome": " ESTÁGIO SUPERVISIONADO II  MÍD DIG",
+            "semester": "2018.2",
+            "professor": "YAKARA VASCONCELOS PEREIRA",
+            "horario": "6T6 4N234 56N123",
+            "local": "TL-1 - Lab.PC. 01 (CCHLA)"
+          }
+        ],
+        "prerequisites": [
+          "1414053"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1414059",
+        "name": "CONCEP VIS E SONORA PARA MULTIMÍDIA",
+        "category": "Complementar Obrigatória",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1414060",
+        "name": "PRODUÇÃO DE APLICAÇÕES DE MULTIMÍDIA I",
+        "category": "Complementar Obrigatória",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1414065",
+        "name": "PESQ APLIC À COM EM MÍD DIGITAIS TCC0",
+        "category": "Complementar Obrigatória",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1414048",
+        "name": "EDIÇÃO DE VÍDEO II",
+        "category": "Optativa",
+        "semester": 7,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1414129",
+        "name": "MARKETING ELETRÔNICO",
+        "category": "Optativa",
+        "semester": 7,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1414153",
+        "name": "PRODUÇÃO DE ANIMAÇÃO   2D",
+        "category": "Optativa",
+        "semester": 7,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1414058",
+        "name": "PRODUÇÃO DE EFEITOS DIGITAIS PARA A TV",
+        "category": "Complementar Obrigatória",
+        "semester": 7,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1414058",
+            "turmaid": "01",
+            "nome": " PRODUÇÃO DE EFEITOS DIGITAIS PARA A TV",
+            "semester": "2018.2",
+            "professor": "A DEFINIR",
+            "horario": "3T1234",
+            "local": "TL-1 - Lab.PC. 01 (CCHLA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1414063",
+        "name": "PROD INTEG E DIST DE APLIC MULTIMÍDIA",
+        "category": "Complementar Obrigatória",
+        "semester": 7,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1414063",
+            "turmaid": "01",
+            "nome": " PROD INTEG E DIST DE APLIC MULTIMÍDIA",
+            "semester": "2018.2",
+            "professor": "HERCILIO DE MEDEIROS SOUSA",
+            "horario": "5T3456",
+            "local": "PL-2  - Lab. MAC. 02 (CCHLA)"
+          }
+        ],
+        "prerequisites": [
+          "1414060"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1414066",
+        "name": "TRABALHO DE CONCLUSÃO DE CURSO I TCC1",
+        "category": "Complementar Obrigatória",
+        "semester": 7,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1414066",
+            "turmaid": "01",
+            "nome": " TRABALHO DE CONCLUSÃO DE CURSO I TCC1",
+            "semester": "2018.2",
+            "professor": "SIGNE DAYSE CASTRO DE MELO E SILVA",
+            "horario": "6T1234",
+            "local": "TS-2 (CCHLA)"
+          }
+        ],
+        "prerequisites": [
+          "1414065"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDMDI0115",
+        "name": "TECNOLOGIAS E APRENDIZAGEM À DISTÂNCIA",
+        "category": "Complementar Obrigatória",
+        "semester": 7,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDMDI0115",
+            "turmaid": "01",
+            "nome": " TECNOLOGIAS E APRENDIZAGEM À DISTÂNCIA",
+            "semester": "2018.2",
+            "professor": "SIGNE DAYSE CASTRO DE MELO E SILVA",
+            "horario": "4T3456",
+            "local": "TL-1 - Lab.PC. 01 (CCHLA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1414049",
+        "name": "EDIÇÃO DE VÍDEO III",
+        "category": "Optativa",
+        "semester": 8,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1414064",
+        "name": "GESTÃO DE NEG EM TECNOL DIGITAIS",
+        "category": "Complementar Obrigatória",
+        "semester": 8,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1414064",
+            "turmaid": "01",
+            "nome": " GESTÃO DE NEG EM TECNOL DIGITAIS",
+            "semester": "2018.2",
+            "professor": "YAKARA VASCONCELOS PEREIRA",
+            "horario": "3M2345",
+            "local": "TL-1 - Lab.PC. 01 (CCHLA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1414067",
+        "name": "TRABALHO DE CONCLUSÃO DE CURSO II TCC2",
+        "category": "Complementar Obrigatória",
+        "semester": 8,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1414067",
+            "turmaid": "01",
+            "nome": " TRABALHO DE CONCLUSÃO DE CURSO II TCC2",
+            "semester": "2018.2",
+            "professor": "SIGNE DAYSE CASTRO DE MELO E SILVA",
+            "horario": "7T1234",
+            "local": "PL-1 - LAB. MAC.01 (CCHLA)"
+          }
+        ],
+        "prerequisites": [
+          "1414066"
+        ],
+        "equivalences": [
+
+        ]
+      }
+    ]
+  }
+}

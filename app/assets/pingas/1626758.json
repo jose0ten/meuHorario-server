@@ -1,0 +1,2628 @@
+{
+  "curriculum": {
+    "id": "00382012",
+    "codigo": "1626758",
+    "name": "CIÊNCIAS AGRÁRIAS - Bananeiras - Presencial - MT - LICENCIATURA PLENA",
+    "faculty": "CENTRO DE CIÊNCIAS HUMANAS SOCIAIS E AGRÁRIAS (CCHSA) (11.00.45)",
+    "minch": "255",
+    "maxch": "495",
+    "semesters": 8,
+    "courses": [
+      {
+        "id": "4101043",
+        "name": "LÍNGUA PORTUGUESA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4101084",
+        "name": "LINGUA INGLESA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4101085",
+        "name": "LÍNGUA ESPANHOLA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4101099",
+        "name": "SEM TEM EM EDUC AMB  E ESP E DIR HUMANO",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4101115",
+        "name": "SOCIOLOGIA RURAL",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4101116",
+        "name": "ÉTICA E LEGISLAÇÃO PROFISSIONAL",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4101117",
+        "name": "DIREITO E LEGISLAÇÃO AGRÁRIA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4101120",
+        "name": "COOPERATIVISMO E ASSOCIATIVISMO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4101121",
+        "name": "ANALISE ECONOMICA DO SISTEMA DE PRODUCAO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4101124",
+        "name": "S T EM DIR HUM EDC ESP E AMB I",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4101132",
+        "name": "PLANEJAMENTO E GESTAO ESCOLAR",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4101133",
+        "name": "AVALIACAO DA APRENDIZAGEM",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4101134",
+        "name": "EDUCACAO E MOVIMENTOS SOCIAIS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4101135",
+        "name": "S T EM DIR HUM EDUC ESP E AMB II",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4101144",
+        "name": "S T EM DIR HUM EDUC ESP E AMB III",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4101145",
+        "name": "SEMINARIO DE PROB ATUAIS EM EDUCACAO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4101203",
+        "name": "CURRICULO E TRABALHO PEDAGOGICO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4101206",
+        "name": "SEMINARIO EM EDUCACAO AMBIENTAL",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4101207",
+        "name": "INT AOS REC AUDIOVISUAIS EM EDUCACAO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4101209",
+        "name": "PESQUISA E COTIDIANO ESCOALR",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4101210",
+        "name": "ECONOMIA DA EDUCACAO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4101211",
+        "name": "FUNDAMENTOS DA ADMINSITRACAO DA EDUCACAO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4101212",
+        "name": "EDUCACAO SEXUAL",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "4101212",
+            "turmaid": "01",
+            "nome": " EDUCACAO SEXUAL",
+            "semester": "2018.2",
+            "professor": "ISABELLE DA COSTA WANDERLEY ALENCAR",
+            "horario": "2T123",
+            "local": "BL ALCIDES 05 (CCHSA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4101213",
+        "name": "FUNDAMENTOS BIOLOGICOS DA EDUCACAO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "4101213",
+            "turmaid": "01",
+            "nome": " FUNDAMENTOS BIOLOGICOS DA EDUCACAO",
+            "semester": "2018.2",
+            "professor": "ISABELLE DA COSTA WANDERLEY ALENCAR",
+            "horario": "23T45",
+            "local": "BL ALCIDES 05 (CCHSA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4101214",
+        "name": "ANTROPOLOGIA DA EDUCACAO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4102017",
+        "name": "APICULTURA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4102025",
+        "name": "TE EXTENSAO",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4102026",
+        "name": "TE PIBIC",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4102027",
+        "name": "TE PROLICEN",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4102028",
+        "name": "TE MONITORIA",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4102032",
+        "name": "SEMINARIOS TEMATICOS EM C AGRARIAS I",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4102040",
+        "name": "APICULTURA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4102041",
+        "name": "AQUICULTURA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "4102041",
+            "turmaid": "02",
+            "nome": " AQUICULTURA",
+            "semester": "2018.2",
+            "professor": "ALBERIO LOPES RODRIGUES",
+            "horario": "24T12",
+            "local": "BL ALCIDES 06 (CCHSA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4102042",
+        "name": "SISTEMAS AGROFLORESTAIS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4102043",
+        "name": "VIVEIRICULTURA JARDINAGEM E PAISAGISMO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "4102043",
+            "turmaid": "01",
+            "nome": " VIVEIRICULTURA JARDINAGEM E PAISAGISMO",
+            "semester": "2018.2",
+            "professor": "JUSSARA ELLEN MORAIS FRAZAO",
+            "horario": "6T123",
+            "local": "BL ALCIDES 02 (CCHSA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4102044",
+        "name": "RANICULTURA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4102045",
+        "name": "MANEJO E CONSERVACAO DO SOLO E AGUA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4102046",
+        "name": "PLANTAS MEDICINAIS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4102047",
+        "name": "TOPICOS ESPECIAIS",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4102060",
+        "name": "AGROECOLOGIA E AGRICULTURA ORGANICA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "4102060",
+            "turmaid": "01",
+            "nome": " AGROECOLOGIA E AGRICULTURA ORGANICA",
+            "semester": "2018.2",
+            "professor": "BELISIA LUCIA MOREIRA TOSCANO DINIZ",
+            "horario": "35T23",
+            "local": "BL ALCIDES 01 (CCHSA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4102061",
+        "name": "FISIOLOGIA POSCOLHEITA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "4102061",
+            "turmaid": "02",
+            "nome": " FISIOLOGIA POSCOLHEITA",
+            "semester": "2018.2",
+            "professor": "LAESIO PEREIRA MARTINS",
+            "horario": "4N12",
+            "local": "BL ALCIDES 03 (CCHSA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4102062",
+        "name": "SEMINARIO  TEMAT EM C AGRARIAS",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "30h aula 2h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4102065",
+        "name": "SEMINARIOS TEMATICOS EM C AGRARIAS II",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4102069",
+        "name": "SEMINARIO TEMATICOS EM C AGRARIAS III",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "30h aula 2h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4102077",
+        "name": "SEMINARIO TEMATICO EM C AGRARIAS IV",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4102078",
+        "name": "SEMINARIO TEMATICO EM C AGRARIAS V",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4102080",
+        "name": "TOP ESPECIAIS PRODUCAO E TEC DE SEMENTES",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4102081",
+        "name": "TOPICOS ESPECIAIS  PLANEJ DESEN ASS",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4102082",
+        "name": "SEMINARIO TEMATICO EM C AGRARIAS VI",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4102085",
+        "name": "TOPICOS ESPECIAIS EM ENTOMOLOGIA AGRICOL",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4102086",
+        "name": "TOPICOS ESPECIAIS  CUNICULTURA",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4102087",
+        "name": "TOPICOS ESPECIAL  EXTENSAO",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4102088",
+        "name": "TOPICO ESPECIAL PROBEX",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4102089",
+        "name": "TOPICO ESPECIAL  INICIACAO CIENTIFICA",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4102090",
+        "name": "TOPICO ESPECIAL  INICIACAO A DOCENCIA",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4102091",
+        "name": "TOPICO ESPECIAL  MONITORIA",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4102095",
+        "name": "TOPICOS ESPECCONSERV EM REC GENET ANIM",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4102142",
+        "name": "SISTEMAS AGROFLORESTAIS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4103045",
+        "name": "MECANIZACAO AGRICOLA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "4103045",
+            "turmaid": "01",
+            "nome": " MECANIZACAO AGRICOLA",
+            "semester": "2018.2",
+            "professor": "CLEBER BRITO DE SOUZA",
+            "horario": "3T23 4T45",
+            "local": "BL ALCIDES 02 (CCHSA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4103080",
+        "name": "GESTAO DA PRODUCAO AGROINDUSTRIAL",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4103085",
+        "name": "ABATE E PROCESSAMENTO DE ANIMAIS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4103086",
+        "name": "MECANIZACAO AGRICOLA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4103087",
+        "name": "CONSTRUCOES RURAIS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4103151",
+        "name": "TOPICOS ESPECIAISMETEOROL E CLIMATOLOG",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4104154",
+        "name": "SEM TEM EDUC AMB EDUC ESP E DIR HUMAN IV",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4104174",
+        "name": "SEM TEM EDUC AMB EDUC ESP E DIR HUMAN V",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4104180",
+        "name": "ALFABETIZAÇÃO DE JOVENS E ADULTOS: PROCESSOS E MÉTODOS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4105010",
+        "name": "ECONOMIA DA EDUCAÇÃO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4105011",
+        "name": "FUNDAMENTOS DA ADMINISTRAÇÃO DA EDUCAÇÃO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4105012",
+        "name": "EDUCAÇÃO SEXUAL",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4105013",
+        "name": "FUNDAMENTOS BIOLÓGICOS DA EDUCAÇÃO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4105014",
+        "name": "ANTROPOLOGIA DA EDUCAÇÃO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4105015",
+        "name": "PESQUISA E COTIDIANO ESCOLAR",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4105016",
+        "name": "PLANEJAMENTO E GESTÃO ESCOLAR",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4105017",
+        "name": "CURRÍCULO  E TRABALHO PEDAGÓGICO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4105018",
+        "name": "EDUCAÇÃO E INCLUSÃO SOCIAL",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4105019",
+        "name": "AVALIAÇÃO  DA  APRENDIZAGEM",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "4105019",
+            "turmaid": "01",
+            "nome": " AVALIAÇÃO  DA  APRENDIZAGEM",
+            "semester": "2018.2",
+            "professor": "CATARINA DE MEDEIROS BANDEIRA",
+            "horario": "23N12",
+            "local": "BL ALCIDES 02 (CCHSA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4105020",
+        "name": "SEMINÁRIO  DE PROB  ATUAIS EM EDUCAÇÃO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4105021",
+        "name": "ALFABETIZAÇÃO DE JOVENS E ADULTOS: PROCESSOS E MÉTODOS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4105022",
+        "name": "EDUCAÇÃO  E  MOVIMENTOS  SOCIAIS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4105023",
+        "name": "INTROD AOS RECURSOS AUDIOV EM EDUCAÇÃO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4105024",
+        "name": "SEMINÁRIO DE EDUCAÇÃO AMBIENTAL",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4105025",
+        "name": "SEMTEMEM EDUC AMBESPE DIR HUM",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4105026",
+        "name": "SEMINÁRIO TEMÁTICO EM CIÊN AGRÁRIAS",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "5h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4105077",
+        "name": "EDUCAÇÃO SEXUAL",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDPAG0040",
+        "name": "PRODUÇÃO E TECNOLOGIA DE SEMENTES",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4101042",
+        "name": "QUIMICA GERAL",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4101053",
+        "name": "BIOLOGIA GERAL",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4101103",
+        "name": "REDAÇÃO TÉCNICA EXPRESSÃO GRÁFICA",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4101104",
+        "name": "ELEMENTOS DE MATEMATICA",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4101105",
+        "name": "INFORMATICA",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4102034",
+        "name": "INTRODUCAO A ZOOTECNIA",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4102035",
+        "name": "INTRODUCAO A FITOTECNIA",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4105001",
+        "name": "FUNDAMENTOS ANTROPOFILOSÓFICOS DA EDUCAÇÃO",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4101097",
+        "name": "QUIMICA ORGANICA",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "4101097",
+            "turmaid": "01",
+            "nome": " QUIMICA ORGANICA",
+            "semester": "2018.2",
+            "professor": "MARIA DO SOCORRO LOPES CAVALCANTI",
+            "horario": "5N123",
+            "local": "BL ALCIDES 05 (CCHSA)"
+          }
+        ],
+        "prerequisites": [
+          "4101042"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4102029",
+        "name": "ANATOMIA E FISIOLOGIA ANIMAL",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "4102029",
+            "turmaid": "01",
+            "nome": " ANATOMIA E FISIOLOGIA ANIMAL",
+            "semester": "2018.2",
+            "professor": "GERSON ALVES DE AZEREDO",
+            "horario": "23T45",
+            "local": "BL ALCIDES 08 (CCHSA)"
+          }
+        ],
+        "prerequisites": [
+          "4101053"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4102030",
+        "name": "FERTILIDADE DO SOLO E NUTRIÇÃO DE PLANTAS",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "4102030",
+            "turmaid": "01",
+            "nome": " FERTILIDADE DO SOLO E NUTRIÇÃO DE PLANTAS",
+            "semester": "2018.2",
+            "professor": "RAUNIRA DA COSTA ARAUJO",
+            "horario": "45T45",
+            "local": "BL ALCIDES 04 (CCHSA)"
+          }
+        ],
+        "prerequisites": [
+          "4102035",
+          "4102001"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4102031",
+        "name": "ANATOMIA E ECOFISIOLOGIA VEGETAL",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "4102031",
+            "turmaid": "01",
+            "nome": " ANATOMIA E ECOFISIOLOGIA VEGETAL",
+            "semester": "2018.2",
+            "professor": "GILVANEIDE ALVES DE AZEREDO",
+            "horario": "56T23",
+            "local": "BL ALCIDES 04 (CCHSA)"
+          }
+        ],
+        "prerequisites": [
+          "4101053"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4105002",
+        "name": "FUNDAMENTOS PSICOLÓGICOS DA EDUCAÇÃO",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "4105002",
+            "turmaid": "02",
+            "nome": " FUNDAMENTOS PSICOLÓGICOS DA EDUCAÇÃO",
+            "semester": "2018.2",
+            "professor": "GERALDA MACEDO",
+            "horario": "3N34 4N12",
+            "local": "BL ALCIDES 02 (CCHSA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4105003",
+        "name": "FUNDAMENTOS SÓCIO",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "4105003",
+            "turmaid": "01",
+            "nome": " FUNDAMENTOS SÓCIO-HISTÓRICOS DA EDUCAÇÃO",
+            "semester": "2018.2",
+            "professor": "A DEFINIR",
+            "horario": "3N12 4N34",
+            "local": "BL ALCIDES 08 (CCHSA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDCSO0100",
+        "name": "METODOLOGIA DO TRABALHO CIENTIFICO",
+        "category": "Complementar Obrigatória",
+        "semester": 2,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4101055",
+        "name": "BIOQUIMICA",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "4101097"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4101098",
+        "name": "ZOOLOGIA",
+        "category": "Complementar Obrigatória",
+        "semester": 3,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4101108",
+        "name": "ESTATISTICA EXPERIMENTAL",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "4101104",
+          "4101033"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4101114",
+        "name": "PESQUISA APLICADA ÀS CIÊNCIAS AGRÁRIAS",
+        "category": "Complementar Obrigatória",
+        "semester": 3,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "4101096",
+          "0100"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4102036",
+        "name": "NUTRIÇÃO E ALIMENTAÇÃO ANIMAL E FORRAGICULTURA",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "4102029"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4103079",
+        "name": "DESENHO E TOPOGRAFIA",
+        "category": "Complementar Obrigatória",
+        "semester": 3,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4105004",
+        "name": "DIDÁTICA",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDPAG0009",
+        "name": "IRRIGAÇÃO E DRENAGEM",
+        "category": "Complementar Obrigatória",
+        "semester": 3,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4101236",
+        "name": "TOPICOS ESPECIAIS EM CIÊNCIAS AGRARIAS I",
+        "category": "Complementar Flexiva",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4102003",
+        "name": "FITOSSANIDADE",
+        "category": "Complementar Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "4102003",
+            "turmaid": "01",
+            "nome": " FITOSSANIDADE",
+            "semester": "2018.2",
+            "professor": "MARCOS BARROS DE MEDEIROS",
+            "horario": "6T45 5N12",
+            "local": "BL ALCIDES 02 (CCHSA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4102010",
+        "name": "CAPRINOCULTURA E OVINOCULTURA",
+        "category": "Complementar Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "4102010",
+            "turmaid": "01",
+            "nome": " CAPRINOCULTURA E OVINOCULTURA",
+            "semester": "2018.2",
+            "professor": "GEORGE RODRIGO BELTRAO DA CRUZ",
+            "horario": "34T23",
+            "local": "BL ALCIDES 05 (CCHSA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4102058",
+        "name": "ECOLOGIA E MEIO AMBIENTE",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "4102058",
+            "turmaid": "01",
+            "nome": " ECOLOGIA E MEIO AMBIENTE",
+            "semester": "2018.2",
+            "professor": "GILVANEIDE ALVES DE AZEREDO",
+            "horario": "4T45",
+            "local": "BL ALCIDES 03 (CCHSA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4102150",
+        "name": "OLERICULTURA",
+        "category": "Complementar Obrigatória",
+        "semester": 4,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+          "4102038"
+        ]
+      },
+      {
+        "id": "4103074",
+        "name": "INTRODUCAO A AGROINDUSTRIA",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "4103074",
+            "turmaid": "01",
+            "nome": " INTRODUCAO A AGROINDUSTRIA",
+            "semester": "2018.2",
+            "professor": "CAMILA SAMPAIO MANGOLIM",
+            "horario": "2N12",
+            "local": "BL ALCIDES 05 (CCHSA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4105006",
+        "name": "POLÍTICA E GESTÃO DA EDUCAÇÃO",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "4105006",
+            "turmaid": "01",
+            "nome": " POLÍTICA E GESTÃO DA EDUCAÇÃO",
+            "semester": "2018.2",
+            "professor": "ADEMIR GUILHERME DE OLIVEIRA",
+            "horario": "3N34 4N12",
+            "local": "BL ALCIDES 05 (CCHSA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4101237",
+        "name": "TOPICOS ESPECIAIS EM CIÊN AGRARIAS II",
+        "category": "Complementar Flexiva",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4103075",
+        "name": "MICROBIOLOGIA DE PRODUTOS AGROINDUSTRIAIS",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "4101053"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4103077",
+        "name": "CONSERVAÇÃO DE PRODUTOS AGROINDUSTRIAIS",
+        "category": "Complementar Obrigatória",
+        "semester": 5,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4105005",
+        "name": "METODOLOGIA DO ENSINO DAS CIÊNCIAS AGRÁRIAS",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "4105004"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4105098",
+        "name": "ESTÁGIO SUPERVISIONADO I  EDUCAÇÃO  ESCOLAR",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "105h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDCAN0013",
+        "name": "SUINOCULTURA",
+        "category": "Complementar Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+          "4102068",
+          "4103094"
+        ]
+      },
+      {
+        "id": "4101238",
+        "name": "TOPICOS ESPECIAIS EM CIÊN AGRARIAS III",
+        "category": "Complementar Flexiva",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4101112",
+        "name": "ECONOMIA RURAL",
+        "category": "Complementar Obrigatória",
+        "semester": 6,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "4101112",
+            "turmaid": "01",
+            "nome": " ECONOMIA RURAL",
+            "semester": "2018.2",
+            "professor": "A DEFINIR",
+            "horario": "2M45",
+            "local": "BL ALCIDES 08 (CCHSA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4102012",
+        "name": "BOVINOCULTURA",
+        "category": "Complementar Obrigatória",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "4102012",
+            "turmaid": "01",
+            "nome": " BOVINOCULTURA",
+            "semester": "2018.2",
+            "professor": "CARLOS AUGUSTO ALANIS CLEMENTE",
+            "horario": "2T45 4T34",
+            "local": "Laboratório de Bovinocultura - LABBOV (CCHSA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4102037",
+        "name": "CULTURAS REGIONAIS",
+        "category": "Complementar Obrigatória",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "4102037",
+            "turmaid": "01",
+            "nome": " CULTURAS REGIONAIS",
+            "semester": "2018.2",
+            "professor": "THIAGO JARDELINO DIAS",
+            "horario": "2T123 3T1",
+            "local": "BL ALCIDES 01 (CCHSA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4103076",
+        "name": "TECNOLOGIAS DE PRODUTOS DE ORIGEM ANIMAL E VEGETAL",
+        "category": "Complementar Obrigatória",
+        "semester": 6,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "4103076",
+            "turmaid": "01",
+            "nome": " TPOAV",
+            "semester": "2018.2",
+            "professor": "CARLOS ROBERTO MARINHO DA SILVA FILHO",
+            "horario": "4N123",
+            "local": "BL ALCIDES 10 (CCHSA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4105099",
+        "name": "ESTÁGIO SUPERVISIONADO II EDUCAÇÃO ESCOLAR",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "90h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "4105099",
+            "turmaid": "01",
+            "nome": " LIC. EM CIÊNCIAS AGRÁRIAS",
+            "semester": "2018.2",
+            "professor": "ADEMIR GUILHERME DE OLIVEIRA",
+            "horario": "35M123",
+            "local": "BL ALCIDES 03 (CCHSA)"
+          }
+        ],
+        "prerequisites": [
+          "4105098"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4101234",
+        "name": "LIBRAS",
+        "category": "Complementar Obrigatória",
+        "semester": 7,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4102005",
+        "name": "FRUTICULTURA",
+        "category": "Complementar Obrigatória",
+        "semester": 7,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "4102005",
+            "turmaid": "01",
+            "nome": " FRUTICULTURA",
+            "semester": "2018.2",
+            "professor": "ALVARO CARLOS GONCALVES NETO",
+            "horario": "35M12",
+            "local": "BL ALCIDES 02 (CCHSA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4102011",
+        "name": "AVICULTURA",
+        "category": "Complementar Obrigatória",
+        "semester": 7,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "4102011",
+            "turmaid": "01",
+            "nome": " AVICULTURA",
+            "semester": "2018.2",
+            "professor": "JOSE HUMBERTO VILAR DA SILVA",
+            "horario": "24M12",
+            "local": "BL ALCIDES 08 (CCHSA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4102059",
+        "name": "CRIACOES ALTERNATIVAS",
+        "category": "Complementar Obrigatória",
+        "semester": 7,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "4102059",
+            "turmaid": "01",
+            "nome": " CRIACOES ALTERNATIVAS",
+            "semester": "2018.2",
+            "professor": "ANA PATRICIA ALMEIDA BEZERRA",
+            "horario": "2M34",
+            "local": "BL ALCIDES 05 (CCHSA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4103078",
+        "name": "ANÁLISE E CONTROLE DE QUALIDADE DE ALIMENTOS",
+        "category": "Complementar Obrigatória",
+        "semester": 7,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4105100",
+        "name": "ESTÁGIO SUPERVISIONADO IV EXTENSÃO RURAL",
+        "category": "Obrigatória",
+        "semester": 7,
+        "workload": "105h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4101239",
+        "name": "TOPICOS ESPECIAIS EM CIÊN AGRARIAS IV",
+        "category": "Complementar Flexiva",
+        "semester": 8,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4101113",
+        "name": "ADMINSITRACAO RURAL",
+        "category": "Complementar Obrigatória",
+        "semester": 8,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "4101113",
+            "turmaid": "01",
+            "nome": " ADMINSITRACAO RURAL",
+            "semester": "2018.2",
+            "professor": "JARBAS SOBREIRA MOREIRA",
+            "horario": "5T45",
+            "local": "BL ALCIDES 05 (CCHSA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4102039",
+        "name": "TRABALHO DE CONCLUSAO DE CURSOTCC",
+        "category": "Complementar Obrigatória",
+        "semester": 8,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "4102039",
+            "turmaid": "01",
+            "nome": " TRABALHO DE CONCLUSAO DE CURSOTCC",
+            "semester": "2018.2",
+            "professor": "ADEMIR GUILHERME DE OLIVEIRA",
+            "horario": "6N34",
+            "local": "BL ALCIDES 05 (CCHSA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4105101",
+        "name": "ESTÁGIO SUPERVISIONADO IV  EXTENSÃO RURAL",
+        "category": "Obrigatória",
+        "semester": 8,
+        "workload": "105h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "4105101",
+            "turmaid": "01",
+            "nome": " LIC. EM CIÊNCIAS AGRÁRIAS",
+            "semester": "2018.2",
+            "professor": "LUANA PATRICIA COSTA SILVA",
+            "horario": "5M123 6M1234",
+            "local": "BL ALCIDES 05 (CCHSA)"
+          }
+        ],
+        "prerequisites": [
+          "4105100"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4101096",
+        "name": " METODOLOGIA CIENTIFICA",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": "30h",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "4101096",
+            "turmaid": "01",
+            "nome": " METODOLOGIA CIENTIFICA",
+            "semester": "2018.2",
+            "professor": "ITALO DE SOUZA AQUINO",
+            "horario": "4T12",
+            "local": "BL ALCIDES 08 (CCHSA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      }
+    ]
+  }
+}

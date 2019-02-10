@@ -1,0 +1,1535 @@
+{
+  "curriculum": {
+    "id": "702011",
+    "codigo": "1626769",
+    "name": "MATEMÁTICA COMPUTACIONAL - João Pessoa - Presencial - MT - BACHARELADO",
+    "faculty": "CENTRO DE INFORMÁTICA (CI) (11.00.64)",
+    "minch": "240",
+    "maxch": "450",
+    "semesters": 8,
+    "courses": [
+      {
+        "id": "1107120",
+        "name": "COMPUTADORES E SOCIEDADE",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1107251",
+        "name": "INTRODUÇÃO À MATEMÁTICA COMPUTACIONAL",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1107251",
+            "turmaid": "01",
+            "nome": " INTRODUÇÃO À MATEMÁTICA COMPUTACIONAL",
+            "semester": "2018.2",
+            "professor": "ANDREA VANESSA ROCHA",
+            "horario": "2T45",
+            "local": "CI 103 (CI)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1108150",
+        "name": "INTRODUCAO A TEORIA DE GRAFOS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1403747",
+        "name": "LIBRAS  LÍNGUA BRASILEIRA DE SINAIS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "5102003",
+        "name": "TÓPICOS ESPECIAIS EM MATEMÁTICA COMPUTACIONAL I",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "15h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "5102011",
+        "name": "ALGORITMOS  DISTRIBUÍDOS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "90h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "5102057",
+        "name": "INTRODUÇÃO A TEORIA DOS GRAFOS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "5102057",
+            "turmaid": "01",
+            "nome": " INTRODUÇÃO A TEORIA DOS GRAFOS",
+            "semester": "2018.2",
+            "professor": "TEOBALDO LEITE BULHÕES JUNIOR",
+            "horario": "24M23",
+            "local": "CI 307 (CI)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDCOC0063",
+        "name": "TÓPICOS ESPECIAIS EM MATEMÁTICA COMPUTACIONAL II",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "15h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDCOC0064",
+        "name": "TÓPICOS ESPECIAIS EM MATEMÁTICA COMPUTACIONAL III",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDCOC0065",
+        "name": "TÓPICOS ESPECIAIS EM MATEMÁTICA COMPUTACIONAL IV",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDCOC0066",
+        "name": "TÓPICOS ESPECIAIS EM MATEMÁTICA COMPUTACIONAL V",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDCOC0067",
+        "name": "TÓPICOS ESPECIAIS EM MATEMÁTICA COMPUTACIONAL VI",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDLS0024",
+        "name": "LIBRAS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1103118",
+        "name": "CÁLCULO VETORIAL E GEOMETRIA ANALÍTICA",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1103118",
+            "turmaid": "14",
+            "nome": " CÁLCULO VETORIAL E GEOMETRIA ANALÍTICA",
+            "semester": "2018.2",
+            "professor": "CLEMERSON OLIVEIRA DA SILVA MENEZES",
+            "horario": "35M23",
+            "local": "CI 103 (CI)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1103177",
+        "name": "CÁLCULO DIFERENCIAL E INTEGRAL I",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1103177",
+            "turmaid": "13",
+            "nome": " CÁLCULO DIFERENCIAL E INTEGRAL I",
+            "semester": "2018.2",
+            "professor": "FELIPE WALLISON CHAVES SILVA",
+            "horario": "24M23",
+            "local": "CI SB 01 (CI)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1107136",
+        "name": "INTRODUÇÃO A PROGRAMAÇÃO",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1107136",
+            "turmaid": "02",
+            "nome": " INTRODUÇÃO A PROGRAMAÇÃO",
+            "semester": "2018.2",
+            "professor": "BRUNO JEFFERSON DE SOUSA PESSOA",
+            "horario": "35M45",
+            "local": "CI T07 (CI)"
+          },
+          {
+            "id": "1107136",
+            "turmaid": "11",
+            "nome": " INTRODUÇÃO A PROGRAMAÇÃO",
+            "semester": "2018.2",
+            "professor": "TEOBALDO LEITE BULHÕES JUNIOR",
+            "horario": "35M45",
+            "local": "SALA DI 03 (CI)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1107201",
+        "name": "METODOLOGIA DO TRABALHO CIENTIFICO",
+        "category": "Complementar Obrigatória",
+        "semester": 1,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1107201",
+            "turmaid": "03",
+            "nome": " METODOLOGIA DO TRABALHO CIENTIFICO",
+            "semester": "2018.2",
+            "professor": "ELIZABET MARIA SPOHR DE MEDEIROS",
+            "horario": "2T123",
+            "local": "CI SB 01 (CI)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1107250",
+        "name": "INTRODUÇÃO À COMPUTAÇÃO CIENTÍFICA",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1107250",
+            "turmaid": "01",
+            "nome": " INTRODUÇÃO À COMPUTAÇÃO CIENTÍFICA",
+            "semester": "2018.2",
+            "professor": "ROBERTO QUIRINO DO NASCIMENTO",
+            "horario": "24M45",
+            "local": "SALA DI 01 (CI)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1101171",
+        "name": "FISICA APLICADA A COMPUTACAO I",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1101171",
+            "turmaid": "03",
+            "nome": " FISICA APLICADA A COMPUTACAO I",
+            "semester": "2018.2",
+            "professor": "A DEFINIR",
+            "horario": "24M45",
+            "local": "CTDR C106 (CTDR)"
+          }
+        ],
+        "prerequisites": [
+          "1103177",
+          "1103118"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1103178",
+        "name": "CALCULO DIFERENCIAL E INTEGRAL II",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1103178",
+            "turmaid": "13",
+            "nome": " CALCULO DIFERENCIAL E INTEGRAL II",
+            "semester": "2018.2",
+            "professor": "CLEMERSON OLIVEIRA DA SILVA MENEZES",
+            "horario": "24M45",
+            "local": "CI 304 (CI)"
+          }
+        ],
+        "prerequisites": [
+          "1103177"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1103179",
+        "name": "INTRODUCAO A ALGEBRA LINEAR",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1103179",
+            "turmaid": "12",
+            "nome": " INTRODUCAO A ALGEBRA LINEAR",
+            "semester": "2018.2",
+            "professor": "CLEMERSON OLIVEIRA DA SILVA MENEZES",
+            "horario": "35M45",
+            "local": "CI SB 01 (CI)"
+          }
+        ],
+        "prerequisites": [
+          "1103118"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1107147",
+        "name": "LINGUAGEM DE PROGRAMAÇÃO I",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1107147",
+            "turmaid": "02",
+            "nome": " LINGUAGEM DE PROGRAMAÇÃO I",
+            "semester": "2018.2",
+            "professor": "BRUNO JEFFERSON DE SOUSA PESSOA",
+            "horario": "35T23",
+            "local": "CI 105 (CI)"
+          }
+        ],
+        "prerequisites": [
+          "1107136"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "5102001",
+        "name": "MATEMÁTICA DISCRETA",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "5102001",
+            "turmaid": "01",
+            "nome": " MATEMÁTICA DISCRETA",
+            "semester": "2018.2",
+            "professor": "FELIPE ANTONIO GARCIA MORENO",
+            "horario": "24T23",
+            "local": "CI 304 (CI)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "5102002",
+        "name": "PESQUISA APLICADA À MAT COMPUTACIONAL",
+        "category": "Complementar Obrigatória",
+        "semester": 2,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "5102002",
+            "turmaid": "02",
+            "nome": " PESQUISA APLICADA À MAT COMPUTACIONAL",
+            "semester": "2018.2",
+            "professor": "ELIZABET MARIA SPOHR DE MEDEIROS",
+            "horario": "6M234",
+            "local": "CI 102 (CI)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDCOC0073",
+        "name": "EDUCAÇÃO DAS RELAÇÕES ETNICO RACIAIS",
+        "category": "Complementar Obrigatória",
+        "semester": 2,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1103180",
+        "name": "SERIES E EQUACOES DIF ORDINARIAS",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1103180",
+            "turmaid": "09",
+            "nome": " SERIES E EQUACOES DIF ORDINARIAS",
+            "semester": "2018.2",
+            "professor": "ALEXANDRE DE BUSTAMANTE SIMAS",
+            "horario": "35M23",
+            "local": "CI 304 (CI)"
+          }
+        ],
+        "prerequisites": [
+          "1103178",
+          "1103179"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1103232",
+        "name": "CALCULO DIF  E INTEGRAL III",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1103232",
+            "turmaid": "10",
+            "nome": " CALCULO DIF  E INTEGRAL III",
+            "semester": "2018.2",
+            "professor": "EDSON DE FIGUEIREDO LIMA JUNIOR",
+            "horario": "24T45",
+            "local": "CI SB 01 (CI)"
+          }
+        ],
+        "prerequisites": [
+          "1103178",
+          "1103118"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1107186",
+        "name": "ESTRUTURA DE DADOS",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1107186",
+            "turmaid": "01",
+            "nome": " ESTRUTURA DE DADOS",
+            "semester": "2018.2",
+            "professor": "ULYSSES SERGIO CAVALCANTI DE OLIVEIRA",
+            "horario": "35M23",
+            "local": "CI 311 (CI)"
+          },
+          {
+            "id": "1107186",
+            "turmaid": "02",
+            "nome": " ESTRUTURA DE DADOS",
+            "semester": "2018.2",
+            "professor": "CHRISTIAN AZAMBUJA PAGOT",
+            "horario": "24T23",
+            "local": "CI 102 (CI)"
+          }
+        ],
+        "prerequisites": [
+          "0108",
+          "1107147"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "5102006",
+        "name": "CÁLCULO  DAS PROBABILIDADES I",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "5102006",
+            "turmaid": "01",
+            "nome": " CÁLCULO  DAS PROBABILIDADES I",
+            "semester": "2018.2",
+            "professor": "ANDREA VANESSA ROCHA",
+            "horario": "35M45",
+            "local": "SALA DI 02 (CI)"
+          }
+        ],
+        "prerequisites": [
+          "1103177"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "5102007",
+        "name": "PESQUISA OPERACIONAL",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "5102007",
+            "turmaid": "01",
+            "nome": " PESQUISA OPERACIONAL",
+            "semester": "2018.2",
+            "professor": "KELY DIANA VILLACORTA VILLACORTA",
+            "horario": "35T23",
+            "local": "CI 307 (CI)"
+          }
+        ],
+        "prerequisites": [
+          "1103179"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDCOC0074",
+        "name": "POLÍTICAS DE EDUCAÇÃO AMBIENTAL",
+        "category": "Complementar Obrigatória",
+        "semester": 3,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDSCO0051",
+        "name": "INTRODUÇÃO À COMPUTAÇÃO GRÁFICA",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDSCO0051",
+            "turmaid": "01",
+            "nome": " INTRODUÇÃO À COMPUTAÇÃO GRÁFICA",
+            "semester": "2018.2",
+            "professor": "CHRISTIAN AZAMBUJA PAGOT",
+            "horario": "24M23",
+            "local": "CI 105 (CI)"
+          }
+        ],
+        "prerequisites": [
+          "1103178",
+          "1107147",
+          "1103179"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1107263",
+        "name": "AGENTES INTELIGENTES",
+        "category": "Optativa",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1107186"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1108162",
+        "name": "PROGRAMACAO MATEMATICA",
+        "category": "Optativa",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "5102007",
+          "1103178"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "5101007",
+        "name": "INTELIGÊNCIA  COMPUTACIONAL",
+        "category": "Optativa",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "5102007"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "5102008",
+        "name": "CÁLCULO DAS PROBABILIDADES II",
+        "category": "Optativa",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "5102008",
+            "turmaid": "02",
+            "nome": " CÁLCULO DAS PROBABILIDADES II",
+            "semester": "2018.2",
+            "professor": "ANDREA VANESSA ROCHA",
+            "horario": "35T23",
+            "local": "CI 306 (CI)"
+          }
+        ],
+        "prerequisites": [
+          "5102006",
+          "1103232"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDCOC0071",
+        "name": "PROGRAMAÇÃO MATEMÁTICA",
+        "category": "Optativa",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDCOC0071",
+            "turmaid": "01",
+            "nome": " PROGRAMAÇÃO MATEMÁTICA",
+            "semester": "2018.2",
+            "professor": "ROBERTO QUIRINO DO NASCIMENTO",
+            "horario": "35M45",
+            "local": "CI 306 (CI)"
+          }
+        ],
+        "prerequisites": [
+          "5102007",
+          "1103178"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDCOC0075",
+        "name": "INTELIGÊNCIA COMPUTACIONAL",
+        "category": "Optativa",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "5102007"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDINF0113",
+        "name": "INTELIGÊNCIA COMPUTACIONAL",
+        "category": "Optativa",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDINF0113",
+            "turmaid": "01",
+            "nome": " INTELIGÊNCIA COMPUTACIONAL",
+            "semester": "2018.2",
+            "professor": "BRUNO JEFFERSON DE SOUSA PESSOA",
+            "horario": "24T23",
+            "local": "CI 308 (CI)"
+          }
+        ],
+        "prerequisites": [
+          "5102007"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1101172",
+        "name": "FISICA APLICADA A COMPUTACAO II",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1101172",
+            "turmaid": "01",
+            "nome": " FISICA APLICADA A COMPUTACAO II",
+            "semester": "2018.2",
+            "professor": "A DEFINIR",
+            "horario": "24T23",
+            "local": "CTDR C105 (CTDR)"
+          }
+        ],
+        "prerequisites": [
+          "1101171",
+          "1101167"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1107148",
+        "name": "LINGUAGEM DE PROGRAMAÇÃO II",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1107148",
+            "turmaid": "02",
+            "nome": " LINGUAGEM DE PROGRAMAÇÃO II",
+            "semester": "2018.2",
+            "professor": "CARLOS EDUARDO COELHO FREIRE BATISTA",
+            "horario": "24M45",
+            "local": "CI T07 (CI)"
+          },
+          {
+            "id": "1107148",
+            "turmaid": "03",
+            "nome": " LINGUAGEM DE PROGRAMAÇÃO II",
+            "semester": "2018.2",
+            "professor": "GILBERTO FARIAS DE SOUSA FILHO",
+            "horario": "35T23",
+            "local": "SALA DI 01 (CI)"
+          }
+        ],
+        "prerequisites": [
+          "1107147"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1107204",
+        "name": "ORDENACAO E RECUPERACAO DE DADOS",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1107204",
+            "turmaid": "01",
+            "nome": " ORDENACAO E RECUPERACAO DE DADOS",
+            "semester": "2018.2",
+            "professor": "ULYSSES SERGIO CAVALCANTI DE OLIVEIRA",
+            "horario": "35T45",
+            "local": "CI 101 (CI)"
+          }
+        ],
+        "prerequisites": [
+          "1107186"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "5102005",
+        "name": "INTRODUÇÃO AOS PROCESSOS ESTOCÁSTICOS",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "5102005",
+            "turmaid": "01",
+            "nome": " INTRODUÇÃO AOS PROCESSOS ESTOCÁSTICOS",
+            "semester": "2018.2",
+            "professor": "SERGIO DE CARVALHO BEZERRA",
+            "horario": "24T45",
+            "local": "CI 307 (CI)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDCOC0068",
+        "name": "INTRODUÇÃO À ANÁLISE REAL",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "5102001",
+          "1103180"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDCOC0072",
+        "name": "CALCULO NUMERICO",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDCOC0072",
+            "turmaid": "06",
+            "nome": " CALCULO NUMERICO",
+            "semester": "2018.2",
+            "professor": "GUSTAVO CHARLES PEIXOTO DE OLIVEIRA",
+            "horario": "35N12",
+            "local": "CAA 106 (PRG)"
+          },
+          {
+            "id": "GDCOC0072",
+            "turmaid": "07",
+            "nome": " CALCULO NUMERICO",
+            "semester": "2018.2",
+            "professor": "GUSTAVO CHARLES PEIXOTO DE OLIVEIRA",
+            "horario": "35M45",
+            "local": "SALA DI 05 (CI)"
+          }
+        ],
+        "prerequisites": [
+          "1103180",
+          "1107147"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "5102048",
+        "name": "MODELAGEM DE SISTEMAS CONTÍNUOS",
+        "category": "Optativa",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1101172",
+          "1103232"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "5102009",
+        "name": "ALGEBRA LINEAR COMPUTACIONAL",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "5102009",
+            "turmaid": "01",
+            "nome": " ALGEBRA LINEAR COMPUTACIONAL",
+            "semester": "2018.2",
+            "professor": "JOSE MIGUEL AROZTEGUI MASSERA",
+            "horario": "24T23",
+            "local": "CI 306 (CI)"
+          }
+        ],
+        "prerequisites": [
+          "1103179"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "5102044",
+        "name": "EQUAÇÕES DIFERENCIAIS ORDINÁRIAS APLICADAS",
+        "category": "Complementar Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "5102044",
+            "turmaid": "01",
+            "nome": " EQUAÇÕES DIFERENCIAIS ORDINÁRIAS APLICADAS",
+            "semester": "2018.2",
+            "professor": "APARECIDO JESUINO DE SOUZA",
+            "horario": "24T45",
+            "local": "CI 306 (CI)"
+          }
+        ],
+        "prerequisites": [
+          "1103226",
+          "0068"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "5102045",
+        "name": "SIMULAÇÃO COMPUTACIONAL",
+        "category": "Complementar Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "5102045",
+            "turmaid": "01",
+            "nome": " SIMULAÇÃO COMPUTACIONAL",
+            "semester": "2018.2",
+            "professor": "SERGIO DE CARVALHO BEZERRA",
+            "horario": "24M45",
+            "local": "CI 306 (CI)"
+          }
+        ],
+        "prerequisites": [
+          "5102006"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "5102046",
+        "name": "PROGRAMAÇÃO NÃO LINEAR",
+        "category": "Complementar Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "5102046",
+            "turmaid": "01",
+            "nome": " PROGRAMAÇÃO NÃO LINEAR",
+            "semester": "2018.2",
+            "professor": "FELIPE ANTONIO GARCIA MORENO",
+            "horario": "35M45",
+            "local": "CI 307 (CI)"
+          }
+        ],
+        "prerequisites": [
+          "1103232",
+          "5102007"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "5102047",
+        "name": "BANCO DE DADOS",
+        "category": "Complementar Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1107204"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDCOC0069",
+        "name": "OTIMIZAÇÃO COMBINATORIA",
+        "category": "Optativa",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "5102009"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "5102049",
+        "name": "EQUAÇÕES DIFERENCIAIS PARCIAIS  APLICADAS",
+        "category": "Complementar Obrigatória",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1103226",
+          "0068"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "5102050",
+        "name": "PROGRAMAÇÃO LINEAR INTEIRA",
+        "category": "Complementar Obrigatória",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "5102050",
+            "turmaid": "01",
+            "nome": " PROGRAMAÇÃO LINEAR INTEIRA",
+            "semester": "2018.2",
+            "professor": "LUCIDIO DOS ANJOS FORMIGA CABRAL",
+            "horario": "24M45",
+            "local": "CI 108 (CI)"
+          }
+        ],
+        "prerequisites": [
+          "5102007"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "5102052",
+        "name": "ANÁLISE NUMÉRICA",
+        "category": "Complementar Obrigatória",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "5102052",
+            "turmaid": "02",
+            "nome": " ANÁLISE NUMÉRICA",
+            "semester": "2018.2",
+            "professor": "APARECIDO JESUINO DE SOUZA",
+            "horario": "35T45",
+            "local": "CI 307 (CI)"
+          }
+        ],
+        "prerequisites": [
+          "1103176",
+          "1103258",
+          "0072"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "5102053",
+        "name": "ESTÁGIO SUPERVISIONADO I",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "150h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "5102053",
+            "turmaid": "01",
+            "nome": " MATEMÁTICA COMPUTACIONAL",
+            "semester": "2018.2",
+            "professor": "KELY DIANA VILLACORTA VILLACORTA",
+            "horario": "6M23456 6T12345",
+            "local": "SALA DI 02 (CI)"
+          }
+        ],
+        "prerequisites": [
+          "1107201"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "5102056",
+        "name": "ELEMENTOS DOS CÁLCULOS DAS VARIAÇÕES",
+        "category": "Optativa",
+        "semester": 7,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "5102049"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDCOC0070",
+        "name": "OTIMIZAÇÃO DE GRANDE PORTE",
+        "category": "Optativa",
+        "semester": 7,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDCOC0070",
+            "turmaid": "01",
+            "nome": " OTIMIZAÇÃO DE GRANDE PORTE",
+            "semester": "2018.2",
+            "professor": "JOSE MIGUEL AROZTEGUI MASSERA",
+            "horario": "35M45",
+            "local": "CI 308 (CI)"
+          }
+        ],
+        "prerequisites": [
+          "5102050"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "5102054",
+        "name": "ESTÁGIO SUPERVISIONADO II",
+        "category": "Obrigatória",
+        "semester": 7,
+        "workload": "150h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "5102054",
+            "turmaid": "01",
+            "nome": " MATEMÁTICA COMPUTACIONAL",
+            "semester": "2018.2",
+            "professor": "KELY DIANA VILLACORTA VILLACORTA",
+            "horario": "6M23456 6T12345",
+            "local": "SALA DI 03 (CI)"
+          }
+        ],
+        "prerequisites": [
+          "5102053"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "5102055",
+        "name": "SOLUÇÕES NUMERICAS EM  EQUAÇÕES DIFERENCIAIS I",
+        "category": "Complementar Obrigatória",
+        "semester": 7,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "5102055",
+            "turmaid": "01",
+            "nome": " SOLUÇÕES NUMERICAS EM  EQUAÇÕES DIFERENCIAIS I",
+            "semester": "2018.2",
+            "professor": "GUSTAVO CHARLES PEIXOTO DE OLIVEIRA",
+            "horario": "24M23",
+            "local": "CI 306 (CI)"
+          }
+        ],
+        "prerequisites": [
+          "1103258",
+          "1103176",
+          "0072"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "5102058",
+        "name": "TEORIA DO CONTROLE ÓTIMO",
+        "category": "Complementar Obrigatória",
+        "semester": 7,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "5102058",
+            "turmaid": "01",
+            "nome": " TEORIA DO CONTROLE ÓTIMO",
+            "semester": "2018.2",
+            "professor": "ANA PAULA PINTADO WYSE",
+            "horario": "24M45",
+            "local": "SALA DI 05 (CI)"
+          }
+        ],
+        "prerequisites": [
+          "5102049"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDCOC0061",
+        "name": "SOLUÇÕES NUMÉRICAS EM EQUAÇÕES DIFERENCIAIS II",
+        "category": "Complementar Obrigatória",
+        "semester": 8,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDCOC0061",
+            "turmaid": "01",
+            "nome": " SOLUÇÕES NUMÉRICAS EM EQUAÇÕES DIFERENCIAIS II",
+            "semester": "2018.2",
+            "professor": "MOISES DANTAS DOS SANTOS",
+            "horario": "24M45",
+            "local": "SALA DI 04 (CI)"
+          }
+        ],
+        "prerequisites": [
+          "5102055"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDCOC0062",
+        "name": "TRABALHO DE CONCLUSÃO DE CURSO (MATEMÁTICA COMPUTACIONAL)",
+        "category": "Complementar Obrigatória",
+        "semester": 8,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDCOC0062",
+            "turmaid": "01",
+            "nome": " TRABALHO DE CONCLUSÃO DE CURSO (MATEMÁTICA COMPUTACIONAL)",
+            "semester": "2018.2",
+            "professor": "FELIPE ANTONIO GARCIA MORENO",
+            "horario": "7M2345 (22/11/2018 - 10/05/2019)",
+            "local": "CI 304 (CI)"
+          }
+        ],
+        "prerequisites": [
+          "5102054"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1107180",
+        "name": " BANCO DE DADOS I",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": "60h",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1107180",
+            "turmaid": "01",
+            "nome": " BANCO DE DADOS I",
+            "semester": "2018.2",
+            "professor": "ALAN KELON OLIVEIRA DE MORAES",
+            "horario": "35M23",
+            "local": "CI T07 (CI)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1103226",
+        "name": " INTRODUCAO A ANALISE REAL",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": "90h",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1103226",
+            "turmaid": "01",
+            "nome": " INTRODUCAO A ANALISE REAL",
+            "semester": "2018.2",
+            "professor": "MAURICIO CARDOSO SANTOS",
+            "horario": "246M23",
+            "local": "CAB 103 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1107170",
+        "name": " TOPICOS ESPEC EM COMPUTACAO",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": "60h",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1107170",
+            "turmaid": "03",
+            "nome": " TOPICOS ESPEC EM COMPUTACAO",
+            "semester": "2018.2",
+            "professor": "JAIRO ROCHA DE FARIA",
+            "horario": "6T2345",
+            "local": "CI 104 (CI)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      }
+    ]
+  }
+}

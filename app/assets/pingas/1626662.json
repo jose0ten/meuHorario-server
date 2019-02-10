@@ -1,0 +1,1604 @@
+{
+  "curriculum": {
+    "id": "00742010",
+    "codigo": "1626662",
+    "name": "AGROECOLOGIA - CCHSA - Bananeiras - Presencial - MT - BACHARELADO",
+    "faculty": "CENTRO DE CIÊNCIAS HUMANAS SOCIAIS E AGRÁRIAS (CCHSA) (11.00.45)",
+    "minch": "255",
+    "maxch": "435",
+    "semesters": 9,
+    "courses": [
+      {
+        "id": "4101130",
+        "name": "FUNDAMENTOS SÓCIO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4101234",
+        "name": "LIBRAS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "4101234",
+            "turmaid": "02",
+            "nome": " CCHSA",
+            "semester": "2018.2",
+            "professor": "FILIPPE PAULINO SOARES",
+            "horario": "2M34 4M12",
+            "local": "BL AGROEC 02 (CCHSA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4102143",
+        "name": "TÓPICOS ESPECIAIS EMAGROECOLOGIA III",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4102149",
+        "name": "TÓPICOS ESPECIAIS EM AGROECOLOGIA   IV",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4105003",
+        "name": "FUNDAMENTOS SÓCIO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4105105",
+        "name": "FILOSOFIA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "4105105",
+            "turmaid": "01",
+            "nome": " FILOSOFIA",
+            "semester": "2018.2",
+            "professor": "EDSON BRITO GUEDES",
+            "horario": "3M34",
+            "local": "BL AGROEC 02 (CCHSA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4106003",
+        "name": "TÓPICOS ESPEM AGROECOLOGIA IV",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDCAN0003",
+        "name": "TÓPICOS ESPECIAIS EM AGROECOLOGIA III",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDCAN0003",
+            "turmaid": "01",
+            "nome": " TÓPICOS ESPECIAIS EM AGROECOLOGIA III",
+            "semester": "2018.2",
+            "professor": "ANA PATRICIA ALMEIDA BEZERRA",
+            "horario": "6M123",
+            "local": "BL AGROEC 04 (CCHSA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDPAG0015",
+        "name": "TÓPICOS ESPECIAIS  I (AGROECOLOGIA)",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDPAG0015",
+            "turmaid": "01",
+            "nome": " TÓPICOS ESPECIAIS  I (AGROECOLOGIA)",
+            "semester": "2018.2",
+            "professor": "MANOEL ALEXANDRE DINIZ NETO",
+            "horario": "5T34",
+            "local": "BL AGROEC 01 (CCHSA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDPAG0016",
+        "name": "TÓPICOS ESPECIAIS EM PRODUÇÃO AGROPECUÁRIA ( PRODUÇÃO VEGETAL )",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDPAG0019",
+        "name": "TÓPICOS ESPECIAIS EM PRODUÇÃO AGROPECUÁRIA  (BIOTECNOLOGIA)",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDPAG0051",
+        "name": "ATIVIDADE DE EXTENSÃO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "ATIVIDADE ESPECIAL",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4101228",
+        "name": "FUNDAMENTOS DE ECOLOGIA",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4101229",
+        "name": "PORTUGUÊS INSTRUMENTAL",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4101230",
+        "name": "FUNDAMENTOS DE FÍSICA AMBIENTAL",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4102122",
+        "name": "INTRODUÇÃO À PRODUÇÃO ANIMAL",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4102123",
+        "name": "INTRODUÇÃO À PRODUÇÃO VEGETAL",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4102124",
+        "name": "INTRODUÇÃO À AGROECOLOGIA",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4104210",
+        "name": "HISTÓRIA DO DESENVOLVIMENTO RURAL",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "4104210",
+            "turmaid": "01",
+            "nome": " HISTÓRIA DO DESENVOLVIMENTO RURAL",
+            "semester": "2018.2",
+            "professor": "A DEFINIR",
+            "horario": "2M45",
+            "local": "BL AGROEC 04 (CCHSA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4104215",
+        "name": "SOCIOLOGIA E ANTROPOLOGIA DA AGRICULTURA FAMILIAR",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4101231",
+        "name": "BIOQUÍMICA GERAL",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "4101231",
+            "turmaid": "01",
+            "nome": " BIOQUÍMICA GERAL",
+            "semester": "2018.2",
+            "professor": "ANABELLE CAMAROTTI DE LIMA BATISTA",
+            "horario": "4M1 3T345",
+            "local": "BL AGROEC 03 (CCHSA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4102125",
+        "name": "ANATOMIA E ECOFISIOLOGIA VEGETAL",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "4102125",
+            "turmaid": "01",
+            "nome": " ANATOMIA E ECOFISIOLOGIA VEGETAL",
+            "semester": "2018.2",
+            "professor": "GILVANEIDE ALVES DE AZEREDO",
+            "horario": "3M45 2T34",
+            "local": "BL AGROEC 05 (CCHSA)"
+          }
+        ],
+        "prerequisites": [
+          "4102123"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4103162",
+        "name": "DESENHO TÉCNICO E TOPOGRAFIA",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "4103162",
+            "turmaid": "01",
+            "nome": " DESENHO TÉCNICO E TOPOGRAFIA",
+            "semester": "2018.2",
+            "professor": "ALEXANDRE JOSE SOARES MINA",
+            "horario": "5M3 4T345",
+            "local": "BL AGROEC 04 (CCHSA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4103163",
+        "name": "FUNDAMENTOS DA AGROINDÚSTRIA FAMILIAR",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "4103163",
+            "turmaid": "01",
+            "nome": " FUNDAMENTOS DA AGROINDÚSTRIA FAMILIAR",
+            "semester": "2018.2",
+            "professor": "JULIANA ESCARIAO DA NOBREGA",
+            "horario": "6M234",
+            "local": "BL AGROEC 03 (CCHSA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4104211",
+        "name": "FUNDAMENTOS DA EDUCAÇÃO DO CAMPO",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "4104211",
+            "turmaid": "01",
+            "nome": " FUNDAMENTOS DA EDUCAÇÃO DO CAMPO",
+            "semester": "2018.2",
+            "professor": "A DEFINIR",
+            "horario": "5M45",
+            "local": "BL AGROEC 05 (CCHSA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4104212",
+        "name": "POLÍTICAS PÚBLICAS E DESENVOLVIMENTO RURAL",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "4104212",
+            "turmaid": "01",
+            "nome": " POLÍTICAS PÚBLICAS E DESENVOLVIMENTO RURAL",
+            "semester": "2018.2",
+            "professor": "KILDER BARBOSA DA SILVA",
+            "horario": "4M345",
+            "local": "BL ALCIDES 05 (CCHSA)"
+          }
+        ],
+        "prerequisites": [
+          "4104210"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4104213",
+        "name": "METODOLOGIA DO TRABALHO CIENTÍFICO E PESQUISA APLICADA EM AGROECOLOGIA",
+        "category": "Complementar Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "4104213",
+            "turmaid": "01",
+            "nome": " METODOLOGIA DO TRABALHO CIENTÍFICO E PESQUISA APLICADA EM AGROECOLOGIA",
+            "semester": "2018.2",
+            "professor": "ITALO DE SOUZA AQUINO",
+            "horario": "35M12",
+            "local": "BL AGROEC 03 (CCHSA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4104216",
+        "name": "ASSOCIATIVISMO, COOPERATIVISMO E ECONOMIA SOLIDÁRIA",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "4104216",
+            "turmaid": "01",
+            "nome": " ASSOCIATIVISMO, COOPERATIVISMO E ECONOMIA SOLIDÁRIA",
+            "semester": "2018.2",
+            "professor": "LUCAS BORCHARTT",
+            "horario": "5T45 6T34",
+            "local": "BL AGROEC 03 (CCHSA)"
+          }
+        ],
+        "prerequisites": [
+          "4104215"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4102139",
+        "name": "CARACTERIZAÇÃO E CONSERVAÇÃO DE SEMENTES DE ESPÉCIES NATIVAS",
+        "category": "Optativa",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "4102125"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4103075",
+        "name": "MICROBIOLOGIA DE PRODUTOS AGROINDUSTRIAIS",
+        "category": "Optativa",
+        "semester": 3,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "4103075",
+            "turmaid": "01",
+            "nome": " MICROBIOLOGIA DE PRODUTOS AGROINDUSTRIAIS",
+            "semester": "2018.2",
+            "professor": "ANABELLE CAMAROTTI DE LIMA BATISTA",
+            "horario": "4T23",
+            "local": "BL AGROEC 02 (CCHSA)"
+          }
+        ],
+        "prerequisites": [
+          "4101231"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4105106",
+        "name": "PSICOLOGIA DA EDUCAÇÃO",
+        "category": "Optativa",
+        "semester": 3,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "4105106",
+            "turmaid": "01",
+            "nome": " PSICOLOGIA DA EDUCAÇÃO",
+            "semester": "2018.2",
+            "professor": "JOELMA FARIAS VIEIRA DE JESUS",
+            "horario": "3T45",
+            "local": "BL AGROEC 04 (CCHSA)"
+          }
+        ],
+        "prerequisites": [
+          "4104211"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4106007",
+        "name": "VIVEIRICULTURA, JARDINAGEM E PAISAGISMO",
+        "category": "Optativa",
+        "semester": 3,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "4102125"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4101232",
+        "name": "ESTATISTICA EXPERIMENTAL",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4101233",
+        "name": "BIOCLIMATOLOGIA",
+        "category": "Complementar Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "4101230"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4102126",
+        "name": "MANEJO AGROECOLÓOGICO DE SOLOS",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "4103162"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4103164",
+        "name": "MANEJO DE AGUA NOS AGROECOSISTEMA",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "4103162"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4103165",
+        "name": "MÁQUINAS E IMPLEMENTOS AGRÍCOLAS EM SISTEMAS AGROECOLÓGICOS",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4104214",
+        "name": "FUNDAMENTOS DE ECONOMIA",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4104217",
+        "name": "METODOLOGIAS PARTICIPATIVAS E EXTENSÃO RURAL",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "4104216"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4104218",
+        "name": "LEGISLAÇÃO AGRÁRIA E FUNÇÃO SOCIAL DA TERRA",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4102133",
+        "name": "TÓPICOS ESPECIAIS EM  AGROECOLOGIA I",
+        "category": "Complementar Flexiva",
+        "semester": 4,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4102140",
+        "name": "PLANEJAMENTO E COMERCIALIZAÇÃO DE PRODUTOS AGROECOLÓGICOS",
+        "category": "Optativa",
+        "semester": 4,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "4104214"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4102127",
+        "name": "MANEJO AGROECOLÓGICO DE NUTRIENTES E NUTRIÇÃO DE PLANTAS",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "4102127",
+            "turmaid": "01",
+            "nome": " MANEJO AGROECOLÓGICO DE NUTRIENTES E NUTRIÇÃO DE PLANTAS",
+            "semester": "2018.2",
+            "professor": "RAUNIRA DA COSTA ARAUJO",
+            "horario": "5M12 3T45",
+            "local": "BL AGROEC 02 (CCHSA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4102128",
+        "name": "SISTEMA DE PRODUÇÃO AGROECOLÓGICA DE RUMINANTES",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "4102128",
+            "turmaid": "01",
+            "nome": " SISTEMA DE PRODUÇÃO AGROECOLÓGICA DE RUMINANTES",
+            "semester": "2018.2",
+            "professor": "MARCOS PAULO CARRERA MENEZES",
+            "horario": "2M45 3M34",
+            "local": "BL AGROEC 03 (CCHSA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4102129",
+        "name": "SISTEMA DE PRODUÇÃO AGROECOLÓGICA DE NÃO RUMINANTES",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "4102129",
+            "turmaid": "01",
+            "nome": " SISTEMA DE PRODUÇÃO AGROECOLÓGICA DE NÃO RUMINANTES",
+            "semester": "2018.2",
+            "professor": "LEONARDO AUGUSTO FONSECA PASCOAL e MARCELO LUIS GOMES RIBEIRO",
+            "horario": "3M12 5M34",
+            "local": "SETOR DE SUINOS (CCHSA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4102130",
+        "name": "CULTIVO AGROECDE FRUTIFERAS",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "4102130",
+            "turmaid": "02",
+            "nome": " CULTIVO AGROECDE FRUTIFERAS",
+            "semester": "2018.2",
+            "professor": "NIVANIA PEREIRA DA COSTA MENEZES",
+            "horario": "6M34 3T12",
+            "local": "BL AGROEC 02 (CCHSA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4102131",
+        "name": "CULTIVO AGROECOLÓGICO DE HORTALIÇAS",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "4102131",
+            "turmaid": "01",
+            "nome": " CULTIVO AGROECOLÓGICO DE HORTALIÇAS",
+            "semester": "2018.2",
+            "professor": "ALVARO CARLOS GONCALVES NETO",
+            "horario": "2M23 4T34",
+            "local": "BL AGROEC 05 (CCHSA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4102132",
+        "name": "MANEJO E CONSERVAÇÃO DE PASTAGENS AGROECOLÓGICAS",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "4102132",
+            "turmaid": "01",
+            "nome": " MANEJO E CONSERVAÇÃO DE PASTAGENS AGROECOLÓGICAS",
+            "semester": "2018.2",
+            "professor": "ANA PATRICIA ALMEIDA BEZERRA",
+            "horario": "45T12",
+            "local": "BL AGROEC 03 (CCHSA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4104220",
+        "name": "MOVIMENTOS SOCIAIS NO BRASIL E NA AMÉRICA LATINA",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "4104220",
+            "turmaid": "01",
+            "nome": " MOVIMENTOS SOCIAIS NO BRASIL E NA AMÉRICA LATINA",
+            "semester": "2018.2",
+            "professor": "A DEFINIR",
+            "horario": "4M345",
+            "local": "BL AGROEC 03 (CCHSA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4102134",
+        "name": "TÓPICOS ESPECIAIS EM AGROECOLOGIA II",
+        "category": "Complementar Flexiva",
+        "semester": 5,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4102138",
+        "name": "CULTIVO E PROCESSAMENTO DE PLANTAS MEDICINAIS E AROMÁTICAS",
+        "category": "Optativa",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "4102125"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDPAG0029",
+        "name": "CARACTERIZAÇÃO E CONSERVAÇÃO DE SEMENTES DE ESPÉCIES NATIVAS",
+        "category": "Optativa",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "4102125"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4102135",
+        "name": "SISTEMA DE PRODUÇÃO AGROECOLÓGICA DE ABELHAS",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4102136",
+        "name": "SISTEMA DE PRODUÇÃO AGROECOLÓGICA DE ORGANISMOS AQUÁTICOS",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4102137",
+        "name": "CONTROLE SANITÁRIO AGROECOLÓGICO DOS REBANHOS",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4104221",
+        "name": "GESTÃO FINANCEIRA DA PRODUÇÃO FAMILIAR",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "4104214",
+          "4104219"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4104222",
+        "name": "ÉTICA, LEGISLAÇÃO E GESTÃO AMBIENTAL",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4101235",
+        "name": "FONTES ALTERNATIVAS DE ENERGIA",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "4101235",
+            "turmaid": "01",
+            "nome": " FONTES ALTERNATIVAS DE ENERGIA",
+            "semester": "2018.2",
+            "professor": "PEDRO JAIME DE ALMEIDA SEVERO",
+            "horario": "6T12",
+            "local": "BL AGROEC 03 (CCHSA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4102141",
+        "name": "RECUPERAÇÃO DE ÁREAS DEGRADADAS",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "4102141",
+            "turmaid": "01",
+            "nome": " RECUPERAÇÃO DE ÁREAS DEGRADADAS",
+            "semester": "2018.2",
+            "professor": "SILVANIA MARIA DE SOUZA GOMES NASCIMENTO",
+            "horario": "26M45",
+            "local": "BL AGROEC 01 (CCHSA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4102142",
+        "name": "SISTEMAS AGROFLORESTAIS",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "4102142",
+            "turmaid": "01",
+            "nome": " SISTEMAS AGROFLORESTAIS",
+            "semester": "2018.2",
+            "professor": "ALEX DA SILVA BARBOSA",
+            "horario": "2M23 4T23",
+            "local": "BL AGROEC 01 (CCHSA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4103166",
+        "name": "SEGURANÇA ALIMENTAR E NUTRICIONAL",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "4103166",
+            "turmaid": "01",
+            "nome": " SEGURANÇA ALIMENTAR E NUTRICIONAL",
+            "semester": "2018.2",
+            "professor": "KATARYNE ARABE RIMA DE OLIVEIRA",
+            "horario": "4T45",
+            "local": "BL AGROEC 03 (CCHSA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4103167",
+        "name": "PROCESSAMENTO DE MATÉRIAS PRIMAS DE ORIGEM ANIMAL E VEGETAL",
+        "category": "Complementar Obrigatória",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "4103167",
+            "turmaid": "01",
+            "nome": " PROCESSAMENTO DE MATÉRIAS PRIMAS DE ORIGEM ANIMAL E VEGETAL",
+            "semester": "2018.2",
+            "professor": "CARLOS ROBERTO MARINHO DA SILVA FILHO",
+            "horario": "4M45 5T45",
+            "local": "BL AGROEC 04 (CCHSA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4103168",
+        "name": "ANÁLISE E CONTROLE DE QUALIDADE DE PRODUTOS AGROINDUSTRIAIS",
+        "category": "Complementar Obrigatória",
+        "semester": 6,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "4103168",
+            "turmaid": "01",
+            "nome": " ANÁLISE E CONTROLE DE QUALIDADE DE PRODUTOS AGROINDUSTRIAIS",
+            "semester": "2018.2",
+            "professor": "JULIANA ESCARIAO DA NOBREGA",
+            "horario": "3T34",
+            "local": "BL AGROEC 01 (CCHSA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4104223",
+        "name": "GESTÃO DE CADEIAS PRODUTIVAS",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "4104223",
+            "turmaid": "01",
+            "nome": " GESTÃO DE CADEIAS PRODUTIVAS",
+            "semester": "2018.2",
+            "professor": "ANA CAROLINE SALVIANO RAMOS",
+            "horario": "4M23 5T23",
+            "local": "BL AGROEC 04 (CCHSA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4103077",
+        "name": "CONSERVAÇÃO DE PRODUTOS AGROINDUSTRIAIS",
+        "category": "Optativa",
+        "semester": 7,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "4103167"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4102144",
+        "name": "GENÉTICA E MELHORAMENTO",
+        "category": "Complementar Obrigatória",
+        "semester": 7,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "4101232"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4102145",
+        "name": "MANEJO AGROECOLÓGICO DE PRAGA",
+        "category": "Obrigatória",
+        "semester": 7,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4102146",
+        "name": "GESTÃO DE BACIAS HIDROGRÁFICAS",
+        "category": "Obrigatória",
+        "semester": 7,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "4103162"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4102147",
+        "name": "AVALIAÇÃO E MANEJO DE AGROECOSSISTEMA",
+        "category": "Obrigatória",
+        "semester": 7,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4102148",
+        "name": "CULTURAS TRADICIONAIS EM SISTEMAS AGROECOLÓGICOS",
+        "category": "Obrigatória",
+        "semester": 7,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "4102125"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4103169",
+        "name": "CERTIFICAÇÃO DA PRODUÇÃO",
+        "category": "Obrigatória",
+        "semester": 7,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "4104222"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4103170",
+        "name": "ELABORAÇÃO E ANÁLISE DE PROJETOS PARA PRODUÇÃO AGROECOLÓGICA",
+        "category": "Obrigatória",
+        "semester": 7,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4106001",
+        "name": "ESTRATÉGIAS DE CONVIVÊNCIA COM O SEMIÁRIDO",
+        "category": "Obrigatória",
+        "semester": 8,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "4106001",
+            "turmaid": "01",
+            "nome": " ESTRATÉGIAS DE CONVIVÊNCIA COM O SEMIÁRIDO",
+            "semester": "2018.2",
+            "professor": "ALEXANDRE EDUARDO DE ARAUJO",
+            "horario": "5T1234",
+            "local": "BL AGROEC 02 (CCHSA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4106002",
+        "name": "ESTÁGIO SUPERVISIONADO I",
+        "category": "Obrigatória",
+        "semester": 8,
+        "workload": "150h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "4106002",
+            "turmaid": "01",
+            "nome": " AGROECOLOGIA",
+            "semester": "2018.2",
+            "professor": "IZABELA SOUZA LOPES RANGEL e MARIA JOSE ARAUJO WANDERLEY",
+            "horario": "56M23451",
+            "local": "BL ALCIDES 12 (CCHSA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4107001",
+        "name": "ETOLOGIA",
+        "category": "Complementar Obrigatória",
+        "semester": 8,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "4107001",
+            "turmaid": "01",
+            "nome": " ETOLOGIA",
+            "semester": "2018.2",
+            "professor": "MARINO EUGENIO DE ALMEIDA NETO",
+            "horario": "2M12 4M45",
+            "local": "BL AGROEC 02 (CCHSA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4107002",
+        "name": "CONSERVAÇÃO DE RECURSOS GENÉTICOS",
+        "category": "Obrigatória",
+        "semester": 8,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "4107002",
+            "turmaid": "01",
+            "nome": " CONSERVAÇÃO DE RECURSOS GENÉTICOS",
+            "semester": "2018.2",
+            "professor": "GEORGE RODRIGO BELTRAO DA CRUZ",
+            "horario": "2T123 3T1",
+            "local": "BL AGROEC 04 (CCHSA)"
+          }
+        ],
+        "prerequisites": [
+          "4102144"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4105107",
+        "name": "TRABALHO DE CONCLUSÃO DE CURSO",
+        "category": "Complementar Obrigatória",
+        "semester": 9,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4106004",
+        "name": "ESTÁGIO SUPERVISIONADO II",
+        "category": "Obrigatória",
+        "semester": 9,
+        "workload": "150h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      }
+    ]
+  }
+}

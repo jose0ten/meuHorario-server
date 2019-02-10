@@ -1,0 +1,4323 @@
+{
+  "curriculum": {
+    "id": "0282007",
+    "codigo": "1626795",
+    "name": "MEDICINA - João Pessoa - Presencial - MT - OUTRO TIPO DE GRAU ACADÊMICO",
+    "faculty": "CENTRO DE CIENCIAS MEDICAS (CCM) (11.00.60)",
+    "minch": "32",
+    "maxch": "704",
+    "semesters": 12,
+    "courses": [
+      {
+        "id": "1107244",
+        "name": "MCOP2INFORMATICA APLICADA A SAUDE I",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "30h aula 0h lab.",
+        "type": "MODULO",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1107245",
+        "name": "MCOP3 INFORMATICA APLICADA A SAUDE II",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "30h aula 0h lab.",
+        "type": "MODULO",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1403747",
+        "name": "LIBRAS  LÍNGUA BRASILEIRA DE SINAIS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1611189",
+        "name": "MCOP2 FITOTERAPIA II",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "32h aula 0h lab.",
+        "type": "MODULO",
+        "turmas": [
+          {
+            "id": "1611189",
+            "turmaid": "01",
+            "nome": " MCOP2 FITOTERAPIA II",
+            "semester": "2018.2",
+            "professor": "MARIA DO SOCORRO SOUSA e DANIELLY ALBUQUERQUE DA COSTA",
+            "horario": "6T12 (22/11/2018 - 10/05/2019)",
+            "local": "NEPHF (CCS)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1611190",
+        "name": "MCOP3 FUNDAMENTOS DE ACUPUNTURA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "32h aula 0h lab.",
+        "type": "MODULO",
+        "turmas": [
+          {
+            "id": "1611190",
+            "turmaid": "01",
+            "nome": " MCOP3 FUNDAMENTOS DE ACUPUNTURA",
+            "semester": "2018.2",
+            "professor": "CLIMERIO AVELINO DE FIGUEIREDO",
+            "horario": "4T12 (22/11/2018 - 10/05/2019)",
+            "local": "NEPHF 2 (CCS)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1611191",
+        "name": "MCOP3 MOD INTEG MEC INTERM ENTRE O NP",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "32h aula 0h lab.",
+        "type": "MODULO",
+        "turmas": [
+          {
+            "id": "1611191",
+            "turmaid": "01",
+            "nome": " MCOP3 MOD INTEG MEC INTERM ENTRE O NP",
+            "semester": "2018.2",
+            "professor": "BRUNO HENRIQUE ANDRADE GALVAO",
+            "horario": "4T12 (22/11/2018 - 10/05/2019)",
+            "local": "CCM GERAL 1 2º ANDAR (CCM)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1801125",
+        "name": "MOCP4 MOD INTEG EM CLINICA CIRURGICA IV",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "32h aula 0h lab.",
+        "type": "MODULO",
+        "turmas": [
+          {
+            "id": "1801125",
+            "turmaid": "01",
+            "nome": " MOCP4 MOD INTEG EM CLINICA CIRURGICA IV",
+            "semester": "2018.2",
+            "professor": "RICELLA MARIA SOUZA DA SILVA e ALEXANDRE ROLIM DA PAZ",
+            "horario": "2T45 (22/11/2018 - 10/05/2019)",
+            "local": "CCM P1 - 2º ANDAR (CCM)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1801126",
+        "name": "MOCP5 MOD INTEG EM CLINICA CIRURGICA  V",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "32h aula 0h lab.",
+        "type": "MODULO",
+        "turmas": [
+          {
+            "id": "1801126",
+            "turmaid": "01",
+            "nome": " MOCP5 MOD INTEG EM CLINICA CIRURGICA  V",
+            "semester": "2018.2",
+            "professor": "SERGIO AUGUSTO PENAZZI JUNIOR e THIAGO HENRIQUE DE ARAUJO LINO",
+            "horario": "5T12 (22/11/2018 - 10/05/2019)",
+            "local": "CCM GERAL 2 2º ANDAR (CCM)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1801127",
+        "name": "MOCP6 MOD INTEG EM CLINICA CIRURGICA  VI",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "32h aula 0h lab.",
+        "type": "MODULO",
+        "turmas": [
+          {
+            "id": "1801127",
+            "turmaid": "01",
+            "nome": " MOCP6 MOD INTEG EM CLINICA CIRURGICA  VI",
+            "semester": "2018.2",
+            "professor": "RICELLA MARIA SOUZA DA SILVA e ALEXANDRE ROLIM DA PAZ",
+            "horario": "4M45 (22/11/2018 - 10/05/2019)",
+            "local": "CCM GERAL 1 2º ANDAR (CCM)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1801128",
+        "name": "MOCP7 MOD INTEG EM CLINICA CIRURGICA VII",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "32h aula 0h lab.",
+        "type": "MODULO",
+        "turmas": [
+          {
+            "id": "1801128",
+            "turmaid": "01",
+            "nome": " MOCP7 MOD INTEG EM CLINICA CIRURGICA VII",
+            "semester": "2018.2",
+            "professor": "MARCIA ADRIANA DIAS MEIRELLES MOREIRA e GUALTER LISBOA RAMALHO",
+            "horario": "4T34 (22/11/2018 - 10/05/2019)",
+            "local": "CCM GERAL 3 2º ANDAR (CCM)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1801129",
+        "name": "MOCP8 MOD INTEG EM CLINICA CIRURG VIII",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "32h aula 0h lab.",
+        "type": "MODULO",
+        "turmas": [
+          {
+            "id": "1801129",
+            "turmaid": "02",
+            "nome": " MOCP8 MOD INTEG EM CLINICA CIRURG VIII",
+            "semester": "2018.2",
+            "professor": "THIAGO LINS DA COSTA ALMEIDA, MARCELO GONCALVES SOUSA, ALEXANDRE ROLIM DA PAZ, RICELLA MARIA SOUZA DA SILVA, LUIS FABIO BARBOSA BOTELHO e EDUARDO GOMES DE MELO",
+            "horario": "4M12 (22/11/2018 - 10/05/2019)",
+            "local": "CCM APOIO 1 (CCM)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1801130",
+        "name": "MCF6 TOPICOS DE FORMACAO GERAL VI",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "21h aula 0h lab.",
+        "type": "MODULO",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1802147",
+        "name": "MCOP4 MODULO INTEG CLINICA MEDICA IV",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "32h aula 0h lab.",
+        "type": "MODULO",
+        "turmas": [
+          {
+            "id": "1802147",
+            "turmaid": "01",
+            "nome": " MCOP4 MODULO INTEG CLINICA MEDICA IV",
+            "semester": "2018.2",
+            "professor": "NADJA DE AZEVEDO CORREIA",
+            "horario": "4M12 (22/11/2018 - 10/05/2019)",
+            "local": "CCM GERAL 1 2º ANDAR (CCM)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1802148",
+        "name": "MCOP5 HEPATOLOGIA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "32h aula 0h lab.",
+        "type": "MODULO",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1802149",
+        "name": "MCOP5 MODULO INTEG CLINICA MEDICA V",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "32h aula 0h lab.",
+        "type": "MODULO",
+        "turmas": [
+          {
+            "id": "1802149",
+            "turmaid": "01",
+            "nome": " MCOP5 MODULO INTEG CLINICA MEDICA V",
+            "semester": "2018.2",
+            "professor": "SEVERINO AIRES DE ARAUJO NETO",
+            "horario": "3T12 (22/11/2018 - 10/05/2019)",
+            "local": "CCM GERAL 3 2º ANDAR (CCM)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1802150",
+        "name": "MCOP6 METODOS DIAGNOSTICOS EM CARDIOLOG",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "32h aula 0h lab.",
+        "type": "MODULO",
+        "turmas": [
+          {
+            "id": "1802150",
+            "turmaid": "01",
+            "nome": " MCOP6 METODOS DIAGNOSTICOS EM CARDIOLOG",
+            "semester": "2018.2",
+            "professor": "ARISTIDES MEDEIROS LEITE, FATIMA ELIZABETH FONSECA DE OLIVEIRA NEGRI e MARCO ANTONIO DE VIVO BARROS",
+            "horario": "4T12 (22/11/2018 - 10/05/2019)",
+            "local": "CCM P7A 2º ANDAR (CCM)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1802151",
+        "name": "MCOP6METOD INTEG CLINICA MEDICA VI",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "32h aula 0h lab.",
+        "type": "MODULO",
+        "turmas": [
+          {
+            "id": "1802151",
+            "turmaid": "01",
+            "nome": " MCOP6METOD INTEG CLINICA MEDICA VI",
+            "semester": "2018.2",
+            "professor": "MAISA FREIRE CARTAXO PIRES DE SA",
+            "horario": "5T12 (22/11/2018 - 10/05/2019)",
+            "local": "CCM GERAL 1 2º ANDAR (CCM)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1802152",
+        "name": "MCOP7NUTRICAO CLINICA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "32h aula 0h lab.",
+        "type": "MODULO",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1802153",
+        "name": "MCOP7MODULO INTEG CLINICA MEDICA VII",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "32h aula 0h lab.",
+        "type": "MODULO",
+        "turmas": [
+          {
+            "id": "1802153",
+            "turmaid": "01",
+            "nome": " MCOP7MODULO INTEG CLINICA MEDICA VII",
+            "semester": "2018.2",
+            "professor": "ARISTIDES MEDEIROS LEITE, MANUELLA DE SOUSA TOLEDO MATIAS, JOSE EYMARD MORAES DE MEDEIROS FILHO e LUIS FABIO BARBOSA BOTELHO",
+            "horario": "4M34 (22/11/2018 - 10/05/2019)",
+            "local": "CCM P8A 2º ANDAR (CCM)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1802154",
+        "name": "MCOP8TRANSTORNO EM ALIMENTACAO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "32h aula 0h lab.",
+        "type": "MODULO",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1802155",
+        "name": "MCOP8FISIATRIA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "32h aula 0h lab.",
+        "type": "MODULO",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1802156",
+        "name": "MCOP8MODULO INTEG CLINICA MEDICA VIII",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "32h aula 0h lab.",
+        "type": "MODULO",
+        "turmas": [
+          {
+            "id": "1802156",
+            "turmaid": "01",
+            "nome": " MCOP8MODULO INTEG CLINICA MEDICA VIII",
+            "semester": "2018.2",
+            "professor": "RICARDO JORGE MENEZES DE LUCENA",
+            "horario": "2T12 (22/11/2018 - 10/05/2019)",
+            "local": "CCM P2 2º ANDAR (CCM)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1802157",
+        "name": "MCF3TOPICOS DE FORMACAO GERAL III",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "22h aula 0h lab.",
+        "type": "MODULO",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1802158",
+        "name": "MCF4TOPICOS DE FORMACAO GERAL IV",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "22h aula 0h lab.",
+        "type": "MODULO",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1803109",
+        "name": "MCOP4MOD INTEG OBST E GINECOLOGIA IV",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "32h aula 0h lab.",
+        "type": "MODULO",
+        "turmas": [
+          {
+            "id": "1803109",
+            "turmaid": "01",
+            "nome": " MCOP4MOD INTEG OBST E GINECOLOGIA IV",
+            "semester": "2018.2",
+            "professor": "Lourenço de Miranda Freire Neto",
+            "horario": "6T12 (22/11/2018 - 10/05/2019)",
+            "local": "CCM P3 2º ANDAR (CCM)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1803110",
+        "name": "MCOP5MOD INTEG OBST E GINECOLOGIA V",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "32h aula 0h lab.",
+        "type": "MODULO",
+        "turmas": [
+          {
+            "id": "1803110",
+            "turmaid": "01",
+            "nome": " MCOP5MOD INTEG OBST E GINECOLOGIA V",
+            "semester": "2018.2",
+            "professor": "CRISTINA WIDE PISSETTI",
+            "horario": "4T34 (22/11/2018 - 10/05/2019)",
+            "local": "CCM P7A 2º ANDAR (CCM)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1803111",
+        "name": "MCOP6MEDICINA FETAL",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "32h aula 0h lab.",
+        "type": "MODULO",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1803112",
+        "name": "MCOP6TRANSTORNOS ENDOCRINOS NA GESTACAO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "32h aula 0h lab.",
+        "type": "MODULO",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1803113",
+        "name": "MCOP6DOENCAS DA MAMA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "32h aula 0h lab.",
+        "type": "MODULO",
+        "turmas": [
+          {
+            "id": "1803113",
+            "turmaid": "01",
+            "nome": " MCOP6DOENCAS DA MAMA",
+            "semester": "2018.2",
+            "professor": "ADRIANA DE FREITAS TORRES, EDUARDO HENRIQUE DE MOURA RAMOS, MARCOS AURELIO FONSECA MAGALHAES e LUCIA SARMENTO DE OLIVEIRA DE FIGUEIREDO",
+            "horario": "5T12 (22/11/2018 - 10/05/2019)",
+            "local": "CCM P6A 2º ANDAR (CCM)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1803114",
+        "name": "MCOP6MOD INTEG OBSTETRICIA GINECOL VI",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "32h aula 0h lab.",
+        "type": "MODULO",
+        "turmas": [
+          {
+            "id": "1803114",
+            "turmaid": "01",
+            "nome": " MCOP6MOD INTEG OBSTETRICIA GINECOL VI",
+            "semester": "2018.2",
+            "professor": "MARCOS AURELIO FONSECA MAGALHAES",
+            "horario": "5T34 (22/11/2018 - 10/05/2019)",
+            "local": "CCM P6A 2º ANDAR (CCM)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1803115",
+        "name": "MCOP7MOD INTEG OBSTETRICIA GINECOL VII",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "32h aula 0h lab.",
+        "type": "MODULO",
+        "turmas": [
+          {
+            "id": "1803115",
+            "turmaid": "01",
+            "nome": " MCOP7MOD INTEG OBSTETRICIA GINECOL VII",
+            "semester": "2018.2",
+            "professor": "Lourenço de Miranda Freire Neto",
+            "horario": "4T23 (22/11/2018 - 10/05/2019)",
+            "local": "CCM P2 2º ANDAR (CCM)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1803116",
+        "name": "MCOP8MOD INTEG OBSTETRICIA GINECOL VIII",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "32h aula 0h lab.",
+        "type": "MODULO",
+        "turmas": [
+          {
+            "id": "1803116",
+            "turmaid": "01",
+            "nome": " MCOP8MOD INTEG OBSTETRICIA GINECOL VIII",
+            "semester": "2018.2",
+            "professor": "Lourenço de Miranda Freire Neto",
+            "horario": "4T45 (22/11/2018 - 10/05/2019)",
+            "local": "CCM P2 2º ANDAR (CCM)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1803117",
+        "name": "MCF5TOPICOS DE FORMACAO GERAL V",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "21h aula 0h lab.",
+        "type": "MODULO",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1804110",
+        "name": "MCOP4 DOENCAS GENETICAS PREVALENTES",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "32h aula 0h lab.",
+        "type": "MODULO",
+        "turmas": [
+          {
+            "id": "1804110",
+            "turmaid": "01",
+            "nome": " MCOP4 DOENCAS GENETICAS PREVALENTES",
+            "semester": "2018.2",
+            "professor": "A DEFINIR",
+            "horario": "3T12 (22/11/2018 - 10/05/2019)",
+            "local": "CCMP5A 2º ANDAR (CCM)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1804111",
+        "name": "MCOP4 MOD INTEG EM PEDIATRIA ADOLESC IV",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "32h aula 0h lab.",
+        "type": "MODULO",
+        "turmas": [
+          {
+            "id": "1804111",
+            "turmaid": "01",
+            "nome": " MCOP4 MOD INTEG EM PEDIATRIA ADOLESC IV",
+            "semester": "2018.2",
+            "professor": "ANA CLAUDIA SOARES PENAZZI",
+            "horario": "4T34 (22/11/2018 - 10/05/2019)",
+            "local": "CCM P8A 2º ANDAR (CCM)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1804112",
+        "name": "MCOP5 MOD INTEG EM PEDIATRIA ADOLESC V",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "32h aula 0h lab.",
+        "type": "MODULO",
+        "turmas": [
+          {
+            "id": "1804112",
+            "turmaid": "01",
+            "nome": " MCOP5 MOD INTEG EM PEDIATRIA ADOLESC V",
+            "semester": "2018.2",
+            "professor": "JULIO CAVALCANTI DE OLIVEIRA",
+            "horario": "5T12 (22/11/2018 - 10/05/2019)",
+            "local": "CCM P7A 2º ANDAR (CCM)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1804113",
+        "name": "MCOP6 MOD INTEG EM PEDIATRIA ADOLESC VI",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "32h aula 0h lab.",
+        "type": "MODULO",
+        "turmas": [
+          {
+            "id": "1804113",
+            "turmaid": "01",
+            "nome": " MCOP6 MOD INTEG EM PEDIATRIA ADOLESC VI",
+            "semester": "2018.2",
+            "professor": "VALDEREZ ARAUJO DE LIMA RAMOS",
+            "horario": "2T12 (22/11/2018 - 10/05/2019)",
+            "local": "CCM P6B 2º ANDAR (CCM)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1804114",
+        "name": "MCOP7 MOD INTEG EM PEDIATRIA ADOLESC VII",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "32h aula 0h lab.",
+        "type": "MODULO",
+        "turmas": [
+          {
+            "id": "1804114",
+            "turmaid": "01",
+            "nome": " MCOP7 MOD INTEG EM PEDIATRIA ADOLESC VII",
+            "semester": "2018.2",
+            "professor": "VERIANA MARCIA DA NOBREGA",
+            "horario": "4T12 (22/11/2018 - 10/05/2019)",
+            "local": "CCM GERAL 3 2º ANDAR (CCM)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1804115",
+        "name": "MCOP8 MOD INTEG EM PEDIAT ADOLESC VIII",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "32h aula 0h lab.",
+        "type": "MODULO",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1804116",
+        "name": "MCF2 TOPICOS DE FORMACAO GERAL II",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "21h aula 0h lab.",
+        "type": "MODULO",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1805126",
+        "name": "MCOP3 EPIDERMIOLOGIA SERV DE SAUDE",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "32h aula 0h lab.",
+        "type": "MODULO",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1805127",
+        "name": "MCOP4 SAUDE DO TRABALHADOR",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "32h aula 0h lab.",
+        "type": "MODULO",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1805128",
+        "name": "MCOP4 MOD INTERG SAUDE COLETIVA IV",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "32h aula 0h lab.",
+        "type": "MODULO",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1805130",
+        "name": "MCOP5 MOD INTERG SAUDE COLETIVA  V",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "32h aula 0h lab.",
+        "type": "MODULO",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1805131",
+        "name": "MCOP6 MOD INTERG SAUDE COLETIVA VI",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "32h aula 0h lab.",
+        "type": "ESTÁGIO",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1805132",
+        "name": "MCOP7 MOD INTERG SAUDE COLETIVA VII",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "32h aula 0h lab.",
+        "type": "MODULO",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1805133",
+        "name": "MCOP8 MOD INTERG SAUDE COLETIVA VIII",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "32h aula 0h lab.",
+        "type": "MODULO",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1805134",
+        "name": "MCF1 TOPICOS DE FORMACAO GERAL I",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "32h aula 0h lab.",
+        "type": "MODULO",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1805138",
+        "name": "MCOP2INFORMATICA APLICADA A SAUDE I",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "32h aula 0h lab.",
+        "type": "MODULO",
+        "turmas": [
+          {
+            "id": "GDPOG0018",
+            "turmaid": "01",
+            "nome": " INFORMÁTICA APLICADA À SAÚDE I",
+            "semester": "2018.2",
+            "professor": "CRISTINA WIDE PISSETTI",
+            "horario": "2M23 (22/11/2018 - 10/05/2019)",
+            "local": "LAB-INFO3 (CCM)"
+          },
+          {
+            "id": "GDPOG0018",
+            "turmaid": "02",
+            "nome": " INFORMÁTICA APLICADA À SAÚDE I",
+            "semester": "2018.2",
+            "professor": "CRISTINA WIDE PISSETTI",
+            "horario": "2M45 (22/11/2018 - 10/05/2019)",
+            "local": "LAB-INFO3 (CCM)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+          "GDPOG0018"
+        ]
+      },
+      {
+        "id": "1805139",
+        "name": "MCOP3 INFORMATICA APLICADA A SAUDE II",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "32h aula 0h lab.",
+        "type": "MODULO",
+        "turmas": [
+          {
+            "id": "GDPOG0019",
+            "turmaid": "01",
+            "nome": " INFORMÁTICA APLICADA À SAÚDE II",
+            "semester": "2018.2",
+            "professor": "CRISTINA WIDE PISSETTI",
+            "horario": "4M45 (22/11/2018 - 10/05/2019)",
+            "local": "LAB-INFO3 (CCM)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+          "GDPOG0019"
+        ]
+      },
+      {
+        "id": "GDLS0024",
+        "name": "LIBRAS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1611182",
+        "name": "MCOP1  FITOTERAPIA I",
+        "category": "Optativa",
+        "semester": 1,
+        "workload": "32h aula 0h lab.",
+        "type": "MODULO",
+        "turmas": [
+          {
+            "id": "1611182",
+            "turmaid": "01",
+            "nome": " MCOP1  FITOTERAPIA I",
+            "semester": "2018.2",
+            "professor": "CLIMERIO AVELINO DE FIGUEIREDO",
+            "horario": "4M45 (22/11/2018 - 10/05/2019)",
+            "local": "NEPHF 2 (CCS)"
+          },
+          {
+            "id": "1611182",
+            "turmaid": "02",
+            "nome": " MCOP1  FITOTERAPIA I",
+            "semester": "2018.2",
+            "professor": "MARIA DO SOCORRO SOUSA e CLIMERIO AVELINO DE FIGUEIREDO",
+            "horario": "4M23 (22/11/2018 - 10/05/2019)",
+            "local": "NEPHF 2 (CCS)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1805113",
+        "name": "MCOP1ESPIRITUALIDADE E SAUDE",
+        "category": "Optativa",
+        "semester": 1,
+        "workload": "32h aula 0h lab.",
+        "type": "MODULO",
+        "turmas": [
+          {
+            "id": "1805113",
+            "turmaid": "01",
+            "nome": " MCOP1ESPIRITUALIDADE E SAUDE",
+            "semester": "2018.2",
+            "professor": "ALDENILDO ARAUJO DE MORAES FERNANDES COSTEIRA",
+            "horario": "4T45 (22/11/2018 - 10/05/2019)",
+            "local": "CCM P1 - 2º ANDAR (CCM)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1104210",
+        "name": "MIV6  NUTRICAO E METABOLISMO",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "48h aula 0h lab.",
+        "type": "MODULO",
+        "turmas": [
+          {
+            "id": "1104210",
+            "turmaid": "01",
+            "nome": " MIV6  NUTRICAO E METABOLISMO",
+            "semester": "2018.2",
+            "professor": "FLADMIR DE SOUSA CLAUDINO",
+            "horario": "356M1234 356T1234 (15/02/2019 - 28/02/2019)",
+            "local": "CCM P1 - 2º ANDAR (CCM)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1104211",
+        "name": "MIV5  A CELULADA MOL A ORG DOS TECIDOS",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "62h aula 10h lab.",
+        "type": "MODULO",
+        "turmas": [
+          {
+            "id": "1104211",
+            "turmaid": "01A",
+            "nome": " MIV5  A CELULADA MOL A ORG DOS TECIDOS",
+            "semester": "2018.2",
+            "professor": "HILZETH DE LUNA FREIRE PESSÔA, ANDRESSA FEITOSA BEZERRA DE OLIVEIRA, PATRICIA MIRELLA DA SILVA SCARDUA, IDELTONIO JOSE FEITOSA BARBOSA, FLADMIR DE SOUSA CLAUDINO, TATIANA FARIA MACEDO BEZERRA e ANA MARIA BARROS CHAVES PEREIRA",
+            "horario": "356M1234 356T1234 (13/12/2018 - 14/12/2018), 356M1234 356T1234 (31/01/2019 - 14/02/2019)",
+            "local": "CCM P1 - 2º ANDAR (CCM) / CCM P1 - 2º ANDAR (CCM)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1610175",
+        "name": "MIV9  SIST DE SUSTENTACAO E MOVIMENTO",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "72h aula 0h lab.",
+        "type": "MODULO",
+        "turmas": [
+          {
+            "id": "1610175",
+            "turmaid": "01",
+            "nome": " MIV9  SIST DE SUSTENTACAO E MOVIMENTO",
+            "semester": "2018.2",
+            "professor": "CAMILLE DE MOURA BALARINI, EULAMPIO JOSE DA SILVA NETO, ANA MARIA BARROS CHAVES PEREIRA e ANTONIO DE PADUA SILVEIRA",
+            "horario": "356M1234 356T1234 (01/03/2019 - 22/03/2019)",
+            "local": "CCM P1 - 2º ANDAR (CCM)"
+          },
+          {
+            "id": "1610175",
+            "turmaid": "02",
+            "nome": " MIV9  SIST DE SUSTENTACAO E MOVIMENTO",
+            "semester": "2018.2",
+            "professor": "ANDRESSA FEITOSA BEZERRA DE OLIVEIRA, EULAMPIO JOSE DA SILVA NETO, TATIANA FARIA MACEDO BEZERRA, ANTONIO DE PADUA SILVEIRA e REINALDO NOBREGA DE ALMEIDA",
+            "horario": "356M1234 356T1234 (01/03/2019 - 22/03/2019)",
+            "local": "CCS/LAB401 (CCS)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1610197",
+        "name": "MIV7  SISTEMA NERVOSO",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "72h aula 0h lab.",
+        "type": "MODULO",
+        "turmas": [
+          {
+            "id": "1610197",
+            "turmaid": "01",
+            "nome": " MIV7  SISTEMA NERVOSO",
+            "semester": "2018.2",
+            "professor": "ANDRESSA FEITOSA BEZERRA DE OLIVEIRA, CAMILLE DE MOURA BALARINI, FRANCISCO RUIDOMAR PEREIRA, ANDRE DE SA BRAGA OLIVEIRA e ANTONIO DE PADUA SILVEIRA",
+            "horario": "356M1234 356T1234 (26/03/2019 - 12/04/2019)",
+            "local": "CCM P1 - 2º ANDAR (CCM)"
+          },
+          {
+            "id": "1610197",
+            "turmaid": "02",
+            "nome": " MIV7  SISTEMA NERVOSO",
+            "semester": "2018.2",
+            "professor": "ANDRESSA FEITOSA BEZERRA DE OLIVEIRA, ANDRE DE SA BRAGA OLIVEIRA, TATIANA FARIA MACEDO BEZERRA, ANA MARIA BARROS CHAVES PEREIRA, ANTONIO DE PADUA SILVEIRA e REINALDO NOBREGA DE ALMEIDA",
+            "horario": "356M1234 356T1234 (26/03/2019 - 12/04/2019)",
+            "local": "CCM APOIO 1 (CCM)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1610198",
+        "name": "MIV8  SISTEMA SENSORIAL",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "48h aula 0h lab.",
+        "type": "MODULO",
+        "turmas": [
+          {
+            "id": "1610198",
+            "turmaid": "01",
+            "nome": " MIV8  SISTEMA SENSORIAL",
+            "semester": "2018.2",
+            "professor": "CAMILLE DE MOURA BALARINI, FRANCISCO RUIDOMAR PEREIRA, GICIANE CARVALHO VIEIRA, ANDRE DE SA BRAGA OLIVEIRA e ANTONIO DE PADUA SILVEIRA",
+            "horario": "356M1234 356T1234 (16/04/2019 - 02/05/2019)",
+            "local": "CCM P1 - 2º ANDAR (CCM)"
+          },
+          {
+            "id": "1610198",
+            "turmaid": "02",
+            "nome": " MIV8  SISTEMA SENSORIAL",
+            "semester": "2018.2",
+            "professor": "FRANCISCO RUIDOMAR PEREIRA, GICIANE CARVALHO VIEIRA, ANDRE DE SA BRAGA OLIVEIRA, ANTONIO DE PADUA SILVEIRA e REINALDO NOBREGA DE ALMEIDA",
+            "horario": "356M1234 356T1234 (16/04/2019 - 02/05/2019)",
+            "local": "CCS/LAB (CCS)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1802100",
+        "name": "MHB1FORMACAO MEDICA",
+        "category": "Complementar Obrigatória",
+        "semester": 1,
+        "workload": "32h aula 0h lab.",
+        "type": "MODULO",
+        "turmas": [
+          {
+            "id": "1802100",
+            "turmaid": "01",
+            "nome": " MHB1FORMACAO MEDICA",
+            "semester": "2018.2",
+            "professor": "MAISA FREIRE CARTAXO PIRES DE SA e ESTACIO AMARO DA SILVA JUNIOR",
+            "horario": "4M23 (22/11/2018 - 10/05/2019)",
+            "local": "CCM P1 - 2º ANDAR (CCM)"
+          },
+          {
+            "id": "1802100",
+            "turmaid": "02",
+            "nome": " MHB1FORMACAO MEDICA",
+            "semester": "2018.2",
+            "professor": "MAISA FREIRE CARTAXO PIRES DE SA e ESTACIO AMARO DA SILVA JUNIOR",
+            "horario": "4M45 (22/11/2018 - 10/05/2019)",
+            "local": "CCM P1 - 2º ANDAR (CCM)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1804100",
+        "name": "MCO1METODOLOGIA DO TRABALHO CIENTIFICO",
+        "category": "Complementar Obrigatória",
+        "semester": 1,
+        "workload": "32h aula 0h lab.",
+        "type": "MODULO",
+        "turmas": [
+          {
+            "id": "1804100",
+            "turmaid": "01",
+            "nome": " MCO1METODOLOGIA DO TRABALHO CIENTIFICO",
+            "semester": "2018.2",
+            "professor": "AGANEIDE CASTILHO PALITOT",
+            "horario": "2M45 (22/11/2018 - 10/05/2019)",
+            "local": "CCM P3 2º ANDAR (CCM)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1804117",
+        "name": "MIV4  ONTOGENESE E FILOG DO SER HUMANO",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "24h aula 0h lab.",
+        "type": "MODULO",
+        "turmas": [
+          {
+            "id": "1804117",
+            "turmaid": "01",
+            "nome": " MIV4  ONTOGENESE E FILOG DO SER HUMANO",
+            "semester": "2018.2",
+            "professor": "JOACILDA DA CONCEICAO NUNES",
+            "horario": "356M1234 (29/11/2018 - 11/12/2018)",
+            "local": "CCM P1 - 2º ANDAR (CCM)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1805100",
+        "name": "MIV2SAUDE COLETIVA",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "12h aula 0h lab.",
+        "type": "MODULO",
+        "turmas": [
+          {
+            "id": "1805100",
+            "turmaid": "01",
+            "nome": " MIV2SAUDE COLETIVA",
+            "semester": "2018.2",
+            "professor": "WLADIMIR NUNES PINHEIRO",
+            "horario": "356T2345 (22/11/2018 - 27/11/2018)",
+            "local": "CCM P1 - 2º ANDAR (CCM)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1805101",
+        "name": "MIV3O HOMEM COMO SER SOCIAL",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "24h aula 0h lab.",
+        "type": "MODULO",
+        "turmas": [
+          {
+            "id": "1805101",
+            "turmaid": "01",
+            "nome": " MIV3O HOMEM COMO SER SOCIAL",
+            "semester": "2018.2",
+            "professor": "WLADIMIR NUNES PINHEIRO",
+            "horario": "356T2345 (29/11/2018 - 11/12/2018)",
+            "local": "CCM P1 - 2º ANDAR (CCM)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1805102",
+        "name": "MHA1SAUDE DA COMUNIDADE",
+        "category": "Complementar Obrigatória",
+        "semester": 1,
+        "workload": "96h aula 0h lab.",
+        "type": "MODULO",
+        "turmas": [
+          {
+            "id": "1805102",
+            "turmaid": "01",
+            "nome": " MHA1SAUDE DA COMUNIDADE",
+            "semester": "2018.2",
+            "professor": "ANDRE PETRAGLIA SASSI",
+            "horario": "2M2345 2T23 (03/12/2018 - 10/05/2019)",
+            "local": "CCM P1 - 2º ANDAR (CCM) / USF 1 (CCM)"
+          },
+          {
+            "id": "1805102",
+            "turmaid": "02",
+            "nome": " MHA1SAUDE DA COMUNIDADE",
+            "semester": "2018.2",
+            "professor": "WLADIMIR NUNES PINHEIRO",
+            "horario": "2M2345 2T23 (03/12/2018 - 10/05/2019)",
+            "local": "CCM APOIO 1 (CCM) / USF 2 (CCM)"
+          },
+          {
+            "id": "1805102",
+            "turmaid": "03",
+            "nome": " MHA1SAUDE DA COMUNIDADE",
+            "semester": "2018.2",
+            "professor": "PEDRO JOSÉ SANTOS CARNEIRO CRUZ",
+            "horario": "2M2345 2T23 (03/12/2018 - 10/05/2019)",
+            "local": "CCM APOIO 2 (CCM) / USF 3 (CCM)"
+          },
+          {
+            "id": "1805102",
+            "turmaid": "04",
+            "nome": " MHA1SAUDE DA COMUNIDADE",
+            "semester": "2018.2",
+            "professor": "MARIA DO SOCORRO TRINDADE MORAIS",
+            "horario": "2M2345 2T23 (03/12/2018 - 10/05/2019)",
+            "local": "USF 4 (CCM) / CCM APOIO 4 (CCM)"
+          },
+          {
+            "id": "1805102",
+            "turmaid": "05",
+            "nome": " MHA1SAUDE DA COMUNIDADE",
+            "semester": "2018.2",
+            "professor": "ANDRE LUIS BONIFACIO DE CARVALHO",
+            "horario": "2M2345 2T23 (03/12/2018 - 10/05/2019)",
+            "local": "CCMP5A 2º ANDAR (CCM) / USF 5 (CCM)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1805103",
+        "name": "MIV1ACOLHIMENTO AO ESTUDANTE",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "12h aula 0h lab.",
+        "type": "MODULO",
+        "turmas": [
+          {
+            "id": "1805103",
+            "turmaid": "01",
+            "nome": " MIV1ACOLHIMENTO AO ESTUDANTE",
+            "semester": "2018.2",
+            "professor": "VIRGINIA ANGELA MENEZES DE LUCENA E CARVALHO",
+            "horario": "256M2345 (22/11/2018 - 26/11/2018)",
+            "local": "CCM P1 - 2º ANDAR (CCM)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1611183",
+        "name": "MCOP2  HOMEOPATIA",
+        "category": "Optativa",
+        "semester": 2,
+        "workload": "32h aula 0h lab.",
+        "type": "MODULO",
+        "turmas": [
+          {
+            "id": "1611183",
+            "turmaid": "02",
+            "nome": " MCOP2  HOMEOPATIA",
+            "semester": "2018.2",
+            "professor": "MARIA DO SOCORRO SOUSA",
+            "horario": "4T45 (22/11/2018 - 10/05/2019)",
+            "local": "NEPHF (CCS)"
+          },
+          {
+            "id": "1611183",
+            "turmaid": "03",
+            "nome": " MCOP2  HOMEOPATIA",
+            "semester": "2018.2",
+            "professor": "CLIMERIO AVELINO DE FIGUEIREDO",
+            "horario": "4T45 (22/11/2018 - 10/05/2019)",
+            "local": "NEPHF 2 (CCS)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1611184",
+        "name": "MIV11  SISTEMA CARDIOVASCULAR",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "96h aula 0h lab.",
+        "type": "MODULO",
+        "turmas": [
+          {
+            "id": "1611184",
+            "turmaid": "01",
+            "nome": " MIV11  SISTEMA CARDIOVASCULAR",
+            "semester": "2018.2",
+            "professor": "FERNANDA BURLE DE AGUIAR, ANA KARINE FARIAS DA TRINDADE, GICIANE CARVALHO VIEIRA, AMIRA ROSE COSTA MEDEIROS, ANTONIO DE PADUA SILVEIRA, IDELTONIO JOSE FEITOSA BARBOSA e LUIS FABIO BARBOSA BOTELHO",
+            "horario": "356M2345 356T1234 (22/11/2018 - 14/12/2018), 356M2345 356T1234 (31/01/2019 - 01/02/2019)",
+            "local": "CCM P2 2º ANDAR (CCM) / CCM P2 2º ANDAR (CCM)"
+          },
+          {
+            "id": "1611184",
+            "turmaid": "02",
+            "nome": " MIV11  SISTEMA CARDIOVASCULAR",
+            "semester": "2018.2",
+            "professor": "FERNANDA BURLE DE AGUIAR, ANA KARINE FARIAS DA TRINDADE, FRANCISCO RUIDOMAR PEREIRA, AMIRA ROSE COSTA MEDEIROS, ANTONIO DE PADUA SILVEIRA, IDELTONIO JOSE FEITOSA BARBOSA e LUIS FABIO BARBOSA BOTELHO",
+            "horario": "356M2345 356T1234 (22/11/2018 - 14/12/2018), 356M2345 356T1234 (31/01/2019 - 01/02/2019)",
+            "local": "CCM APOIO 2 (CCM) / CCM APOIO 2 (CCM)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1611185",
+        "name": "MIV14  SISTEMA NEFROUROGENITAL",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "72h aula 0h lab.",
+        "type": "MODULO",
+        "turmas": [
+          {
+            "id": "1611185",
+            "turmaid": "01",
+            "nome": " MIV14  SISTEMA NEFROUROGENITAL",
+            "semester": "2018.2",
+            "professor": "IDELTONIO JOSE FEITOSA BARBOSA, CAMILLE DE MOURA BALARINI, ANA KARINE FARIAS DA TRINDADE, GICIANE CARVALHO VIEIRA, AMIRA ROSE COSTA MEDEIROS e ANTONIO DE PADUA SILVEIRA",
+            "horario": "356M2345 356T1234 (16/04/2019 - 10/05/2019)",
+            "local": "CCM P2 2º ANDAR (CCM)"
+          },
+          {
+            "id": "1611185",
+            "turmaid": "02",
+            "nome": " MIV14  SISTEMA NEFROUROGENITAL",
+            "semester": "2018.2",
+            "professor": "IDELTONIO JOSE FEITOSA BARBOSA, CAMILLE DE MOURA BALARINI, ANA KARINE FARIAS DA TRINDADE, FRANCISCO RUIDOMAR PEREIRA, AMIRA ROSE COSTA MEDEIROS e ANTONIO DE PADUA SILVEIRA",
+            "horario": "356M2345 356T1234 (16/04/2019 - 10/05/2019)",
+            "local": "CCM APOIO 2 (CCM)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1611210",
+        "name": "MIV10  SISTEMA ENDOCRINO E REPRODUTOR",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "72h aula 0h lab.",
+        "type": "MODULO",
+        "turmas": [
+          {
+            "id": "1611210",
+            "turmaid": "01",
+            "nome": " MIV10  SISTEMA ENDOCRINO E REPRODUTOR",
+            "semester": "2018.2",
+            "professor": "ANA KARINE FARIAS DA TRINDADE, FERNANDA BURLE DE AGUIAR, GICIANE CARVALHO VIEIRA, AMIRA ROSE COSTA MEDEIROS, VINICIUS JOSE BACCIN MARTINS e ANTONIO DE PADUA SILVEIRA",
+            "horario": "356M2345 356T1234 (22/03/2019 - 12/04/2019)",
+            "local": "CCM P2 2º ANDAR (CCM)"
+          },
+          {
+            "id": "1611210",
+            "turmaid": "02",
+            "nome": " MIV10  SISTEMA ENDOCRINO E REPRODUTOR",
+            "semester": "2018.2",
+            "professor": "ANA KARINE FARIAS DA TRINDADE, FERNANDA BURLE DE AGUIAR, FRANCISCO RUIDOMAR PEREIRA, AMIRA ROSE COSTA MEDEIROS, VINICIUS JOSE BACCIN MARTINS e ANTONIO DE PADUA SILVEIRA",
+            "horario": "356M2345 356T1234 (22/03/2019 - 12/04/2019)",
+            "local": "CCM APOIO 2 (CCM)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1611211",
+        "name": "MIV12  SISTEMA RESPIRATORIO",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "48h aula 0h lab.",
+        "type": "MODULO",
+        "turmas": [
+          {
+            "id": "1611211",
+            "turmaid": "01",
+            "nome": " MIV12  SISTEMA RESPIRATORIO",
+            "semester": "2018.2",
+            "professor": "IDELTONIO JOSE FEITOSA BARBOSA, ANA KARINE FARIAS DA TRINDADE, GICIANE CARVALHO VIEIRA, AMIRA ROSE COSTA MEDEIROS, VINICIUS JOSE BACCIN MARTINS e ANTONIO DE PADUA SILVEIRA",
+            "horario": "356M2345 356T1234 (05/02/2019 - 15/02/2019)",
+            "local": "CCM P2 2º ANDAR (CCM)"
+          },
+          {
+            "id": "1611211",
+            "turmaid": "02",
+            "nome": " MIV12  SISTEMA RESPIRATORIO",
+            "semester": "2018.2",
+            "professor": "IDELTONIO JOSE FEITOSA BARBOSA, ANA KARINE FARIAS DA TRINDADE, FRANCISCO RUIDOMAR PEREIRA, AMIRA ROSE COSTA MEDEIROS, VINICIUS JOSE BACCIN MARTINS e ANTONIO DE PADUA SILVEIRA",
+            "horario": "356M2345 356T1234 (05/02/2019 - 15/02/2019)",
+            "local": "CCM APOIO 2 (CCM)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1611212",
+        "name": "MIV13  SISTEMA DIGESTORIO",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "96h aula 0h lab.",
+        "type": "MODULO",
+        "turmas": [
+          {
+            "id": "1611212",
+            "turmaid": "01",
+            "nome": " MIV13  SISTEMA DIGESTORIO",
+            "semester": "2018.2",
+            "professor": "FERNANDA BURLE DE AGUIAR, ANA KARINE FARIAS DA TRINDADE, AMIRA ROSE COSTA MEDEIROS, GICIANE CARVALHO VIEIRA, ANTONIO DE PADUA SILVEIRA, IDELTONIO JOSE FEITOSA BARBOSA e FLADMIR DE SOUSA CLAUDINO",
+            "horario": "356M2345 356T1234 (19/02/2019 - 21/03/2019)",
+            "local": "CCM P2 2º ANDAR (CCM)"
+          },
+          {
+            "id": "1611212",
+            "turmaid": "02",
+            "nome": " MIV13  SISTEMA DIGESTORIO",
+            "semester": "2018.2",
+            "professor": "FERNANDA BURLE DE AGUIAR, ANA KARINE FARIAS DA TRINDADE, AMIRA ROSE COSTA MEDEIROS, FRANCISCO RUIDOMAR PEREIRA, ANTONIO DE PADUA SILVEIRA, IDELTONIO JOSE FEITOSA BARBOSA e FLADMIR DE SOUSA CLAUDINO",
+            "horario": "356M2345 356T1234 (19/02/2019 - 21/03/2019)",
+            "local": "CCM APOIO 2 (CCM)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1802116",
+        "name": "MHB2DESENV DA PERS E CICLO DE VIDA",
+        "category": "Complementar Obrigatória",
+        "semester": 2,
+        "workload": "32h aula 0h lab.",
+        "type": "MODULO",
+        "turmas": [
+          {
+            "id": "1802116",
+            "turmaid": "01",
+            "nome": " MHB2DESENV DA PERS E CICLO DE VIDA",
+            "semester": "2018.2",
+            "professor": "JACICARLOS LIMA DE ALENCAR e ESTACIO AMARO DA SILVA JUNIOR",
+            "horario": "2M23 (22/11/2018 - 10/05/2019)",
+            "local": "CCM P2 2º ANDAR (CCM)"
+          },
+          {
+            "id": "1802116",
+            "turmaid": "02",
+            "nome": " MHB2DESENV DA PERS E CICLO DE VIDA",
+            "semester": "2018.2",
+            "professor": "MAISA FREIRE CARTAXO PIRES DE SA, JACICARLOS LIMA DE ALENCAR e ESTACIO AMARO DA SILVA JUNIOR",
+            "horario": "2M45 (22/11/2018 - 10/05/2019)",
+            "local": "CCM P2 2º ANDAR (CCM)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1802117",
+        "name": "MCO2PESQUISA APLICADA A MEDICINA",
+        "category": "Complementar Obrigatória",
+        "semester": 2,
+        "workload": "32h aula 0h lab.",
+        "type": "MODULO",
+        "turmas": [
+          {
+            "id": "1802117",
+            "turmaid": "01",
+            "nome": " MCO2PESQUISA APLICADA A MEDICINA",
+            "semester": "2018.2",
+            "professor": "LUIS FABIO BARBOSA BOTELHO e ANDRE TELIS DE VILELA ARAUJO",
+            "horario": "6M45 (22/11/2018 - 10/05/2019)",
+            "local": "CCM GERAL 3 2º ANDAR (CCM)"
+          },
+          {
+            "id": "1802117",
+            "turmaid": "02",
+            "nome": " MCO2PESQUISA APLICADA A MEDICINA",
+            "semester": "2018.2",
+            "professor": "AGANEIDE CASTILHO PALITOT",
+            "horario": "6M45 (22/11/2018 - 10/05/2019)",
+            "local": "CCM P6B 2º ANDAR (CCM)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1805112",
+        "name": "MHA2SISTEMA DE SAUDE ATENCAO PRIMARIA",
+        "category": "Complementar Obrigatória",
+        "semester": 2,
+        "workload": "96h aula 0h lab.",
+        "type": "MODULO",
+        "turmas": [
+          {
+            "id": "1805112",
+            "turmaid": "01",
+            "nome": " MHA2SISTEMA DE SAUDE ATENCAO PRIMARIA",
+            "semester": "2018.2",
+            "professor": "JULIANA SAMPAIO",
+            "horario": "4M2345 4T23 (22/11/2018 - 10/05/2019)",
+            "local": "USF 1 (CCM) / CCM P1 - 2º ANDAR (CCM)"
+          },
+          {
+            "id": "1805112",
+            "turmaid": "02",
+            "nome": " MHA2SISTEMA DE SAUDE ATENCAO PRIMARIA",
+            "semester": "2018.2",
+            "professor": "WLADIMIR NUNES PINHEIRO",
+            "horario": "4M2345 4T23 (22/11/2018 - 10/05/2019)",
+            "local": "CCM P4B 2º ANDAR (CCM) / USF 2 (CCM)"
+          },
+          {
+            "id": "1805112",
+            "turmaid": "03",
+            "nome": " MHA2SISTEMA DE SAUDE ATENCAO PRIMARIA",
+            "semester": "2018.2",
+            "professor": "PEDRO JOSÉ SANTOS CARNEIRO CRUZ",
+            "horario": "4M2345 4T23 (22/11/2018 - 10/05/2019)",
+            "local": "CCM APOIO 2 (CCM) / USF 3 (CCM)"
+          },
+          {
+            "id": "1805112",
+            "turmaid": "04",
+            "nome": " MHA2SISTEMA DE SAUDE ATENCAO PRIMARIA",
+            "semester": "2018.2",
+            "professor": "MARIA DO SOCORRO TRINDADE MORAIS",
+            "horario": "4M2345 4T23 (22/11/2018 - 10/05/2019)",
+            "local": "CCM APOIO 1 (CCM) / USF 4 (CCM)"
+          },
+          {
+            "id": "1805112",
+            "turmaid": "05",
+            "nome": " MHA2SISTEMA DE SAUDE ATENCAO PRIMARIA",
+            "semester": "2018.2",
+            "professor": "ALEXANDRE MEDEIROS DE FIGUEREDO",
+            "horario": "4M2345 4T23 (22/11/2018 - 10/05/2019)",
+            "local": "USF 5 (CCM) / CCM P5B 2º ANDAR (CCM)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1610186",
+        "name": "MCOP1 MOD INTEGR  EM CIENC ESTRUT FUNC I",
+        "category": "Optativa",
+        "semester": 3,
+        "workload": "32h aula 0h lab.",
+        "type": "MODULO",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1610187",
+        "name": "MCOP2 MOD INTEGR EM CIENC ESTRUT FUNC II",
+        "category": "Optativa",
+        "semester": 3,
+        "workload": "32h aula 0h lab.",
+        "type": "MODULO",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1611186",
+        "name": "MIV18MECANISMOS GERAIS DE DEFESA",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "120h aula 0h lab.",
+        "type": "MODULO",
+        "turmas": [
+          {
+            "id": "1611186",
+            "turmaid": "01",
+            "nome": " MIV18MECANISMOS GERAIS DE DEFESA",
+            "semester": "2018.2",
+            "professor": "IVAN RODRIGUES DE CARVALHO FILHO, JOELMA RODRIGUES DE SOUZA e GICIANE CARVALHO VIEIRA",
+            "horario": "5M45 6M2345 45T34 (22/11/2018 - 14/12/2018), 6M23 45T34 (31/01/2019 - 08/02/2019), 6M45 45T34 (13/02/2019 - 15/02/2019), 6M23 45T34 (20/02/2019 - 01/03/2019), 6M45 5T34 (07/03/2019 - 08/03/2019), 5M45 6M23 45T34 (13/03/2019 - 15/03/2019), 56M45 45T34 (20/03/2019 - 22/03/2019), 5M45 6M23 45T34 (27/03/2019 - 17/04/2019), 5M2345 6M23 45T34 (24/04/2019 - 26/04/2019), 56M23 4T12 5T34 (01/05/2019 - 03/05/2019), 4T12 (08/05/2019 - 08/05/2019)",
+            "local": "HU 4 ANDAR (CCM) / HU 4 ANDAR (CCM) / HU 4 ANDAR (CCM) / ..."
+          },
+          {
+            "id": "1611186",
+            "turmaid": "02",
+            "nome": " MIV18MECANISMOS GERAIS DE DEFESA",
+            "semester": "2018.2",
+            "professor": "GICIANE CARVALHO VIEIRA, CLAUDIO ROBERTO BEZERRA DOS SANTOS, JOELMA RODRIGUES DE SOUZA e ADRIANO FRANCISCO ALVES",
+            "horario": "356M45 5T1234 (22/11/2018 - 14/12/2018), 36M45 5T34 (31/01/2019 - 08/03/2019), 356M45 5T34 (12/03/2019 - 05/04/2019), 35M45 6M23 5T34 (09/04/2019 - 12/04/2019), 3M45 4T12 (16/04/2019 - 17/04/2019), 35M2345 6M45 (23/04/2019 - 26/04/2019), 3M23 56M45 (30/04/2019 - 03/05/2019), 4T12 (08/05/2019 - 08/05/2019)",
+            "local": "CCM APOIO 4 (CCM)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1611187",
+        "name": "MIV19MECANISMOS GERAIS DE AGRESSAO",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "120h aula 0h lab.",
+        "type": "MODULO",
+        "turmas": [
+          {
+            "id": "1611187",
+            "turmaid": "01",
+            "nome": " MIV19MECANISMOS GERAIS DE AGRESSAO",
+            "semester": "2018.2",
+            "professor": "IVAN RODRIGUES DE CARVALHO FILHO, MARILIA GABRIELA DOS SANTOS CAVALCANTI e JOSE SOARES DO NASCIMENTO",
+            "horario": "3M45 45T12 (22/11/2018 - 14/12/2018), 36M45 45T12 (31/01/2019 - 08/02/2019), 3M45 6M23 45T12 (12/02/2019 - 15/02/2019), 36M45 45T12 (19/02/2019 - 01/03/2019), 6M23 5T12 (07/03/2019 - 08/03/2019), 36M45 45T12 (12/03/2019 - 15/03/2019), 3M45 6M23 45T12 (19/03/2019 - 22/03/2019), 36M45 45T12 (26/03/2019 - 12/04/2019), 3T1234 45T12 (16/04/2019 - 25/04/2019), 3M45 (30/04/2019 - 30/04/2019), 6M45 (10/05/2019 - 10/05/2019)",
+            "local": "HU 4 ANDAR (CCM) / HU 4 ANDAR (CCM) / HU 4 ANDAR (CCM) / ..."
+          },
+          {
+            "id": "1611187",
+            "turmaid": "02",
+            "nome": " MIV19MECANISMOS GERAIS DE AGRESSAO",
+            "semester": "2018.2",
+            "professor": "MARILIA GABRIELA DOS SANTOS CAVALCANTI, JOSE SOARES DO NASCIMENTO e ADRIANO FRANCISCO ALVES",
+            "horario": "6M23 4T1234 (22/11/2018 - 14/12/2018), 6M23 4T1234 5T12 (31/01/2019 - 05/04/2019), 6M45 4T1234 5T12 (10/04/2019 - 12/04/2019), 3T1234 4T34 5T12 (16/04/2019 - 25/04/2019), 3M45 (30/04/2019 - 30/04/2019), 6M45 (10/05/2019 - 10/05/2019)",
+            "local": "CCM APOIO 4 (CCM) / CCM APOIO 4 (CCM) / CCM APOIO 4 ..."
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1611188",
+        "name": "MIV20FARMACOLOGIA BÁSICA",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "48h aula 0h lab.",
+        "type": "MODULO",
+        "turmas": [
+          {
+            "id": "1611188",
+            "turmaid": "01",
+            "nome": " MIV20FARMACOLOGIA BÁSICA",
+            "semester": "2018.2",
+            "professor": "KATY LISIAS GONDIM DIAS DE ALBUQUERQUE",
+            "horario": "35M23 (22/11/2018 - 13/12/2018), 3M23 (05/02/2019 - 26/02/2019), 35M23 (12/03/2019 - 16/04/2019), 5M23 (09/05/2019 - 09/05/2019)",
+            "local": "CCM APOIO 4 (CCM)"
+          },
+          {
+            "id": "1611188",
+            "turmaid": "02",
+            "nome": " MIV20FARMACOLOGIA BÁSICA",
+            "semester": "2018.2",
+            "professor": "NADJA DE AZEVEDO CORREIA",
+            "horario": "35M23 (22/11/2018 - 13/12/2018), 3M23 (05/02/2019 - 26/02/2019), 35M23 (12/03/2019 - 16/04/2019), 5M23 (09/05/2019 - 09/05/2019)",
+            "local": "CCM P3 2º ANDAR (CCM)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1802123",
+        "name": "MIV17MORFOFISIOLOGIA DO ENVELHECIMENTO",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "24h aula 0h lab.",
+        "type": "MODULO",
+        "turmas": [
+          {
+            "id": "1802123",
+            "turmaid": "01",
+            "nome": " MIV17MORFOFISIOLOGIA DO ENVELHECIMENTO",
+            "semester": "2018.2",
+            "professor": "VIRGINIA ANGELA MENEZES DE LUCENA E CARVALHO, MANUELLA DE SOUSA TOLEDO MATIAS, MARCO ANTONIO DE VIVO BARROS e EDUARDO GOMES DE MELO",
+            "horario": "5M2345 (31/01/2019 - 07/03/2019), 5M45 (09/05/2019 - 09/05/2019)",
+            "local": "CCM P3 2º ANDAR (CCM) / CCM P3 2º ANDAR (CCM)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1802124",
+        "name": "MHB3HISTORIA DA MEDICINA E DA BIOETICA",
+        "category": "Complementar Obrigatória",
+        "semester": 3,
+        "workload": "32h aula 0h lab.",
+        "type": "MODULO",
+        "turmas": [
+          {
+            "id": "1802124",
+            "turmaid": "01",
+            "nome": " MHB3HISTORIA DA MEDICINA E DA BIOETICA",
+            "semester": "2018.2",
+            "professor": "LILIAN DEBORA PASCHOALIN MIGUEL e RILVA LOPES DE SOUSA MUNOZ",
+            "horario": "2M12 (22/11/2018 - 10/05/2019)",
+            "local": "CCM P3 2º ANDAR (CCM)"
+          },
+          {
+            "id": "1802124",
+            "turmaid": "02",
+            "nome": " MHB3HISTORIA DA MEDICINA E DA BIOETICA",
+            "semester": "2018.2",
+            "professor": "LILIAN DEBORA PASCHOALIN MIGUEL e RILVA LOPES DE SOUSA MUNOZ",
+            "horario": "5T56 (22/11/2018 - 10/05/2019)",
+            "local": "CCM GERAL 3 2º ANDAR (CCM)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1804105",
+        "name": "MIV16CRESC E DES DA C E DO ADOLESCEN",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "24h aula 0h lab.",
+        "type": "MODULO",
+        "turmas": [
+          {
+            "id": "1804105",
+            "turmaid": "01",
+            "nome": " MIV16CRESC E DES DA C E DO ADOLESCEN",
+            "semester": "2018.2",
+            "professor": "ELEONORA RAMOS DE OLIVEIRA e ALEXANDRE FREDERICO CASTANHEIRA OLIVEIRA",
+            "horario": "2M45 (22/11/2018 - 12/04/2019)",
+            "local": "CCM GERAL 1 2º ANDAR (CCM)"
+          },
+          {
+            "id": "1804105",
+            "turmaid": "02",
+            "nome": " MIV16CRESC E DES DA C E DO ADOLESCEN",
+            "semester": "2018.2",
+            "professor": "ELEONORA RAMOS DE OLIVEIRA e ALEXANDRE FREDERICO CASTANHEIRA OLIVEIRA",
+            "horario": "6M45 (22/11/2018 - 12/04/2019)",
+            "local": "CCM GERAL 1 2º ANDAR (CCM)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1805117",
+        "name": "MIV15",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "48h aula 0h lab.",
+        "type": "MODULO",
+        "turmas": [
+          {
+            "id": "1805117",
+            "turmaid": "01",
+            "nome": " EPIDEMIOLOGIA",
+            "semester": "2018.2",
+            "professor": "ALEXANDRE JOSE DE MELO NETO",
+            "horario": "3T1234 (27/11/2018 - 09/04/2019), 3M45 (07/05/2019 - 07/05/2019)",
+            "local": "CCM P3 2º ANDAR (CCM) / CCM P3 2º ANDAR (CCM)"
+          },
+          {
+            "id": "1805117",
+            "turmaid": "02",
+            "nome": " EPIDEMIOLOGIA",
+            "semester": "2018.2",
+            "professor": "CLODOALDO DA SILVEIRA COSTA",
+            "horario": "3T1234 (27/11/2018 - 09/04/2019), 3M45 (07/05/2019 - 07/05/2019)",
+            "local": "CCM APOIO 4 (CCM)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1805118",
+        "name": "MHA3SIST DE S ATENCAO SEC E TERCIARIA",
+        "category": "Complementar Obrigatória",
+        "semester": 3,
+        "workload": "96h aula 0h lab.",
+        "type": "MODULO",
+        "turmas": [
+          {
+            "id": "1805118",
+            "turmaid": "01",
+            "nome": " MHA3SIST DE S ATENCAO SEC E TERCIARIA",
+            "semester": "2018.2",
+            "professor": "ERNANI VIEIRA DE VASCONCELOS FILHO",
+            "horario": "4M23 2T2345 (22/11/2018 - 10/05/2019)",
+            "local": "USF 1 (CCM) / CCM P4A 2º ANDAR (CCM)"
+          },
+          {
+            "id": "1805118",
+            "turmaid": "02",
+            "nome": " MHA3SIST DE S ATENCAO SEC E TERCIARIA",
+            "semester": "2018.2",
+            "professor": "LUCIANO BEZERRA GOMES",
+            "horario": "4M23 2T2345 (22/11/2018 - 10/05/2019)",
+            "local": "CCM P8B  2º ANDAR (CCM) / USF 2 (CCM)"
+          },
+          {
+            "id": "1805118",
+            "turmaid": "03",
+            "nome": " MHA3SIST DE S ATENCAO SEC E TERCIARIA",
+            "semester": "2018.2",
+            "professor": "TIAGO SALESSI LINS",
+            "horario": "4M23 2T2345 (22/11/2018 - 10/05/2019)",
+            "local": "USF 3 (CCM) / CCM APOIO 2 (CCM)"
+          },
+          {
+            "id": "1805118",
+            "turmaid": "04",
+            "nome": " MHA3SIST DE S ATENCAO SEC E TERCIARIA",
+            "semester": "2018.2",
+            "professor": "BRUNA TEIXEIRA AVILA",
+            "horario": "4M23 2T2345 (22/11/2018 - 10/05/2019)",
+            "local": "USF 4 (CCM) / CCM P4B 2º ANDAR (CCM)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1802121",
+        "name": "MCOP4MODULO INTEGRAD EM CLIN MEDICA IV",
+        "category": "Optativa",
+        "semester": 4,
+        "workload": "0h aula 32h lab.",
+        "type": "MODULO",
+        "turmas": [
+          {
+            "id": "1802121",
+            "turmaid": "01",
+            "nome": " MCOP4MODULO INTEGRAD EM CLIN MEDICA IV",
+            "semester": "2018.2",
+            "professor": "VIRGINIA ANGELA MENEZES DE LUCENA E CARVALHO",
+            "horario": "5T34 (22/11/2018 - 10/05/2019)",
+            "local": "CCM P6B 2º ANDAR (CCM)"
+          },
+          {
+            "id": "1802121",
+            "turmaid": "02",
+            "nome": " MCOP4MODULO INTEGRAD EM CLIN MEDICA IV",
+            "semester": "2018.2",
+            "professor": "VIRGINIA ANGELA MENEZES DE LUCENA E CARVALHO",
+            "horario": "5T56 (22/11/2018 - 10/05/2019)",
+            "local": "CCM P6B 2º ANDAR (CCM)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDPOG0020",
+        "name": "MCOP3",
+        "category": "Optativa",
+        "semester": 4,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDPOG0020",
+            "turmaid": "01",
+            "nome": " MEDICINA BASEADA EM EVIDÊNCIAS",
+            "semester": "2018.2",
+            "professor": "ANDRE TELIS DE VILELA ARAUJO",
+            "horario": "4T56",
+            "local": "CCM P3 2º ANDAR (CCM)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDPOG0021",
+        "name": "MCOP4 – CUIDADOS PALIATIVOS",
+        "category": "Optativa",
+        "semester": 4,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDPOG0021",
+            "turmaid": "02",
+            "nome": " MCOP4 – CUIDADOS PALIATIVOS",
+            "semester": "2018.2",
+            "professor": "MANUELLA DE SOUSA TOLEDO MATIAS, LUIS FABIO BARBOSA BOTELHO e THIAGO LINS DA COSTA ALMEIDA",
+            "horario": "4M45",
+            "local": "CCM GERAL 3 2º ANDAR (CCM)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1801123",
+        "name": "MIV24 BASES TEC DOS PROC CIRUR E ANEST",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "128h aula 0h lab.",
+        "type": "MODULO",
+        "turmas": [
+          {
+            "id": "1801123",
+            "turmaid": "01",
+            "nome": " MIV24 BASES TEC DOS PROC CIRUR E ANEST",
+            "semester": "2018.2",
+            "professor": "PRISCILLA LOPES DA FONSECA ABRANTES SARMENTO, CARLOS ROBERTO CARVALHO LEITE, SERGIO DA CUNHA FALCAO e ZAILTON BEZERRA DE LIMA JUNIOR",
+            "horario": "6M1234 3T1234 (22/11/2018 - 10/05/2019)",
+            "local": "CCM P4A 2º ANDAR (CCM)"
+          },
+          {
+            "id": "1801123",
+            "turmaid": "02",
+            "nome": " MIV24 BASES TEC DOS PROC CIRUR E ANEST",
+            "semester": "2018.2",
+            "professor": "PRISCILLA LOPES DA FONSECA ABRANTES SARMENTO, CARLOS ROBERTO CARVALHO LEITE, SERGIO DA CUNHA FALCAO e ZAILTON BEZERRA DE LIMA JUNIOR",
+            "horario": "2M1234 5T1234 (22/11/2018 - 10/05/2019)",
+            "local": "CCM P4B 2º ANDAR (CCM)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1801124",
+        "name": "MIV25 TEC PRIM ATEND URGENCIAS E EMERGEN",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "32h aula 0h lab.",
+        "type": "MODULO",
+        "turmas": [
+          {
+            "id": "1801124",
+            "turmaid": "01",
+            "nome": " MIV25 TEC PRIM ATEND URGENCIAS E EMERGEN",
+            "semester": "2018.2",
+            "professor": "GILVANDRO LINS DE OLIVEIRA JUNIOR, ROSALVO ZOSIMO BISPO JUNIOR, CASSIO VIRGILIO CAVALCANTE DE OLIVEIRA, FELIPE GURGEL DE ARAUJO e ISAAC NEWTON GUIMARAES ANDRADE",
+            "horario": "5T12 (22/11/2018 - 10/05/2019)",
+            "local": "CCM P4A 2º ANDAR (CCM)"
+          },
+          {
+            "id": "1801124",
+            "turmaid": "02",
+            "nome": " MIV25 TEC PRIM ATEND URGENCIAS E EMERGEN",
+            "semester": "2018.2",
+            "professor": "GILVANDRO LINS DE OLIVEIRA JUNIOR, ROSALVO ZOSIMO BISPO JUNIOR, CASSIO VIRGILIO CAVALCANTE DE OLIVEIRA, FELIPE GURGEL DE ARAUJO e ISAAC NEWTON GUIMARAES ANDRADE",
+            "horario": "6T12 (22/11/2018 - 10/05/2019)",
+            "local": "CCM P4B 2º ANDAR (CCM)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1802125",
+        "name": "MIV21SEMIOLOGIA DO ADUL DA CRIAN E OBST",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "128h aula 0h lab.",
+        "type": "MODULO",
+        "turmas": [
+          {
+            "id": "1802125",
+            "turmaid": "01",
+            "nome": " MIV21SEMIOLOGIA DO ADUL DA CRIAN E OBST",
+            "semester": "2018.2",
+            "professor": "ARISTIDES MEDEIROS LEITE, JOSE LUIS SIMOES MAROJA, LEINA YUKARI ETTO, RILVA LOPES DE SOUSA MUNOZ e PABLO DUARTE LIMA",
+            "horario": "5M2345 6T2345 (22/11/2018 - 10/05/2019)",
+            "local": "CCM P4A 2º ANDAR (CCM)"
+          },
+          {
+            "id": "1802125",
+            "turmaid": "02",
+            "nome": " MIV21SEMIOLOGIA DO ADUL DA CRIAN E OBST",
+            "semester": "2018.2",
+            "professor": "JOSE LUIS SIMOES MAROJA, ARISTIDES MEDEIROS LEITE, LEINA YUKARI ETTO, RILVA LOPES DE SOUSA MUNOZ, ELIAURIA ROSA MARTINS, EUTILIA ANDRADE MEDEIROS FREIRE e PABLO DUARTE LIMA",
+            "horario": "6M2345 3T2345 (22/11/2018 - 10/05/2019)",
+            "local": "CCM P4B 2º ANDAR (CCM)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1802126",
+        "name": "MIV22EXAMES COMPLEM NA PRATICA MEDICA",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "48h aula 0h lab.",
+        "type": "MODULO",
+        "turmas": [
+          {
+            "id": "1802126",
+            "turmaid": "01",
+            "nome": " MIV22EXAMES COMPLEM NA PRATICA MEDICA",
+            "semester": "2018.2",
+            "professor": "JOACILDA DA CONCEICAO NUNES e SEVERINO AIRES DE ARAUJO NETO",
+            "horario": "2M345 (22/11/2018 - 10/05/2019)",
+            "local": "CCM P4A 2º ANDAR (CCM)"
+          },
+          {
+            "id": "1802126",
+            "turmaid": "02",
+            "nome": " MIV22EXAMES COMPLEM NA PRATICA MEDICA",
+            "semester": "2018.2",
+            "professor": "JOACILDA DA CONCEICAO NUNES e CARLOS FERNANDO DE MELLO JUNIOR",
+            "horario": "5M123 (22/11/2018 - 10/05/2019)",
+            "local": "CCM P4B 2º ANDAR (CCM)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1802127",
+        "name": "MIV23INT AOS METODOS DIAG POR IMAGEM",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "48h aula 0h lab.",
+        "type": "MODULO",
+        "turmas": [
+          {
+            "id": "1802127",
+            "turmaid": "01",
+            "nome": " MIV23INT AOS METODOS DIAG POR IMAGEM",
+            "semester": "2018.2",
+            "professor": "CARLOS FERNANDO DE MELLO JUNIOR",
+            "horario": "4M345 (22/11/2018 - 10/05/2019)",
+            "local": "CCM P7A 2º ANDAR (CCM)"
+          },
+          {
+            "id": "1802127",
+            "turmaid": "02",
+            "nome": " MIV23INT AOS METODOS DIAG POR IMAGEM",
+            "semester": "2018.2",
+            "professor": "SEVERINO AIRES DE ARAUJO NETO",
+            "horario": "4M345 (22/11/2018 - 10/05/2019)",
+            "local": "CCM P7B 2º ANDAR (CCM)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1802128",
+        "name": "MHB4O ESTUDANTE DE MEDIC E O PACIENTE",
+        "category": "Complementar Obrigatória",
+        "semester": 4,
+        "workload": "32h aula 0h lab.",
+        "type": "MODULO",
+        "turmas": [
+          {
+            "id": "1802128",
+            "turmaid": "01",
+            "nome": " MHB4O ESTUDANTE DE MEDIC E O PACIENTE",
+            "semester": "2018.2",
+            "professor": "GILKA PAIVA OLIVEIRA COSTA",
+            "horario": "4M45 (22/11/2018 - 10/05/2019)",
+            "local": "CCM P3 2º ANDAR (CCM)"
+          },
+          {
+            "id": "1802128",
+            "turmaid": "02",
+            "nome": " MHB4O ESTUDANTE DE MEDIC E O PACIENTE",
+            "semester": "2018.2",
+            "professor": "JOSE GIVALDO MELQUIADES DE MEDEIROS",
+            "horario": "4M45 (22/11/2018 - 10/05/2019)",
+            "local": "CCM APOIO 1 (CCM)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1805119",
+        "name": "MHA4ATENCAO A SAUDE DA FAMILIA I",
+        "category": "Complementar Obrigatória",
+        "semester": 4,
+        "workload": "96h aula 0h lab.",
+        "type": "MODULO",
+        "turmas": [
+          {
+            "id": "1805119",
+            "turmaid": "01",
+            "nome": " MHA4ATENCAO A SAUDE DA FAMILIA I",
+            "semester": "2018.2",
+            "professor": "FELIPE PROENCO DE OLIVEIRA",
+            "horario": "3M2345 2T23 (22/11/2018 - 10/05/2019)",
+            "local": "CCM P4B 2º ANDAR (CCM) / USF 1 (CCM)"
+          },
+          {
+            "id": "1805119",
+            "turmaid": "02",
+            "nome": " MHA4ATENCAO A SAUDE DA FAMILIA I",
+            "semester": "2018.2",
+            "professor": "JULIANA SOUSA SOARES DE ARAUJO",
+            "horario": "3M2345 2T23 (22/11/2018 - 10/05/2019)",
+            "local": "USF 2 (CCM) / CCM P4A 2º ANDAR (CCM)"
+          },
+          {
+            "id": "1805119",
+            "turmaid": "03",
+            "nome": " MHA4ATENCAO A SAUDE DA FAMILIA I",
+            "semester": "2018.2",
+            "professor": "EDUARDO SIMON",
+            "horario": "3M2345 2T23 (22/11/2018 - 10/05/2019)",
+            "local": "USF 3 (CCM) / CCM GERAL 1 2º ANDAR (CCM)"
+          },
+          {
+            "id": "1805119",
+            "turmaid": "04",
+            "nome": " MHA4ATENCAO A SAUDE DA FAMILIA I",
+            "semester": "2018.2",
+            "professor": "ALDENILDO ARAUJO DE MORAES FERNANDES COSTEIRA",
+            "horario": "3M2345 2T23 (22/11/2018 - 10/05/2019)",
+            "local": "USF 4 (CCM) / CCM P6A 2º ANDAR (CCM)"
+          },
+          {
+            "id": "1805119",
+            "turmaid": "05",
+            "nome": " MHA4ATENCAO A SAUDE DA FAMILIA I",
+            "semester": "2018.2",
+            "professor": "DANYELLA DA SILVA BARRETO",
+            "horario": "3M2345 2T23 (22/11/2018 - 10/05/2019)",
+            "local": "USF 5 (CCM) / CCM GERAL 2 2º ANDAR (CCM)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1801117",
+        "name": "MIV29DOENCAS PREV DA CABECA E PESCOSO",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "32h aula 0h lab.",
+        "type": "MODULO",
+        "turmas": [
+          {
+            "id": "1801117",
+            "turmaid": "01",
+            "nome": " MIV29DOENCAS PREV DA CABECA E PESCOSO",
+            "semester": "2018.2",
+            "professor": "KLECIUS LEITE FERNANDES",
+            "horario": "5T34 (22/11/2018 - 10/05/2019)",
+            "local": "CCMP5A 2º ANDAR (CCM)"
+          },
+          {
+            "id": "1801117",
+            "turmaid": "02",
+            "nome": " MIV29DOENCAS PREV DA CABECA E PESCOSO",
+            "semester": "2018.2",
+            "professor": "KLECIUS LEITE FERNANDES",
+            "horario": "3T34 (22/11/2018 - 10/05/2019)",
+            "local": "CCM P5B 2º ANDAR (CCM)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1802129",
+        "name": "MIV26DOENCAS PREV DO SIT DIG ABDOMEN",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "112h aula 0h lab.",
+        "type": "MODULO",
+        "turmas": [
+          {
+            "id": "1802129",
+            "turmaid": "01",
+            "nome": " MIV26DOENCAS PREV DO SIT DIG ABDOMEN",
+            "semester": "2018.2",
+            "professor": "JOSE LUIS SIMOES MAROJA, ROBERTO SERGIO DA CUNHA ARAUJO, JOSE EYMARD MORAES DE MEDEIROS FILHO, MONICA SOUZA DE MIRANDA HENRIQUES, MARCELO GONCALVES SOUSA, AGRIPINO JOAQUIM DE MELO E SILVA, CASSIO VIRGILIO CAVALCANTE DE OLIVEIRA e HERALDO ARCELA DE CARVALHO ROCHA",
+            "horario": "2M123 6T1234 (22/11/2018 - 10/05/2019)",
+            "local": "CCMP5A 2º ANDAR (CCM)"
+          },
+          {
+            "id": "1802129",
+            "turmaid": "02",
+            "nome": " MIV26DOENCAS PREV DO SIT DIG ABDOMEN",
+            "semester": "2018.2",
+            "professor": "MARILIA MARQUES PEREIRA LIRA, JOSE LUIS SIMOES MAROJA, ROBERTO SERGIO DA CUNHA ARAUJO, JOSE EYMARD MORAES DE MEDEIROS FILHO, MONICA SOUZA DE MIRANDA HENRIQUES, MARCELO GONCALVES SOUSA, AGRIPINO JOAQUIM DE MELO E SILVA, CASSIO VIRGILIO CAVALCANTE DE OLIVEIRA e HERALDO ARCELA DE CARVALHO ROCHA",
+            "horario": "3M1234 6M123 (22/11/2018 - 10/05/2019)",
+            "local": "CCM P5B 2º ANDAR (CCM)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1802130",
+        "name": "MIV28DOENCAS PREVAL DO SIST ENDOCRINO",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "64h aula 0h lab.",
+        "type": "MODULO",
+        "turmas": [
+          {
+            "id": "1802130",
+            "turmaid": "01",
+            "nome": " MIV28DOENCAS PREVAL DO SIST ENDOCRINO",
+            "semester": "2018.2",
+            "professor": "MARIVANIA DA COSTA SANTOS",
+            "horario": "3M1234 (22/11/2018 - 10/05/2019)",
+            "local": "CCMP5A 2º ANDAR (CCM)"
+          },
+          {
+            "id": "1802130",
+            "turmaid": "02",
+            "nome": " MIV28DOENCAS PREVAL DO SIST ENDOCRINO",
+            "semester": "2018.2",
+            "professor": "MARIVANIA DA COSTA SANTOS e ANA LUIZA RABELO ROLIM",
+            "horario": "4M1234 (22/11/2018 - 10/05/2019)",
+            "local": "CCM P5B 2º ANDAR (CCM)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1802131",
+        "name": "MHB5RELACAO MEDICOPACIENTE I",
+        "category": "Complementar Obrigatória",
+        "semester": 5,
+        "workload": "32h aula 0h lab.",
+        "type": "MODULO",
+        "turmas": [
+          {
+            "id": "1802131",
+            "turmaid": "01",
+            "nome": " MHB5RELACAO MEDICOPACIENTE I",
+            "semester": "2018.2",
+            "professor": "JOSE GIVALDO MELQUIADES DE MEDEIROS",
+            "horario": "2T23 (22/11/2018 - 10/05/2019)",
+            "local": "CCM P5B 2º ANDAR (CCM)"
+          },
+          {
+            "id": "1802131",
+            "turmaid": "02",
+            "nome": " MHB5RELACAO MEDICOPACIENTE I",
+            "semester": "2018.2",
+            "professor": "ESTACIO AMARO DA SILVA JUNIOR",
+            "horario": "2T23 (22/11/2018 - 10/05/2019)",
+            "local": "CCM P7A 2º ANDAR (CCM)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1805120",
+        "name": "MHA5 ATENCAO A SAUDE DA FAMILIA II",
+        "category": "Complementar Obrigatória",
+        "semester": 5,
+        "workload": "96h aula 0h lab.",
+        "type": "MODULO",
+        "turmas": [
+          {
+            "id": "1805120",
+            "turmaid": "01",
+            "nome": " MHA5 ATENCAO A SAUDE DA FAMILIA II",
+            "semester": "2018.2",
+            "professor": "ALEXANDRE JOSE DE MELO NETO",
+            "horario": "5M2345 2T45 (22/11/2018 - 10/05/2019)",
+            "local": "USF 1 (CCM) / CCM P4B 2º ANDAR (CCM)"
+          },
+          {
+            "id": "1805120",
+            "turmaid": "02",
+            "nome": " MHA5 ATENCAO A SAUDE DA FAMILIA II",
+            "semester": "2018.2",
+            "professor": "JULIANA SOUSA SOARES DE ARAUJO",
+            "horario": "5M2345 2T45 (22/11/2018 - 10/05/2019)",
+            "local": "USF 2 (CCM) / CCM P4A 2º ANDAR (CCM)"
+          },
+          {
+            "id": "1805120",
+            "turmaid": "03",
+            "nome": " MHA5 ATENCAO A SAUDE DA FAMILIA II",
+            "semester": "2018.2",
+            "professor": "EDUARDO SIMON",
+            "horario": "5M2345 2T45 (22/11/2018 - 10/05/2019)",
+            "local": "USF 3 (CCM) / CCM P7A 2º ANDAR (CCM)"
+          },
+          {
+            "id": "1805120",
+            "turmaid": "04",
+            "nome": " MHA5 ATENCAO A SAUDE DA FAMILIA II",
+            "semester": "2018.2",
+            "professor": "ALDENILDO ARAUJO DE MORAES FERNANDES COSTEIRA",
+            "horario": "5M2345 2T45 (22/11/2018 - 10/05/2019)",
+            "local": "USF 4 (CCM) / CCMP5A 2º ANDAR (CCM)"
+          },
+          {
+            "id": "1805120",
+            "turmaid": "05",
+            "nome": " MHA5 ATENCAO A SAUDE DA FAMILIA II",
+            "semester": "2018.2",
+            "professor": "RICARDO DE SOUSA SOARES",
+            "horario": "5M2345 2T45 (22/11/2018 - 10/05/2019)",
+            "local": "USF 5 (CCM) / CCM P6A 2º ANDAR (CCM)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1805121",
+        "name": "MIV30DOENCAS PREV DO SIST TEGUMENTAR",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "32h aula 48h lab.",
+        "type": "MODULO",
+        "turmas": [
+          {
+            "id": "1805121",
+            "turmaid": "01A",
+            "nome": " MIV30DOENCAS PREV DO SIST TEGUMENTAR",
+            "semester": "2018.2",
+            "professor": "CARLA WANDERLEY GAYOSO DE LIMA, ESTHER BASTOS PALITOT e DANIELLE MEDEIROS MARQUES",
+            "horario": "4M123 6M23 (22/11/2018 - 10/05/2019)",
+            "local": "CCMP5A 2º ANDAR (CCM) / CCMP5A 2º ANDAR (CCM)"
+          },
+          {
+            "id": "1805121",
+            "turmaid": "02A",
+            "nome": " MIV30DOENCAS PREV DO SIST TEGUMENTAR",
+            "semester": "2018.2",
+            "professor": "CARLA WANDERLEY GAYOSO DE LIMA, ESTHER BASTOS PALITOT e DANIELLE MEDEIROS MARQUES",
+            "horario": "2M23 4T123 (22/11/2018 - 10/05/2019)",
+            "local": "CCM P5B 2º ANDAR (CCM) / CCM P7B 2º ANDAR (CCM)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1805129",
+        "name": "MIV27DOENCAS PREV DO SIST RESP E TORAX",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "32h aula 64h lab.",
+        "type": "MODULO",
+        "turmas": [
+          {
+            "id": "1805129",
+            "turmaid": "01A",
+            "nome": " MIV27DOENCAS PREV DO SIST RESP E TORAX",
+            "semester": "2018.2",
+            "professor": "AGOSTINHO HERMES DE MEDEIROS NETO, MARIA ALENITA DE OLIVEIRA, GERLANIA SIMPLICIO DE SOUSA, GEORGIA FREIRE PAIVA WINKELER e GESUALDO PEREIRA SOARES",
+            "horario": "6M45 4T2345 (22/11/2018 - 10/05/2019)",
+            "local": "CCMP5A 2º ANDAR (CCM) / CCMP5A 2º ANDAR (CCM)"
+          },
+          {
+            "id": "1805129",
+            "turmaid": "02A",
+            "nome": " MIV27DOENCAS PREV DO SIST RESP E TORAX",
+            "semester": "2018.2",
+            "professor": "AGOSTINHO HERMES DE MEDEIROS NETO, MARIA ALENITA DE OLIVEIRA, GERLANIA SIMPLICIO DE SOUSA, GEORGIA FREIRE PAIVA WINKELER e GESUALDO PEREIRA SOARES",
+            "horario": "2M45 6T2345 (22/11/2018 - 10/05/2019)",
+            "local": "CCM P5B 2º ANDAR (CCM) / CCM P5B 2º ANDAR (CCM)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1802132",
+        "name": "MIV31DOEN P DO S CARDIOCIRC E VAS PER",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "128h aula 0h lab.",
+        "type": "MODULO",
+        "turmas": [
+          {
+            "id": "1802132",
+            "turmaid": "01",
+            "nome": " MIV31DOEN P DO S CARDIOCIRC E VAS PER",
+            "semester": "2018.2",
+            "professor": "OTACILIO FIGUEIREDO DA SILVA JUNIOR, ARISTIDES MEDEIROS LEITE, JOSE REINALDO DE MOURA COELHO, FATIMA ELIZABETH FONSECA DE OLIVEIRA NEGRI, GRINBERG MEDEIROS BOTELHO, CRISTIANA MARQUES DE ARAUJO, FRANCISCO CHAVIER VIEIRA BANDEIRA, MARCO ANTONIO DE VIVO BARROS e MANOEL RICARDO SENA NOGUEIRA",
+            "horario": "3M1234 4T1234 (22/11/2018 - 10/05/2019)",
+            "local": "CCM P6A 2º ANDAR (CCM)"
+          },
+          {
+            "id": "1802132",
+            "turmaid": "02",
+            "nome": " MIV31DOEN P DO S CARDIOCIRC E VAS PER",
+            "semester": "2018.2",
+            "professor": "OTACILIO FIGUEIREDO DA SILVA JUNIOR, JOSE REINALDO DE MOURA COELHO, FATIMA ELIZABETH FONSECA DE OLIVEIRA NEGRI, GRINBERG MEDEIROS BOTELHO, CRISTIANA MARQUES DE ARAUJO, FRANCISCO CHAVIER VIEIRA BANDEIRA, MANOEL RICARDO SENA NOGUEIRA e MARCO ANTONIO DE VIVO BARROS",
+            "horario": "4M1234 6T1234 (22/11/2018 - 10/05/2019)",
+            "local": "CCM P6B 2º ANDAR (CCM)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1802133",
+        "name": "MIV32DOENCAS PREV DO SIST NEFROUROGENI",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "96h aula 0h lab.",
+        "type": "MODULO",
+        "turmas": [
+          {
+            "id": "1802133",
+            "turmaid": "01",
+            "nome": " MIV32DOENCAS PREV DO SIST NEFROUROGENI",
+            "semester": "2018.2",
+            "professor": "MARIA SOLANGE QUEIROGA MEDEIROS, PABLO RODRIGUES COSTA ALVES, LEANDRO HENRIQUE DE MESQUITA TAVARES, JOSE IRAN DE MEDEIROS LACERDA e ARLINDO MONTEIRO DE CARVALHO JUNIOR",
+            "horario": "5M123 6T123 (22/11/2018 - 10/05/2019)",
+            "local": "CCM P6A 2º ANDAR (CCM)"
+          },
+          {
+            "id": "1802133",
+            "turmaid": "02",
+            "nome": " MIV32DOENCAS PREV DO SIST NEFROUROGENI",
+            "semester": "2018.2",
+            "professor": "MARIA SOLANGE QUEIROGA MEDEIROS, PABLO RODRIGUES COSTA ALVES, LEANDRO HENRIQUE DE MESQUITA TAVARES, JOSE IRAN DE MEDEIROS LACERDA e ARLINDO MONTEIRO DE CARVALHO JUNIOR",
+            "horario": "3M345 6M123 (22/11/2018 - 10/05/2019)",
+            "local": "CCM P6B 2º ANDAR (CCM)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1802134",
+        "name": "MHB6RELACAO MEDICO PACIENTE II",
+        "category": "Complementar Obrigatória",
+        "semester": 6,
+        "workload": "32h aula 0h lab.",
+        "type": "MODULO",
+        "turmas": [
+          {
+            "id": "1802134",
+            "turmaid": "01",
+            "nome": " MHB6RELACAO MEDICO PACIENTE II",
+            "semester": "2018.2",
+            "professor": "JOSE GIVALDO MELQUIADES DE MEDEIROS",
+            "horario": "3T34 (22/11/2018 - 10/05/2019)",
+            "local": "CCM P6A 2º ANDAR (CCM)"
+          },
+          {
+            "id": "1802134",
+            "turmaid": "02",
+            "nome": " MHB6RELACAO MEDICO PACIENTE II",
+            "semester": "2018.2",
+            "professor": "GILKA PAIVA OLIVEIRA COSTA e JACICARLOS LIMA DE ALENCAR",
+            "horario": "2T34 (22/11/2018 - 10/05/2019)",
+            "local": "CCM P6B 2º ANDAR (CCM)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1803104",
+        "name": "MIV33ASSISTENCIA A SAUDE DA MULHER",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "80h aula 0h lab.",
+        "type": "MODULO",
+        "turmas": [
+          {
+            "id": "1803104",
+            "turmaid": "01",
+            "nome": " MIV33ASSISTENCIA A SAUDE DA MULHER",
+            "semester": "2018.2",
+            "professor": "ADRIANA DE FREITAS TORRES, EDUARDO SERGIO SOARES SOUSA, EDUARDO HENRIQUE DE MOURA RAMOS e LUCIA SARMENTO DE OLIVEIRA DE FIGUEIREDO",
+            "horario": "6M123 3T12 (22/11/2018 - 10/05/2019)",
+            "local": "CCM P6A 2º ANDAR (CCM)"
+          },
+          {
+            "id": "1803104",
+            "turmaid": "02",
+            "nome": " MIV33ASSISTENCIA A SAUDE DA MULHER",
+            "semester": "2018.2",
+            "professor": "JULIANE DORNELAS LUCIO, MARCOS AURELIO FONSECA MAGALHAES, JOSE GOMES BATISTA e JOAO BENEDITO DE FIGUEIREDO VINAGRE",
+            "horario": "6M123 3T12 (22/11/2018 - 10/05/2019)",
+            "local": "AMBULATÓRIO DE GINECOLOGIA 3 (CCM)"
+          },
+          {
+            "id": "1803104",
+            "turmaid": "03",
+            "nome": " MIV33ASSISTENCIA A SAUDE DA MULHER",
+            "semester": "2018.2",
+            "professor": "ADRIANA DE FREITAS TORRES, EDUARDO SERGIO SOARES SOUSA, EDUARDO HENRIQUE DE MOURA RAMOS e LUCIA SARMENTO DE OLIVEIRA DE FIGUEIREDO",
+            "horario": "3M12 4T123 (22/11/2018 - 10/05/2019)",
+            "local": "CCM P6B 2º ANDAR (CCM)"
+          },
+          {
+            "id": "1803104",
+            "turmaid": "04",
+            "nome": " MIV33ASSISTENCIA A SAUDE DA MULHER",
+            "semester": "2018.2",
+            "professor": "JULIANE DORNELAS LUCIO, MARCOS AURELIO FONSECA MAGALHAES, JOSE GOMES BATISTA e JOAO BENEDITO DE FIGUEIREDO VINAGRE",
+            "horario": "3M12 4T123 (22/11/2018 - 10/05/2019)",
+            "local": "AMBULATÓRIO DE GINECOLOGIA 4 (CCM)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1803105",
+        "name": "MIV34ASSISTENCIA MATERNA E NEONATAL",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "80h aula 0h lab.",
+        "type": "MODULO",
+        "turmas": [
+          {
+            "id": "1803105",
+            "turmaid": "01",
+            "nome": " MIV34ASSISTENCIA MATERNA E NEONATAL",
+            "semester": "2018.2",
+            "professor": "MARIA AMELIA DE ROLIM RANGEL, MOISES DIOGO DE LIMA e DUNYA RODRIGUES MOTA CARNEIRO",
+            "horario": "4M12345 (22/11/2018 - 10/05/2019)",
+            "local": "CCM P6A 2º ANDAR (CCM)"
+          },
+          {
+            "id": "1803105",
+            "turmaid": "02",
+            "nome": " MIV34ASSISTENCIA MATERNA E NEONATAL",
+            "semester": "2018.2",
+            "professor": "LAKYME ANGELO MANGUEIRA PORTO, RIEVANI DE SOUZA DAMIAO e MARIA DA CONCEICAO NOBREGA",
+            "horario": "4M12345 (22/11/2018 - 10/05/2019)",
+            "local": "AMBULATÓRIO DE PRÉ-NATAL 2 (CCM)"
+          },
+          {
+            "id": "1803105",
+            "turmaid": "03",
+            "nome": " MIV34ASSISTENCIA MATERNA E NEONATAL",
+            "semester": "2018.2",
+            "professor": "MARIA AMELIA DE ROLIM RANGEL, MOISES DIOGO DE LIMA e DUNYA RODRIGUES MOTA CARNEIRO",
+            "horario": "5M123 3T12 (22/11/2018 - 10/05/2019)",
+            "local": "CCM P6B 2º ANDAR (CCM)"
+          },
+          {
+            "id": "1803105",
+            "turmaid": "04",
+            "nome": " MIV34ASSISTENCIA MATERNA E NEONATAL",
+            "semester": "2018.2",
+            "professor": "LAKYME ANGELO MANGUEIRA PORTO, RIEVANI DE SOUZA DAMIAO e MARIA DA CONCEICAO NOBREGA",
+            "horario": "5M123 3T12 (22/11/2018 - 10/05/2019)",
+            "local": "AMBULATÓRIO DE PRÉ-NATAL 4 (CCM)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1804118",
+        "name": "MHA6ATEND INT A SAUDE DA M E DO NEONATO",
+        "category": "Complementar Obrigatória",
+        "semester": 6,
+        "workload": "96h aula 0h lab.",
+        "type": "MODULO",
+        "turmas": [
+          {
+            "id": "1804118",
+            "turmaid": "01",
+            "nome": " MHA6ATEND INT A SAUDE DA M E DO NEONATO",
+            "semester": "2018.2",
+            "professor": "VALDEREZ ARAUJO DE LIMA RAMOS, EDUARDO HENRIQUE DE MOURA RAMOS, JOSE GOMES BATISTA, LAKYME ANGELO MANGUEIRA PORTO, ADRIANA DE FREITAS TORRES, DANIEL DE ALBUQUERQUE RANGEL MOREIRA, MARCOS AURELIO FONSECA MAGALHAES, RIEVANI DE SOUZA DAMIAO, MARIA DA CONCEICAO NOBREGA, MARIA AMELIA DE ROLIM RANGEL, EDUARDO SERGIO SOARES SOUSA, JULIANE DORNELAS LUCIO, ANDREA LARISSA RIBEIRO PIRES, LUCIA SARMENTO DE OLIVEIRA DE FIGUEIREDO, LIANE CARVALHO VIANA e DUNYA RODRIGUES MOTA CARNEIRO",
+            "horario": "2M2345 5M45 (22/11/2018 - 10/05/2019)",
+            "local": "CCM P6A 2º ANDAR (CCM)"
+          },
+          {
+            "id": "1804118",
+            "turmaid": "02",
+            "nome": " MHA6ATEND INT A SAUDE DA M E DO NEONATO",
+            "semester": "2018.2",
+            "professor": "VALDEREZ ARAUJO DE LIMA RAMOS, EDUARDO HENRIQUE DE MOURA RAMOS, JOSE GOMES BATISTA, LAKYME ANGELO MANGUEIRA PORTO, ADRIANA DE FREITAS TORRES, DANIEL DE ALBUQUERQUE RANGEL MOREIRA, MARCOS AURELIO FONSECA MAGALHAES, RIEVANI DE SOUZA DAMIAO, MARIA DA CONCEICAO NOBREGA, MARIA AMELIA DE ROLIM RANGEL, EDUARDO SERGIO SOARES SOUSA, JULIANE DORNELAS LUCIO, ANDREA LARISSA RIBEIRO PIRES, LUCIA SARMENTO DE OLIVEIRA DE FIGUEIREDO, LIANE CARVALHO VIANA e DUNYA RODRIGUES MOTA CARNEIRO",
+            "horario": "2M2345 3T34 (22/11/2018 - 10/05/2019)",
+            "local": "CCM P6B 2º ANDAR (CCM)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1802135",
+        "name": "MIV35DOENCAS PREV SIST HEMATOLOGICO",
+        "category": "Obrigatória",
+        "semester": 7,
+        "workload": "96h aula 0h lab.",
+        "type": "MODULO",
+        "turmas": [
+          {
+            "id": "1802135",
+            "turmaid": "01",
+            "nome": " MIV35DOENCAS PREV SIST HEMATOLOGICO",
+            "semester": "2018.2",
+            "professor": "MARIA ANGELINA CARTAXO FILGUEIRAS FERNANDES, LUIS FABIO BARBOSA BOTELHO, AYLA CRISTINA NOBREGA BARBOSA e FLAVIA CRISTINA FERNANDES PIMENTA",
+            "horario": "5M45 3T1234 (22/11/2018 - 10/05/2019)",
+            "local": "CCM P7A 2º ANDAR (CCM)"
+          },
+          {
+            "id": "1802135",
+            "turmaid": "02",
+            "nome": " MIV35DOENCAS PREV SIST HEMATOLOGICO",
+            "semester": "2018.2",
+            "professor": "MARIA ANGELINA CARTAXO FILGUEIRAS FERNANDES, LUIS FABIO BARBOSA BOTELHO, AYLA CRISTINA NOBREGA BARBOSA e FLAVIA CRISTINA FERNANDES PIMENTA",
+            "horario": "3M1234 5M12 (22/11/2018 - 10/05/2019)",
+            "local": "CCM P7B 2º ANDAR (CCM)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1802136",
+        "name": "MIV38ELEMENTROS DE MEDICINA LEGAL",
+        "category": "Obrigatória",
+        "semester": 7,
+        "workload": "80h aula 0h lab.",
+        "type": "MODULO",
+        "turmas": [
+          {
+            "id": "1802136",
+            "turmaid": "01",
+            "nome": " MIV38ELEMENTROS DE MEDICINA LEGAL",
+            "semester": "2018.2",
+            "professor": "FELIPE GURGEL DE ARAUJO e ALVARO FERREIRA LIMA JUNIOR",
+            "horario": "3M123 5T34 (22/11/2018 - 10/05/2019)",
+            "local": "CCM P7A 2º ANDAR (CCM)"
+          },
+          {
+            "id": "1802136",
+            "turmaid": "02",
+            "nome": " MIV38ELEMENTROS DE MEDICINA LEGAL",
+            "semester": "2018.2",
+            "professor": "LILIAN DEBORA PASCHOALIN MIGUEL, ALVARO FERREIRA LIMA JUNIOR e FELIPE GURGEL DE ARAUJO",
+            "horario": "2T123 6T34 (22/11/2018 - 10/05/2019)",
+            "local": "CCM P7B 2º ANDAR (CCM)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1802137",
+        "name": "MHB7ETICA MEDICA E BIOETICA",
+        "category": "Complementar Obrigatória",
+        "semester": 7,
+        "workload": "32h aula 0h lab.",
+        "type": "MODULO",
+        "turmas": [
+          {
+            "id": "1802137",
+            "turmaid": "01",
+            "nome": " MHB7ETICA MEDICA E BIOETICA",
+            "semester": "2018.2",
+            "professor": "JACICARLOS LIMA DE ALENCAR",
+            "horario": "5M12 (22/11/2018 - 10/05/2019)",
+            "local": "CCM P7A 2º ANDAR (CCM)"
+          },
+          {
+            "id": "1802137",
+            "turmaid": "02",
+            "nome": " MHB7ETICA MEDICA E BIOETICA",
+            "semester": "2018.2",
+            "professor": "JACICARLOS LIMA DE ALENCAR",
+            "horario": "5T34 (22/11/2018 - 10/05/2019)",
+            "local": "CCM P7B 2º ANDAR (CCM)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1802138",
+        "name": "MCO3ELABOR DE TRAB CIENTIFICO E TCC",
+        "category": "Complementar Obrigatória",
+        "semester": 7,
+        "workload": "32h aula 0h lab.",
+        "type": "MODULO",
+        "turmas": [
+          {
+            "id": "1802138",
+            "turmaid": "01",
+            "nome": " MCO3ELABOR DE TRAB CIENTIFICO E TCC",
+            "semester": "2018.2",
+            "professor": "AGANEIDE CASTILHO PALITOT",
+            "horario": "4M12 (22/11/2018 - 10/05/2019)",
+            "local": "CCM P7A 2º ANDAR (CCM)"
+          },
+          {
+            "id": "1802138",
+            "turmaid": "02",
+            "nome": " MCO3ELABOR DE TRAB CIENTIFICO E TCC",
+            "semester": "2018.2",
+            "professor": "ANDRE TELIS DE VILELA ARAUJO",
+            "horario": "4M12 (22/11/2018 - 10/05/2019)",
+            "local": "CCM P7B 2º ANDAR (CCM)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1804106",
+        "name": "MIV37 ASSISTÊNCIA  A SAÚDE DA CRIANÇA  E DO ADOLESCENTE",
+        "category": "Obrigatória",
+        "semester": 7,
+        "workload": "112h aula 0h lab.",
+        "type": "MODULO",
+        "turmas": [
+          {
+            "id": "1804106",
+            "turmaid": "01",
+            "nome": " MIV37 ASSISTÊNCIA  A SAÚDE DA CRIANÇA  E DO ADOLESCENTE",
+            "semester": "2018.2",
+            "professor": "ADRIANA QUEIROGA SARMENTO GUERRA, CONSTANTINO GIOVANNI BRAGA CARTAXO, DANIEL DE ALBUQUERQUE RANGEL MOREIRA e JOACILDA DA CONCEICAO NUNES",
+            "horario": "2M1234 6T123 (22/11/2018 - 10/05/2019)",
+            "local": "CCM P7A 2º ANDAR (CCM)"
+          },
+          {
+            "id": "1804106",
+            "turmaid": "02",
+            "nome": " MIV37 ASSISTÊNCIA  A SAÚDE DA CRIANÇA  E DO ADOLESCENTE",
+            "semester": "2018.2",
+            "professor": "ADRIANA QUEIROGA SARMENTO GUERRA, CONSTANTINO GIOVANNI BRAGA CARTAXO, DANIEL DE ALBUQUERQUE RANGEL MOREIRA e JOACILDA DA CONCEICAO NUNES",
+            "horario": "5M45 6M123 5T12 (22/11/2018 - 10/05/2019)",
+            "local": "CCM P7B 2º ANDAR (CCM)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1804107",
+        "name": "MHA7ATEND INT A S DO AD DA CR E ADOLESC",
+        "category": "Complementar Obrigatória",
+        "semester": 7,
+        "workload": "96h aula 0h lab.",
+        "type": "MODULO",
+        "turmas": [
+          {
+            "id": "1804107",
+            "turmaid": "01",
+            "nome": " MHA7ATEND INT A S DO AD DA CR E ADOLESC",
+            "semester": "2018.2",
+            "professor": "RENATA DE CERQUEIRA PAES CORREA LIMA, HENRIQUE GIL DA SILVA NUNES MAIA, ROXANA DE ALMEIDA ROQUE FONTES SILVA e JULIANA CARNEIRO MONTEIRO WANDERLEY",
+            "horario": "3M45 6M1234 (22/11/2018 - 10/05/2019)",
+            "local": "CCM P7A 2º ANDAR (CCM)"
+          },
+          {
+            "id": "1804107",
+            "turmaid": "02",
+            "nome": " MHA7ATEND INT A S DO AD DA CR E ADOLESC",
+            "semester": "2018.2",
+            "professor": "RENATA DE CERQUEIRA PAES CORREA LIMA, HENRIQUE GIL DA SILVA NUNES MAIA, ROXANA DE ALMEIDA ROQUE FONTES SILVA e JULIANA CARNEIRO MONTEIRO WANDERLEY",
+            "horario": "6M45 3T1234 (22/11/2018 - 10/05/2019)",
+            "local": "CCM P7B 2º ANDAR (CCM)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1805124",
+        "name": "MIV36DOENCAS INFECTOCONTAGIOSAS",
+        "category": "Obrigatória",
+        "semester": 7,
+        "workload": "32h aula 64h lab.",
+        "type": "MODULO",
+        "turmas": [
+          {
+            "id": "1805124",
+            "turmaid": "01A",
+            "nome": " MIV36DOENCAS INFECTOCONTAGIOSAS",
+            "semester": "2018.2",
+            "professor": "LUCIANA HOLMES SIMOES, ANA ISABEL VIEIRA FERNANDES, NILMA MARIA PORTO DE FARIAS CORDEIRO DE MEDEIROS, CLARISSA BARROS MADRUGA e FRANCISCO BERNARDINO DA SILVA NETO",
+            "horario": "2T2345 5T12 (22/11/2018 - 10/05/2019)",
+            "local": "CCMP5A 2º ANDAR (CCM) / CCM P3 2º ANDAR (CCM)"
+          },
+          {
+            "id": "1805124",
+            "turmaid": "02A",
+            "nome": " MIV36DOENCAS INFECTOCONTAGIOSAS",
+            "semester": "2018.2",
+            "professor": "LUCIANA HOLMES SIMOES, ANA ISABEL VIEIRA FERNANDES, NILMA MARIA PORTO DE FARIAS CORDEIRO DE MEDEIROS, CLARISSA BARROS MADRUGA e FRANCISCO BERNARDINO DA SILVA NETO",
+            "horario": "2M2345 6T12 (22/11/2018 - 10/05/2019)",
+            "local": "CCM GERAL 3 2º ANDAR (CCM) / CCM P7B 2º ANDAR (CCM)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1801103",
+        "name": "MIV40D PREV DO SIST SENS E V AEREAS SUP",
+        "category": "Obrigatória",
+        "semester": 8,
+        "workload": "96h aula 0h lab.",
+        "type": "MODULO",
+        "turmas": [
+          {
+            "id": "1801103",
+            "turmaid": "01",
+            "nome": " MIV40D PREV DO SIST SENS E V AEREAS SUP",
+            "semester": "2018.2",
+            "professor": "LEONARDO FONTES SILVA, HAROLDO DE LUCENA BEZERRA, ERICH CHRISTIANO MADRUGA DE MELO, JOAO PESSOA DE SOUZA FILHO e MARIA JOSE CLAUDINO DE PONTES",
+            "horario": "5M12 3T1234 (22/11/2018 - 10/05/2019)",
+            "local": "CCM P8A 2º ANDAR (CCM)"
+          },
+          {
+            "id": "1801103",
+            "turmaid": "02",
+            "nome": " MIV40D PREV DO SIST SENS E V AEREAS SUP",
+            "semester": "2018.2",
+            "professor": "LEONARDO FONTES SILVA, HAROLDO DE LUCENA BEZERRA, ERICH CHRISTIANO MADRUGA DE MELO, JOAO PESSOA DE SOUZA FILHO e MARIA JOSE CLAUDINO DE PONTES",
+            "horario": "2M1234 5T12 (22/11/2018 - 10/05/2019)",
+            "local": "CCM P8B  2º ANDAR (CCM)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1801118",
+        "name": "MIV39ABORD CLIN E CIRG D E T S OSTARTI",
+        "category": "Obrigatória",
+        "semester": 8,
+        "workload": "96h aula 0h lab.",
+        "type": "MODULO",
+        "turmas": [
+          {
+            "id": "1801118",
+            "turmaid": "01",
+            "nome": " MIV39ABORD CLIN E CIRG D E T S OSTARTI",
+            "semester": "2018.2",
+            "professor": "ROSALVO ZOSIMO BISPO JUNIOR, RICARDO BARROS CARDOSO, ORLANDO CAVALCANTI DE FARIAS FILHO, ALESSANDRA SOUSA BRAZ CALDAS DE ANDRADE, DANIELLE CHRISTINNE SOARES EGYPTO DE BRITO e EUTILIA ANDRADE MEDEIROS FREIRE",
+            "horario": "5M34 6T1234 (22/11/2018 - 10/05/2019)",
+            "local": "CCM P8A 2º ANDAR (CCM)"
+          },
+          {
+            "id": "1801118",
+            "turmaid": "02",
+            "nome": " MIV39ABORD CLIN E CIRG D E T S OSTARTI",
+            "semester": "2018.2",
+            "professor": "ROSALVO ZOSIMO BISPO JUNIOR, RICARDO BARROS CARDOSO, ORLANDO CAVALCANTI DE FARIAS FILHO, ALESSANDRA SOUSA BRAZ CALDAS DE ANDRADE, DANIELLE CHRISTINNE SOARES EGYPTO DE BRITO e EUTILIA ANDRADE MEDEIROS FREIRE",
+            "horario": "3M1234 6T34 (22/11/2018 - 10/05/2019)",
+            "local": "CCM P8B  2º ANDAR (CCM)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1801119",
+        "name": "MHA8 ABORD CLIN E SOC NAS URG E EMERG",
+        "category": "Complementar Obrigatória",
+        "semester": 8,
+        "workload": "96h aula 0h lab.",
+        "type": "MODULO",
+        "turmas": [
+          {
+            "id": "1801119",
+            "turmaid": "01",
+            "nome": " MHA8 ABORD CLIN E SOC NAS URG E EMERG",
+            "semester": "2018.2",
+            "professor": "GILVANDRO LINS DE OLIVEIRA JUNIOR, FELIPE TAVARES SENA, LUIS FABIO BARBOSA BOTELHO, MANOEL RICARDO SENA NOGUEIRA, MARCO ANTONIO DE VIVO BARROS e ISAAC NEWTON GUIMARAES ANDRADE",
+            "horario": "3M1234 4T12 (22/11/2018 - 10/05/2019)",
+            "local": "CCM P8A 2º ANDAR (CCM)"
+          },
+          {
+            "id": "1801119",
+            "turmaid": "02",
+            "nome": " MHA8 ABORD CLIN E SOC NAS URG E EMERG",
+            "semester": "2018.2",
+            "professor": "GILVANDRO LINS DE OLIVEIRA JUNIOR, FELIPE TAVARES SENA, LUIS FABIO BARBOSA BOTELHO, MANOEL RICARDO SENA NOGUEIRA, MARCO ANTONIO DE VIVO BARROS e ISAAC NEWTON GUIMARAES ANDRADE",
+            "horario": "2T1234 4T12 (22/11/2018 - 10/05/2019)",
+            "local": "CCM P8B  2º ANDAR (CCM)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1802139",
+        "name": "MIV41DOENCAS PREV SIST NER CENT E PERIF",
+        "category": "Obrigatória",
+        "semester": 8,
+        "workload": "96h aula 0h lab.",
+        "type": "MODULO",
+        "turmas": [
+          {
+            "id": "1802139",
+            "turmaid": "01",
+            "nome": " MIV41DOENCAS PREV SIST NER CENT E PERIF",
+            "semester": "2018.2",
+            "professor": "CHRISTIAN DINIZ FERREIRA, MAURUS MARQUES DE ALMEIDA HOLANDA e STENIO ABRANTES SARMENTO",
+            "horario": "2M1234 5T12 (22/11/2018 - 10/05/2019)",
+            "local": "CCM P8A 2º ANDAR (CCM)"
+          },
+          {
+            "id": "1802139",
+            "turmaid": "02",
+            "nome": " MIV41DOENCAS PREV SIST NER CENT E PERIF",
+            "semester": "2018.2",
+            "professor": "CHRISTIAN DINIZ FERREIRA, MAURUS MARQUES DE ALMEIDA HOLANDA e STENIO ABRANTES SARMENTO",
+            "horario": "6M1234 3T12 (22/11/2018 - 10/05/2019)",
+            "local": "CCM P8B  2º ANDAR (CCM)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1802140",
+        "name": "MIV42TRANST E COND MENTAIS PREVALENTES",
+        "category": "Obrigatória",
+        "semester": 8,
+        "workload": "96h aula 0h lab.",
+        "type": "MODULO",
+        "turmas": [
+          {
+            "id": "1802140",
+            "turmaid": "01",
+            "nome": " MIV42TRANST E COND MENTAIS PREVALENTES",
+            "semester": "2018.2",
+            "professor": "RIVANDO RODRIGUES DE SOUSA OLIVEIRA, HEYDRICH LOPES VIRGULINO DE MEDEIROS e ALFREDO JOSE MINERVINO",
+            "horario": "6M1234 5T34 (22/11/2018 - 10/05/2019)",
+            "local": "CCM P8A 2º ANDAR (CCM)"
+          },
+          {
+            "id": "1802140",
+            "turmaid": "02",
+            "nome": " MIV42TRANST E COND MENTAIS PREVALENTES",
+            "semester": "2018.2",
+            "professor": "RIVANDO RODRIGUES DE SOUSA OLIVEIRA, HEYDRICH LOPES VIRGULINO DE MEDEIROS e ALFREDO JOSE MINERVINO",
+            "horario": "5M1234 3T34 (22/11/2018 - 10/05/2019)",
+            "local": "CCM P8B  2º ANDAR (CCM)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1802141",
+        "name": "MIV43ASSITENCIA A SAUDE DO IDOSO",
+        "category": "Obrigatória",
+        "semester": 8,
+        "workload": "32h aula 0h lab.",
+        "type": "MODULO",
+        "turmas": [
+          {
+            "id": "1802141",
+            "turmaid": "01",
+            "nome": " MIV43ASSITENCIA A SAUDE DO IDOSO",
+            "semester": "2018.2",
+            "professor": "MANUELLA DE SOUSA TOLEDO MATIAS e EDUARDO GOMES DE MELO",
+            "horario": "2T34 (22/11/2018 - 10/05/2019)",
+            "local": "CCM P8A 2º ANDAR (CCM)"
+          },
+          {
+            "id": "1802141",
+            "turmaid": "02",
+            "nome": " MIV43ASSITENCIA A SAUDE DO IDOSO",
+            "semester": "2018.2",
+            "professor": "MANUELLA DE SOUSA TOLEDO MATIAS e EDUARDO GOMES DE MELO",
+            "horario": "5T34 (22/11/2018 - 10/05/2019)",
+            "local": "CCM P8B  2º ANDAR (CCM)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1802142",
+        "name": "MHB8DIL ET NA MED MOD E NA REL MEDPACI",
+        "category": "Complementar Obrigatória",
+        "semester": 8,
+        "workload": "32h aula 0h lab.",
+        "type": "MODULO",
+        "turmas": [
+          {
+            "id": "1802142",
+            "turmaid": "01",
+            "nome": " MHB8DIL ET NA MED MOD E NA REL MEDPACI",
+            "semester": "2018.2",
+            "professor": "GILKA PAIVA OLIVEIRA COSTA e JACICARLOS LIMA DE ALENCAR",
+            "horario": "2T12 (22/11/2018 - 10/05/2019)",
+            "local": "CCM P8A 2º ANDAR (CCM)"
+          },
+          {
+            "id": "1802142",
+            "turmaid": "02",
+            "nome": " MHB8DIL ET NA MED MOD E NA REL MEDPACI",
+            "semester": "2018.2",
+            "professor": "JOSE GIVALDO MELQUIADES DE MEDEIROS",
+            "horario": "6T12 (22/11/2018 - 10/05/2019)",
+            "local": "CCM P8B  2º ANDAR (CCM)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1803107",
+        "name": "MOGI1 CUR OBG DE T EM SER INTERNATO",
+        "category": "Obrigatória",
+        "semester": 9,
+        "workload": "0h aula 480h lab.",
+        "type": "ESTÁGIO",
+        "turmas": [
+          {
+            "id": "1803107",
+            "turmaid": "01",
+            "nome": " MOGI1 CUR OBG DE T EM SER INTERNATO",
+            "semester": "2018.2",
+            "professor": "ADRIANA DE FREITAS TORRES, ANDREA LARISSA RIBEIRO PIRES, EDUARDO HENRIQUE DE MOURA RAMOS e DUNYA RODRIGUES MOTA CARNEIRO",
+            "horario": "",
+            "local": ""
+          },
+          {
+            "id": "1803107",
+            "turmaid": "02",
+            "nome": " MOGI1 CUR OBG DE T EM SER INTERNATO",
+            "semester": "2018.2",
+            "professor": "EDUARDO SERGIO SOARES SOUSA, JOSE GOMES BATISTA, JOAO BENEDITO DE FIGUEIREDO VINAGRE e DUNYA RODRIGUES MOTA CARNEIRO",
+            "horario": "",
+            "local": ""
+          },
+          {
+            "id": "1803107",
+            "turmaid": "03",
+            "nome": " MOGI1 CUR OBG DE T EM SER INTERNATO",
+            "semester": "2018.2",
+            "professor": "LAKYME ANGELO MANGUEIRA PORTO, JULIANE DORNELAS LUCIO, LUCIA SARMENTO DE OLIVEIRA DE FIGUEIREDO e DUNYA RODRIGUES MOTA CARNEIRO",
+            "horario": "",
+            "local": ""
+          },
+          {
+            "id": "1803107",
+            "turmaid": "04",
+            "nome": " MOGI1 CUR OBG DE T EM SER INTERNATO",
+            "semester": "2018.2",
+            "professor": "MARIA AMELIA DE ROLIM RANGEL, DUNYA RODRIGUES MOTA CARNEIRO e MARCOS AURELIO FONSECA MAGALHAES",
+            "horario": "",
+            "local": ""
+          },
+          {
+            "id": "1803107",
+            "turmaid": "05",
+            "nome": " MOGI1 CUR OBG DE T EM SER INTERNATO",
+            "semester": "2018.2",
+            "professor": "MARIA DA CONCEICAO NOBREGA, MOISES DIOGO DE LIMA e DUNYA RODRIGUES MOTA CARNEIRO",
+            "horario": "",
+            "local": ""
+          },
+          {
+            "id": "1803107",
+            "turmaid": "06",
+            "nome": " MOGI1 CUR OBG DE T EM SER INTERNATO",
+            "semester": "2018.2",
+            "professor": "RIEVANI DE SOUZA DAMIAO, THIAGO LINS DA COSTA ALMEIDA e DUNYA RODRIGUES MOTA CARNEIRO",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1803108",
+        "name": "MOGI2 CUR OBG DE T EM SER INTERNATO",
+        "category": "Obrigatória",
+        "semester": 9,
+        "workload": "0h aula 384h lab.",
+        "type": "ESTÁGIO",
+        "turmas": [
+          {
+            "id": "1803108",
+            "turmaid": "01",
+            "nome": " MOGI2 CUR OBG DE T EM SER INTERNATO",
+            "semester": "2018.2",
+            "professor": "ADRIANA DE FREITAS TORRES, ANDREA LARISSA RIBEIRO PIRES, EDUARDO HENRIQUE DE MOURA RAMOS e DUNYA RODRIGUES MOTA CARNEIRO",
+            "horario": "",
+            "local": ""
+          },
+          {
+            "id": "1803108",
+            "turmaid": "02",
+            "nome": " MOGI2 CUR OBG DE T EM SER INTERNATO",
+            "semester": "2018.2",
+            "professor": "EDUARDO SERGIO SOARES SOUSA, JOSE GOMES BATISTA, JOAO BENEDITO DE FIGUEIREDO VINAGRE e DUNYA RODRIGUES MOTA CARNEIRO",
+            "horario": "",
+            "local": ""
+          },
+          {
+            "id": "1803108",
+            "turmaid": "03",
+            "nome": " MOGI2 CUR OBG DE T EM SER INTERNATO",
+            "semester": "2018.2",
+            "professor": "LAKYME ANGELO MANGUEIRA PORTO, JULIANE DORNELAS LUCIO, LUCIA SARMENTO DE OLIVEIRA DE FIGUEIREDO e DUNYA RODRIGUES MOTA CARNEIRO",
+            "horario": "",
+            "local": ""
+          },
+          {
+            "id": "1803108",
+            "turmaid": "04",
+            "nome": " MOGI2 CUR OBG DE T EM SER INTERNATO",
+            "semester": "2018.2",
+            "professor": "MARIA AMELIA DE ROLIM RANGEL, DUNYA RODRIGUES MOTA CARNEIRO e MARCOS AURELIO FONSECA MAGALHAES",
+            "horario": "",
+            "local": ""
+          },
+          {
+            "id": "1803108",
+            "turmaid": "05",
+            "nome": " MOGI2 CUR OBG DE T EM SER INTERNATO",
+            "semester": "2018.2",
+            "professor": "MARIA DA CONCEICAO NOBREGA, MOISES DIOGO DE LIMA e DUNYA RODRIGUES MOTA CARNEIRO",
+            "horario": "",
+            "local": ""
+          },
+          {
+            "id": "1803108",
+            "turmaid": "06",
+            "nome": " MOGI2 CUR OBG DE T EM SER INTERNATO",
+            "semester": "2018.2",
+            "professor": "RIEVANI DE SOUZA DAMIAO, THIAGO LINS DA COSTA ALMEIDA e DUNYA RODRIGUES MOTA CARNEIRO",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1801120",
+        "name": "MCCI2CUR OB DE TREI EM S INTERNATO",
+        "category": "Obrigatória",
+        "semester": 10,
+        "workload": "0h aula 384h lab.",
+        "type": "ESTÁGIO",
+        "turmas": [
+          {
+            "id": "1801120",
+            "turmaid": "01",
+            "nome": " MCCI2CUR OB DE TREI EM S INTERNATO",
+            "semester": "2018.2",
+            "professor": "OTACILIO FIGUEIREDO DA SILVA JUNIOR, ERICH CHRISTIANO MADRUGA DE MELO, AGRIPINO JOAQUIM DE MELO E SILVA, CASSIO VIRGILIO CAVALCANTE DE OLIVEIRA e ARLINDO MONTEIRO DE CARVALHO JUNIOR",
+            "horario": "",
+            "local": ""
+          },
+          {
+            "id": "1801120",
+            "turmaid": "02",
+            "nome": " MCCI2CUR OB DE TREI EM S INTERNATO",
+            "semester": "2018.2",
+            "professor": "OTACILIO FIGUEIREDO DA SILVA JUNIOR, HAROLDO DE LUCENA BEZERRA, JOAO PESSOA DE SOUZA FILHO, FRANCISCO CHAVIER VIEIRA BANDEIRA e FERNANDO ANTONIO DE CARVALHO",
+            "horario": "",
+            "local": ""
+          },
+          {
+            "id": "1801120",
+            "turmaid": "03",
+            "nome": " MCCI2CUR OB DE TREI EM S INTERNATO",
+            "semester": "2018.2",
+            "professor": "KLECIUS LEITE FERNANDES, LEONARDO FONTES SILVA, OTACILIO FIGUEIREDO DA SILVA JUNIOR, JOSE LUCAS DE CARVALHO e LEANDRO HENRIQUE DE MESQUITA TAVARES",
+            "horario": "",
+            "local": ""
+          },
+          {
+            "id": "1801120",
+            "turmaid": "04",
+            "nome": " MCCI2CUR OB DE TREI EM S INTERNATO",
+            "semester": "2018.2",
+            "professor": "OTACILIO FIGUEIREDO DA SILVA JUNIOR, MARCELO GONCALVES SOUSA, MARCIA ADRIANA DIAS MEIRELLES MOREIRA, MARIA JOSE CLAUDINO DE PONTES e MANOEL RICARDO SENA NOGUEIRA",
+            "horario": "",
+            "local": ""
+          },
+          {
+            "id": "1801120",
+            "turmaid": "05",
+            "nome": " MCCI2CUR OB DE TREI EM S INTERNATO",
+            "semester": "2018.2",
+            "professor": "OTACILIO FIGUEIREDO DA SILVA JUNIOR",
+            "horario": "",
+            "local": ""
+          },
+          {
+            "id": "1801120",
+            "turmaid": "06",
+            "nome": " MCCI2CUR OB DE TREI EM S INTERNATO",
+            "semester": "2018.2",
+            "professor": "OTACILIO FIGUEIREDO DA SILVA JUNIOR",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1801131",
+        "name": "MCCI1 EST CUR OB TREIN E SERV INTERNATO",
+        "category": "Obrigatória",
+        "semester": 10,
+        "workload": "0h aula 480h lab.",
+        "type": "ESTÁGIO",
+        "turmas": [
+          {
+            "id": "1801131",
+            "turmaid": "01",
+            "nome": " MCCI1 EST CUR OB TREIN E SERV INTERNATO",
+            "semester": "2018.2",
+            "professor": "OTACILIO FIGUEIREDO DA SILVA JUNIOR",
+            "horario": "",
+            "local": ""
+          },
+          {
+            "id": "1801131",
+            "turmaid": "02",
+            "nome": " MCCI1 EST CUR OB TREIN E SERV INTERNATO",
+            "semester": "2018.2",
+            "professor": "OTACILIO FIGUEIREDO DA SILVA JUNIOR",
+            "horario": "",
+            "local": ""
+          },
+          {
+            "id": "1801131",
+            "turmaid": "03",
+            "nome": " MCCI1 EST CUR OB TREIN E SERV INTERNATO",
+            "semester": "2018.2",
+            "professor": "OTACILIO FIGUEIREDO DA SILVA JUNIOR e WALTER MENDES DE OLIVEIRA JUNIOR",
+            "horario": "",
+            "local": ""
+          },
+          {
+            "id": "1801131",
+            "turmaid": "04",
+            "nome": " MCCI1 EST CUR OB TREIN E SERV INTERNATO",
+            "semester": "2018.2",
+            "professor": "OTACILIO FIGUEIREDO DA SILVA JUNIOR e ZAILTON BEZERRA DE LIMA JUNIOR",
+            "horario": "",
+            "local": ""
+          },
+          {
+            "id": "1801131",
+            "turmaid": "05",
+            "nome": " MCCI1 EST CUR OB TREIN E SERV INTERNATO",
+            "semester": "2018.2",
+            "professor": "OTACILIO FIGUEIREDO DA SILVA JUNIOR, SERGIO AUGUSTO PENAZZI JUNIOR e ROBERTO SERGIO DA CUNHA ARAUJO",
+            "horario": "",
+            "local": ""
+          },
+          {
+            "id": "1801131",
+            "turmaid": "06",
+            "nome": " MCCI1 EST CUR OB TREIN E SERV INTERNATO",
+            "semester": "2018.2",
+            "professor": "OTACILIO FIGUEIREDO DA SILVA JUNIOR, THIAGO HENRIQUE DE ARAUJO LINO e SERGIO DA CUNHA FALCAO",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1805123",
+        "name": "MSCI1 EST CUR OB DE T EM SERV INTERNAT",
+        "category": "Obrigatória",
+        "semester": 10,
+        "workload": "0h aula 480h lab.",
+        "type": "ESTÁGIO",
+        "turmas": [
+          {
+            "id": "1805123",
+            "turmaid": "01",
+            "nome": " MSCI1 EST CUR OB DE T EM SERV INTERNAT",
+            "semester": "2018.2",
+            "professor": "JULIANA SOUSA SOARES DE ARAUJO, EDUARDO SIMON, BRUNA TEIXEIRA AVILA e GUSTAVO VIEIRA DIAS",
+            "horario": "",
+            "local": ""
+          },
+          {
+            "id": "1805123",
+            "turmaid": "02",
+            "nome": " MSCI1 EST CUR OB DE T EM SERV INTERNAT",
+            "semester": "2018.2",
+            "professor": "JULIANA SOUSA SOARES DE ARAUJO, EDUARDO SIMON, BRUNA TEIXEIRA AVILA e GUSTAVO VIEIRA DIAS",
+            "horario": "",
+            "local": ""
+          },
+          {
+            "id": "1805123",
+            "turmaid": "03",
+            "nome": " MSCI1 EST CUR OB DE T EM SERV INTERNAT",
+            "semester": "2018.2",
+            "professor": "JULIANA SOUSA SOARES DE ARAUJO, EDUARDO SIMON, BRUNA TEIXEIRA AVILA e GUSTAVO VIEIRA DIAS",
+            "horario": "",
+            "local": ""
+          },
+          {
+            "id": "1805123",
+            "turmaid": "04",
+            "nome": " MSCI1 EST CUR OB DE T EM SERV INTERNAT",
+            "semester": "2018.2",
+            "professor": "JULIANA SOUSA SOARES DE ARAUJO, EDUARDO SIMON, BRUNA TEIXEIRA AVILA e GUSTAVO VIEIRA DIAS",
+            "horario": "",
+            "local": ""
+          },
+          {
+            "id": "1805123",
+            "turmaid": "05",
+            "nome": " MSCI1 EST CUR OB DE T EM SERV INTERNAT",
+            "semester": "2018.2",
+            "professor": "JULIANA SOUSA SOARES DE ARAUJO, EDUARDO SIMON, BRUNA TEIXEIRA AVILA e GUSTAVO VIEIRA DIAS",
+            "horario": "",
+            "local": ""
+          },
+          {
+            "id": "1805123",
+            "turmaid": "06",
+            "nome": " MSCI1 EST CUR OB DE T EM SERV INTERNAT",
+            "semester": "2018.2",
+            "professor": "JULIANA SOUSA SOARES DE ARAUJO, EDUARDO SIMON, BRUNA TEIXEIRA AVILA e GUSTAVO VIEIRA DIAS",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1804108",
+        "name": "MPI1 CURR OB DE T EM SERV INTERNATO",
+        "category": "Obrigatória",
+        "semester": 11,
+        "workload": "0h aula 480h lab.",
+        "type": "ESTÁGIO",
+        "turmas": [
+          {
+            "id": "1804108",
+            "turmaid": "01",
+            "nome": " MPI1 CURR OB DE T EM SERV INTERNATO",
+            "semester": "2018.2",
+            "professor": "RENATA DE CERQUEIRA PAES CORREA LIMA, ADRIANA QUEIROGA SARMENTO GUERRA, ANA CLAUDIA SOARES PENAZZI e ALEXANDRE FREDERICO CASTANHEIRA OLIVEIRA",
+            "horario": "",
+            "local": ""
+          },
+          {
+            "id": "1804108",
+            "turmaid": "02",
+            "nome": " MPI1 CURR OB DE T EM SERV INTERNATO",
+            "semester": "2018.2",
+            "professor": "RENATA DE CERQUEIRA PAES CORREA LIMA, ELEONORA RAMOS DE OLIVEIRA, CONSTANTINO GIOVANNI BRAGA CARTAXO e DANIEL DE ALBUQUERQUE RANGEL MOREIRA",
+            "horario": "",
+            "local": ""
+          },
+          {
+            "id": "1804108",
+            "turmaid": "03",
+            "nome": " MPI1 CURR OB DE T EM SERV INTERNATO",
+            "semester": "2018.2",
+            "professor": "RENATA DE CERQUEIRA PAES CORREA LIMA e HENRIQUE GIL DA SILVA NUNES MAIA",
+            "horario": "",
+            "local": ""
+          },
+          {
+            "id": "1804108",
+            "turmaid": "04",
+            "nome": " MPI1 CURR OB DE T EM SERV INTERNATO",
+            "semester": "2018.2",
+            "professor": "RENATA DE CERQUEIRA PAES CORREA LIMA e LIANE CARVALHO VIANA",
+            "horario": "",
+            "local": ""
+          },
+          {
+            "id": "1804108",
+            "turmaid": "05",
+            "nome": " MPI1 CURR OB DE T EM SERV INTERNATO",
+            "semester": "2018.2",
+            "professor": "RENATA DE CERQUEIRA PAES CORREA LIMA e JULIANA CARNEIRO MONTEIRO WANDERLEY",
+            "horario": "",
+            "local": ""
+          },
+          {
+            "id": "1804108",
+            "turmaid": "06",
+            "nome": " MPI1 CURR OB DE T EM SERV INTERNATO",
+            "semester": "2018.2",
+            "professor": "RENATA DE CERQUEIRA PAES CORREA LIMA e JULIO CAVALCANTI DE OLIVEIRA",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1804109",
+        "name": "MPI2 CURR OB DE T EM SERV INTERNATO",
+        "category": "Obrigatória",
+        "semester": 11,
+        "workload": "0h aula 384h lab.",
+        "type": "ESTÁGIO",
+        "turmas": [
+          {
+            "id": "1804109",
+            "turmaid": "01",
+            "nome": " MPI2 CURR OB DE T EM SERV INTERNATO",
+            "semester": "2018.2",
+            "professor": "RENATA DE CERQUEIRA PAES CORREA LIMA e MARCELA NOBREGA DE LUCENA LEITE",
+            "horario": "",
+            "local": ""
+          },
+          {
+            "id": "1804109",
+            "turmaid": "02",
+            "nome": " MPI2 CURR OB DE T EM SERV INTERNATO",
+            "semester": "2018.2",
+            "professor": "ROXANA DE ALMEIDA ROQUE FONTES SILVA e RENATA DE CERQUEIRA PAES CORREA LIMA",
+            "horario": "",
+            "local": ""
+          },
+          {
+            "id": "1804109",
+            "turmaid": "03",
+            "nome": " MPI2 CURR OB DE T EM SERV INTERNATO",
+            "semester": "2018.2",
+            "professor": "RENATA DE CERQUEIRA PAES CORREA LIMA e VALDEREZ ARAUJO DE LIMA RAMOS",
+            "horario": "",
+            "local": ""
+          },
+          {
+            "id": "1804109",
+            "turmaid": "04",
+            "nome": " MPI2 CURR OB DE T EM SERV INTERNATO",
+            "semester": "2018.2",
+            "professor": "VERIANA MARCIA DA NOBREGA e RENATA DE CERQUEIRA PAES CORREA LIMA",
+            "horario": "",
+            "local": ""
+          },
+          {
+            "id": "1804109",
+            "turmaid": "05",
+            "nome": " MPI2 CURR OB DE T EM SERV INTERNATO",
+            "semester": "2018.2",
+            "professor": "RENATA DE CERQUEIRA PAES CORREA LIMA",
+            "horario": "",
+            "local": ""
+          },
+          {
+            "id": "1804109",
+            "turmaid": "06",
+            "nome": " MPI2 CURR OB DE T EM SERV INTERNATO",
+            "semester": "2018.2",
+            "professor": "RENATA DE CERQUEIRA PAES CORREA LIMA",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1805122",
+        "name": "MSCI2 CUR OB DE T EM SERV INTERNATO",
+        "category": "Obrigatória",
+        "semester": 11,
+        "workload": "0h aula 384h lab.",
+        "type": "ESTÁGIO",
+        "turmas": [
+          {
+            "id": "1805122",
+            "turmaid": "01",
+            "nome": " MSCI2 CUR OB DE T EM SERV INTERNATO",
+            "semester": "2018.2",
+            "professor": "JULIANA SOUSA SOARES DE ARAUJO, EDUARDO SIMON, BRUNA TEIXEIRA AVILA e GUSTAVO VIEIRA DIAS",
+            "horario": "",
+            "local": ""
+          },
+          {
+            "id": "1805122",
+            "turmaid": "02",
+            "nome": " MSCI2 CUR OB DE T EM SERV INTERNATO",
+            "semester": "2018.2",
+            "professor": "JULIANA SOUSA SOARES DE ARAUJO, EDUARDO SIMON, BRUNA TEIXEIRA AVILA e GUSTAVO VIEIRA DIAS",
+            "horario": "",
+            "local": ""
+          },
+          {
+            "id": "1805122",
+            "turmaid": "03",
+            "nome": " MSCI2 CUR OB DE T EM SERV INTERNATO",
+            "semester": "2018.2",
+            "professor": "JULIANA SOUSA SOARES DE ARAUJO, EDUARDO SIMON, BRUNA TEIXEIRA AVILA e GUSTAVO VIEIRA DIAS",
+            "horario": "",
+            "local": ""
+          },
+          {
+            "id": "1805122",
+            "turmaid": "04",
+            "nome": " MSCI2 CUR OB DE T EM SERV INTERNATO",
+            "semester": "2018.2",
+            "professor": "JULIANA SOUSA SOARES DE ARAUJO, EDUARDO SIMON, BRUNA TEIXEIRA AVILA e GUSTAVO VIEIRA DIAS",
+            "horario": "",
+            "local": ""
+          },
+          {
+            "id": "1805122",
+            "turmaid": "05",
+            "nome": " MSCI2 CUR OB DE T EM SERV INTERNATO",
+            "semester": "2018.2",
+            "professor": "JULIANA SOUSA SOARES DE ARAUJO, EDUARDO SIMON, BRUNA TEIXEIRA AVILA e GUSTAVO VIEIRA DIAS",
+            "horario": "",
+            "local": ""
+          },
+          {
+            "id": "1805122",
+            "turmaid": "06",
+            "nome": " MSCI2 CUR OB DE T EM SERV INTERNATO",
+            "semester": "2018.2",
+            "professor": "JULIANA SOUSA SOARES DE ARAUJO, EDUARDO SIMON, BRUNA TEIXEIRA AVILA e GUSTAVO VIEIRA DIAS",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1802122",
+        "name": "MCMI2 CURRIC OBRG TREN SER INTERNATO",
+        "category": "Obrigatória",
+        "semester": 12,
+        "workload": "0h aula 384h lab.",
+        "type": "ESTÁGIO",
+        "turmas": [
+          {
+            "id": "1802122",
+            "turmaid": "01",
+            "nome": " MCMI2 CURRIC OBRG TREN SER INTERNATO",
+            "semester": "2018.2",
+            "professor": "ARISTIDES MEDEIROS LEITE, MARIA SOLANGE QUEIROGA MEDEIROS, CRISTIANA MARQUES DE ARAUJO, ALESSANDRA SOUSA BRAZ CALDAS DE ANDRADE, ALFREDO JOSE MINERVINO e CARLOS FERNANDO DE MELLO JUNIOR",
+            "horario": "",
+            "local": ""
+          },
+          {
+            "id": "1802122",
+            "turmaid": "02",
+            "nome": " MCMI2 CURRIC OBRG TREN SER INTERNATO",
+            "semester": "2018.2",
+            "professor": "GILKA PAIVA OLIVEIRA COSTA, HEYDRICH LOPES VIRGULINO DE MEDEIROS, FATIMA ELIZABETH FONSECA DE OLIVEIRA NEGRI, JOSE EYMARD MORAES DE MEDEIROS FILHO, ELIAURIA ROSA MARTINS e EUTILIA ANDRADE MEDEIROS FREIRE",
+            "horario": "",
+            "local": ""
+          },
+          {
+            "id": "1802122",
+            "turmaid": "03",
+            "nome": " MCMI2 CURRIC OBRG TREN SER INTERNATO",
+            "semester": "2018.2",
+            "professor": "MANUELLA DE SOUSA TOLEDO MATIAS, MONICA SOUZA DE MIRANDA HENRIQUES, MARIVANIA DA COSTA SANTOS, RIVANDO RODRIGUES DE SOUSA OLIVEIRA, MARCO ANTONIO DE VIVO BARROS e MAURUS MARQUES DE ALMEIDA HOLANDA",
+            "horario": "",
+            "local": ""
+          },
+          {
+            "id": "1802122",
+            "turmaid": "04",
+            "nome": " MCMI2 CURRIC OBRG TREN SER INTERNATO",
+            "semester": "2018.2",
+            "professor": "ANA ISABEL VIEIRA FERNANDES, GEORGIA FREIRE PAIVA WINKELER, GESUALDO PEREIRA SOARES, NILMA MARIA PORTO DE FARIAS CORDEIRO DE MEDEIROS, CLARISSA BARROS MADRUGA e FRANCISCO BERNARDINO DA SILVA NETO",
+            "horario": "",
+            "local": ""
+          },
+          {
+            "id": "1802122",
+            "turmaid": "05",
+            "nome": " MCMI2 CURRIC OBRG TREN SER INTERNATO",
+            "semester": "2018.2",
+            "professor": "DANIELLE CHRISTINNE SOARES EGYPTO DE BRITO, SEVERINO AIRES DE ARAUJO NETO, LUIS FABIO BARBOSA BOTELHO, JOSE GIVALDO MELQUIADES DE MEDEIROS, ALEXANDRE HENRIQUES GOUVEIA DANTAS e EDUARDO GOMES DE MELO",
+            "horario": "",
+            "local": ""
+          },
+          {
+            "id": "1802122",
+            "turmaid": "06",
+            "nome": " MCMI2 CURRIC OBRG TREN SER INTERNATO",
+            "semester": "2018.2",
+            "professor": "CARLA WANDERLEY GAYOSO DE LIMA, ESTHER BASTOS PALITOT e DANIELLE MEDEIROS MARQUES",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1802143",
+        "name": "MCMI1CURRIC OBRG TREN SERINTERNATO",
+        "category": "Obrigatória",
+        "semester": 12,
+        "workload": "0h aula 480h lab.",
+        "type": "ESTÁGIO",
+        "turmas": [
+          {
+            "id": "1802143",
+            "turmaid": "01",
+            "nome": " MCMI1CURRIC OBRG TREN SERINTERNATO",
+            "semester": "2018.2",
+            "professor": "ARISTIDES MEDEIROS LEITE, MARIA SOLANGE QUEIROGA MEDEIROS, CRISTIANA MARQUES DE ARAUJO, ALESSANDRA SOUSA BRAZ CALDAS DE ANDRADE, ALFREDO JOSE MINERVINO e CARLOS FERNANDO DE MELLO JUNIOR",
+            "horario": "",
+            "local": ""
+          },
+          {
+            "id": "1802143",
+            "turmaid": "02",
+            "nome": " MCMI1CURRIC OBRG TREN SERINTERNATO",
+            "semester": "2018.2",
+            "professor": "GILKA PAIVA OLIVEIRA COSTA, HEYDRICH LOPES VIRGULINO DE MEDEIROS, FATIMA ELIZABETH FONSECA DE OLIVEIRA NEGRI, JOSE EYMARD MORAES DE MEDEIROS FILHO, ELIAURIA ROSA MARTINS e EUTILIA ANDRADE MEDEIROS FREIRE",
+            "horario": "",
+            "local": ""
+          },
+          {
+            "id": "1802143",
+            "turmaid": "03",
+            "nome": " MCMI1CURRIC OBRG TREN SERINTERNATO",
+            "semester": "2018.2",
+            "professor": "MANUELLA DE SOUSA TOLEDO MATIAS, MONICA SOUZA DE MIRANDA HENRIQUES, MARIVANIA DA COSTA SANTOS, RIVANDO RODRIGUES DE SOUSA OLIVEIRA, MARCO ANTONIO DE VIVO BARROS e MAURUS MARQUES DE ALMEIDA HOLANDA",
+            "horario": "",
+            "local": ""
+          },
+          {
+            "id": "1802143",
+            "turmaid": "04",
+            "nome": " MCMI1CURRIC OBRG TREN SERINTERNATO",
+            "semester": "2018.2",
+            "professor": "ANA ISABEL VIEIRA FERNANDES, GEORGIA FREIRE PAIVA WINKELER, GESUALDO PEREIRA SOARES, NILMA MARIA PORTO DE FARIAS CORDEIRO DE MEDEIROS, CLARISSA BARROS MADRUGA e FRANCISCO BERNARDINO DA SILVA NETO",
+            "horario": "",
+            "local": ""
+          },
+          {
+            "id": "1802143",
+            "turmaid": "05",
+            "nome": " MCMI1CURRIC OBRG TREN SERINTERNATO",
+            "semester": "2018.2",
+            "professor": "DANIELLE CHRISTINNE SOARES EGYPTO DE BRITO, SEVERINO AIRES DE ARAUJO NETO, LUIS FABIO BARBOSA BOTELHO, JOSE GIVALDO MELQUIADES DE MEDEIROS, ALEXANDRE HENRIQUES GOUVEIA DANTAS e EDUARDO GOMES DE MELO",
+            "horario": "",
+            "local": ""
+          },
+          {
+            "id": "1802143",
+            "turmaid": "06",
+            "nome": " MCMI1CURRIC OBRG TREN SERINTERNATO",
+            "semester": "2018.2",
+            "professor": "CARLA WANDERLEY GAYOSO DE LIMA, ESTHER BASTOS PALITOT e DANIELLE MEDEIROS MARQUES",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1804119",
+        "name": "MEL12 TREINAMENTO EM SERVIÇO INTERNATO",
+        "category": "Obrigatória",
+        "semester": 12,
+        "workload": "0h aula 384h lab.",
+        "type": "ESTÁGIO",
+        "turmas": [
+          {
+            "id": "1804119",
+            "turmaid": "01",
+            "nome": " MEL12 TREINAMENTO EM SERVIÇO INTERNATO",
+            "semester": "2018.2",
+            "professor": "A DEFINIR",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDPOG0018",
+        "name": " INFORMÁTICA APLICADA À SAÚDE I",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": "32h",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDPOG0018",
+            "turmaid": "01",
+            "nome": " INFORMÁTICA APLICADA À SAÚDE I",
+            "semester": "2018.2",
+            "professor": "CRISTINA WIDE PISSETTI",
+            "horario": "2M23 (22/11/2018 - 10/05/2019)",
+            "local": "LAB-INFO3 (CCM)"
+          },
+          {
+            "id": "GDPOG0018",
+            "turmaid": "02",
+            "nome": " INFORMÁTICA APLICADA À SAÚDE I",
+            "semester": "2018.2",
+            "professor": "CRISTINA WIDE PISSETTI",
+            "horario": "2M45 (22/11/2018 - 10/05/2019)",
+            "local": "LAB-INFO3 (CCM)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDPOG0019",
+        "name": " INFORMÁTICA APLICADA À SAÚDE II",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": "32h",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDPOG0019",
+            "turmaid": "01",
+            "nome": " INFORMÁTICA APLICADA À SAÚDE II",
+            "semester": "2018.2",
+            "professor": "CRISTINA WIDE PISSETTI",
+            "horario": "4M45 (22/11/2018 - 10/05/2019)",
+            "local": "LAB-INFO3 (CCM)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDCFA0109",
+        "name": " TOPICOS ESPCECIAIS I",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": "15h",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDCFA0109",
+            "turmaid": "02",
+            "nome": " TOPICOS ESPCECIAIS I",
+            "semester": "2018.2",
+            "professor": "FRANKLIN DELANO SOARES FORTE, WALLERI CHRISTINI TORELLI REIS e GERALDO EDUARDO GUEDES DE BRITO",
+            "horario": "3T345",
+            "local": "DCF - AUDITÓRIO 1 (CCS)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      }
+    ]
+  }
+}

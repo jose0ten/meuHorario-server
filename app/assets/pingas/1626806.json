@@ -1,0 +1,2498 @@
+{
+  "curriculum": {
+    "id": "0292008",
+    "codigo": "1626806",
+    "name": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - OUTRO TIPO DE GRAU ACADÊMICO",
+    "faculty": "CENTRO DE TECNOLOGIA (CT) (11.00.55)",
+    "minch": "285",
+    "maxch": "510",
+    "semesters": 9,
+    "courses": [
+      {
+        "id": "1102241",
+        "name": "AUDITORIA AMBIENTAL",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1102241",
+            "turmaid": "01",
+            "nome": " AUDITORIA AMBIENTAL",
+            "semester": "2018.2",
+            "professor": "CAMILA CUNICO",
+            "horario": "5T1234",
+            "local": "DGEOC A4 (CCEN)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1102243",
+        "name": "GEOQUÍMICA AMBIENTAL",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1102243",
+            "turmaid": "01",
+            "nome": " GEOQUÍMICA AMBIENTAL",
+            "semester": "2018.2",
+            "professor": "WERNER MAXIMILIAN TOPITSCH",
+            "horario": "3T2345",
+            "local": "MUSEU (CCEN)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1108180",
+        "name": "METOD ESTAT APLICADOS AS CIENC TECNOL",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1108100"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1401159",
+        "name": "SOCIOLOGIA DO DESENVOLVIMENTO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1401169",
+        "name": "SOCIOLOGIA URBANA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+          "1401349"
+        ]
+      },
+      {
+        "id": "1401313",
+        "name": "SOCIOLOGIA AMBIENTAL APLICADA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1403747",
+        "name": "LIBRAS  LÍNGUA BRASILEIRA DE SINAIS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1705113",
+        "name": "ETICA E ENGENHARIA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1705113",
+            "turmaid": "01",
+            "nome": " ETICA E ENGENHARIA",
+            "semester": "2018.2",
+            "professor": "MUCIO ANTONIO SOBREIRA SOUTO",
+            "horario": "3M23",
+            "local": "EUCALIPTUS (CT)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1705123",
+        "name": "SEGURANCA INDUSTRIAL I",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1705123",
+            "turmaid": "03",
+            "nome": " SEGURANCA INDUSTRIAL I",
+            "semester": "2018.2",
+            "professor": "MARIA DO SOCORRO MARCIA LOPES SOUTO",
+            "horario": "5M345",
+            "local": "XIQUEXIQUE (CT)"
+          },
+          {
+            "id": "1705109",
+            "turmaid": "01",
+            "nome": " SEGURANCA INDUSTRIAL",
+            "semester": "2018.2",
+            "professor": "MARIA BERNADETE FERNANDES VIEIRA DE MELO",
+            "horario": "6M123",
+            "local": "AUD DEP (CT)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+          "1705109"
+        ]
+      },
+      {
+        "id": "1705174",
+        "name": "PLANEJAMENTO E CONTROLE DA PRODUÇAO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1705179",
+        "name": "EMPREENDEDORISMO I",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDLS0024",
+        "name": "LIBRAS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1103118",
+        "name": "CÁLCULO VETORIAL E GEOMETRIA ANALÍTICA",
+        "category": "Complementar Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1103118",
+            "turmaid": "01",
+            "nome": " CÁLCULO VETORIAL E GEOMETRIA ANALÍTICA",
+            "semester": "2018.2",
+            "professor": "PEDRO ANTONIO GOMEZ VENEGAS",
+            "horario": "35M23",
+            "local": "CAA 102 (PRG)"
+          },
+          {
+            "id": "1103118",
+            "turmaid": "11",
+            "nome": " CÁLCULO VETORIAL E GEOMETRIA ANALÍTICA",
+            "semester": "2018.2",
+            "professor": "NAPOLEON CARO TUESTA",
+            "horario": "35T23",
+            "local": "CAA 101 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1103177",
+        "name": "CÁLCULO DIFERENCIAL E INTEGRAL I",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1103177",
+            "turmaid": "01",
+            "nome": " CÁLCULO DIFERENCIAL E INTEGRAL I",
+            "semester": "2018.2",
+            "professor": "RICARDO BURITY CROCCIA MACEDO",
+            "horario": "24M23",
+            "local": "CAA 102 (PRG)"
+          },
+          {
+            "id": "1103177",
+            "turmaid": "09",
+            "nome": " CÁLCULO DIFERENCIAL E INTEGRAL I",
+            "semester": "2018.2",
+            "professor": "JORGE COSTA DUARTE FILHO",
+            "horario": "24T45",
+            "local": "CAA 101 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1105161",
+        "name": "QUÍMICA FUNDAMENTAL",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1105161",
+            "turmaid": "03",
+            "nome": " QUÍMICA FUNDAMENTAL",
+            "semester": "2018.2",
+            "professor": "COSME RAFAEL MARTINEZ SALINAS",
+            "horario": "35M45",
+            "local": "CAD 110 (PRG)"
+          },
+          {
+            "id": "1105161",
+            "turmaid": "04",
+            "nome": " QUÍMICA FUNDAMENTAL",
+            "semester": "2018.2",
+            "professor": "MARIA DE FATIMA CARVALHO COSTA",
+            "horario": "24T23",
+            "local": "CAD 108 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1106222",
+        "name": "BIOLOGIA GERAL",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "90h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1106222",
+            "turmaid": "01",
+            "nome": " BIOLOGIA GERAL",
+            "semester": "2018.2",
+            "professor": "REINALDO FARIAS PAIVA DE LUCENA e FELIPE WARTCHOW",
+            "horario": "246M45",
+            "local": "DSE S01 (CCEN)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1403153",
+        "name": "PORTUGUÊS INSTRUMENTAL",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1403153",
+            "turmaid": "01",
+            "nome": " PORTUGUÊS INSTRUMENTAL",
+            "semester": "2018.2",
+            "professor": "MARIA DE FATIMA ALMEIDA",
+            "horario": "3T1234",
+            "local": "CCHLA 414 BLOCO I CENTRAL DE AULAS (CCHLA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1703227",
+        "name": "INTRODUCAO A ENGENHARIA AMBIENTAL",
+        "category": "Complementar Obrigatória",
+        "semester": 1,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1703227",
+            "turmaid": "01",
+            "nome": " INTRODUCAO A ENGENHARIA AMBIENTAL",
+            "semester": "2018.2",
+            "professor": "ELISANGELA MARIA RODRIGUES ROCHA",
+            "horario": "2T123",
+            "local": "CTJ 101 (CT)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1704242",
+        "name": "METODOLOGIA DO TRABALHO CIENTÍFICO",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1704242",
+            "turmaid": "01",
+            "nome": " METODOLOGIA DO TRABALHO CIENTÍFICO",
+            "semester": "2018.2",
+            "professor": "ANTONIO DA SILVA SOBRINHO JUNIOR",
+            "horario": "4T123",
+            "local": "CTA 107 (CT)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1106243",
+        "name": "BIOLOGIA VEGETAL",
+        "category": "Optativa",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1106243",
+            "turmaid": "01",
+            "nome": " BIOLOGIA VEGETAL",
+            "semester": "2018.2",
+            "professor": "CARLOS ALBERTO BELTRAO DE MIRANDA",
+            "horario": "6T2345",
+            "local": "LDB (CCEN)"
+          }
+        ],
+        "prerequisites": [
+          "1106222"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1106249",
+        "name": "ZOOLOGIA GERAL",
+        "category": "Optativa",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1106222"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1101157",
+        "name": "FISICA GERAL I",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1101157",
+            "turmaid": "04",
+            "nome": " FISICA GERAL I",
+            "semester": "2018.2",
+            "professor": "A DEFINIR",
+            "horario": "24M45",
+            "local": "CAE 110 (PRG)"
+          },
+          {
+            "id": "1101157",
+            "turmaid": "07",
+            "nome": " FISICA GERAL I",
+            "semester": "2018.2",
+            "professor": "A DEFINIR",
+            "horario": "24T23",
+            "local": "CAA 104 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1103178",
+        "name": "CALCULO DIFERENCIAL E INTEGRAL II",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1103178",
+            "turmaid": "01",
+            "nome": " CALCULO DIFERENCIAL E INTEGRAL II",
+            "semester": "2018.2",
+            "professor": "MARIVALDO PEREIRA MATOS",
+            "horario": "24M23",
+            "local": "CAB 104 (PRG)"
+          },
+          {
+            "id": "1103178",
+            "turmaid": "03",
+            "nome": " CALCULO DIFERENCIAL E INTEGRAL II",
+            "semester": "2018.2",
+            "professor": "FREDERICO DE OLIVEIRA MATIAS",
+            "horario": "24M23",
+            "local": "CAB 102 (PRG)"
+          },
+          {
+            "id": "1103178",
+            "turmaid": "10",
+            "nome": " CALCULO DIFERENCIAL E INTEGRAL II",
+            "semester": "2018.2",
+            "professor": "CARLOS BOCKER NETO",
+            "horario": "24T45",
+            "local": "CAB 103 (PRG)"
+          }
+        ],
+        "prerequisites": [
+          "1103177"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1105174",
+        "name": "QUIMICA AMBIENTAL",
+        "category": "Complementar Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1105174",
+            "turmaid": "01",
+            "nome": " QUIMICA AMBIENTAL",
+            "semester": "2018.2",
+            "professor": "CLAUDIA DE OLIVEIRA CUNHA",
+            "horario": "35T23",
+            "local": "CCENB2 (CCEN)"
+          }
+        ],
+        "prerequisites": [
+          "1105161"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1106254",
+        "name": "ECOLOGIA BÁSICA",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1106254",
+            "turmaid": "01",
+            "nome": " ECOLOGIA BÁSICA",
+            "semester": "2018.2",
+            "professor": "TARCISIO ALVES CORDEIRO",
+            "horario": "6M2345",
+            "local": "LEAD (CCEN)"
+          }
+        ],
+        "prerequisites": [
+          "1106222"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1107174",
+        "name": "INICIACAO A COMPUTACAO",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1107174",
+            "turmaid": "02",
+            "nome": " INICIACAO A COMPUTACAO",
+            "semester": "2018.2",
+            "professor": "FRANCISCO DE ASSIS COUTINHO SOUTO",
+            "horario": "35T45",
+            "local": "CAF 111 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1108100",
+        "name": "CÁLCULO DAS PROBABILIDADES E  ESTATÍSTICA I",
+        "category": "Complementar Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1108100",
+            "turmaid": "01",
+            "nome": " CÁLCULO DAS PROBABILIDADES E  ESTATÍSTICA I",
+            "semester": "2018.2",
+            "professor": "MARIA LIDIA COCO TERRA e JOSE CARLOS DE LACERDA LEITE",
+            "horario": "35M23",
+            "local": "CAB 105 (PRG)"
+          },
+          {
+            "id": "1108100",
+            "turmaid": "05",
+            "nome": " CÁLCULO DAS PROBABILIDADES E  ESTATÍSTICA I",
+            "semester": "2018.2",
+            "professor": "ANA HERMINIA ANDRADE E SILVA e MARCELO RODRIGO PORTELA FERREIRA",
+            "horario": "35T23",
+            "local": "CAF 110 (PRG)"
+          }
+        ],
+        "prerequisites": [
+          "1103177"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1704245",
+        "name": "DESENHO BÁSICO",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1704245",
+            "turmaid": "02",
+            "nome": " DESENHO BÁSICO",
+            "semester": "2018.2",
+            "professor": "ILTON DA COSTA SOUZA FILHO",
+            "horario": "35T45",
+            "local": "CTE 101 (CT)"
+          },
+          {
+            "id": "1704245",
+            "turmaid": "04",
+            "nome": " DESENHO BÁSICO",
+            "semester": "2018.2",
+            "professor": "MARCOS AURELIO PEREIRA SANTANA",
+            "horario": "35M45",
+            "local": "CTE 101 (CT)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1106129",
+        "name": "OCEANOGRAFIA GERAL",
+        "category": "Optativa",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1106129",
+            "turmaid": "01",
+            "nome": " OCEANOGRAFIA GERAL",
+            "semester": "2018.2",
+            "professor": "TARCISIO ALVES CORDEIRO",
+            "horario": "5M2345",
+            "local": "DSE S01 (CCEN)"
+          }
+        ],
+        "prerequisites": [
+          "1106158",
+          "1106254"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1106181",
+        "name": "TECNICAS DE CAMPO APLIC A BOTANICA",
+        "category": "Optativa",
+        "semester": 3,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1106243"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1106185",
+        "name": "DIVERSIDADE E CONSERVACAO DA FLORA",
+        "category": "Optativa",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1106243"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1106251",
+        "name": "FITOSSOCIOLOGIA",
+        "category": "Optativa",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1106243"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1101163",
+        "name": "FISICA GERAL II",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1101163",
+            "turmaid": "03",
+            "nome": " FISICA GERAL II",
+            "semester": "2018.2",
+            "professor": "A DEFINIR",
+            "horario": "24M45",
+            "local": "CAB 103 (PRG)"
+          },
+          {
+            "id": "1101163",
+            "turmaid": "06",
+            "nome": " FISICA GERAL II",
+            "semester": "2018.2",
+            "professor": "A DEFINIR",
+            "horario": "24T23",
+            "local": "CAB 101 (PRG)"
+          }
+        ],
+        "prerequisites": [
+          "1101157"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1101165",
+        "name": "FISICA EXPERIMENTAL I",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "0h aula 30h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1101165",
+            "turmaid": "04",
+            "nome": " FISICA EXPERIMENTAL I",
+            "semester": "2018.2",
+            "professor": "A DEFINIR",
+            "horario": "6M23",
+            "local": "DF 200 (CCEN)"
+          },
+          {
+            "id": "1101165",
+            "turmaid": "05",
+            "nome": " FISICA EXPERIMENTAL I",
+            "semester": "2018.2",
+            "professor": "A DEFINIR",
+            "horario": "6M45",
+            "local": "DF 200 (CCEN)"
+          },
+          {
+            "id": "1101165",
+            "turmaid": "08",
+            "nome": " FISICA EXPERIMENTAL I",
+            "semester": "2018.2",
+            "professor": "A DEFINIR",
+            "horario": "6T45",
+            "local": "DF 200 (CCEN)"
+          }
+        ],
+        "prerequisites": [
+          "1101157"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1102240",
+        "name": "FUNDAMENTOS DE CLIMATOLOGIA",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1102240",
+            "turmaid": "01",
+            "nome": " FUNDAMENTOS DE CLIMATOLOGIA",
+            "semester": "2018.2",
+            "professor": "DAISY BESERRA LUCENA",
+            "horario": "35M45",
+            "local": "DGEOC A4 (CCEN)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1103179",
+        "name": "INTRODUCAO A ALGEBRA LINEAR",
+        "category": "Complementar Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1103179",
+            "turmaid": "05",
+            "nome": " INTRODUCAO A ALGEBRA LINEAR",
+            "semester": "2018.2",
+            "professor": "ROBERTO CALLEJAS BEDREGAL",
+            "horario": "35M23",
+            "local": "CAC 108 (PRG)"
+          },
+          {
+            "id": "1103179",
+            "turmaid": "08",
+            "nome": " INTRODUCAO A ALGEBRA LINEAR",
+            "semester": "2018.2",
+            "professor": "FAGNER DIAS ARARUNA",
+            "horario": "35T23",
+            "local": "CAB 106 (PRG)"
+          }
+        ],
+        "prerequisites": [
+          "1103118"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1103232",
+        "name": "CALCULO DIF  E INTEGRAL III",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1103232",
+            "turmaid": "02",
+            "nome": " CALCULO DIF  E INTEGRAL III",
+            "semester": "2018.2",
+            "professor": "PEDRO ANTONIO HINOJOSA VERA",
+            "horario": "24M23",
+            "local": "CAF 110 (PRG)"
+          },
+          {
+            "id": "1103232",
+            "turmaid": "07",
+            "nome": " CALCULO DIF  E INTEGRAL III",
+            "semester": "2018.2",
+            "professor": "JOAO BOSCO BATISTA LACERDA",
+            "horario": "24T45",
+            "local": "CAB 102 (PRG)"
+          }
+        ],
+        "prerequisites": [
+          "1103178",
+          "1103118"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1106250",
+        "name": "ECOLOGIA MICROBIANA",
+        "category": "Complementar Obrigatória",
+        "semester": 3,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1106250",
+            "turmaid": "01",
+            "nome": " ECOLOGIA MICROBIANA",
+            "semester": "2018.2",
+            "professor": "GILSON FERREIRA DE MOURA",
+            "horario": "2T123",
+            "local": "LEAD (CCEN)"
+          }
+        ],
+        "prerequisites": [
+          "1106158",
+          "1106254"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1703236",
+        "name": "INTRODUÇAO AS CIENCIAS DOS MATERIAIS",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1703236",
+            "turmaid": "01",
+            "nome": " INTRODUÇAO AS CIENCIAS DOS MATERIAIS",
+            "semester": "2018.2",
+            "professor": "BELARMINO BARBOSA LIRA",
+            "horario": "6M123",
+            "local": "LABEME (CT)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1704235",
+        "name": "DESENHO ASSISTIDO POR COMPUTADOR",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1704235",
+            "turmaid": "01",
+            "nome": " DESENHO ASSISTIDO POR COMPUTADOR",
+            "semester": "2018.2",
+            "professor": "MARCOS AURELIO PEREIRA SANTANA",
+            "horario": "24T45",
+            "local": "CTP LI4 (CT)"
+          }
+        ],
+        "prerequisites": [
+          "1704245",
+          "1704231"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1106244",
+        "name": "DIVERSIDADE E CONSERV DA FAUNA BRAS",
+        "category": "Optativa",
+        "semester": 4,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1106249"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1106246",
+        "name": "EST COMPARATIVO DA FLORA NORDESTINA",
+        "category": "Optativa",
+        "semester": 4,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1106243"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1703239",
+        "name": "TOPICOS ESPECIAIS EM ENG AMBIENTAL I",
+        "category": "Complementar Flexiva",
+        "semester": 4,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1101164",
+        "name": "FISICA GERAL III",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1101164",
+            "turmaid": "02",
+            "nome": " FISICA GERAL III",
+            "semester": "2018.2",
+            "professor": "A DEFINIR",
+            "horario": "24M45",
+            "local": "CAA 106 (PRG)"
+          },
+          {
+            "id": "1101164",
+            "turmaid": "06",
+            "nome": " FISICA GERAL III",
+            "semester": "2018.2",
+            "professor": "A DEFINIR",
+            "horario": "24T23",
+            "local": "CAE 110 (PRG)"
+          }
+        ],
+        "prerequisites": [
+          "1101163"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1102116",
+        "name": "FUNDAMENTOS DE GEOLOGIA",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1102116",
+            "turmaid": "03",
+            "nome": " FUNDAMENTOS DE GEOLOGIA",
+            "semester": "2018.2",
+            "professor": "MAX FURRIER",
+            "horario": "35T23",
+            "local": "LEGAM (CCEN)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1103180",
+        "name": "SERIES E EQUACOES DIF ORDINARIAS",
+        "category": "Complementar Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1103180",
+            "turmaid": "04",
+            "nome": " SERIES E EQUACOES DIF ORDINARIAS",
+            "semester": "2018.2",
+            "professor": "ALLAN GEORGE DE CARVALHO FREITAS",
+            "horario": "35M23",
+            "local": "CAE 110 (PRG)"
+          },
+          {
+            "id": "1103180",
+            "turmaid": "06",
+            "nome": " SERIES E EQUACOES DIF ORDINARIAS",
+            "semester": "2018.2",
+            "professor": "LIZANDRO SANCHEZ CHALLAPA",
+            "horario": "35T45",
+            "local": "CAA 103 (PRG)"
+          }
+        ],
+        "prerequisites": [
+          "1103178",
+          "1103179"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1106253",
+        "name": "ECOSSISTEMAS AQUATICOS E TERRESTRES",
+        "category": "Complementar Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1106253",
+            "turmaid": "01",
+            "nome": " ECOSSISTEMAS AQUATICOS E TERRESTRES",
+            "semester": "2018.2",
+            "professor": "ALAN LOURES RIBEIRO",
+            "horario": "35T45",
+            "local": "DSE S01 (CCEN)"
+          }
+        ],
+        "prerequisites": [
+          "1106158",
+          "1106254"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1613126",
+        "name": "SAUDE AMBIENTAL",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1613126",
+            "turmaid": "03",
+            "nome": " SAUDE AMBIENTAL",
+            "semester": "2018.2",
+            "professor": "NILZA MARIA CUNHA",
+            "horario": "4T23",
+            "local": "DEP S PUB (CCS)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1703139",
+        "name": "MECANICA DOS FLUIDOS",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "90h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1703139",
+            "turmaid": "03",
+            "nome": " MECANICA DOS FLUIDOS",
+            "semester": "2018.2",
+            "professor": "KARINE CRISTIANE DE OLIVEIRA SOUZA",
+            "horario": "46M123",
+            "local": "CTJ T02 (CT)"
+          },
+          {
+            "id": "1703139",
+            "turmaid": "04",
+            "nome": " MECANICA DOS FLUIDOS",
+            "semester": "2018.2",
+            "professor": "RONILDO INACIO SOARES DE ALENCAR",
+            "horario": "35T123",
+            "local": "CTD 107 (CT)"
+          }
+        ],
+        "prerequisites": [
+          "1103232"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1703221",
+        "name": "TOPOGRAFIA",
+        "category": "Complementar Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1703221",
+            "turmaid": "01",
+            "nome": " TOPOGRAFIA",
+            "semester": "2018.2",
+            "professor": "ISABELLE YRUSKA DE LUCENA GOMES BRAGA",
+            "horario": "35M23",
+            "local": "CTE 104 (CT)"
+          },
+          {
+            "id": "1703221",
+            "turmaid": "02",
+            "nome": " TOPOGRAFIA",
+            "semester": "2018.2",
+            "professor": "ISABELLE YRUSKA DE LUCENA GOMES BRAGA",
+            "horario": "35M45",
+            "local": "CTE 104 (CT)"
+          }
+        ],
+        "prerequisites": [
+          "1103177"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1102245",
+        "name": "RISCO GEOLÓGICO",
+        "category": "Optativa",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1102245",
+            "turmaid": "01",
+            "nome": " RISCO GEOLÓGICO",
+            "semester": "2018.2",
+            "professor": "MAGNO ERASTO DE ARAUJO",
+            "horario": "5T1234",
+            "local": "DGEOC A1 (CCEN)"
+          }
+        ],
+        "prerequisites": [
+          "1102116"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1106247",
+        "name": "FITOGEOGRAFIA",
+        "category": "Optativa",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1106243"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1106248",
+        "name": "TEORIA ECOL E ANALISE AMBIENTAL",
+        "category": "Optativa",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1106158",
+          "1106254",
+          "1106245",
+          "1106253"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1703240",
+        "name": "TOPICOS ESPECIAIS EM ENG AMBIENTAL II",
+        "category": "Complementar Flexiva",
+        "semester": 5,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1102242",
+        "name": "CARTOGRAFIA AMBIENTAL",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1102242",
+            "turmaid": "01",
+            "nome": " CARTOGRAFIA AMBIENTAL",
+            "semester": "2018.2",
+            "professor": "PEDRO COSTA GUEDES VIANNA",
+            "horario": "46M23",
+            "local": "DGEOC 104 (CCEN)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1106230",
+        "name": "ECOLOGIA APLICADA",
+        "category": "Complementar Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1106230",
+            "turmaid": "01",
+            "nome": " ECOLOGIA APLICADA",
+            "semester": "2018.2",
+            "professor": "MARIA CRISTINA BASILIO CRISPIM DA SILVA",
+            "horario": "2T2345",
+            "local": "DSE S01 (CCEN)"
+          }
+        ],
+        "prerequisites": [
+          "1106158",
+          "1106254",
+          "1106245",
+          "1106253"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1201294",
+        "name": "ECONOMIA AMBIENTAL",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1201294",
+            "turmaid": "01",
+            "nome": " ECONOMIA AMBIENTAL",
+            "semester": "2018.2",
+            "professor": "ADRIANO NASCIMENTO DA PAIXÃO",
+            "horario": "3T456",
+            "local": "CAE 108 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1703127",
+        "name": "HIDRAULICA",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "75h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1703127",
+            "turmaid": "01",
+            "nome": " HIDRAULICA",
+            "semester": "2018.2",
+            "professor": "HAMILCAR JOSE ALMEIDA FILGUEIRA",
+            "horario": "2M123 4M45",
+            "local": "CTD 101 (CT)"
+          },
+          {
+            "id": "1703127",
+            "turmaid": "02",
+            "nome": " HIDRAULICA",
+            "semester": "2018.2",
+            "professor": "LUIZ SIMAO DE ANDRADE FILHO",
+            "horario": "2T456 4T45",
+            "local": "CTD 103 (CT) / CTA 105 (CT)"
+          },
+          {
+            "id": "1703127",
+            "turmaid": "03",
+            "nome": " HIDRAULICA",
+            "semester": "2018.2",
+            "professor": "KARINE CRISTIANE DE OLIVEIRA SOUZA",
+            "horario": "3T123 5T45",
+            "local": "CTJ 201 (CT) / CTJ T02 (CT)"
+          }
+        ],
+        "prerequisites": [
+          "1703139"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1703128",
+        "name": "HIDROLOGIA",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1703128",
+            "turmaid": "01",
+            "nome": " HIDROLOGIA",
+            "semester": "2018.2",
+            "professor": "CRISTIANO DAS NEVES ALMEIDA",
+            "horario": "35M23",
+            "local": "CTD 107 (CT)"
+          },
+          {
+            "id": "1703128",
+            "turmaid": "02",
+            "nome": " HIDROLOGIA",
+            "semester": "2018.2",
+            "professor": "ANA CRISTINA SOUZA DA SILVA",
+            "horario": "56T23",
+            "local": "CTJ 103 (CT) / CTB 101 (CT)"
+          }
+        ],
+        "prerequisites": [
+          "1102116",
+          "1108100",
+          "1703221"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDCOC0072",
+        "name": "CALCULO NUMERICO",
+        "category": "Complementar Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDCOC0072",
+            "turmaid": "03",
+            "nome": " CALCULO NUMERICO",
+            "semester": "2018.2",
+            "professor": "APARECIDO JESUINO DE SOUZA",
+            "horario": "35M45",
+            "local": "CAA 105 (PRG)"
+          }
+        ],
+        "prerequisites": [
+          "1103180",
+          "1107174"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1703132",
+        "name": "IRRIGACAO E DRENAGEM",
+        "category": "Optativa",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1703128"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1703215",
+        "name": "SANEAMENTO AMBIENTAL",
+        "category": "Optativa",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1703215",
+            "turmaid": "01",
+            "nome": " SANEAMENTO AMBIENTAL",
+            "semester": "2018.2",
+            "professor": "ALINE FLAVIA NUNES REMIGIO ANTUNES",
+            "horario": "35M45",
+            "local": "CTB 107 (CT) / CTB 101 (CT)"
+          }
+        ],
+        "prerequisites": [
+          "1703227",
+          "1106250",
+          "1106230"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1703230",
+        "name": "AVALIAÇÃO ECONOMICA DE PROJ AMBIENTAIS",
+        "category": "Optativa",
+        "semester": 6,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1703230",
+            "turmaid": "01",
+            "nome": " AVALIAÇÃO ECONOMICA DE PROJ AMBIENTAIS",
+            "semester": "2018.2",
+            "professor": "HEBER PIMENTEL GOMES",
+            "horario": "3M23",
+            "local": "LENHS (CT)"
+          }
+        ],
+        "prerequisites": [
+          "1201294"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1703241",
+        "name": "TOPICOS ESPECIAIS EM ENG AMBIENTAL III",
+        "category": "Complementar Flexiva",
+        "semester": 6,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDECV0102",
+        "name": "DRENAGEM URBANA DE ÁGUAS PLUVIAIS",
+        "category": "Optativa",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDECV0102",
+            "turmaid": "01",
+            "nome": " DRENAGEM URBANA DE ÁGUAS PLUVIAIS",
+            "semester": "2018.2",
+            "professor": "GUSTAVO BARBOSA LIMA SILVA",
+            "horario": "35T45",
+            "local": "CTJ 107 (CT)"
+          }
+        ],
+        "prerequisites": [
+          "1703127",
+          "1703128"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDECV0103",
+        "name": "PROGRAMAÇÃO APLICADA À ENGENHARIA AMBIENTAL",
+        "category": "Optativa",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDECV0103",
+            "turmaid": "01",
+            "nome": " PROGRAMAÇÃO APLICADA À ENGENHARIA AMBIENTAL",
+            "semester": "2018.2",
+            "professor": "FRANCISCO JACOME SARMENTO",
+            "horario": "56T23",
+            "local": "CTM 204 (CT) / CTJ 101 (CT)"
+          }
+        ],
+        "prerequisites": [
+          "1103176",
+          "0072"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDECV0104",
+        "name": "USO RACIONAL DA ÁGUA EM EDIFICAÇÕES'",
+        "category": "Optativa",
+        "semester": 6,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDECV0104",
+            "turmaid": "01",
+            "nome": " USO RACIONAL DA ÁGUA EM EDIFICAÇÕES'",
+            "semester": "2018.2",
+            "professor": "GILSON BARBOSA ATHAYDE JUNIOR",
+            "horario": "6M45",
+            "local": "CTJ 105 (CT)"
+          }
+        ],
+        "prerequisites": [
+          "1703128"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1102246",
+        "name": "SISTEMAS DE INFORMAÇÕES GEOGRÁFICAS",
+        "category": "Complementar Obrigatória",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1102246",
+            "turmaid": "01",
+            "nome": " SISTEMAS DE INFORMAÇÕES GEOGRÁFICAS",
+            "semester": "2018.2",
+            "professor": "FRANCISCO VILAR DE ARAÚJO SEGUNDO NETO",
+            "horario": "46M45",
+            "local": "CDREUNI (CCEN)"
+          }
+        ],
+        "prerequisites": [
+          "1102242"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1106161",
+        "name": "BASES DA EDUCACAO AMBIENTAL",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1106161",
+            "turmaid": "01",
+            "nome": " BASES DA EDUCACAO AMBIENTAL",
+            "semester": "2018.2",
+            "professor": "ANTONIA ARISDELIA FONSECA MATIAS AGUIAR FEITOSA",
+            "horario": "3M2345",
+            "local": "AUD-DSE (CCEN)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1106207",
+        "name": "GESTAO DE RECUROS NATURAIS",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1106207",
+            "turmaid": "01",
+            "nome": " GESTAO DE RECUROS NATURAIS",
+            "semester": "2018.2",
+            "professor": "ALAN LOURES RIBEIRO",
+            "horario": "2M2345",
+            "local": "CCENB3 (CCEN)"
+          }
+        ],
+        "prerequisites": [
+          "1106158",
+          "1106254"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1501206",
+        "name": "DIREITO AMBIENTAL",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1501206",
+            "turmaid": "02",
+            "nome": " DIREITO AMBIENTAL",
+            "semester": "2018.2",
+            "professor": "ALESSANDRA CORREIA LIMA MACEDO FRANCA",
+            "horario": "46T45",
+            "local": "CTF 103 (CT)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1703216",
+        "name": "SISTEMA DE ABASTECIMENTO DE AGUA",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1703216",
+            "turmaid": "01",
+            "nome": " SISTEMA DE ABASTECIMENTO DE AGUA",
+            "semester": "2018.2",
+            "professor": "ANA CLAUDIA FERNANDES MEDEIROS BRAGA",
+            "horario": "24T45",
+            "local": "CTD 107 (CT)"
+          },
+          {
+            "id": "1703216",
+            "turmaid": "02",
+            "nome": " SISTEMA DE ABASTECIMENTO DE AGUA",
+            "semester": "2018.2",
+            "professor": "GILSON BARBOSA ATHAYDE JUNIOR",
+            "horario": "46M23",
+            "local": "CTJ 105 (CT)"
+          }
+        ],
+        "prerequisites": [
+          "1703127",
+          "1703128"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1703229",
+        "name": "MECANICA DOS SOLIDOS",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1703229",
+            "turmaid": "01",
+            "nome": " MECANICA DOS SOLIDOS",
+            "semester": "2018.2",
+            "professor": "CARLOS ANTONIO TAURINO DE LUCENA e PRIMO FERNANDES FILHO",
+            "horario": "24T23",
+            "local": "CTJ 101 (CT) / CTJ 201 (CT)"
+          }
+        ],
+        "prerequisites": [
+          "1101157",
+          "1103232"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1102244",
+        "name": "PERÍCIA AMBIENTAL",
+        "category": "Optativa",
+        "semester": 7,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1102244",
+            "turmaid": "01",
+            "nome": " PERÍCIA AMBIENTAL",
+            "semester": "2018.2",
+            "professor": "JOSE PAULO MARSOLA GARCIA",
+            "horario": "4T1234",
+            "local": "DGEOC A1 (CCEN)"
+          }
+        ],
+        "prerequisites": [
+          "1102246"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1106252",
+        "name": "RECUPERAÇÃO DE AREAS DEGRADADAS",
+        "category": "Complementar Obrigatória",
+        "semester": 7,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1106252",
+            "turmaid": "01",
+            "nome": " RECUPERAÇÃO DE AREAS DEGRADADAS",
+            "semester": "2018.2",
+            "professor": "BRAULIO ALMEIDA SANTOS e ANA CAROLINA FIGUEIREDO LACERDA SAKAMOTO",
+            "horario": "3M2345",
+            "local": "LEAD (CCEN)"
+          }
+        ],
+        "prerequisites": [
+          "1106245",
+          "1106253"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1204172",
+        "name": "ADM PARA ENGENHARIA",
+        "category": "Obrigatória",
+        "semester": 7,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1204172",
+            "turmaid": "01",
+            "nome": " ADM PARA ENGENHARIA",
+            "semester": "2018.2",
+            "professor": "IVAN RAMOS CAVALCANTI",
+            "horario": "4T456",
+            "local": "CAF 107 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1703217",
+        "name": "SISTEMAS DE ESGOTO E DRENAGEM",
+        "category": "Obrigatória",
+        "semester": 7,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1703217",
+            "turmaid": "01",
+            "nome": " SISTEMAS DE ESGOTO E DRENAGEM",
+            "semester": "2018.2",
+            "professor": "LEONARDO VIEIRA SOARES",
+            "horario": "24T45",
+            "local": "CTD 101 (CT)"
+          },
+          {
+            "id": "1703217",
+            "turmaid": "02",
+            "nome": " SISTEMAS DE ESGOTO E DRENAGEM",
+            "semester": "2018.2",
+            "professor": "ANA CLAUDIA FERNANDES MEDEIROS BRAGA",
+            "horario": "24M23",
+            "local": "CTJ 107 (CT)"
+          }
+        ],
+        "prerequisites": [
+          "1703216",
+          "1703158"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1703234",
+        "name": "GESTÃO DE RECURSOS HIDRICOS",
+        "category": "Obrigatória",
+        "semester": 7,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1703234",
+            "turmaid": "01",
+            "nome": " GESTÃO DE RECURSOS HIDRICOS",
+            "semester": "2018.2",
+            "professor": "FRANCISCO JACOME SARMENTO",
+            "horario": "56M23",
+            "local": "CTM 203 (CT)"
+          }
+        ],
+        "prerequisites": [
+          "1703128"
+        ],
+        "equivalences": [
+          "GDPEQ0116",
+          "GDECV0109"
+        ]
+      },
+      {
+        "id": "1703237",
+        "name": "MODELAGENS DE SISTEMAS AMBIENTAIS",
+        "category": "Obrigatória",
+        "semester": 7,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1703237",
+            "turmaid": "01",
+            "nome": " MODELAGENS DE SISTEMAS AMBIENTAIS",
+            "semester": "2018.2",
+            "professor": "GUSTAVO BARBOSA LIMA SILVA",
+            "horario": "25M45",
+            "local": "CTM 201 (CT)"
+          }
+        ],
+        "prerequisites": [
+          "1103232",
+          "1703128",
+          "1103176",
+          "0072"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1703238",
+        "name": "POLUICÃO AMBIENTAL",
+        "category": "Obrigatória",
+        "semester": 7,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1703238",
+            "turmaid": "01",
+            "nome": " POLUICÃO AMBIENTAL",
+            "semester": "2018.2",
+            "professor": "CARMEM LUCIA MOREIRA GADELHA",
+            "horario": "46M45",
+            "local": "CTD 105 (CT) / CTD 103 (CT)"
+          }
+        ],
+        "prerequisites": [
+          "1102240",
+          "1105174",
+          "1106245",
+          "1106253"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1704237",
+        "name": "OCUPAÇAO E USO DO SOLO",
+        "category": "Complementar Obrigatória",
+        "semester": 7,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1704237",
+            "turmaid": "01",
+            "nome": " OCUPAÇAO E USO DO SOLO",
+            "semester": "2018.2",
+            "professor": "ROSSANA CRISTINA HONORATO DE OLIVEIRA",
+            "horario": "2T123",
+            "local": "CTB 105 (CT)"
+          }
+        ],
+        "prerequisites": [
+          "1501206",
+          "1102246"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDECV0101",
+        "name": "TRATAMENTO DE EFLUENTES LÍQUIDOS INDUSTRIAIS",
+        "category": "Optativa",
+        "semester": 8,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDECV0101",
+            "turmaid": "01",
+            "nome": " TRATAMENTO DE EFLUENTES LÍQUIDOS INDUSTRIAIS",
+            "semester": "2018.2",
+            "professor": "LEONARDO VIEIRA SOARES",
+            "horario": "24N61",
+            "local": "CTD 101 (CT)"
+          }
+        ],
+        "prerequisites": [
+          "1703217"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1106215",
+        "name": "ESTUDOS DE IMPACTO AMBIENTAL",
+        "category": "Obrigatória",
+        "semester": 8,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1106215",
+            "turmaid": "01",
+            "nome": " ESTUDOS DE IMPACTO AMBIENTAL",
+            "semester": "2018.2",
+            "professor": "GEORGE EMMANUEL CAVALCANTI DE MIRANDA",
+            "horario": "5M1234",
+            "local": "LEAD (CCEN)"
+          }
+        ],
+        "prerequisites": [
+          "1106158",
+          "1106254",
+          "1106245",
+          "1106253",
+          "1501206"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1703170",
+        "name": "TRATAMENTO DE ÁGUA E ESGOTO",
+        "category": "Obrigatória",
+        "semester": 8,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1703170",
+            "turmaid": "01",
+            "nome": " TRATAMENTO DE ÁGUA E ESGOTO",
+            "semester": "2018.2",
+            "professor": "CARMEM LUCIA MOREIRA GADELHA",
+            "horario": "46M23",
+            "local": "CTD 103 (CT) / CTD 105 (CT)"
+          }
+        ],
+        "prerequisites": [
+          "1703216",
+          "1703158",
+          "1106250"
+        ],
+        "equivalences": [
+          "GDECV0107"
+        ]
+      },
+      {
+        "id": "1703202",
+        "name": "GESTAO DE RESIDUOS SOLIDOS URBANOS",
+        "category": "Obrigatória",
+        "semester": 8,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1703202",
+            "turmaid": "01",
+            "nome": " GESTAO DE RESIDUOS SOLIDOS URBANOS",
+            "semester": "2018.2",
+            "professor": "ALINE FLAVIA NUNES REMIGIO ANTUNES",
+            "horario": "24M45",
+            "local": "CTD 107 (CT)"
+          }
+        ],
+        "prerequisites": [
+          "1703238"
+        ],
+        "equivalences": [
+          "GDECV0108"
+        ]
+      },
+      {
+        "id": "1703231",
+        "name": "ENERGIA E MEIO AMBIENTE",
+        "category": "Complementar Obrigatória",
+        "semester": 8,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1703231",
+            "turmaid": "01",
+            "nome": " ENERGIA E MEIO AMBIENTE",
+            "semester": "2018.2",
+            "professor": "ADRIANO ROLIM DA PAZ",
+            "horario": "3M123",
+            "local": "CTM 203 (CT)"
+          }
+        ],
+        "prerequisites": [
+          "1101164"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1705173",
+        "name": "PESQUISA APLIC A ENGENHARIA AMBIENTAL",
+        "category": "Complementar Obrigatória",
+        "semester": 8,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1705173",
+            "turmaid": "01",
+            "nome": " PESQUISA APLIC A ENGENHARIA AMBIENTAL",
+            "semester": "2018.2",
+            "professor": "MUCIO ANTONIO SOBREIRA SOUTO",
+            "horario": "6M456",
+            "local": "CTJ T02 (CT)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDECV0113",
+        "name": "ESTÁGIO SUPERVISIONADO I (ENGENHARIA AMBIENTAL)",
+        "category": "Obrigatória",
+        "semester": 8,
+        "workload": "0h aula 150h lab.",
+        "type": "ESTÁGIO",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1703242",
+        "name": "TOPICOS ESPECIAIS EM ENG AMBIENTAL IV",
+        "category": "Complementar Flexiva",
+        "semester": 9,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1703243",
+        "name": "TRATAMENTO DE RESIDUOS SOLIDOS",
+        "category": "Optativa",
+        "semester": 9,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1703202"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1703235",
+        "name": "GESTÃO DE RISCOS E DESAST AMBIENTAIS",
+        "category": "Complementar Obrigatória",
+        "semester": 9,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1703235",
+            "turmaid": "01",
+            "nome": " GESTÃO DE RISCOS E DESAST AMBIENTAIS",
+            "semester": "2018.2",
+            "professor": "HAMILCAR JOSE ALMEIDA FILGUEIRA",
+            "horario": "5M123",
+            "local": "CTJ T02 (CT)"
+          }
+        ],
+        "prerequisites": [
+          "1102240",
+          "1703128",
+          "1704237"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1703251",
+        "name": "SEMINÁRIO TEMÁTICO I",
+        "category": "Obrigatória",
+        "semester": 9,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1703251",
+            "turmaid": "01",
+            "nome": " RACIAIS",
+            "semester": "2018.2",
+            "professor": "PATRICIA DOS SANTOS PINHEIRO",
+            "horario": "4M123",
+            "local": "CTJ 101 (CT)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1704236",
+        "name": "DESENVOLVIMENTO E MEIO AMBIENTE",
+        "category": "Obrigatória",
+        "semester": 9,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1704236",
+            "turmaid": "01",
+            "nome": " DESENVOLVIMENTO E MEIO AMBIENTE",
+            "semester": "2018.2",
+            "professor": "ILTON DA COSTA SOUZA FILHO",
+            "horario": "3M123",
+            "local": "CTJ T02 (CT)"
+          }
+        ],
+        "prerequisites": [
+          "1102240",
+          "1201294",
+          "1703231"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1705175",
+        "name": "PLANEJAMENTO E GESTÃO AMBIENTAL",
+        "category": "Obrigatória",
+        "semester": 9,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1705175",
+            "turmaid": "01",
+            "nome": " PLANEJAMENTO E GESTÃO AMBIENTAL",
+            "semester": "2018.2",
+            "professor": "SAMARA GONÇALVES FERNANDES DA COSTA",
+            "horario": "46M45",
+            "local": "CTF 101 (CT)"
+          }
+        ],
+        "prerequisites": [
+          "1106207",
+          "1703202"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDECV0112",
+        "name": "TRABALHO DE CONCLUSÃO DE CURSO (ENGENHARIA AMBIENTAL)",
+        "category": "Complementar Obrigatória",
+        "semester": 9,
+        "workload": "0h aula 60h lab.",
+        "type": "TRABALHO DE CONCLUSÃO DE CURSO",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1705173"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDECV0114",
+        "name": "ESTÁGIO SUPERVISIONADO II (ENGENHARIA AMBIENTAL)",
+        "category": "Obrigatória",
+        "semester": 9,
+        "workload": "0h aula 150h lab.",
+        "type": "ESTÁGIO",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1703232",
+          "0113"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1705109",
+        "name": " SEGURANCA INDUSTRIAL",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": "45h",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1705109",
+            "turmaid": "01",
+            "nome": " SEGURANCA INDUSTRIAL",
+            "semester": "2018.2",
+            "professor": "MARIA BERNADETE FERNANDES VIEIRA DE MELO",
+            "horario": "6M123",
+            "local": "AUD DEP (CT)"
+          },
+          {
+            "id": "1705123",
+            "turmaid": "03",
+            "nome": " SEGURANCA INDUSTRIAL I",
+            "semester": "2018.2",
+            "professor": "MARIA DO SOCORRO MARCIA LOPES SOUTO",
+            "horario": "5M345",
+            "local": "XIQUEXIQUE (CT)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+          "1705123"
+        ]
+      }
+    ]
+  }
+}

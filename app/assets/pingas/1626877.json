@@ -1,0 +1,1874 @@
+{
+  "curriculum": {
+    "id": "352012",
+    "codigo": "1626877",
+    "name": "PEDAGOGIA - CCHSA - Bananeiras - Presencial - MT - LICENCIATURA PLENA",
+    "faculty": "CENTRO DE CIÊNCIAS HUMANAS SOCIAIS E AGRÁRIAS (CCHSA) (11.00.45)",
+    "minch": "270",
+    "maxch": "480",
+    "semesters": 8,
+    "courses": [
+      {
+        "id": "4102079",
+        "name": "CULTIVO DE CULTURAS OLERÍCOLAS  NO AMBIENTE ESCOLAR",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4104114",
+        "name": "PRÁTICAS DE LETRAMENTO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4104149",
+        "name": "LITERATURA INFANTOJUVENIL",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4104158",
+        "name": "FUNDAMENTOS DA EDUCAÇÃO DE JOVENS E ADULTOS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4104165",
+        "name": "TOPICOS ESPECIAIS EM EDUCACAO I",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4104166",
+        "name": "TOPICOS ESPECIAIS EM EDUCACAO II",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4104167",
+        "name": "TOPICOS ESPECIAIS EM EDUCACAO III",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4104168",
+        "name": "TOPICOS ESPECIAIS EM EDUCACAO IV",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4104169",
+        "name": "TOPICOS ESPECIAIS EM EDUCACAO V",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4104170",
+        "name": "FUNDAMENTOS PSICOSSOCIAIS DAS RELAÇÕES HUMANAS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4104171",
+        "name": "TÉCNICAS AUDIOVISUAIS EM EDUCAÇÃO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4104172",
+        "name": "TEORIAS E PRÁTICAS DA EDUCAÇÃO POPULAR",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4105039",
+        "name": "PRÁTICAS DE LETRAMENTO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4105077",
+        "name": "EDUCAÇÃO SEXUAL",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4105078",
+        "name": "ÉTICA PROFISSIONAL",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4105079",
+        "name": "EDUCAÇÃO AMBIENTAL",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4105080",
+        "name": "FUNDAMENTOS DA EDUCAÇÃO INFANTIL",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4105082",
+        "name": "FUNDAMENTOS DA EDUCAÇÃO DE JOVENS E ADULTOS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4105083",
+        "name": "GESTÃO DE PROCESSOS EDUCATIVOS EM ESCOLAS DO CAMPO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4105084",
+        "name": "LITERATURA INFANTOJUVENIL",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4105085",
+        "name": "ORGANIZAÇÃO DO TRABALHO PEDAGÓGICO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4105086",
+        "name": "TÉCNICAS AUDIOVISUAIS EM EDUCAÇÃO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4105087",
+        "name": "TEORIAS E PRÁTICAS DA EDUCAÇÃO POPULAR",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4105088",
+        "name": "TÓPICOS ESPECIAIS EM EDUCAÇÃO I",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4105089",
+        "name": "TÓPICOS ESPECIAIS EM EDUCAÇÃO II",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4105090",
+        "name": "TÓPICOS ESPECIAIS EM EDUCAÇÃO III",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4105091",
+        "name": "TÓPICOS ESPECIAIS EM EDUCAÇÃO IV",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4105092",
+        "name": "TÓPICOS ESPECIAIS EM EDUCAÇÃO V",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4105093",
+        "name": "CULTURA GÊNERO E RELIGIOSIDADE",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4105029",
+        "name": "HISTÓRIA DA EDUCAÇÃO I",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "4105029",
+            "turmaid": "03",
+            "nome": " HISTÓRIA DA EDUCAÇÃO I",
+            "semester": "2018.2",
+            "professor": "LUCIENE CHAVES DE AQUINO",
+            "horario": "23T34",
+            "local": "BL PED/ADM 02 (CCHSA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4105031",
+        "name": "PSICOLOGIA DA EDUCAÇÃO I",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "4105031",
+            "turmaid": "01",
+            "nome": " PSICOLOGIA DA EDUCAÇÃO I",
+            "semester": "2018.2",
+            "professor": "NILVANIA DOS SANTOS SILVA",
+            "horario": "5M12 4T34",
+            "local": "BL PED/ADM 05 (CCHSA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4105033",
+        "name": "FILOSOFIA DA EDUCAÇÃO I",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "4105033",
+            "turmaid": "01",
+            "nome": " FILOSOFIA DA EDUCAÇÃO I",
+            "semester": "2018.2",
+            "professor": "GABRIEL DE MEDEIROS LIMA",
+            "horario": "56T12",
+            "local": "BL PED/ADM 05 (CCHSA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4105035",
+        "name": "SOCIOLOGIA DA EDUCAÇÃO I",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "4105035",
+            "turmaid": "02",
+            "nome": " SOCIOLOGIA DA EDUCAÇÃO I",
+            "semester": "2018.2",
+            "professor": "JOHN ALEX XAVIER DE SOUSA",
+            "horario": "23T12",
+            "local": "BL PED/ADM 03 (CCHSA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4105055",
+        "name": "METODOLOGIA DO TRABALHO CIENTÍFICO",
+        "category": "Complementar Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "4105055",
+            "turmaid": "01",
+            "nome": " METODOLOGIA DO TRABALHO CIENTÍFICO",
+            "semester": "2018.2",
+            "professor": "RITA CRISTIANA BARBOSA",
+            "horario": "56T34",
+            "local": "BL PED/ADM 01 (CCHSA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4105056",
+        "name": "PESQUISA EDUCACIONAL",
+        "category": "Complementar Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "4105056",
+            "turmaid": "01",
+            "nome": " PESQUISA EDUCACIONAL",
+            "semester": "2018.2",
+            "professor": "RITA CRISTIANA BARBOSA",
+            "horario": "56M34",
+            "local": "BL PED/ADM 01 (CCHSA)"
+          },
+          {
+            "id": "4105056",
+            "turmaid": "02",
+            "nome": " PESQUISA EDUCACIONAL",
+            "semester": "2018.2",
+            "professor": "A DEFINIR",
+            "horario": "4N34 6N12",
+            "local": "BL PED/ADM 03 (CCHSA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4105069",
+        "name": "SEMINÁRIO TEMÁTICO EM EDUCAÇÃO I",
+        "category": "Complementar Obrigatória",
+        "semester": 1,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "4105069",
+            "turmaid": "01",
+            "nome": " SEMINÁRIO TEMÁTICO EM EDUCAÇÃO I",
+            "semester": "2018.2",
+            "professor": "JOELMA FARIAS VIEIRA DE JESUS",
+            "horario": "4T12",
+            "local": "BL PED/ADM 03 (CCHSA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4101234",
+        "name": "LIBRAS",
+        "category": "Complementar Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "4101234",
+            "turmaid": "03",
+            "nome": " CCHSA",
+            "semester": "2018.2",
+            "professor": "FILIPPE PAULINO SOARES",
+            "horario": "23T12",
+            "local": "BL AGROEC 03 (CCHSA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4105030",
+        "name": "HISTÓRIA DA EDUCAÇÃO II",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "4105030",
+            "turmaid": "02",
+            "nome": " HISTÓRIA DA EDUCAÇÃO II",
+            "semester": "2018.2",
+            "professor": "LUCIENE CHAVES DE AQUINO",
+            "horario": "23N12",
+            "local": "BL PED/ADM 05 (CCHSA)"
+          }
+        ],
+        "prerequisites": [
+          "4104101",
+          "4105029"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4105032",
+        "name": "PSICOLOGIA DA EDUCAÇÃO II",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "4105032",
+            "turmaid": "01",
+            "nome": " PSICOLOGIA DA EDUCAÇÃO II",
+            "semester": "2018.2",
+            "professor": "NILVANIA DOS SANTOS SILVA",
+            "horario": "45N12",
+            "local": "BL PED/ADM 08 (CCHSA)"
+          }
+        ],
+        "prerequisites": [
+          "4104103",
+          "4105031"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4105034",
+        "name": "FILOSOFIA DA EDUCAÇÃO II",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "4105034",
+            "turmaid": "01",
+            "nome": " FILOSOFIA DA EDUCAÇÃO II",
+            "semester": "2018.2",
+            "professor": "GABRIEL DE MEDEIROS LIMA",
+            "horario": "5N12 6N34",
+            "local": "BL PED/ADM 05 (CCHSA)"
+          }
+        ],
+        "prerequisites": [
+          "4104100",
+          "4105033"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4105036",
+        "name": "SOCIOLOGIA DA EDUCAÇÃO II",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "4105036",
+            "turmaid": "01",
+            "nome": " SOCIOLOGIA DA EDUCAÇÃO II",
+            "semester": "2018.2",
+            "professor": "DIOGO FERNANDES DA SILVA",
+            "horario": "23N34",
+            "local": "BL PED/ADM 04 (CCHSA)"
+          }
+        ],
+        "prerequisites": [
+          "4104102",
+          "4105035"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4105059",
+        "name": "CURRÍCULOS E TRABALHOS PEDAGÓGICOS",
+        "category": "Complementar Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "4105059",
+            "turmaid": "01",
+            "nome": " CURRÍCULOS E TRABALHOS PEDAGÓGICOS",
+            "semester": "2018.2",
+            "professor": "A DEFINIR",
+            "horario": "6M12 5T34",
+            "local": "BL PED/ADM 07 (CCHSA)"
+          },
+          {
+            "id": "4105059",
+            "turmaid": "02",
+            "nome": " CURRÍCULOS E TRABALHOS PEDAGÓGICOS",
+            "semester": "2018.2",
+            "professor": "A DEFINIR",
+            "horario": "4N34 6N12",
+            "local": "BL PED/ADM 05 (CCHSA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4105070",
+        "name": "SEMINÁRIO TEMÁTICO EM EDUCAÇÃO II",
+        "category": "Complementar Obrigatória",
+        "semester": 2,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "4105070",
+            "turmaid": "01",
+            "nome": " SEMINÁRIO TEMÁTICO EM EDUCAÇÃO II",
+            "semester": "2018.2",
+            "professor": "EFIGENIA MARIA DIAS COSTA",
+            "horario": "7T6 7N1",
+            "local": "BL PED/ADM 02 (CCHSA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4105037",
+        "name": "FUNDAMENTOS DA ALFABETIZAÇÃO",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "4105037",
+            "turmaid": "01",
+            "nome": " FUNDAMENTOS DA ALFABETIZAÇÃO",
+            "semester": "2018.2",
+            "professor": "GERALDA MACEDO",
+            "horario": "3T34 5T12",
+            "local": "BL PED/ADM 03 (CCHSA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+          "4104112"
+        ]
+      },
+      {
+        "id": "4105043",
+        "name": "ENSINO DE HISTÓRIA NAS SÉRIES INICIAIS DO ENSINO FUNDAMENTAL",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "4105043",
+            "turmaid": "01",
+            "nome": " ENSINO DE HISTÓRIA NAS SÉRIES INICIAIS DO ENSINO FUNDAMENTAL",
+            "semester": "2018.2",
+            "professor": "JOHN ALEX XAVIER DE SOUSA",
+            "horario": "24T34",
+            "local": "BL PED/ADM 03 (CCHSA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4105044",
+        "name": "PESQUISA E PRÁTICA PEDAGÓGICA NA EDUCAÇÃO NÃO",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "4105044",
+            "turmaid": "01",
+            "nome": " PESQUISA E PRÁTICA PEDAGÓGICA NA EDUCAÇÃO NÃO-ESCOLAR",
+            "semester": "2018.2",
+            "professor": "VIVIAN GALDINO DE ANDRADE",
+            "horario": "4T12 5T34",
+            "local": "BL PED/ADM 02 (CCHSA)"
+          },
+          {
+            "id": "4105044",
+            "turmaid": "02",
+            "nome": " PESQUISA E PRÁTICA PEDAGÓGICA NA EDUCAÇÃO NÃO-ESCOLAR",
+            "semester": "2018.2",
+            "professor": "LUANA PATRICIA COSTA SILVA",
+            "horario": "4N12 5N34",
+            "local": "BL PED/ADM 06 (CCHSA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4105049",
+        "name": "ESTÁGIO SUPERVISIONADO I  EDUCAÇÃO NÃO",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "4105049",
+            "turmaid": "01",
+            "nome": " PEDAGOGIA CCHSA",
+            "semester": "2018.2",
+            "professor": "VIVIAN GALDINO DE ANDRADE",
+            "horario": "4M34 6M12",
+            "local": "BL PED/ADM 06 (CCHSA)"
+          },
+          {
+            "id": "4105049",
+            "turmaid": "02",
+            "nome": " PEDAGOGIA CCHSA",
+            "semester": "2018.2",
+            "professor": "ALBERTINA MARIA RIBEIRO BRITO DE ARAUJO",
+            "horario": "7N1234",
+            "local": "BL PED/ADM 06 (CCHSA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4105058",
+        "name": "POLÍTICA EDUCACIONAL DA EDUCAÇÃO BÁSICA",
+        "category": "Complementar Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "4105058",
+            "turmaid": "01",
+            "nome": " POLÍTICA EDUCACIONAL DA EDUCAÇÃO BÁSICA",
+            "semester": "2018.2",
+            "professor": "GABRIEL DE MEDEIROS LIMA",
+            "horario": "56M34",
+            "local": "BL PED/ADM 07 (CCHSA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4105061",
+        "name": "PLANEJAMENTO EDUCACIONAL",
+        "category": "Complementar Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "4105061",
+            "turmaid": "01",
+            "nome": " PLANEJAMENTO EDUCACIONAL",
+            "semester": "2018.2",
+            "professor": "AIENE FERNANDES REBOUCAS",
+            "horario": "23M34",
+            "local": "BL PED/ADM 02 (CCHSA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4105071",
+        "name": "SEMINÁRIO TEMÁTICO EM EDUCAÇÃO III",
+        "category": "Complementar Obrigatória",
+        "semester": 3,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "4105071",
+            "turmaid": "01",
+            "nome": " SEMINÁRIO TEMÁTICO EM EDUCAÇÃO III",
+            "semester": "2018.2",
+            "professor": "LUIS FELIPE DE ARAUJO",
+            "horario": "4M12",
+            "local": "BL PED/ADM 01 (CCHSA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4105038",
+        "name": "ALFABETIZAÇÃO",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "4105038",
+            "turmaid": "02",
+            "nome": " ALFABETIZAÇÃO",
+            "semester": "2018.2",
+            "professor": "GERALDA MACEDO",
+            "horario": "3N12 4N34",
+            "local": "BL PED/ADM 02 (CCHSA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4105041",
+        "name": "ENSINO DE MATEMÁTICA NAS SÉRIES INICIAIS DO ENSINO FUNDAMENTAL",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "4105041",
+            "turmaid": "01",
+            "nome": " ENSINO DE MATEMÁTICA NAS SÉRIES INICIAIS DO ENSINO FUNDAMENTAL",
+            "semester": "2018.2",
+            "professor": "LUIS FELIPE DE ARAUJO",
+            "horario": "5N12 6N34",
+            "local": "BL PED/ADM 06 (CCHSA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4105050",
+        "name": "ESTÁGIO SUPERVISIONADO II  GESTÃO EDUCACIONAL",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4105060",
+        "name": "GESTÃO EDUCACIONAL",
+        "category": "Complementar Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4105062",
+        "name": "AVALIAÇÃO EDUCACIONAL",
+        "category": "Complementar Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4105063",
+        "name": "DIDÁTICA",
+        "category": "Complementar Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4105072",
+        "name": "SEMINÁRIO TEMÁTICO EM EDUCAÇÃO IV",
+        "category": "Complementar Obrigatória",
+        "semester": 4,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "4105072",
+            "turmaid": "01",
+            "nome": " SEMINÁRIO TEMÁTICO EM EDUCAÇÃO IV",
+            "semester": "2018.2",
+            "professor": "LUIS FELIPE DE ARAUJO",
+            "horario": "7T56",
+            "local": "BL PED/ADM 07 (CCHSA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4105040",
+        "name": "ENSINO DE PORTUGUÊS NAS SÉRIES INICIAIS DO ENSINO FUNDAMENTAL",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "4105040",
+            "turmaid": "01",
+            "nome": " ENSINO DE PORTUGUÊS NAS SÉRIES INICIAIS DO ENSINO FUNDAMENTAL",
+            "semester": "2018.2",
+            "professor": "SILVÂNIA LÚCIA DE ARAÚJO SILVA",
+            "horario": "2T34 3T12",
+            "local": "BL PED/ADM 05 (CCHSA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4105047",
+        "name": "PESQUISA E PRAT PEDAG NA EDUC DO CAMPO",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "4105047",
+            "turmaid": "01",
+            "nome": " PESQUISA E PRAT PEDAG NA EDUC DO CAMPO",
+            "semester": "2018.2",
+            "professor": "LUCICLÉA TEIXEIRA LINS",
+            "horario": "4T34 5T12",
+            "local": "BL PED/ADM 06 (CCHSA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4105051",
+        "name": "ESTÁGIO SUPERVISIONADO III  EDUCAÇÃO INFANTIL",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "4105051",
+            "turmaid": "01",
+            "nome": " ESTÁGIO SUPERVISIONADO III  EDUCAÇÃO INFANTIL- PEDAGOGIA CCHSA",
+            "semester": "2018.2",
+            "professor": "EFIGENIA MARIA DIAS COSTA",
+            "horario": "3M34 5M12",
+            "local": "BL PED/ADM 01 (CCHSA)"
+          },
+          {
+            "id": "4105051",
+            "turmaid": "02",
+            "nome": " ESTÁGIO SUPERVISIONADO III  EDUCAÇÃO INFANTIL- PEDAGOGIA CCHSA",
+            "semester": "2018.2",
+            "professor": "A DEFINIR",
+            "horario": "5N34 6N12",
+            "local": "BL PED/ADM 07 (CCHSA)"
+          }
+        ],
+        "prerequisites": [
+          "4104136",
+          "4105063"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4105064",
+        "name": "EDUCAÇÃO E NOVAS TECNOLOGIAS",
+        "category": "Complementar Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "4105064",
+            "turmaid": "01",
+            "nome": " EDUCAÇÃO E NOVAS TECNOLOGIAS",
+            "semester": "2018.2",
+            "professor": "VIVIAN GALDINO DE ANDRADE",
+            "horario": "4T34 5T12",
+            "local": "Laboratório de Educação e Novas Tecnologias - LABENT ..."
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4105073",
+        "name": "SEMINÁRIO TEMÁTICO EM EDUCAÇÃO V",
+        "category": "Complementar Obrigatória",
+        "semester": 5,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "4105073",
+            "turmaid": "01",
+            "nome": " SEMINÁRIO TEMÁTICO EM EDUCAÇÃO V",
+            "semester": "2018.2",
+            "professor": "ISABELLE DA COSTA WANDERLEY ALENCAR",
+            "horario": "2M34",
+            "local": "BL PED/ADM 06 (CCHSA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4105096",
+        "name": "PESQUISA E PRÁTICA PEDAGÓGICA NA GESTÃO EDUCACIONAL",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4104148",
+        "name": "ÉTICA PROFISSIONAL",
+        "category": "Optativa",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4101218",
+        "name": "LEITURA E PRODUÇÃO DE TEXTOS",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4105042",
+        "name": "ENSINO DE GEOGRAFIA NAS SÉRIES INICIAIS DO ENSINO FUNDAMENTAL",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "4105042",
+            "turmaid": "02",
+            "nome": " ENSINO DE GEOGRAFIA NAS SÉRIES INICIAIS DO ENSINO FUNDAMENTAL",
+            "semester": "2018.2",
+            "professor": "ROGERIO ALVES DE PAIVA",
+            "horario": "24N12",
+            "local": "BL PED/ADM 02 (CCHSA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4105045",
+        "name": "PESQUISA E PRÁTICA PEDAGÓGICA DA EDUCAÇÃO INFANTIL",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "4105045",
+            "turmaid": "01",
+            "nome": " PESQUISA E PRÁTICA PEDAGÓGICA DA EDUCAÇÃO INFANTIL",
+            "semester": "2018.2",
+            "professor": "EFIGENIA MARIA DIAS COSTA",
+            "horario": "3T34 4T12",
+            "local": "BL PED/ADM 04 (CCHSA)"
+          },
+          {
+            "id": "4105045",
+            "turmaid": "02",
+            "nome": " PESQUISA E PRÁTICA PEDAGÓGICA DA EDUCAÇÃO INFANTIL",
+            "semester": "2018.2",
+            "professor": "EFIGENIA MARIA DIAS COSTA",
+            "horario": "5N12 6N34",
+            "local": "BL PED/ADM 03 (CCHSA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4105046",
+        "name": "PESQUISA E PRÁTICA PEDAGÓGICA DO ENSINO FUNDAMENTAL",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4105052",
+        "name": "ESTÁGIO SUPERVISIONADO  IV  ENSINO FUNDAMENTAL 1 E 2 ANOS",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "4105063",
+          "4104136"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4105066",
+        "name": "EDUCAÇÃO E TRABALHO",
+        "category": "Complementar Obrigatória",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "4105066",
+            "turmaid": "01",
+            "nome": " EDUCAÇÃO E TRABALHO",
+            "semester": "2018.2",
+            "professor": "A DEFINIR",
+            "horario": "2N34 4N12",
+            "local": "BL PED/ADM 07 (CCHSA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4105074",
+        "name": "SEMINÁRIO TEMÁTICO EM EDUCAÇÃO VI",
+        "category": "Complementar Obrigatória",
+        "semester": 6,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "4105074",
+            "turmaid": "01",
+            "nome": " SEMINÁRIO TEMÁTICO EM EDUCAÇÃO VI",
+            "semester": "2018.2",
+            "professor": "ROGERIO ALVES DE PAIVA",
+            "horario": "7T56",
+            "local": "BL PED/ADM 03 (CCHSA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4104153",
+        "name": "CULTURA, GÊNERO E RELIGIOSIDADE",
+        "category": "Optativa",
+        "semester": 7,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4105022",
+        "name": "EDUCAÇÃO  E  MOVIMENTOS  SOCIAIS",
+        "category": "Complementar Obrigatória",
+        "semester": 7,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "4105022",
+            "turmaid": "01",
+            "nome": " EDUCAÇÃO  E  MOVIMENTOS  SOCIAIS",
+            "semester": "2018.2",
+            "professor": "JOHN ALEX XAVIER DE SOUSA",
+            "horario": "3T34 4T12",
+            "local": "BL PED/ADM 01 (CCHSA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4105048",
+        "name": "ARTE E EDUCAÇÃO",
+        "category": "Obrigatória",
+        "semester": 7,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "4105048",
+            "turmaid": "01",
+            "nome": " ARTE E EDUCAÇÃO",
+            "semester": "2018.2",
+            "professor": "PAULO FERNANDES ROSA SOBRINHO",
+            "horario": "2T34 3T12",
+            "local": "BL PED/ADM 07 (CCHSA)"
+          },
+          {
+            "id": "4105048",
+            "turmaid": "03",
+            "nome": " ARTE E EDUCAÇÃO",
+            "semester": "2018.2",
+            "professor": "PAULO FERNANDES ROSA SOBRINHO",
+            "horario": "23N34",
+            "local": "BL PED/ADM 02 (CCHSA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4105053",
+        "name": "ESTÁGIO SUPERVISIONADO V  ENSINO FUNDAMENTAL 3 E 4 ANOS",
+        "category": "Obrigatória",
+        "semester": 7,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "4105053",
+            "turmaid": "01",
+            "nome": " PEDAGOGIA CCHSA",
+            "semester": "2018.2",
+            "professor": "SILVÂNIA LÚCIA DE ARAÚJO SILVA",
+            "horario": "4M34 2T12",
+            "local": "BL PED/ADM 05 (CCHSA)"
+          }
+        ],
+        "prerequisites": [
+          "4104125",
+          "4105052"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4105075",
+        "name": "SEMINÁRIO TEMÁTICO EM EDUCAÇÃO VII",
+        "category": "Complementar Obrigatória",
+        "semester": 7,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "4105075",
+            "turmaid": "02",
+            "nome": " SEMINÁRIO TEMÁTICO EM EDUCAÇÃO VII",
+            "semester": "2018.2",
+            "professor": "FABRICIA SOUSA MONTENEGRO",
+            "horario": "3M12",
+            "local": "BL PED/ADM 06 (CCHSA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4105094",
+        "name": "ENSINO DE CIÊNCIAS NAS SÉRIES INICIAIS DO ENSINO FUNDAMENTAL",
+        "category": "Obrigatória",
+        "semester": 7,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "4105094",
+            "turmaid": "02",
+            "nome": " ENSINO DE CIÊNCIAS NAS SÉRIES INICIAIS DO ENSINO FUNDAMENTAL",
+            "semester": "2018.2",
+            "professor": "CATARINA DE MEDEIROS BANDEIRA",
+            "horario": "23M34",
+            "local": "BL PED/ADM 04 (CCHSA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4105095",
+        "name": "EDUCAÇÃO DO CAMPO",
+        "category": "Complementar Obrigatória",
+        "semester": 7,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "4105095",
+            "turmaid": "01",
+            "nome": " EDUCAÇÃO DO CAMPO",
+            "semester": "2018.2",
+            "professor": "LUCICLÉA TEIXEIRA LINS",
+            "horario": "45M34",
+            "local": "BL PED/ADM 03 (CCHSA)"
+          },
+          {
+            "id": "4105095",
+            "turmaid": "02",
+            "nome": " EDUCAÇÃO DO CAMPO",
+            "semester": "2018.2",
+            "professor": "LUCICLÉA TEIXEIRA LINS",
+            "horario": "3N12 4N34",
+            "local": "BL ALCIDES 03 (CCHSA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4105054",
+        "name": "ESTÁGIO SUPERVISIONADO VI EDUCAÇÃO DO CAMPO",
+        "category": "Obrigatória",
+        "semester": 8,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "4105063",
+          "4104136"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4105067",
+        "name": "POLÍTICAS SOCIAIS E EDUCAÇÃO ESPECIAL",
+        "category": "Complementar Obrigatória",
+        "semester": 8,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "4105067",
+            "turmaid": "01",
+            "nome": " POLÍTICAS SOCIAIS E EDUCAÇÃO ESPECIAL",
+            "semester": "2018.2",
+            "professor": "A DEFINIR",
+            "horario": "2N12 3N34",
+            "local": "BL PED/ADM 07 (CCHSA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4105068",
+        "name": "TRABALHO DE CONCLUSÃO DE CURSO PEDAGOGIA CCHSA",
+        "category": "Complementar Obrigatória",
+        "semester": 8,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "4105068",
+            "turmaid": "01",
+            "nome": " TRABALHO DE CONCLUSÃO DE CURSO PEDAGOGIA CCHSA",
+            "semester": "2018.2",
+            "professor": "FABRICIA SOUSA MONTENEGRO",
+            "horario": "57M34",
+            "local": "BL PED/ADM 08 (CCHSA)"
+          },
+          {
+            "id": "4105068",
+            "turmaid": "03",
+            "nome": " TRABALHO DE CONCLUSÃO DE CURSO PEDAGOGIA CCHSA",
+            "semester": "2018.2",
+            "professor": "FABRICIA SOUSA MONTENEGRO",
+            "horario": "5N34 7N12",
+            "local": "BL PED/ADM 03 (CCHSA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4105076",
+        "name": "SEMINÁRIO TEMÁTICO EM EDUCAÇÃO VIII",
+        "category": "Complementar Obrigatória",
+        "semester": 8,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "4105076",
+            "turmaid": "01",
+            "nome": " SEMINÁRIO TEMÁTICO EM EDUCAÇÃO VIII",
+            "semester": "2018.2",
+            "professor": "A DEFINIR",
+            "horario": "7T56",
+            "local": "BL PED/ADM 01 (CCHSA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4105097",
+        "name": "RELAÇÕES ÉTNICO",
+        "category": "Complementar Obrigatória",
+        "semester": 8,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDPAG0028",
+        "name": " CULTIVO DE CULTURAS OLERÍCOLAS NO AMBIENTE ESCOLAR",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": "60h",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDPAG0028",
+            "turmaid": "01",
+            "nome": " CULTIVO DE CULTURAS OLERÍCOLAS NO AMBIENTE ESCOLAR",
+            "semester": "2018.2",
+            "professor": "ALEXANDRE EDUARDO DE ARAUJO",
+            "horario": "34M12",
+            "local": "BL PED/ADM 07 (CCHSA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      }
+    ]
+  }
+}

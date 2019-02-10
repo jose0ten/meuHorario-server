@@ -1,0 +1,1679 @@
+{
+  "curriculum": {
+    "id": "0422008",
+    "codigo": "1626802",
+    "name": "ARQUIVOLOGIA (BACHARELADO) - João Pessoa - Presencial - N - BACHARELADO",
+    "faculty": "CENTRO DE CIÊNCIAS SOCIAIS E APLICADAS (CCSA) (11.00.52)",
+    "minch": "180",
+    "maxch": "360",
+    "semesters": 10,
+    "courses": [
+      {
+        "id": "1201126",
+        "name": "ECONOMIA I",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+          "1201180"
+        ]
+      },
+      {
+        "id": "1202285",
+        "name": "INTRODUÇAO A CONTABILIDADE",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1205006",
+        "name": "FUNDAMENTOS DA BIBLIOTECONOMIA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1205006",
+            "turmaid": "01",
+            "nome": " FUNDAMENTOS DA BIBLIOTECONOMIA",
+            "semester": "2018.2",
+            "professor": "LUCIANA FERREIRA DA COSTA",
+            "horario": "2N1234",
+            "local": "CCSA 231 (CCSA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1205042",
+        "name": "SOCIOLOGIA DA INFORMAÇÃO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1205058",
+        "name": "ARQUIVO PATRIMONIO E MEMORIA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1205059",
+        "name": "EMPREENDEDORISMO  ARQ  BIBLIOT",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1205059",
+            "turmaid": "01",
+            "nome": " EMPREENDEDORISMO  ARQ  BIBLIOT",
+            "semester": "2018.2",
+            "professor": "LILIAN VIANA TEIXEIRA CANANÉA",
+            "horario": "6N1234",
+            "local": "CAG 101 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1205060",
+        "name": "UNIDADES ARQUIVISTICAS ESPECIALIZADAS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1205065",
+        "name": "DIPLOMATICA ARQUIVISTICA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1205065",
+            "turmaid": "01",
+            "nome": " DIPLOMATICA ARQUIVISTICA",
+            "semester": "2018.2",
+            "professor": "MARIA AMELIA TEIXEIRA DA SILVA",
+            "horario": "4N1234",
+            "local": "CAD 101 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1303164",
+        "name": "EDUCACAO E TRABALHO I",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1401121",
+        "name": "CULTURA BRASILEIRA I",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1401133",
+        "name": "INTRODUCAO A SOCIOLOGIA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1401134",
+        "name": "INTRODUCAO A SOCIOLOGIA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1401134",
+            "turmaid": "01",
+            "nome": " INTRODUCAO A SOCIOLOGIA",
+            "semester": "2018.2",
+            "professor": "MAURO GUILHERME PINHEIRO KOURY",
+            "horario": "6N1234",
+            "local": "CAH 103 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1401159",
+        "name": "SOCIOLOGIA DO DESENVOLVIMENTO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1401334",
+        "name": "SOCIOLOGIA DO TRABALHO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+          "1401161"
+        ]
+      },
+      {
+        "id": "1402125",
+        "name": "EVOLUCAO PENS FILCIENT I",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1402240",
+        "name": "INTRODUCAO A FILOSOFIA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1403153",
+        "name": "PORTUGUÊS INSTRUMENTAL",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1403153",
+            "turmaid": "02",
+            "nome": " PORTUGUÊS INSTRUMENTAL",
+            "semester": "2018.2",
+            "professor": "ENEIDA MARTINS DE OLIVEIRA",
+            "horario": "5N1234",
+            "local": "TS-1 (CCHLA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1403747",
+        "name": "LIBRAS  LÍNGUA BRASILEIRA DE SINAIS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1404188",
+        "name": "LINGUA FRANCESA I",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1404308",
+        "name": "LINGUA ESPANHOLA I",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1404325",
+        "name": "LINGUA INGLESA INSTRUMENTAL I",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1404325",
+            "turmaid": "02",
+            "nome": " LINGUA INGLESA INSTRUMENTAL I",
+            "semester": "2018.2",
+            "professor": "ROSYCLÉA DANTAS SILVA",
+            "horario": "35N34",
+            "local": "CAF 110 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1405108",
+        "name": "INTRODUCAO A PSICOLOGIA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1405135",
+        "name": "PSICOLOGIA DO DESENVOLVIMENTO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1405218",
+        "name": "ANTROPOLOGIA DAS ORGANIZAÇÕES",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1406238",
+        "name": "RELACOES PUBLICAS E HUMANA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1408112",
+        "name": "HISTORIA DA PARAIBA I",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1408113",
+        "name": "HISTORIA DA PARAIBA II",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1408134",
+        "name": "PALEOGRAFIA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1408134",
+            "turmaid": "01",
+            "nome": " PALEOGRAFIA",
+            "semester": "2018.2",
+            "professor": "MOZART VERGETTI DE MENEZES",
+            "horario": "3N1234",
+            "local": "CCHLA 516 - PPGH (CCHLA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1408152",
+        "name": "TOP ESP HIST BRASILINT CONH NAT HUMANO MSC",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1408194",
+        "name": "HISTORIA DA PARAIBA I",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1408196",
+        "name": "HISTORIA DA PARAIBA II",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1412121",
+        "name": "HISTORIA DA ARTE I",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1501175",
+        "name": "INST DE DIRPUBL PRIVADO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1609247",
+        "name": "EDUCACAO FISICA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDLS0024",
+        "name": "LIBRAS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDLS0024",
+            "turmaid": "12",
+            "nome": " LIBRAS",
+            "semester": "2018.2",
+            "professor": "MARIE GORETT DANTAS DE ASSIS E MEDEIROS BATISTA",
+            "horario": "5N1234",
+            "local": "CCHLA 423 BLOCO A 2º ANDAR (CCHLA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1205001",
+        "name": "FUNDAMENTOS DA CIENCIA DA INFORMACAO",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1205001",
+            "turmaid": "02",
+            "nome": " FUNDAMENTOS DA CIENCIA DA INFORMACAO",
+            "semester": "2018.2",
+            "professor": "HENRY PONCIO CRUZ DE OLIVEIRA",
+            "horario": "2N1234",
+            "local": "CCSA 219 (CCSA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1205003",
+        "name": "METODOLOGIA DO TRABALHO CIENTÍFICO",
+        "category": "Complementar Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1205003",
+            "turmaid": "10",
+            "nome": " METODOLOGIA DO TRABALHO CIENTÍFICO",
+            "semester": "2018.2",
+            "professor": "ISMAELLY BATISTA DOS SANTOS SILVA",
+            "horario": "35N12",
+            "local": "CCSA 219 (CCSA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+          "1401140",
+          "1709001",
+          "GDTH0036"
+        ]
+      },
+      {
+        "id": "1205004",
+        "name": "REPRESENTACAO E ANALISE DA INFORMACAO",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1205004",
+            "turmaid": "02",
+            "nome": " REPRESENTACAO E ANALISE DA INFORMACAO",
+            "semester": "2018.2",
+            "professor": "GRACY KELLI MARTINS GONCALVES",
+            "horario": "6N1234",
+            "local": "CCSA 219 (CCSA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1404114",
+        "name": "INGLES INSTRUMENTAL",
+        "category": "Complementar Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDEST0102",
+        "name": "ESTATÍSTICA PARA CIÊNCIAS HUMANAS E SOCIAIS I",
+        "category": "Complementar Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDEST0102",
+            "turmaid": "06",
+            "nome": " ESTATÍSTICA PARA CIÊNCIAS HUMANAS E SOCIAIS I",
+            "semester": "2018.2",
+            "professor": "ANTONIO MARCOS MOREIRA e ULISSES UMBELINO DOS ANJOS",
+            "horario": "4N1234",
+            "local": "CAD 103 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+          "1108184"
+        ]
+      },
+      {
+        "id": "1205005",
+        "name": "PESQUISA APL A CIENCIA DA INFORMACAO",
+        "category": "Complementar Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1205005",
+            "turmaid": "02",
+            "nome": " PESQUISA APL A CIENCIA DA INFORMACAO",
+            "semester": "2018.2",
+            "professor": "EDVALDO CARVALHO ALVES",
+            "horario": "2N1234",
+            "local": "CCSA 213 (CCSA)"
+          }
+        ],
+        "prerequisites": [
+          "1108114",
+          "0102"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1205008",
+        "name": "ETICA DA INFORMACAO",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1205008",
+            "turmaid": "02",
+            "nome": " ETICA DA INFORMACAO",
+            "semester": "2018.2",
+            "professor": "ISA MARIA FREIRE",
+            "horario": "3N1234",
+            "local": "CCSA 213 (CCSA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1205013",
+        "name": "FUNDAMENTOS DA ARQUIVISTICA",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1205013",
+            "turmaid": "01",
+            "nome": " FUNDAMENTOS DA ARQUIVISTICA",
+            "semester": "2018.2",
+            "professor": "ANA CLÁUDIA CRUZ CÓRDULA",
+            "horario": "6N1234",
+            "local": "CCSA 213 (CCSA)"
+          }
+        ],
+        "prerequisites": [
+          "1205001"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1205014",
+        "name": "LEGISLACAO ARQUIVISTICA BRASILEIRA",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1205014",
+            "turmaid": "01",
+            "nome": " LEGISLACAO ARQUIVISTICA BRASILEIRA",
+            "semester": "2018.2",
+            "professor": "LUIZ EDUARDO FERREIRA DA SILVA",
+            "horario": "4N1234",
+            "local": "CCSA 213 (CCSA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1406352",
+        "name": "FUNDAMENTOS CIENTIFICOS DA COMUNICAÇÃO",
+        "category": "Complementar Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1406352",
+            "turmaid": "01",
+            "nome": " FUNDAMENTOS CIENTIFICOS DA COMUNICAÇÃO",
+            "semester": "2018.2",
+            "professor": "SHEILA MENDES ACCIOLY",
+            "horario": "5N1234",
+            "local": "CCSA 213 (CCSA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1205009",
+        "name": "TEORIA GERAL DA ADMINISTRACAO",
+        "category": "Complementar Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1205009",
+            "turmaid": "02",
+            "nome": " TEORIA GERAL DA ADMINISTRACAO",
+            "semester": "2018.2",
+            "professor": "EDILEUDA SOARES DINIZ",
+            "horario": "5N1234",
+            "local": "CCSA 218 (CCSA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1205010",
+        "name": "REPRESENT TEMAT DA INFORM ARQUIV I",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1205010",
+            "turmaid": "01",
+            "nome": " REPRESENT TEMAT DA INFORM ARQUIV I",
+            "semester": "2018.2",
+            "professor": "ROSA ZULEIDE LIMA DE BRITO",
+            "horario": "2N1234",
+            "local": "CCSA 218 (CCSA)"
+          }
+        ],
+        "prerequisites": [
+          "1205004"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1205011",
+        "name": "REPRESENT DESCRIT DA INFORM ARQUIV I",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1205011",
+            "turmaid": "01",
+            "nome": " REPRESENT DESCRIT DA INFORM ARQUIV I",
+            "semester": "2018.2",
+            "professor": "LUIZ EDUARDO FERREIRA DA SILVA",
+            "horario": "6N1234",
+            "local": "CCSA 218 (CCSA)"
+          }
+        ],
+        "prerequisites": [
+          "1205004"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1205012",
+        "name": "TECNOLOGIA DA INFORMACAO I",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1205012",
+            "turmaid": "02",
+            "nome": " TECNOLOGIA DA INFORMACAO I",
+            "semester": "2018.2",
+            "professor": "WAGNER JUNQUEIRA DE ARAUJO",
+            "horario": "3N1234",
+            "local": "CCSA 218 (CCSA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1408131",
+        "name": "INTRODUCAO ESTDE HISTORIA",
+        "category": "Complementar Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1408131",
+            "turmaid": "01",
+            "nome": " INTRODUCAO ESTDE HISTORIA",
+            "semester": "2018.2",
+            "professor": "ANA MARIA VEIGA",
+            "horario": "4N1234",
+            "local": "CCHLA 516 - PPGH (CCHLA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1205017",
+        "name": "ORGAN SIST E METODOS EM UNID DE INFORMAC",
+        "category": "Complementar Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1205017",
+            "turmaid": "02",
+            "nome": " ORGAN SIST E METODOS EM UNID DE INFORMAC",
+            "semester": "2018.2",
+            "professor": "LUCILENE KLENIA RODRIGUES BANDEIRA",
+            "horario": "6N1234",
+            "local": "CCSA 220 (CCSA)"
+          }
+        ],
+        "prerequisites": [
+          "1205009"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1205047",
+        "name": "REPRES DESCR DA INF ARQUIVISTICA II",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1205047",
+            "turmaid": "01",
+            "nome": " REPRES DESCR DA INF ARQUIVISTICA II",
+            "semester": "2018.2",
+            "professor": "PABLO MATIAS BANDEIRA",
+            "horario": "2N1234",
+            "local": "CCSA 220 (CCSA)"
+          }
+        ],
+        "prerequisites": [
+          "1205011"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1205048",
+        "name": "REPRES TEMAT DA INF ARQUIVISTICA II",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1205048",
+            "turmaid": "01",
+            "nome": " REPRES TEMAT DA INF ARQUIVISTICA II",
+            "semester": "2018.2",
+            "professor": "JULIANNE TEIXEIRA E SILVA",
+            "horario": "3N1234",
+            "local": "CCSA 220 (CCSA)"
+          }
+        ],
+        "prerequisites": [
+          "1205010"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1205049",
+        "name": "AVALIAÇÃO E SELEÇÃO DE DOCUMENTOS",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1205049",
+            "turmaid": "01",
+            "nome": " AVALIAÇÃO E SELEÇÃO DE DOCUMENTOS",
+            "semester": "2018.2",
+            "professor": "ADOLFO JULIO PORTO DE FREITAS",
+            "horario": "4N1234",
+            "local": "CCSA 220 (CCSA)"
+          }
+        ],
+        "prerequisites": [
+          "1205010"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1501124",
+        "name": "DIREITO ADMINISTRATIVO",
+        "category": "Complementar Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1501124",
+            "turmaid": "01",
+            "nome": " DIREITO ADMINISTRATIVO",
+            "semester": "2018.2",
+            "professor": "JOSE GUILHERME FERRAZ DA COSTA",
+            "horario": "5N1234",
+            "local": "AMBIENTE  Inglês Instrumental 14 (CCHLA)"
+          }
+        ],
+        "prerequisites": [
+          "1205014"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1205023",
+        "name": "LEITURA E PRODUÇÃO DE TEXTOS",
+        "category": "Complementar Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1205023",
+            "turmaid": "02",
+            "nome": " LEITURA E PRODUÇÃO DE TEXTOS",
+            "semester": "2018.2",
+            "professor": "EDNA GOMES PINHEIRO",
+            "horario": "5N1234",
+            "local": "CCSA 228 (CCSA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1205024",
+        "name": "INFORMAÇÃO MEMORIA E SOCIEDADE",
+        "category": "Complementar Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1205024",
+            "turmaid": "02",
+            "nome": " INFORMAÇÃO MEMORIA E SOCIEDADE",
+            "semester": "2018.2",
+            "professor": "CARLOS XAVIER DE AZEVEDO NETTO",
+            "horario": "3N1234",
+            "local": "CCSA 228 (CCSA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1205050",
+        "name": "GESTÃO DE DOC EM ARQ CORR E INTERM",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1205050",
+            "turmaid": "01",
+            "nome": " GESTÃO DE DOC EM ARQ CORR E INTERM",
+            "semester": "2018.2",
+            "professor": "JULIANNE TEIXEIRA E SILVA",
+            "horario": "4N1234",
+            "local": "CAE 101 (PRG)"
+          }
+        ],
+        "prerequisites": [
+          "1205047",
+          "1205048",
+          "1205049"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1205051",
+        "name": "TECNOLOGIA DA INF ARQUIVISTICA",
+        "category": "Complementar Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1205051",
+            "turmaid": "01",
+            "nome": " TECNOLOGIA DA INF ARQUIVISTICA",
+            "semester": "2018.2",
+            "professor": "WAGNER JUNQUEIRA DE ARAUJO",
+            "horario": "6N1234",
+            "local": "CCSA 228 (CCSA)"
+          }
+        ],
+        "prerequisites": [
+          "1205012"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1402246",
+        "name": "LOGICA FORMAL",
+        "category": "Complementar Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1402246",
+            "turmaid": "02",
+            "nome": " LOGICA FORMAL",
+            "semester": "2018.2",
+            "professor": "MATHEUS WANDERLEY GONDIM",
+            "horario": "2N1234",
+            "local": "CCSA 233 (CCSA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1205026",
+        "name": "PLANEJAMENTO EM UNIDADES DE INFORMAÇÃO",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1205026",
+            "turmaid": "02",
+            "nome": " PLANEJAMENTO EM UNIDADES DE INFORMAÇÃO",
+            "semester": "2018.2",
+            "professor": "JOANA COELI RIBEIRO GARCIA",
+            "horario": "2N1234",
+            "local": "CAE 102 (PRG)"
+          }
+        ],
+        "prerequisites": [
+          "1205017"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1205032",
+        "name": "ESTUDO DE USUARIO DA INFORMAÇÃO",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1205032",
+            "turmaid": "02",
+            "nome": " ESTUDO DE USUARIO DA INFORMAÇÃO",
+            "semester": "2018.2",
+            "professor": "ELIANE BEZERRA PAIVA",
+            "horario": "4N1234",
+            "local": "CAE 102 (PRG)"
+          }
+        ],
+        "prerequisites": [
+          "1205005"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1205052",
+        "name": "GESTÃO DE DOC EM ARQUIVOS PERMANENTES",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1205052",
+            "turmaid": "01",
+            "nome": " GESTÃO DE DOC EM ARQUIVOS PERMANENTES",
+            "semester": "2018.2",
+            "professor": "PABLO MATIAS BANDEIRA",
+            "horario": "6N1234",
+            "local": "CAE 102 (PRG)"
+          }
+        ],
+        "prerequisites": [
+          "1205047",
+          "1205050"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1205054",
+        "name": "LAB DE PRATICAS INTEGRADAS I  ARQ",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "90h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1205054",
+            "turmaid": "01",
+            "nome": " LAB DE PRATICAS INTEGRADAS I  ARQ",
+            "semester": "2018.2",
+            "professor": "ADOLFO JULIO PORTO DE FREITAS",
+            "horario": "3N1234 5N12",
+            "local": "CAE 102 (PRG)"
+          }
+        ],
+        "prerequisites": [
+          "1205050"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1205034",
+        "name": "PRESERV E CONSERV DE UNID DE INFORMAÇ",
+        "category": "Obrigatória",
+        "semester": 7,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1205034",
+            "turmaid": "02",
+            "nome": " PRESERV E CONSERV DE UNID DE INFORMAÇ",
+            "semester": "2018.2",
+            "professor": "DANIELLE ALVES DE OLIVEIRA",
+            "horario": "6N1234",
+            "local": "CAE 105 (PRG)"
+          }
+        ],
+        "prerequisites": [
+          "1205026"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1205037",
+        "name": "MARKETING EM UNIDADES DE INFORMAÇÃO",
+        "category": "Complementar Obrigatória",
+        "semester": 7,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1205037",
+            "turmaid": "02",
+            "nome": " MARKETING EM UNIDADES DE INFORMAÇÃO",
+            "semester": "2018.2",
+            "professor": "LUCILENE KLENIA RODRIGUES BANDEIRA",
+            "horario": "4N1234",
+            "local": "CAE 103 (PRG)"
+          }
+        ],
+        "prerequisites": [
+          "1205009"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1205039",
+        "name": "GERAÇÃO DE BANCOS E BASES DE DADOS",
+        "category": "Complementar Obrigatória",
+        "semester": 7,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1205039",
+            "turmaid": "02",
+            "nome": " GERAÇÃO DE BANCOS E BASES DE DADOS",
+            "semester": "2018.2",
+            "professor": "MARCKSON ROBERTO FERREIRA DE SOUSA",
+            "horario": "3N1234",
+            "local": "CAE 103 (PRG)"
+          }
+        ],
+        "prerequisites": [
+          "1205051"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1205055",
+        "name": "LAB DE PRATICAS INTEGRADAS II  ARQ",
+        "category": "Obrigatória",
+        "semester": 7,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1205055",
+            "turmaid": "01",
+            "nome": " LAB DE PRATICAS INTEGRADAS II  ARQ",
+            "semester": "2018.2",
+            "professor": "ADOLFO JULIO PORTO DE FREITAS",
+            "horario": "2N1234",
+            "local": "CAE 103 (PRG)"
+          }
+        ],
+        "prerequisites": [
+          "1205054"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1205061",
+        "name": "TOP ESP EM AQUIVOLOGIA E CIENC DA INF I",
+        "category": "Complementar Flexiva",
+        "semester": 8,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1205025",
+        "name": "GESTÃO DA INFORMAÇÃO E DO CONHECIMENTO",
+        "category": "Obrigatória",
+        "semester": 8,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1205025",
+            "turmaid": "02",
+            "nome": " GESTÃO DA INFORMAÇÃO E DO CONHECIMENTO",
+            "semester": "2018.2",
+            "professor": "ALZIRA KARLA ARAUJO DA SILVA e LUCILENE KLENIA RODRIGUES BANDEIRA",
+            "horario": "3N1234",
+            "local": "CAH 101 (PRG)"
+          }
+        ],
+        "prerequisites": [
+          "1205009"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1205041",
+        "name": "PRESERVAÇÃO E CONSERVAÇÃO DE ACERVOS",
+        "category": "Obrigatória",
+        "semester": 8,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1205041",
+            "turmaid": "01",
+            "nome": " PRESERVAÇÃO E CONSERVAÇÃO DE ACERVOS",
+            "semester": "2018.2",
+            "professor": "DANIELLE ALVES DE OLIVEIRA",
+            "horario": "2N1234",
+            "local": "CCSA 201 (CCSA)"
+          }
+        ],
+        "prerequisites": [
+          "1205034"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1205056",
+        "name": "LAB DE PRATICAS INTEGRADAS III  ARQ",
+        "category": "Obrigatória",
+        "semester": 8,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1205056",
+            "turmaid": "01",
+            "nome": " LAB DE PRATICAS INTEGRADAS III  ARQ",
+            "semester": "2018.2",
+            "professor": "MARIA AMELIA TEIXEIRA DA SILVA",
+            "horario": "5N1234",
+            "local": "CAD 101 (PRG)"
+          }
+        ],
+        "prerequisites": [
+          "1205055"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1205062",
+        "name": "TOP ESP EM AQUIVOLOGIA E CIENC DA INF II",
+        "category": "Complementar Flexiva",
+        "semester": 9,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1205053",
+        "name": "PROD E SERV DE INFORM ARQUIVISTICA",
+        "category": "Obrigatória",
+        "semester": 9,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1205053",
+            "turmaid": "01",
+            "nome": " PROD E SERV DE INFORM ARQUIVISTICA",
+            "semester": "2018.2",
+            "professor": "ISMAELLY BATISTA DOS SANTOS SILVA",
+            "horario": "2N1234",
+            "local": "CAE 101 (PRG)"
+          }
+        ],
+        "prerequisites": [
+          "1205052"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1205057",
+        "name": "LAB DE PRATICAS INTEGRADAS IV   ARQ",
+        "category": "Obrigatória",
+        "semester": 9,
+        "workload": "90h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1205057",
+            "turmaid": "01",
+            "nome": " LAB DE PRATICAS INTEGRADAS IV   ARQ",
+            "semester": "2018.2",
+            "professor": "PABLO MATIAS BANDEIRA",
+            "horario": "4N1234 5N34",
+            "local": "CAH 104 (PRG)"
+          }
+        ],
+        "prerequisites": [
+          "1205056"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1205063",
+        "name": "TCC  TRABALHO DE CONCL DE CURSO ARQ",
+        "category": "Complementar Obrigatória",
+        "semester": 10,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1205063",
+            "turmaid": "01",
+            "nome": " TCC  TRABALHO DE CONCL DE CURSO ARQ",
+            "semester": "2018.2",
+            "professor": "ALBA LIGIA DE ALMEIDA SILVA",
+            "horario": "7M2345",
+            "local": "CAG 102 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      }
+    ]
+  }
+}

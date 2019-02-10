@@ -1,0 +1,2114 @@
+{
+  "curriculum": {
+    "id": "642011",
+    "codigo": "1626692",
+    "name": "ADMINISTRAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+    "faculty": "CENTRO DE CIÊNCIAS SOCIAIS E APLICADAS (CCSA) (11.00.52)",
+    "minch": "255",
+    "maxch": "510",
+    "semesters": 8,
+    "courses": [
+      {
+        "id": "1202290",
+        "name": "GESTÃO ESTRATÉGICA DE CUSTOS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+          "1202172"
+        ]
+      },
+      {
+        "id": "1202291",
+        "name": "ORÇAMENTO NA ADMINISTRAÇÃO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1202292",
+        "name": "CONTABILIDADE PÚBLICA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1202295",
+        "name": "INTRODUÇÃO AS CIÊNCIAS ATUARIAIS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1204100",
+        "name": "ADM DA PEQ MEDIA EMPRESA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1204138",
+        "name": "GEST TEC SET PUB PRIVADO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1204138",
+            "turmaid": "01",
+            "nome": " GEST TEC SET PUB PRIVADO",
+            "semester": "2018.2",
+            "professor": "JOSE JORGE LIMA DIAS JUNIOR",
+            "horario": "4N1234",
+            "local": "CAF 107 (PRG)"
+          },
+          {
+            "id": "1204138",
+            "turmaid": "02",
+            "nome": " GEST TEC SET PUB PRIVADO",
+            "semester": "2018.2",
+            "professor": "JORGE DE OLIVEIRA GOMES",
+            "horario": "6M2345",
+            "local": "CAF 104 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1204169",
+        "name": "TOPICOS ESPECIAIS EM ADMINISTRACAO",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1204187",
+        "name": "TOP ESP EM ADMINISTRACAO II",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1204190",
+        "name": "TOP ESP EM ADMINISTRACAO III",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1204191",
+        "name": "TOP ESP EM ADMINISTRACAO IV",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1204192",
+        "name": "TOP ESP EM ADMINISTRACAO V",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1204212",
+        "name": "GESTAO DE CONHECIMENTO NAS ORGANIZACOES",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1204213",
+        "name": "COMPORTAMENTO DO CONSUMIDOR",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1204213",
+            "turmaid": "01",
+            "nome": " COMPORTAMENTO DO CONSUMIDOR",
+            "semester": "2018.2",
+            "professor": "JOAO BATISTA SOARES NETO",
+            "horario": "5N1234",
+            "local": "CAE 108 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1204214",
+        "name": "MARKETING DE TURISMO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1204215",
+        "name": "ADMINISTRACAO DE SERVICOS HOSPITALARES",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1204216",
+        "name": "PUBLICIDADE E PROPAGANDA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1204216",
+            "turmaid": "01",
+            "nome": " PUBLICIDADE E PROPAGANDA",
+            "semester": "2018.2",
+            "professor": "NELSIO RODRIGUES DE ABREU",
+            "horario": "3N1234",
+            "local": "CAD 106 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1204218",
+        "name": "ELABORACAO E GESTAO PROJ PUBLICOS E PRIV",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1204218",
+            "turmaid": "01",
+            "nome": " ELABORACAO E GESTAO PROJ PUBLICOS E PRIV",
+            "semester": "2018.2",
+            "professor": "ARTURO RODRIGUES FELINTO",
+            "horario": "5N1234",
+            "local": "CAF 101 (PRG)"
+          },
+          {
+            "id": "1204218",
+            "turmaid": "02",
+            "nome": " ELABORACAO E GESTAO PROJ PUBLICOS E PRIV",
+            "semester": "2018.2",
+            "professor": "JOSE JORGE LIMA DIAS JUNIOR",
+            "horario": "4M2345",
+            "local": "CCSA 228 (CCSA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1204219",
+        "name": "PROCESSO DECISORIO E DESENVOLV GERENCIAL",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1204219",
+            "turmaid": "01",
+            "nome": " PROCESSO DECISORIO E DESENVOLV GERENCIAL",
+            "semester": "2018.2",
+            "professor": "ANIELSON BARBOSA DA SILVA",
+            "horario": "4N1234",
+            "local": "LAB. OPPA (CCSA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1204220",
+        "name": "ADMINISTRACAO PUBLICA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1204241",
+        "name": "TÓPICOS ESPECIAIS EM ADMINISTRAÇÃO I",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1204242",
+        "name": "TÓPICOS ESPECIAIS EM ADMINISTRAÇÃO II",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1204243",
+        "name": "TÓPICOS ESPECIAIS EM ADMINISTRAÇÃO III",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1403747",
+        "name": "LIBRAS  LÍNGUA BRASILEIRA DE SINAIS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1404344",
+        "name": "FRANCES APLICADO AO TURISMO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+          "GDMI0204"
+        ]
+      },
+      {
+        "id": "1406371",
+        "name": "EMPREENDEDORISMO APL AO TURISMO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1501179",
+        "name": "LEGISLACAO TRIBUTARIA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDADM0073",
+        "name": "GESTÃO DE ORGANIZAÇÕES DO TERCEIRO SETOR",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDADM0073",
+            "turmaid": "01",
+            "nome": " GESTÃO DE ORGANIZAÇÕES DO TERCEIRO SETOR",
+            "semester": "2018.2",
+            "professor": "CARLOS EDUARDO CAVALCANTE",
+            "horario": "6M3456",
+            "local": "CAF 103 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDADM0100",
+        "name": "PESQUISA DE MERCADO E OPINIÃO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDADM0100",
+            "turmaid": "01",
+            "nome": " PESQUISA DE MERCADO E OPINIÃO",
+            "semester": "2018.2",
+            "professor": "FABIANA GAMA DE MEDEIROS",
+            "horario": "3N1234",
+            "local": "CAF 101 (PRG)"
+          },
+          {
+            "id": "GDADM0100",
+            "turmaid": "02",
+            "nome": " PESQUISA DE MERCADO E OPINIÃO",
+            "semester": "2018.2",
+            "professor": "DIANA LUCIA T DE CARVALHO",
+            "horario": "6M3456",
+            "local": "CCSA 221 (CCSA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDADM0101",
+        "name": "GESTÃO AMBIENTAL",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDADM0101",
+            "turmaid": "01",
+            "nome": " GESTÃO AMBIENTAL",
+            "semester": "2018.2",
+            "professor": "MARIA CAMERINA MAROJA LIMEIRA",
+            "horario": "5M2345",
+            "local": "CCSA 228 (CCSA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDADM0102",
+        "name": "GESTÃO DE DESEPENHO EM OPERAÇÕES",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDADM0103",
+        "name": "GESTÃO DA INOVAÇÃO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDLS0024",
+        "name": "LIBRAS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1103227",
+        "name": "FUNDAMENTO DE MATEMATICA",
+        "category": "Complementar Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1103227",
+            "turmaid": "01",
+            "nome": " FUNDAMENTO DE MATEMATICA",
+            "semester": "2018.2",
+            "professor": "ANTONIO SALES DA SILVA",
+            "horario": "24M45",
+            "local": "CCSA 227 (CCSA)"
+          },
+          {
+            "id": "1103227",
+            "turmaid": "02",
+            "nome": " FUNDAMENTO DE MATEMATICA",
+            "semester": "2018.2",
+            "professor": "ANTONIO SALES DA SILVA",
+            "horario": "24N34",
+            "local": "CCSA 225 (CCSA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1201180",
+        "name": "ECONOMIA DE EMPRESAS",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1201180",
+            "turmaid": "01",
+            "nome": " ECONOMIA DE EMPRESAS",
+            "semester": "2018.2",
+            "professor": "ANA CLAUDIA DE QUEIROZ LIRA",
+            "horario": "24M23",
+            "local": "CCSA 227 (CCSA)"
+          },
+          {
+            "id": "1201180",
+            "turmaid": "02",
+            "nome": " ECONOMIA DE EMPRESAS",
+            "semester": "2018.2",
+            "professor": "ANA CLAUDIA DE QUEIROZ LIRA",
+            "horario": "24N12",
+            "local": "CCSA 225 (CCSA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1204136",
+        "name": "FUNDAMENTO DA ADMINISTRACAO",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1204136",
+            "turmaid": "01",
+            "nome": " FUNDAMENTO DA ADMINISTRACAO",
+            "semester": "2018.2",
+            "professor": "ANDREA DE FATIMA DE OLIVEIRA REGO",
+            "horario": "3M45 5M23",
+            "local": "CCSA 227 (CCSA)"
+          },
+          {
+            "id": "1204136",
+            "turmaid": "02",
+            "nome": " FUNDAMENTO DA ADMINISTRACAO",
+            "semester": "2018.2",
+            "professor": "DIANA LUCIA T DE CARVALHO",
+            "horario": "3N12 6N34",
+            "local": "CCSA 225 (CCSA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1402240",
+        "name": "INTRODUCAO A FILOSOFIA",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1402240",
+            "turmaid": "02",
+            "nome": " INTRODUCAO A FILOSOFIA",
+            "semester": "2018.2",
+            "professor": "SEVERINO DUTRA DE MEDEIROS FILHO",
+            "horario": "3N34 6N12",
+            "local": "CCSA 225 (CCSA)"
+          },
+          {
+            "id": "1402240",
+            "turmaid": "03",
+            "nome": " INTRODUCAO A FILOSOFIA",
+            "semester": "2018.2",
+            "professor": "ARTHUR VIANA LOPES",
+            "horario": "3M23 5M45",
+            "local": "CCSA 227 (CCSA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1403153",
+        "name": "PORTUGUÊS INSTRUMENTAL",
+        "category": "Complementar Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1403153",
+            "turmaid": "02",
+            "nome": " PORTUGUÊS INSTRUMENTAL",
+            "semester": "2018.2",
+            "professor": "ENEIDA MARTINS DE OLIVEIRA",
+            "horario": "5N1234",
+            "local": "TS-1 (CCHLA)"
+          },
+          {
+            "id": "1403153",
+            "turmaid": "03",
+            "nome": " PORTUGUÊS INSTRUMENTAL",
+            "semester": "2018.2",
+            "professor": "ISAIAS MOREIRA FERREIRA",
+            "horario": "6M1234",
+            "local": "CAG 106 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1202281",
+        "name": "CONTABILIDADE PARA ADMINISTRADORES",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1202281",
+            "turmaid": "01",
+            "nome": " CONTABILIDADE PARA ADMINISTRADORES",
+            "semester": "2018.2",
+            "professor": "MARIA DAS GRACAS NOBREGA DE ALMEIDA",
+            "horario": "2M45 4M23",
+            "local": "CCSA 222 (CCSA)"
+          },
+          {
+            "id": "1202281",
+            "turmaid": "02",
+            "nome": " CONTABILIDADE PARA ADMINISTRADORES",
+            "semester": "2018.2",
+            "professor": "MARIA DAS GRACAS NOBREGA DE ALMEIDA",
+            "horario": "35N34",
+            "local": "CCSA 204 (CCSA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1204185",
+        "name": "TEORIA DAS ORGANIZACOES",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1204185",
+            "turmaid": "01",
+            "nome": " TEORIA DAS ORGANIZACOES",
+            "semester": "2018.2",
+            "professor": "PAULA LUCIANA BRUSCHI SANCHES",
+            "horario": "26M23",
+            "local": "CCSA 222 (CCSA)"
+          },
+          {
+            "id": "1204185",
+            "turmaid": "02",
+            "nome": " TEORIA DAS ORGANIZACOES",
+            "semester": "2018.2",
+            "professor": "PAULA LUCIANA BRUSCHI SANCHES",
+            "horario": "2N12 4N34",
+            "local": "CCSA 204 (CCSA)"
+          }
+        ],
+        "prerequisites": [
+          "1204136"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1204186",
+        "name": "INFORMATICA ADMINISTRATIVA",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1204186",
+            "turmaid": "01",
+            "nome": " INFORMATICA ADMINISTRATIVA",
+            "semester": "2018.2",
+            "professor": "JORGE DE OLIVEIRA GOMES",
+            "horario": "35M23",
+            "local": "LAB. INFORMÁTICA II (CCSA)"
+          },
+          {
+            "id": "1204186",
+            "turmaid": "02",
+            "nome": " INFORMATICA ADMINISTRATIVA",
+            "semester": "2018.2",
+            "professor": "JORGE DE OLIVEIRA GOMES",
+            "horario": "6N1234",
+            "local": "LAB. INFORMÁTICA II (CCSA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+          "1107159"
+        ]
+      },
+      {
+        "id": "1205003",
+        "name": "METODOLOGIA DO TRABALHO CIENTÍFICO",
+        "category": "Complementar Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1205003",
+            "turmaid": "05",
+            "nome": " METODOLOGIA DO TRABALHO CIENTÍFICO",
+            "semester": "2018.2",
+            "professor": "ALZIRA KARLA ARAUJO DA SILVA",
+            "horario": "2N34 4N12",
+            "local": "CCSA 204 (CCSA)"
+          },
+          {
+            "id": "1205003",
+            "turmaid": "06",
+            "nome": " METODOLOGIA DO TRABALHO CIENTÍFICO",
+            "semester": "2018.2",
+            "professor": "LILIAN VIANA TEIXEIRA CANANÉA",
+            "horario": "46M45",
+            "local": "CCSA 222 (CCSA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+          "1401140",
+          "1709001",
+          "GDTH0036"
+        ]
+      },
+      {
+        "id": "GDEST0102",
+        "name": "ESTATÍSTICA PARA CIÊNCIAS HUMANAS E SOCIAIS I",
+        "category": "Complementar Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDEST0102",
+            "turmaid": "01",
+            "nome": " ESTATÍSTICA PARA CIÊNCIAS HUMANAS E SOCIAIS I",
+            "semester": "2018.2",
+            "professor": "FRANCISCO ELMIRO DE SOUSA FILHO e TARCIANA LIBERAL PEREIRA DE ARAUJO",
+            "horario": "35M45",
+            "local": "CCSA 222 (CCSA)"
+          },
+          {
+            "id": "GDEST0102",
+            "turmaid": "04",
+            "nome": " ESTATÍSTICA PARA CIÊNCIAS HUMANAS E SOCIAIS I",
+            "semester": "2018.2",
+            "professor": "MARIA LIDIA COCO TERRA e ANA FLAVIA UZEDA DOS SANTOS MACAMBIRA",
+            "horario": "35N12",
+            "local": "CCSA 204 (CCSA)"
+          }
+        ],
+        "prerequisites": [
+          "1103227"
+        ],
+        "equivalences": [
+          "1108184"
+        ]
+      },
+      {
+        "id": "1202161",
+        "name": "MATEMATICA FINANCEIRA",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1202161",
+            "turmaid": "03",
+            "nome": " MATEMATICA FINANCEIRA",
+            "semester": "2018.2",
+            "professor": "DANIELLE KARLA VIEIRA E SILVA",
+            "horario": "56M45",
+            "local": "CCSA 223 (CCSA)"
+          },
+          {
+            "id": "1202161",
+            "turmaid": "04",
+            "nome": " MATEMATICA FINANCEIRA",
+            "semester": "2018.2",
+            "professor": "WERTON JOSE CABRAL RODRIGUES FILHO",
+            "horario": "35N34",
+            "local": "CCSA 226 (CCSA)"
+          }
+        ],
+        "prerequisites": [
+          "1103227"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1204189",
+        "name": "RELACAO DE TRABALHO E POLITICA",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1204189",
+            "turmaid": "01",
+            "nome": " RELACAO DE TRABALHO E POLITICA",
+            "semester": "2018.2",
+            "professor": "LUCIMEIRY BATISTA DA SILVA",
+            "horario": "2M45 4M23",
+            "local": "CCSA 223 (CCSA)"
+          },
+          {
+            "id": "1204189",
+            "turmaid": "02",
+            "nome": " RELACAO DE TRABALHO E POLITICA",
+            "semester": "2018.2",
+            "professor": "CESAR EMANOEL BARBOSA DE LIMA",
+            "horario": "4N12 6N34",
+            "local": "CCSA 226 (CCSA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+          "1204155"
+        ]
+      },
+      {
+        "id": "1204221",
+        "name": "ESTRUTURA E PROCESSOS ORGANIZACIONAL",
+        "category": "Complementar Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1204221",
+            "turmaid": "02",
+            "nome": " ESTRUTURA E PROCESSOS ORGANIZACIONAL",
+            "semester": "2018.2",
+            "professor": "MARIA CAMERINA MAROJA LIMEIRA",
+            "horario": "36N12",
+            "local": "CCSA 226 (CCSA)"
+          },
+          {
+            "id": "1204221",
+            "turmaid": "03",
+            "nome": " ESTRUTURA E PROCESSOS ORGANIZACIONAL",
+            "semester": "2018.2",
+            "professor": "MARIA CAMERINA MAROJA LIMEIRA",
+            "horario": "3M34 6M23",
+            "local": "CCSA 223 (CCSA)"
+          }
+        ],
+        "prerequisites": [
+          "1204185"
+        ],
+        "equivalences": [
+          "1204133"
+        ]
+      },
+      {
+        "id": "1405211",
+        "name": "PSICOLOGIA DAS ORGANIZACOES",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1405211",
+            "turmaid": "01",
+            "nome": " PSICOLOGIA DAS ORGANIZACOES",
+            "semester": "2018.2",
+            "professor": "MARCIO DE LIMA COUTINHO",
+            "horario": "25N12",
+            "local": "CCSA 226 (CCSA)"
+          },
+          {
+            "id": "1405211",
+            "turmaid": "02",
+            "nome": " PSICOLOGIA DAS ORGANIZACOES",
+            "semester": "2018.2",
+            "professor": "TATIANA DE LUCENA TORRES",
+            "horario": "4M45 5M23",
+            "local": "CCSA 223 (CCSA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1501215",
+        "name": "DIREITO NA ADMINISTRACAO",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1501215",
+            "turmaid": "01",
+            "nome": " DIREITO NA ADMINISTRACAO",
+            "semester": "2018.2",
+            "professor": "PIERRE ANDRADE BERTHOLET",
+            "horario": "24N34",
+            "local": "CCSA 226 (CCSA)"
+          },
+          {
+            "id": "1501215",
+            "turmaid": "03",
+            "nome": " DIREITO NA ADMINISTRACAO",
+            "semester": "2018.2",
+            "professor": "NADJA DIOGENES PALITOT Y PALITOT",
+            "horario": "2M23 3M12",
+            "local": "CCSA 223 (CCSA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+          "1501124"
+        ]
+      },
+      {
+        "id": "1204196",
+        "name": "ETICA NA ADMINISTRACAO",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1204196",
+            "turmaid": "01",
+            "nome": " ETICA NA ADMINISTRACAO",
+            "semester": "2018.2",
+            "professor": "CESAR EMANOEL BARBOSA DE LIMA",
+            "horario": "2N1234",
+            "local": "CAF 105 (PRG)"
+          },
+          {
+            "id": "1204196",
+            "turmaid": "02",
+            "nome": " ETICA NA ADMINISTRACAO",
+            "semester": "2018.2",
+            "professor": "CESAR EMANOEL BARBOSA DE LIMA",
+            "horario": "35M12",
+            "local": "CCSA 225 (CCSA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+          "1204134"
+        ]
+      },
+      {
+        "id": "1204217",
+        "name": "GESTAO DA QUALIDADE E PRODUTIVIDADE",
+        "category": "Complementar Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1204217",
+            "turmaid": "01",
+            "nome": " GESTAO DA QUALIDADE E PRODUTIVIDADE",
+            "semester": "2018.2",
+            "professor": "A DEFINIR",
+            "horario": "46M45",
+            "local": "CCSA 225 (CCSA)"
+          },
+          {
+            "id": "1204217",
+            "turmaid": "02",
+            "nome": " GESTAO DA QUALIDADE E PRODUTIVIDADE",
+            "semester": "2018.2",
+            "professor": "A DEFINIR",
+            "horario": "46N12",
+            "local": "CCSA 227 (CCSA)"
+          }
+        ],
+        "prerequisites": [
+          "1204221"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1204222",
+        "name": "COMPORTAMENTO E DESENV HUMANO NAS ORGANI",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 5h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1204222",
+            "turmaid": "01",
+            "nome": " COMPORTAMENTO E DESENV HUMANO NAS ORGANI",
+            "semester": "2018.2",
+            "professor": "CELIA CRISTINA ZAGO",
+            "horario": "24M23",
+            "local": "CCSA 225 (CCSA)"
+          },
+          {
+            "id": "1204222",
+            "turmaid": "02",
+            "nome": " COMPORTAMENTO E DESENV HUMANO NAS ORGANI",
+            "semester": "2018.2",
+            "professor": "CELIA CRISTINA ZAGO",
+            "horario": "24N34",
+            "local": "CCSA 227 (CCSA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1204238",
+        "name": "ORGANIZAÇÃO E MÉTODOS",
+        "category": "Complementar Obrigatória",
+        "semester": 4,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1204238",
+            "turmaid": "01",
+            "nome": " ORGANIZAÇÃO E MÉTODOS",
+            "semester": "2018.2",
+            "professor": "KATIA VIRGINIA AYRES",
+            "horario": "6M23",
+            "local": "CCSA 225 (CCSA)"
+          },
+          {
+            "id": "1204238",
+            "turmaid": "02",
+            "nome": " ORGANIZAÇÃO E MÉTODOS",
+            "semester": "2018.2",
+            "professor": "KATIA VIRGINIA AYRES",
+            "horario": "2N12",
+            "local": "CCSA 227 (CCSA)"
+          }
+        ],
+        "prerequisites": [
+          "1204221"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1204244",
+        "name": "PESQUISA APLICADA À ADMINISTRAÇÃO",
+        "category": "Complementar Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1204244",
+            "turmaid": "01",
+            "nome": " PESQUISA APLICADA À ADMINISTRAÇÃO",
+            "semester": "2018.2",
+            "professor": "ROSIVALDO DE LIMA LUCENA",
+            "horario": "3M3456",
+            "local": "CCSA 225 (CCSA)"
+          },
+          {
+            "id": "1204244",
+            "turmaid": "02",
+            "nome": " PESQUISA APLICADA À ADMINISTRAÇÃO",
+            "semester": "2018.2",
+            "professor": "SAMIR ADAMOGLU DE OLIVEIRA",
+            "horario": "35N34",
+            "local": "CCSA 227 (CCSA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1401284",
+        "name": "SOCIOLOGIA DAS ORGANIZACOES",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1401284",
+            "turmaid": "01",
+            "nome": " SOCIOLOGIA DAS ORGANIZACOES",
+            "semester": "2018.2",
+            "professor": "ANTONIO GOMES DA SILVA",
+            "horario": "35N12",
+            "local": "CAD 111 (PRG)"
+          },
+          {
+            "id": "1401284",
+            "turmaid": "02",
+            "nome": " SOCIOLOGIA DAS ORGANIZACOES",
+            "semester": "2018.2",
+            "professor": "JOSE TAVARES DE ANDRADE FILHO",
+            "horario": "25M45",
+            "local": "CCSA 225 (CCSA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1204104",
+        "name": "ADM DE MARKETING I",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1204104",
+            "turmaid": "01",
+            "nome": " ADM DE MARKETING I",
+            "semester": "2018.2",
+            "professor": "RITA DE CASSIA DE FARIA PEREIRA e JOAO BATISTA SOARES NETO",
+            "horario": "24N12",
+            "local": "CAF 109 (PRG)"
+          },
+          {
+            "id": "1204104",
+            "turmaid": "02",
+            "nome": " ADM DE MARKETING I",
+            "semester": "2018.2",
+            "professor": "RENATA FRANCISCO BALDANZA",
+            "horario": "24M45",
+            "local": "CCSA 226 (CCSA)"
+          }
+        ],
+        "prerequisites": [
+          "1204185"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1204201",
+        "name": "ADMINISTRACAO DE RECURSOS MATERIAIS I",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1204201",
+            "turmaid": "01",
+            "nome": " ADMINISTRACAO DE RECURSOS MATERIAIS I",
+            "semester": "2018.2",
+            "professor": "EGIDIO LUIZ FURLANETTO",
+            "horario": "5N1234",
+            "local": "CAF 109 (PRG)"
+          },
+          {
+            "id": "1204201",
+            "turmaid": "02",
+            "nome": " ADMINISTRACAO DE RECURSOS MATERIAIS I",
+            "semester": "2018.2",
+            "professor": "FABIO WALTER",
+            "horario": "5M2345",
+            "local": "CCSA 226 (CCSA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1204205",
+        "name": "ADMINISTRACAO DE RECURSOS HUMANOS I",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1204205",
+            "turmaid": "01",
+            "nome": " ADMINISTRACAO DE RECURSOS HUMANOS I",
+            "semester": "2018.2",
+            "professor": "LUCIMEIRY BATISTA DA SILVA",
+            "horario": "6N1234",
+            "local": "CAF 109 (PRG)"
+          },
+          {
+            "id": "1204205",
+            "turmaid": "02",
+            "nome": " ADMINISTRACAO DE RECURSOS HUMANOS I",
+            "semester": "2018.2",
+            "professor": "LUCIMEIRY BATISTA DA SILVA",
+            "horario": "6M2345",
+            "local": "CCSA 226 (CCSA)"
+          }
+        ],
+        "prerequisites": [
+          "1204222"
+        ],
+        "equivalences": [
+          "1204107"
+        ]
+      },
+      {
+        "id": "1204207",
+        "name": "ADMINISTRACAO FINANCEIRA I",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1204207",
+            "turmaid": "01",
+            "nome": " ADMINISTRACAO FINANCEIRA I",
+            "semester": "2018.2",
+            "professor": "CLÁUDIO PILAR DA SILVA JUNIOR",
+            "horario": "24N34",
+            "local": "CAF 109 (PRG)"
+          },
+          {
+            "id": "1204207",
+            "turmaid": "02",
+            "nome": " ADMINISTRACAO FINANCEIRA I",
+            "semester": "2018.2",
+            "professor": "SUELLE CARIELE DE SOUZA E SILVA",
+            "horario": "24M23",
+            "local": "CCSA 226 (CCSA)"
+          }
+        ],
+        "prerequisites": [
+          "1202161"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1204234",
+        "name": "ADMINISTRAÇÃO DA PRODUÇÃO E OPERAÇÕES I",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1204234",
+            "turmaid": "01",
+            "nome": " ADMINISTRAÇÃO DA PRODUÇÃO E OPERAÇÕES I",
+            "semester": "2018.2",
+            "professor": "FABIO WALTER",
+            "horario": "3N1234",
+            "local": "CAF 109 (PRG)"
+          },
+          {
+            "id": "1204234",
+            "turmaid": "02",
+            "nome": " ADMINISTRAÇÃO DA PRODUÇÃO E OPERAÇÕES I",
+            "semester": "2018.2",
+            "professor": "FABIO WALTER",
+            "horario": "3M3456",
+            "local": "CCSA 226 (CCSA)"
+          }
+        ],
+        "prerequisites": [
+          "1204185"
+        ],
+        "equivalences": [
+          "1204101"
+        ]
+      },
+      {
+        "id": "1204237",
+        "name": "RESPONSABILIDADE SOCIAL EMPRESARIAL",
+        "category": "Complementar Obrigatória",
+        "semester": 5,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1204237",
+            "turmaid": "01",
+            "nome": " RESPONSABILIDADE SOCIAL EMPRESARIAL",
+            "semester": "2018.2",
+            "professor": "ANDREA DE FATIMA DE OLIVEIRA REGO",
+            "horario": "6N12",
+            "local": "CAF 106 (PRG)"
+          },
+          {
+            "id": "1204237",
+            "turmaid": "02",
+            "nome": " RESPONSABILIDADE SOCIAL EMPRESARIAL",
+            "semester": "2018.2",
+            "professor": "ANA LUCIA DE ARAUJO LIMA COELHO",
+            "horario": "3M12",
+            "local": "CCSA 226 (CCSA)"
+          }
+        ],
+        "prerequisites": [
+          "1204196"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1204105",
+        "name": "ADM DE MARKETING II",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1204105",
+            "turmaid": "01",
+            "nome": " ADM DE MARKETING II",
+            "semester": "2018.2",
+            "professor": "JOAO BATISTA SOARES NETO e NELSIO RODRIGUES DE ABREU",
+            "horario": "24N34",
+            "local": "CAD 108 (PRG)"
+          },
+          {
+            "id": "1204105",
+            "turmaid": "02",
+            "nome": " ADM DE MARKETING II",
+            "semester": "2018.2",
+            "professor": "NADJA VALERIA PINHEIRO",
+            "horario": "24M23",
+            "local": "CCSA 224 (CCSA)"
+          }
+        ],
+        "prerequisites": [
+          "1204104"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1204202",
+        "name": "ADMINISTRACAO DE RECURSOS MATERIAIS II",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1204202",
+            "turmaid": "01",
+            "nome": " ADMINISTRACAO DE RECURSOS MATERIAIS II",
+            "semester": "2018.2",
+            "professor": "EGIDIO LUIZ FURLANETTO",
+            "horario": "3N1234",
+            "local": "CAF 111 (PRG)"
+          },
+          {
+            "id": "1204202",
+            "turmaid": "02",
+            "nome": " ADMINISTRACAO DE RECURSOS MATERIAIS II",
+            "semester": "2018.2",
+            "professor": "EGIDIO LUIZ FURLANETTO",
+            "horario": "3M2345",
+            "local": "CCSA 224 (CCSA)"
+          }
+        ],
+        "prerequisites": [
+          "1204201"
+        ],
+        "equivalences": [
+          "1204110"
+        ]
+      },
+      {
+        "id": "1204206",
+        "name": "ADMINISTRACAO DE RECURSOS HUMANOS II",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1204206",
+            "turmaid": "01",
+            "nome": " ADMINISTRACAO DE RECURSOS HUMANOS II",
+            "semester": "2018.2",
+            "professor": "TALIEH SHAIKHZADEH VAHDAT FERREIRA",
+            "horario": "6N1234",
+            "local": "CAF 108 (PRG)"
+          },
+          {
+            "id": "1204206",
+            "turmaid": "02",
+            "nome": " ADMINISTRACAO DE RECURSOS HUMANOS II",
+            "semester": "2018.2",
+            "professor": "WAGNER SOARES FERNANDES DOS SANTOS",
+            "horario": "6M2345",
+            "local": "CCSA 224 (CCSA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1204208",
+        "name": "ADMINISTRACAO FINANCEIRA II",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1204208",
+            "turmaid": "01",
+            "nome": " ADMINISTRACAO FINANCEIRA II",
+            "semester": "2018.2",
+            "professor": "CLÁUDIO PILAR DA SILVA JUNIOR",
+            "horario": "24N12",
+            "local": "CAD 108 (PRG)"
+          },
+          {
+            "id": "1204208",
+            "turmaid": "02",
+            "nome": " ADMINISTRACAO FINANCEIRA II",
+            "semester": "2018.2",
+            "professor": "SUELLE CARIELE DE SOUZA E SILVA",
+            "horario": "24M45",
+            "local": "CCSA 224 (CCSA)"
+          }
+        ],
+        "prerequisites": [
+          "1204207"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1204232",
+        "name": "ESTÁGIO CURRICULAR SUPERVISIONADO I",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "120h aula 0h lab.",
+        "type": "ESTÁGIO",
+        "turmas": [
+          {
+            "id": "1204232",
+            "turmaid": "01",
+            "nome": " ESTÁGIO CURRICULAR SUPERVISIONADO I",
+            "semester": "2018.2",
+            "professor": "SUELLE CARIELE DE SOUZA E SILVA",
+            "horario": "6N12 (22/11/2018 - 10/05/2019)",
+            "local": "CAF 110 (PRG)"
+          },
+          {
+            "id": "1204232",
+            "turmaid": "02",
+            "nome": " ESTÁGIO CURRICULAR SUPERVISIONADO I",
+            "semester": "2018.2",
+            "professor": "ANA LUCIA DE ARAUJO LIMA COELHO",
+            "horario": "5M12 (22/11/2018 - 10/05/2019)",
+            "local": "CCSA 224 (CCSA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+          "1204209",
+          "1204210",
+          "1204230"
+        ]
+      },
+      {
+        "id": "1204235",
+        "name": "ADMINISTRAÇÃO DA PRODUÇÃO E OPERAÇÕES II",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1204235",
+            "turmaid": "01",
+            "nome": " ADMINISTRAÇÃO DA PRODUÇÃO E OPERAÇÕES II",
+            "semester": "2018.2",
+            "professor": "ANDRE GUSTAVO CARVALHO MACHADO",
+            "horario": "5N1234",
+            "local": "CAF 102 (PRG)"
+          },
+          {
+            "id": "1204235",
+            "turmaid": "02",
+            "nome": " ADMINISTRAÇÃO DA PRODUÇÃO E OPERAÇÕES II",
+            "semester": "2018.2",
+            "professor": "ANDRE GUSTAVO CARVALHO MACHADO",
+            "horario": "5M3456",
+            "local": "CCSA 224 (CCSA)"
+          }
+        ],
+        "prerequisites": [
+          "1204234"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1108179",
+        "name": "METODOS QUANT  E QUALITATIVOS EM ADM",
+        "category": "Complementar Obrigatória",
+        "semester": 7,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1108179",
+            "turmaid": "01",
+            "nome": " METODOS QUANT  E QUALITATIVOS EM ADM",
+            "semester": "2018.2",
+            "professor": "JOZEMAR PEREIRA DOS SANTOS e MARCELO DE SOUZA BISPO",
+            "horario": "5M3456",
+            "local": "CCSA 221 (CCSA)"
+          },
+          {
+            "id": "1108179",
+            "turmaid": "02",
+            "nome": " METODOS QUANT  E QUALITATIVOS EM ADM",
+            "semester": "2018.2",
+            "professor": "JOZEMAR PEREIRA DOS SANTOS e MARCELO DE SOUZA BISPO",
+            "horario": "5N1234",
+            "local": "CAD 103 (PRG)"
+          }
+        ],
+        "prerequisites": [
+          "1204223",
+          "1204244"
+        ],
+        "equivalences": [
+          "1108108"
+        ]
+      },
+      {
+        "id": "1204156",
+        "name": "SISTEMA DE INFORMACAO E DECISAO",
+        "category": "Obrigatória",
+        "semester": 7,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1204156",
+            "turmaid": "02",
+            "nome": " SISTEMA DE INFORMACAO E DECISAO",
+            "semester": "2018.2",
+            "professor": "CARLO GABRIEL PORTO BELLINI",
+            "horario": "2N1234",
+            "local": "LAB. INFORMÁTICA II (CCSA)"
+          },
+          {
+            "id": "1204156",
+            "turmaid": "04",
+            "nome": " SISTEMA DE INFORMACAO E DECISAO",
+            "semester": "2018.2",
+            "professor": "JOSE JORGE LIMA DIAS JUNIOR e PEDRO JACOME DE MOURA JUNIOR",
+            "horario": "2M2345",
+            "local": "LAB. INFORMÁTICA II (CCSA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1204199",
+        "name": "PLANEJMENTO E GESTAO ESTRAT ORGANIZACION",
+        "category": "Obrigatória",
+        "semester": 7,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1204199",
+            "turmaid": "01",
+            "nome": " PLANEJMENTO E GESTAO ESTRAT ORGANIZACION",
+            "semester": "2018.2",
+            "professor": "ARTURO RODRIGUES FELINTO",
+            "horario": "3N1234",
+            "local": "CAF 104 (PRG)"
+          },
+          {
+            "id": "1204199",
+            "turmaid": "02",
+            "nome": " PLANEJMENTO E GESTAO ESTRAT ORGANIZACION",
+            "semester": "2018.2",
+            "professor": "ARTURO RODRIGUES FELINTO",
+            "horario": "3M2345",
+            "local": "CCSA 221 (CCSA)"
+          }
+        ],
+        "prerequisites": [
+          "1204206"
+        ],
+        "equivalences": [
+          "1204150"
+        ]
+      },
+      {
+        "id": "1204236",
+        "name": "PESQUISA OPERACIONAL",
+        "category": "Complementar Obrigatória",
+        "semester": 7,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1204236",
+            "turmaid": "01",
+            "nome": " PESQUISA OPERACIONAL",
+            "semester": "2018.2",
+            "professor": "BRIVALDO ANDRE MARINHO DA SILVA",
+            "horario": "4N1234",
+            "local": "CAF 110 (PRG)"
+          },
+          {
+            "id": "1204236",
+            "turmaid": "02",
+            "nome": " PESQUISA OPERACIONAL",
+            "semester": "2018.2",
+            "professor": "BRIVALDO ANDRE MARINHO DA SILVA",
+            "horario": "4M2345",
+            "local": "CCSA 221 (CCSA)"
+          }
+        ],
+        "prerequisites": [
+          "1204202"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1204239",
+        "name": "TRAB DE CONCLUSÃO DE CURSO I  TCC I",
+        "category": "Complementar Obrigatória",
+        "semester": 7,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1204239",
+            "turmaid": "01",
+            "nome": " TRAB DE CONCLUSÃO DE CURSO I  TCC I",
+            "semester": "2018.2",
+            "professor": "DIANA LUCIA T DE CARVALHO",
+            "horario": "6N12",
+            "local": "CAF 104 (PRG)"
+          },
+          {
+            "id": "1204239",
+            "turmaid": "02",
+            "nome": " TRAB DE CONCLUSÃO DE CURSO I  TCC I",
+            "semester": "2018.2",
+            "professor": "CELIA CRISTINA ZAGO",
+            "horario": "5M12",
+            "local": "CCSA 221 (CCSA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1204200",
+        "name": "ADMINISTRACAO EMPREENDEDORA",
+        "category": "Complementar Obrigatória",
+        "semester": 8,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1204200",
+            "turmaid": "01",
+            "nome": " ADMINISTRACAO EMPREENDEDORA",
+            "semester": "2018.2",
+            "professor": "ROSIVALDO DE LIMA LUCENA",
+            "horario": "2N1234",
+            "local": "CAF 106 (PRG)"
+          },
+          {
+            "id": "1204200",
+            "turmaid": "02",
+            "nome": " ADMINISTRACAO EMPREENDEDORA",
+            "semester": "2018.2",
+            "professor": "ROSIVALDO DE LIMA LUCENA",
+            "horario": "2M2345",
+            "local": "CCSA 228 (CCSA)"
+          }
+        ],
+        "prerequisites": [
+          "1204199"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1204203",
+        "name": "ADMINISTRACAO DE SISTEMAS DE INFORMACAO",
+        "category": "Obrigatória",
+        "semester": 8,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1204203",
+            "turmaid": "03",
+            "nome": " ADMINISTRACAO DE SISTEMAS DE INFORMACAO",
+            "semester": "2018.2",
+            "professor": "MIGUEL MAURICIO ISONI",
+            "horario": "3N1234",
+            "local": "CAF 105 (PRG)"
+          },
+          {
+            "id": "1204203",
+            "turmaid": "04",
+            "nome": " ADMINISTRACAO DE SISTEMAS DE INFORMACAO",
+            "semester": "2018.2",
+            "professor": "MIGUEL MAURICIO ISONI",
+            "horario": "3M2345",
+            "local": "CCSA 228 (CCSA)"
+          }
+        ],
+        "prerequisites": [
+          "1204156"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1204233",
+        "name": "ESTÁGIO CURRICULAR SUPERVISIONADO II",
+        "category": "Obrigatória",
+        "semester": 8,
+        "workload": "180h aula 0h lab.",
+        "type": "ESTÁGIO",
+        "turmas": [
+          {
+            "id": "1204233",
+            "turmaid": "01",
+            "nome": " ESTÁGIO CURRICULAR SUPERVISIONADO II",
+            "semester": "2018.2",
+            "professor": "ANDREA DE FATIMA DE OLIVEIRA REGO",
+            "horario": "6N34 (22/11/2018 - 10/05/2019)",
+            "local": "CAF 106 (PRG)"
+          },
+          {
+            "id": "1204233",
+            "turmaid": "02",
+            "nome": " ESTÁGIO CURRICULAR SUPERVISIONADO II",
+            "semester": "2018.2",
+            "professor": "ANDREA DE FATIMA DE OLIVEIRA REGO",
+            "horario": "6M12 (22/11/2018 - 10/05/2019)",
+            "local": "CCSA 221 (CCSA)"
+          }
+        ],
+        "prerequisites": [
+          "1204232"
+        ],
+        "equivalences": [
+          "1204211"
+        ]
+      },
+      {
+        "id": "1204240",
+        "name": "TRAB DE CONCLUSÃO DE CURSO II  TCC II",
+        "category": "Complementar Obrigatória",
+        "semester": 8,
+        "workload": "30h aula 0h lab.",
+        "type": "TRABALHO DE CONCLUSÃO DE CURSO",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1204131",
+        "name": " ESTAGIO SUPERVISIONADO I",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": "30h",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1204131",
+            "turmaid": "01",
+            "nome": " ESTAGIO SUPERVISIONADO I",
+            "semester": "2018.2",
+            "professor": "DIANA LUCIA T DE CARVALHO",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1204132",
+        "name": " ESTAGIO SUPERVISIONADO II",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": "30h",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1204132",
+            "turmaid": "01",
+            "nome": " ESTAGIO SUPERVISIONADO II",
+            "semester": "2018.2",
+            "professor": "ANA LUCIA DE ARAUJO LIMA COELHO",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      }
+    ]
+  }
+}

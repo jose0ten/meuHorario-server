@@ -1,0 +1,2494 @@
+{
+  "curriculum": {
+    "id": "372016",
+    "codigo": "1626694",
+    "name": "CIÊNCIAS CONTÁBEIS - João Pessoa - Presencial - N - BACHARELADO",
+    "faculty": "CENTRO DE CIÊNCIAS SOCIAIS E APLICADAS (CCSA) (11.00.52)",
+    "minch": "180",
+    "maxch": "480",
+    "semesters": 8,
+    "courses": [
+      {
+        "id": "1201101",
+        "name": "ANÁLISE MACROECONÔMICA I",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1201102",
+        "name": "ANÁLISE MACROECONÔMICA II",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1201103",
+        "name": "ANÁLISE MACROECONÔMICA III",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1201104",
+        "name": "ANÁLISE MICROECONÔMICA I",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1201105",
+        "name": "ANÁLISE MICROECONÔMICA II",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1201106",
+        "name": "ANALISE MICROECONÔMICA III",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1201114",
+        "name": "ECONOMIA BRASILEIRA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1201128",
+        "name": "ECONOMIA II",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1202111",
+        "name": "AUDITORIA II",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1202114",
+        "name": "AUDITORIA PUBLICA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1202268",
+        "name": "CONTABILIDADE HOSPITALAR",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1202270",
+        "name": "CONTABILIDADE DA CONSTRUCAO CIVIL",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1202271",
+        "name": "CONTABILIDADE DE HOTELARIA E RESTAURANTE",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1202273",
+        "name": "CONTABILIDADE PARA O TERCEIRO SETOR",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1202273",
+            "turmaid": "02",
+            "nome": " CONTABILIDADE PARA O TERCEIRO SETOR",
+            "semester": "2018.2",
+            "professor": "VICTORIA PUNTRIANO ZUNIGA DE MELO",
+            "horario": "26N34",
+            "local": "CAF 110 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1202274",
+        "name": "CONSULTORIA EM CONTABILIDADE",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1202276",
+        "name": "ORCAMENTO EMPRESARIAL E  PLANEJAMENTO ESTRATEGICO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1202276",
+            "turmaid": "02",
+            "nome": " ORCAMENTO EMPRESARIAL E  PLANEJAMENTO ESTRATEGICO",
+            "semester": "2018.2",
+            "professor": "EPITACIO EZEQUIEL DE MEDEIROS",
+            "horario": "4N34 6N12",
+            "local": "CCSA 212 (CCSA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1202277",
+        "name": "TEMAS ESPECIAIS EM CONTABILIDADE",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1202280",
+        "name": "FUNDAMENTOS DE ANALISE DE INVESTIMENTOS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1202280",
+            "turmaid": "01",
+            "nome": " FUNDAMENTOS DE ANALISE DE INVESTIMENTOS",
+            "semester": "2018.2",
+            "professor": "CARLOS PEDROSA JUNIOR",
+            "horario": "24N12",
+            "local": "CCSA 202 (CCSA)"
+          },
+          {
+            "id": "1202280",
+            "turmaid": "02",
+            "nome": " FUNDAMENTOS DE ANALISE DE INVESTIMENTOS",
+            "semester": "2018.2",
+            "professor": "CARLOS PEDROSA JUNIOR",
+            "horario": "24M45",
+            "local": "CCSA 208 (CCSA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1202328",
+        "name": "CONTABILIDADE AMBIENTAL",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1204236",
+        "name": "PESQUISA OPERACIONAL",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1305038",
+        "name": "LIBRAS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1401134",
+        "name": "INTRODUCAO A SOCIOLOGIA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1401284",
+        "name": "SOCIOLOGIA DAS ORGANIZACOES",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1402240",
+        "name": "INTRODUCAO A FILOSOFIA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1403747",
+        "name": "LIBRAS  LÍNGUA BRASILEIRA DE SINAIS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1404196",
+        "name": "ESPANHOL I",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+          "GDMI0181"
+        ]
+      },
+      {
+        "id": "1404197",
+        "name": "ESPANHOL II",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1404198",
+        "name": "INGLES I",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1404199",
+        "name": "INGLES II",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1404325",
+        "name": "LINGUA INGLESA INSTRUMENTAL I",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1405108",
+        "name": "INTRODUCAO A PSICOLOGIA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1405211",
+        "name": "PSICOLOGIA DAS ORGANIZACOES",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDCFC0123",
+        "name": "ATIVIDADE COMPLEMENTAR FLEXÍVEL I",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "30h aula 0h lab.",
+        "type": "ATIVIDADE ESPECIAL",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDCFC0124",
+        "name": "ATIVIDADE COMPLEMENTAR FLEXÍVEL II",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "30h aula 0h lab.",
+        "type": "ATIVIDADE ESPECIAL",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDCFC0125",
+        "name": "ATIVIDADE COMPLEMENTAR FLEXÍVEL III",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "30h aula 0h lab.",
+        "type": "ATIVIDADE ESPECIAL",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDCFC0126",
+        "name": "ATIVIDADE COMPLEMENTAR FLEXÍVEL IV",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "30h aula 0h lab.",
+        "type": "ATIVIDADE ESPECIAL",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDCFC0127",
+        "name": "ATIVIDADE COMPLEMENTAR FLEXÍVEL V",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "30h aula 0h lab.",
+        "type": "ATIVIDADE ESPECIAL",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDCFC0128",
+        "name": "ATIVIDADE COMPLEMENTAR FLEXÍVEL VI",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "30h aula 0h lab.",
+        "type": "ATIVIDADE ESPECIAL",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDCFC0129",
+        "name": "ATIVIDADE COMPLEMENTAR FLEXÍVEL VII",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "30h aula 0h lab.",
+        "type": "ATIVIDADE ESPECIAL",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDCFC0130",
+        "name": "ATIVIDADE COMPLEMENTAR FLEXIVEL VIII",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "30h aula 0h lab.",
+        "type": "ATIVIDADE ESPECIAL",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDCFC0133",
+        "name": "CONTABILIDADE PARA GRUPOS EMPRESARIAIS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDCFC0134",
+        "name": "CONTABILIDADE PARA MICRO E PEQUENAS EMPRESAS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDCFC0135",
+        "name": "CONTROLADORIA EMPRESARIAL",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDCFC0136",
+        "name": "CONTROLADORIA PUBLICA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDCFC0137",
+        "name": "FINANÇAS PESSOAIS E COMPORTAMENTAIS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDCFC0138",
+        "name": "FINANÇAS PUBLICAS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDCFC0139",
+        "name": "GOVERNANÇA CORPORATIVA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDCFC0140",
+        "name": "PLANEJAMENTO TRIBUTARIO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDCFC0141",
+        "name": "JOGOS DE EMPRESAS  PARA CIENCIAS CONTABEIS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDCFC0142",
+        "name": "PRATICA PUBLICA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDCFC0143",
+        "name": "SISTEMAS DE INFORMAÇOES GERENCIAIS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDCFC0144",
+        "name": "TRANSPARENCIA E GESTAO PUBLICA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDCFC0145",
+        "name": "HISTORIA DOS POVOS AFRODESCENDENTES E INDIGENAS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDLS0024",
+        "name": "LIBRAS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1103174",
+        "name": "MATEMATICA I",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1103174",
+            "turmaid": "01",
+            "nome": " MATEMATICA I",
+            "semester": "2018.2",
+            "professor": "TUANNY DA SILVA MACIEL",
+            "horario": "35M23",
+            "local": "CAD 108 (PRG)"
+          },
+          {
+            "id": "1103174",
+            "turmaid": "02",
+            "nome": " MATEMATICA I",
+            "semester": "2018.2",
+            "professor": "FREDERICO DE OLIVEIRA MATIAS",
+            "horario": "35N12",
+            "local": "CAB 104 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1201126",
+        "name": "ECONOMIA I",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1201126",
+            "turmaid": "01",
+            "nome": " ECONOMIA I",
+            "semester": "2018.2",
+            "professor": "ANTONIO VINICIUS BARROS BARBOSA",
+            "horario": "4M23 6M45",
+            "local": "CCSA 210 (CCSA)"
+          },
+          {
+            "id": "1201126",
+            "turmaid": "06",
+            "nome": " ECONOMIA I",
+            "semester": "2018.2",
+            "professor": "LAERCIO DAMIANE CERQUEIRA DA SILVA",
+            "horario": "46N34",
+            "local": "CAE 110 (PRG) / CAD 110 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+          "1201180"
+        ]
+      },
+      {
+        "id": "1202255",
+        "name": "CONTABILIDADE I",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1202255",
+            "turmaid": "01",
+            "nome": " CONTABILIDADE I",
+            "semester": "2018.2",
+            "professor": "ADRIANA FERNANDES DE VASCONCELOS",
+            "horario": "2N12 5N34",
+            "local": "CAD 110 (PRG)"
+          },
+          {
+            "id": "1202255",
+            "turmaid": "02",
+            "nome": " CONTABILIDADE I",
+            "semester": "2018.2",
+            "professor": "ADRIANA FERNANDES DE VASCONCELOS",
+            "horario": "25M45",
+            "local": "CCSA 202 (CCSA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1202294",
+        "name": "FUNDAMENTOS EMPRESARIAIS",
+        "category": "Complementar Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1202294",
+            "turmaid": "01",
+            "nome": " FUNDAMENTOS EMPRESARIAIS",
+            "semester": "2018.2",
+            "professor": "EDMERY TAVARES BARBOSA",
+            "horario": "3N34 6N12",
+            "local": "CAD 108 (PRG)"
+          },
+          {
+            "id": "1202294",
+            "turmaid": "02",
+            "nome": " FUNDAMENTOS EMPRESARIAIS",
+            "semester": "2018.2",
+            "professor": "EDMERY TAVARES BARBOSA",
+            "horario": "26M23",
+            "local": "CCSA 202 (CCSA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1502206",
+        "name": "DIREITO EMPRESARIAL",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1502206",
+            "turmaid": "01",
+            "nome": " DIREITO EMPRESARIAL",
+            "semester": "2018.2",
+            "professor": "MARILIA MARQUES REGO VILHENA",
+            "horario": "34M45",
+            "local": "CCSA 202 (CCSA)"
+          },
+          {
+            "id": "1502206",
+            "turmaid": "02",
+            "nome": " DIREITO EMPRESARIAL",
+            "semester": "2018.2",
+            "professor": "EVELINE LUCENA NERI",
+            "horario": "2N34 4N12",
+            "local": "CCSA 228 (CCSA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1202161",
+        "name": "MATEMATICA FINANCEIRA",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1202161",
+            "turmaid": "01",
+            "nome": " MATEMATICA FINANCEIRA",
+            "semester": "2018.2",
+            "professor": "WERTON JOSE CABRAL RODRIGUES FILHO",
+            "horario": "35N12",
+            "local": "CCSA 207 (CCSA)"
+          },
+          {
+            "id": "1202161",
+            "turmaid": "02",
+            "nome": " MATEMATICA FINANCEIRA",
+            "semester": "2018.2",
+            "professor": "WERTON JOSE CABRAL RODRIGUES FILHO",
+            "horario": "35M23",
+            "local": "CCSA 201 (CCSA)"
+          }
+        ],
+        "prerequisites": [
+          "1103174"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1202256",
+        "name": "CONTABILIDADE II",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1202256",
+            "turmaid": "03",
+            "nome": " CONTABILIDADE II",
+            "semester": "2018.2",
+            "professor": "EDSON FRANCO DE MORAES",
+            "horario": "2N34 4N12",
+            "local": "CCSA 207 (CCSA)"
+          },
+          {
+            "id": "1202256",
+            "turmaid": "04",
+            "nome": " CONTABILIDADE II",
+            "semester": "2018.2",
+            "professor": "EDSON FRANCO DE MORAES",
+            "horario": "2M45 4M23",
+            "local": "CCSA 201 (CCSA)"
+          }
+        ],
+        "prerequisites": [
+          "1202255"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1205003",
+        "name": "METODOLOGIA DO TRABALHO CIENTÍFICO",
+        "category": "Complementar Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1205003",
+            "turmaid": "07",
+            "nome": " METODOLOGIA DO TRABALHO CIENTÍFICO",
+            "semester": "2018.2",
+            "professor": "LILIANE BRAGA ROLIM HOLANDA DE SOUZA",
+            "horario": "5M45 6M23",
+            "local": "CCSA 201 (CCSA)"
+          },
+          {
+            "id": "1205003",
+            "turmaid": "08",
+            "nome": " METODOLOGIA DO TRABALHO CIENTÍFICO",
+            "semester": "2018.2",
+            "professor": "LILIANE BRAGA ROLIM HOLANDA DE SOUZA",
+            "horario": "46N34",
+            "local": "CCSA 207 (CCSA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+          "1401140",
+          "1709001",
+          "GDTH0036"
+        ]
+      },
+      {
+        "id": "1502215",
+        "name": "LEGISLACÃO SOCIAL TRABALHISTA E PREVIDENCIARIA",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1502215",
+            "turmaid": "01",
+            "nome": " LEGISLACÃO SOCIAL TRABALHISTA E PREVIDENCIARIA",
+            "semester": "2018.2",
+            "professor": "MARINA JOSINO DA SILVA SOUZA",
+            "horario": "26N12",
+            "local": "CCSA 207 (CCSA)"
+          },
+          {
+            "id": "1502215",
+            "turmaid": "02",
+            "nome": " LEGISLACÃO SOCIAL TRABALHISTA E PREVIDENCIARIA",
+            "semester": "2018.2",
+            "professor": "EVELINE LUCENA NERI",
+            "horario": "34M45",
+            "local": "CCSA 204 (CCSA)"
+          }
+        ],
+        "prerequisites": [
+          "1502206"
+        ],
+        "equivalences": [
+          "1502232"
+        ]
+      },
+      {
+        "id": "GDCFC0131",
+        "name": "TECNOLOGIA DA INFORMAÇÃO",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDCFC0131",
+            "turmaid": "02",
+            "nome": " TECNOLOGIA DA INFORMAÇÃO",
+            "semester": "2018.2",
+            "professor": "TIAGO HENRIQUE DE SOUZA ECHTERNACHT",
+            "horario": "35N34",
+            "local": "CCSA 207 (CCSA)"
+          },
+          {
+            "id": "GDCFC0131",
+            "turmaid": "03",
+            "nome": " TECNOLOGIA DA INFORMAÇÃO",
+            "semester": "2018.2",
+            "professor": "TIAGO HENRIQUE DE SOUZA ECHTERNACHT",
+            "horario": "2M23 6M45",
+            "local": "CCSA 201 (CCSA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1202257",
+        "name": "CONTABILIDADE III",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1202257",
+            "turmaid": "01",
+            "nome": " CONTABILIDADE III",
+            "semester": "2018.2",
+            "professor": "GEISA CASSIANA PAULINO DA SILVA",
+            "horario": "3N12 5N34",
+            "local": "CCSA 202 (CCSA)"
+          },
+          {
+            "id": "1202257",
+            "turmaid": "02",
+            "nome": " CONTABILIDADE III",
+            "semester": "2018.2",
+            "professor": "MARCIA REIS MACHADO",
+            "horario": "2M45 5M23",
+            "local": "CCSA 203 (CCSA)"
+          }
+        ],
+        "prerequisites": [
+          "1202256"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDCFC0101",
+        "name": "PRÁTICA TRABALHISTA",
+        "category": "Complementar Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDCFC0101",
+            "turmaid": "01",
+            "nome": " PRÁTICA TRABALHISTA",
+            "semester": "2018.2",
+            "professor": "VALDINEIDE DOS SANTOS ARAUJO",
+            "horario": "23M23",
+            "local": "LAB. CONTÁBIL I (CCSA)"
+          },
+          {
+            "id": "GDCFC0101",
+            "turmaid": "02",
+            "nome": " PRÁTICA TRABALHISTA",
+            "semester": "2018.2",
+            "professor": "VALDINEIDE DOS SANTOS ARAUJO",
+            "horario": "3N34 5N12",
+            "local": "LAB. CONTÁBIL I (CCSA)"
+          }
+        ],
+        "prerequisites": [
+          "1202256"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDCFC0102",
+        "name": "PESQUISA PARA CIÊNCIAS CONTÁBEIS",
+        "category": "Complementar Obrigatória",
+        "semester": 3,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDCFC0102",
+            "turmaid": "01",
+            "nome": " PESQUISA PARA CIÊNCIAS CONTÁBEIS",
+            "semester": "2018.2",
+            "professor": "SIMONE BASTOS PAIVA",
+            "horario": "4N34",
+            "local": "CCSA 202 (CCSA)"
+          },
+          {
+            "id": "GDCFC0102",
+            "turmaid": "03",
+            "nome": " PESQUISA PARA CIÊNCIAS CONTÁBEIS",
+            "semester": "2018.2",
+            "professor": "SIMONE BASTOS PAIVA",
+            "horario": "4M45",
+            "local": "CAF 102 (PRG)"
+          }
+        ],
+        "prerequisites": [
+          "1205003"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDDPU0078",
+        "name": "LEGISLAÇÃO TRIBUTARIA PARA CIENCIAS CONTABEIS",
+        "category": "Complementar Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDDPU0078",
+            "turmaid": "01",
+            "nome": " LEGISLAÇÃO TRIBUTARIA PARA CIENCIAS CONTABEIS",
+            "semester": "2018.2",
+            "professor": "GEILSON SALOMAO LEITE",
+            "horario": "4M23 6M45",
+            "local": "CCSA 202 (CCSA)"
+          },
+          {
+            "id": "GDDPU0078",
+            "turmaid": "02",
+            "nome": " LEGISLAÇÃO TRIBUTARIA PARA CIENCIAS CONTABEIS",
+            "semester": "2018.2",
+            "professor": "DIRCEU MARQUES GALVAO FILHO",
+            "horario": "2N34 6N12",
+            "local": "CCSA 205 (CCSA)"
+          }
+        ],
+        "prerequisites": [
+          "1502215"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDEST0102",
+        "name": "ESTATÍSTICA PARA CIÊNCIAS HUMANAS E SOCIAIS I",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDEST0102",
+            "turmaid": "02",
+            "nome": " ESTATÍSTICA PARA CIÊNCIAS HUMANAS E SOCIAIS I",
+            "semester": "2018.2",
+            "professor": "ANTONIO MARCOS MOREIRA e LUIZ MEDEIROS DE ARAUJO LIMA FILHO",
+            "horario": "35M45",
+            "local": "CAB 101 (PRG)"
+          },
+          {
+            "id": "GDEST0102",
+            "turmaid": "07",
+            "nome": " ESTATÍSTICA PARA CIÊNCIAS HUMANAS E SOCIAIS I",
+            "semester": "2018.2",
+            "professor": "TIE DIAS DE FARIAS e MARIA LIDIA COCO TERRA",
+            "horario": "24N12",
+            "local": "CAA 102 (PRG)"
+          }
+        ],
+        "prerequisites": [
+          "1202161"
+        ],
+        "equivalences": [
+          "1108184"
+        ]
+      },
+      {
+        "id": "GPSAE0074",
+        "name": "MERCADO FINANCEIRO DE CRÉDITO E DE CAPITAIS",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GPSAE0074",
+            "turmaid": "01",
+            "nome": " MERCADO FINANCEIRO DE CRÉDITO E DE CAPITAIS",
+            "semester": "2018.2",
+            "professor": "ANTONIO VINICIUS BARROS BARBOSA",
+            "horario": "6M23",
+            "local": "CCSA 204 (CCSA)"
+          },
+          {
+            "id": "GPSAE0074",
+            "turmaid": "02",
+            "nome": " MERCADO FINANCEIRO DE CRÉDITO E DE CAPITAIS",
+            "semester": "2018.2",
+            "professor": "ANTONIO VINICIUS BARROS BARBOSA",
+            "horario": "6N34",
+            "local": "CCSA 202 (CCSA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDCFC0103",
+        "name": "PRÁTICA CONTÁBIL FINANCEIRA I",
+        "category": "Complementar Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDCFC0103",
+            "turmaid": "02",
+            "nome": " PRÁTICA CONTÁBIL FINANCEIRA I",
+            "semester": "2018.2",
+            "professor": "HELIDA CRISTINA CAVALCANTE VALERIO",
+            "horario": "5M45 6M23",
+            "local": "CCSA 206 (CCSA)"
+          },
+          {
+            "id": "GDCFC0103",
+            "turmaid": "03",
+            "nome": " PRÁTICA CONTÁBIL FINANCEIRA I",
+            "semester": "2018.2",
+            "professor": "HELIDA CRISTINA CAVALCANTE VALERIO",
+            "horario": "5N34 6N12",
+            "local": "LAB. CONTÁBIL I (CCSA)"
+          }
+        ],
+        "prerequisites": [
+          "1202257"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDCFC0104",
+        "name": "CONTABILIDADE TRIBUTÁRIA I",
+        "category": "Complementar Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDCFC0104",
+            "turmaid": "02",
+            "nome": " CONTABILIDADE TRIBUTÁRIA I",
+            "semester": "2018.2",
+            "professor": "ROBERIO DANTAS DE FRANCA",
+            "horario": "26M45",
+            "local": "CCSA 206 (CCSA)"
+          },
+          {
+            "id": "GDCFC0104",
+            "turmaid": "03",
+            "nome": " CONTABILIDADE TRIBUTÁRIA I",
+            "semester": "2018.2",
+            "professor": "ROBERIO DANTAS DE FRANCA",
+            "horario": "26N34",
+            "local": "LAB. CONTÁBIL I (CCSA) / LAB. CONTÁBIL I (CCSA)"
+          }
+        ],
+        "prerequisites": [
+          "0078"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDCFC0105",
+        "name": "CONTABILIDADE DE CUSTOS I",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDCFC0105",
+            "turmaid": "02",
+            "nome": " CONTABILIDADE DE CUSTOS I",
+            "semester": "2018.2",
+            "professor": "SILVIO ROMERO DE ALMEIDA",
+            "horario": "34M45",
+            "local": "CCSA 206 (CCSA)"
+          },
+          {
+            "id": "GDCFC0105",
+            "turmaid": "03",
+            "nome": " CONTABILIDADE DE CUSTOS I",
+            "semester": "2018.2",
+            "professor": "MARIA SUELI ARNOUD FERNANDES",
+            "horario": "3N12 4N34",
+            "local": "CCSA 229 (CCSA)"
+          }
+        ],
+        "prerequisites": [
+          "1202257"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDCFC0106",
+        "name": "TEORIA DA CONTABILIDADE I",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDCFC0106",
+            "turmaid": "02",
+            "nome": " TEORIA DA CONTABILIDADE I",
+            "semester": "2018.2",
+            "professor": "VALDERIO FREIRE DE MORAES JUNIOR",
+            "horario": "35M23",
+            "local": "CCSA 206 (CCSA)"
+          },
+          {
+            "id": "GDCFC0106",
+            "turmaid": "03",
+            "nome": " TEORIA DA CONTABILIDADE I",
+            "semester": "2018.2",
+            "professor": "VALDERIO FREIRE DE MORAES JUNIOR",
+            "horario": "3N34 5N12",
+            "local": "CCSA 229 (CCSA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDCFC0107",
+        "name": "MÉTODOS QUANTITATIVOS PARA CIÊNCIAS CONTÁBEIS",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDCFC0107",
+            "turmaid": "01",
+            "nome": " MÉTODOS QUANTITATIVOS PARA CIÊNCIAS CONTÁBEIS",
+            "semester": "2018.2",
+            "professor": "AZAMOR CIRNE DE AZEVEDO FILHO",
+            "horario": "24M23",
+            "local": "CCSA 206 (CCSA)"
+          },
+          {
+            "id": "GDCFC0107",
+            "turmaid": "03",
+            "nome": " MÉTODOS QUANTITATIVOS PARA CIÊNCIAS CONTÁBEIS",
+            "semester": "2018.2",
+            "professor": "A DEFINIR",
+            "horario": "24N12",
+            "local": "Sala Virtual (CCSA 1) (CCSA)"
+          }
+        ],
+        "prerequisites": [
+          "0102"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1202258",
+        "name": "CONTABILIDADE IV",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1202258",
+            "turmaid": "04",
+            "nome": " CONTABILIDADE IV",
+            "semester": "2018.2",
+            "professor": "GEISA CASSIANA PAULINO DA SILVA",
+            "horario": "56M45",
+            "local": "CCSA 204 (CCSA)"
+          },
+          {
+            "id": "1202258",
+            "turmaid": "05",
+            "nome": " CONTABILIDADE IV",
+            "semester": "2018.2",
+            "professor": "GEISA CASSIANA PAULINO DA SILVA",
+            "horario": "3N34 5N12",
+            "local": "CCSA 202 (CCSA)"
+          },
+          {
+            "id": "1202258",
+            "turmaid": "06",
+            "nome": " CONTABILIDADE IV",
+            "semester": "2018.2",
+            "professor": "ORLEANS SILVA MARTINS",
+            "horario": "3N12 5N34",
+            "local": "CCSA 232 (CCSA)"
+          }
+        ],
+        "prerequisites": [
+          "0103"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDCFC0108",
+        "name": "CONTABILIDADE TRIBUTÁRIA II",
+        "category": "Complementar Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDCFC0108",
+            "turmaid": "02",
+            "nome": " CONTABILIDADE TRIBUTÁRIA II",
+            "semester": "2018.2",
+            "professor": "MATEUS ALEXANDRE COSTA DOS SANTOS",
+            "horario": "24N34",
+            "local": "LAB. CONTÁBIL I (CCSA) / CCSA 229 (CCSA)"
+          },
+          {
+            "id": "GDCFC0108",
+            "turmaid": "03",
+            "nome": " CONTABILIDADE TRIBUTÁRIA II",
+            "semester": "2018.2",
+            "professor": "MATEUS ALEXANDRE COSTA DOS SANTOS",
+            "horario": "3M45 5M23",
+            "local": "LAB. CONTÁBIL I (CCSA)"
+          }
+        ],
+        "prerequisites": [
+          "0104"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDCFC0109",
+        "name": "CONTABILIDADE PARA O SETOR PÚBLICO I",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDCFC0109",
+            "turmaid": "02",
+            "nome": " CONTABILIDADE PARA O SETOR PÚBLICO I",
+            "semester": "2018.2",
+            "professor": "DIMAS BARRETO DE QUEIROZ",
+            "horario": "36N12",
+            "local": "CAE 101 (PRG)"
+          },
+          {
+            "id": "GDCFC0109",
+            "turmaid": "03",
+            "nome": " CONTABILIDADE PARA O SETOR PÚBLICO I",
+            "semester": "2018.2",
+            "professor": "DIMAS BARRETO DE QUEIROZ",
+            "horario": "4M45 6M23",
+            "local": "CCSA 205 (CCSA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDCFC0118",
+        "name": "ÉTICA E LEGISLAÇÃO PROFISSIONAL",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDCFC0118",
+            "turmaid": "01",
+            "nome": " ÉTICA E LEGISLAÇÃO PROFISSIONAL",
+            "semester": "2018.2",
+            "professor": "EDSON FRANCO DE MORAES",
+            "horario": "2N12",
+            "local": "CAD 111 (PRG)"
+          },
+          {
+            "id": "GDCFC0118",
+            "turmaid": "02",
+            "nome": " ÉTICA E LEGISLAÇÃO PROFISSIONAL",
+            "semester": "2018.2",
+            "professor": "EDSON FRANCO DE MORAES",
+            "horario": "2M23",
+            "local": "CCSA 204 (CCSA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDCFC0121",
+        "name": "FINANÇAS EMPRESARIAIS I",
+        "category": "Complementar Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDCFC0121",
+            "turmaid": "01",
+            "nome": " FINANÇAS EMPRESARIAIS I",
+            "semester": "2018.2",
+            "professor": "MOISES ARAUJO ALMEIDA",
+            "horario": "56N34",
+            "local": "CAD 108 (PRG)"
+          },
+          {
+            "id": "GDCFC0121",
+            "turmaid": "03",
+            "nome": " FINANÇAS EMPRESARIAIS I",
+            "semester": "2018.2",
+            "professor": "MOISES ARAUJO ALMEIDA",
+            "horario": "2M45 3M23",
+            "local": "CCSA 204 (CCSA)"
+          }
+        ],
+        "prerequisites": [
+          "0107"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDCFC0132",
+        "name": "CONTABILIDADE DE CUSTOS II",
+        "category": "Complementar Obrigatória",
+        "semester": 5,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDCFC0132",
+            "turmaid": "03",
+            "nome": " CONTABILIDADE DE CUSTOS II",
+            "semester": "2018.2",
+            "professor": "MARIA SUELI ARNOUD FERNANDES",
+            "horario": "4N12",
+            "local": "CAE 108 (PRG)"
+          },
+          {
+            "id": "GDCFC0132",
+            "turmaid": "04",
+            "nome": " CONTABILIDADE DE CUSTOS II",
+            "semester": "2018.2",
+            "professor": "SILVIO ROMERO DE ALMEIDA",
+            "horario": "4M23",
+            "local": "CCSA 204 (CCSA)"
+          }
+        ],
+        "prerequisites": [
+          "0105"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1202105",
+        "name": "ANALISE DE CUSTO",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1202105",
+            "turmaid": "02",
+            "nome": " ANALISE DE CUSTO",
+            "semester": "2018.2",
+            "professor": "WENNER GLAUCIO LOPES LUCENA",
+            "horario": "23M45",
+            "local": "CCSA 207 (CCSA)"
+          },
+          {
+            "id": "1202105",
+            "turmaid": "04",
+            "nome": " ANALISE DE CUSTO",
+            "semester": "2018.2",
+            "professor": "WENNER GLAUCIO LOPES LUCENA",
+            "horario": "23N34",
+            "local": "CAD 111 (PRG)"
+          }
+        ],
+        "prerequisites": [
+          "0132"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDCFC0110",
+        "name": "CONTABILIDADE V",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDCFC0110",
+            "turmaid": "02",
+            "nome": " CONTABILIDADE V",
+            "semester": "2018.2",
+            "professor": "PAULO ROBERTO NOBREGA CAVALCANTE",
+            "horario": "3M23 5M45",
+            "local": "CCSA 207 (CCSA)"
+          },
+          {
+            "id": "GDCFC0110",
+            "turmaid": "04",
+            "nome": " CONTABILIDADE V",
+            "semester": "2018.2",
+            "professor": "PAULO ROBERTO NOBREGA CAVALCANTE",
+            "horario": "3N12 5N34",
+            "local": "CCSA 212 (CCSA)"
+          }
+        ],
+        "prerequisites": [
+          "1202258"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDCFC0111",
+        "name": "TEORIA DA CONTABILIDADE II",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDCFC0111",
+            "turmaid": "01",
+            "nome": " TEORIA DA CONTABILIDADE II",
+            "semester": "2018.2",
+            "professor": "ROSSANA GUERRA DE SOUSA",
+            "horario": "4N34 6N12",
+            "local": "CAF 111 (PRG)"
+          },
+          {
+            "id": "GDCFC0111",
+            "turmaid": "02",
+            "nome": " TEORIA DA CONTABILIDADE II",
+            "semester": "2018.2",
+            "professor": "ROBERIO DANTAS DE FRANCA",
+            "horario": "4M45 6M23",
+            "local": "CCSA 207 (CCSA)"
+          }
+        ],
+        "prerequisites": [
+          "0106"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDCFC0112",
+        "name": "CONTABILIDADE PARA O SETOR PÚBLICO II",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDCFC0112",
+            "turmaid": "02",
+            "nome": " CONTABILIDADE PARA O SETOR PÚBLICO II",
+            "semester": "2018.2",
+            "professor": "DIMAS BARRETO DE QUEIROZ",
+            "horario": "4M23 6M45",
+            "local": "CCSA 207 (CCSA)"
+          },
+          {
+            "id": "GDCFC0112",
+            "turmaid": "03",
+            "nome": " CONTABILIDADE PARA O SETOR PÚBLICO II",
+            "semester": "2018.2",
+            "professor": "JOSEDILTON ALVES DINIZ",
+            "horario": "4N12 6N34",
+            "local": "CAF 111 (PRG)"
+          }
+        ],
+        "prerequisites": [
+          "0109"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDCFC0122",
+        "name": "FINANÇAS EMPRESARIAIS II",
+        "category": "Complementar Obrigatória",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDCFC0122",
+            "turmaid": "01",
+            "nome": " FINANÇAS EMPRESARIAIS II",
+            "semester": "2018.2",
+            "professor": "ROMMEL DE SANTANA FREIRE",
+            "horario": "25N12",
+            "local": "CAF 110 (PRG)"
+          },
+          {
+            "id": "GDCFC0122",
+            "turmaid": "02",
+            "nome": " FINANÇAS EMPRESARIAIS II",
+            "semester": "2018.2",
+            "professor": "ROMMEL DE SANTANA FREIRE",
+            "horario": "25M23",
+            "local": "CCSA 207 (CCSA)"
+          }
+        ],
+        "prerequisites": [
+          "0121"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1202142",
+        "name": "CONTABILIDADE GERENCIAL",
+        "category": "Obrigatória",
+        "semester": 7,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1202142",
+            "turmaid": "02",
+            "nome": " CONTABILIDADE GERENCIAL",
+            "semester": "2018.2",
+            "professor": "ADRIANA FERNANDES DE VASCONCELOS",
+            "horario": "35N12",
+            "local": "CAE 111 (PRG)"
+          }
+        ],
+        "prerequisites": [
+          "1202105"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1202321",
+        "name": "ANÁLISE DAS DEMONSTRAÇÕES CONTÁBEIS",
+        "category": "Complementar Obrigatória",
+        "semester": 7,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "0110"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDCFC0113",
+        "name": "AUDITORIA I",
+        "category": "Obrigatória",
+        "semester": 7,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "0110"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDCFC0114",
+        "name": "TRABALHO DE CONCLUSÃO DE CURSO I",
+        "category": "Complementar Obrigatória",
+        "semester": 7,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1202163",
+        "name": "PERICIA CONTABIL",
+        "category": "Obrigatória",
+        "semester": 8,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDCFC0115",
+        "name": "PRÁTICA CONTÁBIL FINANCEIRA II",
+        "category": "Complementar Obrigatória",
+        "semester": 8,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "0110"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDCFC0117",
+        "name": "AVALIAÇÃO DE EMPRESAS",
+        "category": "Obrigatória",
+        "semester": 8,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1202321"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDCFC0119",
+        "name": "TRABALHO DE CONCLUSÃO DE CURSO  II",
+        "category": "Complementar Obrigatória",
+        "semester": 8,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDGEO0122",
+        "name": "ESTAGIO SUPERVISIONADO",
+        "category": "Obrigatória",
+        "semester": 8,
+        "workload": "300h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1202169",
+        "name": " ADMINIST FINANCEIRA CONTABILIDADE",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": "60h",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1202169",
+            "turmaid": "01",
+            "nome": " ADMINIST FINANCEIRA CONTABILIDADE",
+            "semester": "2018.2",
+            "professor": "MOISES ARAUJO ALMEIDA",
+            "horario": "56N34",
+            "local": "CCSA 205 (CCSA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1202259",
+        "name": " CONTABILIDADE INTERNACIONAL",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": "60h",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1202259",
+            "turmaid": "02",
+            "nome": " CONTABILIDADE INTERNACIONAL",
+            "semester": "2018.2",
+            "professor": "THAMIRYS DE SOUSA CORREIA",
+            "horario": "35M23",
+            "local": "CCSA 208 (CCSA)"
+          },
+          {
+            "id": "1202259",
+            "turmaid": "03",
+            "nome": " CONTABILIDADE INTERNACIONAL",
+            "semester": "2018.2",
+            "professor": "THAMIRYS DE SOUSA CORREIA",
+            "horario": "35N12",
+            "local": "CAF 107 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1202263",
+        "name": " CONTROLADORIA ORGANIZACIONAL",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": "60h",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1202263",
+            "turmaid": "02",
+            "nome": " CONTROLADORIA ORGANIZACIONAL",
+            "semester": "2018.2",
+            "professor": "PEDRO SABINO DE FARIAS NETO",
+            "horario": "24M23",
+            "local": "CCSA 208 (CCSA)"
+          },
+          {
+            "id": "1202263",
+            "turmaid": "03",
+            "nome": " CONTROLADORIA ORGANIZACIONAL",
+            "semester": "2018.2",
+            "professor": "PEDRO SABINO DE FARIAS NETO",
+            "horario": "24N12",
+            "local": "LAB. CONTÁBIL I (CCSA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1202289",
+        "name": " LABORATÓRIO CONTÁBIL II",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": "60h",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1202289",
+            "turmaid": "01",
+            "nome": " LABORATÓRIO CONTÁBIL II",
+            "semester": "2018.2",
+            "professor": "ANA KARLA DE LUCENA GOMES, JAIMAR MEDEIROS DE SOUZA, MANAIRA DO CARMO DANTAS ABRANTES DE MELO e MARCELO PINHEIRO DE LUCENA",
+            "horario": "24N34 356N1234",
+            "local": "LAB. CONTÁBIL II (CCSA)"
+          },
+          {
+            "id": "1202289",
+            "turmaid": "02",
+            "nome": " LABORATÓRIO CONTÁBIL II",
+            "semester": "2018.2",
+            "professor": "JAIMAR MEDEIROS DE SOUZA, MARCELO PINHEIRO DE LUCENA e MANAIRA DO CARMO DANTAS ABRANTES DE MELO",
+            "horario": "2345M123 6M1234",
+            "local": "LAB. CONTÁBIL II (CCSA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1201155",
+        "name": " MERCADO FINANCEIRO E DE  CAPITAIS",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": "60h",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1201155",
+            "turmaid": "02",
+            "nome": " MERCADO FINANCEIRO E DE  CAPITAIS",
+            "semester": "2018.2",
+            "professor": "ANTONIO VINICIUS BARROS BARBOSA",
+            "horario": "4N34 6N12",
+            "local": "CAE 104 (PRG) / CCSA 229 (CCSA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1202288",
+        "name": " METODOS QUANT APLICADO A CONTABILIDADE",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": "60h",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1202288",
+            "turmaid": "01",
+            "nome": " METODOS QUANT APLICADO A CONTABILIDADE",
+            "semester": "2018.2",
+            "professor": "AZAMOR CIRNE DE AZEVEDO FILHO",
+            "horario": "24N12",
+            "local": "CCSA 229 (CCSA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1202275",
+        "name": " ORCAMENTO E FINANCAS GOVERNAMENTAL",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": "60h",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1202275",
+            "turmaid": "01",
+            "nome": " ORCAMENTO E FINANCAS GOVERNAMENTAL",
+            "semester": "2018.2",
+            "professor": "MARCELO PINHEIRO DE LUCENA",
+            "horario": "24M45",
+            "local": "LAB. CONTÁBIL II (CCSA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1202165",
+        "name": " SIST DE INF CONTABEIS",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": null,
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1202165",
+            "turmaid": "02",
+            "nome": " SIST DE INF CONTABEIS",
+            "semester": "2018.2",
+            "professor": "A DEFINIR",
+            "horario": "35N34",
+            "local": "LAB. INFORMÁTICA II (CCSA) / LAB. INFORMÁTICA II (CCSA)"
+          },
+          {
+            "id": "1202165",
+            "turmaid": "03",
+            "nome": " SIST DE INF CONTABEIS",
+            "semester": "2018.2",
+            "professor": "TIAGO HENRIQUE DE SOUZA ECHTERNACHT",
+            "horario": "35M45",
+            "local": "LAB. CONTÁBIL II (CCSA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1202261",
+        "name": " TRABALHO DE CONCLUSAO DE CURSO",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": "60h",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1202261",
+            "turmaid": "01",
+            "nome": " TRABALHO DE CONCLUSAO DE CURSO",
+            "semester": "2018.2",
+            "professor": "VICTORIA PUNTRIANO ZUNIGA DE MELO",
+            "horario": "3M45 6M23",
+            "local": "CCSA 208 (CCSA)"
+          },
+          {
+            "id": "1202261",
+            "turmaid": "03",
+            "nome": " TRABALHO DE CONCLUSAO DE CURSO",
+            "semester": "2018.2",
+            "professor": "VALDERIO FREIRE DE MORAES JUNIOR",
+            "horario": "4N34 6N12",
+            "local": "Sala Virtual (CCSA 1) (CCSA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      }
+    ]
+  }
+}

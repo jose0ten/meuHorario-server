@@ -1,0 +1,2103 @@
+{
+  "curriculum": {
+    "id": "0652006",
+    "codigo": "5505677",
+    "name": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - LICENCIATURA PLENA",
+    "faculty": "CENTRO DE CIÊNCIAS EXATAS E DA NATUREZA (CCEN) (11.00.41)",
+    "minch": "360",
+    "maxch": "480",
+    "semesters": 8,
+    "courses": [
+      {
+        "id": "1106164",
+        "name": "LABORATORIO DE FISIOLOGIA VEGETAL",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1106255",
+        "name": "TAXONOMIA E ECOL DE BRIÓF E PTERIDÓFITAS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1106256",
+        "name": "BIOLOGIA DO RÉPTEIS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1106257",
+        "name": "BIOLOGIA DOS ANFÍBIOS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1106258",
+        "name": "ECOLOGIA DE CAMPO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1106116"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1106262",
+        "name": "ECOLOGIA DE MAMIFEROS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1106263",
+        "name": "ECOLOGIA DE COMUNIDADES",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1106264",
+        "name": "BIODIVERSIDADE PADROES E PROCESSOS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1106266",
+        "name": "TOPICOS ESPECIAIS EM CIENCIAS BIOLOGICAS",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1301198",
+        "name": "ANTROPOLOGIA DA EDUCACAO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1301202",
+        "name": "ECONOMIA DA EDUCACAO MSC",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1301203",
+        "name": "FUNDAMENTOS DA ADMINISTRACAO DA EDUCACAO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1301204",
+        "name": "EDUCAÇÃO SEXUAL",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1301204",
+            "turmaid": "03",
+            "nome": " EDUCAÇÃO SEXUAL",
+            "semester": "2018.2",
+            "professor": "A DEFINIR",
+            "horario": "6N1234",
+            "local": "CAD 109 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1301205",
+        "name": "FUNDAMENTOS BIOLOGICOS DA EDUCACO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1301205",
+            "turmaid": "01",
+            "nome": " FUNDAMENTOS BIOLOGICOS DA EDUCACO",
+            "semester": "2018.2",
+            "professor": "VERA LUCIA ARAUJO DE LUCENA",
+            "horario": "5N1234",
+            "local": "CAD 104 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1302292",
+        "name": "EDUCACAO E MOVIMENTOS SOCIAIS MSC",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1302304",
+        "name": "AVALIACAO DA APRENDIZAGEM",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1302304",
+            "turmaid": "06",
+            "nome": " AVALIACAO DA APRENDIZAGEM",
+            "semester": "2018.2",
+            "professor": "IRANETE DE ARAÚJO MEIRA",
+            "horario": "6N1234",
+            "local": "CE 306 (CE)"
+          },
+          {
+            "id": "1302304",
+            "turmaid": "07",
+            "nome": " AVALIACAO DA APRENDIZAGEM",
+            "semester": "2018.2",
+            "professor": "IDELSUITE DE SOUSA LIMA",
+            "horario": "2M1234",
+            "local": "CE 306 (CE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1302305",
+        "name": "SEMINÁRIO DE PROBLEMAS  ATUAIS DA EDUCAÇÃO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1302305",
+            "turmaid": "01",
+            "nome": " SEMINÁRIO DE PROBLEMAS  ATUAIS DA EDUCAÇÃO",
+            "semester": "2018.2",
+            "professor": "DANIEL VALERIO MARTINS",
+            "horario": "2N1234",
+            "local": "CE 309 (CE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1302306",
+        "name": "ALFABETIZAÇÃO DE JOVENS E ADULTOS: PROCESSOS E MÉTODOS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1302308",
+        "name": "INTRODUÇÃO AOS RECURSOS AUDIOVISUAIS EM EDUCAÇÃO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1302309",
+        "name": "SEMINARIO EM EDUCACAO AMBIENTAL",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1302366",
+        "name": "BIOLOGIA DO CAMPO APL AO ENSINO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1302367",
+        "name": "INFORMATICA APL ENSINO DE CIENC E BIOLOG",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1303187",
+        "name": "METODOL  E INST PENS CIENC  NATURAIS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1303195",
+        "name": "PLANEJAMENTO E GESTÃO ESCOLAR",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1303196",
+        "name": "CURRICULO E TRABALHO PEDAGOGICO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1303196",
+            "turmaid": "03",
+            "nome": " CURRICULO E TRABALHO PEDAGOGICO",
+            "semester": "2018.2",
+            "professor": "MARIA ZULEIDE DA COSTA PEREIRA",
+            "horario": "5M2345",
+            "local": "CAH 103 (PRG)"
+          },
+          {
+            "id": "1303196",
+            "turmaid": "04",
+            "nome": " CURRICULO E TRABALHO PEDAGOGICO",
+            "semester": "2018.2",
+            "professor": "JEANE FELIX DA SILVA",
+            "horario": "4N1234",
+            "local": "CAH 108 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1303197",
+        "name": "PESQUISA E COTIDIANO ESCOLAR",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1303210",
+        "name": "CURRICULO E TRABALHO PEDAGOGICO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1101170",
+        "name": "FISICA PARA CIENCIAS BIOLOGICAS",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1101170",
+            "turmaid": "01",
+            "nome": " FISICA PARA CIENCIAS BIOLOGICAS",
+            "semester": "2018.2",
+            "professor": "A DEFINIR",
+            "horario": "35M45",
+            "local": "CAE 110 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1102116",
+        "name": "FUNDAMENTOS DE GEOLOGIA",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1102116",
+            "turmaid": "01",
+            "nome": " FUNDAMENTOS DE GEOLOGIA",
+            "semester": "2018.2",
+            "professor": "EDUARDO GALLIZA DO AMARAL MARINHO",
+            "horario": "4T2345",
+            "local": "LEGAM (CCEN)"
+          },
+          {
+            "id": "1102116",
+            "turmaid": "02",
+            "nome": " FUNDAMENTOS DE GEOLOGIA",
+            "semester": "2018.2",
+            "professor": "MAX FURRIER",
+            "horario": "24T23",
+            "local": "MUSEU (CCEN)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1104179",
+        "name": "BIOLOGIA E FISIOLOGIA CELULAR",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1104180",
+        "name": "BIOQUIMICA ESTRUTURAL",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1104180",
+            "turmaid": "02",
+            "nome": " BIOQUIMICA ESTRUTURAL",
+            "semester": "2018.2",
+            "professor": "CARLOS ALBERTO DE ALMEIDA GADELHA",
+            "horario": "24M45",
+            "local": "CCENB4 (CCEN)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1104212",
+        "name": "HIST E FILOSOFIA DAS CIENCIAS NATURAIS",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1104212",
+            "turmaid": "02",
+            "nome": " HIST E FILOSOFIA DAS CIENCIAS NATURAIS",
+            "semester": "2018.2",
+            "professor": "PEDRO ROBERTO PONTES SANTOS",
+            "horario": "24T45",
+            "local": "CCENB7 (CCEN)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1105209",
+        "name": "QUIMICA PCIENCIAS BIOLOGICAS",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1105209",
+            "turmaid": "02",
+            "nome": " QUIMICA PCIENCIAS BIOLOGICAS",
+            "semester": "2018.2",
+            "professor": "JULIANA ALVES VALE",
+            "horario": "35M23",
+            "local": "CCENB4 (CCEN)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1106149",
+        "name": "FUNDAMENTOS DE SISTEMAT E BIOGEOGRAFIA",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1106149",
+            "turmaid": "02",
+            "nome": " FUNDAMENTOS DE SISTEMAT E BIOGEOGRAFIA",
+            "semester": "2018.2",
+            "professor": "MARTIN LINDSEY CHRISTOFFERSEN e CARLOS ALBERTO BELTRAO DE MIRANDA",
+            "horario": "35M45",
+            "local": "DSE S02 (CCEN)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1106272",
+        "name": "BIOÉTICA   E  LEGISLAÇÃO PROFISSIONAL",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1106272",
+            "turmaid": "03",
+            "nome": " BIOÉTICA   E  LEGISLAÇÃO PROFISSIONAL",
+            "semester": "2018.2",
+            "professor": "ALESSANDRE PEREIRA COLAVITE",
+            "horario": "3T45",
+            "local": "LEAD (CCEN)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1104181",
+        "name": "BIOQUIMICA METABOLICA",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1104181",
+            "turmaid": "01",
+            "nome": " BIOQUIMICA METABOLICA",
+            "semester": "2018.2",
+            "professor": "AUGUSTO CEZAR VASCONCELOS DE FREITAS JUNIOR",
+            "horario": "25T23",
+            "local": "CCENB3 (CCEN)"
+          },
+          {
+            "id": "1104181",
+            "turmaid": "03",
+            "nome": " BIOQUIMICA METABOLICA",
+            "semester": "2018.2",
+            "professor": "PEDRO ROBERTO PONTES SANTOS",
+            "horario": "7M2345",
+            "local": "CCENB4 (CCEN)"
+          }
+        ],
+        "prerequisites": [
+          "1104180"
+        ],
+        "equivalences": [
+          "1104119"
+        ]
+      },
+      {
+        "id": "1106150",
+        "name": "BIOL E SIST DE FUNGOS ALGAS E BRIOFITAS",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1106150",
+            "turmaid": "02",
+            "nome": " BIOL E SIST DE FUNGOS ALGAS E BRIOFITAS",
+            "semester": "2018.2",
+            "professor": "PABLO RIUL, FELIPE WARTCHOW e ELIETE LIMA DE PAULA ZARATE",
+            "horario": "4N1234",
+            "local": "LDB (CCEN)"
+          },
+          {
+            "id": "1106150",
+            "turmaid": "03",
+            "nome": " BIOL E SIST DE FUNGOS ALGAS E BRIOFITAS",
+            "semester": "2018.2",
+            "professor": "PABLO RIUL, FELIPE WARTCHOW e ELIETE LIMA DE PAULA ZARATE",
+            "horario": "2T45 3T23",
+            "local": "LDB (CCEN)"
+          }
+        ],
+        "prerequisites": [
+          "1106149"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1106153",
+        "name": "ORG UNICEL E METAZOARIOS NCELOMADOS",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1106153",
+            "turmaid": "01",
+            "nome": " ORG UNICEL E METAZOARIOS NCELOMADOS",
+            "semester": "2018.2",
+            "professor": "CRISTIANE FRANCISCA DA COSTA SASSI",
+            "horario": "6N1234",
+            "local": "LDZ (CCEN)"
+          },
+          {
+            "id": "1106153",
+            "turmaid": "02",
+            "nome": " ORG UNICEL E METAZOARIOS NCELOMADOS",
+            "semester": "2018.2",
+            "professor": "CRISTIANE FRANCISCA DA COSTA SASSI",
+            "horario": "35T45",
+            "local": "LDZ (CCEN)"
+          }
+        ],
+        "prerequisites": [
+          "1106149"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1108116",
+        "name": "ESTATISTICA VITAL",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1108116",
+            "turmaid": "01",
+            "nome": " ESTATISTICA VITAL",
+            "semester": "2018.2",
+            "professor": "RENATA PATRICIA LIMA JERONYMO MOREIRA PINTO",
+            "horario": "24M23",
+            "local": "CCENA 104 (CCEN)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1301195",
+        "name": "FUNDAMENTOS  ANTROPOFILOSÓFICO DA EDUCAÇÃO",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1301195",
+            "turmaid": "04",
+            "nome": " FUNDAMENTOS  ANTROPOFILOSÓFICO DA EDUCAÇÃO",
+            "semester": "2018.2",
+            "professor": "JOSE DE ARIMATEA FONTES",
+            "horario": "3M2345",
+            "local": "CE 304 (CE)"
+          },
+          {
+            "id": "1301195",
+            "turmaid": "07",
+            "nome": " FUNDAMENTOS  ANTROPOFILOSÓFICO DA EDUCAÇÃO",
+            "semester": "2018.2",
+            "professor": "JUDY MAURIA GUEIROS ROSAS",
+            "horario": "5T2345",
+            "local": "CAH 106 (PRG)"
+          },
+          {
+            "id": "1301195",
+            "turmaid": "11",
+            "nome": " FUNDAMENTOS  ANTROPOFILOSÓFICO DA EDUCAÇÃO",
+            "semester": "2018.2",
+            "professor": "FERNANDES ANTONIO BRASILEIRO RODRIGUES",
+            "horario": "3N1234",
+            "local": "CAD 109 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1302349",
+        "name": "METODOLOGIA CIENT PESQUISA APL",
+        "category": "Complementar Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1302349",
+            "turmaid": "02",
+            "nome": " METODOLOGIA CIENT PESQUISA APL",
+            "semester": "2018.2",
+            "professor": "FRANCISCO JOSE PEGADO ABILIO",
+            "horario": "2N1234",
+            "local": "CAF 104 (PRG)"
+          },
+          {
+            "id": "1302349",
+            "turmaid": "03",
+            "nome": " METODOLOGIA CIENT PESQUISA APL",
+            "semester": "2018.2",
+            "professor": "JORGE CHAVES CORDEIRO",
+            "horario": "5M2345",
+            "local": "CAF 107 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1610174",
+        "name": "BIOL DO DESENVOLV ANIMAL COMPARADO",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1610174",
+            "turmaid": "02",
+            "nome": " BIOL DO DESENVOLV ANIMAL COMPARADO",
+            "semester": "2018.2",
+            "professor": "ALEXANDRE SARMENTO QUEIROGA",
+            "horario": "6M23 4T23",
+            "local": "CCS 303 (CCS)"
+          }
+        ],
+        "prerequisites": [
+          "1104179"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1104182",
+        "name": "BIOFISICA DOS SISTEMAS BIOLOGICOS",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1104182",
+            "turmaid": "02",
+            "nome": " BIOFISICA DOS SISTEMAS BIOLOGICOS",
+            "semester": "2018.2",
+            "professor": "IDELTONIO JOSE FEITOSA BARBOSA e CARLOS FERNANDO DE MELLO JUNIOR",
+            "horario": "7M2345",
+            "local": "CCENB2 (CCEN)"
+          },
+          {
+            "id": "1104182",
+            "turmaid": "03",
+            "nome": " BIOFISICA DOS SISTEMAS BIOLOGICOS",
+            "semester": "2018.2",
+            "professor": "MICHELINE DE AZEVEDO LIMA",
+            "horario": "4T2345",
+            "local": "CCENB2 (CCEN)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1106151",
+        "name": "BIOL E SIST DE PLANTAS VASCULARES",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1106151",
+            "turmaid": "01",
+            "nome": " BIOL E SIST DE PLANTAS VASCULARES",
+            "semester": "2018.2",
+            "professor": "RUBENS TEIXEIRA DE QUEIROZ",
+            "horario": "5M2345",
+            "local": "LDB (CCEN)"
+          },
+          {
+            "id": "1106151",
+            "turmaid": "02",
+            "nome": " BIOL E SIST DE PLANTAS VASCULARES",
+            "semester": "2018.2",
+            "professor": "CARLOS ALBERTO BELTRAO DE MIRANDA",
+            "horario": "24M45",
+            "local": "LDB (CCEN)"
+          }
+        ],
+        "prerequisites": [
+          "1106149"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1106154",
+        "name": "METAZOARIOS CELOMADOS NDEUTEROSTOMADOS",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1106154",
+            "turmaid": "02",
+            "nome": " METAZOARIOS CELOMADOS NDEUTEROSTOMADOS",
+            "semester": "2018.2",
+            "professor": "CELSO FEITOSA MARTINS e MARCIO BERNARDINO DA SILVA",
+            "horario": "5M45 6T45",
+            "local": "DSE S03 (CCEN) / LDZ (CCEN)"
+          }
+        ],
+        "prerequisites": [
+          "1106153"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1106157",
+        "name": "PALEOBIOLOGIA",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1106157",
+            "turmaid": "02",
+            "nome": " PALEOBIOLOGIA",
+            "semester": "2018.2",
+            "professor": "MARTIN LINDSEY CHRISTOFFERSEN",
+            "horario": "4M23",
+            "local": "LEAD (CCEN)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1106158",
+        "name": "ECOLOGIA BASICA",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1106158",
+            "turmaid": "02",
+            "nome": " ECOLOGIA BASICA",
+            "semester": "2018.2",
+            "professor": "DANIEL OLIVEIRA MESQUITA e DENISE DIAS DA CRUZ",
+            "horario": "25M23",
+            "local": "DSE S03 (CCEN)"
+          },
+          {
+            "id": "1106158",
+            "turmaid": "03",
+            "nome": " ECOLOGIA BASICA",
+            "semester": "2018.2",
+            "professor": "DANIEL OLIVEIRA MESQUITA e DENISE DIAS DA CRUZ",
+            "horario": "6N1234",
+            "local": "DSE S01 (CCEN)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1301200",
+        "name": "FUNDAMENTOS SOCIOHISTÓRICOS DA EDUCAÇÃO",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1301200",
+            "turmaid": "01",
+            "nome": " FUNDAMENTOS SOCIOHISTÓRICOS DA EDUCAÇÃO",
+            "semester": "2018.2",
+            "professor": "OSVALDO BARBOSA MAIA",
+            "horario": "3M2345",
+            "local": "CAF 102 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1301201",
+        "name": "FUNDAMENTOS PSICOLÓGICOS DA EDUCAÇÃO",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1301201",
+            "turmaid": "05",
+            "nome": " FUNDAMENTOS PSICOLÓGICOS DA EDUCAÇÃO",
+            "semester": "2018.2",
+            "professor": "LUIZ PEREIRA DE LIMA JUNIOR",
+            "horario": "5T1234",
+            "local": "CAD 111 (PRG)"
+          },
+          {
+            "id": "1301201",
+            "turmaid": "08",
+            "nome": " FUNDAMENTOS PSICOLÓGICOS DA EDUCAÇÃO",
+            "semester": "2018.2",
+            "professor": "MARIA IVETE MARTINS CORREIA",
+            "horario": "4N1234",
+            "local": "CAE 111 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1610172",
+        "name": "ANATOMIA HUMANA BASICA",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1610172",
+            "turmaid": "03",
+            "nome": " ANATOMIA HUMANA BASICA",
+            "semester": "2018.2",
+            "professor": "MONIQUE DANYELLE EMILIANO BATISTA PAIVA",
+            "horario": "6M2345",
+            "local": "CCS/LAB415 (CCS)"
+          },
+          {
+            "id": "1610172",
+            "turmaid": "04",
+            "nome": " ANATOMIA HUMANA BASICA",
+            "semester": "2018.2",
+            "professor": "THIAGO DE OLIVEIRA ASSIS",
+            "horario": "2N1234",
+            "local": "CCS 406 (CCS)"
+          }
+        ],
+        "prerequisites": [
+          "1104179"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1104183",
+        "name": "GENETICA MOLECULAR",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1104183",
+            "turmaid": "01",
+            "nome": " GENETICA MOLECULAR",
+            "semester": "2018.2",
+            "professor": "MARCIA ROSA DE OLIVEIRA",
+            "horario": "24M45",
+            "local": "CCENB8 (CCEN)"
+          },
+          {
+            "id": "1104183",
+            "turmaid": "02",
+            "nome": " GENETICA MOLECULAR",
+            "semester": "2018.2",
+            "professor": "ELEONIDAS MOURA LIMA",
+            "horario": "35M45",
+            "local": "CCENC 104 (CCEN)"
+          }
+        ],
+        "prerequisites": [
+          "1104179"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1106155",
+        "name": "METAZOARIOS DEUTEROSTOMADOS",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1106155",
+            "turmaid": "02",
+            "nome": " METAZOARIOS DEUTEROSTOMADOS",
+            "semester": "2018.2",
+            "professor": "GUSTAVO HENRIQUE CALAZANS VIEIRA e ROBSON TAMAR DA COSTA RAMOS",
+            "horario": "5N1234",
+            "local": "LDZ (CCEN)"
+          },
+          {
+            "id": "1106155",
+            "turmaid": "03",
+            "nome": " METAZOARIOS DEUTEROSTOMADOS",
+            "semester": "2018.2",
+            "professor": "GUSTAVO HENRIQUE CALAZANS VIEIRA e PEDRO CORDEIRO ESTRELA DE ANDRADE PINTO",
+            "horario": "4M2345",
+            "local": "LDZ (CCEN)"
+          }
+        ],
+        "prerequisites": [
+          "1106154"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1106162",
+        "name": "ANATOMIA VEGETAL",
+        "category": "Complementar Obrigatória",
+        "semester": 4,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1106162",
+            "turmaid": "02",
+            "nome": " ANATOMIA VEGETAL",
+            "semester": "2018.2",
+            "professor": "RIVETE SILVA DE LIMA",
+            "horario": "2T23",
+            "local": "LDB (CCEN)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1106163",
+        "name": "BIOLOGIA DA CONSERVACAO",
+        "category": "Complementar Obrigatória",
+        "semester": 4,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1106163",
+            "turmaid": "02",
+            "nome": " BIOLOGIA DA CONSERVACAO",
+            "semester": "2018.2",
+            "professor": "ALEXANDRE RAMLO TORRE PALMA",
+            "horario": "6T23",
+            "local": "DSE S03 (CCEN)"
+          }
+        ],
+        "prerequisites": [
+          "1106158",
+          "1106149"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1106165",
+        "name": "ECOLOGIA DE POPULACOES E COMUNIDADES",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1106165",
+            "turmaid": "02",
+            "nome": " ECOLOGIA DE POPULACOES E COMUNIDADES",
+            "semester": "2018.2",
+            "professor": "DANIEL OLIVEIRA MESQUITA e DENISE DIAS DA CRUZ",
+            "horario": "2M45 5T45",
+            "local": "LEAD (CCEN)"
+          }
+        ],
+        "prerequisites": [
+          "1106158"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1302105",
+        "name": "DIDÁTICA",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1302105",
+            "turmaid": "06",
+            "nome": " DIDÁTICA",
+            "semester": "2018.2",
+            "professor": "JOSE RAMOS BARBOSA DA SILVA",
+            "horario": "3T2345",
+            "local": "CE 305 (CE)"
+          },
+          {
+            "id": "1302105",
+            "turmaid": "08",
+            "nome": " DIDÁTICA",
+            "semester": "2018.2",
+            "professor": "JOSE RAMOS BARBOSA DA SILVA",
+            "horario": "3N1234",
+            "local": "CAB 101 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1610173",
+        "name": "BIOLOGIA DO DESENVOLVIMENTO HUMANO",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1610173",
+            "turmaid": "01",
+            "nome": " BIOLOGIA DO DESENVOLVIMENTO HUMANO",
+            "semester": "2018.2",
+            "professor": "HUGO ENRIQUE MENDEZ GARCIA",
+            "horario": "5N1234",
+            "local": "CCS 303 (CCS)"
+          },
+          {
+            "id": "1610173",
+            "turmaid": "03",
+            "nome": " BIOLOGIA DO DESENVOLVIMENTO HUMANO",
+            "semester": "2018.2",
+            "professor": "ROSSANA SEIXAS MAIA DA SILVA e ALEXANDRE SARMENTO QUEIROGA",
+            "horario": "3M23 6M45",
+            "local": "CCS 303 (CCS)"
+          }
+        ],
+        "prerequisites": [
+          "1104179"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1611139",
+        "name": "PARASITOLOGIA II",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1611139",
+            "turmaid": "03",
+            "nome": " PARASITOLOGIA II",
+            "semester": "2018.2",
+            "professor": "FABIO MARCEL DA SILVA SANTOS",
+            "horario": "6M123",
+            "local": "CCS 208 (CCS)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1611214",
+        "name": "BIOLOGIA DE MICRORGANISMOS",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1611214",
+            "turmaid": "02",
+            "nome": " BIOLOGIA DE MICRORGANISMOS",
+            "semester": "2018.2",
+            "professor": "GISELY MARIA FREIRE ABILIO DE CASTRO",
+            "horario": "25M23",
+            "local": "CCS 208 (CCS) / CCS 209 (CCS)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1104184",
+        "name": "PRINCIPIOS E ANALISE GENETICA",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1104184",
+            "turmaid": "02",
+            "nome": " PRINCIPIOS E ANALISE GENETICA",
+            "semester": "2018.2",
+            "professor": "ANTONIO VICTOR CAMPOS COELHO",
+            "horario": "2N1234",
+            "local": "CCENB2 (CCEN)"
+          },
+          {
+            "id": "1104184",
+            "turmaid": "03",
+            "nome": " PRINCIPIOS E ANALISE GENETICA",
+            "semester": "2018.2",
+            "professor": "FRANCIS MARIA BAO ZAMBRA",
+            "horario": "3M2345",
+            "local": "CCENC 103 (CCEN)"
+          }
+        ],
+        "prerequisites": [
+          "1104179"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1106152",
+        "name": "FISIOLOGIA VEGETAL",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1106152",
+            "turmaid": "02",
+            "nome": " FISIOLOGIA VEGETAL",
+            "semester": "2018.2",
+            "professor": "ADEILDO ROSA DE LIMA JUNIOR",
+            "horario": "6N1234",
+            "local": "DSE S02 (CCEN)"
+          },
+          {
+            "id": "1106152",
+            "turmaid": "03",
+            "nome": " FISIOLOGIA VEGETAL",
+            "semester": "2018.2",
+            "professor": "ADEILDO ROSA DE LIMA JUNIOR",
+            "horario": "2M2345",
+            "local": "CCENB6 (CCEN)"
+          }
+        ],
+        "prerequisites": [
+          "1104181",
+          "1106162"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1106156",
+        "name": "FISIOLOGIA HUMANA E ANIMAL COMPARADA",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1106156",
+            "turmaid": "02",
+            "nome": " FISIOLOGIA HUMANA E ANIMAL COMPARADA",
+            "semester": "2018.2",
+            "professor": "PAULO FERNANDO GUEDES PEREIRA MONTENEGRO e ALESSANDRE PEREIRA COLAVITE",
+            "horario": "5N1234",
+            "local": "LDB (CCEN)"
+          },
+          {
+            "id": "1106156",
+            "turmaid": "03",
+            "nome": " FISIOLOGIA HUMANA E ANIMAL COMPARADA",
+            "semester": "2018.2",
+            "professor": "PAULO FERNANDO GUEDES PEREIRA MONTENEGRO e ALESSANDRE PEREIRA COLAVITE",
+            "horario": "2T2345",
+            "local": "LDZ (CCEN)"
+          }
+        ],
+        "prerequisites": [
+          "1106155"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1106159",
+        "name": "METODOS E ANALISES EM ECOLOGIA",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1106159",
+            "turmaid": "02",
+            "nome": " METODOS E ANALISES EM ECOLOGIA",
+            "semester": "2018.2",
+            "professor": "LUIZ CARLOS SERRAMO LOPEZ",
+            "horario": "7M2345",
+            "local": "LEAD (CCEN)"
+          },
+          {
+            "id": "1106159",
+            "turmaid": "03",
+            "nome": " METODOS E ANALISES EM ECOLOGIA",
+            "semester": "2018.2",
+            "professor": "LUIZ CARLOS SERRAMO LOPEZ",
+            "horario": "46M23",
+            "local": "DSE S01 (CCEN)"
+          }
+        ],
+        "prerequisites": [
+          "1106165",
+          "1108116"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1611178",
+        "name": "IMUNOLOGIA III",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1611178",
+            "turmaid": "01",
+            "nome": " IMUNOLOGIA III",
+            "semester": "2018.2",
+            "professor": "RENATO ANTONIO DOS SANTOS OLIVEIRA",
+            "horario": "46M45",
+            "local": "CCS 202 (CCS) / CCS 209 (CCS)"
+          },
+          {
+            "id": "1611178",
+            "turmaid": "02",
+            "nome": " IMUNOLOGIA III",
+            "semester": "2018.2",
+            "professor": "JOELMA RODRIGUES DE SOUZA",
+            "horario": "4N1234",
+            "local": "CCENA 103 (CCEN)"
+          }
+        ],
+        "prerequisites": [
+          "1104181"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDLS0024",
+        "name": "LIBRAS",
+        "category": "Complementar Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDLS0024",
+            "turmaid": "06",
+            "nome": " LIBRAS",
+            "semester": "2018.2",
+            "professor": "LIGIO JOSIAS GOMES DE SOUSA",
+            "horario": "4T2345",
+            "local": "CCHLA 416 BLOCO I CENTRAL DE AULAS (CCHLA)"
+          },
+          {
+            "id": "GDLS0024",
+            "turmaid": "07",
+            "nome": " LIBRAS",
+            "semester": "2018.2",
+            "professor": "MARIE GORETT DANTAS DE ASSIS E MEDEIROS BATISTA",
+            "horario": "4N1234",
+            "local": "CCHLA 421 BLOCO A 1º ANDAR (CCHLA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDMTE0129",
+        "name": "ESTAGIO SUPERVISIONADO I ECNEEF",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "105h aula 0h lab.",
+        "type": "ESTÁGIO",
+        "turmas": [
+          {
+            "id": "GDMTE0129",
+            "turmaid": "01",
+            "nome": " BIOLOGIA",
+            "semester": "2018.2",
+            "professor": "MARIA DE LOURDES PEREIRA",
+            "horario": "5M2345 7T234 (22/11/2018 - 10/05/2019)",
+            "local": "CCENB3 (CCEN)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+          "1302356"
+        ]
+      },
+      {
+        "id": "1106148",
+        "name": "EVOLUCAO BIOLOGICA",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1106148",
+            "turmaid": "02",
+            "nome": " EVOLUCAO BIOLOGICA",
+            "semester": "2018.2",
+            "professor": "ANTONIO JOSE CREAO DUARTE",
+            "horario": "56T23",
+            "local": "LEAD (CCEN)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1302362",
+        "name": "METODOL E INST PENSINO BIOLOGIA",
+        "category": "Complementar Obrigatória",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1302362",
+            "turmaid": "01",
+            "nome": " METODOL E INST PENSINO BIOLOGIA",
+            "semester": "2018.2",
+            "professor": "MARSILVIO GONCALVES PEREIRA",
+            "horario": "5M2345",
+            "local": "CAE 102 (PRG)"
+          }
+        ],
+        "prerequisites": [
+          "1302105"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1302363",
+        "name": "PESQUISA EM ENSINO DE CIENC E BIOLOGIA",
+        "category": "Complementar Obrigatória",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1302363",
+            "turmaid": "02",
+            "nome": " PESQUISA EM ENSINO DE CIENC E BIOLOGIA",
+            "semester": "2018.2",
+            "professor": "A DEFINIR",
+            "horario": "6M2345",
+            "local": "CAF 107 (PRG)"
+          }
+        ],
+        "prerequisites": [
+          "1302349"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1302497",
+        "name": "EDUC MEIO AMBIENTE E SAÚDE NAS ESCOLAS",
+        "category": "Complementar Obrigatória",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1302497",
+            "turmaid": "02",
+            "nome": " EDUC MEIO AMBIENTE E SAÚDE NAS ESCOLAS",
+            "semester": "2018.2",
+            "professor": "FRANCISCO JOSE PEGADO ABILIO",
+            "horario": "3T2345",
+            "local": "CAG 105 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1303180",
+        "name": "POLITICA E GESTAO DA EDUCACAO",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1303180",
+            "turmaid": "03",
+            "nome": " POLITICA E GESTAO DA EDUCACAO",
+            "semester": "2018.2",
+            "professor": "LUIZ DE SOUSA JUNIOR",
+            "horario": "3N1234",
+            "local": "CAG 105 (PRG)"
+          },
+          {
+            "id": "1303180",
+            "turmaid": "09",
+            "nome": " POLITICA E GESTAO DA EDUCACAO",
+            "semester": "2018.2",
+            "professor": "ALEXANDRE ANTONIO GILI NADER",
+            "horario": "2T2345",
+            "local": "CAH 102 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+          "1303208"
+        ]
+      },
+      {
+        "id": "GDMTE0130",
+        "name": "ESTAGIO SUPERVISIONADO II PECNEEF",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "105h aula 0h lab.",
+        "type": "ESTÁGIO",
+        "turmas": [
+          {
+            "id": "GDMTE0130",
+            "turmaid": "01",
+            "nome": " BIOLOGIA",
+            "semester": "2018.2",
+            "professor": "MARIA DE LOURDES PEREIRA",
+            "horario": "2N1234 7N123 (22/11/2018 - 10/05/2019)",
+            "local": "CAF 103 (PRG)"
+          },
+          {
+            "id": "GDMTE0130",
+            "turmaid": "02",
+            "nome": " BIOLOGIA",
+            "semester": "2018.2",
+            "professor": "MARIA DE LOURDES PEREIRA",
+            "horario": "3M2345 7T234 (22/11/2018 - 10/05/2019)",
+            "local": "CCENA 102 (CCEN)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+          "1302357"
+        ]
+      },
+      {
+        "id": "1104191",
+        "name": "BIOLOGIA MOLECULAR DO DESENVOLVIMENTO",
+        "category": "Complementar Obrigatória",
+        "semester": 7,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1104191",
+            "turmaid": "01",
+            "nome": " BIOLOGIA MOLECULAR DO DESENVOLVIMENTO",
+            "semester": "2018.2",
+            "professor": "ANTONIO VICTOR CAMPOS COELHO",
+            "horario": "3N1234",
+            "local": "CCENB2 (CCEN)"
+          },
+          {
+            "id": "1104191",
+            "turmaid": "02",
+            "nome": " BIOLOGIA MOLECULAR DO DESENVOLVIMENTO",
+            "semester": "2018.2",
+            "professor": "ANTONIO VICTOR CAMPOS COELHO",
+            "horario": "35M12",
+            "local": "CCENB6 (CCEN)"
+          }
+        ],
+        "prerequisites": [
+          "1104179",
+          "1104183"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1106161",
+        "name": "BASES DA EDUCACAO AMBIENTAL",
+        "category": "Complementar Obrigatória",
+        "semester": 7,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1106161",
+            "turmaid": "04",
+            "nome": " BASES DA EDUCACAO AMBIENTAL",
+            "semester": "2018.2",
+            "professor": "ANTONIA ARISDELIA FONSECA MATIAS AGUIAR FEITOSA",
+            "horario": "5N1234",
+            "local": "DSE S01 (CCEN)"
+          },
+          {
+            "id": "1106161",
+            "turmaid": "05",
+            "nome": " BASES DA EDUCACAO AMBIENTAL",
+            "semester": "2018.2",
+            "professor": "ANTONIA ARISDELIA FONSECA MATIAS AGUIAR FEITOSA",
+            "horario": "4T2345",
+            "local": "DSE S01 (CCEN)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1302364",
+        "name": "PROJ E EXP NO ENS DE CIENC E BIOLOGIA",
+        "category": "Complementar Obrigatória",
+        "semester": 7,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1302364",
+            "turmaid": "01",
+            "nome": " PROJ E EXP NO ENS DE CIENC E BIOLOGIA",
+            "semester": "2018.2",
+            "professor": "A DEFINIR",
+            "horario": "4M2345",
+            "local": "CAF 107 (PRG)"
+          }
+        ],
+        "prerequisites": [
+          "1302105"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDMTE0131",
+        "name": "ESTAGIO SUPERVISIONADO III",
+        "category": "Obrigatória",
+        "semester": 7,
+        "workload": "105h aula 0h lab.",
+        "type": "ESTÁGIO",
+        "turmas": [
+          {
+            "id": "GDMTE0131",
+            "turmaid": "01",
+            "nome": " BIOLOGIA",
+            "semester": "2018.2",
+            "professor": "JORGE CHAVES CORDEIRO",
+            "horario": "3T2345 7T234 (22/11/2018 - 10/05/2019)",
+            "local": "CCENA 103 (CCEN)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+          "1302358"
+        ]
+      },
+      {
+        "id": "1302360",
+        "name": "TRABALHO ACADEMICO DE CONC DE CURSO",
+        "category": "Complementar Obrigatória",
+        "semester": 8,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1302360",
+            "turmaid": "01",
+            "nome": " TRABALHO ACADEMICO DE CONC DE CURSO",
+            "semester": "2018.2",
+            "professor": "A DEFINIR",
+            "horario": "7T456",
+            "local": "CAE 109 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1303398",
+        "name": "EDUCACAO E INCLUSAO SOCIAL",
+        "category": "Obrigatória",
+        "semester": 8,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1303398",
+            "turmaid": "01",
+            "nome": " EDUCACAO E INCLUSAO SOCIAL",
+            "semester": "2018.2",
+            "professor": "GIULIANA CAVALCANTI VASCONCELOS",
+            "horario": "4N12",
+            "local": "CCSA 233 (CCSA)"
+          },
+          {
+            "id": "1303398",
+            "turmaid": "02",
+            "nome": " EDUCACAO E INCLUSAO SOCIAL",
+            "semester": "2018.2",
+            "professor": "EMILIA MARIA DA TRINDADE PRESTES",
+            "horario": "2T23",
+            "local": "CAH 106 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDMTE0132",
+        "name": "ESTAGIO SUPERVISIONADO IV",
+        "category": "Obrigatória",
+        "semester": 8,
+        "workload": "105h aula 0h lab.",
+        "type": "ESTÁGIO",
+        "turmas": [
+          {
+            "id": "GDMTE0132",
+            "turmaid": "02",
+            "nome": "  BIOLOGIA",
+            "semester": "2018.2",
+            "professor": "MARSILVIO GONCALVES PEREIRA",
+            "horario": "3M2345 7T123 (22/11/2018 - 10/05/2019)",
+            "local": "CCENB7 (CCEN)"
+          },
+          {
+            "id": "GDMTE0132",
+            "turmaid": "03",
+            "nome": "  BIOLOGIA",
+            "semester": "2018.2",
+            "professor": "MARSILVIO GONCALVES PEREIRA",
+            "horario": "3N1234 7N123 (22/11/2018 - 10/05/2019)",
+            "local": "CAD 101 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+          "1302359"
+        ]
+      },
+      {
+        "id": "1104108",
+        "name": " BIOLOGIA CELULAR",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": "60h",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1104108",
+            "turmaid": "07",
+            "nome": " BIOLOGIA CELULAR",
+            "semester": "2018.2",
+            "professor": "JOSE ANTONIO NOVAES DA SILVA",
+            "horario": "24M23",
+            "local": "CCENB2 (CCEN)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      }
+    ]
+  }
+}

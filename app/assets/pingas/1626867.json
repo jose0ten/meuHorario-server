@@ -1,0 +1,2704 @@
+{
+  "curriculum": {
+    "id": "652008",
+    "codigo": "1626867",
+    "name": "FISIOTERAPIA - João Pessoa - Presencial - MT - BACHARELADO",
+    "faculty": "CENTRO DE CIÊNCIAS DA SAÚDE (CCS) (11.00.54)",
+    "minch": "300",
+    "maxch": "525",
+    "semesters": 10,
+    "courses": [
+      {
+        "id": "1302308",
+        "name": "INTRODUÇÃO AOS RECURSOS AUDIOVISUAIS EM EDUCAÇÃO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1303104",
+        "name": "EDUCACAO DE EXCEPCIONAIS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1401281",
+        "name": "SOCIOLOGIA DA SAUDE",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1403153",
+        "name": "PORTUGUÊS INSTRUMENTAL",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1403153",
+            "turmaid": "02",
+            "nome": " PORTUGUÊS INSTRUMENTAL",
+            "semester": "2018.2",
+            "professor": "ENEIDA MARTINS DE OLIVEIRA",
+            "horario": "5N1234",
+            "local": "TS-1 (CCHLA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1403747",
+        "name": "LIBRAS  LÍNGUA BRASILEIRA DE SINAIS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1404204",
+        "name": "LÍNGUA ESPANHOLA NÍVEL BÁSICO I",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1405132",
+        "name": "PSICOLOGIA DO DESENVOL I",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "90h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1614168",
+        "name": "CONTEUDO COMPLEMENTAR EM FISIOTERAPIA I",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1614169",
+        "name": "CONTEUDO COMPLEMENTAR EM FISIOTERAPIA II",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1614170",
+        "name": "CONTEUDO COMPLEMENTAR EM FISIOTERAPI III",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1614171",
+        "name": "CONTEUDO COMPLEMENTAR EM FISIOTERAPIA IV",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1614172",
+        "name": "CONTEÚDO COMPLEMENTAR EM FISIOTERAPIA V",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDLS0024",
+        "name": "LIBRAS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDLS0024",
+            "turmaid": "14",
+            "nome": " LIBRAS",
+            "semester": "2018.2",
+            "professor": "LUCIANA WALESKA DE SOUZA MOURA",
+            "horario": "6T2345",
+            "local": "CAG 104 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1104101",
+        "name": "BIOFÍSICA BÁSICA",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1104101",
+            "turmaid": "01",
+            "nome": " BIOFÍSICA BÁSICA",
+            "semester": "2018.2",
+            "professor": "IDELTONIO JOSE FEITOSA BARBOSA",
+            "horario": "6T1234",
+            "local": "CCS 708 (CCS)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1104108",
+        "name": "BIOLOGIA CELULAR",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1104108",
+            "turmaid": "05",
+            "nome": " BIOLOGIA CELULAR",
+            "semester": "2018.2",
+            "professor": "MARIA CECILIA DE OLIVEIRA CAMPOS",
+            "horario": "3M23 5M12",
+            "local": "CCENB1 (CCEN)"
+          },
+          {
+            "id": "1104108",
+            "turmaid": "06",
+            "nome": " BIOLOGIA CELULAR",
+            "semester": "2018.2",
+            "professor": "PATRICIA MIRELLA DA SILVA SCARDUA",
+            "horario": "3M23 5M12",
+            "local": "CCENB8 (CCEN)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1104119",
+        "name": "BIOQUIMICA GERAL",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "75h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1104119",
+            "turmaid": "02",
+            "nome": " BIOQUIMICA GERAL",
+            "semester": "2018.2",
+            "professor": "LEONOR ALVES DE OLIVEIRA DA SILVA",
+            "horario": "3M45 3T123",
+            "local": "CCS 604 (CCS)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+          "1104181"
+        ]
+      },
+      {
+        "id": "1610168",
+        "name": "ANATOMIA I",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1610168",
+            "turmaid": "01",
+            "nome": " ANATOMIA I",
+            "semester": "2018.2",
+            "professor": "THIAGO DE OLIVEIRA ASSIS",
+            "horario": "2T2345",
+            "local": "CCS 416 (CCS)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1610170",
+        "name": "HISTOLOGIA",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1610170",
+            "turmaid": "01",
+            "nome": " HISTOLOGIA",
+            "semester": "2018.2",
+            "professor": "FRANCISCO RUIDOMAR PEREIRA",
+            "horario": "5M345",
+            "local": "CCS 400 (CCS)"
+          },
+          {
+            "id": "1610170",
+            "turmaid": "02",
+            "nome": " HISTOLOGIA",
+            "semester": "2018.2",
+            "professor": "BRUNO MENDES TENORIO",
+            "horario": "5M345",
+            "local": "CCS (CCS)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1610171",
+        "name": "EMBRIOLOGIA",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "15h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1610171",
+            "turmaid": "01",
+            "nome": " EMBRIOLOGIA",
+            "semester": "2018.2",
+            "professor": "HUGO ENRIQUE MENDEZ GARCIA",
+            "horario": "3T4",
+            "local": "CCS 709 (CCS)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1614119",
+        "name": "HISTORIA E FUNDAMENTOS DA FISIOTERAPIA",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "30h aula 15h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1614119",
+            "turmaid": "02",
+            "nome": " HISTORIA E FUNDAMENTOS DA FISIOTERAPIA",
+            "semester": "2018.2",
+            "professor": "DAILTON ALENCAR LUCAS DE LACERDA",
+            "horario": "2M23 4T2",
+            "local": "CEFISIO (CCS)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1104148",
+        "name": "GENETICA E EVOLUCAO",
+        "category": "Optativa",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1401158",
+        "name": "SOCIOLOGIA DA SAUDE",
+        "category": "Optativa",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1403120",
+        "name": "LINGUA PORTUGUESA I",
+        "category": "Optativa",
+        "semester": 2,
+        "workload": "75h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1403120",
+            "turmaid": "01",
+            "nome": " LINGUA PORTUGUESA I",
+            "semester": "2018.2",
+            "professor": "ALVANIRA LUCIA DE BARROS",
+            "horario": "3T12345",
+            "local": "CCHLA 415 BLOCO I CENTRAL DE AULAS (CCHLA)"
+          },
+          {
+            "id": "1403120",
+            "turmaid": "02",
+            "nome": " LINGUA PORTUGUESA I",
+            "semester": "2018.2",
+            "professor": "ENEIDA MARTINS DE OLIVEIRA",
+            "horario": "5N1234 7N1",
+            "local": "AMBIENTE  Inglês Instrumental 11 (CCHLA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1611151",
+        "name": "MICROBIOLOGIA I",
+        "category": "Optativa",
+        "semester": 2,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1611177",
+        "name": "MICROBIOLOGIA",
+        "category": "Optativa",
+        "semester": 2,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1401140",
+        "name": "METODO  E TECNICAS DE PESQUISA",
+        "category": "Complementar Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1401140",
+            "turmaid": "01",
+            "nome": " METODO  E TECNICAS DE PESQUISA",
+            "semester": "2018.2",
+            "professor": "PAULO CEZAR DOS SANTOS CARDOSO",
+            "horario": "2M12 4M23",
+            "local": "CAE 102 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1610140",
+        "name": "NEUROANATOMIA",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1610140",
+            "turmaid": "01",
+            "nome": " NEUROANATOMIA",
+            "semester": "2018.2",
+            "professor": "ANA LUCIA BASILIO CARNEIRO e ANDRE DE SA BRAGA OLIVEIRA",
+            "horario": "4T1234",
+            "local": "CCS 301 (CCS)"
+          }
+        ],
+        "prerequisites": [
+          "1610168",
+          "1610106"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1610169",
+        "name": "ANATOMIA II",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1610169",
+            "turmaid": "01",
+            "nome": " ANATOMIA II",
+            "semester": "2018.2",
+            "professor": "IVSON BEZERRA DA SILVA",
+            "horario": "45M45",
+            "local": "CCS 419 (CCS)"
+          }
+        ],
+        "prerequisites": [
+          "1610168",
+          "1610106"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1611141",
+        "name": "PATOLOGIA GERAL",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1611141",
+            "turmaid": "03",
+            "nome": " PATOLOGIA GERAL",
+            "semester": "2018.2",
+            "professor": "IARA LEÃO LUNA DE SOUZA",
+            "horario": "2M345",
+            "local": "CCS 211 (CCS)"
+          }
+        ],
+        "prerequisites": [
+          "1104108"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1611172",
+        "name": "PARASITOLOGIA",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1611172",
+            "turmaid": "01",
+            "nome": " PARASITOLOGIA",
+            "semester": "2018.2",
+            "professor": "CRISTINE HIRSCH MONTEIRO",
+            "horario": "6M45",
+            "local": "CCS 209 (CCS)"
+          }
+        ],
+        "prerequisites": [
+          "1104108"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1611206",
+        "name": "FISIOLOGIA IX",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "90h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1611206",
+            "turmaid": "01",
+            "nome": " FISIOLOGIA IX",
+            "semester": "2018.2",
+            "professor": "MARIA REGINA DE FREITAS",
+            "horario": "356M23",
+            "local": "CCS 202 (CCS)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1614159",
+        "name": "ETICA BIOETICA E DEONT EM FISIOTERAPIA",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1614159",
+            "turmaid": "01",
+            "nome": " ETICA BIOETICA E DEONT EM FISIOTERAPIA",
+            "semester": "2018.2",
+            "professor": "PALLOMA RODRIGUES DE ANDRADE",
+            "horario": "3T12",
+            "local": "CL. ESCOLA (CCS)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1805111",
+        "name": "INTRODUCAO A SAUDE PUBLICA",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1805111",
+            "turmaid": "01",
+            "nome": " INTRODUCAO A SAUDE PUBLICA",
+            "semester": "2018.2",
+            "professor": "ANDRE LUIS BONIFACIO DE CARVALHO",
+            "horario": "3M45",
+            "local": "CCM GERAL 2 2º ANDAR (CCM)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1303103",
+        "name": "EDUCACAO DE EXCEPCIONAIS",
+        "category": "Optativa",
+        "semester": 3,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+          "1303250"
+        ]
+      },
+      {
+        "id": "1401104",
+        "name": "ANTROPOLOGIA CULTURAL",
+        "category": "Optativa",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1401134",
+        "name": "INTRODUCAO A SOCIOLOGIA",
+        "category": "Optativa",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1404138",
+        "name": "LINGUA INGLESA I",
+        "category": "Optativa",
+        "semester": 3,
+        "workload": "75h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1404138",
+            "turmaid": "01",
+            "nome": " LINGUA INGLESA I",
+            "semester": "2018.2",
+            "professor": "GREGÓRIO PEREIRA DE VASCONCELOS",
+            "horario": "35N34 6N1",
+            "local": "CAA 106 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+          "1404325"
+        ]
+      },
+      {
+        "id": "1611122",
+        "name": "FUNDAMENTOS DA HOMEOPATIA",
+        "category": "Optativa",
+        "semester": 3,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1611122",
+            "turmaid": "01",
+            "nome": " FUNDAMENTOS DA HOMEOPATIA",
+            "semester": "2018.2",
+            "professor": "MARIA DO SOCORRO SOUSA e DANIELLY ALBUQUERQUE DA COSTA",
+            "horario": "4T123",
+            "local": "NEPHF (CCS)"
+          },
+          {
+            "id": "1611122",
+            "turmaid": "02",
+            "nome": " FUNDAMENTOS DA HOMEOPATIA",
+            "semester": "2018.2",
+            "professor": "DANIELLY ALBUQUERQUE DA COSTA",
+            "horario": "3N123",
+            "local": "CTJ 106 (CT)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1108116",
+        "name": "ESTATISTICA VITAL",
+        "category": "Complementar Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1108116",
+            "turmaid": "02",
+            "nome": " ESTATISTICA VITAL",
+            "semester": "2018.2",
+            "professor": "RENATA PATRICIA LIMA JERONYMO MOREIRA PINTO",
+            "horario": "24T45",
+            "local": "CCENA 105 (CCEN)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1611173",
+        "name": "IMUNOLOGIA",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1611173",
+            "turmaid": "01",
+            "nome": " IMUNOLOGIA",
+            "semester": "2018.2",
+            "professor": "PRISCILLA ANNE CASTRO DE ASSIS",
+            "horario": "2T23",
+            "local": "CCS 209 (CCS)"
+          }
+        ],
+        "prerequisites": [
+          "1104108",
+          "1611206"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1614131",
+        "name": "SEMIOG E SEMIOTECNICA EM FISIOTERAPIA I",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "30h aula 15h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1614131",
+            "turmaid": "01A",
+            "nome": " SEMIOG E SEMIOTECNICA EM FISIOTERAPIA I",
+            "semester": "2018.2",
+            "professor": "THAIS JOSY CASTRO FREIRE DE ASSIS",
+            "horario": "5M45 6M4",
+            "local": "CCS 707 (CCS)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1614133",
+        "name": "RECURSOS TERAPEUTICOS MANUAIS I",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1614133",
+            "turmaid": "01",
+            "nome": " RECURSOS TERAPEUTICOS MANUAIS I",
+            "semester": "2018.2",
+            "professor": "ROGERIO MOREIRA DE ALMEIDA e VALÉRIA MAYALY ALVES DE OLIVEIRA",
+            "horario": "4M123",
+            "local": "LABRTM (CCS)"
+          }
+        ],
+        "prerequisites": [
+          "1610169",
+          "1611206",
+          "1610140"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1614135",
+        "name": "CINESIOLOGIA",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "75h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1614135",
+            "turmaid": "01",
+            "nome": " CINESIOLOGIA",
+            "semester": "2018.2",
+            "professor": "HELEODORIO HONORATO DOS SANTOS",
+            "horario": "3M123 4M45",
+            "local": "AMB ODONTO (CCS)"
+          }
+        ],
+        "prerequisites": [
+          "1610169",
+          "1611206",
+          "1610140"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1614136",
+        "name": "CINESIOTERAPIA I",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "30h aula 30h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1614136",
+            "turmaid": "01A",
+            "nome": " CINESIOTERAPIA I",
+            "semester": "2018.2",
+            "professor": "SUELLEN MARY DOS SANTOS ANDRADE",
+            "horario": "2M1 5M123",
+            "local": "CCS/LABINF (CCS)"
+          }
+        ],
+        "prerequisites": [
+          "1610169",
+          "1611206",
+          "1610140"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1614156",
+        "name": "BIOMECANICA",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1614156",
+            "turmaid": "01",
+            "nome": " BIOMECANICA",
+            "semester": "2018.2",
+            "professor": "HELEODORIO HONORATO DOS SANTOS",
+            "horario": "3T123",
+            "local": "CCS 707 (CCS)"
+          }
+        ],
+        "prerequisites": [
+          "1610169",
+          "1611206"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDESC0063",
+        "name": "EPIDEMIOLOGIA",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1609247",
+        "name": "EDUCACAO FISICA",
+        "category": "Optativa",
+        "semester": 4,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1609247",
+            "turmaid": "03",
+            "nome": " EDUCACAO FISICA",
+            "semester": "2018.2",
+            "professor": "LUCIANO KLOSTERMANN ANTUNES DE SOUZA",
+            "horario": "3T23",
+            "local": "GE 04 (CCS)"
+          },
+          {
+            "id": "1609247",
+            "turmaid": "05",
+            "nome": " EDUCACAO FISICA",
+            "semester": "2018.2",
+            "professor": "LUCIANO KLOSTERMANN ANTUNES DE SOUZA",
+            "horario": "5T23",
+            "local": "GE 04 (CCS)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1614164",
+        "name": "METODOS TERAPEUTICOS NATURAIS",
+        "category": "Optativa",
+        "semester": 4,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1614164",
+            "turmaid": "01",
+            "nome": " METODOS TERAPEUTICOS NATURAIS",
+            "semester": "2018.2",
+            "professor": "JUERILA MOREIRA BARRETO",
+            "horario": "2M45",
+            "local": "CCS 708 (CCS)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1614166",
+        "name": "GESTAO DE QUALIDADE EM SAUDE",
+        "category": "Optativa",
+        "semester": 4,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1614166",
+            "turmaid": "01",
+            "nome": " GESTAO DE QUALIDADE EM SAUDE",
+            "semester": "2018.2",
+            "professor": "STENIO MELO LINS DA COSTA",
+            "horario": "3T23",
+            "local": "CA FISIOT (CCS)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1611174",
+        "name": "FARMACOLOGIA",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1611174",
+            "turmaid": "01",
+            "nome": " FARMACOLOGIA",
+            "semester": "2018.2",
+            "professor": "NADJA DE AZEVEDO CORREIA",
+            "horario": "2M45",
+            "local": "CCS 202 (CCS)"
+          },
+          {
+            "id": "1611174",
+            "turmaid": "02",
+            "nome": " FARMACOLOGIA",
+            "semester": "2018.2",
+            "professor": "KARLA VERUSKA MARQUES CAVALCANTE DA COSTA",
+            "horario": "2M45",
+            "local": "CCS 208 (CCS)"
+          }
+        ],
+        "prerequisites": [
+          "1104119"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1614128",
+        "name": "ELETROTERAPIA",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1614128",
+            "turmaid": "01",
+            "nome": " ELETROTERAPIA",
+            "semester": "2018.2",
+            "professor": "PALLOMA RODRIGUES DE ANDRADE",
+            "horario": "3T345",
+            "local": "LABEXERTER (CCS)"
+          }
+        ],
+        "prerequisites": [
+          "1104101",
+          "1611206"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1614129",
+        "name": "TERMO E FOTOTERAPIA",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "45h aula 30h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1614129",
+            "turmaid": "02A",
+            "nome": " TERMO E FOTOTERAPIA",
+            "semester": "2018.2",
+            "professor": "CRISTINA KATYA TORRES TEIXEIRA MENDES",
+            "horario": "5M45 5T234",
+            "local": "EX.TERAP. (CCS)"
+          }
+        ],
+        "prerequisites": [
+          "1104101",
+          "1611206"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1614130",
+        "name": "HIDROTERAPIA",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "30h aula 15h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1614130",
+            "turmaid": "01A",
+            "nome": " HIDROTERAPIA",
+            "semester": "2018.2",
+            "professor": "PALLOMA RODRIGUES DE ANDRADE",
+            "horario": "4M234",
+            "local": "CCS 707 (CCS)"
+          }
+        ],
+        "prerequisites": [
+          "1104101",
+          "1611206"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1614132",
+        "name": "SEMIOG E SEMIOTECNICA EM FISIOTERAPIA II",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1614132",
+            "turmaid": "01",
+            "nome": " SEMIOG E SEMIOTECNICA EM FISIOTERAPIA II",
+            "semester": "2018.2",
+            "professor": "MARIA DE FATIMA ALCANTARA BARROS",
+            "horario": "5M123",
+            "local": "CCS 707 (CCS)"
+          }
+        ],
+        "prerequisites": [
+          "1614131"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1614134",
+        "name": "RECURSOS TERAPEUTICOS MANUAIS II",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1614134",
+            "turmaid": "01",
+            "nome": " RECURSOS TERAPEUTICOS MANUAIS II",
+            "semester": "2018.2",
+            "professor": "ROGERIO MOREIRA DE ALMEIDA",
+            "horario": "2T234",
+            "local": "LABRTM (CCS)"
+          }
+        ],
+        "prerequisites": [
+          "1614133"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1614137",
+        "name": "CINESIOTERAPIA II",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "45h aula 30h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1614137",
+            "turmaid": "01A",
+            "nome": " CINESIOTERAPIA II",
+            "semester": "2018.2",
+            "professor": "SUELLEN MARY DOS SANTOS ANDRADE",
+            "horario": "2M2 34T12",
+            "local": "LABCINESIO (CCS)"
+          }
+        ],
+        "prerequisites": [
+          "1614136"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1614153",
+        "name": "BIOINFORMATICA",
+        "category": "Complementar Obrigatória",
+        "semester": 4,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1614153",
+            "turmaid": "01",
+            "nome": " BIOINFORMATICA",
+            "semester": "2018.2",
+            "professor": "ELIANE ARAUJO DE OLIVEIRA",
+            "horario": "3M345",
+            "local": "CCS 110 (CCS)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1614123",
+        "name": "NOCOES DE RADIOLOGIA",
+        "category": "Optativa",
+        "semester": 5,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1614123",
+            "turmaid": "02",
+            "nome": " NOCOES DE RADIOLOGIA",
+            "semester": "2018.2",
+            "professor": "MARIANA MUNIZ NUNES",
+            "horario": "3M45",
+            "local": "EX.TERAP. (CCS)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1614163",
+        "name": "FISIOTERAPIA DERMATOFUNCIONAL",
+        "category": "Optativa",
+        "semester": 5,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1614163",
+            "turmaid": "01",
+            "nome": " FISIOTERAPIA DERMATOFUNCIONAL",
+            "semester": "2018.2",
+            "professor": "PALLOMA RODRIGUES DE ANDRADE",
+            "horario": "6M23",
+            "local": "CCS 707 (CCS)"
+          }
+        ],
+        "prerequisites": [
+          "1614132"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1405108",
+        "name": "INTRODUCAO A PSICOLOGIA",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1405108",
+            "turmaid": "01",
+            "nome": " INTRODUCAO A PSICOLOGIA",
+            "semester": "2018.2",
+            "professor": "SANDRA HELENA CAMPOS CARDOSO REIS",
+            "horario": "24M45",
+            "local": "CAG 106 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1611175",
+        "name": "FISIOLOGIA DO EXERCICIO FISICO",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1611175",
+            "turmaid": "01",
+            "nome": " FISIOLOGIA DO EXERCICIO FISICO",
+            "semester": "2018.2",
+            "professor": "VINICIUS JOSE BACCIN MARTINS",
+            "horario": "4M123",
+            "local": "CCS 202 (CCS)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1614126",
+        "name": "PROTESE E ORTESE",
+        "category": "Complementar Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1614126",
+            "turmaid": "02",
+            "nome": " PROTESE E ORTESE",
+            "semester": "2018.2",
+            "professor": "JOSE DIEGO SALES DO NASCIMENTO",
+            "horario": "3M23 5M34",
+            "local": "CL INFANTI (CCS)"
+          }
+        ],
+        "prerequisites": [
+          "1614135",
+          "1614156"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1614138",
+        "name": "FISIOPAT CLIN DO S OSTEOMIOARTICULAR",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1614138",
+            "turmaid": "02",
+            "nome": " FISIOPAT CLIN DO S OSTEOMIOARTICULAR",
+            "semester": "2018.2",
+            "professor": "SIMONE BEZERRA ALVES, JOSE DIEGO SALES DO NASCIMENTO, JOSE JAMACY DE ALMEIDA FERREIRA e VALÉRIA MAYALY ALVES DE OLIVEIRA",
+            "horario": "4T2345",
+            "local": "LABEXERTER (CCS)"
+          }
+        ],
+        "prerequisites": [
+          "1610169",
+          "1611206",
+          "1611141"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1614142",
+        "name": "FISIOT NAS DISF DO S OSTEOMIOARTICULAR",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "180h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1614142",
+            "turmaid": "01",
+            "nome": " FISIOT NAS DISF DO S OSTEOMIOARTICULAR",
+            "semester": "2018.2",
+            "professor": "JOSE JAMACY DE ALMEIDA FERREIRA",
+            "horario": "235T2345",
+            "local": "SALA INF. (CCS)"
+          },
+          {
+            "id": "1614142",
+            "turmaid": "02",
+            "nome": " FISIOT NAS DISF DO S OSTEOMIOARTICULAR",
+            "semester": "2018.2",
+            "professor": "SIMONE BEZERRA ALVES",
+            "horario": "235T2345",
+            "local": "FISIOINF (CCS)"
+          },
+          {
+            "id": "1614142",
+            "turmaid": "03",
+            "nome": " FISIOT NAS DISF DO S OSTEOMIOARTICULAR",
+            "semester": "2018.2",
+            "professor": "VALÉRIA MAYALY ALVES DE OLIVEIRA",
+            "horario": "235T2345",
+            "local": "CL INFANTI (CCS)"
+          },
+          {
+            "id": "1614142",
+            "turmaid": "04",
+            "nome": " FISIOT NAS DISF DO S OSTEOMIOARTICULAR",
+            "semester": "2018.2",
+            "professor": "JOSE DIEGO SALES DO NASCIMENTO",
+            "horario": "235T2345",
+            "local": "LAB FISIOT (CCS)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1402291",
+        "name": "ESTAGIO EXTRA CURRICULAR",
+        "category": "Optativa",
+        "semester": 6,
+        "workload": "75h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1612130",
+        "name": "NUTRICAO E ATIVIDADE FISICA",
+        "category": "Optativa",
+        "semester": 6,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1612130",
+            "turmaid": "01",
+            "nome": " NUTRICAO E ATIVIDADE FISICA",
+            "semester": "2018.2",
+            "professor": "ANA PAULA MORAES VENTURA e TALITA MARIA ALVES LOPES DA SILVA",
+            "horario": "2M45",
+            "local": "CCS 709 (CCS)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1614162",
+        "name": "TOPICOS EPECIAIS EM FISIOTERAPIA",
+        "category": "Optativa",
+        "semester": 6,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1614162",
+            "turmaid": "01",
+            "nome": " TOPICOS EPECIAIS EM FISIOTERAPIA",
+            "semester": "2018.2",
+            "professor": "MOEMA TEIXEIRA MAIA LEMOS",
+            "horario": "4T123",
+            "local": "LABRTM (CCS)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1614140",
+        "name": "FISIOPAT CLIN DO S RESP E CARD",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1614140",
+            "turmaid": "01",
+            "nome": " FISIOPAT CLIN DO S RESP E CARD",
+            "semester": "2018.2",
+            "professor": "RAFAELA PEDROSA, MARIA DO SOCORRO NUNES GADELHA e EDUARDO ERIKO TENORIO DE FRANCA",
+            "horario": "35M23",
+            "local": "CCS 708 (CCS)"
+          }
+        ],
+        "prerequisites": [
+          "1610169",
+          "1611206",
+          "1611141"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1614141",
+        "name": "FISIOPAT CLIN DO S GENITOURINARIO",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1614141",
+            "turmaid": "01",
+            "nome": " FISIOPAT CLIN DO S GENITOURINARIO",
+            "semester": "2018.2",
+            "professor": "JÂNIA DE FARIA NEVES",
+            "horario": "6M12",
+            "local": "CCS 710 (CCS)"
+          }
+        ],
+        "prerequisites": [
+          "1610169",
+          "1611206",
+          "1611141"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1614143",
+        "name": "FISIOT NAS DISF DO S GENITOURINARIO",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1614143",
+            "turmaid": "01",
+            "nome": " FISIOT NAS DISF DO S GENITOURINARIO",
+            "semester": "2018.2",
+            "professor": "ISABELLE EUNICE DE ALBUQUERQUE PONTES",
+            "horario": "4M2345",
+            "local": "CCS 708 (CCS)"
+          },
+          {
+            "id": "1614143",
+            "turmaid": "02",
+            "nome": " FISIOT NAS DISF DO S GENITOURINARIO",
+            "semester": "2018.2",
+            "professor": "JUERILA MOREIRA BARRETO",
+            "horario": "4M2345",
+            "local": "FISIOINF (CCS)"
+          },
+          {
+            "id": "1614143",
+            "turmaid": "03",
+            "nome": " FISIOT NAS DISF DO S GENITOURINARIO",
+            "semester": "2018.2",
+            "professor": "JÂNIA DE FARIA NEVES",
+            "horario": "4M2345",
+            "local": "CL INFANTI (CCS)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1614144",
+        "name": "FISIOT NAS DISFUNCOES DO S RESPIRATORIO",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "120h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1614144",
+            "turmaid": "01",
+            "nome": " FISIOT NAS DISFUNCOES DO S RESPIRATORIO",
+            "semester": "2018.2",
+            "professor": "MARIA DO SOCORRO NUNES GADELHA",
+            "horario": "2T12 3T234 5T345",
+            "local": "DEPFIS (CCS)"
+          },
+          {
+            "id": "1614144",
+            "turmaid": "02",
+            "nome": " FISIOT NAS DISFUNCOES DO S RESPIRATORIO",
+            "semester": "2018.2",
+            "professor": "EDUARDO ERIKO TENORIO DE FRANCA",
+            "horario": "2T12 3T234 5T345",
+            "local": "CCS/HU (CCS)"
+          },
+          {
+            "id": "1614144",
+            "turmaid": "03",
+            "nome": " FISIOT NAS DISFUNCOES DO S RESPIRATORIO",
+            "semester": "2018.2",
+            "professor": "RAFAELA PEDROSA",
+            "horario": "2T12 3T234 5T345",
+            "local": "HU (CCS)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1614145",
+        "name": "FISOT NAS DISFUNCOES DO S CARDIOVASCULAR",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "75h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1614145",
+            "turmaid": "01",
+            "nome": " FISOT NAS DISFUNCOES DO S CARDIOVASCULAR",
+            "semester": "2018.2",
+            "professor": "RAFAELA PEDROSA e EDUARDO ERIKO TENORIO DE FRANCA",
+            "horario": "2T34 3T1 5T12",
+            "local": "CCS 708 (CCS)"
+          },
+          {
+            "id": "1614145",
+            "turmaid": "02",
+            "nome": " FISOT NAS DISFUNCOES DO S CARDIOVASCULAR",
+            "semester": "2018.2",
+            "professor": "JOSE HERISTON DE MORAIS LIMA",
+            "horario": "2T34 3T1 5T12",
+            "local": "HU (CCS)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1614148",
+        "name": "FISIOTERAPIA NA SAUDE DO TRABALHADOR",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "90h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1614158",
+        "name": "BASES DA PSICOPATOLOGIA",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1614158",
+            "turmaid": "01",
+            "nome": " BASES DA PSICOPATOLOGIA",
+            "semester": "2018.2",
+            "professor": "JUERILA MOREIRA BARRETO",
+            "horario": "2M23",
+            "local": "CCS 708 (CCS)"
+          }
+        ],
+        "prerequisites": [
+          "1405108"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1401116",
+        "name": "CIENCIA SOC APL SAUDE I",
+        "category": "Optativa",
+        "semester": 7,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1601117",
+        "name": "ESTAGIO EXTRA CURRICULAR",
+        "category": "Optativa",
+        "semester": 7,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1614165",
+        "name": "INTRODUCAO A ACUPUNTURA",
+        "category": "Optativa",
+        "semester": 7,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1614167",
+        "name": "REEDUCACAO PSICOMOTORA",
+        "category": "Optativa",
+        "semester": 7,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1614167",
+            "turmaid": "01",
+            "nome": " REEDUCACAO PSICOMOTORA",
+            "semester": "2018.2",
+            "professor": "MARIA APARECIDA BEZERRA",
+            "horario": "5T345",
+            "local": "LABEXERTER (CCS)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1614139",
+        "name": "FISIOPAT CLIN DO S NERVOSO",
+        "category": "Obrigatória",
+        "semester": 7,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1614139",
+            "turmaid": "01",
+            "nome": " FISIOPAT CLIN DO S NERVOSO",
+            "semester": "2018.2",
+            "professor": "ISOLDA MARIA BARROS TORQUATO",
+            "horario": "45M45",
+            "local": "SALA INF. (CCS)"
+          }
+        ],
+        "prerequisites": [
+          "1610169",
+          "1611206",
+          "1611141"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1614146",
+        "name": "FISOT NAS DISFUNCOES DO S NERVOSO",
+        "category": "Obrigatória",
+        "semester": 7,
+        "workload": "180h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1614146",
+            "turmaid": "01",
+            "nome": " FISOT NAS DISFUNCOES DO S NERVOSO",
+            "semester": "2018.2",
+            "professor": "STENIO MELO LINS DA COSTA",
+            "horario": "245T2345",
+            "local": "CCS 707 (CCS)"
+          },
+          {
+            "id": "1614146",
+            "turmaid": "02",
+            "nome": " FISOT NAS DISFUNCOES DO S NERVOSO",
+            "semester": "2018.2",
+            "professor": "ADRIANA CARLA COSTA RIBEIRO CLEMENTINO",
+            "horario": "245T2345",
+            "local": "CL ESCOLA (CCS)"
+          },
+          {
+            "id": "1614146",
+            "turmaid": "03",
+            "nome": " FISOT NAS DISFUNCOES DO S NERVOSO",
+            "semester": "2018.2",
+            "professor": "ISOLDA MARIA BARROS TORQUATO",
+            "horario": "245T2345",
+            "local": "CL. ESCOLA (CCS)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1614147",
+        "name": "FISOTERAPIA NA SAUDE MATERNOINFANTIL",
+        "category": "Obrigatória",
+        "semester": 7,
+        "workload": "135h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1614147",
+            "turmaid": "01",
+            "nome": " FISOTERAPIA NA SAUDE MATERNOINFANTIL",
+            "semester": "2018.2",
+            "professor": "THAIS JOSY CASTRO FREIRE DE ASSIS",
+            "horario": "345M123",
+            "local": "CL. ESCOLA (CCS)"
+          },
+          {
+            "id": "1614147",
+            "turmaid": "02",
+            "nome": " FISOTERAPIA NA SAUDE MATERNOINFANTIL",
+            "semester": "2018.2",
+            "professor": "SANDRA MARIA CORDEIRO ROCHA DE CARVALHO",
+            "horario": "345M123",
+            "local": "HU B (CCS)"
+          },
+          {
+            "id": "1614147",
+            "turmaid": "03",
+            "nome": " FISOTERAPIA NA SAUDE MATERNOINFANTIL",
+            "semester": "2018.2",
+            "professor": "CRISTINA KATYA TORRES TEIXEIRA MENDES",
+            "horario": "345M123",
+            "local": "CL ESCOLA (CCS)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1614160",
+        "name": "CLINICA MATERNO INFANTIL",
+        "category": "Obrigatória",
+        "semester": 7,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1614160",
+            "turmaid": "01",
+            "nome": " CLINICA MATERNO INFANTIL",
+            "semester": "2018.2",
+            "professor": "SANDRA MARIA CORDEIRO ROCHA DE CARVALHO, THAIS JOSY CASTRO FREIRE DE ASSIS e CRISTINA KATYA TORRES TEIXEIRA MENDES",
+            "horario": "6M123",
+            "local": "CL INFANTI (CCS)"
+          }
+        ],
+        "prerequisites": [
+          "1610169",
+          "1611206",
+          "1611141"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1601120",
+        "name": "ESTAGIO EXTRA CURRICULAR",
+        "category": "Optativa",
+        "semester": 8,
+        "workload": "75h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1614173",
+        "name": "FISIOTERAPIA DESPORTIVA",
+        "category": "Optativa",
+        "semester": 8,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1614138"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1205003",
+        "name": "METODOLOGIA DO TRABALHO CIENTÍFICO",
+        "category": "Complementar Obrigatória",
+        "semester": 8,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1205003",
+            "turmaid": "01",
+            "nome": " METODOLOGIA DO TRABALHO CIENTÍFICO",
+            "semester": "2018.2",
+            "professor": "IZABEL FRANCA DE LIMA",
+            "horario": "2M2345",
+            "local": "CAD 111 (PRG)"
+          },
+          {
+            "id": "1401140",
+            "turmaid": "01",
+            "nome": " METODO  E TECNICAS DE PESQUISA",
+            "semester": "2018.2",
+            "professor": "PAULO CEZAR DOS SANTOS CARDOSO",
+            "horario": "2M12 4M23",
+            "local": "CAE 102 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+          "1401140",
+          "1709001",
+          "GDTH0036"
+        ]
+      },
+      {
+        "id": "1614100",
+        "name": "ADMINISTRACO EM FISIOTERAPIA",
+        "category": "Complementar Obrigatória",
+        "semester": 8,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1614100",
+            "turmaid": "01",
+            "nome": " ADMINISTRACO EM FISIOTERAPIA",
+            "semester": "2018.2",
+            "professor": "ROGERIO MOREIRA DE ALMEIDA",
+            "horario": "5T345",
+            "local": "CCS 708 (CCS)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1614149",
+        "name": "ESTAGIO I  GERONTOLOGIA",
+        "category": "Obrigatória",
+        "semester": 8,
+        "workload": "75h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1614149",
+            "turmaid": "01",
+            "nome": " ESTAGIO I  GERONTOLOGIA",
+            "semester": "2018.2",
+            "professor": "JÂNIA DE FARIA NEVES",
+            "horario": "2T123 4T23",
+            "local": "CCS 706 (CCS)"
+          },
+          {
+            "id": "1614149",
+            "turmaid": "02",
+            "nome": " ESTAGIO I  GERONTOLOGIA",
+            "semester": "2018.2",
+            "professor": "ELIANE ARAUJO DE OLIVEIRA",
+            "horario": "2T123 4T23",
+            "local": "CAMPO 1 (CCS)"
+          },
+          {
+            "id": "1614149",
+            "turmaid": "03",
+            "nome": " ESTAGIO I  GERONTOLOGIA",
+            "semester": "2018.2",
+            "professor": "MARIA APARECIDA BEZERRA",
+            "horario": "2T123 4T23",
+            "local": "CAMPO (CCS)"
+          }
+        ],
+        "prerequisites": [
+          "1614142",
+          "1614143",
+          "1614144",
+          "1614145",
+          "1614148",
+          "1614146",
+          "1614147"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1614150",
+        "name": "ESTAGIO II  SAUDE COLETIVA",
+        "category": "Obrigatória",
+        "semester": 8,
+        "workload": "135h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1614150",
+            "turmaid": "01",
+            "nome": " ESTAGIO II  SAUDE COLETIVA",
+            "semester": "2018.2",
+            "professor": "KATIA SUELY QUEIROZ SILVA RIBEIRO",
+            "horario": "35M234 4M345",
+            "local": "CAMPO 2 (CCS)"
+          },
+          {
+            "id": "1614150",
+            "turmaid": "02",
+            "nome": " ESTAGIO II  SAUDE COLETIVA",
+            "semester": "2018.2",
+            "professor": "DAILTON ALENCAR LUCAS DE LACERDA",
+            "horario": "35M234 4M345",
+            "local": "CAMPO (CCS)"
+          }
+        ],
+        "prerequisites": [
+          "1614142",
+          "1614143",
+          "1614144",
+          "1614145",
+          "1614148",
+          "1614146",
+          "1614147"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1614161",
+        "name": "BASES DA GERONTOLOGIA",
+        "category": "Obrigatória",
+        "semester": 8,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1614161",
+            "turmaid": "01",
+            "nome": " BASES DA GERONTOLOGIA",
+            "semester": "2018.2",
+            "professor": "MARIA APARECIDA BEZERRA",
+            "horario": "5T12",
+            "local": "CCS (CCS)"
+          }
+        ],
+        "prerequisites": [
+          "1610169",
+          "1611206",
+          "1611141"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1603126",
+        "name": "NOCOES PRIMEIROS SOCORROS",
+        "category": "Optativa",
+        "semester": 9,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1614151",
+        "name": "ESTAGIO III",
+        "category": "Obrigatória",
+        "semester": 9,
+        "workload": "345h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1614151",
+            "turmaid": "01",
+            "nome": " ESTAGIO III",
+            "semester": "2018.2",
+            "professor": "KAREN LUCIA DE ARAUJO FREITAS MOREIRA e ANTONIO GERALDO CIDRAO DE CARVALHO",
+            "horario": "2M123 3456M12345",
+            "local": "HU (CCS)"
+          },
+          {
+            "id": "1614151",
+            "turmaid": "02",
+            "nome": " ESTAGIO III",
+            "semester": "2018.2",
+            "professor": "KAREN LUCIA DE ARAUJO FREITAS MOREIRA e ROZELI FERREIRA LEVY",
+            "horario": "2M123 3456M12345",
+            "local": "HU 01 (CCS)"
+          },
+          {
+            "id": "1614151",
+            "turmaid": "03",
+            "nome": " ESTAGIO III",
+            "semester": "2018.2",
+            "professor": "MARIA CLAUDIA GATTO CARDIA e MOEMA TEIXEIRA MAIA LEMOS",
+            "horario": "2M123 3456M12345",
+            "local": "LABEXERTER (CCS)"
+          }
+        ],
+        "prerequisites": [
+          "1614142",
+          "1614143",
+          "1614144",
+          "1614145",
+          "1614148",
+          "1614146",
+          "1614147"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1614154",
+        "name": "TRABALHO DE CONCLUSAO DE CURSO TCC I",
+        "category": "Complementar Obrigatória",
+        "semester": 9,
+        "workload": "15h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1614154",
+            "turmaid": "01",
+            "nome": " TRABALHO DE CONCLUSAO DE CURSO TCC I",
+            "semester": "2018.2",
+            "professor": "ANTONIO GERALDO CIDRAO DE CARVALHO",
+            "horario": "6T1",
+            "local": "SALA INF. (CCS)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1614152",
+        "name": "ESTAGIO IV",
+        "category": "Obrigatória",
+        "semester": 10,
+        "workload": "345h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1614152",
+            "turmaid": "01",
+            "nome": " ESTAGIO IV",
+            "semester": "2018.2",
+            "professor": "SIMONE DOS SANTOS MACIEL, MARIA DO SOCORRO NUNES GADELHA e EDUARDO ERIKO TENORIO DE FRANCA",
+            "horario": "2M123 3456M12345",
+            "local": "UTIHU (CCS)"
+          },
+          {
+            "id": "1614152",
+            "turmaid": "02",
+            "nome": " ESTAGIO IV",
+            "semester": "2018.2",
+            "professor": "JOSE HERISTON DE MORAIS LIMA",
+            "horario": "2M123 3456M12345",
+            "local": "AMBULAT HU (CCS)"
+          },
+          {
+            "id": "1614152",
+            "turmaid": "03",
+            "nome": " ESTAGIO IV",
+            "semester": "2018.2",
+            "professor": "SORIANO DE SOUZA LIMA",
+            "horario": "2M123 3456M12345",
+            "local": "HU A (CCS)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1614155",
+        "name": "TRABALHO DE CONCLUSAO DE CURSO TCC II",
+        "category": "Complementar Obrigatória",
+        "semester": 10,
+        "workload": "15h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1614155",
+            "turmaid": "01",
+            "nome": " TRABALHO DE CONCLUSAO DE CURSO TCC II",
+            "semester": "2018.2",
+            "professor": "ANTONIO GERALDO CIDRAO DE CARVALHO",
+            "horario": "2T1",
+            "local": "SALA INF. (CCS)"
+          }
+        ],
+        "prerequisites": [
+          "1614154"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDFPT0104",
+        "name": " BIOSSEGURANÇA",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": "30h",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDFPT0104",
+            "turmaid": "01",
+            "nome": " BIOSSEGURANÇA",
+            "semester": "2018.2",
+            "professor": "GISELY MARIA FREIRE ABILIO DE CASTRO e DAVI FELIPE FARIAS",
+            "horario": "2T345",
+            "local": "CCS 208 (CCS)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1608199",
+        "name": " BIOSSEGURANÇA",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": "45h",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1608199",
+            "turmaid": "01",
+            "nome": " BIOSSEGURANÇA",
+            "semester": "2018.2",
+            "professor": "JOSE DAMIAO CHAVES BORBA",
+            "horario": "6T234",
+            "local": "CCS 805 (CCS)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDEMC0091",
+        "name": " ENSINO DE TÉCNICAS ÁUDIO EXPOSITIVAS",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": "45h",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDEMC0091",
+            "turmaid": "01",
+            "nome": " ENSINO DE TÉCNICAS ÁUDIO EXPOSITIVAS",
+            "semester": "2018.2",
+            "professor": "AURILENE JOSEFA CARTAXO GOMES DE ARRUDA",
+            "horario": "5T234",
+            "local": "CCS 604 (CCS)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1805106",
+        "name": " EPIDEMIOLOGIA",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": "45h",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1805106",
+            "turmaid": "01",
+            "nome": " EPIDEMIOLOGIA",
+            "semester": "2018.2",
+            "professor": "CLODOALDO DA SILVEIRA COSTA",
+            "horario": "5T123",
+            "local": "CCM P3 2º ANDAR (CCM)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+          "GDESC0063"
+        ]
+      },
+      {
+        "id": "1611207",
+        "name": " FITOTERAPIA I",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": "30h",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1611207",
+            "turmaid": "01",
+            "nome": " FITOTERAPIA I",
+            "semester": "2018.2",
+            "professor": "CLIMERIO AVELINO DE FIGUEIREDO",
+            "horario": "2M23",
+            "local": "NEPHF 2 (CCS)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1611201",
+        "name": " FUNDAMENTOS DA ACUPUNTURA",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": "30h",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1611201",
+            "turmaid": "01",
+            "nome": " FUNDAMENTOS DA ACUPUNTURA",
+            "semester": "2018.2",
+            "professor": "CLIMERIO AVELINO DE FIGUEIREDO",
+            "horario": "2M45",
+            "local": "NEPHF 2 (CCS)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1611182",
+        "name": " MCOP1  FITOTERAPIA I",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": "32h",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1611182",
+            "turmaid": "01",
+            "nome": " MCOP1  FITOTERAPIA I",
+            "semester": "2018.2",
+            "professor": "CLIMERIO AVELINO DE FIGUEIREDO",
+            "horario": "4M45 (22/11/2018 - 10/05/2019)",
+            "local": "NEPHF 2 (CCS)"
+          },
+          {
+            "id": "1611182",
+            "turmaid": "02",
+            "nome": " MCOP1  FITOTERAPIA I",
+            "semester": "2018.2",
+            "professor": "MARIA DO SOCORRO SOUSA e CLIMERIO AVELINO DE FIGUEIREDO",
+            "horario": "4M23 (22/11/2018 - 10/05/2019)",
+            "local": "NEPHF 2 (CCS)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1611189",
+        "name": " MCOP2 FITOTERAPIA II",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": "16h",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1611189",
+            "turmaid": "01",
+            "nome": " MCOP2 FITOTERAPIA II",
+            "semester": "2018.2",
+            "professor": "MARIA DO SOCORRO SOUSA e DANIELLY ALBUQUERQUE DA COSTA",
+            "horario": "6T12 (22/11/2018 - 10/05/2019)",
+            "local": "NEPHF (CCS)"
+          },
+          {
+            "id": "1611189",
+            "turmaid": "02",
+            "nome": " MCOP2 FITOTERAPIA II",
+            "semester": "2018.2",
+            "professor": "MARIA DO SOCORRO SOUSA e DANIELLY ALBUQUERQUE DA COSTA",
+            "horario": "2M45 (22/11/2018 - 10/05/2019)",
+            "local": "NEPHF (CCS)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1611183",
+        "name": " MCOP2  HOMEOPATIA",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": "32h",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1611183",
+            "turmaid": "01",
+            "nome": " MCOP2  HOMEOPATIA",
+            "semester": "2018.2",
+            "professor": "DANIELLY ALBUQUERQUE DA COSTA",
+            "horario": "3T45 (22/11/2018 - 10/05/2019)",
+            "local": "NEPHF (CCS)"
+          },
+          {
+            "id": "1611183",
+            "turmaid": "02",
+            "nome": " MCOP2  HOMEOPATIA",
+            "semester": "2018.2",
+            "professor": "MARIA DO SOCORRO SOUSA",
+            "horario": "4T45 (22/11/2018 - 10/05/2019)",
+            "local": "NEPHF (CCS)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDCFA0109",
+        "name": " TOPICOS ESPCECIAIS I",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": "15h",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDCFA0109",
+            "turmaid": "02",
+            "nome": " TOPICOS ESPCECIAIS I",
+            "semester": "2018.2",
+            "professor": "FRANKLIN DELANO SOARES FORTE, WALLERI CHRISTINI TORELLI REIS e GERALDO EDUARDO GUEDES DE BRITO",
+            "horario": "3T345",
+            "local": "DCF - AUDITÓRIO 1 (CCS)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      }
+    ]
+  }
+}

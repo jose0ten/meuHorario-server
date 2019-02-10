@@ -1,0 +1,1278 @@
+{
+  "curriculum": {
+    "id": "0722009",
+    "codigo": "1626837",
+    "name": "SISTEMAS DE INFORMAÇÃO - CCAE - Rio Tinto - Presencial - MT - BACHARELADO",
+    "faculty": "CENTRO DE CIÊNCIAS APLICADAS E EDUCAÇÃO (CCAE) (11.00.59)",
+    "minch": "255",
+    "maxch": "435",
+    "semesters": 8,
+    "courses": [
+      {
+        "id": "8101140",
+        "name": "LINGUA INGLESA II",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "8101120"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8103164",
+        "name": "TOP  ESPEC EM SISTEMAS DE INFORMACAO",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8103173",
+        "name": "COMPUTADORES E SOCIEDADE",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8105002",
+        "name": "PORTUGUES INSTRUMENTAL",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8105002",
+            "turmaid": "02",
+            "nome": " PORTUGUES INSTRUMENTAL",
+            "semester": "2018.2",
+            "professor": "MARIA JABERLÂNYE DA SILVA NELO",
+            "horario": "2T1234",
+            "local": "R.A-203 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8105031",
+        "name": "LIBRASLINGUA BRASILEIRA DE SINAIS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8101105",
+        "name": "INTRODUCAO A SOCIOLOGIA",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8101306",
+        "name": "METODOLOGIA CIENTÍFICA",
+        "category": "Complementar Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8103104",
+        "name": "INTRODUCAO A PROGRAMACAO",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8103104",
+            "turmaid": "02",
+            "nome": " INTRODUCAO A PROGRAMACAO",
+            "semester": "2018.2",
+            "professor": "IZABELLY SOARES DE MORAIS",
+            "horario": "25M23",
+            "local": "R.A-106 (CCAE) / R.A-205 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8103106",
+        "name": "INTRODUCAO AO COMPUTADOR",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8103108",
+        "name": "MATEMATICA ELEMENTAR",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8108108",
+        "name": "ADMINISTRAÇÃO I",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDCET0101",
+        "name": "LINGUAGEM DE PROGRAMAÇÃO DE ALTO DESENPENHO",
+        "category": "Optativa",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "8103104"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8101104",
+        "name": "INTRODUCAO A FILOSOFIA",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8101104",
+            "turmaid": "02",
+            "nome": " INTRODUCAO A FILOSOFIA",
+            "semester": "2018.2",
+            "professor": "CRISTIANO BONNEAU",
+            "horario": "2T1234",
+            "local": "R.E-202 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8103125",
+        "name": "LINGUAGEM DE PROGRAMACAO",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8103125",
+            "turmaid": "02",
+            "nome": " LINGUAGEM DE PROGRAMACAO",
+            "semester": "2018.2",
+            "professor": "AYLA DEBORA DANTAS DE SOUZA REBOUCAS",
+            "horario": "2M23 6M45",
+            "local": "R.E-201 (CCAE) / R.E-103 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+          "8103113",
+          "8103104"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8103126",
+        "name": "ARQUITETURA DE COMPUTADORES I",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8103126",
+            "turmaid": "02",
+            "nome": " ARQUITETURA DE COMPUTADORES I",
+            "semester": "2018.2",
+            "professor": "IRVIN SOARES BEZERRA",
+            "horario": "5M45 6M23",
+            "local": "R.E-103 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+          "8103114",
+          "8103106"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8103139",
+        "name": "LOGICA APLICADA A COMPUTACAO",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8103139",
+            "turmaid": "02",
+            "nome": " LOGICA APLICADA A COMPUTACAO",
+            "semester": "2018.2",
+            "professor": "THEREZA PATRICIA PEREIRA PADILHA",
+            "horario": "2M45 4M23",
+            "local": "R.A-203 (CCAE) / R.A-201 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+          "8103108"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8103140",
+        "name": "CALCULO DIFERENCIAL E INTEGRAL",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8103140",
+            "turmaid": "01",
+            "nome": " CALCULO DIFERENCIAL E INTEGRAL",
+            "semester": "2018.2",
+            "professor": "JOSE LAUDELINO DE MENEZES NETO",
+            "horario": "35M23",
+            "local": "R.E-104 (CCAE) / R.E-104 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8108109",
+        "name": "ADMINISTRAÇÃO II",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8108109",
+            "turmaid": "01",
+            "nome": " ADMINISTRAÇÃO II",
+            "semester": "2018.2",
+            "professor": "ELIANE MARTINS DE PAIVA",
+            "horario": "34M45",
+            "local": "R.A-202 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+          "8101130",
+          "8108108"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8101120",
+        "name": "LINGUA INGLESA I",
+        "category": "Optativa",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8103172",
+        "name": "TEORIA DE COMPUTACAO",
+        "category": "Optativa",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "8103139"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8105014",
+        "name": "LINGUA INGLESA I  SIST DA INF",
+        "category": "Optativa",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+          "8105003"
+        ]
+      },
+      {
+        "id": "8103138",
+        "name": "PROGRAMACAO ORIENTADA A OBJETOS",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "8103125",
+          "8103142"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8103141",
+        "name": "ALGORITMOS E ESTRUTURA DE DADOS I",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "8103125",
+          "8103142"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8103144",
+        "name": "ALGEBRA LINEAR E GEOMETRIA ANALITICA",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "8103140"
+        ],
+        "equivalences": [
+          "8103135",
+          "8103133"
+        ]
+      },
+      {
+        "id": "8103147",
+        "name": "PROBABILIDADE E ESTATISTICA",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "8103140"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8103169",
+        "name": "MODELAGEM DE DADOS",
+        "category": "Optativa",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8103169",
+            "turmaid": "01",
+            "nome": " MODELAGEM DE DADOS",
+            "semester": "2018.2",
+            "professor": "PASQUELINE DANTAS SCAICO",
+            "horario": "34M45",
+            "local": "R.C-202 (CCAE) / R.A-204 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+          "8103125",
+          "8103142"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDCET0100",
+        "name": "ANÁLISE DE DADOS I",
+        "category": "Optativa",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "8103147",
+          "8103125"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8101177",
+        "name": "INTRODUCAO A PSICOLOGIA",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8101177",
+            "turmaid": "01",
+            "nome": " INTRODUCAO A PSICOLOGIA",
+            "semester": "2018.2",
+            "professor": "GERALDO ALEXANDRE DE OLIVEIRA GOMES",
+            "horario": "24T12",
+            "local": "R.A-205 (CCAE) / R.A-201 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8103146",
+        "name": "ALGORITMOS E ESTRUTURA DE DADOS II",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8103146",
+            "turmaid": "01",
+            "nome": " ALGORITMOS E ESTRUTURA DE DADOS II",
+            "semester": "2018.2",
+            "professor": "WAGNER EMANOEL COSTA",
+            "horario": "25M23",
+            "local": "R.A-204 (CCAE) / R.A-203 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+          "8103141"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8103151",
+        "name": "ENGENHARIA DE SOFTWARE",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8103151",
+            "turmaid": "01",
+            "nome": " ENGENHARIA DE SOFTWARE",
+            "semester": "2018.2",
+            "professor": "SHEYLA NATALIA DE MEDEIROS",
+            "horario": "35T12",
+            "local": "R.E-202 (CCAE) / R.C-201 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+          "8103125",
+          "8103142"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8103154",
+        "name": "PARADIGMAS DE LINGUAGEM",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8103154",
+            "turmaid": "01",
+            "nome": " PARADIGMAS DE LINGUAGEM",
+            "semester": "2018.2",
+            "professor": "WAGNER EMANOEL COSTA",
+            "horario": "25M45",
+            "local": "R.A-203 (CCAE) / R.A-204 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+          "8103125",
+          "8103142"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8108113",
+        "name": "EMPREENDEDORISMO",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8108113",
+            "turmaid": "01",
+            "nome": " EMPREENDEDORISMO",
+            "semester": "2018.2",
+            "professor": "ELIANE MARTINS DE PAIVA",
+            "horario": "34M23",
+            "local": "R.A-202 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+          "8108110"
+        ]
+      },
+      {
+        "id": "GDCET0104",
+        "name": "TESTE DE SOFTWARE",
+        "category": "Optativa",
+        "semester": 5,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "8103151"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDCET0108",
+        "name": "DESENVOLVIMENTO DE SISTEMAS PARA DISPOSITIVOS MÓVEIS",
+        "category": "Optativa",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "8103138",
+          "8103146"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8101231",
+        "name": "ETICA PROFISSIONAL",
+        "category": "Complementar Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8103145",
+        "name": "PESQUISA APLIC A SISTEMAS DE INFORMACAO",
+        "category": "Complementar Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "8101306",
+          "8101107"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8103148",
+        "name": "BANCO DE DADOS I",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "8103141"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8103152",
+        "name": "REDES DE COMPUTADORES",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "8103126",
+          "8103143"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8103155",
+        "name": "ENGENHARIA DE SOFTWARE APLICADA",
+        "category": "Complementar Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "8103151"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8103215",
+        "name": "SISTEMAS OPERACIONAIS",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "8103126",
+          "8103143"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDCET0102",
+        "name": "ANÁLISE DE DADOS II",
+        "category": "Optativa",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "0100",
+          "8103108",
+          "8103148"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDCET0103",
+        "name": "TRABALHO DE CONCLUSÃO DE CURSO I",
+        "category": "Optativa",
+        "semester": 6,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "8103145"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8103149",
+        "name": "GERENCIA DE PROJETO DE SOFTWARE",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8103149",
+            "turmaid": "01",
+            "nome": " GERENCIA DE PROJETO DE SOFTWARE",
+            "semester": "2018.2",
+            "professor": "JOSE ADSON OLIVEIRA GUEDES DA CUNHA",
+            "horario": "2M23 4M45",
+            "local": "R.A-202 (CCAE) / R.A-203 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+          "8103151"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8103153",
+        "name": "BANCO DE DADOS II",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8103153",
+            "turmaid": "01",
+            "nome": " BANCO DE DADOS II",
+            "semester": "2018.2",
+            "professor": "RENATA VIEGAS DE FIGUEIREDO",
+            "horario": "4M23 5M45",
+            "local": "R.E-201 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+          "8103148"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8103156",
+        "name": "GERENCIA DE REDES DE COMPUTADORES",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8103156",
+            "turmaid": "01",
+            "nome": " GERENCIA DE REDES DE COMPUTADORES",
+            "semester": "2018.2",
+            "professor": "CARLOS EDUARDO SILVEIRA DIAS",
+            "horario": "34T12",
+            "local": "R.A-203 (CCAE) / R.A-202 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+          "8103152"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8103158",
+        "name": "AVALIACAO DE DESEMPENHO DE SISTEMAS",
+        "category": "Complementar Obrigatória",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8103158",
+            "turmaid": "01",
+            "nome": " AVALIACAO DE DESEMPENHO DE SISTEMAS",
+            "semester": "2018.2",
+            "professor": "MARCUS WILLIAMS AQUINO DE CARVALHO",
+            "horario": "26M45",
+            "local": "R.C-204 (CCAE) / R.A-205 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+          "8103147"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8103159",
+        "name": "INTERFACE COM O USUÁRIO",
+        "category": "Complementar Obrigatória",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8103159",
+            "turmaid": "01",
+            "nome": " INTERFACE COM O USUÁRIO",
+            "semester": "2018.2",
+            "professor": "SHEYLA NATALIA DE MEDEIROS",
+            "horario": "3M45 5M23",
+            "local": "R.E-202 (CCAE) / R.C-201 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+          "8103151"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8103217",
+        "name": "GESTÃO DA INF E DE SISTEMAS DE INF",
+        "category": "Complementar Obrigatória",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8103217",
+            "turmaid": "01",
+            "nome": " GESTÃO DA INF E DE SISTEMAS DE INF",
+            "semester": "2018.2",
+            "professor": "LUIZ MAURICIO FRAGA MARTINS",
+            "horario": "36M23",
+            "local": "R.A-204 (CCAE) / R.A-201 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+          "8101149",
+          "8108109"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8103219",
+        "name": "PROJETO AVANÇADO DE SOFTWARE I",
+        "category": "Complementar Obrigatória",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8103219",
+            "turmaid": "01",
+            "nome": " PROJETO AVANÇADO DE SOFTWARE I",
+            "semester": "2018.2",
+            "professor": "FABIO JORGE ALMEIDA MORAIS",
+            "horario": "26T12",
+            "local": "R.A-205 (CCAE) / R.A-201 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+          "8103155"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8103205",
+        "name": "INTRODUCAO A COMPILADORES",
+        "category": "Optativa",
+        "semester": 7,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "8103215",
+          "8103150"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8103221",
+        "name": "PROJETO AVANÇADO DE SOFTWARE II",
+        "category": "Optativa",
+        "semester": 7,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8103221",
+            "turmaid": "01",
+            "nome": " PROJETO AVANÇADO DE SOFTWARE II",
+            "semester": "2018.2",
+            "professor": "JULIANA DE ALBUQUERQUE GONCALVES SARAIVA",
+            "horario": "25M23",
+            "local": "R.E-201 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+          "8103219"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8105015",
+        "name": "LINGUA INGLESA II  SIST DA INF",
+        "category": "Optativa",
+        "semester": 7,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8103157",
+        "name": "INTELIG ARTIFICIAL E SIST ESPECIALISTAS",
+        "category": "Complementar Obrigatória",
+        "semester": 7,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8103157",
+            "turmaid": "01",
+            "nome": " INTELIG ARTIFICIAL E SIST ESPECIALISTAS",
+            "semester": "2018.2",
+            "professor": "YURI DE ALMEIDA MALHEIROS BARBOSA",
+            "horario": "35M45",
+            "local": "R.A-204 (CCAE) / R.E-103 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+          "8103139"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8103160",
+        "name": "SISTEMAS DE APOIO A GESTÃO",
+        "category": "Complementar Obrigatória",
+        "semester": 7,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8103160",
+            "turmaid": "01",
+            "nome": " SISTEMAS DE APOIO A GESTÃO",
+            "semester": "2018.2",
+            "professor": "LUIZ MAURICIO FRAGA MARTINS",
+            "horario": "6M45 3T12",
+            "local": "R.A-201 (CCAE) / R.A-202 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+          "8101149",
+          "8108109"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8103161",
+        "name": "SISTEMAS DISTRIBUIDOS",
+        "category": "Complementar Obrigatória",
+        "semester": 7,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8103161",
+            "turmaid": "01",
+            "nome": " SISTEMAS DISTRIBUIDOS",
+            "semester": "2018.2",
+            "professor": "MARCUS WILLIAMS AQUINO DE CARVALHO",
+            "horario": "6M23 2T12",
+            "local": "R.A-205 (CCAE) / R.A-204 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+          "8103152",
+          "8103215",
+          "8103150"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8103209",
+        "name": "AUDITORIA E SEGURANCA DE SISTEMAS",
+        "category": "Complementar Obrigatória",
+        "semester": 7,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8103209",
+            "turmaid": "01",
+            "nome": " AUDITORIA E SEGURANCA DE SISTEMAS",
+            "semester": "2018.2",
+            "professor": "CARLOS EDUARDO SILVEIRA DIAS",
+            "horario": "4M2345",
+            "local": "R.A-106 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+          "8103152"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8103218",
+        "name": "DESENVOLVIMENTOS DE SIST CORPORATIVOS",
+        "category": "Complementar Obrigatória",
+        "semester": 7,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8103218",
+            "turmaid": "01",
+            "nome": " DESENVOLVIMENTOS DE SIST CORPORATIVOS",
+            "semester": "2018.2",
+            "professor": "YURI DE ALMEIDA MALHEIROS BARBOSA",
+            "horario": "3M23 5T12",
+            "local": "R.A-204 (CCAE) / R.E-103 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+          "8103148"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8103220",
+        "name": "GESTÃO DA QUALIDADE DE SOFTWARE",
+        "category": "Complementar Obrigatória",
+        "semester": 7,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8103220",
+            "turmaid": "01",
+            "nome": " GESTÃO DA QUALIDADE DE SOFTWARE",
+            "semester": "2018.2",
+            "professor": "JOSE ADSON OLIVEIRA GUEDES DA CUNHA",
+            "horario": "2M45 4T12",
+            "local": "R.A-202 (CCAE) / R.A-201 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+          "8103151"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8103165",
+        "name": "T C C SISTEMAS DE INFORMACAO",
+        "category": "Complementar Obrigatória",
+        "semester": 8,
+        "workload": "60h aula 0h lab.",
+        "type": "TRABALHO DE CONCLUSÃO DE CURSO",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "8103149"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8103216",
+        "name": "ESTAGIO SUPERVISIONADO SIST INF",
+        "category": "Obrigatória",
+        "semester": 8,
+        "workload": "300h aula 0h lab.",
+        "type": "ESTÁGIO",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "8103151"
+        ],
+        "equivalences": [
+
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,1467 @@
+{
+  "curriculum": {
+    "id": "0312009",
+    "codigo": "1626836",
+    "name": "DESIGN - CCAE - Rio Tinto - Presencial - MT - BACHARELADO",
+    "faculty": "CENTRO DE CIÊNCIAS APLICADAS E EDUCAÇÃO (CCAE) (11.00.59)",
+    "minch": "300",
+    "maxch": "450",
+    "semesters": 8,
+    "courses": [
+      {
+        "id": "8104143",
+        "name": "ARTE E DESIGN CONTEMPORANEOS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8104165",
+        "name": "FUNDAMENTOS DO DESIGN DE MODA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8104166",
+        "name": "DESIGN DE EMBALAGENS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8104180",
+        "name": "TÓPICOS ESPECIAIS EM DESIGN 1",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8104181",
+        "name": "TÓPICOS ESPECIAIS EM DESIGN 2",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8104182",
+        "name": "TÓPICOS ESPECIAIS EM DESIGN 3",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8104185",
+        "name": "DESIGN BRASILEIRO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8104186",
+        "name": "FUNDAMENTOS DO DESIGN DE INTERIORES",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8104187",
+        "name": "HIGIENE E SEGURANÇA DO TRABALHO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8104188",
+        "name": "DESIGN E PRODUÇÃO GRÁFICA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8104189",
+        "name": "DESIGN INCLUSIVO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8104190",
+        "name": "COR APLICADA AO DESIGN DE PRODUTO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8105031",
+        "name": "LIBRASLINGUA BRASILEIRA DE SINAIS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8106034",
+        "name": "ARTE E DESIGN CONTEMPORÂNEOS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8106034",
+            "turmaid": "01",
+            "nome": " ARTE E DESIGN CONTEMPORÂNEOS",
+            "semester": "2018.2",
+            "professor": "LUCIENE LEHMKUHL",
+            "horario": "6M2345",
+            "local": "R.A-103 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+          "8106001",
+          "8106007"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8106035",
+        "name": "FUNDAMENTOS DE DESIGN DE INTERIORES",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8106036",
+        "name": "DESIGN DE EMBALAGENS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8106037",
+        "name": "FUNDAMENTOS DO DESIGN DE MODA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8106038",
+        "name": "HIGIENE E SEGURANÇA DO TRABALHO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8106039",
+        "name": "DESIGN E PRODUÇÃO GRÁFICA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8106039",
+            "turmaid": "01",
+            "nome": " DESIGN E PRODUÇÃO GRÁFICA",
+            "semester": "2018.2",
+            "professor": "RAISSA ALBUQUERQUE DOS ANJOS",
+            "horario": "6T1234",
+            "local": "RC 103 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+          "8106009",
+          "8106027"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8106040",
+        "name": "DESIGN INCLUSIVO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8106041",
+        "name": "DESIGN BRASILEIRO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8106042",
+        "name": "COR APLICADA AO DESIGN DE PRODUTO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8106042",
+            "turmaid": "01",
+            "nome": " COR APLICADA AO DESIGN DE PRODUTO",
+            "semester": "2018.2",
+            "professor": "RAISSA ALBUQUERQUE DOS ANJOS",
+            "horario": "5T12",
+            "local": "R.E-102 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8106043",
+        "name": "TÓPICOS ESPECIAIS EM DESIGN 1",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8106044",
+        "name": "TÓPICOS ESPECIAIS EM DESIGN 2",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8106045",
+        "name": "TÓPICOS ESPECIAIS EM DESIGN 3",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8106046",
+        "name": "ANTROPOLOGIA CULTURAL",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8108107",
+        "name": "COMPORTAMENTO DO CONSUMIDOR",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8101105",
+        "name": "INTRODUCAO A SOCIOLOGIA",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8103112",
+        "name": "FUNDAMENTOS DA GEOMETRIA",
+        "category": "Complementar Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8106001",
+        "name": "HISTÓRIA DA ARTE",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8106002",
+        "name": "DESENHO DE OBSERVAÇÃO 1",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8106003",
+        "name": "TEORIA E TÉCNICA DOS MATERIAIS",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8106026",
+        "name": "METODOLOGIA DO TRABALHO CIENTÍFICO",
+        "category": "Complementar Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8101104",
+        "name": "INTRODUCAO A FILOSOFIA",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8101104",
+            "turmaid": "03",
+            "nome": " INTRODUCAO A FILOSOFIA",
+            "semester": "2018.2",
+            "professor": "ANTONIO MANOEL ELIBIO JUNIOR",
+            "horario": "4T1234",
+            "local": "R.A-103 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8106004",
+        "name": "LINGUAGEM VISUAL",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8106004",
+            "turmaid": "01",
+            "nome": " LINGUAGEM VISUAL",
+            "semester": "2018.2",
+            "professor": "MYRLA LOPES TORRES",
+            "horario": "3M2345",
+            "local": "R.E-102 (CCAE)"
+          },
+          {
+            "id": "8106004",
+            "turmaid": "02",
+            "nome": " LINGUAGEM VISUAL",
+            "semester": "2018.2",
+            "professor": "DIOGO PONTES COSTA",
+            "horario": "3M2345",
+            "local": "R.A-206 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8106005",
+        "name": "GEOMETRIA DESCRITIVA",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8106005",
+            "turmaid": "01",
+            "nome": " GEOMETRIA DESCRITIVA",
+            "semester": "2018.2",
+            "professor": "WASHINGTON FERREIRA SILVA",
+            "horario": "6M2345",
+            "local": "R.F-101 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8106006",
+        "name": "DESENHO DE OBSERVAÇÃO 2",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8106006",
+            "turmaid": "01",
+            "nome": " DESENHO DE OBSERVAÇÃO 2",
+            "semester": "2018.2",
+            "professor": "FRANCISCO ISLARD ROCHA DE MOURA",
+            "horario": "2M2345",
+            "local": "R.F-101 (CCAE)"
+          },
+          {
+            "id": "8106006",
+            "turmaid": "02",
+            "nome": " DESENHO DE OBSERVAÇÃO 2",
+            "semester": "2018.2",
+            "professor": "DIOGO PONTES COSTA",
+            "horario": "2T1234",
+            "local": "R.F-101 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+          "8106002"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8106013",
+        "name": "PROJETO BÁSICO 1",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8106013",
+            "turmaid": "01",
+            "nome": " PROJETO BÁSICO 1",
+            "semester": "2018.2",
+            "professor": "KLEBER DA SILVA BARROS",
+            "horario": "5M2345",
+            "local": "R.E-102 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8106014",
+        "name": "LAB DE REPRESENTAÇÃO EM VOLUME 1",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8106014",
+            "turmaid": "01",
+            "nome": " LAB DE REPRESENTAÇÃO EM VOLUME 1",
+            "semester": "2018.2",
+            "professor": "LEONARDO DE SANTOS NASCIMENTO",
+            "horario": "4M2345",
+            "local": "RB 102 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8106007",
+        "name": "HISTÓRIA DO DESIGN",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8106008",
+        "name": "DESENHO PROJETIVO 1",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "8106005"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8106009",
+        "name": "INTRODUÇÃO À COMPUTAÇÃO GRÁFICA",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8106015",
+        "name": "PROJETO BÁSICO 2",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "8106013"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8106016",
+        "name": "LAB DE REPRESENTAÇÃO EM VOLUME 2",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "8106014"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8106027",
+        "name": "LAB DE REPRESENTAÇÃO GRÁFICA",
+        "category": "Complementar Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8101269",
+        "name": "COMPORTAMENTO DO CONSUMIDOR",
+        "category": "Optativa",
+        "semester": 4,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8106010",
+        "name": "ERGONOMIA",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8106010",
+            "turmaid": "01",
+            "nome": " ERGONOMIA",
+            "semester": "2018.2",
+            "professor": "ANGELICA DE SOUZA GALDINO ACIOLY",
+            "horario": "5M2345",
+            "local": "R.A-103 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8106011",
+        "name": "ESTÉTICA",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8106011",
+            "turmaid": "01",
+            "nome": " ESTÉTICA",
+            "semester": "2018.2",
+            "professor": "LUCIENE LEHMKUHL",
+            "horario": "4M2345",
+            "local": "R.A-103 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+          "8106001",
+          "8106007"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8106012",
+        "name": "DESENHO PROJETIVO 2",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8106012",
+            "turmaid": "01",
+            "nome": " DESENHO PROJETIVO 2",
+            "semester": "2018.2",
+            "professor": "FRANCISCO ISLARD ROCHA DE MOURA",
+            "horario": "3M2345",
+            "local": "R.F-101 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+          "8106008"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8106017",
+        "name": "PROJETO DO PRODUTO 1",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8106017",
+            "turmaid": "01",
+            "nome": " PROJETO DO PRODUTO 1",
+            "semester": "2018.2",
+            "professor": "WASHINGTON FERREIRA SILVA",
+            "horario": "4T1234",
+            "local": "R.E-101 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+          "8106015"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8106018",
+        "name": "LAB DE REPRESENTAÇÃO EM VOLUME 3",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8106018",
+            "turmaid": "01",
+            "nome": " LAB DE REPRESENTAÇÃO EM VOLUME 3",
+            "semester": "2018.2",
+            "professor": "LEONARDO DE SANTOS NASCIMENTO",
+            "horario": "2M2345",
+            "local": "RB 102 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+          "8106016"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8103225",
+        "name": "ESTATISTICA APLICADA AO DESIGN",
+        "category": "Complementar Obrigatória",
+        "semester": 5,
+        "workload": "45h aula 3h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8106019",
+        "name": "PROJETO DO PRODUTO 2",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "8106017"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8106020",
+        "name": "MODELAGEM DIGITAL",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "8106012"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8106028",
+        "name": "FOTOGRAFIA",
+        "category": "Complementar Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8106029",
+        "name": "TEORIA DA FABRICAÇÃO",
+        "category": "Complementar Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8101336",
+        "name": "MARKETING",
+        "category": "Complementar Obrigatória",
+        "semester": 6,
+        "workload": "60h aula 4h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8106021",
+        "name": "PROJETO DO PRODUTO 3",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8106021",
+            "turmaid": "01",
+            "nome": " PROJETO DO PRODUTO 3",
+            "semester": "2018.2",
+            "professor": "RAISSA ALBUQUERQUE DOS ANJOS",
+            "horario": "5M2345",
+            "local": "R.E-101 (CCAE)"
+          },
+          {
+            "id": "8106021",
+            "turmaid": "02",
+            "nome": " PROJETO DO PRODUTO 3",
+            "semester": "2018.2",
+            "professor": "MYRLA LOPES TORRES",
+            "horario": "5M2345",
+            "local": "RC 103 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+          "8106019"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8106023",
+        "name": "ESTÁGIO SUPERVISIONADO 1  DESIGN",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8106023",
+            "turmaid": "02",
+            "nome": " ESTÁGIO SUPERVISIONADO 1  DESIGN",
+            "semester": "2018.2",
+            "professor": "DIOGO PONTES COSTA",
+            "horario": "2M234",
+            "local": "R.E-102 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8106030",
+        "name": "GESTÃO DA PRODUÇÃO",
+        "category": "Complementar Obrigatória",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8106031",
+        "name": "DESIGN E DESENVOLVIMENTO SUSTENTÁVEL",
+        "category": "Complementar Obrigatória",
+        "semester": 6,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8106031",
+            "turmaid": "01",
+            "nome": " DESIGN E DESENVOLVIMENTO SUSTENTÁVEL",
+            "semester": "2018.2",
+            "professor": "KLEBER DA SILVA BARROS",
+            "horario": "3M234",
+            "local": "R.E-101 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8106022",
+        "name": "GESTÃO DO DESIGN E PRÁTICA PROFISSIONAL",
+        "category": "Obrigatória",
+        "semester": 7,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8106022",
+            "turmaid": "01",
+            "nome": " GESTÃO DO DESIGN E PRÁTICA PROFISSIONAL",
+            "semester": "2018.2",
+            "professor": "MARIVALDO WAGNER DE SOUSA SILVA",
+            "horario": "5T1234",
+            "local": "R.E-101 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8106024",
+        "name": "ESTÁGIO SUPERVISIONADO 2  DESIGN",
+        "category": "Obrigatória",
+        "semester": 7,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8106024",
+            "turmaid": "01",
+            "nome": " ESTÁGIO SUPERVISIONADO 2  DESIGN",
+            "semester": "2018.2",
+            "professor": "GUSTAVO DE FIGUEIREDO BRITO",
+            "horario": "3M2345",
+            "local": "RC 103 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8106032",
+        "name": "PESQUISA APLICADA AO DESIGN",
+        "category": "Complementar Obrigatória",
+        "semester": 7,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8106032",
+            "turmaid": "01",
+            "nome": " PESQUISA APLICADA AO DESIGN",
+            "semester": "2018.2",
+            "professor": "GUSTAVO DE FIGUEIREDO BRITO",
+            "horario": "2M56 2T1",
+            "local": "RC 103 (CCAE)"
+          },
+          {
+            "id": "8106032",
+            "turmaid": "03",
+            "nome": " PESQUISA APLICADA AO DESIGN",
+            "semester": "2018.2",
+            "professor": "GUSTAVO DE FIGUEIREDO BRITO",
+            "horario": "2M234",
+            "local": "RC 103 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+          "8106026"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8108103",
+        "name": "EMPREENDEDORISMO",
+        "category": "Complementar Obrigatória",
+        "semester": 7,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8108103",
+            "turmaid": "01",
+            "nome": " EMPREENDEDORISMO",
+            "semester": "2018.2",
+            "professor": "NIVEA MARCELA MARQUES NASCIMENTO DE MACEDO",
+            "horario": "4T123",
+            "local": "R.A-206 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8108104",
+        "name": "LEGISLAÇÃO E NORMAS",
+        "category": "Complementar Obrigatória",
+        "semester": 7,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8108104",
+            "turmaid": "01",
+            "nome": " LEGISLAÇÃO E NORMAS",
+            "semester": "2018.2",
+            "professor": "LUIZ MARCELO MARTINS DO AMARAL CARNEIRO CABRAL",
+            "horario": "4M345",
+            "local": "R.E-102 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8101146",
+        "name": "ETICA PROFISSIONAL",
+        "category": "Complementar Obrigatória",
+        "semester": 8,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+          "GDTH0044"
+        ]
+      },
+      {
+        "id": "8106025",
+        "name": "ESTÁGIO SUPERVISIONADO 3  DESIGN",
+        "category": "Obrigatória",
+        "semester": 8,
+        "workload": "165h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8106025",
+            "turmaid": "01",
+            "nome": " ESTÁGIO SUPERVISIONADO 3  DESIGN",
+            "semester": "2018.2",
+            "professor": "KLEBER DA SILVA BARROS",
+            "horario": "7M123456 7T12345",
+            "local": "R.E-101 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8106033",
+        "name": "TCC TRAB DE CONCL DE CURSO  DESIGN",
+        "category": "Complementar Obrigatória",
+        "semester": 8,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8106033",
+            "turmaid": "01",
+            "nome": " TCC TRAB DE CONCL DE CURSO  DESIGN",
+            "semester": "2018.2",
+            "professor": "ANGELICA DE SOUZA GALDINO ACIOLY",
+            "horario": "3M234",
+            "local": "R.A-103 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+          "8106032"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8108106",
+        "name": " GESTÃO DA PRODUÇÃO",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": "60h",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8108106",
+            "turmaid": "01",
+            "nome": " GESTÃO DA PRODUÇÃO",
+            "semester": "2018.2",
+            "professor": "NIVEA MARCELA MARQUES NASCIMENTO DE MACEDO",
+            "horario": "4M2345",
+            "local": "R.E-101 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8108105",
+        "name": " MARKETING",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": "60h",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8108105",
+            "turmaid": "01",
+            "nome": " MARKETING",
+            "semester": "2018.2",
+            "professor": "ROSIELE FERNANDES PINTO",
+            "horario": "4T1234",
+            "local": "R.E-102 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      }
+    ]
+  }
+}

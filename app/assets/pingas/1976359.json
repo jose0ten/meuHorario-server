@@ -1,0 +1,1150 @@
+{
+  "curriculum": {
+    "id": "672012",
+    "codigo": "1976359",
+    "name": "GASTRONOMIA - João Pessoa - Presencial - MT - BACHARELADO",
+    "faculty": "CENTRO DE TECNOLOGIA E DESENVOLVIMENTO REGIONAL (CTDR) (11.00.62)",
+    "minch": "240",
+    "maxch": "420",
+    "semesters": 8,
+    "courses": [
+      {
+        "id": "1403747",
+        "name": "LIBRAS  LÍNGUA BRASILEIRA DE SINAIS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1904009",
+        "name": "COZINHA PARAIBANA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1904010",
+        "name": "ANÁLISE SENSORIAL  DE ALIMEN E BEBIDAS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1904010",
+            "turmaid": "01",
+            "nome": " ANÁLISE SENSORIAL  DE ALIMEN E BEBIDAS",
+            "semester": "2018.2",
+            "professor": "RENATA ANGELA GUIMARAES PEREIRA",
+            "horario": "4M2345",
+            "local": "CTDR B106 (CTDR)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1904026",
+        "name": "GASTRONOMIA ALTERNATIVA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1904033",
+        "name": "TECNOLOGIA DE LEITE E OVOS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDGAS0039",
+        "name": "TECNOLOGIA DE CARNES E PESCADOS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDGAS0040",
+        "name": "TECNOLOGIA DE PRODUTOS DE ORIGEM VEGETAL",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDGAS0052",
+        "name": "TOPICOS ESPECIAIS EM GASTRONOMIA I",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDGAS0053",
+        "name": "TOPICOS ESPECIAIS EM GASTRONOMIA II",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDGAS0054",
+        "name": "CONTABILIDADE GERENCIAL",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1401134",
+        "name": "INTRODUCAO A SOCIOLOGIA",
+        "category": "Complementar Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1401134",
+            "turmaid": "06",
+            "nome": " INTRODUCAO A SOCIOLOGIA",
+            "semester": "2018.2",
+            "professor": "ANTONIO GIOVANNI BOAES GONCALVES",
+            "horario": "3T1234",
+            "local": "CTDR C106 (CTDR)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1404325",
+        "name": "LINGUA INGLESA INSTRUMENTAL I",
+        "category": "Complementar Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1404325",
+            "turmaid": "03",
+            "nome": " LINGUA INGLESA INSTRUMENTAL I",
+            "semester": "2018.2",
+            "professor": "A DEFINIR",
+            "horario": "35N34",
+            "local": "CAD 102 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1904001",
+        "name": "BROMATOLOGIA",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1904001",
+            "turmaid": "01",
+            "nome": " BROMATOLOGIA",
+            "semester": "2018.2",
+            "professor": "MAKARENNA DEL CARMEN CHAVES PORTUGAL ZEGARRA",
+            "horario": "3M2345",
+            "local": "CTDR B104 (CTDR)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1904002",
+        "name": "HISTÓRIA DA ALIMENTAÇÃO",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1904002",
+            "turmaid": "01",
+            "nome": " HISTÓRIA DA ALIMENTAÇÃO",
+            "semester": "2018.2",
+            "professor": "INGRID CONCEICAO DANTAS GUERRA",
+            "horario": "4M45",
+            "local": "CTDR B104 (CTDR)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1904003",
+        "name": "SEGURANÇA E HIGIENE DO TRABALHO",
+        "category": "Complementar Obrigatória",
+        "semester": 1,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1904003",
+            "turmaid": "01",
+            "nome": " SEGURANÇA E HIGIENE DO TRABALHO",
+            "semester": "2018.2",
+            "professor": "ROGERIO PAODJUENAS",
+            "horario": "2M23",
+            "local": "CTDR B104 (CTDR)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1904004",
+        "name": "INTRODUÇÃO À ALIMENTOS",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1904004",
+            "turmaid": "01",
+            "nome": " INTRODUÇÃO À ALIMENTOS",
+            "semester": "2018.2",
+            "professor": "ESTEFANIA FERNANDES GARCIA",
+            "horario": "6M2345",
+            "local": "CTDR B104 (CTDR)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1904032",
+        "name": "INTRODUÇÃO A ADMINISTRAÇÃO",
+        "category": "Complementar Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1904032",
+            "turmaid": "01",
+            "nome": " INTRODUÇÃO A ADMINISTRAÇÃO",
+            "semester": "2018.2",
+            "professor": "ROGERIO PAODJUENAS",
+            "horario": "5M2345",
+            "local": "CTDR B104 (CTDR)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1404326",
+        "name": "LÍNGUA INGLESA INSTRUMENTAL II",
+        "category": "Complementar Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+          "1404177"
+        ]
+      },
+      {
+        "id": "1904005",
+        "name": "MICROBIOLOGIA DOS ALIMENTOS",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1904005",
+            "turmaid": "01",
+            "nome": " MICROBIOLOGIA DOS ALIMENTOS",
+            "semester": "2018.2",
+            "professor": "PATRICIA PINHEIRO FERNANDES VIEIRA",
+            "horario": "2M2345",
+            "local": "CTDR B105 (CTDR)"
+          }
+        ],
+        "prerequisites": [
+          "1904004"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1904006",
+        "name": "MÉTODOS E TÉCNICAS DE CONSERVAÇÃO DE ALIMENTOS",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1904006",
+            "turmaid": "01",
+            "nome": " MÉTODOS E TÉCNICAS DE CONSERVAÇÃO DE ALIMENTOS",
+            "semester": "2018.2",
+            "professor": "RENATA ANGELA GUIMARAES PEREIRA",
+            "horario": "3M2345",
+            "local": "CTDR B105 (CTDR)"
+          }
+        ],
+        "prerequisites": [
+          "1904004"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1904007",
+        "name": "HABILIDADES BÁSICAS DE COZINHA",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1904007",
+            "turmaid": "01",
+            "nome": " HABILIDADES BÁSICAS DE COZINHA",
+            "semester": "2018.2",
+            "professor": "JULIANO SEBASTIAO GONCALVES PEREIRA",
+            "horario": "4M2345",
+            "local": "CTDR B105 (CTDR)"
+          }
+        ],
+        "prerequisites": [
+          "1904004"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1904008",
+        "name": "HIGIENE E SEGURANÇA DOS ALIMENTOS",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1904008",
+            "turmaid": "01",
+            "nome": " HIGIENE E SEGURANÇA DOS ALIMENTOS",
+            "semester": "2018.2",
+            "professor": "NOADIA PRISCILA ARAUJO RODRIGUES",
+            "horario": "2T12",
+            "local": "CTDR B104 (CTDR)"
+          }
+        ],
+        "prerequisites": [
+          "1904004"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1904017",
+        "name": "METODOLOGIA DO TRABALHO CIENTÍFICO",
+        "category": "Complementar Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1904017",
+            "turmaid": "01",
+            "nome": " METODOLOGIA DO TRABALHO CIENTÍFICO",
+            "semester": "2018.2",
+            "professor": "MAKARENNA DEL CARMEN CHAVES PORTUGAL ZEGARRA",
+            "horario": "4T1234",
+            "local": "CTDR B108 (CTDR)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1904012",
+        "name": "COZINHA BRASILEIRA I",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1904012",
+            "turmaid": "01",
+            "nome": " COZINHA BRASILEIRA I",
+            "semester": "2018.2",
+            "professor": "VITOR HUGO ROCHA DE VASCONCELOS",
+            "horario": "5M2345",
+            "local": "CTDR C106 (CTDR)"
+          }
+        ],
+        "prerequisites": [
+          "1904007",
+          "1904006"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1904021",
+        "name": "QUÍMICA CULINÁRIA",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1904021",
+            "turmaid": "01",
+            "nome": " QUÍMICA CULINÁRIA",
+            "semester": "2018.2",
+            "professor": "INGRID CONCEICAO DANTAS GUERRA",
+            "horario": "6M2345",
+            "local": "CTDR B106 (CTDR)"
+          }
+        ],
+        "prerequisites": [
+          "1904001",
+          "1904007"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1904022",
+        "name": "COZINHA CLÁSSICA I",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1904022",
+            "turmaid": "01",
+            "nome": " COZINHA CLÁSSICA I",
+            "semester": "2018.2",
+            "professor": "JULIANO SEBASTIAO GONCALVES PEREIRA",
+            "horario": "3M2345",
+            "local": "CTDR B106 (CTDR)"
+          }
+        ],
+        "prerequisites": [
+          "1904007",
+          "1904006"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1904023",
+        "name": "PLANEJAMENTO FÍSICO E ORGANIZACIONAL DOS SERVIÇOS DE ALIMENTAÇÃO",
+        "category": "Complementar Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1904023",
+            "turmaid": "01",
+            "nome": " PLANEJAMENTO FÍSICO E ORGANIZACIONAL DOS SERVIÇOS DE ALIMENTAÇÃO",
+            "semester": "2018.2",
+            "professor": "ANA EMILIA DA COSTA VIEIRA",
+            "horario": "2M2345",
+            "local": "CTDR B106 (CTDR)"
+          }
+        ],
+        "prerequisites": [
+          "1904007"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1904024",
+        "name": "ECONOMIA APLICADA À GASTRONOMIA",
+        "category": "Complementar Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1904024",
+            "turmaid": "01",
+            "nome": " ECONOMIA APLICADA À GASTRONOMIA",
+            "semester": "2018.2",
+            "professor": "VALERIA LOUISE DE ARAUJO MARANHAO SATURNINO SILVA",
+            "horario": "5T1234",
+            "local": "CTDR B104 (CTDR)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1904025",
+        "name": "PESQUISA APLICADA À GASTRONOMIA",
+        "category": "Complementar Obrigatória",
+        "semester": 3,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1904025",
+            "turmaid": "01",
+            "nome": " PESQUISA APLICADA À GASTRONOMIA",
+            "semester": "2018.2",
+            "professor": "INGRID CONCEICAO DANTAS GUERRA",
+            "horario": "2T12",
+            "local": "CTDR B108 (CTDR)"
+          }
+        ],
+        "prerequisites": [
+          "1904017"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1403153",
+        "name": "PORTUGUÊS INSTRUMENTAL",
+        "category": "Complementar Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1403153",
+            "turmaid": "01",
+            "nome": " PORTUGUÊS INSTRUMENTAL",
+            "semester": "2018.2",
+            "professor": "MARIA DE FATIMA ALMEIDA",
+            "horario": "3T1234",
+            "local": "CCHLA 414 BLOCO I CENTRAL DE AULAS (CCHLA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1904027",
+        "name": "PLANEJAMENTO DE CARDÁPIOS",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1904027",
+            "turmaid": "01",
+            "nome": " PLANEJAMENTO DE CARDÁPIOS",
+            "semester": "2018.2",
+            "professor": "NOADIA PRISCILA ARAUJO RODRIGUES",
+            "horario": "5M2345",
+            "local": "CTDR B107 (CTDR)"
+          }
+        ],
+        "prerequisites": [
+          "1904023"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1904028",
+        "name": "COZINHA BRASILEIRA II",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1904028",
+            "turmaid": "01",
+            "nome": " COZINHA BRASILEIRA II",
+            "semester": "2018.2",
+            "professor": "VITOR HUGO ROCHA DE VASCONCELOS",
+            "horario": "3M2345",
+            "local": "CTDR B107 (CTDR)"
+          }
+        ],
+        "prerequisites": [
+          "1904012"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1904029",
+        "name": "COZINHA CLÁSSICA II",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1904029",
+            "turmaid": "01",
+            "nome": " COZINHA CLÁSSICA II",
+            "semester": "2018.2",
+            "professor": "ESTER FERNANDES CARVALHO",
+            "horario": "6M2345",
+            "local": "CTDR B107 (CTDR)"
+          }
+        ],
+        "prerequisites": [
+          "1904022"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1904030",
+        "name": "GESTÃO DE PESSOAS",
+        "category": "Complementar Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1904030",
+            "turmaid": "01",
+            "nome": " GESTÃO DE PESSOAS",
+            "semester": "2018.2",
+            "professor": "VALERIA LOUISE DE ARAUJO MARANHAO SATURNINO SILVA",
+            "horario": "4M2345",
+            "local": "CTDR B107 (CTDR)"
+          }
+        ],
+        "prerequisites": [
+          "1904032"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1904031",
+        "name": "EMPREENDEDORISMO",
+        "category": "Complementar Obrigatória",
+        "semester": 4,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1904031",
+            "turmaid": "01",
+            "nome": " EMPREENDEDORISMO",
+            "semester": "2018.2",
+            "professor": "MARIA DOS REMEDIOS ANTUNES MAGALHAES",
+            "horario": "5T12",
+            "local": "CTDR B108 (CTDR)"
+          }
+        ],
+        "prerequisites": [
+          "1904032"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDGAS0034",
+        "name": "BEBIDAS E ENOGASTRONOMIA",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDGAS0035",
+        "name": "MARKETING",
+        "category": "Complementar Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1904031"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDGAS0036",
+        "name": "BANQUETES E EVENTOS",
+        "category": "Complementar Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1904023",
+          "1904027"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDGAS0037",
+        "name": "ESTAGIO SUPERVISIONADO I",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "0h aula 90h lab.",
+        "type": "ESTÁGIO",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1904007"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDGAS0038",
+        "name": "CONFEITARIA E DOÇARIA",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1904021",
+          "1904004"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDGAS0041",
+        "name": "ESTÁGIO SUPERVISIONADO II",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "0h aula 90h lab.",
+        "type": "ESTÁGIO",
+        "turmas": [
+          {
+            "id": "GDGAS0041",
+            "turmaid": "01",
+            "nome": " ESTÁGIO SUPERVISIONADO II",
+            "semester": "2018.2",
+            "professor": "RENATA ANGELA GUIMARAES PEREIRA",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+          "1904022",
+          "1904029",
+          "1904012",
+          "1904028",
+          "0037"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDGAS0044",
+        "name": "PROJETO DE AMBIENTAÇÃO E DESIGN PARA RESTAURANTES E SIMILARES",
+        "category": "Complementar Obrigatória",
+        "semester": 6,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDGAS0044",
+            "turmaid": "01",
+            "nome": " PROJETO DE AMBIENTAÇÃO E DESIGN PARA RESTAURANTES E SIMILARES",
+            "semester": "2018.2",
+            "professor": "NOADIA PRISCILA ARAUJO RODRIGUES",
+            "horario": "2M45",
+            "local": "CTDR B108 (CTDR)"
+          }
+        ],
+        "prerequisites": [
+          "0036"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDGAS0045",
+        "name": "COZINHA CONTEMPORÂNEA INTERNACIONAL I",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDGAS0045",
+            "turmaid": "01",
+            "nome": " COZINHA CONTEMPORÂNEA INTERNACIONAL I",
+            "semester": "2018.2",
+            "professor": "KARLLA KARINNE GOMES DE OLIVEIRA",
+            "horario": "4M2345",
+            "local": "CTDR B108 (CTDR)"
+          }
+        ],
+        "prerequisites": [
+          "1904022",
+          "1904029",
+          "1904012",
+          "1904028"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDGAS0047",
+        "name": "PANIFICAÇÃO",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDGAS0047",
+            "turmaid": "01",
+            "nome": " PANIFICAÇÃO",
+            "semester": "2018.2",
+            "professor": "ESTEFANIA FERNANDES GARCIA",
+            "horario": "5M2345",
+            "local": "CTDR B108 (CTDR)"
+          }
+        ],
+        "prerequisites": [
+          "0038"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDGAS0048",
+        "name": "ÉTICA PROFISSIONAL",
+        "category": "Complementar Obrigatória",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDGAS0048",
+            "turmaid": "01",
+            "nome": " ÉTICA PROFISSIONAL",
+            "semester": "2018.2",
+            "professor": "ESTER FERNANDES CARVALHO",
+            "horario": "3M2345",
+            "local": "CTDR B108 (CTDR)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDGAS0042",
+        "name": "ESTÁGIO SUPERVISIONADO III",
+        "category": "Obrigatória",
+        "semester": 7,
+        "workload": "0h aula 90h lab.",
+        "type": "ESTÁGIO",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "0041"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDGAS0046",
+        "name": "COZINHA CONTEMPORÂNEA INTERNACIONAL II",
+        "category": "Obrigatória",
+        "semester": 7,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "0045"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDGAS0049",
+        "name": "GESTÃO FINANCEIRA APLICADA A GASTRONOMIA",
+        "category": "Complementar Obrigatória",
+        "semester": 7,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "0035"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDGAS0050",
+        "name": "TRABALHO DE CONCLUSÃO DE CURSO I",
+        "category": "Complementar Obrigatória",
+        "semester": 7,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDGAS0043",
+        "name": "ESTÁGIO SUPERVISIONADO IV",
+        "category": "Obrigatória",
+        "semester": 8,
+        "workload": "0h aula 270h lab.",
+        "type": "ESTÁGIO",
+        "turmas": [
+          {
+            "id": "GDGAS0043",
+            "turmaid": "01",
+            "nome": " GASTRONOMIA",
+            "semester": "2018.2",
+            "professor": "KARLLA KARINNE GOMES DE OLIVEIRA",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+          "0037",
+          "0041",
+          "0042"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDGAS0051",
+        "name": "TRABALHO DE CONCLUSÃO DE CURSO II",
+        "category": "Complementar Obrigatória",
+        "semester": 8,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDGAS0051",
+            "turmaid": "01",
+            "nome": " GASTRONOMIA",
+            "semester": "2018.2",
+            "professor": "ANA EMILIA DA COSTA VIEIRA",
+            "horario": "6T12",
+            "local": "CTDR B104 (CTDR)"
+          }
+        ],
+        "prerequisites": [
+          "0050"
+        ],
+        "equivalences": [
+
+        ]
+      }
+    ]
+  }
+}

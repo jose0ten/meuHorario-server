@@ -1,0 +1,1580 @@
+{
+  "curriculum": {
+    "id": "00662011",
+    "codigo": "1626770",
+    "name": "QUÍMICA - AREIA - Areia - Presencial - N - BACHARELADO",
+    "faculty": "CENTRO DE CIÊNCIAS AGRÁRIAS (CCA) (11.00.44)",
+    "minch": "225",
+    "maxch": "435",
+    "semesters": 9,
+    "courses": [
+      {
+        "id": "3104135",
+        "name": "LIBRAS  LÍNGUA BRASILEIRA DE SINAIS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "3104135",
+            "turmaid": "02",
+            "nome": " LIBRAS  LÍNGUA BRASILEIRA DE SINAIS",
+            "semester": "2018.2",
+            "professor": "ROBSON DE LIMA PEIXOTO",
+            "horario": "23N61",
+            "local": "BLOCO C - SALA 2 (CCA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "3104149",
+        "name": "LEITURA E PRODUÇÃO TEXTUAL",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "3104149",
+            "turmaid": "01",
+            "nome": " LEITURA E PRODUÇÃO TEXTUAL",
+            "semester": "2018.2",
+            "professor": "MAGNA LUCIA DA SILVA",
+            "horario": "36N61",
+            "local": "BLOCO C - SALA 4 (CCA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "3104205",
+        "name": "INTRODUÇÃO A INFORMÁTICA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDCFS0121",
+        "name": "EDUCAÇÃO DAS RELAÇÕES ÉTNICO RACIAIS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDCFS0124",
+        "name": "INGLÊS TÉCNICO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDCFS0124",
+            "turmaid": "01",
+            "nome": " INGLÊS TÉCNICO",
+            "semester": "2018.2",
+            "professor": "SHEILA COSTA DE FARIAS",
+            "horario": "4N234",
+            "local": "BLOCO C - SALA 1 (CCA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDCFS0127",
+        "name": "PRÁTICA DESPORTIVA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDQF0039",
+        "name": "SEMINÁRIO EM EDUCAÇÃO AMBIENTAL",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDQF0045",
+        "name": "TÓPICOS ESPECIAIS EM QUÍMICA I",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDQF0046",
+        "name": "TÓPICOS ESPECIAIS EM QUÍMICA II",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDQF0047",
+        "name": "TÓPICOS ESPECIAIS EM QUÍMICA III",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "3101184",
+        "name": "FUNDAMENTOS EM ECOLOGIA",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "3101184",
+            "turmaid": "01",
+            "nome": " FUNDAMENTOS EM ECOLOGIA",
+            "semester": "2018.2",
+            "professor": "JOSE DOMINGOS RIBEIRO NETO",
+            "horario": "36N61",
+            "local": "BLOCO A -SALA 1 (CCA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "3104150",
+        "name": "CÁLCULO I",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "0h aula 60h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "3104150",
+            "turmaid": "01",
+            "nome": " CÁLCULO I",
+            "semester": "2018.2",
+            "professor": "PERICLES DE FARIAS BORGES",
+            "horario": "2N61 6N23",
+            "local": "BLOCO C - SALA 3 (CCA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDQF0020",
+        "name": "INTRODUÇÃO À ESTRUTURA DA MATÉRIA",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDQF0020",
+            "turmaid": "01",
+            "nome": " INTRODUÇÃO À ESTRUTURA DA MATÉRIA",
+            "semester": "2018.2",
+            "professor": "SIDNEY RAMOS DE SANTANA",
+            "horario": "4N61 5N23",
+            "local": "BLOCO A - SALA 3 (CCA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDQF0021",
+        "name": "INTRODUÇÃO AS TRANSFORMAÇÕES QUÍMICAS",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "75h aula 45h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDQF0021",
+            "turmaid": "01",
+            "nome": " INTRODUÇÃO AS TRANSFORMAÇÕES QUÍMICAS",
+            "semester": "2018.2",
+            "professor": "RENALDO TENORIO DE MOURA JUNIOR e LUCINA ROCHA SOUSA",
+            "horario": "24N234 5N61",
+            "local": "LABORATÓRIO DE QUÍMICA GERAL E ANALÍTICA (CCA) / BLOCO A ..."
+          },
+          {
+            "id": "GDQF0021",
+            "turmaid": "02",
+            "nome": " INTRODUÇÃO AS TRANSFORMAÇÕES QUÍMICAS",
+            "semester": "2018.2",
+            "professor": "A DEFINIR",
+            "horario": "34N234 5N61",
+            "local": "LABORATÓRIO DE QUÍMICA GERAL E ANALÍTICA (CCA) / BLOCO B ..."
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "3104087",
+        "name": "BIOFISICA",
+        "category": "Optativa",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "3104150"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "3104151",
+        "name": "METODOLOGIA DO TRABALHO CIENTFICO",
+        "category": "Complementar Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "3104154",
+        "name": "POLÍTICA E GESTÃO AMBIENTAL",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "3104158",
+        "name": "CÁLCULO II",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "3104158",
+            "turmaid": "02",
+            "nome": " CÁLCULO II",
+            "semester": "2018.2",
+            "professor": "ARTHUR GILZEPH FARIAS ALMEIDA",
+            "horario": "2N61 6N23",
+            "local": "BLOCO B - SALA 2 (CCA)"
+          }
+        ],
+        "prerequisites": [
+          "3104150"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDQF0026",
+        "name": "PRINCÍPIOS DE ANÁLISE QUÍMICA",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 60h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "3104147",
+          "3104146",
+          "0020",
+          "0021"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDQF0025",
+        "name": "PLANEJAMENTO E OTIMIZAÇÃO DE EXPERIMENTOS",
+        "category": "Optativa",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "3104152",
+          "0026"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDSER0088",
+        "name": "QUÍMICA E FERTILIDADE DO SOLO",
+        "category": "Optativa",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDSER0088",
+            "turmaid": "03",
+            "nome": " QUÍMICA E FERTILIDADE DO SOLO",
+            "semester": "2018.2",
+            "professor": "ALEXANDRE PAIVA DA SILVA",
+            "horario": "2N23 6N61",
+            "local": "BLOCO D - SALA 2 (CCA)"
+          }
+        ],
+        "prerequisites": [
+          "3104152",
+          "0026"
+        ],
+        "equivalences": [
+          "3102051"
+        ]
+      },
+      {
+        "id": "3102100",
+        "name": "MINERALOGIA",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "3102100",
+            "turmaid": "01",
+            "nome": " MINERALOGIA",
+            "semester": "2018.2",
+            "professor": "ALEXANDRE PAIVA DA SILVA",
+            "horario": "23N61",
+            "local": "BLOCO D - SALA 2 (CCA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "3104195",
+        "name": "CÁLCULO III",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "3104195",
+            "turmaid": "01",
+            "nome": " CÁLCULO III",
+            "semester": "2018.2",
+            "professor": "PERICLES DE FARIAS BORGES",
+            "horario": "2N23 6N61",
+            "local": "BLOCO C - SALA 2 (CCA)"
+          }
+        ],
+        "prerequisites": [
+          "3104158"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDQF0015",
+        "name": "ESTRUTURA E PROPRIEDADE DE COMPOSTOS ORGÂNICOS",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDQF0015",
+            "turmaid": "01",
+            "nome": " ESTRUTURA E PROPRIEDADE DE COMPOSTOS ORGÂNICOS",
+            "semester": "2018.2",
+            "professor": "DAYSE DAS NEVES MOREIRA",
+            "horario": "45N23",
+            "local": "LBTPC 01 (CCA)"
+          }
+        ],
+        "prerequisites": [
+          "3104146",
+          "3104147",
+          "0020",
+          "0021"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDQF0024",
+        "name": "PESQUISA APLICADA A QUIMICA",
+        "category": "Complementar Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDQF0024",
+            "turmaid": "01",
+            "nome": " PESQUISA APLICADA A QUIMICA",
+            "semester": "2018.2",
+            "professor": "SIDNEY RAMOS DE SANTANA",
+            "horario": "3N23 5N61",
+            "local": "LBTPC 01 (CCA)"
+          }
+        ],
+        "prerequisites": [
+          "3104151"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDQF0033",
+        "name": "QUÍMICA DOS ELEMENTOS",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDQF0033",
+            "turmaid": "01",
+            "nome": " QUÍMICA DOS ELEMENTOS",
+            "semester": "2018.2",
+            "professor": "RENALDO TENORIO DE MOURA JUNIOR",
+            "horario": "4N61 6N23",
+            "local": "BLOCO B - SALA 1 (CCA)"
+          }
+        ],
+        "prerequisites": [
+          "3104146",
+          "3104147",
+          "0020",
+          "0021"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDQF0003",
+        "name": "BIOINORGANICA",
+        "category": "Optativa",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "0033",
+          "3104163"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "3104145",
+        "name": "ALGEBRA LINEAR",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "3104145",
+            "turmaid": "01",
+            "nome": " ALGEBRA LINEAR",
+            "semester": "2018.2",
+            "professor": "ARTHUR GILZEPH FARIAS ALMEIDA",
+            "horario": "2N23 6N61",
+            "local": "BLOCO C - SALA 1 (CCA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDQF0001",
+        "name": "ANÁLISE QUÍMICA INSTRUMENTAL",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "75h aula 45h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDQF0001",
+            "turmaid": "02",
+            "nome": " ANÁLISE QUÍMICA INSTRUMENTAL",
+            "semester": "2018.2",
+            "professor": "JOSE LUIZ RUFINO",
+            "horario": "2N612 5N234 6N61",
+            "local": "BLOCO A - SALA 2 (CCA)"
+          }
+        ],
+        "prerequisites": [
+          "3104152",
+          "0026"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDQF0022",
+        "name": "MECÂNICA",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "3104150"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDQF0044",
+        "name": "TERMODINÂMICA QUÍMICA",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "3104150"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDQF0008",
+        "name": "BIOQUIMICA METABOLICA I",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 30h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDQF0008",
+            "turmaid": "01",
+            "nome": " BIOQUIMICA METABOLICA I",
+            "semester": "2018.2",
+            "professor": "YANNA CAROLINA FERREIRA TELES",
+            "horario": "34N612",
+            "local": "BLOCO A - SALA 2 (CCA)"
+          }
+        ],
+        "prerequisites": [
+          "0015",
+          "3104159"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDQF0010",
+        "name": "CINÉTICA QUIMICA",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDQF0010",
+            "turmaid": "01",
+            "nome": " CINÉTICA QUIMICA",
+            "semester": "2018.2",
+            "professor": "SIDNEY RAMOS DE SANTANA",
+            "horario": "4N34",
+            "local": "BLOCO C - SALA 4 (CCA)"
+          }
+        ],
+        "prerequisites": [
+          "0044",
+          "3104166"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDQF0012",
+        "name": "ELETROMAGNETISMO",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDQF0012",
+            "turmaid": "01",
+            "nome": " ELETROMAGNETISMO",
+            "semester": "2018.2",
+            "professor": "FRANCISCO BORJA RUIZ REVERTER",
+            "horario": "5N61 6N23",
+            "local": "BLOCO A - SALA 2 (CCA)"
+          }
+        ],
+        "prerequisites": [
+          "0022",
+          "3104165"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDQF0038",
+        "name": "REATIVIDADE DE COMPOSTOS ORGÂNICOS",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "0015",
+          "3104159"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDSER0100",
+        "name": "DERIVADOS DE CANA",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDSER0100",
+            "turmaid": "02",
+            "nome": " DERIVADOS DE CANA-DE-AÇUCAR",
+            "semester": "2018.2",
+            "professor": "A DEFINIR",
+            "horario": "34N34",
+            "local": "BLOCO A - SALA 2 (CCA)"
+          }
+        ],
+        "prerequisites": [
+          "0015",
+          "3104159"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDQF0009",
+        "name": "BIOQUIMICA METABOLICA II",
+        "category": "Optativa",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "0008",
+          "3104173"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDQF0018",
+        "name": "QUÍMICA DE ALIMENTOS",
+        "category": "Optativa",
+        "semester": 6,
+        "workload": "30h aula 30h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "3104173",
+          "0008"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDQF0040",
+        "name": "SÍNTESE ORGÂNICA",
+        "category": "Optativa",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDQF0040",
+            "turmaid": "01",
+            "nome": " SÍNTESE ORGÂNICA",
+            "semester": "2018.2",
+            "professor": "DAYSE DAS NEVES MOREIRA",
+            "horario": "3N234 5N4",
+            "local": "BLOCO C - SALA 3 (CCA)"
+          }
+        ],
+        "prerequisites": [
+          "3104171",
+          "0038"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "3106004",
+        "name": "MICROBIOLOGIA GERAL",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "30h aula 30h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "3104173",
+          "0008"
+        ],
+        "equivalences": [
+          "3106013"
+        ]
+      },
+      {
+        "id": "GDQF0002",
+        "name": "BIOLOGIA MOLECULAR",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "0008",
+          "3104173"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDQF0016",
+        "name": "FISICA EXPERIMENTAL",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "0h aula 60h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "3104150"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDQF0019",
+        "name": "FISICO",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "0h aula 60h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "3104150"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDQF0043",
+        "name": "TÉCNICAS EXPERIMENTAIS EM QUÍMICA ORGÂNICA",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "60h aula 60h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "0015",
+          "3104159"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDQF0049",
+        "name": "ESTÁGIO SUPERVISIONADO I",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "75h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "3104152",
+          "0026"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDQF0014",
+        "name": "ESPECTROSCOPIA E QUIMICA QUÂNTICA",
+        "category": "Obrigatória",
+        "semester": 7,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDQF0014",
+            "turmaid": "01",
+            "nome": " ESPECTROSCOPIA E QUIMICA QUÂNTICA",
+            "semester": "2018.2",
+            "professor": "RENALDO TENORIO DE MOURA JUNIOR",
+            "horario": "3N61 5N23",
+            "local": "BLOCO C - SALA 1 (CCA)"
+          }
+        ],
+        "prerequisites": [
+          "3104158",
+          "0020",
+          "3104146"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDQF0031",
+        "name": "QUÍMICA DAS ÁGUAS",
+        "category": "Obrigatória",
+        "semester": 7,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDQF0031",
+            "turmaid": "01",
+            "nome": " QUÍMICA DAS ÁGUAS",
+            "semester": "2018.2",
+            "professor": "MARIA BETANIA HERMENEGILDO DOS SANTOS",
+            "horario": "2N34 5N61",
+            "local": "BLOCO D - SALA 4 (CCA)"
+          }
+        ],
+        "prerequisites": [
+          "3106004",
+          "3104152",
+          "0026"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDQF0034",
+        "name": "QUÍMICA DOS PRODUTOS NATURAIS",
+        "category": "Obrigatória",
+        "semester": 7,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDQF0034",
+            "turmaid": "01",
+            "nome": " QUÍMICA DOS PRODUTOS NATURAIS",
+            "semester": "2018.2",
+            "professor": "ELIZABETH ALMEIDA LAFAYETTE",
+            "horario": "24N61",
+            "local": "BLOCO A -SALA 1 (CCA)"
+          }
+        ],
+        "prerequisites": [
+          "3104171",
+          "0038"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDQF0050",
+        "name": "ESTÁGIO SUPERVISIONADO II",
+        "category": "Obrigatória",
+        "semester": 7,
+        "workload": "75h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "3104197",
+          "0049"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDQF0023",
+        "name": "NANOCIÊNCIA E NANOTECNOLOGIA",
+        "category": "Optativa",
+        "semester": 8,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "3104180",
+          "0014"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDQF0029",
+        "name": "QUÍMICA COMPUTACIONAL",
+        "category": "Optativa",
+        "semester": 8,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "0014",
+          "0014"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDQF0011",
+        "name": "CRISTALOGRAFIA",
+        "category": "Obrigatória",
+        "semester": 8,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "3102100"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDQF0027",
+        "name": "QUÍMICA AMBIENTAL I",
+        "category": "Obrigatória",
+        "semester": 8,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "3104167",
+          "0001"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDQF0030",
+        "name": "QUÍMICA DA ATMOSFERA",
+        "category": "Obrigatória",
+        "semester": 8,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "3104190",
+          "0031"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDQF0032",
+        "name": "QUÍMICA DE COORDENAÇÃO E MATERIAIS",
+        "category": "Obrigatória",
+        "semester": 8,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDQF0051",
+        "name": "ESTÁGIO SUPERVISIONADO III",
+        "category": "Obrigatória",
+        "semester": 8,
+        "workload": "75h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "0118",
+          "0050"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDQF0053",
+        "name": "TRABALHO DE CONCLUSÃO DE CURSO I",
+        "category": "Complementar Obrigatória",
+        "semester": 8,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "3104151"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDQF0041",
+        "name": "SÍNTESE INORGÂNICA",
+        "category": "Optativa",
+        "semester": 9,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "3104181",
+          "0032"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDQF0013",
+        "name": "ELETROQUIMICA E ELETROANALITICA",
+        "category": "Obrigatória",
+        "semester": 9,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDQF0013",
+            "turmaid": "02",
+            "nome": " ELETROQUIMICA E ELETROANALITICA",
+            "semester": "2018.2",
+            "professor": "JOSE LUIZ RUFINO",
+            "horario": "23N4 5N61",
+            "local": "BLOCO C - SALA 1 (CCA)"
+          }
+        ],
+        "prerequisites": [
+          "3104169",
+          "0010"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDQF0028",
+        "name": "QUÍMICA AMBIENTAL II",
+        "category": "Obrigatória",
+        "semester": 9,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDQF0028",
+            "turmaid": "01",
+            "nome": " QUÍMICA AMBIENTAL II",
+            "semester": "2018.2",
+            "professor": "EDILENE  DANTAS TELES MOREIRA",
+            "horario": "3N23 4N61",
+            "local": "BLOCO C - SALA 4 (CCA)"
+          }
+        ],
+        "prerequisites": [
+          "3104193",
+          "3104173",
+          "0027",
+          "0008"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDQF0048",
+        "name": "TOXICOLOGIA AMBIENTAL",
+        "category": "Obrigatória",
+        "semester": 9,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDQF0048",
+            "turmaid": "01",
+            "nome": " TOXICOLOGIA AMBIENTAL",
+            "semester": "2018.2",
+            "professor": "EDILENE  DANTAS TELES MOREIRA",
+            "horario": "3N61 5N23",
+            "local": "BLOCO C - SALA 3 (CCA)"
+          }
+        ],
+        "prerequisites": [
+          "3104173",
+          "0008"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDQF0052",
+        "name": "ESTÁGIO SUPERVISIONADO IV",
+        "category": "Obrigatória",
+        "semester": 9,
+        "workload": "75h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDQF0052",
+            "turmaid": "01",
+            "nome": " ESTÁGIO SUPERVISIONADO IV",
+            "semester": "2018.2",
+            "professor": "A DEFINIR",
+            "horario": "7M456 7T12",
+            "local": "LABORATÓRIO DE QUÍMICA GERAL E ANALÍTICA (CCA)"
+          }
+        ],
+        "prerequisites": [
+          "0119",
+          "0051"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDQF0054",
+        "name": "TRABALHO DE CONCLUSÃO DE CURSO II",
+        "category": "Complementar Obrigatória",
+        "semester": 9,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDQF0054",
+            "turmaid": "01",
+            "nome": " TRABALHO DE CONCLUSÃO DE CURSO II",
+            "semester": "2018.2",
+            "professor": "A DEFINIR",
+            "horario": "7M23",
+            "local": "LABORATÓRIO DE QUÍMICA GERAL E ANALÍTICA (CCA)"
+          }
+        ],
+        "prerequisites": [
+          "0053",
+          "0105"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDSER0101",
+        "name": "GEOQUIMICA DE AMBIENTES SUPERFICIAIS",
+        "category": "Obrigatória",
+        "semester": 9,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDSER0101",
+            "turmaid": "01",
+            "nome": " GEOQUIMICA DE AMBIENTES SUPERFICIAIS",
+            "semester": "2018.2",
+            "professor": "RAPHAEL MOREIRA BEIRIGO",
+            "horario": "46N23",
+            "local": "BLOCO A - SALA 3 (CCA)"
+          }
+        ],
+        "prerequisites": [
+          "3102100",
+          "3104190",
+          "0031"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "3104172",
+        "name": " DIDÁTICA",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": "60h",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "3104172",
+            "turmaid": "01",
+            "nome": " DIDÁTICA",
+            "semester": "2018.2",
+            "professor": "WILSON JOSE FELIX XAVIER",
+            "horario": "23N34",
+            "local": "BLOCO A - SALA 3 (CCA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "3104113",
+        "name": " EDUCACAO E INCLUSAO SOCIAL",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": "45h",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "3104113",
+            "turmaid": "01",
+            "nome": " EDUCACAO E INCLUSAO SOCIAL",
+            "semester": "2018.2",
+            "professor": "ANA CRISTINA SILVA DAXENBERGER",
+            "horario": "4N612",
+            "local": "BLOCO C - SALA 2 (CCA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDCFS0100",
+        "name": " ESTAGIO SUPERVISIONADO II (ENS. DE QUÍMICA NA EDUCAÇÃO BÁSICA II)",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": "60h",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDCFS0100",
+            "turmaid": "01",
+            "nome": " ESTAGIO SUPERVISIONADO II (ENS. DE QUÍMICA NA EDUCAÇÃO BÁSICA II)",
+            "semester": "2018.2",
+            "professor": "FRANKLIN KAIC DUTRA PEREIRA",
+            "horario": "7T1234 2N23",
+            "local": "BLOCO C - SALA 4 (CCA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+          "GDQF0050"
+        ]
+      },
+      {
+        "id": "GDCFS0102",
+        "name": " ESTAGIO SUPERVISIONADO IV (PRÁTICA DE ENSINO DE QUÍMICA II)",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": "60h",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDCFS0102",
+            "turmaid": "01",
+            "nome": " ESTAGIO SUPERVISIONADO IV (PRÁTICA DE ENSINO DE QUÍMICA II)",
+            "semester": "2018.2",
+            "professor": "FRANKLIN KAIC DUTRA PEREIRA e SAIMONTON TINOCO DA SILVA",
+            "horario": "5N234 7N561234",
+            "local": "BLOCO B - SALA 3 (CCA)"
+          },
+          {
+            "id": "GDQF0052",
+            "turmaid": "01",
+            "nome": " ESTÁGIO SUPERVISIONADO IV",
+            "semester": "2018.2",
+            "professor": "A DEFINIR",
+            "horario": "7M456 7T12",
+            "local": "LABORATÓRIO DE QUÍMICA GERAL E ANALÍTICA (CCA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+          "GDQF0052"
+        ]
+      },
+      {
+        "id": "3104160",
+        "name": " FUNDAMENTOS SOCIOHISTÓRICOS DA EDUCAÇÃO",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": "60h",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "3104160",
+            "turmaid": "01",
+            "nome": " FUNDAMENTOS SOCIOHISTÓRICOS DA EDUCAÇÃO",
+            "semester": "2018.2",
+            "professor": "WILSON JOSE FELIX XAVIER",
+            "horario": "23N61",
+            "local": "BLOCO B - SALA 3 (CCA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDCFS0103",
+        "name": " METODOLOGIA PARA O ENSINO DE QUÍMICA",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": "60h",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDCFS0103",
+            "turmaid": "01",
+            "nome": " METODOLOGIA PARA O ENSINO DE QUÍMICA",
+            "semester": "2018.2",
+            "professor": "FRANKLIN KAIC DUTRA PEREIRA",
+            "horario": "2N61 3N23",
+            "local": "BLOCO C - SALA 1 (CCA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "3104110",
+        "name": " POLITICA E GESTAO DA EDUCACAO",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": "60h",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "3104110",
+            "turmaid": "01",
+            "nome": " POLITICA E GESTAO DA EDUCACAO",
+            "semester": "2018.2",
+            "professor": "ANGELA CRISTINA ALVES ALBINO",
+            "horario": "45N61",
+            "local": "BLOCO B - SALA 2 (CCA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      }
+    ]
+  }
+}

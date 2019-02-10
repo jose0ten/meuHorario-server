@@ -1,0 +1,1012 @@
+{
+  "curriculum": {
+    "id": "04-A2013",
+    "codigo": "1813969",
+    "name": "ADMINISTRAÇÃO PÚBLICA / UV - João Pessoa - A Distância - MT - BACHARELADO",
+    "faculty": "CENTRO DE CIÊNCIAS SOCIAIS E APLICADAS (CCSA) (11.00.52)",
+    "minch": "250",
+    "maxch": "480",
+    "semesters": 9,
+    "courses": [
+      {
+        "id": "1903044",
+        "name": "MATEMATICA BASICA",
+        "category": "Optativa",
+        "semester": 1,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1903038",
+        "name": "FILOSOFIA E ÉTICA",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1903039",
+        "name": "INTRODUCAO À ECONOMIA",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1903040",
+        "name": "METOD EST E PESQ EM ADMINISTRACÃO",
+        "category": "Complementar Obrigatória",
+        "semester": 1,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1903041",
+        "name": "PSICOLOGIA ORGANIZACIONAL",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1903042",
+        "name": "SEMINARIO INTEGRADOR  UV",
+        "category": "Complementar Obrigatória",
+        "semester": 1,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1903043",
+        "name": "TEORIAS DA ADMINISTRACÃO I",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1903045",
+        "name": "CIÊNCIA POLÍTICA",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1903046",
+        "name": "TEORIAS DA ADMINISTRAÇÃO II",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1903047",
+        "name": "MACROECONOMIA",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1903048",
+        "name": "CONTABILIDADE GERAL",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1903049",
+        "name": "MATEMÁTICA PARA  ADMINISTRADORES",
+        "category": "Complementar Obrigatória",
+        "semester": 2,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1903050",
+        "name": "SEMINÁRIO TEMÁTICO I",
+        "category": "Complementar Obrigatória",
+        "semester": 2,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1903051",
+        "name": "INFORMÁTICA PARA ADMINISTRADORES",
+        "category": "Optativa",
+        "semester": 3,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1201305",
+        "name": "ECONOMIA BRASILEIRA",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1903052",
+        "name": "TEORIA DA AMINISTRACÃO PÚBLICA",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1903053",
+        "name": "SOCIOLOGIA ORGANIZACIONAL",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1903054",
+        "name": "CONTABILIDADE PÚBLICA",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1903055",
+        "name": "INSTITUICOES DE DIREITO PUB E PRIVADO",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1903056",
+        "name": "SEMINÁRIO TEMÁTICO II",
+        "category": "Complementar Obrigatória",
+        "semester": 3,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1903057",
+        "name": "TEORIA DAS FINANÇAS PÚBLICAS",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1903057",
+            "turmaid": "01",
+            "nome": " EAD",
+            "semester": "2018.2",
+            "professor": "FERNANDO JOSE VIEIRA TORRES",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1903058",
+        "name": "ORGANIZAÇÃO PROC E TOMADA DECISÃO",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1903058",
+            "turmaid": "01",
+            "nome": " EAD",
+            "semester": "2018.2",
+            "professor": "JAMES BATISTA VIEIRA",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1903059",
+        "name": "SIST INF  COMUNIC NO SETOR PÚBLICO",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1903059",
+            "turmaid": "01",
+            "nome": " EAD",
+            "semester": "2018.2",
+            "professor": "HERMANN ATILA HRDLICKA",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1903060",
+        "name": "ESTATISTICA APLICADA À ADMINISTRAÇÃO",
+        "category": "Complementar Obrigatória",
+        "semester": 4,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1903060",
+            "turmaid": "01",
+            "nome": " EAD",
+            "semester": "2018.2",
+            "professor": "IRIS GOMES DOS SANTOS",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1903061",
+        "name": "DIREITO ADMINISTRATIVO",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1903061",
+            "turmaid": "01",
+            "nome": " EAD",
+            "semester": "2018.2",
+            "professor": "JULIANA FERNANDES MOREIRA",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1903087",
+        "name": "SEMINÁRIO TEMÁTICO III",
+        "category": "Complementar Obrigatória",
+        "semester": 4,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1903087",
+            "turmaid": "01",
+            "nome": " EAD",
+            "semester": "2018.2",
+            "professor": "LIZANDRA SERAFIM",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1903062",
+        "name": "SEMINARIO TEMÁTICO I NA LFE I/II/III",
+        "category": "Complementar Obrigatória",
+        "semester": 5,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1903063",
+        "name": "PLANEJ E PROG NA ADM PÚBLICA",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1903064",
+        "name": "GESTÃO DE PESSOAS NO SETOR PÚBLICO",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1903065",
+        "name": "GESTÃO DE OPERAÇÕES E LOGÍSTICA I",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1903066",
+        "name": "MAT  FINANC E ANÁLISE DE INVEST",
+        "category": "Complementar Obrigatória",
+        "semester": 5,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1903066",
+            "turmaid": "01",
+            "nome": " EAD",
+            "semester": "2018.2",
+            "professor": "MARIA DANIELLA DE OLIVEIRA PEREIRA DA SILVA",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1903068",
+        "name": "DIREITO EMPRESARIAL",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1903069",
+        "name": "ESTAGIO SUPERVISIONADO I",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1903067",
+        "name": "DIREITO E LEGISLAÇÃO TRIBUTARIA",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1903070",
+        "name": "ORÇAMENTO PÚBLICO",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1903071",
+        "name": "ADMINISTRAÇÃO ESTRATÉGICA",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1903072",
+        "name": "GESTÃO E OPERAÇÃO E LOGÍSTICA II",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1903073",
+        "name": "ELABORAÇÃO E GESTÃO DE PROJETOS",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1903074",
+        "name": "OPTATIVA  I",
+        "category": "Complementar Obrigatória",
+        "semester": 6,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1903075",
+        "name": "ESTÁGIO  SUPERVISIONADO II",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1903076",
+        "name": "AUDITORIA E CONTROLADORIA",
+        "category": "Obrigatória",
+        "semester": 7,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1903077",
+        "name": "NEGOCIAÇÃO E ARBITRAGEM",
+        "category": "Obrigatória",
+        "semester": 7,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1903078",
+        "name": "TECNOLOGIA E INOVAÇÃO",
+        "category": "Obrigatória",
+        "semester": 7,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1903079",
+        "name": "OPTATIVA II",
+        "category": "Complementar Obrigatória",
+        "semester": 7,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1903080",
+        "name": "GESTÃO DA REGULAÇÃO",
+        "category": "Obrigatória",
+        "semester": 7,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1903081",
+        "name": "ESTÁGIO SUPERVISIONADO III",
+        "category": "Obrigatória",
+        "semester": 7,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1903088",
+        "name": "SEMINÁRIO TEMÁTICO II NA LFE I/II/III",
+        "category": "Complementar Obrigatória",
+        "semester": 7,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1903082",
+        "name": "POLÍTICAS PÚBLICAS E SOCIEDADE",
+        "category": "Obrigatória",
+        "semester": 8,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1903083",
+        "name": "GESTÃO AMBIENTAL E SUSTENTABILIDADE",
+        "category": "Complementar Obrigatória",
+        "semester": 8,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1903084",
+        "name": "RELAÇÕES INTERNACIONAIS",
+        "category": "Complementar Obrigatória",
+        "semester": 8,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1903086",
+        "name": "ESTÁGIO  SUPERVISIONADO IV",
+        "category": "Obrigatória",
+        "semester": 8,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1903089",
+        "name": "SEMINÁRIO TEMÁTICO III NA LFE I/II/III",
+        "category": "Complementar Obrigatória",
+        "semester": 8,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1903085",
+        "name": "OPTATIVA III",
+        "category": "Complementar Obrigatória",
+        "semester": 9,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDGP0090",
+        "name": "SEMINÁRIO TEMÁTICO IV NA LFE I/II/III",
+        "category": "Complementar Obrigatória",
+        "semester": 9,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDGP0091",
+        "name": "TRABALHO DE CONCLUSÃO DE CURSO",
+        "category": "Complementar Obrigatória",
+        "semester": 9,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDGP0091",
+            "turmaid": "01",
+            "nome": " EAD",
+            "semester": "2018.2",
+            "professor": "VANDERSON GONCALVES CARNEIRO",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      }
+    ]
+  }
+}

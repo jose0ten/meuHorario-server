@@ -1,0 +1,1804 @@
+{
+  "curriculum": {
+    "id": "672011",
+    "codigo": "1626768",
+    "name": "CIÊNCIAS DAS RELIGIÕES - João Pessoa - Presencial - N - BACHARELADO",
+    "faculty": "CENTRO DE EDUCAÇÃO (CE) (11.00.56)",
+    "minch": "210",
+    "maxch": "345",
+    "semesters": 8,
+    "courses": [
+      {
+        "id": "1304091",
+        "name": "ALQUIMIABAC",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1304092",
+        "name": "ANÁLISE EXIST FENÔM RELIGIOSOBAC",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1304092",
+            "turmaid": "01",
+            "nome": " ANÁLISE EXIST FENÔM RELIGIOSOBAC",
+            "semester": "2018.2",
+            "professor": "THIAGO ANTONIO AVELLAR DE AQUINO",
+            "horario": "4N123",
+            "local": "CE 315 (CE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1304093",
+        "name": "ATEÍSMOBAC",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1304094",
+        "name": "BASES DO MONOTEÍSMOBAC",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1304095",
+        "name": "CABALABAC",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1304096",
+        "name": "CICLO ARTURIANOBAC",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1304097",
+        "name": "DESAFIOS DO CRISTIAN CONTEMPBAC",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1304098",
+        "name": "ESCOLAS DE MISTÉRIOSBAC",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1304099",
+        "name": "ESPIRITUALIDADE E SAÚDEBAC",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1304100",
+        "name": "FESTAS RELIGIOSAS POPULARESBAC",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1304101",
+        "name": "GEOMETRIA SAGRADABAC",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1304102",
+        "name": "GÊNERO SEXUALIDADE E RELIGIÃOBAC",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1304103",
+        "name": "GNOSEBAC",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1304104",
+        "name": "HERESIASBAC",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1304105",
+        "name": "HERMETISMOBAC",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1304106",
+        "name": "HISTÓRIA DAS GUERRAS RELIGIOSASBAC",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1304107",
+        "name": "INTERAÇÃO E O DISCURSO RELIGIOSOBAC",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1304108",
+        "name": "JUNG E O SIMBOLISMO RELIGIOSOBAC",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1304109",
+        "name": "MESSIANISMOBAC",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1304110",
+        "name": "MITOLOGIA NÓRDICABAC",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1304111",
+        "name": "MITOLOGIA SUMÉRIABAC",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1304112",
+        "name": "OCULTISMO MAGIA E ARTES DIVINATÓRIASBA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1304113",
+        "name": "PLANTAS SAGRADASBAC",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1304114",
+        "name": "REFORMA PROTESTANTEBAC",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1304115",
+        "name": "RELIGIÃO E DIREITOS HUMANOSBAC",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1304116",
+        "name": "RELIGIOSIDADE POPULARBAC",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1304117",
+        "name": "TRAJETÓRIA DO ESPIRITISMOBAC",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1304118",
+        "name": "XAMANISMOBAC",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1304119",
+        "name": "TÓPICOS ESPEC EM CIÊNC DAS RELIGIÕESBAC",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1403747",
+        "name": "LIBRAS  LÍNGUA BRASILEIRA DE SINAIS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1304001",
+        "name": "ANTROPOLOGIA DAS RELIGIOES",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1304001",
+            "turmaid": "01",
+            "nome": " ANTROPOLOGIA DAS RELIGIOES",
+            "semester": "2018.2",
+            "professor": "ANA PAULA RODRIGUES CAVALCANTI",
+            "horario": "5N1234",
+            "local": "CE 317 (CE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1304004",
+        "name": "INTRODUCAO AO LATIM",
+        "category": "Complementar Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1304004",
+            "turmaid": "01",
+            "nome": " INTRODUCAO AO LATIM",
+            "semester": "2018.2",
+            "professor": "LEYLA THAYS BRITO DA SILVA",
+            "horario": "6N1234",
+            "local": "CE 317 (CE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1304015",
+        "name": "METODOLOGIA DO TRABALHO CIENTIFICO",
+        "category": "Complementar Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1304072",
+        "name": "MITOLOGIA EGÍPCIA",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1306029",
+        "name": "INTRODUÇÃO AO ENSINO À DISTÂNCIA",
+        "category": "Complementar Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1304021",
+        "name": "INTRODUÇAO AOS SISTEMAS SIMBOLICOS",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1304021",
+            "turmaid": "01",
+            "nome": " INTRODUÇAO AOS SISTEMAS SIMBOLICOS",
+            "semester": "2018.2",
+            "professor": "CARLOS ANDRE MACEDO CAVALCANTI",
+            "horario": "2N1234",
+            "local": "CE 319 (CE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1304068",
+        "name": "SOCIOLOGIA DAS RELIGIÕES",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1304068",
+            "turmaid": "01",
+            "nome": " SOCIOLOGIA DAS RELIGIÕES",
+            "semester": "2018.2",
+            "professor": "ANA CANDIDA VIEIRA HENRIQUES",
+            "horario": "3N1234",
+            "local": "CE 319 (CE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1304073",
+        "name": "MITOLOGIA GRECOROMANA",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1304073",
+            "turmaid": "01",
+            "nome": " MITOLOGIA GRECOROMANA",
+            "semester": "2018.2",
+            "professor": "LEYLA THAYS BRITO DA SILVA",
+            "horario": "4N1234",
+            "local": "CE 319 (CE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1304078",
+        "name": "ARTE SACRA GRECOROMANA",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1304078",
+            "turmaid": "01",
+            "nome": " ARTE SACRA GRECOROMANA",
+            "semester": "2018.2",
+            "professor": "LEYLA THAYS BRITO DA SILVA",
+            "horario": "7N1234",
+            "local": "CE 319 (CE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1304083",
+        "name": "LEITURA DE TEXTOS HELÊNICOS E LATINOS",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1304083",
+            "turmaid": "01",
+            "nome": " LEITURA DE TEXTOS HELÊNICOS E LATINOS",
+            "semester": "2018.2",
+            "professor": "FABRICIO POSSEBON",
+            "horario": "6N1234",
+            "local": "CE 319 (CE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1304019",
+        "name": "PSICOLOGIA DO FENOMENO RELIGIOSO",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1304020",
+        "name": "RELIGIOES ORIENTAIS",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1304022",
+        "name": "ARTE SACRA ORIENTAL",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1304027",
+        "name": "ESTRUTURAS ANTROPOLOGICAS DO IMAGINARIO",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1304027",
+            "turmaid": "01",
+            "nome": " ESTRUTURAS ANTROPOLOGICAS DO IMAGINARIO",
+            "semester": "2018.2",
+            "professor": "CARLOS ANDRE MACEDO CAVALCANTI",
+            "horario": "3N1234",
+            "local": "CE 308 (CE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1304120",
+        "name": "LEITURA TEX SAG TRAD ORIENTAL",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1304026",
+        "name": "JUDAISMO E CRISTIANISMO PRIMITIVO",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1304026",
+            "turmaid": "01",
+            "nome": " JUDAISMO E CRISTIANISMO PRIMITIVO",
+            "semester": "2018.2",
+            "professor": "DANIELLE VENTURA DE LIMA PINHEIRO",
+            "horario": "6N1234",
+            "local": "CE 318 (CE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1304028",
+        "name": "ARTES SACRA JUDAICOCRISTA",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1304028",
+            "turmaid": "01",
+            "nome": " ARTES SACRA JUDAICOCRISTA",
+            "semester": "2018.2",
+            "professor": "MARIA LUCIA ABAURRE GNERRE",
+            "horario": "7N1234",
+            "local": "CE 318 (CE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1304069",
+        "name": "FILOSOFIA DAS RELIGIÕES",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1304069",
+            "turmaid": "01",
+            "nome": " FILOSOFIA DAS RELIGIÕES",
+            "semester": "2018.2",
+            "professor": "SUELMA DE SOUZA MORAES",
+            "horario": "4N1234",
+            "local": "CE 318 (CE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1304084",
+        "name": "LEITURA TEX SAG TRAD OCIDENTAL",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1304084",
+            "turmaid": "01",
+            "nome": " LEITURA TEX SAG TRAD OCIDENTAL",
+            "semester": "2018.2",
+            "professor": "MARIA LUCIA ABAURRE GNERRE",
+            "horario": "5N1234",
+            "local": "CE 318 (CE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1304121",
+        "name": "PESQIUA APLICÁS CIÊN DAS RELIGIÕES BAC",
+        "category": "Complementar Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1304121",
+            "turmaid": "01",
+            "nome": " PESQIUA APLICÁS CIÊN DAS RELIGIÕES BAC",
+            "semester": "2018.2",
+            "professor": "MARIA LUCIA ABAURRE GNERRE",
+            "horario": "3N1234",
+            "local": "CE 316 (CE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1304070",
+        "name": "HISTÓRIA DAS RELIGIÕES",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1304074",
+        "name": "ISLAMISMO",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1304079",
+        "name": "ARTE SACRA ISLÃMICA",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1304086",
+        "name": "ESTÁGIO SUPERVISIONADO I",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "75h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1304071",
+        "name": "CIÊNCIAS DAS RELIG E FENOMENOLOGIA",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1304071",
+            "turmaid": "01",
+            "nome": " CIÊNCIAS DAS RELIG E FENOMENOLOGIA",
+            "semester": "2018.2",
+            "professor": "DANIELLE VENTURA DE LIMA PINHEIRO",
+            "horario": "2N1234",
+            "local": "CE 315 (CE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1304075",
+        "name": "CRIST MEDIEVAL REFORMAS NA CRISTAND",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1304075",
+            "turmaid": "01",
+            "nome": " CRIST MEDIEVAL REFORMAS NA CRISTAND",
+            "semester": "2018.2",
+            "professor": "SUELMA DE SOUZA MORAES",
+            "horario": "3N1234",
+            "local": "CE 315 (CE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1304080",
+        "name": "ARTE SACRA MEDIEVAL",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1304080",
+            "turmaid": "01",
+            "nome": " ARTE SACRA MEDIEVAL",
+            "semester": "2018.2",
+            "professor": "JOHNNI LANGER",
+            "horario": "6N1234",
+            "local": "CE 315 (CE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDCR0101",
+        "name": "ESTÁGIO SUPERVISIONADO II",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "0h aula 75h lab.",
+        "type": "ESTÁGIO",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1304013",
+        "name": "ALIMENTOS SAGRADOSRITOS E INTERDIÇOES",
+        "category": "Obrigatória",
+        "semester": 7,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1304013",
+            "turmaid": "01",
+            "nome": " ALIMENTOS SAGRADOSRITOS E INTERDIÇOES",
+            "semester": "2018.2",
+            "professor": "ANA PAULA RODRIGUES CAVALCANTI",
+            "horario": "2N1234",
+            "local": "CE 320 (CE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1304076",
+        "name": "RELIGIÕES INDÍGENAS",
+        "category": "Obrigatória",
+        "semester": 7,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1304081",
+        "name": "ARTE SACRA INDÍGENA",
+        "category": "Obrigatória",
+        "semester": 7,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1304088",
+        "name": "ESTÁGIO SUPERVISIONADO III",
+        "category": "Obrigatória",
+        "semester": 7,
+        "workload": "75h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1304044",
+        "name": "NOVAS EXPRESSOES RELIGIOSAS",
+        "category": "Obrigatória",
+        "semester": 8,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1304044",
+            "turmaid": "01",
+            "nome": " NOVAS EXPRESSOES RELIGIOSAS",
+            "semester": "2018.2",
+            "professor": "MARIA LUCIA ABAURRE GNERRE",
+            "horario": "2N1234",
+            "local": "CE 316 (CE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1304077",
+        "name": "RELIGIÕES AFROBRASILEIRAS",
+        "category": "Obrigatória",
+        "semester": 8,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1304077",
+            "turmaid": "01",
+            "nome": " RELIGIÕES AFROBRASILEIRAS",
+            "semester": "2018.2",
+            "professor": "DILAINE SOARES SAMPAIO",
+            "horario": "4N1234",
+            "local": "CE 316 (CE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1304082",
+        "name": "ARTE SACRA AFROBRASILEIRA",
+        "category": "Obrigatória",
+        "semester": 8,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1304082",
+            "turmaid": "01",
+            "nome": " ARTE SACRA AFROBRASILEIRA",
+            "semester": "2018.2",
+            "professor": "DILAINE SOARES SAMPAIO",
+            "horario": "7N1234",
+            "local": "CE 316 (CE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1304090",
+        "name": "TRABALHO CONCLUSÃO DE CURSO  BACH",
+        "category": "Complementar Obrigatória",
+        "semester": 8,
+        "workload": "45h aula 0h lab.",
+        "type": "TRABALHO DE CONCLUSÃO DE CURSO",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDCR0102",
+        "name": "ESTÁGIO SUPERVISIONADO IV",
+        "category": "Obrigatória",
+        "semester": 8,
+        "workload": "0h aula 75h lab.",
+        "type": "ESTÁGIO",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1304016",
+        "name": " ARTE SACRA INDIGENA E AFROBRASILEIRA",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": "60h",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1304016",
+            "turmaid": "01",
+            "nome": " ARTE SACRA INDIGENA E AFROBRASILEIRA",
+            "semester": "2018.2",
+            "professor": "FABRICIO POSSEBON",
+            "horario": "7N1234",
+            "local": "CE 320 (CE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1304025",
+        "name": " BASES DO MONOTEISMO",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": "60h",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1304025",
+            "turmaid": "01",
+            "nome": " BASES DO MONOTEISMO",
+            "semester": "2018.2",
+            "professor": "SUELMA DE SOUZA MORAES",
+            "horario": "2N1234",
+            "local": "CE 318 (CE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1303196",
+        "name": " CURRICULO E TRABALHO PEDAGOGICO",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": "60h",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1303196",
+            "turmaid": "01",
+            "nome": " CURRICULO E TRABALHO PEDAGOGICO",
+            "semester": "2018.2",
+            "professor": "JOSÉ LEONARDO ROLIM DE LIMA SEVERO",
+            "horario": "3N1234",
+            "local": "CAG 101 (PRG)"
+          },
+          {
+            "id": "1303196",
+            "turmaid": "04",
+            "nome": " CURRICULO E TRABALHO PEDAGOGICO",
+            "semester": "2018.2",
+            "professor": "JEANE FELIX DA SILVA",
+            "horario": "4N1234",
+            "local": "CAH 108 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1304017",
+        "name": " ESTAGIO SUPERVISIONADO II",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": "60h",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1304017",
+            "turmaid": "01",
+            "nome": " ESTAGIO SUPERVISIONADO II",
+            "semester": "2018.2",
+            "professor": "DANIELLE VENTURA DE LIMA PINHEIRO",
+            "horario": "4N1234",
+            "local": "CE 320 (CE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1304087",
+        "name": " ESTÁGIO SUPERVISIONADO II",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": null,
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1304087",
+            "turmaid": "01",
+            "nome": " ESTÁGIO SUPERVISIONADO II",
+            "semester": "2018.2",
+            "professor": "A DEFINIR",
+            "horario": "5N1234 7N5",
+            "local": "CE 315 (CE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+          "GDCR0101"
+        ]
+      },
+      {
+        "id": "1304029",
+        "name": " ESTAGIO SUPERVISIONADO IV",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": "60h",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1304029",
+            "turmaid": "01",
+            "nome": " ESTAGIO SUPERVISIONADO IV",
+            "semester": "2018.2",
+            "professor": "ANA CANDIDA VIEIRA HENRIQUES",
+            "horario": "4N1234",
+            "local": "CE 308 (CE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1304089",
+        "name": " ESTÁGIO SUPERVISIONADO IV",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": null,
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1304089",
+            "turmaid": "01",
+            "nome": " ESTÁGIO SUPERVISIONADO IV",
+            "semester": "2018.2",
+            "professor": "A DEFINIR",
+            "horario": "5N1234 7N6",
+            "local": "CE 316 (CE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+          "GDCR0102"
+        ]
+      },
+      {
+        "id": "1304041",
+        "name": " ESTAGIO SUPERVISIONADO VI",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": "30h",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1304041",
+            "turmaid": "01",
+            "nome": " ESTAGIO SUPERVISIONADO VI",
+            "semester": "2018.2",
+            "professor": "LUSIVAL ANTONIO BARCELLOS e ANA PAULA RODRIGUES CAVALCANTI",
+            "horario": "6N1234",
+            "local": "CE 316 (CE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+          "GDCR0103"
+        ]
+      },
+      {
+        "id": "1304009",
+        "name": " ESTUDOS ETNOGRAFICOS",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": "30h",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1304009",
+            "turmaid": "01",
+            "nome": " ESTUDOS ETNOGRAFICOS",
+            "semester": "2018.2",
+            "professor": "LUSIVAL ANTONIO BARCELLOS e JOHNNI LANGER",
+            "horario": "3N1234",
+            "local": "CE 320 (CE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1304040",
+        "name": " FESTAS RELIGIOSAS POPULARES",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": "60h",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1304040",
+            "turmaid": "01",
+            "nome": " FESTAS RELIGIOSAS POPULARES",
+            "semester": "2018.2",
+            "professor": "DILAINE SOARES SAMPAIO",
+            "horario": "7M1234",
+            "local": "CE 316 (CE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1301195",
+        "name": " FUNDAMENTOS  ANTROPOFILOSÓFICO DA EDUCAÇÃO",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": "60h",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1301195",
+            "turmaid": "13",
+            "nome": " FUNDAMENTOS  ANTROPOFILOSÓFICO DA EDUCAÇÃO",
+            "semester": "2018.2",
+            "professor": "FERNANDES ANTONIO BRASILEIRO RODRIGUES",
+            "horario": "6N1234",
+            "local": "CE 320 (CE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1304003",
+        "name": " INTROD AS ESTRUT ANTROPOLOG IMAGINARIO",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": "60h",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1304003",
+            "turmaid": "01",
+            "nome": " INTROD AS ESTRUT ANTROPOLOG IMAGINARIO",
+            "semester": "2018.2",
+            "professor": "ANA PAULA RODRIGUES CAVALCANTI",
+            "horario": "3N1234",
+            "local": "CE 317 (CE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1304037",
+        "name": " MITANALISE DO TEMPO RELIGIOSO",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": "60h",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1304037",
+            "turmaid": "01",
+            "nome": " MITANALISE DO TEMPO RELIGIOSO",
+            "semester": "2018.2",
+            "professor": "CARLOS ANDRE MACEDO CAVALCANTI",
+            "horario": "5N1234",
+            "local": "CE 319 (CE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1304002",
+        "name": " MITOLOGIA DO ORIENTE MEDIO",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": "60h",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1304002",
+            "turmaid": "01",
+            "nome": " MITOLOGIA DO ORIENTE MEDIO",
+            "semester": "2018.2",
+            "professor": "JOHNNI LANGER",
+            "horario": "4N1234",
+            "local": "CE 317 (CE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1304014",
+        "name": " MITOLOGIAS INDIGENAS E AFRO",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": "30h",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1304014",
+            "turmaid": "01",
+            "nome": " MITOLOGIAS INDIGENAS E AFRO",
+            "semester": "2018.2",
+            "professor": "DILAINE SOARES SAMPAIO e LUSIVAL ANTONIO BARCELLOS",
+            "horario": "5N1234",
+            "local": "CE 320 (CE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1304006",
+        "name": " OFICINA DE TEATRO",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": "60h",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1304006",
+            "turmaid": "01",
+            "nome": " OFICINA DE TEATRO",
+            "semester": "2018.2",
+            "professor": "JOSÉ EVERALDO DE OLIVEIRA VASCONCELOS",
+            "horario": "2N1234",
+            "local": "CE 317 (CE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1304039",
+        "name": " PESQUISA APLICADA AS CIENC DAS RELIGIOES",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": "45h",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1304039",
+            "turmaid": "01",
+            "nome": " PESQUISA APLICADA AS CIENC DAS RELIGIOES",
+            "semester": "2018.2",
+            "professor": "THIAGO ANTONIO AVELLAR DE AQUINO",
+            "horario": "3N123",
+            "local": "CE 318 (CE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1303180",
+        "name": " POLITICA E GESTAO DA EDUCACAO",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": "60h",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1303180",
+            "turmaid": "05",
+            "nome": " POLITICA E GESTAO DA EDUCACAO",
+            "semester": "2018.2",
+            "professor": "MARCOS ANGELUS MIRANDA DE ALCANTARA",
+            "horario": "5N1234",
+            "local": "CAF 105 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+          "1303208"
+        ]
+      },
+      {
+        "id": "1304038",
+        "name": " REFORMAS NA CRISTANDADE",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": "60h",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1304038",
+            "turmaid": "01",
+            "nome": " REFORMAS NA CRISTANDADE",
+            "semester": "2018.2",
+            "professor": "ANA CANDIDA VIEIRA HENRIQUES",
+            "horario": "2N1234",
+            "local": "CE 308 (CE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      }
+    ]
+  }
+}

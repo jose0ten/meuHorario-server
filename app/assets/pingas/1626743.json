@@ -1,0 +1,1799 @@
+{
+  "curriculum": {
+    "id": "062011",
+    "codigo": "1626743",
+    "name": "TURISMO - João Pessoa - Presencial - N - BACHARELADO",
+    "faculty": "CENTRO DE COMUNICAÇÃO, TURISMO E ARTES (CCTA) (11.00.66)",
+    "minch": "225",
+    "maxch": "450",
+    "semesters": 8,
+    "courses": [
+      {
+        "id": "1106144",
+        "name": "UTILIZ DE ECOSSISTEMAS AQ PTURISMO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 60h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1106139"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1107159",
+        "name": "PRINCIPIO DE COMPUTACAO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+          "1204186"
+        ]
+      },
+      {
+        "id": "1201136",
+        "name": "ECONOMIA PARAIBANA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1201181",
+        "name": "INTRODUCAO A ECONOMIA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+          "1201295"
+        ]
+      },
+      {
+        "id": "1201297",
+        "name": "INTRODUÇAO A ECONOMIA INTERNACIONAL",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1202128",
+        "name": "CONTABILIDADE BASICA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1202142",
+        "name": "CONTABILIDADE GERENCIAL",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1202149",
+        "name": "CONTABILIDADE PUBLICA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1204106",
+        "name": "ADM DE POLITCAS PUBLICAS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1204140"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1401104",
+        "name": "ANTROPOLOGIA CULTURAL",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1401114",
+        "name": "CIENCIA POLITICA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1401120",
+        "name": "CULTURA BRASILEIRA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1403153",
+        "name": "PORTUGUÊS INSTRUMENTAL",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1403747",
+        "name": "LIBRAS  LÍNGUA BRASILEIRA DE SINAIS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1405223",
+        "name": "PSICOLOGIA SOCIAL I",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1405234",
+        "name": "PSICOLOGIA SOCIAL II",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1405223"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1406238",
+        "name": "RELACOES PUBLICAS E HUMANA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1406321",
+        "name": "PLANEJAMENTO AMBIENTAL",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1406361"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1406323",
+        "name": "MARKETING DE SERV TURISTICOS PUBLICOS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1406356"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1406325",
+        "name": "MARKETING DE USUARIOS ESPECIALIZADOS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1406356"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1406375",
+        "name": "COMPORTAMENTO DO CONSUMIDOR NO TURISMO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1406356"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1406376",
+        "name": "ROTEIROS TURÍSTICOS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1406358"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1406377",
+        "name": "GESTÃO AMBIENTAL EM EMPREENDIMENTOS TURÍSTICOS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1204140"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1406378",
+        "name": "RELAÇÕES PÚBLICAS PARA O TURISMO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1406379",
+        "name": "DESENVOLVIMENTO SUSTENTÁVEL",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1102247",
+          "1102248"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1406380",
+        "name": "GASTRONOMIA E TURISMO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1406355"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1406381",
+        "name": "MARKETING E PATROCÍNIO CULTURAL",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1406356"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1406382",
+        "name": "TURISMO E ESPAÇO RURAL",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1406383",
+        "name": "FOLKCOMUNICAÇÃO TURÍSTICA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1406384",
+        "name": "COM EMPRESARIAL E GESTÃO CRISES TURISMO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1406385",
+        "name": "SEMINÁRIOS EM TURISMO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1406386",
+        "name": "SISTEMAS DA INFORMAÇÃO EM HOSPITALIDADE",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1406358"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1406387",
+        "name": "TURISMO E IDENTIDADE SÓCIOCULTURAL",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1406388",
+        "name": "PESQ DE OPINIÃO PÚBLICA EM TURISMO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1406389",
+        "name": "TURISMO E DESENVOLVIMENTO DO NORDESTE",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1406390",
+        "name": "MUSEOLOGIA E TURISMO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1406390",
+            "turmaid": "01",
+            "nome": " MUSEOLOGIA E TURISMO",
+            "semester": "2018.2",
+            "professor": "RAMON DAVID DE ABREU",
+            "horario": "6N1234",
+            "local": "CCTA 216 - BLOCO B (CCTA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1406391",
+        "name": "GLOBALIZAÇÃO DO TURISMO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1201300"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1406392",
+        "name": "GESTÃO DE MEIOS DE HOSPEDAGEM II",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1406364"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1406393",
+        "name": "CULTURA ORGANIZACIONAL PO TURISMO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1406394",
+        "name": "ESTUDOS DE CASO EM TURISMO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1204140",
+          "1406358"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1406395",
+        "name": "ANÁLISE DISCURSO REPRES TURÍSTICAS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1406396",
+        "name": "PRODUÇÃO AUDIOVISUAL EM TURISMO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1406397",
+        "name": "TÓPICOS ESPECIAIS EM TURISMO I",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1406398",
+        "name": "TÓPICOS ESPECIAIS EM TURISMO II",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1609307",
+        "name": "TURISMO E LAZER",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1406358"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "2303149",
+        "name": "RELAÇÕES PÚBLICAS PARA O TURISMO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "2303152",
+        "name": "PRODUÇÃO AUDIOVISUAL EM TURISMO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 60h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDLS0024",
+        "name": "LIBRAS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1204140",
+        "name": "INTRODUCAO A ADMINISTRACAO",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1204140",
+            "turmaid": "01",
+            "nome": " INTRODUCAO A ADMINISTRACAO",
+            "semester": "2018.2",
+            "professor": "FABIANA GAMA DE MEDEIROS",
+            "horario": "2N1234",
+            "local": "CAB 105 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+          "GDTH0028"
+        ]
+      },
+      {
+        "id": "1205003",
+        "name": "METODOLOGIA DO TRABALHO CIENTÍFICO",
+        "category": "Complementar Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1205003",
+            "turmaid": "13",
+            "nome": " METODOLOGIA DO TRABALHO CIENTÍFICO",
+            "semester": "2018.2",
+            "professor": "EDILENE TOSCANO GALDINO DOS SANTOS",
+            "horario": "3N1234",
+            "local": "CAC 108 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+          "1401140",
+          "1709001",
+          "GDTH0036"
+        ]
+      },
+      {
+        "id": "1404409",
+        "name": "LING INGLESA APLIC AO TURISMO",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1404409",
+            "turmaid": "01",
+            "nome": " LING INGLESA APLIC AO TURISMO",
+            "semester": "2018.2",
+            "professor": "RAFAELA CARLA SANTOS DE SOUSA",
+            "horario": "4N1234",
+            "local": "CCHLA 424 BLOCO A 2º ANDAR (CCHLA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1406354",
+        "name": "TURISMO, ANTROPOLOGIA E CULTURA",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1406354",
+            "turmaid": "01",
+            "nome": " TURISMO, ANTROPOLOGIA E CULTURA",
+            "semester": "2018.2",
+            "professor": "FABIANE NAGABE",
+            "horario": "5N1234",
+            "local": "CCTA 219 A - BLOCO B (CCTA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1406358",
+        "name": "INTRODUÇÃO AO ESTUDO DO TURISMO",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1406358",
+            "turmaid": "01",
+            "nome": " INTRODUÇÃO AO ESTUDO DO TURISMO",
+            "semester": "2018.2",
+            "professor": "ANDRE LUIZ PIVA DE CARVALHO",
+            "horario": "6N1234",
+            "local": "CI 101 (CI)"
+          },
+          {
+            "id": "1406358",
+            "turmaid": "02",
+            "nome": " INTRODUÇÃO AO ESTUDO DO TURISMO",
+            "semester": "2018.2",
+            "professor": "ANDRE LUIZ PIVA DE CARVALHO",
+            "horario": "6N1234",
+            "local": "CCTA 101 - BLOCO A (CCTA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1102247",
+        "name": "GEOGRAFIA E TURISMO",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1102247",
+            "turmaid": "01",
+            "nome": " GEOGRAFIA E TURISMO",
+            "semester": "2018.2",
+            "professor": "ANDREA LEANDRA PORTO SALES",
+            "horario": "4N1234",
+            "local": "CCTA 222 - BLOCO B (CCTA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1403172",
+        "name": "REDACAO E EXPRESSAO ORAL",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1403172",
+            "turmaid": "01",
+            "nome": " REDACAO E EXPRESSAO ORAL",
+            "semester": "2018.2",
+            "professor": "FABIANA SOUZA SILVA MENDES DE ARAUJO",
+            "horario": "3N1234",
+            "local": "CCTA 217  - BLOCO B (CCTA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1406355",
+        "name": "HOSPITALIDADE",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1406355",
+            "turmaid": "01",
+            "nome": " HOSPITALIDADE",
+            "semester": "2018.2",
+            "professor": "ILANA BARRETO KIYOTANI e DANIELA MARIA LUCENA RODRIGUES",
+            "horario": "2N1234",
+            "local": "CCTA 219 - BLOCO B (CCTA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1406357",
+        "name": "TEORIA E TÉCNICA DO TURISMO TTT",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1406357",
+            "turmaid": "01",
+            "nome": " TEORIA E TÉCNICA DO TURISMO TTT",
+            "semester": "2018.2",
+            "professor": "ANDRE LUIZ PIVA DE CARVALHO",
+            "horario": "5N1234",
+            "local": "CCTA 101 - BLOCO A (CCTA)"
+          }
+        ],
+        "prerequisites": [
+          "1406358"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1102248",
+        "name": "GEOGRAFIA E MEIO AMBIENTE",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1102248",
+            "turmaid": "01",
+            "nome": " GEOGRAFIA E MEIO AMBIENTE",
+            "semester": "2018.2",
+            "professor": "ANDREA LEANDRA PORTO SALES",
+            "horario": "5N1234",
+            "local": "CCTA 217  - BLOCO B (CCTA)"
+          }
+        ],
+        "prerequisites": [
+          "1102247"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1202271",
+        "name": "CONTABILIDADE DE HOTELARIA E RESTAURANTE",
+        "category": "Complementar Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1202271",
+            "turmaid": "01",
+            "nome": " CONTABILIDADE DE HOTELARIA E RESTAURANTE",
+            "semester": "2018.2",
+            "professor": "DANIELLE KARLA VIEIRA E SILVA",
+            "horario": "2N1234",
+            "local": "CCTA 222 - BLOCO B (CCTA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1406353",
+        "name": "SOCIOLOGIA DO TURISMO",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1406364",
+        "name": "GESTÃO DE MEIOS DE HOSPEDAGEM",
+        "category": "Complementar Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1406364",
+            "turmaid": "01",
+            "nome": " GESTÃO DE MEIOS DE HOSPEDAGEM",
+            "semester": "2018.2",
+            "professor": "ESDRAS MATHEUS SILVA MATIAS",
+            "horario": "4N1234",
+            "local": "CCTA 218 - BLOCO B (CCTA)"
+          }
+        ],
+        "prerequisites": [
+          "1204140",
+          "1406358"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1406365",
+        "name": "GESTÃO DE AB EM HOSPITALIDADE",
+        "category": "Complementar Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1406365",
+            "turmaid": "01",
+            "nome": " GESTÃO DE AB EM HOSPITALIDADE",
+            "semester": "2018.2",
+            "professor": "ESDRAS MATHEUS SILVA MATIAS",
+            "horario": "6N1234",
+            "local": "CCTA 218 - BLOCO B (CCTA)"
+          }
+        ],
+        "prerequisites": [
+          "1406357",
+          "1204140"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1106139",
+        "name": "BASES ECOLOGICAS PARA O TURISMO",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1106139",
+            "turmaid": "01",
+            "nome": " BASES ECOLOGICAS PARA O TURISMO",
+            "semester": "2018.2",
+            "professor": "MIODELI NOGUEIRA JUNIOR, ALEXANDRE VASCONCELLOS e ANA CAROLINA FIGUEIREDO LACERDA SAKAMOTO",
+            "horario": "3N1234",
+            "local": "DSE S03 (CCEN)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1406356",
+        "name": "MARKETING TURÍSTICO",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1406356",
+            "turmaid": "01",
+            "nome": " MARKETING TURÍSTICO",
+            "semester": "2018.2",
+            "professor": "ADRIANA BRAMBILLA",
+            "horario": "6N1234",
+            "local": "CCTA 220 - BLOCO B (CCTA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1406366",
+        "name": "PLANEJAMENTO E GESTÃO DE PESSOAS EM HOSPITALIDADE",
+        "category": "Complementar Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1406366",
+            "turmaid": "01",
+            "nome": " PLANEJAMENTO E GESTÃO DE PESSOAS EM HOSPITALIDADE",
+            "semester": "2018.2",
+            "professor": "ESDRAS MATHEUS SILVA MATIAS",
+            "horario": "2N1234",
+            "local": "CCTA 220 - BLOCO B (CCTA)"
+          }
+        ],
+        "prerequisites": [
+          "1406357",
+          "1204140"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1406369",
+        "name": "SISTEMAS DE TRANSPORTE E TURISMO",
+        "category": "Complementar Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1406369",
+            "turmaid": "01",
+            "nome": " SISTEMAS DE TRANSPORTE E TURISMO",
+            "semester": "2018.2",
+            "professor": "ILANA BARRETO KIYOTANI e RAMON DAVID DE ABREU",
+            "horario": "5N1234",
+            "local": "CCTA 219 - BLOCO B (CCTA)"
+          }
+        ],
+        "prerequisites": [
+          "1406357"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1406372",
+        "name": "TURISMO E POLÍTICAS PÚBLICAS",
+        "category": "Complementar Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1406372",
+            "turmaid": "01",
+            "nome": " TURISMO E POLÍTICAS PÚBLICAS",
+            "semester": "2018.2",
+            "professor": "ANA VALERIA ENDRES",
+            "horario": "4N1234",
+            "local": "CCTA 219 A - BLOCO B (CCTA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1108114",
+        "name": "ESTATISTICA III",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1201300",
+        "name": "ECONOMIA DO TURISMO",
+        "category": "Complementar Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1201300",
+            "turmaid": "01",
+            "nome": " ECONOMIA DO TURISMO",
+            "semester": "2018.2",
+            "professor": "ELBIO TROCCOLI PAKMAN",
+            "horario": "4N1234",
+            "local": "CCTA 219 - BLOCO B (CCTA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1406361",
+        "name": "PLANEJAMENTO ESTRATÉGICO DO TURISMO",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1406361",
+            "turmaid": "01",
+            "nome": " PLANEJAMENTO ESTRATÉGICO DO TURISMO",
+            "semester": "2018.2",
+            "professor": "FRANCISCO COELHO MENDES",
+            "horario": "5N1234",
+            "local": "CCTA 220 - BLOCO B (CCTA)"
+          }
+        ],
+        "prerequisites": [
+          "1204140",
+          "1406357"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1406362",
+        "name": "PESQUISA APLICADA AO TURISMO",
+        "category": "Complementar Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1406362",
+            "turmaid": "01",
+            "nome": " PESQUISA APLICADA AO TURISMO",
+            "semester": "2018.2",
+            "professor": "MARCLEIDE MARIA MACEDO PEDERNEIRAS e ILANA BARRETO KIYOTANI",
+            "horario": "3N1234",
+            "local": "CCTA 220 - BLOCO B (CCTA)"
+          }
+        ],
+        "prerequisites": [
+          "1406357"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1406367",
+        "name": "MARKETING DE EMPRESAS TURÍSTICAS",
+        "category": "Complementar Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1406367",
+            "turmaid": "01",
+            "nome": " MARKETING DE EMPRESAS TURÍSTICAS",
+            "semester": "2018.2",
+            "professor": "ROSALMA DINIZ ARAUJO e IZOLDA KELLY PEREIRA BARBOSA",
+            "horario": "6N1234",
+            "local": "CCTA 219 - BLOCO B (CCTA)"
+          }
+        ],
+        "prerequisites": [
+          "1406356"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1106140",
+        "name": "ECOTURISMO",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1106140",
+            "turmaid": "01",
+            "nome": " ECOTURISMO",
+            "semester": "2018.2",
+            "professor": "BRAULIO ALMEIDA SANTOS",
+            "horario": "3N1234",
+            "local": "DSE S01 (CCEN)"
+          }
+        ],
+        "prerequisites": [
+          "1106139"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1406363",
+        "name": "TURISMO E ESPAÇO TURÍSTICO",
+        "category": "Complementar Obrigatória",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1406363",
+            "turmaid": "01",
+            "nome": " TURISMO E ESPAÇO TURÍSTICO",
+            "semester": "2018.2",
+            "professor": "ANA VALERIA ENDRES",
+            "horario": "2N1234",
+            "local": "CCTA 221 - BLOCO B (CCTA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1406368",
+        "name": "MARKETING PROMOCIONAL APL AO TURISMO",
+        "category": "Complementar Obrigatória",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1406368",
+            "turmaid": "01",
+            "nome": " MARKETING PROMOCIONAL APL AO TURISMO",
+            "semester": "2018.2",
+            "professor": "FRANCISCO COELHO MENDES",
+            "horario": "4N1234",
+            "local": "CCTA 220 - BLOCO B (CCTA)"
+          }
+        ],
+        "prerequisites": [
+          "1406356"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1406371",
+        "name": "EMPREENDEDORISMO APL AO TURISMO",
+        "category": "Complementar Obrigatória",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1406371",
+            "turmaid": "01",
+            "nome": " EMPREENDEDORISMO APL AO TURISMO",
+            "semester": "2018.2",
+            "professor": "IZOLDA KELLY PEREIRA BARBOSA",
+            "horario": "6N1234",
+            "local": "CCTA 221 - BLOCO B (CCTA)"
+          }
+        ],
+        "prerequisites": [
+          "1406357"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1408343",
+        "name": "TURISMO E PATRIM HIST ARTIST E CULTURAL",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1408343",
+            "turmaid": "01",
+            "nome": " TURISMO E PATRIM HIST ARTIST E CULTURAL",
+            "semester": "2018.2",
+            "professor": "MOZART VERGETTI DE MENEZES",
+            "horario": "5N1234",
+            "local": "CCHLA 419 BLOCO A (CCHLA)"
+          }
+        ],
+        "prerequisites": [
+          "1406357",
+          "1406354"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1406359",
+        "name": "LEGISLAÇÃO E ÉTICA DO TURISMO",
+        "category": "Obrigatória",
+        "semester": 7,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1406359",
+            "turmaid": "01",
+            "nome": " LEGISLAÇÃO E ÉTICA DO TURISMO",
+            "semester": "2018.2",
+            "professor": "FRANCISCO COELHO MENDES",
+            "horario": "2N1234",
+            "local": "CCTA 218 - BLOCO B (CCTA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1406360",
+        "name": "COMUNICAÇÃO INFORMAÇÃO E TURISMO",
+        "category": "Obrigatória",
+        "semester": 7,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1406360",
+            "turmaid": "01",
+            "nome": " COMUNICAÇÃO INFORMAÇÃO E TURISMO",
+            "semester": "2018.2",
+            "professor": "ROSALMA DINIZ ARAUJO e FRANCISCO COELHO MENDES",
+            "horario": "3N1234",
+            "local": "CCTA 218 - BLOCO B (CCTA)"
+          }
+        ],
+        "prerequisites": [
+          "1406356"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1406370",
+        "name": "AGÊNCIAS E OPERADORAS EM TURISMO",
+        "category": "Complementar Obrigatória",
+        "semester": 7,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1406370",
+            "turmaid": "01",
+            "nome": " AGÊNCIAS E OPERADORAS EM TURISMO",
+            "semester": "2018.2",
+            "professor": "VIVIAN MAITE CASTRO",
+            "horario": "5N1234",
+            "local": "CCTA 218 - BLOCO B (CCTA)"
+          },
+          {
+            "id": "1406370",
+            "turmaid": "02",
+            "nome": " AGÊNCIAS E OPERADORAS EM TURISMO",
+            "semester": "2018.2",
+            "professor": "VIVIAN MAITE CASTRO",
+            "horario": "5N1234",
+            "local": "CCTA 221 - BLOCO B (CCTA)"
+          }
+        ],
+        "prerequisites": [
+          "1406357"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1406373",
+        "name": "PLANEJ E ORGANIZAÇÃO DE EVENTOS",
+        "category": "Complementar Obrigatória",
+        "semester": 7,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1406373",
+            "turmaid": "01",
+            "nome": " PLANEJ E ORGANIZAÇÃO DE EVENTOS",
+            "semester": "2018.2",
+            "professor": "FABIANE NAGABE",
+            "horario": "4N1234",
+            "local": "CCTA 221 - BLOCO B (CCTA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1406400",
+        "name": "ESTÁGIO SUPERVISIONADO EM TURISMO I",
+        "category": "Obrigatória",
+        "semester": 7,
+        "workload": "150h aula 0h lab.",
+        "type": "ESTÁGIO",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1406374",
+        "name": "ESTUDOS TURÍSTICOS BRASILEIROS",
+        "category": "Complementar Obrigatória",
+        "semester": 8,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1406374",
+            "turmaid": "01",
+            "nome": " ESTUDOS TURÍSTICOS BRASILEIROS",
+            "semester": "2018.2",
+            "professor": "ROSALMA DINIZ ARAUJO e VIVIAN MAITE CASTRO",
+            "horario": "5N1234",
+            "local": "CCTA 222 - BLOCO B (CCTA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1406399",
+        "name": "TRABALHO DE CONCLUSÃO DE CURSO TCC",
+        "category": "Complementar Obrigatória",
+        "semester": 8,
+        "workload": "60h aula 0h lab.",
+        "type": "TRABALHO DE CONCLUSÃO DE CURSO",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1406401",
+        "name": "ESTÁGIO SUPERVISIONADO EM TURISMO II",
+        "category": "Obrigatória",
+        "semester": 8,
+        "workload": "150h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1406400"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDEST0102",
+        "name": " ESTATÍSTICA PARA CIÊNCIAS HUMANAS E SOCIAIS I",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": "30h",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDEST0102",
+            "turmaid": "05",
+            "nome": " ESTATÍSTICA PARA CIÊNCIAS HUMANAS E SOCIAIS I",
+            "semester": "2018.2",
+            "professor": "SYDNEY GOMES DA SILVA e JULYANA KELLY TAVARES DE ARAUJO",
+            "horario": "2N1234",
+            "local": "CAA 104 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+          "1108184"
+        ]
+      },
+      {
+        "id": "1404410",
+        "name": " LÍNGUA ESPANHOLA APLICADA AO TURISMO",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": "60h",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1404410",
+            "turmaid": "01",
+            "nome": " LÍNGUA ESPANHOLA APLICADA AO TURISMO",
+            "semester": "2018.2",
+            "professor": "MARIA MERCEDES RIBEIRO PESSOA CAVALCANTI",
+            "horario": "2N1234",
+            "local": "CCHLA 515 (CCHLA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      }
+    ]
+  }
+}

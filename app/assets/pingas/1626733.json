@@ -1,0 +1,2284 @@
+{
+  "curriculum": {
+    "id": "372007",
+    "codigo": "1626733",
+    "name": "NUTRIÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+    "faculty": "CENTRO DE CIÊNCIAS DA SAÚDE (CCS) (11.00.54)",
+    "minch": "180",
+    "maxch": "525",
+    "semesters": 8,
+    "courses": [
+      {
+        "id": "1105220",
+        "name": "QUIMICA GERAL E INORGANICA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1106114",
+        "name": "ECOLOGIA I",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1203158",
+        "name": "ELABORACAO DE TRABALHOS CIENTIFICOS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1204140",
+        "name": "INTRODUCAO A ADMINISTRACAO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+          "GDTH0028"
+        ]
+      },
+      {
+        "id": "1302215",
+        "name": "TECNICAS AUDIOV EDUC I",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1303122",
+        "name": "PLANEJAMENTO EDUCACIONAL",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+          "1303205"
+        ]
+      },
+      {
+        "id": "1401134",
+        "name": "INTRODUCAO A SOCIOLOGIA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1403120",
+        "name": "LINGUA PORTUGUESA I",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "75h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1403747",
+        "name": "LIBRAS  LÍNGUA BRASILEIRA DE SINAIS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1608132",
+        "name": "FITOTERAPIA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1609247",
+        "name": "EDUCACAO FISICA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1609247",
+            "turmaid": "03",
+            "nome": " EDUCACAO FISICA",
+            "semester": "2018.2",
+            "professor": "LUCIANO KLOSTERMANN ANTUNES DE SOUZA",
+            "horario": "3T23",
+            "local": "GE 04 (CCS)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1611183",
+        "name": "MCOP2  HOMEOPATIA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "32h aula 0h lab.",
+        "type": "MODULO",
+        "turmas": [
+          {
+            "id": "1611183",
+            "turmaid": "01",
+            "nome": " MCOP2  HOMEOPATIA",
+            "semester": "2018.2",
+            "professor": "DANIELLY ALBUQUERQUE DA COSTA",
+            "horario": "3T45 (22/11/2018 - 10/05/2019)",
+            "local": "NEPHF (CCS)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1611189",
+        "name": "MCOP2 FITOTERAPIA II",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "32h aula 0h lab.",
+        "type": "MODULO",
+        "turmas": [
+          {
+            "id": "1611189",
+            "turmaid": "01",
+            "nome": " MCOP2 FITOTERAPIA II",
+            "semester": "2018.2",
+            "professor": "MARIA DO SOCORRO SOUSA e DANIELLY ALBUQUERQUE DA COSTA",
+            "horario": "6T12 (22/11/2018 - 10/05/2019)",
+            "local": "NEPHF (CCS)"
+          },
+          {
+            "id": "1611189",
+            "turmaid": "02",
+            "nome": " MCOP2 FITOTERAPIA II",
+            "semester": "2018.2",
+            "professor": "MARIA DO SOCORRO SOUSA e DANIELLY ALBUQUERQUE DA COSTA",
+            "horario": "2M45 (22/11/2018 - 10/05/2019)",
+            "local": "NEPHF (CCS)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1611207",
+        "name": "FITOTERAPIA I",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1611207",
+            "turmaid": "01",
+            "nome": " FITOTERAPIA I",
+            "semester": "2018.2",
+            "professor": "CLIMERIO AVELINO DE FIGUEIREDO",
+            "horario": "2M23",
+            "local": "NEPHF 2 (CCS)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1612132",
+        "name": "ESTAG NACIONAL DE EXTENSAO EM COMUNIDADE",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1612146",
+        "name": "TOPICOS ESPECIAIS EM NUTRICAO I",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1612147",
+        "name": "TOPICOS ESPECIAIS EM NUTRICAO II",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1612148",
+        "name": "TOPICOS ESPECIAIS EM NUTRICAO III",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1612156",
+        "name": "NUTRICAO E ESPORTE",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1612156",
+            "turmaid": "01",
+            "nome": " NUTRICAO E ESPORTE",
+            "semester": "2018.2",
+            "professor": "RAFAELA LIRA FORMIGA CAVALCANTI DE LIMA e LEYLLIANE DE FATIMA LEAL INTERAMINENSE DE ANDRADE",
+            "horario": "5T34",
+            "local": "CCS 603 (CCS)"
+          }
+        ],
+        "prerequisites": [
+          "1104213"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1904007",
+        "name": "HABILIDADES BÁSICAS DE COZINHA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1904009",
+        "name": "COZINHA PARAIBANA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1904010",
+        "name": "ANÁLISE SENSORIAL  DE ALIMEN E BEBIDAS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1904026",
+        "name": "GASTRONOMIA ALTERNATIVA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDLS0024",
+        "name": "LIBRAS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDNUT0082",
+        "name": "ANALISE SENSORIAL DOS ALIMENTOS (NUTRIÇÃO)",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDNUT0083",
+        "name": "NUTRIÇÃO DO IDOSO (NUTRIÇÃO)",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDNUT0083",
+            "turmaid": "01",
+            "nome": " NUTRIÇÃO DO IDOSO (NUTRIÇÃO)",
+            "semester": "2018.2",
+            "professor": "TALITA MARIA ALVES LOPES DA SILVA",
+            "horario": "4T34",
+            "local": "CCS 601 (CCS)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDNUT0084",
+        "name": "NUTRIÇÃO E ESTETICA (NUTRIÇÃO)",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDNUT0085",
+        "name": "PRATICAS SUSTENTÁVEIS DE PRODUÇÃO AGRÍCOLA E DE CONSUMO ALIMENTAR",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDNUT0086",
+        "name": "INTRODUÇÃO A NUTRIÇÃO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDNUT0086",
+            "turmaid": "01",
+            "nome": " INTRODUÇÃO A NUTRIÇÃO",
+            "semester": "2018.2",
+            "professor": "CINTHIA KARLA RODRIGUES DO MONTE GUEDES",
+            "horario": "3M12",
+            "local": "CCS 606 (CCS)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDNUT0087",
+        "name": "GASTRONOMIA APLICADA A NUTRIÇÃO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDNUT0087",
+            "turmaid": "01",
+            "nome": " GASTRONOMIA APLICADA A NUTRIÇÃO",
+            "semester": "2018.2",
+            "professor": "CINTHIA KARLA RODRIGUES DO MONTE GUEDES",
+            "horario": "3M345",
+            "local": "CCS 103 (CCS)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDNUT0088",
+        "name": "ALIMENTOS FUNCIONAIS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDNUT0088",
+            "turmaid": "01",
+            "nome": " ALIMENTOS FUNCIONAIS",
+            "semester": "2018.2",
+            "professor": "MARIA ELIEIDY GOMES DE OLIVEIRA",
+            "horario": "5T12",
+            "local": "CCS 603 (CCS)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1104108",
+        "name": "BIOLOGIA CELULAR",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1104108",
+            "turmaid": "03",
+            "nome": " BIOLOGIA CELULAR",
+            "semester": "2018.2",
+            "professor": "PATRICIA MIRELLA DA SILVA SCARDUA",
+            "horario": "35M45",
+            "local": "CCENB8 (CCEN)"
+          },
+          {
+            "id": "1104108",
+            "turmaid": "04",
+            "nome": " BIOLOGIA CELULAR",
+            "semester": "2018.2",
+            "professor": "GLAUCIA MARQUES FREITAS RIBEIRO",
+            "horario": "35M45",
+            "local": "CCENB 105 (CCEN)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1104213",
+        "name": "BIOQUIMICA GERAL",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "75h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1104213",
+            "turmaid": "01",
+            "nome": " BIOQUIMICA GERAL",
+            "semester": "2018.2",
+            "professor": "TATIANE SANTI GADELHA",
+            "horario": "2M45 4M123",
+            "local": "CCS 606 (CCS)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+          "1104181"
+        ]
+      },
+      {
+        "id": "1401278",
+        "name": "CIENCIAS SOCIAIS APLICADA A SAUDE",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1401278",
+            "turmaid": "01",
+            "nome": " CIENCIAS SOCIAIS APLICADA A SAUDE",
+            "semester": "2018.2",
+            "professor": "PAULO CEZAR DOS SANTOS CARDOSO",
+            "horario": "3M123",
+            "local": "CAH 108 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1610106",
+        "name": "ANATOMIA I",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "90h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1610106",
+            "turmaid": "01",
+            "nome": " ANATOMIA I",
+            "semester": "2018.2",
+            "professor": "ANDRE DE SA BRAGA OLIVEIRA e IVSON BEZERRA DA SILVA",
+            "horario": "56M123",
+            "local": "CCS 416 (CCS)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1610127",
+        "name": "EMBRIOLOGIA I",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "15h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1610127",
+            "turmaid": "01",
+            "nome": " EMBRIOLOGIA I",
+            "semester": "2018.2",
+            "professor": "ALEXANDRE SARMENTO QUEIROGA",
+            "horario": "4M4",
+            "local": "CCS 301 (CCS)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1610135",
+        "name": "HISTOLOGIA I",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1610135",
+            "turmaid": "03",
+            "nome": " HISTOLOGIA I",
+            "semester": "2018.2",
+            "professor": "TATIANA FARIA MACEDO BEZERRA",
+            "horario": "2M123",
+            "local": "CCS 400 (CCS)"
+          },
+          {
+            "id": "1610135",
+            "turmaid": "04",
+            "nome": " HISTOLOGIA I",
+            "semester": "2018.2",
+            "professor": "FREDERICO BARBOSA DE SOUSA",
+            "horario": "2M123",
+            "local": "CCS 307 (CCS)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1612131",
+        "name": "METODOLOGIA DO TRABALHO CIENTIFICO",
+        "category": "Complementar Obrigatória",
+        "semester": 1,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1612131",
+            "turmaid": "01",
+            "nome": " METODOLOGIA DO TRABALHO CIENTIFICO",
+            "semester": "2018.2",
+            "professor": "PATRICIA VASCONCELOS LEITAO MOREIRA",
+            "horario": "4M5 6M45",
+            "local": "CCS 608 (CCS)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1612135",
+        "name": "MARKETING EM NUTRICAO",
+        "category": "Optativa",
+        "semester": 2,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1612135",
+            "turmaid": "01",
+            "nome": " MARKETING EM NUTRICAO",
+            "semester": "2018.2",
+            "professor": "RODRIGO PINHEIRO DE TOLEDO VIANNA",
+            "horario": "3M23",
+            "local": "CCS 509 (CCS)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1612136",
+        "name": "INFORMATICA APLICADA A NUTRICAO",
+        "category": "Optativa",
+        "semester": 2,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1612137",
+        "name": "INTERACAO DROGAS X NUTRIENTES",
+        "category": "Optativa",
+        "semester": 2,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1612137",
+            "turmaid": "01",
+            "nome": " INTERACAO DROGAS X NUTRIENTES",
+            "semester": "2018.2",
+            "professor": "MARIA DE FATIMA DUQUES DE AMORIM",
+            "horario": "6M23",
+            "local": "CCS 602 (CCS)"
+          }
+        ],
+        "prerequisites": [
+          "1104213",
+          "1104119"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1104148",
+        "name": "GENETICA E EVOLUCAO",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1104148",
+            "turmaid": "01",
+            "nome": " GENETICA E EVOLUCAO",
+            "semester": "2018.2",
+            "professor": "JOSE PINTO DE SIQUEIRA JUNIOR",
+            "horario": "2T1234",
+            "local": "CCENB6 (CCEN)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1401280",
+        "name": "ANTROPOLOGIA DA SAUDE II",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1401280",
+            "turmaid": "01",
+            "nome": " ANTROPOLOGIA DA SAUDE II",
+            "semester": "2018.2",
+            "professor": "ALICIA FERREIRA GONCALVES",
+            "horario": "6M123",
+            "local": "CAD 108 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1611113",
+        "name": "FISIOLOGIA I",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1611113",
+            "turmaid": "01",
+            "nome": " FISIOLOGIA I",
+            "semester": "2018.2",
+            "professor": "TEMILCE SIMOES DE ASSIS CANTALICE",
+            "horario": "35T12",
+            "local": "CCS 208 (CCS)"
+          }
+        ],
+        "prerequisites": [
+          "1610106"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1611125",
+        "name": "IMUNOLOGIA II",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1611125",
+            "turmaid": "01",
+            "nome": " IMUNOLOGIA II",
+            "semester": "2018.2",
+            "professor": "JOELMA RODRIGUES DE SOUZA",
+            "horario": "3M45",
+            "local": "CCS 208 (CCS)"
+          },
+          {
+            "id": "1611125",
+            "turmaid": "02",
+            "nome": " IMUNOLOGIA II",
+            "semester": "2018.2",
+            "professor": "PRISCILLA ANNE CASTRO DE ASSIS",
+            "horario": "3M45",
+            "local": "CCS 202 (CCS)"
+          }
+        ],
+        "prerequisites": [
+          "1104213"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1611192",
+        "name": "FUNDAMENTOS DE PARASITOLOGIA",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1611192",
+            "turmaid": "01",
+            "nome": " FUNDAMENTOS DE PARASITOLOGIA",
+            "semester": "2018.2",
+            "professor": "FABIO MARCEL DA SILVA SANTOS",
+            "horario": "6M45",
+            "local": "CCS 208 (CCS)"
+          }
+        ],
+        "prerequisites": [
+          "1104108"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1612133",
+        "name": "BIOQUIMICA DOS ALIMENTOS",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1612133",
+            "turmaid": "01",
+            "nome": " BIOQUIMICA DOS ALIMENTOS",
+            "semester": "2018.2",
+            "professor": "ANA PAULA MORAES VENTURA",
+            "horario": "4M234",
+            "local": "CCS 603 (CCS)"
+          }
+        ],
+        "prerequisites": [
+          "1104213",
+          "1104119"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1612134",
+        "name": "METODOS DE ANALISE DE ALIMENTOS",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1612134",
+            "turmaid": "01",
+            "nome": " METODOS DE ANALISE DE ALIMENTOS",
+            "semester": "2018.2",
+            "professor": "RITA DE CASSIA RAMOS DO EGYPTO QUEIROGA",
+            "horario": "5M345",
+            "local": "CCS 606 (CCS)"
+          }
+        ],
+        "prerequisites": [
+          "1104213",
+          "1104119"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1611122",
+        "name": "FUNDAMENTOS DA HOMEOPATIA",
+        "category": "Optativa",
+        "semester": 3,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1611122",
+            "turmaid": "01",
+            "nome": " FUNDAMENTOS DA HOMEOPATIA",
+            "semester": "2018.2",
+            "professor": "MARIA DO SOCORRO SOUSA e DANIELLY ALBUQUERQUE DA COSTA",
+            "horario": "4T123",
+            "local": "NEPHF (CCS)"
+          },
+          {
+            "id": "1611122",
+            "turmaid": "02",
+            "nome": " FUNDAMENTOS DA HOMEOPATIA",
+            "semester": "2018.2",
+            "professor": "DANIELLY ALBUQUERQUE DA COSTA",
+            "horario": "3N123",
+            "local": "CTJ 106 (CT)"
+          }
+        ],
+        "prerequisites": [
+          "1611113"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1611193",
+        "name": "FARMACOLOGIA",
+        "category": "Optativa",
+        "semester": 3,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1104213",
+          "1104119"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1612139",
+        "name": "BROMATOLOGIA",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1612139",
+            "turmaid": "01",
+            "nome": " BROMATOLOGIA",
+            "semester": "2018.2",
+            "professor": "RITA DE CASSIA RAMOS DO EGYPTO QUEIROGA",
+            "horario": "26M45",
+            "local": "CCS 106 (CCS)"
+          }
+        ],
+        "prerequisites": [
+          "1612133",
+          "1612134"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1612140",
+        "name": "MICROBIOLOGIA DOS ALIMENTOS",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "75h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1612140",
+            "turmaid": "02",
+            "nome": " MICROBIOLOGIA DOS ALIMENTOS",
+            "semester": "2018.2",
+            "professor": "MARIA LUCIA DA CONCEICAO",
+            "horario": "2T123 4T12",
+            "local": "CCS 104 (CCS)"
+          }
+        ],
+        "prerequisites": [
+          "1104108"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1612141",
+        "name": "FISIOPATOLOGIA DA NUTRICAO",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "90h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1612141",
+            "turmaid": "01",
+            "nome": " FISIOPATOLOGIA DA NUTRICAO",
+            "semester": "2018.2",
+            "professor": "ALEXANDRE HENRIQUES GOUVEIA DANTAS",
+            "horario": "26M123",
+            "local": "CCS 606 (CCS)"
+          }
+        ],
+        "prerequisites": [
+          "1611113"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1612142",
+        "name": "EPIDEMIOLOGIA E BIOESTATISTICA",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1612142",
+            "turmaid": "01",
+            "nome": " EPIDEMIOLOGIA E BIOESTATISTICA",
+            "semester": "2018.2",
+            "professor": "ALICE TELES DE CARVALHO",
+            "horario": "3M45 5M23",
+            "local": "CCS 106 (CCS)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1612143",
+        "name": "NUTRICAO HUMANA",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "75h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1612143",
+            "turmaid": "01",
+            "nome": " NUTRICAO HUMANA",
+            "semester": "2018.2",
+            "professor": "JOSE LUIZ DE BRITO ALVES e KATIA RAU DE ALMEIDA CALLOU",
+            "horario": "3M123 5M45",
+            "local": "CCS 106 (CCS)"
+          }
+        ],
+        "prerequisites": [
+          "1104213"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1612144",
+        "name": "TECNICA DIETETICA",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1612144",
+            "turmaid": "01",
+            "nome": " TECNICA DIETETICA",
+            "semester": "2018.2",
+            "professor": "MARIA DA CONCEICAO RODRIGUES GONCALVES",
+            "horario": "4M2345",
+            "local": "CCS 805 (CCS)"
+          }
+        ],
+        "prerequisites": [
+          "1612133"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1612138",
+        "name": "INTERPRETACAO DE EXAMES LABORATORIAIS",
+        "category": "Optativa",
+        "semester": 4,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1612138",
+            "turmaid": "01",
+            "nome": " INTERPRETACAO DE EXAMES LABORATORIAIS",
+            "semester": "2018.2",
+            "professor": "MARIA DE FATIMA DUQUES DE AMORIM",
+            "horario": "2M23",
+            "local": "CCS 602 (CCS)"
+          }
+        ],
+        "prerequisites": [
+          "1612141"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1201126",
+        "name": "ECONOMIA I",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1201126",
+            "turmaid": "05",
+            "nome": " ECONOMIA I",
+            "semester": "2018.2",
+            "professor": "LAERCIO DAMIANE CERQUEIRA DA SILVA",
+            "horario": "35T45",
+            "local": "CAF 110 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+          "1201180"
+        ]
+      },
+      {
+        "id": "1405108",
+        "name": "INTRODUCAO A PSICOLOGIA",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1405108",
+            "turmaid": "01",
+            "nome": " INTRODUCAO A PSICOLOGIA",
+            "semester": "2018.2",
+            "professor": "SANDRA HELENA CAMPOS CARDOSO REIS",
+            "horario": "24M45",
+            "local": "CAG 106 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1612157",
+        "name": "HIGIENE E CONTROLE SANIT DE ALIMENTOS",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1612157",
+            "turmaid": "01",
+            "nome": " HIGIENE E CONTROLE SANIT DE ALIMENTOS",
+            "semester": "2018.2",
+            "professor": "EVANDRO LEITE DE SOUZA",
+            "horario": "5T123",
+            "local": "CCS 608 (CCS)"
+          }
+        ],
+        "prerequisites": [
+          "1612140"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1612158",
+        "name": "DIETETICA",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "90h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1612158",
+            "turmaid": "01",
+            "nome": " DIETETICA",
+            "semester": "2018.2",
+            "professor": "RAFAELA LIRA FORMIGA CAVALCANTI DE LIMA e LEYLLIANE DE FATIMA LEAL INTERAMINENSE DE ANDRADE",
+            "horario": "35M123",
+            "local": "CCS 609 (CCS)"
+          }
+        ],
+        "prerequisites": [
+          "1612144"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1612159",
+        "name": "ADMINIST  E PLANEJ EM SAUDE COLETIVA",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1612159",
+            "turmaid": "01",
+            "nome": " ADMINIST  E PLANEJ EM SAUDE COLETIVA",
+            "semester": "2018.2",
+            "professor": "VANESSA MESSIAS MUNIZ",
+            "horario": "2T123",
+            "local": "CCS 508 (CCS)"
+          }
+        ],
+        "prerequisites": [
+          "1612142"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1612175",
+        "name": "TECNOLOGIA DOS ALIMENTOS NUT",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1612175",
+            "turmaid": "01",
+            "nome": " TECNOLOGIA DOS ALIMENTOS NUT",
+            "semester": "2018.2",
+            "professor": "HELEN RAMALHO DE FARIAS PINTO",
+            "horario": "6M123",
+            "local": "CCS 603 (CCS)"
+          }
+        ],
+        "prerequisites": [
+          "1612140"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1612176",
+        "name": "DIETOTERAPIA I",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1612176",
+            "turmaid": "01",
+            "nome": " DIETOTERAPIA I",
+            "semester": "2018.2",
+            "professor": "PAMELA RODRIGUES MARTINS LINS e JOSE LUIZ DE BRITO ALVES",
+            "horario": "24M23",
+            "local": "CCS 504 (CCS) / CCS 508 (CCS)"
+          }
+        ],
+        "prerequisites": [
+          "1612143"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1612177",
+        "name": "AVALIACAO NUTRICIONAL",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1612177",
+            "turmaid": "01",
+            "nome": " AVALIACAO NUTRICIONAL",
+            "semester": "2018.2",
+            "professor": "PAMELA RODRIGUES MARTINS LINS e TALITA MARIA ALVES LOPES DA SILVA",
+            "horario": "35M45",
+            "local": "CCS 609 (CCS)"
+          }
+        ],
+        "prerequisites": [
+          "1612142"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1612160",
+        "name": "ADM EM UNID DE ALIMENT E NUTRICAO",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "90h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1612160",
+            "turmaid": "01",
+            "nome": " ADM EM UNID DE ALIMENT E NUTRICAO",
+            "semester": "2018.2",
+            "professor": "LAINE DE CARVALHO GUERRA PESSOA MAMEDE",
+            "horario": "4M2345 6M45",
+            "local": "UAN 03 (CCS)"
+          }
+        ],
+        "prerequisites": [
+          "1612157",
+          "1612158"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1612161",
+        "name": "SAUDE MATERNOINFANTIL",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1612161",
+            "turmaid": "01",
+            "nome": " SAUDE MATERNOINFANTIL",
+            "semester": "2018.2",
+            "professor": "ROBERTO TEIXEIRA LIMA",
+            "horario": "3T345",
+            "local": "CCS 508 (CCS)"
+          }
+        ],
+        "prerequisites": [
+          "1612158"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1612162",
+        "name": "NUTRICAO EM SAUDE COLETIVA",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1612162",
+            "turmaid": "01",
+            "nome": " NUTRICAO EM SAUDE COLETIVA",
+            "semester": "2018.2",
+            "professor": "FLAVIA EMILIA LEITE DE LIMA FERREIRA e JOUSIANNY PATRICIO DA SILVA",
+            "horario": "4T123",
+            "local": "CCS 609 (CCS)"
+          }
+        ],
+        "prerequisites": [
+          "1612142"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1612163",
+        "name": "PRATICA DE NUTRICAO CLINICA I",
+        "category": "Complementar Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1612163",
+            "turmaid": "01",
+            "nome": " PRATICA DE NUTRICAO CLINICA I",
+            "semester": "2018.2",
+            "professor": "ILKA MARIA LIMA DE ARAUJO",
+            "horario": "2M123 2T5 (22/11/2018 - 10/05/2019)",
+            "local": "AMB HU (CCS)"
+          },
+          {
+            "id": "1612163",
+            "turmaid": "02",
+            "nome": " PRATICA DE NUTRICAO CLINICA I",
+            "semester": "2018.2",
+            "professor": "RAFAELA LIRA FORMIGA CAVALCANTI DE LIMA e PAMELA RODRIGUES MARTINS LINS",
+            "horario": "2T1234 (22/11/2018 - 10/05/2019)",
+            "local": "AMB HU (CCS)"
+          },
+          {
+            "id": "1612163",
+            "turmaid": "03",
+            "nome": " PRATICA DE NUTRICAO CLINICA I",
+            "semester": "2018.2",
+            "professor": "SONIA CRISTINA PEREIRA DE OLIVEIRA RAMALHO DINIZ",
+            "horario": "3M1234 (22/11/2018 - 10/05/2019)",
+            "local": "AMB HU (CCS)"
+          },
+          {
+            "id": "1612163",
+            "turmaid": "04",
+            "nome": " PRATICA DE NUTRICAO CLINICA I",
+            "semester": "2018.2",
+            "professor": "MARIA DA CONCEICAO RODRIGUES GONCALVES e ILKA MARIA LIMA DE ARAUJO",
+            "horario": "5M123 5T5 (22/11/2018 - 10/05/2019)",
+            "local": "AMB HU (CCS)"
+          },
+          {
+            "id": "1612163",
+            "turmaid": "05",
+            "nome": " PRATICA DE NUTRICAO CLINICA I",
+            "semester": "2018.2",
+            "professor": "MARIA DA CONCEICAO RODRIGUES GONCALVES e ILKA MARIA LIMA DE ARAUJO",
+            "horario": "6M123 6T5 (22/11/2018 - 10/05/2019)",
+            "local": "AMB HU (CCS)"
+          }
+        ],
+        "prerequisites": [
+          "1612176"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1612164",
+        "name": "PESQUISA APLICADA A NUTRICAO",
+        "category": "Complementar Obrigatória",
+        "semester": 5,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1612164",
+            "turmaid": "01",
+            "nome": " PESQUISA APLICADA A NUTRICAO",
+            "semester": "2018.2",
+            "professor": "PATRICIA VASCONCELOS LEITAO MOREIRA",
+            "horario": "2M123 (22/11/2018 - 10/05/2019)",
+            "local": "CCS 608 (CCS)"
+          },
+          {
+            "id": "1612164",
+            "turmaid": "02",
+            "nome": " PESQUISA APLICADA A NUTRICAO",
+            "semester": "2018.2",
+            "professor": "PATRICIA VASCONCELOS LEITAO MOREIRA",
+            "horario": "5M123 (22/11/2018 - 10/05/2019)",
+            "local": "CCS 608 (CCS)"
+          }
+        ],
+        "prerequisites": [
+          "1612131"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1612178",
+        "name": "DIETOTERAPIA II",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1612178",
+            "turmaid": "01",
+            "nome": " DIETOTERAPIA II",
+            "semester": "2018.2",
+            "professor": "SONIA CRISTINA PEREIRA DE OLIVEIRA RAMALHO DINIZ e MARIA JOSE DE CARVALHO COSTA",
+            "horario": "25M45",
+            "local": "UAN 06 (CCS)"
+          }
+        ],
+        "prerequisites": [
+          "1612176"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1612179",
+        "name": "EDUCACAO NUTRICIONAL",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1612179",
+            "turmaid": "01",
+            "nome": " EDUCACAO NUTRICIONAL",
+            "semester": "2018.2",
+            "professor": "ANA CLAUDIA CAVALCANTI PEIXOTO DE VASCONCELOS",
+            "horario": "35T12",
+            "local": "CCS 508 (CCS)"
+          }
+        ],
+        "prerequisites": [
+          "1612142"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1612165",
+        "name": "PRATICA EM UNID DE ALIMENT E NUTRICAO",
+        "category": "Complementar Obrigatória",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1612165",
+            "turmaid": "01",
+            "nome": " PRATICA EM UNID DE ALIMENT E NUTRICAO",
+            "semester": "2018.2",
+            "professor": "KATIA RAU DE ALMEIDA CALLOU",
+            "horario": "6M2345 (22/11/2018 - 10/05/2019)",
+            "local": "UAN 11 (CCS)"
+          },
+          {
+            "id": "1612165",
+            "turmaid": "02",
+            "nome": " PRATICA EM UNID DE ALIMENT E NUTRICAO",
+            "semester": "2018.2",
+            "professor": "MARIA DA CONCEICAO RODRIGUES GONCALVES",
+            "horario": "2M2345 (22/11/2018 - 10/05/2019)",
+            "local": "UAN 08 (CCS)"
+          },
+          {
+            "id": "1612165",
+            "turmaid": "03",
+            "nome": " PRATICA EM UNID DE ALIMENT E NUTRICAO",
+            "semester": "2018.2",
+            "professor": "MARIA ELIEIDY GOMES DE OLIVEIRA",
+            "horario": "2M2345 (22/11/2018 - 10/05/2019)",
+            "local": "UAN 03 (CCS)"
+          },
+          {
+            "id": "1612165",
+            "turmaid": "04",
+            "nome": " PRATICA EM UNID DE ALIMENT E NUTRICAO",
+            "semester": "2018.2",
+            "professor": "LEYLLIANE DE FATIMA LEAL INTERAMINENSE DE ANDRADE",
+            "horario": "2M2345 (22/11/2018 - 10/05/2019)",
+            "local": "UAN 05 (CCS)"
+          },
+          {
+            "id": "1612165",
+            "turmaid": "05",
+            "nome": " PRATICA EM UNID DE ALIMENT E NUTRICAO",
+            "semester": "2018.2",
+            "professor": "LAINE DE CARVALHO GUERRA PESSOA MAMEDE",
+            "horario": "3M2345 (22/11/2018 - 10/05/2019)",
+            "local": "UAN 02 (CCS)"
+          },
+          {
+            "id": "1612165",
+            "turmaid": "06",
+            "nome": " PRATICA EM UNID DE ALIMENT E NUTRICAO",
+            "semester": "2018.2",
+            "professor": "JAILANE DE SOUZA AQUINO",
+            "horario": "3M2345 (22/11/2018 - 10/05/2019)",
+            "local": "UAN 06 (CCS)"
+          },
+          {
+            "id": "1612165",
+            "turmaid": "07",
+            "nome": " PRATICA EM UNID DE ALIMENT E NUTRICAO",
+            "semester": "2018.2",
+            "professor": "ANA PAULA MORAES VENTURA",
+            "horario": "5M2345 (22/11/2018 - 10/05/2019)",
+            "local": "UAN 05 (CCS)"
+          }
+        ],
+        "prerequisites": [
+          "1612160"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1612166",
+        "name": "PRATICA EM SAUDE COLETIVA",
+        "category": "Complementar Obrigatória",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1612166",
+            "turmaid": "01",
+            "nome": " PRATICA EM SAUDE COLETIVA",
+            "semester": "2018.2",
+            "professor": "RODRIGO PINHEIRO DE TOLEDO VIANNA",
+            "horario": "2M1234 (22/11/2018 - 10/05/2019)",
+            "local": "UAN 11 (CCS)"
+          },
+          {
+            "id": "1612166",
+            "turmaid": "02",
+            "nome": " PRATICA EM SAUDE COLETIVA",
+            "semester": "2018.2",
+            "professor": "PATRICIA VASCONCELOS LEITAO MOREIRA",
+            "horario": "3M1234 (22/11/2018 - 10/05/2019)",
+            "local": "UNID SAU02 (CCS)"
+          },
+          {
+            "id": "1612166",
+            "turmaid": "07",
+            "nome": " PRATICA EM SAUDE COLETIVA",
+            "semester": "2018.2",
+            "professor": "FLAVIA EMILIA LEITE DE LIMA FERREIRA e JOUSIANNY PATRICIO DA SILVA",
+            "horario": "5M1234 (22/11/2018 - 10/05/2019)",
+            "local": "UAN 03 (CCS)"
+          },
+          {
+            "id": "1612166",
+            "turmaid": "08",
+            "nome": " PRATICA EM SAUDE COLETIVA",
+            "semester": "2018.2",
+            "professor": "ALICE TELES DE CARVALHO",
+            "horario": "6M1234 (22/11/2018 - 10/05/2019)",
+            "local": "UAN 08 (CCS)"
+          },
+          {
+            "id": "1612166",
+            "turmaid": "09",
+            "nome": " PRATICA EM SAUDE COLETIVA",
+            "semester": "2018.2",
+            "professor": "JOUSIANNY PATRICIO DA SILVA",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+          "1612177",
+          "1612161",
+          "1612162"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1612167",
+        "name": "PRATICA EM NUTRICAO CLINICA II",
+        "category": "Complementar Obrigatória",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1612167",
+            "turmaid": "01",
+            "nome": " PRATICA EM NUTRICAO CLINICA II",
+            "semester": "2018.2",
+            "professor": "SONIA CRISTINA PEREIRA DE OLIVEIRA RAMALHO DINIZ e MARIA JOSE DE CARVALHO COSTA",
+            "horario": "4M2345 (22/11/2018 - 10/05/2019)",
+            "local": "CCS/HU (CCS)"
+          }
+        ],
+        "prerequisites": [
+          "1612178"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1612168",
+        "name": "NUTRICAO EXPERIMENTAL",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1612168",
+            "turmaid": "01",
+            "nome": " NUTRICAO EXPERIMENTAL",
+            "semester": "2018.2",
+            "professor": "JAILANE DE SOUZA AQUINO",
+            "horario": "2T34",
+            "local": "CCS 602 (CCS)"
+          },
+          {
+            "id": "1612168",
+            "turmaid": "02",
+            "nome": " NUTRICAO EXPERIMENTAL",
+            "semester": "2018.2",
+            "professor": "JAILANE DE SOUZA AQUINO",
+            "horario": "4T12",
+            "local": "CCS 602 (CCS)"
+          }
+        ],
+        "prerequisites": [
+          "1612143",
+          "1612158"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1612169",
+        "name": "VIGILANCIA SANIT EM SERV DE ALIM E NUT",
+        "category": "Complementar Obrigatória",
+        "semester": 6,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1612169",
+            "turmaid": "01",
+            "nome": " VIGILANCIA SANIT EM SERV DE ALIM E NUT",
+            "semester": "2018.2",
+            "professor": "MARIA ELIEIDY GOMES DE OLIVEIRA",
+            "horario": "4T345",
+            "local": "CCS 602 (CCS)"
+          }
+        ],
+        "prerequisites": [
+          "1612157"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1612180",
+        "name": "ETICA PROFISSIONAL",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1612180",
+            "turmaid": "01",
+            "nome": " ETICA PROFISSIONAL",
+            "semester": "2018.2",
+            "professor": "JAILANE DE SOUZA AQUINO",
+            "horario": "2T12",
+            "local": "CCS 602 (CCS)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1612170",
+        "name": "ESTAGIO SUPERVISIONADO I",
+        "category": "Obrigatória",
+        "semester": 7,
+        "workload": "210h aula 0h lab.",
+        "type": "ESTÁGIO",
+        "turmas": [
+          {
+            "id": "1612170",
+            "turmaid": "01",
+            "nome": " ESTAGIO SUPERVISIONADO I",
+            "semester": "2018.2",
+            "professor": "LAINE DE CARVALHO GUERRA PESSOA MAMEDE",
+            "horario": "",
+            "local": ""
+          },
+          {
+            "id": "1612170",
+            "turmaid": "02",
+            "nome": " ESTAGIO SUPERVISIONADO I",
+            "semester": "2018.2",
+            "professor": "JAILANE DE SOUZA AQUINO",
+            "horario": "",
+            "local": ""
+          },
+          {
+            "id": "1612170",
+            "turmaid": "03",
+            "nome": " ESTAGIO SUPERVISIONADO I",
+            "semester": "2018.2",
+            "professor": "LEYLLIANE DE FATIMA LEAL INTERAMINENSE DE ANDRADE",
+            "horario": "",
+            "local": ""
+          },
+          {
+            "id": "1612170",
+            "turmaid": "04",
+            "nome": " ESTAGIO SUPERVISIONADO I",
+            "semester": "2018.2",
+            "professor": "MARIA DA CONCEICAO RODRIGUES GONCALVES",
+            "horario": "",
+            "local": ""
+          },
+          {
+            "id": "1612170",
+            "turmaid": "05",
+            "nome": " ESTAGIO SUPERVISIONADO I",
+            "semester": "2018.2",
+            "professor": "KATIA RAU DE ALMEIDA CALLOU",
+            "horario": "",
+            "local": ""
+          },
+          {
+            "id": "1612170",
+            "turmaid": "06",
+            "nome": " ESTAGIO SUPERVISIONADO I",
+            "semester": "2018.2",
+            "professor": "ANA PAULA MORAES VENTURA",
+            "horario": "",
+            "local": ""
+          },
+          {
+            "id": "1612170",
+            "turmaid": "07",
+            "nome": " ESTAGIO SUPERVISIONADO I",
+            "semester": "2018.2",
+            "professor": "MARIA ELIEIDY GOMES DE OLIVEIRA",
+            "horario": "",
+            "local": ""
+          },
+          {
+            "id": "1612170",
+            "turmaid": "08",
+            "nome": " ESTAGIO SUPERVISIONADO I",
+            "semester": "2018.2",
+            "professor": "CINTHIA KARLA RODRIGUES DO MONTE GUEDES",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1612171",
+        "name": "ESTAGIO SUPERVISIONADO II",
+        "category": "Obrigatória",
+        "semester": 7,
+        "workload": "150h aula 0h lab.",
+        "type": "ESTÁGIO",
+        "turmas": [
+          {
+            "id": "1612171",
+            "turmaid": "01",
+            "nome": " ESTAGIO SUPERVISIONADO II",
+            "semester": "2018.2",
+            "professor": "ROBERTO TEIXEIRA LIMA",
+            "horario": "",
+            "local": ""
+          },
+          {
+            "id": "1612171",
+            "turmaid": "02",
+            "nome": " ESTAGIO SUPERVISIONADO II",
+            "semester": "2018.2",
+            "professor": "ROBERTO TEIXEIRA LIMA",
+            "horario": "",
+            "local": ""
+          },
+          {
+            "id": "1612171",
+            "turmaid": "03",
+            "nome": " ESTAGIO SUPERVISIONADO II",
+            "semester": "2018.2",
+            "professor": "ROBERTO TEIXEIRA LIMA",
+            "horario": "",
+            "local": ""
+          },
+          {
+            "id": "1612171",
+            "turmaid": "04",
+            "nome": " ESTAGIO SUPERVISIONADO II",
+            "semester": "2018.2",
+            "professor": "ROBERTO TEIXEIRA LIMA",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1612172",
+        "name": "ESTAGIO SUPERVISIONADO III",
+        "category": "Obrigatória",
+        "semester": 8,
+        "workload": "210h aula 0h lab.",
+        "type": "ESTÁGIO",
+        "turmas": [
+          {
+            "id": "1612172",
+            "turmaid": "01",
+            "nome": " ESTAGIO SUPERVISIONADO III",
+            "semester": "2018.2",
+            "professor": "RODRIGO PINHEIRO DE TOLEDO VIANNA",
+            "horario": "",
+            "local": ""
+          },
+          {
+            "id": "1612172",
+            "turmaid": "02",
+            "nome": " ESTAGIO SUPERVISIONADO III",
+            "semester": "2018.2",
+            "professor": "PATRICIA VASCONCELOS LEITAO MOREIRA",
+            "horario": "",
+            "local": ""
+          },
+          {
+            "id": "1612172",
+            "turmaid": "03",
+            "nome": " ESTAGIO SUPERVISIONADO III",
+            "semester": "2018.2",
+            "professor": "ROBERTO TEIXEIRA LIMA",
+            "horario": "",
+            "local": ""
+          },
+          {
+            "id": "1612172",
+            "turmaid": "04",
+            "nome": " ESTAGIO SUPERVISIONADO III",
+            "semester": "2018.2",
+            "professor": "VANESSA MESSIAS MUNIZ",
+            "horario": "",
+            "local": ""
+          },
+          {
+            "id": "1612172",
+            "turmaid": "05",
+            "nome": " ESTAGIO SUPERVISIONADO III",
+            "semester": "2018.2",
+            "professor": "VANESSA MESSIAS MUNIZ",
+            "horario": "",
+            "local": ""
+          },
+          {
+            "id": "1612172",
+            "turmaid": "06",
+            "nome": " ESTAGIO SUPERVISIONADO III",
+            "semester": "2018.2",
+            "professor": "ANA CLAUDIA CAVALCANTI PEIXOTO DE VASCONCELOS",
+            "horario": "",
+            "local": ""
+          },
+          {
+            "id": "1612172",
+            "turmaid": "07",
+            "nome": " ESTAGIO SUPERVISIONADO III",
+            "semester": "2018.2",
+            "professor": "FLAVIA EMILIA LEITE DE LIMA FERREIRA e JOUSIANNY PATRICIO DA SILVA",
+            "horario": "",
+            "local": ""
+          },
+          {
+            "id": "1612172",
+            "turmaid": "08",
+            "nome": " ESTAGIO SUPERVISIONADO III",
+            "semester": "2018.2",
+            "professor": "ALICE TELES DE CARVALHO",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1612173",
+        "name": "ESTAGIO SUPERVISIONADO IV",
+        "category": "Obrigatória",
+        "semester": 8,
+        "workload": "210h aula 0h lab.",
+        "type": "ESTÁGIO",
+        "turmas": [
+          {
+            "id": "1612173",
+            "turmaid": "01",
+            "nome": " ESTAGIO SUPERVISIONADO IV",
+            "semester": "2018.2",
+            "professor": "SONIA CRISTINA PEREIRA DE OLIVEIRA RAMALHO DINIZ",
+            "horario": "",
+            "local": ""
+          },
+          {
+            "id": "1612173",
+            "turmaid": "02",
+            "nome": " ESTAGIO SUPERVISIONADO IV",
+            "semester": "2018.2",
+            "professor": "TALITA MARIA ALVES LOPES DA SILVA",
+            "horario": "",
+            "local": ""
+          },
+          {
+            "id": "1612173",
+            "turmaid": "03",
+            "nome": " ESTAGIO SUPERVISIONADO IV",
+            "semester": "2018.2",
+            "professor": "MARIA JOSE DE CARVALHO COSTA",
+            "horario": "",
+            "local": ""
+          },
+          {
+            "id": "1612173",
+            "turmaid": "04",
+            "nome": " ESTAGIO SUPERVISIONADO IV",
+            "semester": "2018.2",
+            "professor": "JOSE LUIZ DE BRITO ALVES",
+            "horario": "",
+            "local": ""
+          },
+          {
+            "id": "1612173",
+            "turmaid": "05",
+            "nome": " ESTAGIO SUPERVISIONADO IV",
+            "semester": "2018.2",
+            "professor": "MARIA DE FATIMA DUQUES DE AMORIM",
+            "horario": "",
+            "local": ""
+          },
+          {
+            "id": "1612173",
+            "turmaid": "06",
+            "nome": " ESTAGIO SUPERVISIONADO IV",
+            "semester": "2018.2",
+            "professor": "PAMELA RODRIGUES MARTINS LINS",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1612174",
+        "name": "TRABALHO DE CONCLUSAO DE CURSO TCC",
+        "category": "Complementar Obrigatória",
+        "semester": 8,
+        "workload": "45h aula 0h lab.",
+        "type": "TRABALHO DE CONCLUSÃO DE CURSO",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1612164"
+        ],
+        "equivalences": [
+
+        ]
+      }
+    ]
+  }
+}

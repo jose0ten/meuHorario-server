@@ -1,0 +1,1510 @@
+{
+  "curriculum": {
+    "id": "95012011",
+    "codigo": "1626776",
+    "name": "BIOTECNOLOGIA - João Pessoa - Presencial - MT - BACHARELADO",
+    "faculty": "CENTRO DE BIOTECNOLOGIA (CBIOTEC) (11.01.44)",
+    "minch": "375",
+    "maxch": "450",
+    "semesters": 8,
+    "courses": [
+      {
+        "id": "1202252",
+        "name": "ATIVIDADE DE EXTENSAO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1202253",
+        "name": "ATIVIDADE  DE EXTENSAO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "15h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1403747",
+        "name": "LIBRAS  LÍNGUA BRASILEIRA DE SINAIS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1702155",
+        "name": "ATIVIDADE DE EXTENSÃO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "2201015",
+        "name": "EDITORAÇÃO DE PERIÓDICOS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "2201015",
+            "turmaid": "01",
+            "nome": " EDITORAÇÃO DE PERIÓDICOS",
+            "semester": "2018.2",
+            "professor": "SABRINA RAFAEL BEZERRA",
+            "horario": "3M23",
+            "local": "CAD 109 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "2203010",
+        "name": "ESPECTOMETRIA DE MASSAS APLICADA A BIOCIÊNCIAS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "2203012",
+        "name": "INTRODUÇÃO A PATOLOGIA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "2203013",
+        "name": "TÉCNICAS DE CRIAÇÃO DE ANIMAIS DE LABORATÓRIO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "2203028",
+        "name": "MICROBIOLOGIA DE ALIMENTOS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDLS0024",
+        "name": "LIBRAS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "2201001",
+        "name": "INTRODUÇÃO À BIOTECNOLOGIA",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "2201001",
+            "turmaid": "01",
+            "nome": " INTRODUÇÃO À BIOTECNOLOGIA",
+            "semester": "2018.2",
+            "professor": "SILDIVANE VALCACIA SILVA",
+            "horario": "2T23 5T45",
+            "local": "CAE 107 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "2201002",
+        "name": "BIOÉTICA",
+        "category": "Complementar Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "2201002",
+            "turmaid": "01",
+            "nome": " BIOÉTICA",
+            "semester": "2018.2",
+            "professor": "SABRINA RAFAEL BEZERRA",
+            "horario": "23T45",
+            "local": "CAF 103 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "2201003",
+        "name": "METODOLOGIA DO TRABALHO CIENTÍFICO",
+        "category": "Complementar Obrigatória",
+        "semester": 1,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "2201003",
+            "turmaid": "01",
+            "nome": " METODOLOGIA DO TRABALHO CIENTÍFICO",
+            "semester": "2018.2",
+            "professor": "SAMUEL PAULO CIBULSKI",
+            "horario": "3T23",
+            "local": "CAD 105 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "2203001",
+        "name": "INTRODUÇÃO Á SISTEMÁTICA VEGETAL",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "90h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "2203001",
+            "turmaid": "01",
+            "nome": " INTRODUÇÃO Á SISTEMÁTICA VEGETAL",
+            "semester": "2018.2",
+            "professor": "MARIA DE FATIMA AGRA",
+            "horario": "4T1234 5T23",
+            "local": "CAE 106 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "2203002",
+        "name": "PRINCÍPIOS MOLECULARES E CELULARES",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "2203002",
+            "turmaid": "01",
+            "nome": " PRINCÍPIOS MOLECULARES E CELULARES",
+            "semester": "2018.2",
+            "professor": "TATJANA KEESEN DE SOUZA LIMA CLEMENTE",
+            "horario": "24M45",
+            "local": "CAD 106 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "2203003",
+        "name": "PRINCÍPIOS DE QUÍMICA ORGÂNICA I",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "90h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "2203003",
+            "turmaid": "01",
+            "nome": " PRINCÍPIOS DE QUÍMICA ORGÂNICA I",
+            "semester": "2018.2",
+            "professor": "KRISTERSON REINALDO DE LUNA FREIRE",
+            "horario": "35M123",
+            "local": "CAH 103 (PRG) / CAD 105 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "2203004",
+        "name": "QUÍMICA GERAL",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "2203004",
+            "turmaid": "01",
+            "nome": " QUÍMICA GERAL",
+            "semester": "2018.2",
+            "professor": "LUIS CEZAR RODRIGUES",
+            "horario": "35M45",
+            "local": "CAC 108 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "2203011",
+        "name": "EDITORAÇÃO DE PERIÓDICOS",
+        "category": "Optativa",
+        "semester": 2,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "2203005",
+        "name": "PRINCÍPIOS DE QUÍMICA ORGÂNICA II",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "90h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "2203005",
+            "turmaid": "01",
+            "nome": " PRINCÍPIOS DE QUÍMICA ORGÂNICA II",
+            "semester": "2018.2",
+            "professor": "LUIS CEZAR RODRIGUES",
+            "horario": "6M123 5T123",
+            "local": "CAC 108 (PRG)"
+          }
+        ],
+        "prerequisites": [
+          "2203003"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "2203006",
+        "name": "FÍSICA BIOLÓGICA I",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "2203006",
+            "turmaid": "01",
+            "nome": " FÍSICA BIOLÓGICA I",
+            "semester": "2018.2",
+            "professor": "VINICIUS GUZZONI",
+            "horario": "35M45",
+            "local": "sala 10 (CBIOTEC)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "2203007",
+        "name": "MORFOFISIOLOGIA I",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "2203007",
+            "turmaid": "01",
+            "nome": " MORFOFISIOLOGIA I",
+            "semester": "2018.2",
+            "professor": "MARIA DO SOCORRO DE FRANCA FALCAO",
+            "horario": "24M45",
+            "local": "CAF 105 (PRG) / CAE 103 (PRG)"
+          }
+        ],
+        "prerequisites": [
+          "2203002"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "2203008",
+        "name": "QUIMICA BIOLÓGICA I",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "90h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "2203008",
+            "turmaid": "01",
+            "nome": " QUIMICA BIOLÓGICA I",
+            "semester": "2018.2",
+            "professor": "MARIA DO SOCORRO DE FRANCA FALCAO e IAN PORTO GURGEL DO AMARAL",
+            "horario": "34T123",
+            "local": "CAF 105 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "2203009",
+        "name": "MORFOANATOMIA DE PLANTAS VASCULARES",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "90h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "2203009",
+            "turmaid": "01",
+            "nome": " MORFOANATOMIA DE PLANTAS VASCULARES",
+            "semester": "2018.2",
+            "professor": "MARIA DE FATIMA AGRA",
+            "horario": "2T1234 3T45",
+            "local": "CAD 106 (PRG)"
+          }
+        ],
+        "prerequisites": [
+          "2203001"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDBTC0031",
+        "name": "EDUCAÇÃO DAS RELAÇÕES ÉTNICOS",
+        "category": "Complementar Obrigatória",
+        "semester": 2,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDBTC0031",
+            "turmaid": "01",
+            "nome": " EDUCAÇÃO DAS RELAÇÕES ÉTNICOS-RACIAIS",
+            "semester": "2018.2",
+            "professor": "SABRINA RAFAEL BEZERRA e FLAVIA DE OLIVEIRA PAULINO",
+            "horario": "6T23",
+            "local": "CAF 106 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "2201004",
+        "name": "MÉTODOS ANALÍTICOS EM BIOTECNOLOGIA",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "90h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "2201004",
+            "turmaid": "02",
+            "nome": " MÉTODOS ANALÍTICOS EM BIOTECNOLOGIA",
+            "semester": "2018.2",
+            "professor": "KRISTERSON REINALDO DE LUNA FREIRE",
+            "horario": "35M45 6M23",
+            "local": "CAF 109 (PRG) / CAF 111 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "2201009",
+        "name": "PRINCÍPIOS DE MICROBIOLOGIA I",
+        "category": "Complementar Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "2201009",
+            "turmaid": "01",
+            "nome": " PRINCÍPIOS DE MICROBIOLOGIA I",
+            "semester": "2018.2",
+            "professor": "ULRICH VASCONCELOS DA ROCHA GOMES",
+            "horario": "35T45",
+            "local": "sala 10 (CBIOTEC)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "2201010",
+        "name": "PRINCÍPIOS DE PARASITOLOGIA",
+        "category": "Complementar Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "2201010",
+            "turmaid": "01",
+            "nome": " PRINCÍPIOS DE PARASITOLOGIA",
+            "semester": "2018.2",
+            "professor": "FABIOLA DA CRUZ NUNES",
+            "horario": "35T23",
+            "local": "CAE 105 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "2203014",
+        "name": "MORFOFISIOLOGIA II",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "2203014",
+            "turmaid": "01",
+            "nome": " MORFOFISIOLOGIA II",
+            "semester": "2018.2",
+            "professor": "JOSIANE DE CAMPOS CRUZ e ENEAS RICARDO DE MORAIS GOMES",
+            "horario": "24M45",
+            "local": "CAD 102 (PRG) / CAH 107 (PRG)"
+          }
+        ],
+        "prerequisites": [
+          "2203007"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "2203015",
+        "name": "FÍSICA BIOLÓGICA II",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "2203015",
+            "turmaid": "01",
+            "nome": " FÍSICA BIOLÓGICA II",
+            "semester": "2018.2",
+            "professor": "JOSIANE DE CAMPOS CRUZ",
+            "horario": "24M23",
+            "local": "CAE 106 (PRG) / CAH 107 (PRG)"
+          }
+        ],
+        "prerequisites": [
+          "2203006"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "2203016",
+        "name": "BASES DA BIOLOGIA MOLECULAR",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "2203016",
+            "turmaid": "01",
+            "nome": " BASES DA BIOLOGIA MOLECULAR",
+            "semester": "2018.2",
+            "professor": "JULIANA FRANCO ALMEIDA",
+            "horario": "2T45 4T23",
+            "local": "CAF 102 (PRG) / CAD 102 (PRG)"
+          }
+        ],
+        "prerequisites": [
+          "2203002"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "2203017",
+        "name": "QUÍMICA  BIOLÓGICA II",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "2203017",
+            "turmaid": "01",
+            "nome": " QUÍMICA  BIOLÓGICA II",
+            "semester": "2018.2",
+            "professor": "IAN PORTO GURGEL DO AMARAL",
+            "horario": "2T23 4T45",
+            "local": "CAH 108 (PRG)"
+          }
+        ],
+        "prerequisites": [
+          "2203008"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "2201013",
+        "name": "TÓPICOS ESPECIAIS EM BIOTECNOLOGIA I",
+        "category": "Complementar Flexiva",
+        "semester": 4,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "2201013",
+            "turmaid": "01",
+            "nome": " TÓPICOS ESPECIAIS EM BIOTECNOLOGIA I",
+            "semester": "2018.2",
+            "professor": "SAMUEL PAULO CIBULSKI",
+            "horario": "3T45",
+            "local": "CAD 105 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "2203027",
+        "name": "BIOFÍSICA  CELULAR",
+        "category": "Optativa",
+        "semester": 4,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "2203015"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "2201011",
+        "name": "PRINCÍPIOS DE MICROBIOLOGIA II",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "2201011",
+            "turmaid": "01",
+            "nome": " PRINCÍPIOS DE MICROBIOLOGIA II",
+            "semester": "2018.2",
+            "professor": "ULRICH VASCONCELOS DA ROCHA GOMES",
+            "horario": "35M23",
+            "local": "sala 10 (CBIOTEC)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "2201012",
+        "name": "FARMACOLOGIA APLICADA À BIOTECNOLOGIA",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "90h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "2201012",
+            "turmaid": "01",
+            "nome": " FARMACOLOGIA APLICADA À BIOTECNOLOGIA",
+            "semester": "2018.2",
+            "professor": "RAFAEL DE ALMEIDA TRAVASSOS",
+            "horario": "35T123",
+            "local": "sala 10 (CBIOTEC)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "2201014",
+        "name": "ESTÁGIO SUPERVISIONADO I",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "75h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "2201014",
+            "turmaid": "01",
+            "nome": " BIOTECNOLOGIA",
+            "semester": "2018.2",
+            "professor": "MARIA DO SOCORRO DE FRANCA FALCAO, MARIA DE FATIMA AGRA, ANDREA FARIAS DE ALMEIDA, LUIS CEZAR RODRIGUES e TATJANA KEESEN DE SOUZA LIMA CLEMENTE",
+            "horario": "6T12345",
+            "local": "sala 3 (CBIOTEC)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "2203019",
+        "name": "BASES DA GENÉTICA",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "2203019",
+            "turmaid": "01",
+            "nome": " BASES DA GENÉTICA",
+            "semester": "2018.2",
+            "professor": "ADNA CRISTINA BARBOSA DE SOUSA",
+            "horario": "24M23",
+            "local": "CAE 106 (PRG) / CAG 101 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "2203020",
+        "name": "IMUNOBIOLOGIA I",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "2203020",
+            "turmaid": "01",
+            "nome": " IMUNOBIOLOGIA I",
+            "semester": "2018.2",
+            "professor": "SANDRA RODRIGUES MASCARENHAS",
+            "horario": "35M45",
+            "local": "CAD 102 (PRG) / CAE 103 (PRG)"
+          }
+        ],
+        "prerequisites": [
+          "2203002"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "2201016",
+        "name": "BIOTECNOLOGIA DE ALIMENTOS  I",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "2201016",
+            "turmaid": "01",
+            "nome": " BIOTECNOLOGIA DE ALIMENTOS  I",
+            "semester": "2018.2",
+            "professor": "FLAVIA DE OLIVEIRA PAULINO",
+            "horario": "35M45",
+            "local": "CAH 104 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "2201017",
+        "name": "BIORREATORES E BIOPROCESSOS",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "2201017",
+            "turmaid": "01",
+            "nome": " BIORREATORES E BIOPROCESSOS",
+            "semester": "2018.2",
+            "professor": "ANDREA FARIAS DE ALMEIDA",
+            "horario": "35M23",
+            "local": "CAF 102 (PRG) / CAE 106 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "2201018",
+        "name": "MELHORAMENTO GENÉTICO APLICADO À BIOTECNOLOGIA",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "2201018",
+            "turmaid": "01",
+            "nome": " MELHORAMENTO GENÉTICO APLICADO À BIOTECNOLOGIA",
+            "semester": "2018.2",
+            "professor": "ADNA CRISTINA BARBOSA DE SOUSA",
+            "horario": "24M45",
+            "local": "CAD 103 (PRG)"
+          }
+        ],
+        "prerequisites": [
+          "2203019"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "2201019",
+        "name": "ESTÁGIO SUPERVISIONADO II",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "75h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "2201019",
+            "turmaid": "01",
+            "nome": " BIOTECNOLOGIA",
+            "semester": "2018.2",
+            "professor": "LUCIANO COUTINHO SILVA, ANDREA FARIAS DE ALMEIDA, JOSIANE DE CAMPOS CRUZ e ADNA CRISTINA BARBOSA DE SOUSA",
+            "horario": "6T12345",
+            "local": "sala 10 (CBIOTEC)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "2203021",
+        "name": "IMUNOBIOLOGIA II",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "2203021",
+            "turmaid": "01",
+            "nome": " IMUNOBIOLOGIA II",
+            "semester": "2018.2",
+            "professor": "TATJANA KEESEN DE SOUZA LIMA CLEMENTE",
+            "horario": "24T23",
+            "local": "CAF 104 (PRG)"
+          }
+        ],
+        "prerequisites": [
+          "2203020",
+          "2203018"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "2203022",
+        "name": "FITOFISIOLOGIA",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "2203022",
+            "turmaid": "01",
+            "nome": " FITOFISIOLOGIA",
+            "semester": "2018.2",
+            "professor": "LUCIANO COUTINHO SILVA",
+            "horario": "24M23",
+            "local": "CAF 106 (PRG) / CAH 101 (PRG)"
+          }
+        ],
+        "prerequisites": [
+          "2203009"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDBTC0032",
+        "name": "EDUCAÇÃO AMBIENTAL",
+        "category": "Complementar Obrigatória",
+        "semester": 5,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDBTC0032",
+            "turmaid": "01",
+            "nome": " EDUCAÇÃO AMBIENTAL",
+            "semester": "2018.2",
+            "professor": "ELISANGELA AFONSO DE MOURA MENDONCA",
+            "horario": "3T23",
+            "local": "CAF 107 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "2203023",
+        "name": "TÓPICOS ESPECIAIS EM BIOTECNOLOGIA II",
+        "category": "Complementar Flexiva",
+        "semester": 6,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "2201021",
+        "name": "BIOTECNOLOGIA DE ALIMENTOS II",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "2201021",
+            "turmaid": "01",
+            "nome": " BIOTECNOLOGIA DE ALIMENTOS II",
+            "semester": "2018.2",
+            "professor": "FLAVIA DE OLIVEIRA PAULINO",
+            "horario": "3M23 5T23",
+            "local": "CAE 102 (PRG)"
+          }
+        ],
+        "prerequisites": [
+          "2201016"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "2201022",
+        "name": "BIOTECNOLOGIA DE BIOATIVOS",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "90h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "2201022",
+            "turmaid": "01",
+            "nome": " BIOTECNOLOGIA DE BIOATIVOS",
+            "semester": "2018.2",
+            "professor": "ENEAS RICARDO DE MORAIS GOMES",
+            "horario": "24M123",
+            "local": "sala 10 (CBIOTEC)"
+          }
+        ],
+        "prerequisites": [
+          "2203005"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "2201023",
+        "name": "PRINCÍPIOS  DE BIOINFORMÁTICA",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "90h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "2201023",
+            "turmaid": "01",
+            "nome": " PRINCÍPIOS  DE BIOINFORMÁTICA",
+            "semester": "2018.2",
+            "professor": "EDSON LUIZ FOLADOR",
+            "horario": "24M45 5T45",
+            "local": "CAF 109 (PRG) / CAF 108 (PRG) / sala 10 (CBIOTEC)"
+          }
+        ],
+        "prerequisites": [
+          "2203002"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "2201024",
+        "name": "OPERAÇÕES UNITÁRIAS APLICADAS À BIOTECNOLOGIA",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "2201024",
+            "turmaid": "01",
+            "nome": " OPERAÇÕES UNITÁRIAS APLICADAS À BIOTECNOLOGIA",
+            "semester": "2018.2",
+            "professor": "ANDREA FARIAS DE ALMEIDA",
+            "horario": "35M45",
+            "local": "CAD 106 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "2201025",
+        "name": "BASES DO  EMPREENDEDORISMO",
+        "category": "Complementar Obrigatória",
+        "semester": 6,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "2201025",
+            "turmaid": "01",
+            "nome": " BASES DO  EMPREENDEDORISMO",
+            "semester": "2018.2",
+            "professor": "SABRINA RAFAEL BEZERRA",
+            "horario": "2T23",
+            "local": "sala 10 (CBIOTEC)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "2203024",
+        "name": "PESQUISA APLICADA À BIOTECNOLOGIA",
+        "category": "Complementar Obrigatória",
+        "semester": 6,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "2203024",
+            "turmaid": "01",
+            "nome": " PESQUISA APLICADA À BIOTECNOLOGIA",
+            "semester": "2018.2",
+            "professor": "ENEAS RICARDO DE MORAIS GOMES",
+            "horario": "5M23",
+            "local": "CAF 101 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "2201026",
+        "name": "PROTEÇÃO DE PROPRIEDADE INTELECTUAL",
+        "category": "Complementar Obrigatória",
+        "semester": 7,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "2201026",
+            "turmaid": "01",
+            "nome": " PROTEÇÃO DE PROPRIEDADE INTELECTUAL",
+            "semester": "2018.2",
+            "professor": "SABRINA RAFAEL BEZERRA",
+            "horario": "3M45",
+            "local": "CAF 106 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "2201027",
+        "name": "BIOTECNOLOGIA APLICADA À AGROPECUÁRIA I",
+        "category": "Obrigatória",
+        "semester": 7,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "2201027",
+            "turmaid": "01",
+            "nome": " BIOTECNOLOGIA APLICADA À AGROPECUÁRIA I",
+            "semester": "2018.2",
+            "professor": "SILDIVANE VALCACIA SILVA",
+            "horario": "2T45 5T23",
+            "local": "CAF 107 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "2201028",
+        "name": "GESTÃO DE QUALIDADE",
+        "category": "Obrigatória",
+        "semester": 7,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "2201029",
+        "name": "ESTÁGIO SUPERVISIONADO III",
+        "category": "Obrigatória",
+        "semester": 7,
+        "workload": "75h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "2201029",
+            "turmaid": "01",
+            "nome": " BIOTECNOLOGIA",
+            "semester": "2018.2",
+            "professor": "ANDREA FARIAS DE ALMEIDA, SILDIVANE VALCACIA SILVA, EDSON LUIZ FOLADOR, FABIOLA DA CRUZ NUNES e JULIANA FRANCO ALMEIDA",
+            "horario": "6T12345",
+            "local": "CAF 101 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "2203025",
+        "name": "INTERAÇÕES IMUNOLÓGICAS E NEUROENDÓCRINAS",
+        "category": "Obrigatória",
+        "semester": 7,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "2203025",
+            "turmaid": "01",
+            "nome": " INTERAÇÕES IMUNOLÓGICAS E NEUROENDÓCRINAS",
+            "semester": "2018.2",
+            "professor": "FABIOLA DA CRUZ NUNES",
+            "horario": "24M45",
+            "local": "sala 3 (CBIOTEC)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "2203026",
+        "name": "INTRODUÇÃO À GENÔMICA, PROTEÔMICA E BIOLOGIA DE SISTEMAS",
+        "category": "Obrigatória",
+        "semester": 7,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "2203026",
+            "turmaid": "01",
+            "nome": " INTRODUÇÃO À GENÔMICA, PROTEÔMICA E BIOLOGIA DE SISTEMAS",
+            "semester": "2018.2",
+            "professor": "DEMETRIUS ANTONIO MACHADO DE ARAUJO",
+            "horario": "5M45 4T45",
+            "local": "CAE 106 (PRG) / CAF 106 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "2201031",
+        "name": "ENGENHARIA GENÉTICA",
+        "category": "Obrigatória",
+        "semester": 8,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "2201031",
+            "turmaid": "01",
+            "nome": " ENGENHARIA GENÉTICA",
+            "semester": "2018.2",
+            "professor": "JULIANA FRANCO ALMEIDA",
+            "horario": "34M23",
+            "local": "CAH 107 (PRG) / CAE 101 (PRG)"
+          }
+        ],
+        "prerequisites": [
+          "2203019"
+        ],
+        "equivalences": [
+          "GDBCM0032"
+        ]
+      },
+      {
+        "id": "2203029",
+        "name": "BIOPROSPECÇÃO, MANEJO E CONSERVAÇÃO DE RECURSOS NATURAIS",
+        "category": "Complementar Obrigatória",
+        "semester": 8,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "2203029",
+            "turmaid": "01",
+            "nome": " BIOPROSPECÇÃO, MANEJO E CONSERVAÇÃO DE RECURSOS NATURAIS",
+            "semester": "2018.2",
+            "professor": "LUCIANO COUTINHO SILVA",
+            "horario": "35M45",
+            "local": "CAE 106 (PRG) / CAF 106 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "2203030",
+        "name": "TRABALHO DE CONCLUSÃO DE CURSO",
+        "category": "Complementar Obrigatória",
+        "semester": 8,
+        "workload": "90h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "2203030",
+            "turmaid": "01",
+            "nome": " TRABALHO DE CONCLUSÃO DE CURSO",
+            "semester": "2018.2",
+            "professor": "JULIANA FRANCO ALMEIDA",
+            "horario": "7T123456",
+            "local": "sala 10 (CBIOTEC)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDBCM0031",
+        "name": "PRINCÍPIOS DE BIOANÁLISE",
+        "category": "Obrigatória",
+        "semester": 8,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDBCM0031",
+            "turmaid": "01",
+            "nome": " PRINCÍPIOS DE BIOANÁLISE",
+            "semester": "2018.2",
+            "professor": "ELISANGELA AFONSO DE MOURA MENDONCA, ANDREA FARIAS DE ALMEIDA e KRISTERSON REINALDO DE LUNA FREIRE",
+            "horario": "24M45",
+            "local": "CAH 101 (PRG) / CAF 106 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDBTC0005",
+        "name": "BIOTECNOLOGIA APLICADA A AGROPECUÁRIA II",
+        "category": "Obrigatória",
+        "semester": 8,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDBTC0005",
+            "turmaid": "01",
+            "nome": " BIOTECNOLOGIA APLICADA A AGROPECUÁRIA II",
+            "semester": "2018.2",
+            "professor": "LUCIANO COUTINHO SILVA, SILDIVANE VALCACIA SILVA e ADNA CRISTINA BARBOSA DE SOUSA",
+            "horario": "5M23 4T23",
+            "local": "CAD 101 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDBTC0030",
+        "name": "ESTÁGIO SUPERVISIONADO IV",
+        "category": "Obrigatória",
+        "semester": 8,
+        "workload": "0h aula 75h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDBTC0030",
+            "turmaid": "01",
+            "nome": " ESTÁGIO SUPERVISIONADO IV",
+            "semester": "2018.2",
+            "professor": "RAFAEL DE ALMEIDA TRAVASSOS, KRISTERSON REINALDO DE LUNA FREIRE, ELISANGELA AFONSO DE MOURA MENDONCA, ANDREA FARIAS DE ALMEIDA e FLAVIA DE OLIVEIRA PAULINO",
+            "horario": "7M12345 (22/11/2018 - 10/05/2019)",
+            "local": "sala 3 (CBIOTEC)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      }
+    ]
+  }
+}

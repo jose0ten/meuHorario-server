@@ -1,0 +1,4155 @@
+{
+  "curriculum": {
+    "id": "362016",
+    "codigo": "1626646",
+    "name": "ODONTOLOGIA - João Pessoa - Presencial - MT - BACHARELADO",
+    "faculty": "CENTRO DE CIÊNCIAS DA SAÚDE (CCS) (11.00.54)",
+    "minch": "90",
+    "maxch": "555",
+    "semesters": 10,
+    "courses": [
+      {
+        "id": "1108116",
+        "name": "ESTATISTICA VITAL",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1108116",
+            "turmaid": "02",
+            "nome": " ESTATISTICA VITAL",
+            "semester": "2018.2",
+            "professor": "RENATA PATRICIA LIMA JERONYMO MOREIRA PINTO",
+            "horario": "24T45",
+            "local": "CCENA 105 (CCEN)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1201126",
+        "name": "ECONOMIA I",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1201126",
+            "turmaid": "07",
+            "nome": " ECONOMIA I",
+            "semester": "2018.2",
+            "professor": "FERNANDA BRAGA TAVARES",
+            "horario": "35N12",
+            "local": "CAD 105 (PRG) / CAD 102 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+          "1201180"
+        ]
+      },
+      {
+        "id": "1204140",
+        "name": "INTRODUCAO A ADMINISTRACAO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+          "GDTH0028"
+        ]
+      },
+      {
+        "id": "1401134",
+        "name": "INTRODUCAO A SOCIOLOGIA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1401134",
+            "turmaid": "01",
+            "nome": " INTRODUCAO A SOCIOLOGIA",
+            "semester": "2018.2",
+            "professor": "MAURO GUILHERME PINHEIRO KOURY",
+            "horario": "6N1234",
+            "local": "CAH 103 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1403153",
+        "name": "PORTUGUÊS INSTRUMENTAL",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1403153",
+            "turmaid": "02",
+            "nome": " PORTUGUÊS INSTRUMENTAL",
+            "semester": "2018.2",
+            "professor": "ENEIDA MARTINS DE OLIVEIRA",
+            "horario": "5N1234",
+            "local": "TS-1 (CCHLA)"
+          },
+          {
+            "id": "1403153",
+            "turmaid": "03",
+            "nome": " PORTUGUÊS INSTRUMENTAL",
+            "semester": "2018.2",
+            "professor": "ISAIAS MOREIRA FERREIRA",
+            "horario": "6M1234",
+            "local": "CAG 106 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1403747",
+        "name": "LIBRAS  LÍNGUA BRASILEIRA DE SINAIS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1404325",
+        "name": "LINGUA INGLESA INSTRUMENTAL I",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1404325",
+            "turmaid": "02",
+            "nome": " LINGUA INGLESA INSTRUMENTAL I",
+            "semester": "2018.2",
+            "professor": "ROSYCLÉA DANTAS SILVA",
+            "horario": "35N34",
+            "local": "CAF 110 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1405108",
+        "name": "INTRODUCAO A PSICOLOGIA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1405108",
+            "turmaid": "01",
+            "nome": " INTRODUCAO A PSICOLOGIA",
+            "semester": "2018.2",
+            "professor": "SANDRA HELENA CAMPOS CARDOSO REIS",
+            "horario": "24M45",
+            "local": "CAG 106 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1602108",
+        "name": "HISTORIA DA ODONTOLOGIA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1602109",
+        "name": "ODONTOGENETICA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1602171",
+        "name": "MONITORIA",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "0h aula 30h lab.",
+        "type": "ATIVIDADE ESPECIAL",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1602178",
+        "name": "TRABALHOS APRESENTADOS",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "0h aula 15h lab.",
+        "type": "ATIVIDADE ESPECIAL",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1602179",
+        "name": "TRABALHOS APRESENTADOS",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "0h aula 30h lab.",
+        "type": "ATIVIDADE ESPECIAL",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1602180",
+        "name": "TRABALHOS APRESENTADOS",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "0h aula 45h lab.",
+        "type": "ATIVIDADE ESPECIAL",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1602183",
+        "name": "FITOTERAPIA ODONTOLÓGICA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1602184",
+        "name": "ATIVIDADES DE EXTENSAO(PROJETO)",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "ATIVIDADE ESPECIAL",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1602185",
+        "name": "ATIVIDADES DE PESQUISA",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "0h aula 60h lab.",
+        "type": "ATIVIDADE ESPECIAL",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1602186",
+        "name": "MONITORIA",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "0h aula 60h lab.",
+        "type": "ATIVIDADE ESPECIAL",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1603126",
+        "name": "NOCOES PRIMEIROS SOCORROS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1606106",
+        "name": "NOMENC E INSTR EM ODONT",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1606106",
+            "turmaid": "01",
+            "nome": " NOMENC E INSTR EM ODONT",
+            "semester": "2018.2",
+            "professor": "ANTONIO DE PADUA CAVALCANTE DA COSTA",
+            "horario": "3T123",
+            "local": "LAB ESC (CCS)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1609247",
+        "name": "EDUCACAO FISICA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1609247",
+            "turmaid": "03",
+            "nome": " EDUCACAO FISICA",
+            "semester": "2018.2",
+            "professor": "LUCIANO KLOSTERMANN ANTUNES DE SOUZA",
+            "horario": "3T23",
+            "local": "GE 04 (CCS)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1611122",
+        "name": "FUNDAMENTOS DA HOMEOPATIA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1611122",
+            "turmaid": "01",
+            "nome": " FUNDAMENTOS DA HOMEOPATIA",
+            "semester": "2018.2",
+            "professor": "MARIA DO SOCORRO SOUSA e DANIELLY ALBUQUERQUE DA COSTA",
+            "horario": "4T123",
+            "local": "NEPHF (CCS)"
+          },
+          {
+            "id": "1611122",
+            "turmaid": "02",
+            "nome": " FUNDAMENTOS DA HOMEOPATIA",
+            "semester": "2018.2",
+            "professor": "DANIELLY ALBUQUERQUE DA COSTA",
+            "horario": "3N123",
+            "local": "CTJ 106 (CT)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1611172",
+        "name": "PARASITOLOGIA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1611183",
+        "name": "MCOP2  HOMEOPATIA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "32h aula 0h lab.",
+        "type": "MODULO",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1611190",
+        "name": "MCOP3 FUNDAMENTOS DE ACUPUNTURA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "32h aula 0h lab.",
+        "type": "MODULO",
+        "turmas": [
+          {
+            "id": "1611190",
+            "turmaid": "01",
+            "nome": " MCOP3 FUNDAMENTOS DE ACUPUNTURA",
+            "semester": "2018.2",
+            "professor": "CLIMERIO AVELINO DE FIGUEIREDO",
+            "horario": "4T12 (22/11/2018 - 10/05/2019)",
+            "local": "NEPHF 2 (CCS)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1611192",
+        "name": "FUNDAMENTOS DE PARASITOLOGIA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1611192",
+            "turmaid": "01",
+            "nome": " FUNDAMENTOS DE PARASITOLOGIA",
+            "semester": "2018.2",
+            "professor": "FABIO MARCEL DA SILVA SANTOS",
+            "horario": "6M45",
+            "local": "CCS 208 (CCS)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1611207",
+        "name": "FITOTERAPIA I",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1611207",
+            "turmaid": "01",
+            "nome": " FITOTERAPIA I",
+            "semester": "2018.2",
+            "professor": "CLIMERIO AVELINO DE FIGUEIREDO",
+            "horario": "2M23",
+            "local": "NEPHF 2 (CCS)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDCOS0089",
+        "name": "ATIVIDADE DE EXTENSÃO(PROJETOA0",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "0h aula 120h lab.",
+        "type": "ATIVIDADE ESPECIAL",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDCOS0090",
+        "name": "ATIVIDADE DE EXTENSÃO(PROGRAMA)",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "0h aula 120h lab.",
+        "type": "ATIVIDADE ESPECIAL",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDCOS0091",
+        "name": "ATIVIDADE DE EXTENSÃO(CURSO)",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "0h aula 30h lab.",
+        "type": "ATIVIDADE ESPECIAL",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDCOS0092",
+        "name": "ATIVIDADE DE EXTENSÃO(CURSO)",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "0h aula 60h lab.",
+        "type": "ATIVIDADE ESPECIAL",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDCOS0093",
+        "name": "ESTAGIO NÃO OBRIGATORIO",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "0h aula 30h lab.",
+        "type": "ATIVIDADE ESPECIAL",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDCOS0094",
+        "name": "ESTAGIO NÃO OBRIGATORIO",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "0h aula 60h lab.",
+        "type": "ATIVIDADE ESPECIAL",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDCOS0095",
+        "name": "MONITORIA",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "0h aula 90h lab.",
+        "type": "ATIVIDADE ESPECIAL",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDCOS0096",
+        "name": "MONITORIA",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "0h aula 120h lab.",
+        "type": "ATIVIDADE ESPECIAL",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDCOS0097",
+        "name": "ATIVIDADES DE PESQUISA",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "0h aula 120h lab.",
+        "type": "ATIVIDADE ESPECIAL",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDCOS0098",
+        "name": "ARTIGOS CIENTIFICOS",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "0h aula 30h lab.",
+        "type": "ATIVIDADE ESPECIAL",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDCOS0099",
+        "name": "ARTIGOS CIENTIFICOS",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "0h aula 60h lab.",
+        "type": "ATIVIDADE ESPECIAL",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDCOS0131",
+        "name": "CARIOLOGIA CLINICA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDCOS0131",
+            "turmaid": "01",
+            "nome": " CARIOLOGIA CLINICA",
+            "semester": "2018.2",
+            "professor": "FRANKLIN DELANO SOARES FORTE, FÁBIO CORREIA SAMPAIO e JOCIANELLE MARIA FELIX FERNANDES NUNES",
+            "horario": "4T234",
+            "local": "CLI CAR (CCS)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDCOS0135",
+        "name": "ESTÁGIO NÃO OBRIGATÓRIO",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "120h aula 0h lab.",
+        "type": "ATIVIDADE ESPECIAL",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDCOS0137",
+        "name": "ATIVIDADE DE EXTENSÃO (CURSO)",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "15h aula 0h lab.",
+        "type": "ATIVIDADE ESPECIAL",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDCOS0138",
+        "name": "ESTÁGIO NÃO OBRIGÁTORIO",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "15h aula 0h lab.",
+        "type": "ESTÁGIO",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDORS0061",
+        "name": "CLINICA DE DISFUNÇÃO TEMPOROMANDIBULAR E DOR OROFACIAL",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "0h aula 45h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDORS0062",
+        "name": "TRATAMENTO ODONTOLOGICO EM PACIENTES SISTEMATICAMENTE COMPROMETIDOS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDORS0062",
+            "turmaid": "01",
+            "nome": " TRATAMENTO ODONTOLOGICO EM PACIENTES SISTEMATICAMENTE COMPROMETIDOS",
+            "semester": "2018.2",
+            "professor": "JOSE WILSON NOLETO RAMOS JUNIOR",
+            "horario": "4T2345",
+            "local": "SALA 310 (CCS)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1104173",
+        "name": "BIOLOGIA CELULAR",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1104173",
+            "turmaid": "01",
+            "nome": " BIOLOGIA CELULAR",
+            "semester": "2018.2",
+            "professor": "KRYSTYNA GORLACH LIRA",
+            "horario": "35T23",
+            "local": "CCS 602 (CCS)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1104175",
+        "name": "BIOQUIMICA ORAL",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1104175",
+            "turmaid": "01",
+            "nome": " BIOQUIMICA ORAL",
+            "semester": "2018.2",
+            "professor": "DARLENE CAMATI PERSUHN",
+            "horario": "35M45",
+            "local": "CCS 602 (CCS)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1401251",
+        "name": "CIENCIAS SOCIAIS NA SAUDE",
+        "category": "Complementar Obrigatória",
+        "semester": 1,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1401251",
+            "turmaid": "01",
+            "nome": " CIENCIAS SOCIAIS NA SAUDE",
+            "semester": "2018.2",
+            "professor": "MARIA OTILIA TELLES STORNI",
+            "horario": "2M123",
+            "local": "CAE 108 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1610158",
+        "name": "HISTOLOGIA I",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1610158",
+            "turmaid": "01",
+            "nome": " HISTOLOGIA I",
+            "semester": "2018.2",
+            "professor": "FREDERICO BARBOSA DE SOUSA",
+            "horario": "4M345",
+            "local": "CCS 307 (CCS)"
+          },
+          {
+            "id": "1610158",
+            "turmaid": "02",
+            "nome": " HISTOLOGIA I",
+            "semester": "2018.2",
+            "professor": "ANDRESSA FEITOSA BEZERRA DE OLIVEIRA",
+            "horario": "4M345",
+            "local": "CCS 400 (CCS)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDCOS0100",
+        "name": "INTRODUÇÃO Á SAUDE COLETIVA",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDCOS0100",
+            "turmaid": "01",
+            "nome": " INTRODUÇÃO Á SAUDE COLETIVA",
+            "semester": "2018.2",
+            "professor": "CLAUDIA HELENA SOARES DE MORAIS FREITAS",
+            "horario": "4T234",
+            "local": "CCS 108 (CCS)"
+          },
+          {
+            "id": "GDCOS0100",
+            "turmaid": "02",
+            "nome": " INTRODUÇÃO Á SAUDE COLETIVA",
+            "semester": "2018.2",
+            "professor": "TALITHA RODRIGUES RIBEIRO FERNANDES PESSOA",
+            "horario": "4T234",
+            "local": "CCS 305 (CCS)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDCOS0101",
+        "name": "TECNOLOGIAS DE INFORMAÇÃO E COMUNICAÇÃO EM ODONTOLOGIA",
+        "category": "Complementar Obrigatória",
+        "semester": 1,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDCOS0101",
+            "turmaid": "01",
+            "nome": " TECNOLOGIAS DE INFORMAÇÃO E COMUNICAÇÃO EM ODONTOLOGIA",
+            "semester": "2018.2",
+            "professor": "CLAUDIA BATISTA MELO",
+            "horario": "2T12",
+            "local": "LAB INFOR (CCS)"
+          },
+          {
+            "id": "GDCOS0101",
+            "turmaid": "02",
+            "nome": " TECNOLOGIAS DE INFORMAÇÃO E COMUNICAÇÃO EM ODONTOLOGIA",
+            "semester": "2018.2",
+            "professor": "CLAUDIA BATISTA MELO",
+            "horario": "3M23",
+            "local": "LAB INFOR (CCS)"
+          },
+          {
+            "id": "GDCOS0101",
+            "turmaid": "03",
+            "nome": " TECNOLOGIAS DE INFORMAÇÃO E COMUNICAÇÃO EM ODONTOLOGIA",
+            "semester": "2018.2",
+            "professor": "CLAUDIA BATISTA MELO",
+            "horario": "2T34",
+            "local": "LAB INFOR (CCS)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDMRF0101",
+        "name": "ANATOMIA HUMANA",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "30h aula 30h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDMRF0101",
+            "turmaid": "01",
+            "nome": " ANATOMIA HUMANA",
+            "semester": "2018.2",
+            "professor": "FRANCISCO DE ASSIS LIMEIRA JUNIOR",
+            "horario": "26M45",
+            "local": "CCS 415 (CCS)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDMRF0102",
+        "name": "EMBRIOLOGIA",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDMRF0102",
+            "turmaid": "01",
+            "nome": " EMBRIOLOGIA",
+            "semester": "2018.2",
+            "professor": "PATRICIA MARQUES LIMA STADE",
+            "horario": "5M12",
+            "local": "CCS 302 (CCS)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+          "1610160"
+        ]
+      },
+      {
+        "id": "GDMRF0103",
+        "name": "INTRODUÇÃO A ODONTOLOGIA",
+        "category": "Complementar Obrigatória",
+        "semester": 1,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDMRF0103",
+            "turmaid": "02",
+            "nome": " INTRODUÇÃO A ODONTOLOGIA",
+            "semester": "2018.2",
+            "professor": "ANDRESSA FEITOSA BEZERRA DE OLIVEIRA e FÁBIO CORREIA SAMPAIO",
+            "horario": "4M12",
+            "local": "CCS 108 (CCS)"
+          },
+          {
+            "id": "GDORS0042",
+            "turmaid": "01",
+            "nome": " SEMINÁRIO DE INTEGRAÇÃO",
+            "semester": "2018.2",
+            "professor": "ROSEANNE DA CUNHA UCHOA e FABIANO GONZAGA RODRIGUES",
+            "horario": "3M2345 5M234 5T234",
+            "local": "AUD DOR (CCS) / SALA 310 (CCS)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+          "1610161",
+          "GDORS0042"
+        ]
+      },
+      {
+        "id": "1602125",
+        "name": "METODOLOGIA CIENTIFICA",
+        "category": "Complementar Obrigatória",
+        "semester": 2,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1602125",
+            "turmaid": "02",
+            "nome": " METODOLOGIA CIENTIFICA",
+            "semester": "2018.2",
+            "professor": "FÁBIO CORREIA SAMPAIO e BIANCA MARQUES SANTIAGO",
+            "horario": "6M345",
+            "local": "CCS 108 (CCS)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1611168",
+        "name": "MICROBIOLOGIA ORAL",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1611168",
+            "turmaid": "01",
+            "nome": " MICROBIOLOGIA ORAL",
+            "semester": "2018.2",
+            "professor": "GISELY MARIA FREIRE ABILIO DE CASTRO",
+            "horario": "4M23 5T12",
+            "local": "NEPHF (CCS)"
+          },
+          {
+            "id": "1611168",
+            "turmaid": "02",
+            "nome": " MICROBIOLOGIA ORAL",
+            "semester": "2018.2",
+            "professor": "VINICIUS PIETA PEREZ",
+            "horario": "4M23 5T12",
+            "local": "CCS 209 (CCS) / CCS 211 (CCS)"
+          }
+        ],
+        "prerequisites": [
+          "1104173"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDBIM0100",
+        "name": "GENÉTICA HUMANA",
+        "category": "Complementar Obrigatória",
+        "semester": 2,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDBIM0100",
+            "turmaid": "01",
+            "nome": " GENÉTICA HUMANA",
+            "semester": "2018.2",
+            "professor": "FRANCIS MARIA BAO ZAMBRA",
+            "horario": "4T12",
+            "local": "CCS 606 (CCS)"
+          }
+        ],
+        "prerequisites": [
+          "1104173"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDCOS0102",
+        "name": "ESTÁGIO EM SAÚDE COLETIVA I",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "0h aula 45h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDCOS0102",
+            "turmaid": "01",
+            "nome": " ESTÁGIO EM SAÚDE COLETIVA I",
+            "semester": "2018.2",
+            "professor": "THIAGO PELUCIO MOREIRA",
+            "horario": "3T123",
+            "local": "USF 02 (CCS)"
+          },
+          {
+            "id": "GDCOS0102",
+            "turmaid": "02",
+            "nome": " ESTÁGIO EM SAÚDE COLETIVA I",
+            "semester": "2018.2",
+            "professor": "TALITHA RODRIGUES RIBEIRO FERNANDES PESSOA",
+            "horario": "3T123",
+            "local": "USF 03 (CCS)"
+          },
+          {
+            "id": "GDCOS0102",
+            "turmaid": "03",
+            "nome": " ESTÁGIO EM SAÚDE COLETIVA I",
+            "semester": "2018.2",
+            "professor": "JOCIANELLE MARIA FELIX FERNANDES NUNES",
+            "horario": "3T123",
+            "local": "USF 01 (CCS)"
+          }
+        ],
+        "prerequisites": [
+          "0100"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDFPT0101",
+        "name": "FISIOLOGIA HUMANA",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "45h aula 15h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDFPT0101",
+            "turmaid": "01",
+            "nome": " FISIOLOGIA HUMANA",
+            "semester": "2018.2",
+            "professor": "RITA DE CASSIA DA SILVEIRA E SA",
+            "horario": "35M45",
+            "local": "CCS 210 (CCS)"
+          }
+        ],
+        "prerequisites": [
+          "0101"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDFPT0102",
+        "name": "IMUNOLOGIA GERAL",
+        "category": "Complementar Obrigatória",
+        "semester": 2,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDFPT0102",
+            "turmaid": "01",
+            "nome": " IMUNOLOGIA GERAL",
+            "semester": "2018.2",
+            "professor": "RENATO ANTONIO DOS SANTOS OLIVEIRA",
+            "horario": "2T234",
+            "local": "CCS 204 (CCS)"
+          }
+        ],
+        "prerequisites": [
+          "1104173"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDMRF0104",
+        "name": "ANATOMIA ODONTOLÓGICA",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "30h aula 30h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDMRF0104",
+            "turmaid": "01",
+            "nome": " ANATOMIA ODONTOLÓGICA",
+            "semester": "2018.2",
+            "professor": "ELIANE MARQUES DUARTE DE SOUSA",
+            "horario": "35M23",
+            "local": "CCS 414 (CCS)"
+          },
+          {
+            "id": "GDMRF0104",
+            "turmaid": "02",
+            "nome": " ANATOMIA ODONTOLÓGICA",
+            "semester": "2018.2",
+            "professor": "MONIQUE DANYELLE EMILIANO BATISTA PAIVA",
+            "horario": "35M23",
+            "local": "CCS/LAB413 (CCS)"
+          },
+          {
+            "id": "GDMRF0104",
+            "turmaid": "03",
+            "nome": " ANATOMIA ODONTOLÓGICA",
+            "semester": "2018.2",
+            "professor": "LUCIANA BARBOSA SOUSA DE LUCENA",
+            "horario": "35M23",
+            "local": "CCS 413 (CCS)"
+          }
+        ],
+        "prerequisites": [
+          "0101"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDMRF0105",
+        "name": "HISTOLOGIA II",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "30h aula 30h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDMRF0105",
+            "turmaid": "01",
+            "nome": " HISTOLOGIA II",
+            "semester": "2018.2",
+            "professor": "ROSSANA SEIXAS MAIA DA SILVA",
+            "horario": "2M2345",
+            "local": "CCS 401 (CCS)"
+          },
+          {
+            "id": "GDMRF0105",
+            "turmaid": "02",
+            "nome": " HISTOLOGIA II",
+            "semester": "2018.2",
+            "professor": "BRUNO MENDES TENORIO",
+            "horario": "2M2345",
+            "local": "CCS 301 (CCS)"
+          }
+        ],
+        "prerequisites": [
+          "1610158"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1606127",
+        "name": "ESCULTURA DENTAL",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "0h aula 60h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1606127",
+            "turmaid": "01",
+            "nome": " ESCULTURA DENTAL",
+            "semester": "2018.2",
+            "professor": "ANTONIO DE PADUA CAVALCANTE DA COSTA, DAYANE FRANCO BARROS MANGUEIRA LEITE e ISABELA ALBUQUERQUE PASSOS FARIAS",
+            "horario": "4M2345",
+            "local": "LAB ESC (CCS)"
+          },
+          {
+            "id": "1606127",
+            "turmaid": "02",
+            "nome": " ESCULTURA DENTAL",
+            "semester": "2018.2",
+            "professor": "ANTONIO DE PADUA CAVALCANTE DA COSTA, DAYANE FRANCO BARROS MANGUEIRA LEITE e ISABELA ALBUQUERQUE PASSOS FARIAS",
+            "horario": "4T1234",
+            "local": "LAB ESC (CCS)"
+          },
+          {
+            "id": "1606127",
+            "turmaid": "03",
+            "nome": " ESCULTURA DENTAL",
+            "semester": "2018.2",
+            "professor": "ANTONIO DE PADUA CAVALCANTE DA COSTA, DAYANE FRANCO BARROS MANGUEIRA LEITE e ISABELA ALBUQUERQUE PASSOS FARIAS",
+            "horario": "2M2345",
+            "local": "LAB ESC (CCS)"
+          }
+        ],
+        "prerequisites": [
+          "0104"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1610162",
+        "name": "HISTOLOGIA E EMBRIOLOGIA ODONTOLOGICA",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1610162",
+            "turmaid": "01",
+            "nome": " HISTOLOGIA E EMBRIOLOGIA ODONTOLOGICA",
+            "semester": "2018.2",
+            "professor": "ANA MARIA BARROS CHAVES PEREIRA",
+            "horario": "35M45",
+            "local": "CCS 401 (CCS)"
+          },
+          {
+            "id": "1610162",
+            "turmaid": "02",
+            "nome": " HISTOLOGIA E EMBRIOLOGIA ODONTOLOGICA",
+            "semester": "2018.2",
+            "professor": "ANDRESSA FEITOSA BEZERRA DE OLIVEIRA",
+            "horario": "35M45",
+            "local": "DCF - ERIP 6 (CCS)"
+          },
+          {
+            "id": "1610162",
+            "turmaid": "03",
+            "nome": " HISTOLOGIA E EMBRIOLOGIA ODONTOLOGICA",
+            "semester": "2018.2",
+            "professor": "FREDERICO BARBOSA DE SOUSA",
+            "horario": "35M45",
+            "local": "CCS 307 (CCS)"
+          }
+        ],
+        "prerequisites": [
+          "0105"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1611165",
+        "name": "PATOLOGIA GERAL",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1611165",
+            "turmaid": "01",
+            "nome": " PATOLOGIA GERAL",
+            "semester": "2018.2",
+            "professor": "IVAN RODRIGUES DE CARVALHO FILHO",
+            "horario": "56T12",
+            "local": "CCS 202 (CCS)"
+          }
+        ],
+        "prerequisites": [
+          "0105",
+          "0101",
+          "0101"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1611169",
+        "name": "FARMACOLOGIA GERAL",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1611169",
+            "turmaid": "01",
+            "nome": " FARMACOLOGIA GERAL",
+            "semester": "2018.2",
+            "professor": "DIEGO NUNES GUEDES",
+            "horario": "3M12 6M45",
+            "local": "CCS 205 (CCS)"
+          }
+        ],
+        "prerequisites": [
+          "0101"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDCOS0103",
+        "name": "EDUCAÇÃO DAS RELAÇÕES ÉTNICO RACIAIS",
+        "category": "Complementar Obrigatória",
+        "semester": 3,
+        "workload": "15h aula 0h lab.",
+        "type": "ATIVIDADE ESPECIAL",
+        "turmas": [
+          {
+            "id": "GDCOS0103",
+            "turmaid": "01",
+            "nome": " EDUCAÇÃO DAS RELAÇÕES ÉTNICO RACIAIS",
+            "semester": "2018.2",
+            "professor": "CLAUDIA ROBERTA LEITE VIEIRA DE FIGUEIREDO",
+            "horario": "5T3 (22/11/2018 - 10/05/2019)",
+            "local": "CCS 108 (CCS)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDCOS0104",
+        "name": "PESQUISA APLICADA A ODONTOLOGIA",
+        "category": "Complementar Obrigatória",
+        "semester": 3,
+        "workload": "15h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDCOS0104",
+            "turmaid": "01",
+            "nome": " PESQUISA APLICADA A ODONTOLOGIA",
+            "semester": "2018.2",
+            "professor": "FÁBIO CORREIA SAMPAIO e JOCIANELLE MARIA FELIX FERNANDES NUNES",
+            "horario": "5M2",
+            "local": "CCS 108 (CCS)"
+          }
+        ],
+        "prerequisites": [
+          "1602125"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDCOS0105",
+        "name": "ESTÁGIO EM SAÚDE COLETIVA II",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "0h aula 45h lab.",
+        "type": "ESTÁGIO",
+        "turmas": [
+          {
+            "id": "GDCOS0105",
+            "turmaid": "01",
+            "nome": " ESTÁGIO EM SAÚDE COLETIVA II",
+            "semester": "2018.2",
+            "professor": "FRANKLIN DELANO SOARES FORTE",
+            "horario": "2T123 (22/11/2018 - 10/05/2019)",
+            "local": "USF 08 (CCS)"
+          },
+          {
+            "id": "GDCOS0105",
+            "turmaid": "02",
+            "nome": " ESTÁGIO EM SAÚDE COLETIVA II",
+            "semester": "2018.2",
+            "professor": "THIAGO PELUCIO MOREIRA",
+            "horario": "2T123 (22/11/2018 - 10/05/2019)",
+            "local": "USF 03 (CCS)"
+          },
+          {
+            "id": "GDCOS0105",
+            "turmaid": "03",
+            "nome": " ESTÁGIO EM SAÚDE COLETIVA II",
+            "semester": "2018.2",
+            "professor": "JOCIANELLE MARIA FELIX FERNANDES NUNES",
+            "horario": "2T123 (22/11/2018 - 10/05/2019)",
+            "local": "USF 01 (CCS)"
+          }
+        ],
+        "prerequisites": [
+          "0102"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDMRF0106",
+        "name": "ANATOMIA TOPOGRAFICA",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "15h aula 30h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDMRF0106",
+            "turmaid": "01",
+            "nome": " ANATOMIA TOPOGRAFICA",
+            "semester": "2018.2",
+            "professor": "ELIANE MARQUES DUARTE DE SOUSA",
+            "horario": "2M345",
+            "local": "CCS 413 (CCS)"
+          },
+          {
+            "id": "GDMRF0106",
+            "turmaid": "02",
+            "nome": " ANATOMIA TOPOGRAFICA",
+            "semester": "2018.2",
+            "professor": "LUCIANA BARBOSA SOUSA DE LUCENA",
+            "horario": "2M345",
+            "local": "CCS 414 (CCS)"
+          },
+          {
+            "id": "GDMRF0106",
+            "turmaid": "03",
+            "nome": " ANATOMIA TOPOGRAFICA",
+            "semester": "2018.2",
+            "professor": "MONIQUE DANYELLE EMILIANO BATISTA PAIVA, ELIANE MARQUES DUARTE DE SOUSA e LUCIANA BARBOSA SOUSA DE LUCENA",
+            "horario": "4M234",
+            "local": "CCS 413 (CCS)"
+          }
+        ],
+        "prerequisites": [
+          "0104"
+        ],
+        "equivalences": [
+          "1610164"
+        ]
+      },
+      {
+        "id": "1602129",
+        "name": "BIOETICA",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1602129",
+            "turmaid": "01",
+            "nome": " BIOETICA",
+            "semester": "2018.2",
+            "professor": "RICARDO DIAS DE CASTRO e CLAUDIA HELENA SOARES DE MORAIS FREITAS",
+            "horario": "3T23",
+            "local": "CCS 108 (CCS)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1602143",
+        "name": "FARMACOLOGIA APLICADA A ODONTOLOGIA",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "15h aula 45h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1602143",
+            "turmaid": "01A",
+            "nome": " FARMACOLOGIA APLICADA A ODONTOLOGIA",
+            "semester": "2018.2",
+            "professor": "RICARDO DIAS DE CASTRO",
+            "horario": "2T1234",
+            "local": "CCS 305 (CCS)"
+          }
+        ],
+        "prerequisites": [
+          "1611169"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDCOS0106",
+        "name": "CARIOLOGIA",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDCOS0106",
+            "turmaid": "01",
+            "nome": " CARIOLOGIA",
+            "semester": "2018.2",
+            "professor": "FRANKLIN DELANO SOARES FORTE, FÁBIO CORREIA SAMPAIO e JOCIANELLE MARIA FELIX FERNANDES NUNES",
+            "horario": "6M12",
+            "local": "CCS 108 (CCS)"
+          }
+        ],
+        "prerequisites": [
+          "1611168",
+          "1610162"
+        ],
+        "equivalences": [
+          "1602131"
+        ]
+      },
+      {
+        "id": "GDCOS0107",
+        "name": "MÉTODOS DE DIAGNÓSTICO EM ODONTOLOGIA",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "15h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDCOS0107",
+            "turmaid": "02",
+            "nome": " MÉTODOS DE DIAGNÓSTICO EM ODONTOLOGIA",
+            "semester": "2018.2",
+            "professor": "PAULO ROGERIO FERRETI BONAN, LINO JOAO DA COSTA e MARIA SUELI MARQUES SOARES",
+            "horario": "5T1",
+            "local": "CCS 108 (CCS)"
+          }
+        ],
+        "prerequisites": [
+          "1610162",
+          "1611165"
+        ],
+        "equivalences": [
+          "1602141"
+        ]
+      },
+      {
+        "id": "GDCOS0108",
+        "name": "RADIOLOGIA ODONTOLÓGICA",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "15h aula 45h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDCOS0108",
+            "turmaid": "03",
+            "nome": " RADIOLOGIA ODONTOLÓGICA",
+            "semester": "2018.2",
+            "professor": "PATRICIA DE MEDEIROS LOUREIRO LOPES, MARCELO AUGUSTO OLIVEIRA DE SALES, RICARDO VILLAR BELTRAO e AMANDA MARIA MEDEIROS DE ARAUJO LUCK",
+            "horario": "3M1234",
+            "local": "CLI RAD (CCS)"
+          }
+        ],
+        "prerequisites": [
+          "0104"
+        ],
+        "equivalences": [
+          "1602145"
+        ]
+      },
+      {
+        "id": "GDCOS0109",
+        "name": "INTRODUÇÃO A CLÍNICA ODONTOLÓGICA",
+        "category": "Complementar Obrigatória",
+        "semester": 4,
+        "workload": "15h aula 15h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDCOS0109",
+            "turmaid": "01",
+            "nome": " INTRODUÇÃO A CLÍNICA ODONTOLÓGICA",
+            "semester": "2018.2",
+            "professor": "ANDREA GADELHA RIBEIRO TARGINO, LUCIANE QUEIROZ MOTA DE LIMA e ANDREA SARMENTO QUEIROGA",
+            "horario": "2M23",
+            "local": "CLI ODP (CCS)"
+          },
+          {
+            "id": "GDCOS0109",
+            "turmaid": "05",
+            "nome": " INTRODUÇÃO A CLÍNICA ODONTOLÓGICA",
+            "semester": "2018.2",
+            "professor": "ANDREA GADELHA RIBEIRO TARGINO, LUCIANE QUEIROZ MOTA DE LIMA e ANDREA SARMENTO QUEIROGA",
+            "horario": "2M45",
+            "local": "CLI ODP (CCS)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDCOS0110",
+        "name": "ESTÁGIO EM SAÚDE COLETIVA III",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "15h aula 45h lab.",
+        "type": "ESTÁGIO",
+        "turmas": [
+          {
+            "id": "GDCOS0110",
+            "turmaid": "01",
+            "nome": " ESTÁGIO EM SAÚDE COLETIVA III",
+            "semester": "2018.2",
+            "professor": "TALITHA RODRIGUES RIBEIRO FERNANDES PESSOA",
+            "horario": "4M2345 (22/11/2018 - 10/05/2019)",
+            "local": "USF 03 (CCS)"
+          },
+          {
+            "id": "GDCOS0110",
+            "turmaid": "02",
+            "nome": " ESTÁGIO EM SAÚDE COLETIVA III",
+            "semester": "2018.2",
+            "professor": "THIAGO PELUCIO MOREIRA",
+            "horario": "4M2345 (22/11/2018 - 10/05/2019)",
+            "local": "USF 01 (CCS)"
+          },
+          {
+            "id": "GDCOS0110",
+            "turmaid": "03",
+            "nome": " ESTÁGIO EM SAÚDE COLETIVA III",
+            "semester": "2018.2",
+            "professor": "CLAUDIA HELENA SOARES DE MORAIS FREITAS",
+            "horario": "4M2345 (22/11/2018 - 10/05/2019)",
+            "local": "USF 06 (CCS)"
+          }
+        ],
+        "prerequisites": [
+          "0102"
+        ],
+        "equivalences": [
+          "1602144"
+        ]
+      },
+      {
+        "id": "GDORS0043",
+        "name": "MATERIAIS DENTÁRIOS I",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "15h aula 45h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDORS0043",
+            "turmaid": "01",
+            "nome": " MATERIAIS DENTÁRIOS I",
+            "semester": "2018.2",
+            "professor": "SONIA SAEGER MEIRELES MONTE RASO, RINALDO MOREIRA PINTO e ROSANGELA MARQUES DUARTE",
+            "horario": "4T2345",
+            "local": "LABMAT (CCS)"
+          },
+          {
+            "id": "GDORS0043",
+            "turmaid": "02",
+            "nome": " MATERIAIS DENTÁRIOS I",
+            "semester": "2018.2",
+            "professor": "SONIA SAEGER MEIRELES MONTE RASO, RINALDO MOREIRA PINTO e ROSANGELA MARQUES DUARTE",
+            "horario": "5M2345",
+            "local": "LABMAT (CCS)"
+          }
+        ],
+        "prerequisites": [
+          "1104173",
+          "1104175",
+          "1610162"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDPSI0108",
+        "name": "PSICOLOGIA APLICADA",
+        "category": "Complementar Obrigatória",
+        "semester": 4,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDPSI0108",
+            "turmaid": "01",
+            "nome": " PSICOLOGIA APLICADA",
+            "semester": "2018.2",
+            "professor": "LAURA HELENA MONTENEGRO CARNEIRO DA CUNHA KUMAMOTO",
+            "horario": "6M34",
+            "local": "CAG 102 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+          "1405206"
+        ]
+      },
+      {
+        "id": "GDCOS0111",
+        "name": "CIRURGIA BUCOMAXILOFACIAL I",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "15h aula 45h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDCOS0111",
+            "turmaid": "01",
+            "nome": " CIRURGIA BUCOMAXILOFACIAL I",
+            "semester": "2018.2",
+            "professor": "ANIBAL HENRIQUE BARBOSA LUNA e MARCOS ANTONIO FARIAS DE PAIVA",
+            "horario": "3M1234",
+            "local": "CLI CIR (CCS)"
+          },
+          {
+            "id": "GDCOS0111",
+            "turmaid": "02",
+            "nome": " CIRURGIA BUCOMAXILOFACIAL I",
+            "semester": "2018.2",
+            "professor": "ANIBAL HENRIQUE BARBOSA LUNA e MARCOS ANTONIO FARIAS DE PAIVA",
+            "horario": "3M1 4M234",
+            "local": "CCS 304 (CCS) / CLI CIR (CCS)"
+          },
+          {
+            "id": "GDCOS0111",
+            "turmaid": "03",
+            "nome": " CIRURGIA BUCOMAXILOFACIAL I",
+            "semester": "2018.2",
+            "professor": "ANIBAL HENRIQUE BARBOSA LUNA e MARCOS ANTONIO FARIAS DE PAIVA",
+            "horario": "3M1 5M234",
+            "local": "CCS 305 (CCS) / CLI CIR (CCS)"
+          }
+        ],
+        "prerequisites": [
+          "1602143",
+          "0108"
+        ],
+        "equivalences": [
+          "1602149"
+        ]
+      },
+      {
+        "id": "GDCOS0112",
+        "name": "ESTOMATOLOGIA",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "15h aula 60h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDCOS0112",
+            "turmaid": "01",
+            "nome": " ESTOMATOLOGIA",
+            "semester": "2018.2",
+            "professor": "LINO JOAO DA COSTA e MARIA SUELI MARQUES SOARES",
+            "horario": "5M2345 3T1",
+            "local": "CLI CAR (CCS)"
+          },
+          {
+            "id": "GDCOS0112",
+            "turmaid": "02",
+            "nome": " ESTOMATOLOGIA",
+            "semester": "2018.2",
+            "professor": "LINO JOAO DA COSTA e MARIA SUELI MARQUES SOARES",
+            "horario": "3M2345 3T1",
+            "local": "CLI CAR (CCS) / CCS 108 (CCS)"
+          }
+        ],
+        "prerequisites": [
+          "0107"
+        ],
+        "equivalences": [
+          "1602147"
+        ]
+      },
+      {
+        "id": "GDCOS0113",
+        "name": "PATOLOGIA ORAL",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "30h aula 60h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDCOS0113",
+            "turmaid": "01",
+            "nome": " PATOLOGIA ORAL",
+            "semester": "2018.2",
+            "professor": "CLAUDIA ROBERTA LEITE VIEIRA DE FIGUEIREDO, HANNAH CARMEM CARLOS RIBEIRO SILVA VERHEUL e MARIA DO SOCORRO ARAGAO",
+            "horario": "2M45 3M2345",
+            "local": "CCS 305 (CCS)"
+          },
+          {
+            "id": "GDCOS0113",
+            "turmaid": "02",
+            "nome": " PATOLOGIA ORAL",
+            "semester": "2018.2",
+            "professor": "CLAUDIA ROBERTA LEITE VIEIRA DE FIGUEIREDO, HANNAH CARMEM CARLOS RIBEIRO SILVA VERHEUL e MARIA DO SOCORRO ARAGAO",
+            "horario": "2M45 6M2345",
+            "local": "CCS 305 (CCS) / CCS 304 (CCS)"
+          },
+          {
+            "id": "GDCOS0113",
+            "turmaid": "03",
+            "nome": " PATOLOGIA ORAL",
+            "semester": "2018.2",
+            "professor": "CLAUDIA ROBERTA LEITE VIEIRA DE FIGUEIREDO, HANNAH CARMEM CARLOS RIBEIRO SILVA VERHEUL e MARIA DO SOCORRO ARAGAO",
+            "horario": "2M45 4M2345",
+            "local": "DCOS (CCS) / CCS 305 (CCS)"
+          }
+        ],
+        "prerequisites": [
+          "1610162",
+          "1611165"
+        ],
+        "equivalences": [
+          "1602142",
+          "1602148"
+        ]
+      },
+      {
+        "id": "GDCOS0114",
+        "name": "PERIODONTIA",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "15h aula 30h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDCOS0114",
+            "turmaid": "01",
+            "nome": " PERIODONTIA",
+            "semester": "2018.2",
+            "professor": "ENNYO SOBRAL CRISPIM DA SILVA, SABRINA GARCIA DE AQUINO e VERONICA CABRAL DOS SANTOS CUNHA D ASSUNCAO",
+            "horario": "2M123",
+            "local": "LAB DEN (CCS)"
+          }
+        ],
+        "prerequisites": [
+          "1610162",
+          "1611168",
+          "1611165"
+        ],
+        "equivalences": [
+          "1602152"
+        ]
+      },
+      {
+        "id": "GDCOS0115",
+        "name": "RADIOLOGIA ODONTOLÓGICA E IMAGINOLOGIA",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "15h aula 45h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDCOS0115",
+            "turmaid": "01",
+            "nome": " RADIOLOGIA ODONTOLÓGICA E IMAGINOLOGIA",
+            "semester": "2018.2",
+            "professor": "RICARDO VILLAR BELTRAO, MARCELO AUGUSTO OLIVEIRA DE SALES e AMANDA MARIA MEDEIROS DE ARAUJO LUCK",
+            "horario": "4T1234",
+            "local": "CLI RAD (CCS)"
+          },
+          {
+            "id": "GDCOS0115",
+            "turmaid": "02",
+            "nome": " RADIOLOGIA ODONTOLÓGICA E IMAGINOLOGIA",
+            "semester": "2018.2",
+            "professor": "PATRICIA DE MEDEIROS LOUREIRO LOPES, RICARDO VILLAR BELTRAO e AMANDA MARIA MEDEIROS DE ARAUJO LUCK",
+            "horario": "3T234 4T1",
+            "local": "CLI RAD (CCS) / CCS 108 (CCS)"
+          },
+          {
+            "id": "GDCOS0115",
+            "turmaid": "03",
+            "nome": " RADIOLOGIA ODONTOLÓGICA E IMAGINOLOGIA",
+            "semester": "2018.2",
+            "professor": "RICARDO VILLAR BELTRAO e AMANDA MARIA MEDEIROS DE ARAUJO LUCK",
+            "horario": "4M234 4T1",
+            "local": "CLI RAD (CCS) / CCS 305 (CCS)"
+          }
+        ],
+        "prerequisites": [
+          "0108"
+        ],
+        "equivalences": [
+          "1602150"
+        ]
+      },
+      {
+        "id": "GDCOS0116",
+        "name": "ESTÁGIO SUPERVISIONADO I",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "0h aula 30h lab.",
+        "type": "ESTÁGIO",
+        "turmas": [
+          {
+            "id": "GDCOS0116",
+            "turmaid": "01",
+            "nome": " ESTÁGIO SUPERVISIONADO I",
+            "semester": "2018.2",
+            "professor": "PAULO ROGERIO FERRETI BONAN e CLAUDIA BATISTA MELO",
+            "horario": "3T23 (22/11/2018 - 10/05/2019)",
+            "local": "CLI CAR (CCS)"
+          },
+          {
+            "id": "GDCOS0116",
+            "turmaid": "02",
+            "nome": " ESTÁGIO SUPERVISIONADO I",
+            "semester": "2018.2",
+            "professor": "PAULO ROGERIO FERRETI BONAN e CLAUDIA BATISTA MELO",
+            "horario": "5T23 (22/11/2018 - 10/05/2019)",
+            "local": "CLI CAR (CCS)"
+          }
+        ],
+        "prerequisites": [
+          "0108",
+          "0109"
+        ],
+        "equivalences": [
+          "1602151"
+        ]
+      },
+      {
+        "id": "GDORS0044",
+        "name": "DENTISTÍCA",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "15h aula 45h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDORS0044",
+            "turmaid": "01",
+            "nome": " DENTISTÍCA",
+            "semester": "2018.2",
+            "professor": "ANA KARINA MACIEL DE ANDRADE, ROBINSOM VIEGAS MONTENEGRO e RAQUEL VENANCIO FERNANDES DANTAS",
+            "horario": "4T2345",
+            "local": "LAB DEN (CCS)"
+          },
+          {
+            "id": "GDORS0044",
+            "turmaid": "02",
+            "nome": " DENTISTÍCA",
+            "semester": "2018.2",
+            "professor": "ANA KARINA MACIEL DE ANDRADE, ROBINSOM VIEGAS MONTENEGRO e RAQUEL VENANCIO FERNANDES DANTAS",
+            "horario": "5T1234",
+            "local": "LAB DEN (CCS)"
+          }
+        ],
+        "prerequisites": [
+          "1606127",
+          "0043",
+          "0109",
+          "0106"
+        ],
+        "equivalences": [
+          "1606114"
+        ]
+      },
+      {
+        "id": "GDORS0045",
+        "name": "ENDODONTIA",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "15h aula 45h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDORS0045",
+            "turmaid": "01",
+            "nome": " ENDODONTIA",
+            "semester": "2018.2",
+            "professor": "FABIO LUIZ CUNHA DASSUNCAO, JUAN RAMON SALAZAR SILVA e THIAGO FARIAS ROCHA LIMA",
+            "horario": "2T1234",
+            "local": "LAB END (CCS)"
+          },
+          {
+            "id": "GDORS0045",
+            "turmaid": "02",
+            "nome": " ENDODONTIA",
+            "semester": "2018.2",
+            "professor": "HELOISA HELENA PINHO VELOSO, JUAN RAMON SALAZAR SILVA e THIAGO FARIAS ROCHA LIMA",
+            "horario": "5M2345",
+            "local": "LAB END (CCS)"
+          }
+        ],
+        "prerequisites": [
+          "0108",
+          "0109"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDCOS0117",
+        "name": "CLÍNICA DE DENTÍSTICA",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "15h aula 60h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDCOS0117",
+            "turmaid": "01",
+            "nome": " CLÍNICA DE DENTÍSTICA",
+            "semester": "2018.2",
+            "professor": "ANDREA GADELHA RIBEIRO TARGINO, LUCIANE QUEIROZ MOTA DE LIMA e ROSENES LIMA DOS SANTOS",
+            "horario": "5M2345 4T1",
+            "local": "CLI ODP (CCS) / DCOS (CCS)"
+          },
+          {
+            "id": "GDCOS0117",
+            "turmaid": "02",
+            "nome": " CLÍNICA DE DENTÍSTICA",
+            "semester": "2018.2",
+            "professor": "GERMANA COELI DE FARIAS SALES, LUCIANE QUEIROZ MOTA DE LIMA, ROSENES LIMA DOS SANTOS e MARIA GERMANA GALVAO CORREIA LIMA",
+            "horario": "4T12345",
+            "local": "CLI ODP (CCS)"
+          },
+          {
+            "id": "1602167",
+            "turmaid": "01",
+            "nome": " DENTISTICA CLINICA II",
+            "semester": "2018.2",
+            "professor": "ANDREA GADELHA RIBEIRO TARGINO, GERMANA COELI DE FARIAS SALES e ROSENES LIMA DOS SANTOS",
+            "horario": "3T1234",
+            "local": "CLI ODP (CCS)"
+          },
+          {
+            "id": "1602167",
+            "turmaid": "02",
+            "nome": " DENTISTICA CLINICA II",
+            "semester": "2018.2",
+            "professor": "GERMANA COELI DE FARIAS SALES, ROSENES LIMA DOS SANTOS e MARIA GERMANA GALVAO CORREIA LIMA",
+            "horario": "4M234 3T1",
+            "local": "DCOS (CCS) / CLI ODP (CCS)"
+          }
+        ],
+        "prerequisites": [
+          "0108",
+          "0044",
+          "0045",
+          "0111"
+        ],
+        "equivalences": [
+          "1602166",
+          "1602167"
+        ]
+      },
+      {
+        "id": "GDCOS0118",
+        "name": "CLÍNICA DE DIAGNÓSTICO",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "0h aula 45h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDCOS0118",
+            "turmaid": "01",
+            "nome": " CLÍNICA DE DIAGNÓSTICO",
+            "semester": "2018.2",
+            "professor": "PAULO ROGERIO FERRETI BONAN, PATRICIA DE MEDEIROS LOUREIRO LOPES e MARIA DO SOCORRO ARAGAO",
+            "horario": "2M123",
+            "local": "CLI CAR (CCS)"
+          },
+          {
+            "id": "GDCOS0118",
+            "turmaid": "02",
+            "nome": " CLÍNICA DE DIAGNÓSTICO",
+            "semester": "2018.2",
+            "professor": "PAULO ROGERIO FERRETI BONAN, CLAUDIA ROBERTA LEITE VIEIRA DE FIGUEIREDO e MARCELO AUGUSTO OLIVEIRA DE SALES",
+            "horario": "2T234",
+            "local": "CLI CAR (CCS)"
+          }
+        ],
+        "prerequisites": [
+          "0112",
+          "0113",
+          "0115",
+          "0111"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDCOS0119",
+        "name": "CLÍNICA DE PERIODONTIA",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "15h aula 45h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDCOS0119",
+            "turmaid": "01",
+            "nome": " CLÍNICA DE PERIODONTIA",
+            "semester": "2018.2",
+            "professor": "VERONICA CABRAL DOS SANTOS CUNHA D ASSUNCAO, ENNYO SOBRAL CRISPIM DA SILVA, SABRINA GARCIA DE AQUINO e DANILO BATISTA MARTINS BARBOSA",
+            "horario": "2M5 5M234",
+            "local": "CLI PERI (CCS)"
+          },
+          {
+            "id": "GDCOS0119",
+            "turmaid": "02",
+            "nome": " CLÍNICA DE PERIODONTIA",
+            "semester": "2018.2",
+            "professor": "VERONICA CABRAL DOS SANTOS CUNHA D ASSUNCAO, JOSE RODRIGO MEGA ROCHA, ENNYO SOBRAL CRISPIM DA SILVA e SABRINA GARCIA DE AQUINO",
+            "horario": "2M5 4T234",
+            "local": "LAB DEN (CCS) / CLI PERI (CCS)"
+          }
+        ],
+        "prerequisites": [
+          "0111",
+          "0115",
+          "0114",
+          "0109"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDCOS0120",
+        "name": "ÉTICA E LEGISLAÇÃO ODONTOLÓGICA",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDCOS0120",
+            "turmaid": "01",
+            "nome": " ÉTICA E LEGISLAÇÃO ODONTOLÓGICA",
+            "semester": "2018.2",
+            "professor": "PATRICIA MOREIRA RABELLO e BIANCA MARQUES SANTIAGO",
+            "horario": "34M45",
+            "local": "CCS 304 (CCS)"
+          },
+          {
+            "id": "1602134",
+            "turmaid": "01",
+            "nome": " ETICA E LEGISLACAO ODONTOLOGICA",
+            "semester": "2018.2",
+            "professor": "PATRICIA MOREIRA RABELLO e BIANCA MARQUES SANTIAGO",
+            "horario": "5M2345",
+            "local": "CCS 304 (CCS)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+          "1602134"
+        ]
+      },
+      {
+        "id": "GDCOS0121",
+        "name": "ESTÁGIO SUPERVISIONADO II",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "0h aula 45h lab.",
+        "type": "ESTÁGIO",
+        "turmas": [
+          {
+            "id": "GDCOS0121",
+            "turmaid": "01",
+            "nome": " ESTÁGIO SUPERVISIONADO II",
+            "semester": "2018.2",
+            "professor": "MARIA GERMANA GALVAO CORREIA LIMA e DANILO BATISTA MARTINS BARBOSA",
+            "horario": "2M123 (22/11/2018 - 10/05/2019)",
+            "local": "USF 03 (CCS)"
+          },
+          {
+            "id": "GDCOS0121",
+            "turmaid": "02",
+            "nome": " ESTÁGIO SUPERVISIONADO II",
+            "semester": "2018.2",
+            "professor": "MARIA GERMANA GALVAO CORREIA LIMA e THIAGO PELUCIO MOREIRA",
+            "horario": "5T123 (22/11/2018 - 10/05/2019)",
+            "local": "USF 09 (CCS)"
+          }
+        ],
+        "prerequisites": [
+          "0111",
+          "0112",
+          "0113"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDORS0046",
+        "name": "CLÍNICA DE ENDODONTIA",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "15h aula 60h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDORS0046",
+            "turmaid": "01",
+            "nome": " CLÍNICA DE ENDODONTIA",
+            "semester": "2018.2",
+            "professor": "FABIO LUIZ CUNHA DASSUNCAO, JUAN RAMON SALAZAR SILVA e THIAGO FARIAS ROCHA LIMA",
+            "horario": "5M1 6M2345",
+            "local": "CLI END (CCS) / AUDDOR (CCS)"
+          },
+          {
+            "id": "GDORS0046",
+            "turmaid": "02",
+            "nome": " CLÍNICA DE ENDODONTIA",
+            "semester": "2018.2",
+            "professor": "FABIO LUIZ CUNHA DASSUNCAO, JUAN RAMON SALAZAR SILVA e THIAGO FARIAS ROCHA LIMA",
+            "horario": "5M1 5T2345",
+            "local": "CLI END (CCS) / AUD DOR (CCS)"
+          }
+        ],
+        "prerequisites": [
+          "0115",
+          "0045"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDORS0047",
+        "name": "MATERIAIS DENTÁRIOS II",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "15h aula 30h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDORS0047",
+            "turmaid": "01",
+            "nome": " MATERIAIS DENTÁRIOS II",
+            "semester": "2018.2",
+            "professor": "SONIA SAEGER MEIRELES MONTE RASO, RINALDO MOREIRA PINTO e ROSANGELA MARQUES DUARTE",
+            "horario": "2T123",
+            "local": "LABMAT (CCS)"
+          },
+          {
+            "id": "GDORS0047",
+            "turmaid": "03",
+            "nome": " MATERIAIS DENTÁRIOS II",
+            "semester": "2018.2",
+            "professor": "SONIA SAEGER MEIRELES MONTE RASO, RINALDO MOREIRA PINTO e ROSANGELA MARQUES DUARTE",
+            "horario": "6M234",
+            "local": "LABMAT (CCS)"
+          }
+        ],
+        "prerequisites": [
+          "0043"
+        ],
+        "equivalences": [
+          "1606129"
+        ]
+      },
+      {
+        "id": "GDORS0048",
+        "name": "OCLUSÃO",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "15h aula 30h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDORS0048",
+            "turmaid": "01",
+            "nome": " OCLUSÃO",
+            "semester": "2018.2",
+            "professor": "MARCELE JARDIM PIMENTEL, ANDRE ULISSES DANTAS BATISTA e ROBINSOM VIEGAS MONTENEGRO",
+            "horario": "3M23 4M1",
+            "local": "CLI OCL (CCS) / AUDDOR (CCS)"
+          },
+          {
+            "id": "GDORS0048",
+            "turmaid": "02",
+            "nome": " OCLUSÃO",
+            "semester": "2018.2",
+            "professor": "MARCELE JARDIM PIMENTEL, ANDRE ULISSES DANTAS BATISTA e ROBINSOM VIEGAS MONTENEGRO",
+            "horario": "4M123",
+            "local": "CLI OCL (CCS)"
+          },
+          {
+            "id": "1606116",
+            "turmaid": "01",
+            "nome": " OCLUSAO",
+            "semester": "2018.2",
+            "professor": "ANDRE ULISSES DANTAS BATISTA",
+            "horario": "4T1234",
+            "local": "CLI OCL (CCS)"
+          }
+        ],
+        "prerequisites": [
+          "0115",
+          "1602143",
+          "1606127"
+        ],
+        "equivalences": [
+          "1606116"
+        ]
+      },
+      {
+        "id": "1606119",
+        "name": "PROTESE PARCIAL FIXA",
+        "category": "Obrigatória",
+        "semester": 7,
+        "workload": "15h aula 45h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1606119",
+            "turmaid": "01",
+            "nome": " PROTESE PARCIAL FIXA",
+            "semester": "2018.2",
+            "professor": "CARMEM SILVIA LAUREANO DALLE PIAGGE, ANTONIO CARLOS LOPES BRANCO e TULIO PESSOA DE ARAUJO",
+            "horario": "2M234 3M1",
+            "local": "LAB PPF (CCS) / AUD DOR (CCS)"
+          },
+          {
+            "id": "1606119",
+            "turmaid": "02",
+            "nome": " PROTESE PARCIAL FIXA",
+            "semester": "2018.2",
+            "professor": "ANTONIO CARLOS LOPES BRANCO",
+            "horario": "3M1234",
+            "local": "LAB PPF (CCS)"
+          },
+          {
+            "id": "1606119",
+            "turmaid": "03",
+            "nome": " PROTESE PARCIAL FIXA",
+            "semester": "2018.2",
+            "professor": "ANTONIO CARLOS LOPES BRANCO",
+            "horario": "3M1 5T234",
+            "local": "LAB PPR (CCS) / AUDDOR (CCS)"
+          }
+        ],
+        "prerequisites": [
+          "0117",
+          "0046",
+          "0048",
+          "0047"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1606123",
+        "name": "PROTESE PARCIAL REMOVIVEL",
+        "category": "Obrigatória",
+        "semester": 7,
+        "workload": "15h aula 45h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1606123",
+            "turmaid": "01",
+            "nome": " PROTESE PARCIAL REMOVIVEL",
+            "semester": "2018.2",
+            "professor": "DINAMERICA PEREIRA DE FARIAS e DUCIA CALDAS COSME DA TRINDADE",
+            "horario": "4M2345",
+            "local": "LAB PPF (CCS)"
+          },
+          {
+            "id": "1606123",
+            "turmaid": "02",
+            "nome": " PROTESE PARCIAL REMOVIVEL",
+            "semester": "2018.2",
+            "professor": "DINAMERICA PEREIRA DE FARIAS e DUCIA CALDAS COSME DA TRINDADE",
+            "horario": "4M5 4T123",
+            "local": "LAB PPF (CCS) / AUDDOR (CCS)"
+          },
+          {
+            "id": "1606123",
+            "turmaid": "03",
+            "nome": " PROTESE PARCIAL REMOVIVEL",
+            "semester": "2018.2",
+            "professor": "DINAMERICA PEREIRA DE FARIAS e DUCIA CALDAS COSME DA TRINDADE",
+            "horario": "4M5 3T234",
+            "local": "LAB PPF (CCS) / AUD DOR (CCS)"
+          }
+        ],
+        "prerequisites": [
+          "0117",
+          "0119",
+          "0048",
+          "0047",
+          "0046"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDCOS0122",
+        "name": "CLÍNICA INTEGRADA I",
+        "category": "Obrigatória",
+        "semester": 7,
+        "workload": "15h aula 60h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1602155",
+            "turmaid": "01",
+            "nome": " PERIODONTIA II",
+            "semester": "2018.2",
+            "professor": "VERONICA CABRAL DOS SANTOS CUNHA D ASSUNCAO, JOSE RODRIGO MEGA ROCHA, ENNYO SOBRAL CRISPIM DA SILVA e SABRINA GARCIA DE AQUINO",
+            "horario": "2M5 3M234",
+            "local": "CLI PERI (CCS) / CCS 311 (CCS)"
+          },
+          {
+            "id": "1602155",
+            "turmaid": "02",
+            "nome": " PERIODONTIA II",
+            "semester": "2018.2",
+            "professor": "ENNYO SOBRAL CRISPIM DA SILVA, SABRINA GARCIA DE AQUINO e VERONICA CABRAL DOS SANTOS CUNHA D ASSUNCAO",
+            "horario": "2M5 4M234",
+            "local": "CLI PERI (CCS) / CCS 108 (CCS)"
+          }
+        ],
+        "prerequisites": [
+          "0117",
+          "0046",
+          "0119",
+          "0111"
+        ],
+        "equivalences": [
+          "1602155"
+        ]
+      },
+      {
+        "id": "GDCOS0123",
+        "name": "ODONTOLOGIA INFANTIL I",
+        "category": "Obrigatória",
+        "semester": 7,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1602156",
+            "turmaid": "01",
+            "nome": " INTRODUCAO A ODONTOPEDIATRIA E ORTODONTI",
+            "semester": "2018.2",
+            "professor": "ELIANE BATISTA DE MEDEIROS SERPA, RICARDO LOMBARDI DE FARIAS, SIMONE ALVES DE SOUSA, EDNARA MERCIA FERNANDES DE ANDRADE, REJANE TARGINO SOARES BELTRAO e KARINA JERONIMO RODRIGUES SANTIAGO DE LIMA",
+            "horario": "5M23 6T23",
+            "local": "DCOS (CCS)"
+          }
+        ],
+        "prerequisites": [
+          "0117",
+          "0119",
+          "0046",
+          "0118",
+          "0108"
+        ],
+        "equivalences": [
+          "1602156"
+        ]
+      },
+      {
+        "id": "GDCOS0125",
+        "name": "ESTÁGIO SUPERVISIONADO III",
+        "category": "Obrigatória",
+        "semester": 7,
+        "workload": "0h aula 60h lab.",
+        "type": "ESTÁGIO",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "0117",
+          "0119",
+          "0046"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDORS0049",
+        "name": "PRÓTESE TOTAL REMOVÍVEL",
+        "category": "Obrigatória",
+        "semester": 7,
+        "workload": "15h aula 45h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1606124",
+            "turmaid": "01",
+            "nome": " PROTESE TOTAL",
+            "semester": "2018.2",
+            "professor": "RONALDO CAMPELO DOS SANTOS e LUIZ ALBERTO FERNANDES REGIS",
+            "horario": "2M1234",
+            "local": "AUDDOR (CCS)"
+          },
+          {
+            "id": "1606124",
+            "turmaid": "02",
+            "nome": " PROTESE TOTAL",
+            "semester": "2018.2",
+            "professor": "RONALDO CAMPELO DOS SANTOS e LUIZ ALBERTO FERNANDES REGIS",
+            "horario": "2M1 3M234",
+            "local": "LAB PT (CCS) / AUD DOR (CCS)"
+          },
+          {
+            "id": "1606124",
+            "turmaid": "03",
+            "nome": " PROTESE TOTAL",
+            "semester": "2018.2",
+            "professor": "RONALDO CAMPELO DOS SANTOS e LUIZ ALBERTO FERNANDES REGIS",
+            "horario": "2M1 4M234",
+            "local": "LAB PT (CCS)"
+          }
+        ],
+        "prerequisites": [
+          "0048",
+          "0047",
+          "0112"
+        ],
+        "equivalences": [
+          "1606124"
+        ]
+      },
+      {
+        "id": "GDORS0050",
+        "name": "DISFUNÇÃO TÊMPORO",
+        "category": "Complementar Obrigatória",
+        "semester": 7,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "0048"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDORS0051",
+        "name": "GESTÃO E ORIENTAÇÃO PROFISSIONAL",
+        "category": "Complementar Obrigatória",
+        "semester": 7,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "0117",
+          "0119",
+          "0046"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1602169",
+        "name": "ORTODONTIA",
+        "category": "Obrigatória",
+        "semester": 8,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1602169",
+            "turmaid": "01",
+            "nome": " ORTODONTIA",
+            "semester": "2018.2",
+            "professor": "REJANE TARGINO SOARES BELTRAO e KARINA JERONIMO RODRIGUES SANTIAGO DE LIMA",
+            "horario": "4M1234",
+            "local": "LAB ORTO (CCS)"
+          },
+          {
+            "id": "1602169",
+            "turmaid": "02",
+            "nome": " ORTODONTIA",
+            "semester": "2018.2",
+            "professor": "EDNARA MERCIA FERNANDES DE ANDRADE e RICARDO LOMBARDI DE FARIAS",
+            "horario": "2M234 4M1",
+            "local": "LAB ORTO (CCS) / DCOS (CCS)"
+          }
+        ],
+        "prerequisites": [
+          "1610162",
+          "0104",
+          "0123"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDCOS0124",
+        "name": "CIRURGIA BUCOMAXILOFACIAL II",
+        "category": "Obrigatória",
+        "semester": 8,
+        "workload": "15h aula 45h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1602153",
+            "turmaid": "02",
+            "nome": " CIRURGIA II",
+            "semester": "2018.2",
+            "professor": "FABIANO GONZAGA RODRIGUES, JOSE RODRIGO MEGA ROCHA, TANIA LEMOS COELHO RODRIGUES e DANILO BATISTA MARTINS BARBOSA",
+            "horario": "4M2345",
+            "local": "CLI CBMF (CCS)"
+          }
+        ],
+        "prerequisites": [
+          "0111"
+        ],
+        "equivalences": [
+          "1602153"
+        ]
+      },
+      {
+        "id": "GDCOS0126",
+        "name": "ESTÁGIO SUPERVISIONADO IV",
+        "category": "Obrigatória",
+        "semester": 8,
+        "workload": "0h aula 60h lab.",
+        "type": "ESTÁGIO",
+        "turmas": [
+          {
+            "id": "1602159",
+            "turmaid": "01",
+            "nome": " ESTAGIO SUPERVISIONADO VIII",
+            "semester": "2018.2",
+            "professor": "CAROLINA BEZERRA CAVALCANTI NOBREGA",
+            "horario": "6M2345",
+            "local": "USF 01 (CCS)"
+          },
+          {
+            "id": "1602159",
+            "turmaid": "02",
+            "nome": " ESTAGIO SUPERVISIONADO VIII",
+            "semester": "2018.2",
+            "professor": "YURI WANDERLEY CAVALCANTI",
+            "horario": "3T2345",
+            "local": "USF 06 (CCS)"
+          }
+        ],
+        "prerequisites": [
+          "0110",
+          "0116",
+          "0121",
+          "0125"
+        ],
+        "equivalences": [
+          "1602159"
+        ]
+      },
+      {
+        "id": "GDCOS0129",
+        "name": "ODONTOLOGIA INFANTIL II",
+        "category": "Obrigatória",
+        "semester": 8,
+        "workload": "15h aula 45h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1602157",
+            "turmaid": "01",
+            "nome": " ODONTOPEDIATRIA",
+            "semester": "2018.2",
+            "professor": "ELIANE BATISTA DE MEDEIROS SERPA, RICARDO LOMBARDI DE FARIAS, SIMONE ALVES DE SOUSA e REJANE TARGINO SOARES BELTRAO",
+            "horario": "2T1234",
+            "local": "CLI ODP (CCS)"
+          },
+          {
+            "id": "1602157",
+            "turmaid": "02",
+            "nome": " ODONTOPEDIATRIA",
+            "semester": "2018.2",
+            "professor": "ELIANE BATISTA DE MEDEIROS SERPA, SIMONE ALVES DE SOUSA, EDNARA MERCIA FERNANDES DE ANDRADE e KARINA JERONIMO RODRIGUES SANTIAGO DE LIMA",
+            "horario": "3M234 2T1",
+            "local": "CLI ODP (CCS) / DCOS (CCS)"
+          }
+        ],
+        "prerequisites": [
+          "0123",
+          "0122"
+        ],
+        "equivalences": [
+          "1602157"
+        ]
+      },
+      {
+        "id": "GDORS0052",
+        "name": "PRÓTESE BUCOMAXILOFACIAL",
+        "category": "Complementar Obrigatória",
+        "semester": 8,
+        "workload": "15h aula 15h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "0047",
+          "0048",
+          "0118"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDORS0053",
+        "name": "CLÍNICA INTEGRADA II",
+        "category": "Obrigatória",
+        "semester": 8,
+        "workload": "15h aula 120h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "0122",
+          "0049",
+          "1606123",
+          "1606119"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDORS0054",
+        "name": "TRABALHO DE CONCLUSÃO DE CURSO I",
+        "category": "Complementar Obrigatória",
+        "semester": 8,
+        "workload": "15h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1606137",
+            "turmaid": "01",
+            "nome": " MONOGRAFIA I",
+            "semester": "2018.2",
+            "professor": "HELOISA HELENA PINHO VELOSO",
+            "horario": "5T34",
+            "local": "AUDDOR (CCS)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+          "1606137"
+        ]
+      },
+      {
+        "id": "1602137",
+        "name": "ODONTOLOGIA LEGAL",
+        "category": "Obrigatória",
+        "semester": 9,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1602137",
+            "turmaid": "01",
+            "nome": " ODONTOLOGIA LEGAL",
+            "semester": "2018.2",
+            "professor": "PATRICIA MOREIRA RABELLO e BIANCA MARQUES SANTIAGO",
+            "horario": "2M234 2T1",
+            "local": "CCS 304 (CCS) / CCS 108 (CCS)"
+          },
+          {
+            "id": "1602137",
+            "turmaid": "02",
+            "nome": " ODONTOLOGIA LEGAL",
+            "semester": "2018.2",
+            "professor": "PATRICIA MOREIRA RABELLO e BIANCA MARQUES SANTIAGO",
+            "horario": "2T1234",
+            "local": "CCS 108 (CCS)"
+          }
+        ],
+        "prerequisites": [
+          "0104"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1606120",
+        "name": "TRAUMATOLOGIA BMF",
+        "category": "Obrigatória",
+        "semester": 9,
+        "workload": "30h aula 30h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1606120",
+            "turmaid": "1",
+            "nome": " TRAUMATOLOGIA BMF",
+            "semester": "2018.2",
+            "professor": "JOSE WILSON NOLETO RAMOS JUNIOR",
+            "horario": "3T234 5T1",
+            "local": "AUD DOR (CCS) / SALA 310 (CCS)"
+          },
+          {
+            "id": "1606120",
+            "turmaid": "2",
+            "nome": " TRAUMATOLOGIA BMF",
+            "semester": "2018.2",
+            "professor": "JOSE WILSON NOLETO RAMOS JUNIOR",
+            "horario": "5T1234",
+            "local": "LAB ESC (CCS)"
+          }
+        ],
+        "prerequisites": [
+          "0124"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDCOS0127",
+        "name": "CLÍNICA INTEGRADA INFANTIL",
+        "category": "Obrigatória",
+        "semester": 9,
+        "workload": "0h aula 45h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "0129"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDCOS0128",
+        "name": "ESTÁGIO SUPERVISIONADO V",
+        "category": "Obrigatória",
+        "semester": 9,
+        "workload": "0h aula 60h lab.",
+        "type": "ESTÁGIO",
+        "turmas": [
+          {
+            "id": "1602161",
+            "turmaid": "01",
+            "nome": " ESTAGIO SUPERVISIONADO IX",
+            "semester": "2018.2",
+            "professor": "CAROLINA BEZERRA CAVALCANTI NOBREGA",
+            "horario": "4M2345",
+            "local": "USF 08 (CCS)"
+          },
+          {
+            "id": "1602161",
+            "turmaid": "02",
+            "nome": " ESTAGIO SUPERVISIONADO IX",
+            "semester": "2018.2",
+            "professor": "CAROLINA BEZERRA CAVALCANTI NOBREGA e YURI WANDERLEY CAVALCANTI",
+            "horario": "6T1234",
+            "local": "USF 08 (CCS)"
+          }
+        ],
+        "prerequisites": [
+          "0126"
+        ],
+        "equivalences": [
+          "1602161"
+        ]
+      },
+      {
+        "id": "GDORS0055",
+        "name": "CLÍNICA INTEGRADA III",
+        "category": "Obrigatória",
+        "semester": 9,
+        "workload": "15h aula 120h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "0053"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDORS0056",
+        "name": "EMERGÊNCIAS MÉDICAS DE ODONTOLOGIA",
+        "category": "Complementar Obrigatória",
+        "semester": 9,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "0053"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDORS0057",
+        "name": "IMPLANTODONTIA",
+        "category": "Complementar Obrigatória",
+        "semester": 9,
+        "workload": "15h aula 30h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1606139",
+            "turmaid": "01",
+            "nome": " IMPLANTODONTIA",
+            "semester": "2018.2",
+            "professor": "MARCELE JARDIM PIMENTEL, FABIANO GONZAGA RODRIGUES e ANTONIO CARLOS LOPES BRANCO",
+            "horario": "6M123",
+            "local": "AUDDOR (CCS)"
+          }
+        ],
+        "prerequisites": [
+          "0053",
+          "0124"
+        ],
+        "equivalences": [
+          "1606139"
+        ]
+      },
+      {
+        "id": "GDORS0058",
+        "name": "ODONTOLOGIA HOSPITALAR",
+        "category": "Complementar Obrigatória",
+        "semester": 9,
+        "workload": "15h aula 15h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "0118",
+          "0053"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDCOS0130",
+        "name": "CLINICA INTEGRADA IV",
+        "category": "Obrigatória",
+        "semester": 10,
+        "workload": "30h aula 300h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "0053"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDORS0059",
+        "name": "TRABALHO DE CONCLUSÃO DE CURSO II",
+        "category": "Complementar Obrigatória",
+        "semester": 10,
+        "workload": "15h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1606138",
+            "turmaid": "01",
+            "nome": " MONOGRAFIA II",
+            "semester": "2018.2",
+            "professor": "ANGELO BRITO PEREIRA DE MELO",
+            "horario": "4T45",
+            "local": "AUDDOR (CCS)"
+          }
+        ],
+        "prerequisites": [
+          "0054"
+        ],
+        "equivalences": [
+          "1606138"
+        ]
+      },
+      {
+        "id": "GDORS0060",
+        "name": "ESTAGIO SUPERVISIONADO INTERPROFISSIONAL",
+        "category": "Obrigatória",
+        "semester": 10,
+        "workload": "0h aula 90h lab.",
+        "type": "ESTÁGIO",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "0128"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1606125",
+        "name": " CI PERIODON ENDOD DENTIST PROTESE",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": "60h",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1606125",
+            "turmaid": "01",
+            "nome": " CI PERIODON ENDOD DENTIST PROTESE",
+            "semester": "2018.2",
+            "professor": "RAQUEL VENANCIO FERNANDES DANTAS, ROBERTA MOREIRA FRANCA, ROSEANNE DA CUNHA UCHOA e ANDRE ULISSES DANTAS BATISTA",
+            "horario": "2M2345",
+            "local": "CLI PED (CCS)"
+          },
+          {
+            "id": "1606125",
+            "turmaid": "02",
+            "nome": " CI PERIODON ENDOD DENTIST PROTESE",
+            "semester": "2018.2",
+            "professor": "ANA KARINA MACIEL DE ANDRADE, ROBERTA MOREIRA FRANCA, ROSEANNE DA CUNHA UCHOA e MARCELE JARDIM PIMENTEL",
+            "horario": "2T2345",
+            "local": "CLI PED (CCS)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1602153",
+        "name": " CIRURGIA II",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": "49h",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1602153",
+            "turmaid": "02",
+            "nome": " CIRURGIA II",
+            "semester": "2018.2",
+            "professor": "FABIANO GONZAGA RODRIGUES, JOSE RODRIGO MEGA ROCHA, TANIA LEMOS COELHO RODRIGUES e DANILO BATISTA MARTINS BARBOSA",
+            "horario": "4M2345",
+            "local": "CLI CBMF (CCS)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDCOS0028",
+        "name": " CLÍNICA INTEGRADA",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": "240h",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDCOS0028",
+            "turmaid": "01",
+            "nome": " CLÍNICA INTEGRADA",
+            "semester": "2018.2",
+            "professor": "PAULA ANGELA SOUTO MONTENEGRO DE ALMEIDA CUNHA, LEOPOLDINA DE F DANTAS DE ALMEIDA, ROSIMAR DE CASTRO BARRETO, ELOISA LORENZO DE AZEVEDO GHERSEL, HERBERT GHERSEL, MARCOS ANTONIO FLORENCIO DOS SANTOS e DEJANILDO JORGE VELOSO",
+            "horario": "2345M12345 6M234 (22/11/2018 - 10/05/2019)",
+            "local": "ODON HU (CCS)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1602160",
+        "name": " CLINICA INTEGRADA INFANTIL",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": "60h",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1602160",
+            "turmaid": "01",
+            "nome": " CLINICA INTEGRADA INFANTIL",
+            "semester": "2018.2",
+            "professor": "ELIANE BATISTA DE MEDEIROS SERPA, RICARDO LOMBARDI DE FARIAS, SIMONE ALVES DE SOUSA, EDNARA MERCIA FERNANDES DE ANDRADE, REJANE TARGINO SOARES BELTRAO e KARINA JERONIMO RODRIGUES SANTIAGO DE LIMA",
+            "horario": "6M2345",
+            "local": "CLI ODP (CCS)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1606130",
+        "name": " CLINICA PROTETICA",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": "70h",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1606130",
+            "turmaid": "01",
+            "nome": " CLINICA PROTETICA",
+            "semester": "2018.2",
+            "professor": "TULIO PESSOA DE ARAUJO e CARMEM SILVIA LAUREANO DALLE PIAGGE",
+            "horario": "4M2345 4T23",
+            "local": "AUD DOR (CCS) / CLI PRO (CCS)"
+          },
+          {
+            "id": "1606130",
+            "turmaid": "02",
+            "nome": " CLINICA PROTETICA",
+            "semester": "2018.2",
+            "professor": "TULIO PESSOA DE ARAUJO e CARMEM SILVIA LAUREANO DALLE PIAGGE",
+            "horario": "3T1234 4T23",
+            "local": "CLI PRO (CCS) / AUDDOR (CCS)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1602167",
+        "name": " DENTISTICA CLINICA II",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": "45h",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1602167",
+            "turmaid": "01",
+            "nome": " DENTISTICA CLINICA II",
+            "semester": "2018.2",
+            "professor": "ANDREA GADELHA RIBEIRO TARGINO, GERMANA COELI DE FARIAS SALES e ROSENES LIMA DOS SANTOS",
+            "horario": "3T1234",
+            "local": "CLI ODP (CCS)"
+          },
+          {
+            "id": "1602167",
+            "turmaid": "02",
+            "nome": " DENTISTICA CLINICA II",
+            "semester": "2018.2",
+            "professor": "GERMANA COELI DE FARIAS SALES, ROSENES LIMA DOS SANTOS e MARIA GERMANA GALVAO CORREIA LIMA",
+            "horario": "4M234 3T1",
+            "local": "DCOS (CCS) / CLI ODP (CCS)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1610181",
+        "name": " EMBRIOLOGIA FARMACIA",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": null,
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1610181",
+            "turmaid": "02",
+            "nome": " EMBRIOLOGIA FARMACIA",
+            "semester": "2018.2",
+            "professor": "A DEFINIR",
+            "horario": "5T123",
+            "local": "CCS 301 (CCS)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1606118",
+        "name": " ENDODONTIA II",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": "50h",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1606118",
+            "turmaid": "01",
+            "nome": " ENDODONTIA II",
+            "semester": "2018.2",
+            "professor": "FABIO LUIZ CUNHA DASSUNCAO, JUAN RAMON SALAZAR SILVA, ANGELO BRITO PEREIRA DE MELO e THIAGO FARIAS ROCHA LIMA",
+            "horario": "6M1 4T234",
+            "local": "CLI END (CCS)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDEMC0091",
+        "name": " ENSINO DE TÉCNICAS ÁUDIO EXPOSITIVAS",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": "45h",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDEMC0091",
+            "turmaid": "01",
+            "nome": " ENSINO DE TÉCNICAS ÁUDIO EXPOSITIVAS",
+            "semester": "2018.2",
+            "professor": "AURILENE JOSEFA CARTAXO GOMES DE ARRUDA",
+            "horario": "5T234",
+            "local": "CCS 604 (CCS)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDCOS0033",
+        "name": " ESTÁGIO RURAL INTEGRADO",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": "15h",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDCOS0033",
+            "turmaid": "01",
+            "nome": " ESTÁGIO RURAL INTEGRADO",
+            "semester": "2018.2",
+            "professor": "ROBERTA MOREIRA FRANCA e MARCOS ANTONIO FLORENCIO DOS SANTOS",
+            "horario": "2N1234 3N123",
+            "local": "USF 03 (CCS)"
+          },
+          {
+            "id": "GDCOS0033",
+            "turmaid": "02",
+            "nome": " ESTÁGIO RURAL INTEGRADO",
+            "semester": "2018.2",
+            "professor": "ROBERTA MOREIRA FRANCA e MARCOS ANTONIO FLORENCIO DOS SANTOS",
+            "horario": "34T1234 5T234",
+            "local": "USF 08 (CCS)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1602154",
+        "name": " ESTAGIO SUPERVISIONADAO VI",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": "15h",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1602154",
+            "turmaid": "01",
+            "nome": " ESTAGIO SUPERVISIONADAO VI",
+            "semester": "2018.2",
+            "professor": "TANIA LEMOS COELHO RODRIGUES e MARIA GERMANA GALVAO CORREIA LIMA",
+            "horario": "6M12",
+            "local": "USF 08 (CCS)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1602161",
+        "name": " ESTAGIO SUPERVISIONADO IX",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": "60h",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1602161",
+            "turmaid": "01",
+            "nome": " ESTAGIO SUPERVISIONADO IX",
+            "semester": "2018.2",
+            "professor": "CAROLINA BEZERRA CAVALCANTI NOBREGA",
+            "horario": "4M2345",
+            "local": "USF 08 (CCS)"
+          },
+          {
+            "id": "1602161",
+            "turmaid": "02",
+            "nome": " ESTAGIO SUPERVISIONADO IX",
+            "semester": "2018.2",
+            "professor": "CAROLINA BEZERRA CAVALCANTI NOBREGA e YURI WANDERLEY CAVALCANTI",
+            "horario": "6T1234",
+            "local": "USF 08 (CCS)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1602159",
+        "name": " ESTAGIO SUPERVISIONADO VIII",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": "60h",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1602159",
+            "turmaid": "01",
+            "nome": " ESTAGIO SUPERVISIONADO VIII",
+            "semester": "2018.2",
+            "professor": "CAROLINA BEZERRA CAVALCANTI NOBREGA",
+            "horario": "6M2345",
+            "local": "USF 01 (CCS)"
+          },
+          {
+            "id": "1602159",
+            "turmaid": "02",
+            "nome": " ESTAGIO SUPERVISIONADO VIII",
+            "semester": "2018.2",
+            "professor": "YURI WANDERLEY CAVALCANTI",
+            "horario": "3T2345",
+            "local": "USF 06 (CCS)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1602158",
+        "name": " ESTAGIO SUPERVISONADO VII",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": "30h",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1602158",
+            "turmaid": "01",
+            "nome": " ESTAGIO SUPERVISONADO VII",
+            "semester": "2018.2",
+            "professor": "GERMANA COELI DE FARIAS SALES",
+            "horario": "2T23",
+            "local": "USF 06 (CCS)"
+          },
+          {
+            "id": "1602158",
+            "turmaid": "02",
+            "nome": " ESTAGIO SUPERVISONADO VII",
+            "semester": "2018.2",
+            "professor": "YURI WANDERLEY CAVALCANTI",
+            "horario": "6M23",
+            "local": "USF 03 (CCS)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1602134",
+        "name": " ETICA E LEGISLACAO ODONTOLOGICA",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": "30h",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1602134",
+            "turmaid": "01",
+            "nome": " ETICA E LEGISLACAO ODONTOLOGICA",
+            "semester": "2018.2",
+            "professor": "PATRICIA MOREIRA RABELLO e BIANCA MARQUES SANTIAGO",
+            "horario": "5M2345",
+            "local": "CCS 304 (CCS)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1611201",
+        "name": " FUNDAMENTOS DA ACUPUNTURA",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": "30h",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1611201",
+            "turmaid": "01",
+            "nome": " FUNDAMENTOS DA ACUPUNTURA",
+            "semester": "2018.2",
+            "professor": "CLIMERIO AVELINO DE FIGUEIREDO",
+            "horario": "2M45",
+            "local": "NEPHF 2 (CCS)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1602187",
+        "name": " GERODONTOLOGIA",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": "30h",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1602187",
+            "turmaid": "01",
+            "nome": " GERODONTOLOGIA",
+            "semester": "2018.2",
+            "professor": "YURI WANDERLEY CAVALCANTI",
+            "horario": "4T34",
+            "local": "CCS 304 (CCS)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1606139",
+        "name": " IMPLANTODONTIA",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": "15h",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1606139",
+            "turmaid": "01",
+            "nome": " IMPLANTODONTIA",
+            "semester": "2018.2",
+            "professor": "MARCELE JARDIM PIMENTEL, FABIANO GONZAGA RODRIGUES e ANTONIO CARLOS LOPES BRANCO",
+            "horario": "6M123",
+            "local": "AUDDOR (CCS)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1602156",
+        "name": " INTRODUCAO A ODONTOPEDIATRIA E ORTODONTI",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": "16h",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1602156",
+            "turmaid": "01",
+            "nome": " INTRODUCAO A ODONTOPEDIATRIA E ORTODONTI",
+            "semester": "2018.2",
+            "professor": "ELIANE BATISTA DE MEDEIROS SERPA, RICARDO LOMBARDI DE FARIAS, SIMONE ALVES DE SOUSA, EDNARA MERCIA FERNANDES DE ANDRADE, REJANE TARGINO SOARES BELTRAO e KARINA JERONIMO RODRIGUES SANTIAGO DE LIMA",
+            "horario": "5M23 6T23",
+            "local": "DCOS (CCS)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDLS0024",
+        "name": " LIBRAS",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": "60h",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDLS0024",
+            "turmaid": "07",
+            "nome": " LIBRAS",
+            "semester": "2018.2",
+            "professor": "MARIE GORETT DANTAS DE ASSIS E MEDEIROS BATISTA",
+            "horario": "4N1234",
+            "local": "CCHLA 421 BLOCO A 1º ANDAR (CCHLA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1606137",
+        "name": " MONOGRAFIA I",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": "30h",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1606137",
+            "turmaid": "01",
+            "nome": " MONOGRAFIA I",
+            "semester": "2018.2",
+            "professor": "HELOISA HELENA PINHO VELOSO",
+            "horario": "5T34",
+            "local": "AUDDOR (CCS)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1606138",
+        "name": " MONOGRAFIA II",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": "30h",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1606138",
+            "turmaid": "01",
+            "nome": " MONOGRAFIA II",
+            "semester": "2018.2",
+            "professor": "ANGELO BRITO PEREIRA DE MELO",
+            "horario": "4T45",
+            "local": "AUDDOR (CCS)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1606116",
+        "name": " OCLUSAO",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": "60h",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1606116",
+            "turmaid": "01",
+            "nome": " OCLUSAO",
+            "semester": "2018.2",
+            "professor": "ANDRE ULISSES DANTAS BATISTA",
+            "horario": "4T1234",
+            "local": "CLI OCL (CCS)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1602157",
+        "name": " ODONTOPEDIATRIA",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": "53h",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1602157",
+            "turmaid": "01",
+            "nome": " ODONTOPEDIATRIA",
+            "semester": "2018.2",
+            "professor": "ELIANE BATISTA DE MEDEIROS SERPA, RICARDO LOMBARDI DE FARIAS, SIMONE ALVES DE SOUSA e REJANE TARGINO SOARES BELTRAO",
+            "horario": "2T1234",
+            "local": "CLI ODP (CCS)"
+          },
+          {
+            "id": "1602157",
+            "turmaid": "02",
+            "nome": " ODONTOPEDIATRIA",
+            "semester": "2018.2",
+            "professor": "ELIANE BATISTA DE MEDEIROS SERPA, SIMONE ALVES DE SOUSA, EDNARA MERCIA FERNANDES DE ANDRADE e KARINA JERONIMO RODRIGUES SANTIAGO DE LIMA",
+            "horario": "3M234 2T1",
+            "local": "CLI ODP (CCS) / DCOS (CCS)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1602155",
+        "name": " PERIODONTIA II",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": "45h",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1602155",
+            "turmaid": "01",
+            "nome": " PERIODONTIA II",
+            "semester": "2018.2",
+            "professor": "VERONICA CABRAL DOS SANTOS CUNHA D ASSUNCAO, JOSE RODRIGO MEGA ROCHA, ENNYO SOBRAL CRISPIM DA SILVA e SABRINA GARCIA DE AQUINO",
+            "horario": "2M5 3M234",
+            "local": "CLI PERI (CCS) / CCS 311 (CCS)"
+          },
+          {
+            "id": "1602155",
+            "turmaid": "02",
+            "nome": " PERIODONTIA II",
+            "semester": "2018.2",
+            "professor": "ENNYO SOBRAL CRISPIM DA SILVA, SABRINA GARCIA DE AQUINO e VERONICA CABRAL DOS SANTOS CUNHA D ASSUNCAO",
+            "horario": "2M5 4M234",
+            "local": "CLI PERI (CCS) / CCS 108 (CCS)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1606140",
+        "name": " PRÓTESE BUCOMAXILO FACIAL",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": "30h",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1606140",
+            "turmaid": "01",
+            "nome": " PRÓTESE BUCOMAXILO FACIAL",
+            "semester": "2018.2",
+            "professor": "CACILDA CHAVES MORAIS DE LIMA",
+            "horario": "6T12",
+            "local": "SALA 310 (CCS)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1606124",
+        "name": " PROTESE TOTAL",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": "52h",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1606124",
+            "turmaid": "01",
+            "nome": " PROTESE TOTAL",
+            "semester": "2018.2",
+            "professor": "RONALDO CAMPELO DOS SANTOS e LUIZ ALBERTO FERNANDES REGIS",
+            "horario": "2M1234",
+            "local": "AUDDOR (CCS)"
+          },
+          {
+            "id": "1606124",
+            "turmaid": "02",
+            "nome": " PROTESE TOTAL",
+            "semester": "2018.2",
+            "professor": "RONALDO CAMPELO DOS SANTOS e LUIZ ALBERTO FERNANDES REGIS",
+            "horario": "2M1 3M234",
+            "local": "LAB PT (CCS) / AUD DOR (CCS)"
+          },
+          {
+            "id": "1606124",
+            "turmaid": "03",
+            "nome": " PROTESE TOTAL",
+            "semester": "2018.2",
+            "professor": "RONALDO CAMPELO DOS SANTOS e LUIZ ALBERTO FERNANDES REGIS",
+            "horario": "2M1 4M234",
+            "local": "LAB PT (CCS)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDORS0042",
+        "name": " SEMINÁRIO DE INTEGRAÇÃO",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": "50h",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDORS0042",
+            "turmaid": "01",
+            "nome": " SEMINÁRIO DE INTEGRAÇÃO",
+            "semester": "2018.2",
+            "professor": "ROSEANNE DA CUNHA UCHOA e FABIANO GONZAGA RODRIGUES",
+            "horario": "3M2345 5M234 5T234",
+            "local": "AUD DOR (CCS) / SALA 310 (CCS)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+          "1606135"
+        ]
+      },
+      {
+        "id": "1606133",
+        "name": " SEMINARIO VII",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": "30h",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1606133",
+            "turmaid": "01",
+            "nome": " SEMINARIO VII",
+            "semester": "2018.2",
+            "professor": "HELOISA HELENA PINHO VELOSO",
+            "horario": "4M56",
+            "local": "DOR 306 (CCS)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1606134",
+        "name": " SEMINARIO VIII",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": "30h",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1606134",
+            "turmaid": "01",
+            "nome": " SEMINARIO VIII",
+            "semester": "2018.2",
+            "professor": "MARCELE JARDIM PIMENTEL",
+            "horario": "5T12",
+            "local": "AUDDOR (CCS)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+          "GDORS0041"
+        ]
+      },
+      {
+        "id": "GDCFA0109",
+        "name": " TOPICOS ESPCECIAIS I",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": "15h",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDCFA0109",
+            "turmaid": "02",
+            "nome": " TOPICOS ESPCECIAIS I",
+            "semester": "2018.2",
+            "professor": "FRANKLIN DELANO SOARES FORTE, WALLERI CHRISTINI TORELLI REIS e GERALDO EDUARDO GUEDES DE BRITO",
+            "horario": "3T345",
+            "local": "DCF - AUDITÓRIO 1 (CCS)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      }
+    ]
+  }
+}

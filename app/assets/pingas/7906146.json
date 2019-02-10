@@ -1,0 +1,1883 @@
+{
+  "curriculum": {
+    "id": "092017",
+    "codigo": "7906146",
+    "name": "BIOMEDICINA - João Pessoa - Presencial - MT - BACHARELADO",
+    "faculty": "CENTRO DE CIÊNCIAS DA SAÚDE (CCS) (11.00.54)",
+    "minch": "255",
+    "maxch": "405",
+    "semesters": 9,
+    "courses": [
+      {
+        "id": "1104196",
+        "name": "GENETICA HUMANA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1104198",
+        "name": "CITOGENETICA DE PLANTAS ANIMAIS E HUMANA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1104199",
+        "name": "BIOLOGIA DOS TRIPANOSSOMATÍDEOS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1104200",
+        "name": "TÓPICOS ESPECIAIS EM BIOQUÍMICA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1104201",
+        "name": "FUNDAMENTOS DE QUIMICA DE PROTEINAS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1104202",
+        "name": "BIOLOGIA MOLECULAR DA CÉLULA TUMORAL",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1104204",
+        "name": "TOPICOS EM BIOFISICA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1104205",
+        "name": "RADIOBIOLOGIA E RADIOGENÉTICA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1104206",
+        "name": "PRINC DE NEUROBIOLOGIA E COMPORTAMENTO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1104207",
+        "name": "EDUCAÇÃO EM SEXUALIDADE E SAÚDE REPRODUTIVA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1104233",
+        "name": "BIOQUIMICA DOS SISTEMAS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1104235",
+        "name": "TÓPICOS DE GENÉTICA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1106207",
+        "name": "GESTAO DE RECUROS NATURAIS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1106215",
+        "name": "ESTUDOS DE IMPACTO AMBIENTAL",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1403747",
+        "name": "LIBRAS  LÍNGUA BRASILEIRA DE SINAIS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1609247",
+        "name": "EDUCACAO FISICA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1611122",
+        "name": "FUNDAMENTOS DA HOMEOPATIA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1611215",
+        "name": "COGNIÇÃO E MEMÓRIA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "2201025",
+        "name": "BASES DO  EMPREENDEDORISMO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDFPT0131",
+        "name": "ANIMAIS PEÇONHETOS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDFPT0132",
+        "name": "BANCO DE LEITE HUMANO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDFPT0133",
+        "name": "BASES MOLECULARES, TERAPÊUTICAS E EPIDEMIOLÓGICAS DAS DOENÇAS PARASITÁRIAS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDFPT0134",
+        "name": "BASES PARA PRODUÇÃO DE ANTIBIÓTICOS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDFPT0135",
+        "name": "BIOLOGIA DOS TUMORES",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDFPT0136",
+        "name": "CONTROLE DE INFECÇÃO HOSPITALAR",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDFPT0137",
+        "name": "ECOLOGIA E BIOTECNOLOGIA DO CONTROLE DE PRAGAS E VETORES",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDFPT0138",
+        "name": "FARMACOTERAPIA CARDIOVASCULAR",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDFPT0139",
+        "name": "FARMACOTERAPIA ANTIMICROBIANOS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDFPT0140",
+        "name": "FARMACOTERAPIA RESPIRATÓRIA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDFPT0141",
+        "name": "FUNGOS ANEMÓFILOS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDFPT0142",
+        "name": "HEMOTERAPIA E BANCO DE SANGUE",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDFPT0143",
+        "name": "HUMANIZAÇÃO EM SAÚDE",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDFPT0144",
+        "name": "INTERPRETAÇÃO DE EXAMES LABORATORIAIS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDFPT0145",
+        "name": "PARASITOLOGIA DO SOLO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDFPT0146",
+        "name": "PERFUSÃO EXTRACORPÓREA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDFPT0147",
+        "name": "PREBIÓTICOS E PROBIÓTICOS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDFPT0148",
+        "name": "PRINCÍPIOS DA NEUROCIÊNCIA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDFPT0149",
+        "name": "PROGRAMAÇÃO METABÓLICA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDFPT0150",
+        "name": "PSICOBIOLOGIA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDFPT0151",
+        "name": "QUALIDADE DA ÁGUA SAÚDE E SANEAMENTO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDFPT0152",
+        "name": "SEGURANÇA DO PACIENTE",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDFPT0153",
+        "name": "TÓPICOS AVANÇADOS EM SÍNDROME METABÓLICA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDFPT0154",
+        "name": "TÓPICOS AVANÇADOS I",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDFPT0155",
+        "name": "TÓPICOS AVANÇADOS II",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDFPT0156",
+        "name": "TÓPICOS EM BIOMEDICINA",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "120h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDLS0024",
+        "name": "LIBRAS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDMRF0109",
+        "name": "BASES MORFOLÓGICAS APLICADAS ÀS CIÊNCIAS FORENSES",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDQUI0102",
+        "name": "ELEMENTOS DE QUÍMICA FORENSE",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDQUI0103",
+        "name": "QUÍMICA BIOINORGÂNICA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDQUI0104",
+        "name": "QUÍMICA INORGÂNICA BIOLÓGICA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDQUI0105",
+        "name": "TRATAMENTO DE DADOS EM TÉCNICAS INSTRUMENTAIS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1104101",
+        "name": "BIOFÍSICA BÁSICA",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1104101",
+            "turmaid": "02",
+            "nome": " BIOFÍSICA BÁSICA",
+            "semester": "2018.2",
+            "professor": "DANIELA PRISCILA MARCHI SALVADOR",
+            "horario": "4M2345",
+            "local": "CCS 602 (CCS)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1104108",
+        "name": "BIOLOGIA CELULAR",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1104108",
+            "turmaid": "08",
+            "nome": " BIOLOGIA CELULAR",
+            "semester": "2018.2",
+            "professor": "JOSE ANTONIO NOVAES DA SILVA",
+            "horario": "24T12",
+            "local": "CCENB8 (CCEN)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1104214",
+        "name": "BIOQUÍMICA ESTRUTURAL",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1104214",
+            "turmaid": "03",
+            "nome": " BIOQUÍMICA ESTRUTURAL",
+            "semester": "2018.2",
+            "professor": "AUGUSTO CEZAR VASCONCELOS DE FREITAS JUNIOR",
+            "horario": "4T34 6T23",
+            "local": "CCS 606 (CCS)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDFPT0103",
+        "name": "INTRODUÇÃO À BIOMEDICINA",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDFPT0103",
+            "turmaid": "01",
+            "nome": " INTRODUÇÃO À BIOMEDICINA",
+            "semester": "2018.2",
+            "professor": "BRUNO HENRIQUE ANDRADE GALVAO e VINICIUS PIETA PEREZ",
+            "horario": "3T23",
+            "local": "CCS 209 (CCS)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDFPT0104",
+        "name": "BIOSSEGURANÇA",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDFPT0104",
+            "turmaid": "01",
+            "nome": " BIOSSEGURANÇA",
+            "semester": "2018.2",
+            "professor": "GISELY MARIA FREIRE ABILIO DE CASTRO e DAVI FELIPE FARIAS",
+            "horario": "2T345",
+            "local": "CCS 208 (CCS)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDMRF0107",
+        "name": "ANATOMIA HUMANA",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "75h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDMRF0107",
+            "turmaid": "01",
+            "nome": " ANATOMIA HUMANA",
+            "semester": "2018.2",
+            "professor": "ANNA FERLA MONTEIRO SILVA, AMIRA ROSE COSTA MEDEIROS e MONIQUE DANYELLE EMILIANO BATISTA PAIVA",
+            "horario": "3M45 6M234",
+            "local": "CCS 414 (CCS)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDMRF0108",
+        "name": "HISTOLOGIA",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDMRF0108",
+            "turmaid": "01",
+            "nome": " HISTOLOGIA",
+            "semester": "2018.2",
+            "professor": "ANA MARIA BARROS CHAVES PEREIRA, TATIANA FARIA MACEDO BEZERRA e FRANCISCO RUIDOMAR PEREIRA",
+            "horario": "5T1234",
+            "local": "HU 5 AND (CCS)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1104218",
+        "name": "BIOQUÍMICA METABÓLICA FARMÁCIA",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "75h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1104218",
+            "turmaid": "03",
+            "nome": " BIOQUÍMICA METABÓLICA FARMÁCIA",
+            "semester": "2018.2",
+            "professor": "LEONOR ALVES DE OLIVEIRA DA SILVA",
+            "horario": "3M12 5M234",
+            "local": "CCS 604 (CCS)"
+          }
+        ],
+        "prerequisites": [
+          "1104214"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1104225",
+        "name": "GENÉTICA MOLECULAR E HUMANA",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1104225",
+            "turmaid": "02",
+            "nome": " GENÉTICA MOLECULAR E HUMANA",
+            "semester": "2018.2",
+            "professor": "FRANCIS MARIA BAO ZAMBRA",
+            "horario": "5T234",
+            "local": "CCS 606 (CCS)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1105161",
+        "name": "QUÍMICA FUNDAMENTAL",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1105161",
+            "turmaid": "07",
+            "nome": " QUÍMICA FUNDAMENTAL",
+            "semester": "2018.2",
+            "professor": "NEWTON CESAR VIANA COSTA",
+            "horario": "24M23",
+            "local": "CCS 604 (CCS)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1610173",
+        "name": "BIOLOGIA DO DESENVOLVIMENTO HUMANO",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1610173",
+            "turmaid": "02",
+            "nome": " BIOLOGIA DO DESENVOLVIMENTO HUMANO",
+            "semester": "2018.2",
+            "professor": "HUGO ENRIQUE MENDEZ GARCIA",
+            "horario": "2M45 2T45",
+            "local": "CCS 303 (CCS)"
+          }
+        ],
+        "prerequisites": [
+          "1104108"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1611139",
+        "name": "PARASITOLOGIA II",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1611139",
+            "turmaid": "06",
+            "nome": " PARASITOLOGIA II",
+            "semester": "2018.2",
+            "professor": "MARILIA GABRIELA DOS SANTOS CAVALCANTI e FABIO MARCEL DA SILVA SANTOS",
+            "horario": "3M345",
+            "local": "CCS 214 (CCS)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDFPT0105",
+        "name": "METODOLOGIA DO TRABALHO CIENTÍFICO",
+        "category": "Complementar Obrigatória",
+        "semester": 2,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDFPT0105",
+            "turmaid": "01",
+            "nome": " METODOLOGIA DO TRABALHO CIENTÍFICO",
+            "semester": "2018.2",
+            "professor": "MARIA DO SOCORRO SOUSA e DANIELLY ALBUQUERQUE DA COSTA",
+            "horario": "4M45",
+            "local": "NEPHF (CCS)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDFPT0130",
+        "name": "MICROBIOLOGIA",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDFPT0130",
+            "turmaid": "01",
+            "nome": " MICROBIOLOGIA",
+            "semester": "2018.2",
+            "professor": "GISELY MARIA FREIRE ABILIO DE CASTRO e ADRIANA MARIA FERNANDES DE OLIVEIRA GOLZIO",
+            "horario": "2T12 4T34",
+            "local": "CCS 214 (CCS) / CCS 208 (CCS)"
+          }
+        ],
+        "prerequisites": [
+          "1104108"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1104197",
+        "name": "TOPICOS EM GENETICA APLICADA",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1104225"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1607104",
+        "name": "EPIDEMIOLOGIA",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1611194",
+        "name": "FISIOLOGIA HUMANA II",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "90h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "0107"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDBTC0034",
+        "name": "BIOÉTICA E LEGISLAÇÃO PROFISSIONAL",
+        "category": "Complementar Obrigatória",
+        "semester": 3,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDESC0061",
+        "name": "SOCIOLOGIA DA SAÚDE E DA DOENÇA",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDFPT0106",
+        "name": "BIOINFORMÁTICA PARA BIOMEDICINA",
+        "category": "Complementar Obrigatória",
+        "semester": 3,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDSIE0101",
+        "name": "FUNDAMENTOS E METODOLOGIA EM EDUCAÇÃO AMBIENTAL",
+        "category": "Complementar Obrigatória",
+        "semester": 3,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1611141",
+        "name": "PATOLOGIA GERAL",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1611194"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1611170",
+        "name": "IMUNOLOGIA IV",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1104108"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1612139",
+        "name": "BROMATOLOGIA",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDESC0062",
+        "name": "SAÚDE COLETIVA",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDFPT0107",
+        "name": "NOÇÕES DE BIOESTATÍSTICA",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDFPT0108",
+        "name": "BIOQUÍMICA MÉDICA",
+        "category": "Complementar Obrigatória",
+        "semester": 4,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1104218"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDFPT0109",
+        "name": "PESQUISA APLICADA À BIOMEDICINA",
+        "category": "Complementar Obrigatória",
+        "semester": 4,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "0105"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDCOS0136",
+        "name": "PRINCÍPIOS DE DIAGNÓSTICO POR IMAGEM",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "0107",
+          "1104101"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDFPT0110",
+        "name": "INSTRUMENTAÇÃO LABORATORIAL",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDFPT0111",
+        "name": "GESTÃO E AUDITÓRIA EM SERVIÇOS DE SAÚDE",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDFPT0112",
+        "name": "FARMACOLOGIA BÁSICA E CLÍNICA",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1611194"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDFPT0113",
+        "name": "BACTERIOLOGIA DIAGNÓSTICA",
+        "category": "Complementar Obrigatória",
+        "semester": 5,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "0130"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDFPT0114",
+        "name": "FITOTERAPIA",
+        "category": "Complementar Obrigatória",
+        "semester": 5,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDFPT0115",
+        "name": "HEMATOLOGIA LABORATORIAL",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1611194",
+          "1104218"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDFPT0116",
+        "name": "URINÁLISES E FLUIDOS BIOLÓGICOS",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1611194"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDFPT0117",
+        "name": "DIAGNÓSTICOS EM IMUNOLOGIA",
+        "category": "Complementar Obrigatória",
+        "semester": 6,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1611170"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDFPT0118",
+        "name": "VIROLOGIA HUMANA",
+        "category": "Complementar Obrigatória",
+        "semester": 6,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "0130"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDFPT0119",
+        "name": "CITOPATOLOGIA CLÍNICA",
+        "category": "Complementar Obrigatória",
+        "semester": 6,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1611141"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDFPT0120",
+        "name": "PARASITOLOGIA APLICADA AO DIAGNÓSTICO",
+        "category": "Complementar Obrigatória",
+        "semester": 6,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1611139"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDFPT0121",
+        "name": "MICOLOGIA DIAGNÓSTICA",
+        "category": "Complementar Obrigatória",
+        "semester": 6,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "0130"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDBTC0035",
+        "name": "BIOTECNOLOGIA",
+        "category": "Complementar Obrigatória",
+        "semester": 7,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "0112"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDFPT0122",
+        "name": "ACUPUNTURA",
+        "category": "Complementar Obrigatória",
+        "semester": 7,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "0107"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDFPT0123",
+        "name": "EMBRIOLOGIA CLÍNICA",
+        "category": "Complementar Obrigatória",
+        "semester": 7,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1610173"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDFPT0124",
+        "name": "BIOMEDICINA ESTÉTICA",
+        "category": "Complementar Obrigatória",
+        "semester": 7,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "0107",
+          "0108"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDFPT0125",
+        "name": "TOXICOLOGIA PARA BIOMEDICINA",
+        "category": "Complementar Obrigatória",
+        "semester": 7,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "0112"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDFPT0157",
+        "name": "HEMATOLOGIA CLÍNICA",
+        "category": "Complementar Obrigatória",
+        "semester": 7,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "0115"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDNUT0089",
+        "name": "MICROBIOLOGIA DE ALIMENTOS",
+        "category": "Complementar Obrigatória",
+        "semester": 7,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "0130",
+          "1612139"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDFPT0126",
+        "name": "TCC I (BIOMEDICINA)",
+        "category": "Complementar Obrigatória",
+        "semester": 8,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "0109"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDFPT0127",
+        "name": "ESTÁGIO SUPERVISIONADO I",
+        "category": "Obrigatória",
+        "semester": 8,
+        "workload": "360h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "0035",
+          "0122",
+          "0125",
+          "0089"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDFPT0128",
+        "name": "TCC II (BIOMEDICINA)",
+        "category": "Complementar Obrigatória",
+        "semester": 9,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "0126"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDFPT0129",
+        "name": "ESTÁGIO SUPERVISIONADO II",
+        "category": "Obrigatória",
+        "semester": 9,
+        "workload": "360h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "0127"
+        ],
+        "equivalences": [
+
+        ]
+      }
+    ]
+  }
+}

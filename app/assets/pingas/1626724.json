@@ -1,0 +1,2721 @@
+{
+  "curriculum": {
+    "id": "0562008",
+    "codigo": "1626724",
+    "name": "PSICOLOGIA - João Pessoa - Presencial - FORMACAO DE PSICOLOGO - MT - BACHARELADO",
+    "faculty": "CENTRO DE CIÊNCIAS HUMANAS, LETRAS E ARTES (CCHLA) (11.00.53)",
+    "minch": "285",
+    "maxch": "495",
+    "semesters": 10,
+    "courses": [
+      {
+        "id": "1403747",
+        "name": "LIBRAS  LÍNGUA BRASILEIRA DE SINAIS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1405248",
+        "name": "PSICOPATOLOGIA DA CRIANÇA E DO ADOLESC",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1405248",
+            "turmaid": "01",
+            "nome": " PSICOPATOLOGIA DA CRIANÇA E DO ADOLESC",
+            "semester": "2018.2",
+            "professor": "HELIDA MAGALHAES DA COSTA LIMA",
+            "horario": "35M34",
+            "local": "CCHLA 418 BLOCO A (CCHLA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1405250",
+        "name": "TEORIA E TERAPIA CENTRADA NA PESSOA II",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1405255",
+        "name": "ANÁLISE PSICOLÓGICA DO TRABALHO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1405256",
+        "name": "SAÚDE MENTAL E TRABALHO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1405256",
+            "turmaid": "01",
+            "nome": " SAÚDE MENTAL E TRABALHO",
+            "semester": "2018.2",
+            "professor": "PAULO CESAR ZAMBRONI DE SOUZA",
+            "horario": "35M12",
+            "local": "CAG 106 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1405257",
+        "name": "TRABALHO SAÚDE E AMBIENTE",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1405289",
+        "name": "PSICOLOGIA JURÍDICA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1405308",
+        "name": "TÓPICOS ESPECIAIS EM PSICOLOGIA I",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1405309",
+        "name": "TÓPICOS ESPECIAIS EM PSICOLOGIA II",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1405310",
+        "name": "TÓPICOS ESPECIAIS EM PSICOLOGIA III",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1405311",
+        "name": "TÓPICOS ESPECIAIS EM PSICOLOGIA IV",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1405312",
+        "name": "TÓPICOS ESPECIAIS EM PSICOLOGIA V",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1405313",
+        "name": "TÓPICOS ESPECIAIS EM PSCOLOGIA VI",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDLS0024",
+        "name": "LIBRAS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1401283",
+        "name": "SOCIOLOGIA APLICADA A PSICOLOGIA",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1401283",
+            "turmaid": "01",
+            "nome": " SOCIOLOGIA APLICADA A PSICOLOGIA",
+            "semester": "2018.2",
+            "professor": "ADRIANO AZEVEDO GOMES DE LEON",
+            "horario": "6M1234",
+            "local": "CAE 110 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1402277",
+        "name": "TEORIA DO CONHECIMENTO",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1402277",
+            "turmaid": "01",
+            "nome": " TEORIA DO CONHECIMENTO",
+            "semester": "2018.2",
+            "professor": "MATHEUS WANDERLEY GONDIM",
+            "horario": "24M34",
+            "local": "CCHLA 415 BLOCO I CENTRAL DE AULAS (CCHLA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1405207",
+        "name": "METODOLOGIA DO TRABALHO CIENTIFICO",
+        "category": "Complementar Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1405207",
+            "turmaid": "01",
+            "nome": " METODOLOGIA DO TRABALHO CIENTIFICO",
+            "semester": "2018.2",
+            "professor": "MIRIAN GRACIELA DA SILVA STIEBBE SALVADORI",
+            "horario": "24M12",
+            "local": "CCHLA 403 BLOCO IV (CCHLA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1405208",
+        "name": "PROCESSOS PSICOLOGICOS BASICOS I",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "90h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1405208",
+            "turmaid": "01",
+            "nome": " PROCESSOS PSICOLOGICOS BASICOS I",
+            "semester": "2018.2",
+            "professor": "NATANAEL ANTONIO DOS SANTOS",
+            "horario": "356M56",
+            "local": "CCHLA 403 BLOCO IV (CCHLA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1405209",
+        "name": "HIST DA CONSTRU DO CONHEC EM PSICOLOGIA",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1405209",
+            "turmaid": "01",
+            "nome": " HIST DA CONSTRU DO CONHEC EM PSICOLOGIA",
+            "semester": "2018.2",
+            "professor": "SANDRA LEAL DE MELO DAHIA",
+            "horario": "35M34",
+            "local": "CCHLA 403 BLOCO IV (CCHLA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1405210",
+        "name": "PSICOLOGIA DO DESENVOLVIMENTO",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1405210",
+            "turmaid": "01",
+            "nome": " PSICOLOGIA DO DESENVOLVIMENTO",
+            "semester": "2018.2",
+            "professor": "JULIO RIQUE NETO",
+            "horario": "35M12",
+            "local": "CCHLA 403 BLOCO IV (CCHLA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1610172",
+        "name": "ANATOMIA HUMANA BASICA",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1610172",
+            "turmaid": "01",
+            "nome": " ANATOMIA HUMANA BASICA",
+            "semester": "2018.2",
+            "professor": "FABIOLA FERREIRA DA SILVA",
+            "horario": "24M56",
+            "local": "CCHLA 405 BLOCO IV (CCHLA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1405123",
+        "name": "PSICOLOGIA DA APRENDIZAGEM",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1405123",
+            "turmaid": "01",
+            "nome": " PSICOLOGIA DA APRENDIZAGEM",
+            "semester": "2018.2",
+            "professor": "HENRIQUE JORGE SIMOES BEZERRA",
+            "horario": "35M34",
+            "local": "CCHLA 405 BLOCO IV (CCHLA)"
+          }
+        ],
+        "prerequisites": [
+          "1405209"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1405213",
+        "name": "TEORIAS E SISTEMAS EM PSICOLOGIA I",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1405213",
+            "turmaid": "01",
+            "nome": " TEORIAS E SISTEMAS EM PSICOLOGIA I",
+            "semester": "2018.2",
+            "professor": "MICHAEL JACKSON OLIVEIRA DE ANDRADE",
+            "horario": "35M12",
+            "local": "CCHLA 405 BLOCO IV (CCHLA)"
+          }
+        ],
+        "prerequisites": [
+          "1405209"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1405214",
+        "name": "PSICOLOGIA DA PERSONALIDADE",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1405214",
+            "turmaid": "01",
+            "nome": " PSICOLOGIA DA PERSONALIDADE",
+            "semester": "2018.2",
+            "professor": "SANDRA HELENA CAMPOS CARDOSO REIS",
+            "horario": "24M12",
+            "local": "CCHLA 405 BLOCO IV (CCHLA)"
+          }
+        ],
+        "prerequisites": [
+          "1405209"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1405215",
+        "name": "AVALIACAO PSICOLOGICA",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1405215",
+            "turmaid": "01",
+            "nome": " AVALIACAO PSICOLOGICA",
+            "semester": "2018.2",
+            "professor": "CARMEN WALENTINA AMORIM GAUDENCIO BEZERRA",
+            "horario": "35M56",
+            "local": "CCHLA 405 BLOCO IV (CCHLA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1405216",
+        "name": "PROCESSOS PSICOLOGICOS BASICOS II",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1405216",
+            "turmaid": "01",
+            "nome": " PROCESSOS PSICOLOGICOS BASICOS II",
+            "semester": "2018.2",
+            "professor": "NELSON TORRO ALVES",
+            "horario": "6M2345",
+            "local": "CCHLA 405 BLOCO IV (CCHLA)"
+          }
+        ],
+        "prerequisites": [
+          "1405208"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1405217",
+        "name": "ETICA PROFISSIONAL",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1405217",
+            "turmaid": "01",
+            "nome": " ETICA PROFISSIONAL",
+            "semester": "2018.2",
+            "professor": "MARIA DE FATIMA BARACUHY CAVALCANTI",
+            "horario": "24M34",
+            "local": "CCHLA 405 BLOCO IV (CCHLA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1611205",
+        "name": "FISIOLOGIA BASICA",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1611205",
+            "turmaid": "01",
+            "nome": " FISIOLOGIA BASICA",
+            "semester": "2018.2",
+            "professor": "LUIZ HENRIQUE CESAR VASCONCELOS",
+            "horario": "24T12",
+            "local": "CCHLA 405 BLOCO IV (CCHLA) / CCHLA 413 BLOCO I CENTRAL ..."
+          }
+        ],
+        "prerequisites": [
+          "1610172"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1405219",
+        "name": "PSICOPATOLOGIA GERAL",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1405219",
+            "turmaid": "01",
+            "nome": " PSICOPATOLOGIA GERAL",
+            "semester": "2018.2",
+            "professor": "IEDA FRANKEN RODRIGUES",
+            "horario": "35T23",
+            "local": "CCHLA 406 BLOCO IV (CCHLA)"
+          }
+        ],
+        "prerequisites": [
+          "1405214"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1405220",
+        "name": "PSICOMETRIA",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1405220",
+            "turmaid": "01",
+            "nome": " PSICOMETRIA",
+            "semester": "2018.2",
+            "professor": "SHIRLEY DE SOUZA SILVA SIMEÃO",
+            "horario": "24M56",
+            "local": "CCHLA 406 BLOCO IV (CCHLA)"
+          }
+        ],
+        "prerequisites": [
+          "1405215"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1405221",
+        "name": "PSICOLOGIA EDUCACIONAL I",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1405221",
+            "turmaid": "01",
+            "nome": " PSICOLOGIA EDUCACIONAL I",
+            "semester": "2018.2",
+            "professor": "MIRIANE DA SILVA SANTOS BARBOZA",
+            "horario": "24M34",
+            "local": "CCHLA 406 BLOCO IV (CCHLA)"
+          }
+        ],
+        "prerequisites": [
+          "1405123"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1405222",
+        "name": "TEORIAS E SISTEMAS EM PSICOLOGIA II",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1405222",
+            "turmaid": "01",
+            "nome": " TEORIAS E SISTEMAS EM PSICOLOGIA II",
+            "semester": "2018.2",
+            "professor": "ELOÁ LOSANO DE ABREU",
+            "horario": "35M56",
+            "local": "CCHLA 406 BLOCO IV (CCHLA)"
+          }
+        ],
+        "prerequisites": [
+          "1405213"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1405223",
+        "name": "PSICOLOGIA SOCIAL I",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1405223",
+            "turmaid": "01",
+            "nome": " PSICOLOGIA SOCIAL I",
+            "semester": "2018.2",
+            "professor": "CICERO ROBERTO PEREIRA",
+            "horario": "6M2345",
+            "local": "CCHLA 406 BLOCO IV (CCHLA)"
+          }
+        ],
+        "prerequisites": [
+          "1405213"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1405224",
+        "name": "TEORIAS E TECNICAS PSICOTERÁPICAS",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1405224",
+            "turmaid": "01",
+            "nome": " TEORIAS E TECNICAS PSICOTERÁPICAS",
+            "semester": "2018.2",
+            "professor": "SILVANA CARNEIRO MACIEL",
+            "horario": "35M12",
+            "local": "CCHLA 406 BLOCO IV (CCHLA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1405225",
+        "name": "PSICOLOGIA DO TRABALHO I",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1405225",
+            "turmaid": "01",
+            "nome": " PSICOLOGIA DO TRABALHO I",
+            "semester": "2018.2",
+            "professor": "PAULO CESAR ZAMBRONI DE SOUZA",
+            "horario": "24M12",
+            "local": "CCHLA 406 BLOCO IV (CCHLA)"
+          }
+        ],
+        "prerequisites": [
+          "1405209"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1611209",
+        "name": "NEUROFISIOLOGIA",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1611209",
+            "turmaid": "01",
+            "nome": " NEUROFISIOLOGIA",
+            "semester": "2018.2",
+            "professor": "LIANA CLEBIA DE MORAIS PORDEUS",
+            "horario": "35M34",
+            "local": "CCHLA 406 BLOCO IV (CCHLA)"
+          }
+        ],
+        "prerequisites": [
+          "1611205"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1405226",
+        "name": "METOD E TECN DE AVAL PISICOLOGIA I",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1405226",
+            "turmaid": "01",
+            "nome": " METOD E TECN DE AVAL PISICOLOGIA I",
+            "semester": "2018.2",
+            "professor": "CARLOS EDUARDO PIMENTEL",
+            "horario": "35M34",
+            "local": "CCHLA 401  BLOCO IV (CCHLA)"
+          }
+        ],
+        "prerequisites": [
+          "1405220"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1405228",
+        "name": "PSICOLOGIA DO TRABALHO II",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1405228",
+            "turmaid": "01",
+            "nome": " PSICOLOGIA DO TRABALHO II",
+            "semester": "2018.2",
+            "professor": "TATIANA DE LUCENA TORRES",
+            "horario": "35M56",
+            "local": "CCHLA 401  BLOCO IV (CCHLA)"
+          }
+        ],
+        "prerequisites": [
+          "1405225"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1405229",
+        "name": "PSICOLOGIA EDUCACIONAL II",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1405229",
+            "turmaid": "01",
+            "nome": " PSICOLOGIA EDUCACIONAL II",
+            "semester": "2018.2",
+            "professor": "FABIOLA DE SOUSA BRAZ AQUINO",
+            "horario": "24M56",
+            "local": "CCHLA 401  BLOCO IV (CCHLA)"
+          }
+        ],
+        "prerequisites": [
+          "1405221"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1405230",
+        "name": "PSICOPATOLOGIA I  NEUROSES",
+        "category": "Complementar Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1405230",
+            "turmaid": "01",
+            "nome": " PSICOPATOLOGIA I  NEUROSES",
+            "semester": "2018.2",
+            "professor": "A DEFINIR",
+            "horario": "24M34",
+            "local": "CCHLA 401  BLOCO IV (CCHLA)"
+          }
+        ],
+        "prerequisites": [
+          "1405219"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1405232",
+        "name": "PSICOL FENOMENOLÓGICA E EXISTENCIAL I",
+        "category": "Complementar Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1405232",
+            "turmaid": "01",
+            "nome": " PSICOL FENOMENOLÓGICA E EXISTENCIAL I",
+            "semester": "2018.2",
+            "professor": "SANDRA SOUZA DA SILVA",
+            "horario": "24M12",
+            "local": "CCHLA 401  BLOCO IV (CCHLA)"
+          }
+        ],
+        "prerequisites": [
+          "1405222"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1405234",
+        "name": "PSICOLOGIA SOCIAL II",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1405234",
+            "turmaid": "01",
+            "nome": " PSICOLOGIA SOCIAL II",
+            "semester": "2018.2",
+            "professor": "ANA RAQUEL ROSAS TORRES",
+            "horario": "35M12",
+            "local": "CCHLA 401  BLOCO IV (CCHLA)"
+          }
+        ],
+        "prerequisites": [
+          "1405223"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1405235",
+        "name": "PESQUISA APLICADA A PSICOLOGIA I",
+        "category": "Complementar Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1405235",
+            "turmaid": "01",
+            "nome": " PESQUISA APLICADA A PSICOLOGIA I",
+            "semester": "2018.2",
+            "professor": "MARCIO DE LIMA COUTINHO",
+            "horario": "6M2345",
+            "local": "CCHLA 401  BLOCO IV (CCHLA)"
+          }
+        ],
+        "prerequisites": [
+          "1405207"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1405227",
+        "name": "METOD E TECN DE AVAL PISICOLOGIA II",
+        "category": "Complementar Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1405227",
+            "turmaid": "01",
+            "nome": " METOD E TECN DE AVAL PISICOLOGIA II",
+            "semester": "2018.2",
+            "professor": "CLÊNIA MARIA TOLEDO DE SANTANA GONÇALVES",
+            "horario": "35M12",
+            "local": "CCHLA 407 BLOCO IV (CCHLA)"
+          }
+        ],
+        "prerequisites": [
+          "1405226"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1405231",
+        "name": "PSICOPATOLOGIA II  PSICOSES EPERVERSÕES",
+        "category": "Complementar Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1405231",
+            "turmaid": "01",
+            "nome": " PSICOPATOLOGIA II  PSICOSES EPERVERSÕES",
+            "semester": "2018.2",
+            "professor": "HELIDA MAGALHAES DA COSTA LIMA",
+            "horario": "35M56",
+            "local": "CCHLA 407 BLOCO IV (CCHLA)"
+          }
+        ],
+        "prerequisites": [
+          "1405230"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1405236",
+        "name": "PESQUISA APLICADA A PSICOLOGIA II",
+        "category": "Complementar Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1405236",
+            "turmaid": "01",
+            "nome": " PESQUISA APLICADA A PSICOLOGIA II",
+            "semester": "2018.2",
+            "professor": "MARIA DE FATIMA FERNANDES MARTINS CATAO",
+            "horario": "35M34",
+            "local": "CCHLA 407 BLOCO IV (CCHLA)"
+          }
+        ],
+        "prerequisites": [
+          "1405235"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1405237",
+        "name": "ESTÁGIO SUPERVISIONADO BÁSICO I PSICOL",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1405237",
+            "turmaid": "01",
+            "nome": " ESTÁGIO SUPERVISIONADO BÁSICO I PSICOL",
+            "semester": "2018.2",
+            "professor": "HENRIQUE JORGE SIMOES BEZERRA, HELIDA MAGALHAES DA COSTA LIMA e THAIS AUGUSTA CUNHA DE OLIVEIRA MAXIMO",
+            "horario": "6M2345",
+            "local": "CCHLA 407 BLOCO IV (CCHLA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1405239",
+        "name": "PSICOLOGIA DO DESENVOLVIMENTO INFANTIL",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1405239",
+            "turmaid": "01",
+            "nome": " PSICOLOGIA DO DESENVOLVIMENTO INFANTIL",
+            "semester": "2018.2",
+            "professor": "NADIA MARIA RIBEIRO SALOMAO",
+            "horario": "24M34",
+            "local": "CCHLA 407 BLOCO IV (CCHLA)"
+          }
+        ],
+        "prerequisites": [
+          "1405210"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1405242",
+        "name": "PSICOLOGIA E POLÍTICAS PÚBLICAS",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1405242",
+            "turmaid": "01",
+            "nome": " PSICOLOGIA E POLÍTICAS PÚBLICAS",
+            "semester": "2018.2",
+            "professor": "MARIA DE FATIMA PEREIRA ALBERTO",
+            "horario": "24M12",
+            "local": "CCHLA 407 BLOCO IV (CCHLA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1405243",
+        "name": "INTRODUÇÃO A PSICANÁLISE",
+        "category": "Complementar Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1405243",
+            "turmaid": "01",
+            "nome": " INTRODUÇÃO A PSICANÁLISE",
+            "semester": "2018.2",
+            "professor": "CLEIDE PEREIRA MONTEIRO",
+            "horario": "24M56",
+            "local": "CCHLA 407 BLOCO IV (CCHLA)"
+          }
+        ],
+        "prerequisites": [
+          "1405222"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1405191",
+        "name": "PSICOMOTRICIDADE",
+        "category": "Optativa",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1405229"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1405244",
+        "name": "PSICOLOGIA SOCIOHISTÓRICA",
+        "category": "Optativa",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1405234"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1405260",
+        "name": "INFÂNCIA ADOLESCÊNCIA E TRABALHO",
+        "category": "Optativa",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1405228"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1405261",
+        "name": "GESTÃO COM PESSOAS",
+        "category": "Optativa",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1405228"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1405262",
+        "name": "TEORIAS E PRÁTICAS INSTIT EM PSICOLOGIA",
+        "category": "Optativa",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1405228"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1405264",
+        "name": "PROBLEMAS ATUAIS EM EDUCAÇÃO",
+        "category": "Optativa",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1405229"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1405265",
+        "name": "DESENVOLVIMENTO SÓCIOMORAL",
+        "category": "Optativa",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1405265",
+            "turmaid": "01",
+            "nome": " DESENVOLVIMENTO SÓCIOMORAL",
+            "semester": "2018.2",
+            "professor": "ELOÁ LOSANO DE ABREU e MIRIANE DA SILVA SANTOS BARBOZA",
+            "horario": "5T2345",
+            "local": "CAG 105 (PRG)"
+          }
+        ],
+        "prerequisites": [
+          "1405229"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1405266",
+        "name": "DIFICULDADES E AVALIAÇÃO DA APRENDIZAGEM",
+        "category": "Optativa",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1405229"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1405269",
+        "name": "ASPEC PSIC E ED DOS PORT DE NECESSID ESP",
+        "category": "Optativa",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1405269",
+            "turmaid": "01",
+            "nome": " ASPEC PSIC E ED DOS PORT DE NECESSID ESP",
+            "semester": "2018.2",
+            "professor": "HENRIQUE JORGE SIMOES BEZERRA",
+            "horario": "35M12",
+            "local": "CAG 104 (PRG)"
+          }
+        ],
+        "prerequisites": [
+          "1405229"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1405270",
+        "name": "PLANEJAMENTO EDUCACIONAL",
+        "category": "Optativa",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1405229"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1405271",
+        "name": "PSICOMOTRICIDADE",
+        "category": "Optativa",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1405272",
+        "name": "PSICODRAMA PEDAGÓGICO",
+        "category": "Optativa",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1405229"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1405273",
+        "name": "PSICOLOGIA EDUCACIONAL E SOCIEDADE",
+        "category": "Optativa",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1405229"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1405274",
+        "name": "PSICOL EDUCAC E ORIENTAÇÃO PARA O TRAB",
+        "category": "Optativa",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1405229"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1405276",
+        "name": "TEORIA PSICANALÍTICA I",
+        "category": "Optativa",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1405243"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1405277",
+        "name": "TEORIA PSICANALÍTICA II",
+        "category": "Optativa",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1405278",
+        "name": "PSICOTERAPIA FAMILIAR",
+        "category": "Optativa",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1405224"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1405279",
+        "name": "PSICOTERAPIA DE GRUPO",
+        "category": "Optativa",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1405224"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1405280",
+        "name": "PSICOTERAPIA DA CRIANÇA E DO ADOLESCENTE",
+        "category": "Optativa",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1405280",
+            "turmaid": "01",
+            "nome": " PSICOTERAPIA DA CRIANÇA E DO ADOLESCENTE",
+            "semester": "2018.2",
+            "professor": "SANDRA HELENA CAMPOS CARDOSO REIS",
+            "horario": "5M2345",
+            "local": "CCHLA 413 BLOCO I CENTRAL DE AULAS (CCHLA)"
+          }
+        ],
+        "prerequisites": [
+          "1405224"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1405284",
+        "name": "PSICOLOGIA COMUNITÁRIA",
+        "category": "Optativa",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1405284",
+            "turmaid": "01",
+            "nome": " PSICOLOGIA COMUNITÁRIA",
+            "semester": "2018.2",
+            "professor": "PEDRO HENRIQUE ANTUNES DA COSTA",
+            "horario": "2T2345",
+            "local": "CCHLA 418 BLOCO A (CCHLA)"
+          }
+        ],
+        "prerequisites": [
+          "1405234"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1405286",
+        "name": "ORIENT PSICOSOCIAL E PROJETO DE VIDA",
+        "category": "Optativa",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1405234"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1405288",
+        "name": "TEORIA DA REPRESENTAÇÃO SOCIAL",
+        "category": "Optativa",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1405234"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1405290",
+        "name": "PSICOLOGIA POLÍTICA",
+        "category": "Optativa",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1405290",
+            "turmaid": "01",
+            "nome": " PSICOLOGIA POLÍTICA",
+            "semester": "2018.2",
+            "professor": "LEONCIO FRANCISCO CAMINO RODRIGUEZ LARRAIN",
+            "horario": "6T2345",
+            "local": "CCHLA 408 BLOCO IV (CCHLA)"
+          }
+        ],
+        "prerequisites": [
+          "1405234"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1405291",
+        "name": "PSICOLOGIA DA EXCLUSÃO E DOS DIR HUMANOS",
+        "category": "Optativa",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1405234"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1405292",
+        "name": "ANÁLISE   PSICOSSOCIAL  DA  VIOLÊNCIA",
+        "category": "Optativa",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1405234"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1405293",
+        "name": "PSICOLOGIA AMBIENTAL",
+        "category": "Optativa",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1405296",
+        "name": "PSICOL DA COGNIÇÃO MEMÓRIA E APREND",
+        "category": "Optativa",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1405296",
+            "turmaid": "01",
+            "nome": " PSICOL DA COGNIÇÃO MEMÓRIA E APREND",
+            "semester": "2018.2",
+            "professor": "FLAVIO FREITAS BARBOSA",
+            "horario": "24M34",
+            "local": "CAG 103 (PRG)"
+          }
+        ],
+        "prerequisites": [
+          "1405216"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1405297",
+        "name": "PSICOFISIOLOGIA SENSORIAL E PERCEPÇÃO",
+        "category": "Optativa",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1405216"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1405298",
+        "name": "MOTIVAÇÃO E EMOÇÃO",
+        "category": "Optativa",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1405216"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1405299",
+        "name": "NEUROCIÊNCIAS E COMPORTAMENTO",
+        "category": "Optativa",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1405216"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1405302",
+        "name": "PSICODIAGNÓSTICO DE RORSCHACH",
+        "category": "Optativa",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1405302",
+            "turmaid": "01",
+            "nome": " PSICODIAGNÓSTICO DE RORSCHACH",
+            "semester": "2018.2",
+            "professor": "CLÊNIA MARIA TOLEDO DE SANTANA GONÇALVES",
+            "horario": "35M34",
+            "local": "CAG 106 (PRG)"
+          }
+        ],
+        "prerequisites": [
+          "1405227"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1405303",
+        "name": "TÉCNICAS DE APERCEPÇÃO TEMÁTICA",
+        "category": "Optativa",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1405227"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1405304",
+        "name": "AVALIAÇÃO NEUROPSICOLÓGICA",
+        "category": "Optativa",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1405227"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1405306",
+        "name": "USO DO COMPUTADOR NA PSICOLOGIA",
+        "category": "Optativa",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1405227"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1405307",
+        "name": "TÓPICOS EM AVALIAÇÃO PSICOLÓGICAS",
+        "category": "Optativa",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1405227"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDPSI0113",
+        "name": "TÓPICOS EM AVALIAÇÃO PSICOLÓGICA (AVALIAÇÃO E DESENVOLVIMENTO DE HABILIDADES SOCIAIS)",
+        "category": "Optativa",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDPSI0113",
+            "turmaid": "01",
+            "nome": " TÓPICOS EM AVALIAÇÃO PSICOLÓGICA (AVALIAÇÃO E DESENVOLVIMENTO DE HABILIDADES SOCIAIS)",
+            "semester": "2018.2",
+            "professor": "SHIRLEY DE SOUZA SILVA SIMEÃO",
+            "horario": "2T2345",
+            "local": "CCHLA 417 BLOCO A (CCHLA)"
+          }
+        ],
+        "prerequisites": [
+          "1405227"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1405238",
+        "name": "ESTÁGIO SUPERVISIONADO BÁSICO II PSICOL",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1405238",
+            "turmaid": "01",
+            "nome": " ESTÁGIO SUPERVISIONADO BÁSICO II PSICOL",
+            "semester": "2018.2",
+            "professor": "CARMEN WALENTINA AMORIM GAUDENCIO BEZERRA, BERNARDINO FERNANDEZ CALVO e ANA RAQUEL ROSAS TORRES",
+            "horario": "6M2345",
+            "local": "CCHLA 408 BLOCO IV (CCHLA)"
+          }
+        ],
+        "prerequisites": [
+          "1405237"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1405240",
+        "name": "PSICOLOGIA DA ADOLESCÊNCIA E DA JUVENTUDE",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1405240",
+            "turmaid": "01",
+            "nome": " PSICOLOGIA DA ADOLESCÊNCIA E DA JUVENTUDE",
+            "semester": "2018.2",
+            "professor": "MARIA DE FATIMA PEREIRA ALBERTO",
+            "horario": "24M34",
+            "local": "CCHLA 408 BLOCO IV (CCHLA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1405241",
+        "name": "PSICOLOGIA DOS GRUPOS",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1405241",
+            "turmaid": "01",
+            "nome": " PSICOLOGIA DOS GRUPOS",
+            "semester": "2018.2",
+            "professor": "IEDA FRANKEN RODRIGUES",
+            "horario": "35M56",
+            "local": "CCHLA 408 BLOCO IV (CCHLA)"
+          }
+        ],
+        "prerequisites": [
+          "1405234"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1405245",
+        "name": "ATENÇÃO PSICOSOCIAL EM SAÚDE MENTAL",
+        "category": "Complementar Obrigatória",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1405245",
+            "turmaid": "01",
+            "nome": " ATENÇÃO PSICOSOCIAL EM SAÚDE MENTAL",
+            "semester": "2018.2",
+            "professor": "ZAETH AGUIAR DO NASCIMENTO",
+            "horario": "35M34",
+            "local": "CCHLA 408 BLOCO IV (CCHLA)"
+          }
+        ],
+        "prerequisites": [
+          "1405231"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1405246",
+        "name": "PSICOLOGIA DA SAÚDE I",
+        "category": "Complementar Obrigatória",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1405246",
+            "turmaid": "01",
+            "nome": " PSICOLOGIA DA SAÚDE I",
+            "semester": "2018.2",
+            "professor": "LAURA HELENA MONTENEGRO CARNEIRO DA CUNHA KUMAMOTO",
+            "horario": "24M56",
+            "local": "CCHLA 408 BLOCO IV (CCHLA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1405259",
+        "name": "GÊNERO SUBJETIVIDADE E TRABALHO",
+        "category": "Optativa",
+        "semester": 7,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1405259",
+            "turmaid": "01",
+            "nome": " GÊNERO SUBJETIVIDADE E TRABALHO",
+            "semester": "2018.2",
+            "professor": "ADRIANO AZEVEDO GOMES DE LEON",
+            "horario": "35M56",
+            "local": "CAG 106 (PRG)"
+          }
+        ],
+        "prerequisites": [
+          "1405228"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1405263",
+        "name": "TÓPICOS EM PSICOLOGIA DO TRABALHO",
+        "category": "Optativa",
+        "semester": 7,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1405228"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1405267",
+        "name": "PSICOPEDAGOGIA",
+        "category": "Optativa",
+        "semester": 7,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1405267",
+            "turmaid": "01",
+            "nome": " PSICOPEDAGOGIA",
+            "semester": "2018.2",
+            "professor": "MONICA DE FATIMA BATISTA CORREIA",
+            "horario": "3T2345",
+            "local": "CCHLA 417 BLOCO A (CCHLA)"
+          }
+        ],
+        "prerequisites": [
+          "1405229"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1405268",
+        "name": "PSICOLOGIA DA CRIATIVIDADE",
+        "category": "Optativa",
+        "semester": 7,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1405229"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1405281",
+        "name": "PSICOLOGIA E PROCESSO DE ENVELHECIMENTO",
+        "category": "Optativa",
+        "semester": 7,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1405240"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1405282",
+        "name": "FUNDAM DA TERAPIA COGNITIVA COMPORTAMENT",
+        "category": "Optativa",
+        "semester": 7,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1405224"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1405283",
+        "name": "TÓPICOS EM PSICOL CLÍN E SAÚDE MENTAL",
+        "category": "Optativa",
+        "semester": 7,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1405295",
+        "name": "FUNDAMENTOS DE PSICOFARMACOLOGIA",
+        "category": "Optativa",
+        "semester": 7,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1405295",
+            "turmaid": "01",
+            "nome": " FUNDAMENTOS DE PSICOFARMACOLOGIA",
+            "semester": "2018.2",
+            "professor": "LIANA CLEBIA DE MORAIS PORDEUS",
+            "horario": "24M34",
+            "local": "CAG 105 (PRG)"
+          }
+        ],
+        "prerequisites": [
+          "1405216"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1405300",
+        "name": "TÓPICOS EM NEUROCIÊNCIAS E PROCESSOS BÁSICOS",
+        "category": "Optativa",
+        "semester": 7,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1405300",
+            "turmaid": "01",
+            "nome": " TÓPICOS EM NEUROCIÊNCIAS E PROCESSOS BÁSICOS",
+            "semester": "2018.2",
+            "professor": "FLAVIO FREITAS BARBOSA e BERNARDINO FERNANDEZ CALVO",
+            "horario": "35T23",
+            "local": "CCHLA 419 BLOCO A (CCHLA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDPSI0111",
+        "name": "TÓPICOS EM NEUROCIÊNCIAS E PROCESSOS BÁSICOS",
+        "category": "Optativa",
+        "semester": 7,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1405249",
+        "name": "TEORIA E TERAPIA CENTRADA NA PESSOA I",
+        "category": "Complementar Obrigatória",
+        "semester": 7,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1405249",
+            "turmaid": "01",
+            "nome": " TEORIA E TERAPIA CENTRADA NA PESSOA I",
+            "semester": "2018.2",
+            "professor": "MARISIA OLIVEIRA DA SILVA",
+            "horario": "35M56",
+            "local": "CCHLA 418 BLOCO A (CCHLA)"
+          }
+        ],
+        "prerequisites": [
+          "1405232"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1405233",
+        "name": "PSICOL FENOMENOLÓGICA E EXISTENCIAL II",
+        "category": "Optativa",
+        "semester": 8,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1405232"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1405247",
+        "name": "PSICOLOGIA DA SAÚDE II",
+        "category": "Optativa",
+        "semester": 8,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1405247",
+            "turmaid": "01",
+            "nome": " PSICOLOGIA DA SAÚDE II",
+            "semester": "2018.2",
+            "professor": "LAURA HELENA MONTENEGRO CARNEIRO DA CUNHA KUMAMOTO",
+            "horario": "35M34",
+            "local": "CAG 104 (PRG)"
+          }
+        ],
+        "prerequisites": [
+          "1405246"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1405275",
+        "name": "TÓPICOS EM PSICOLOGIA EDUCACIONAL",
+        "category": "Optativa",
+        "semester": 8,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1405229"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1405285",
+        "name": "PSICOLOGIA DO TRÂNSITO",
+        "category": "Optativa",
+        "semester": 8,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1405285",
+            "turmaid": "01",
+            "nome": " PSICOLOGIA DO TRÂNSITO",
+            "semester": "2018.2",
+            "professor": "MARIA DE FATIMA BARACUHY CAVALCANTI",
+            "horario": "24M56",
+            "local": "CCHLA 418 BLOCO A (CCHLA)"
+          }
+        ],
+        "prerequisites": [
+          "1405234"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1405287",
+        "name": "AÇÕES COLETIVAS E MOVIMENTOS SOCIAIS",
+        "category": "Optativa",
+        "semester": 8,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1405234"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1405294",
+        "name": "TÓPICOS EM PSICOLOGIA SOCIAL",
+        "category": "Optativa",
+        "semester": 8,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1405234"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1405301",
+        "name": "PSICODIAGNÓSTICO",
+        "category": "Optativa",
+        "semester": 8,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1405227"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1405305",
+        "name": "CONSTRUÇÃO E AVAL DE INSTRUM PSICOLÓG",
+        "category": "Optativa",
+        "semester": 8,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1405305",
+            "turmaid": "01",
+            "nome": " CONSTRUÇÃO E AVAL DE INSTRUM PSICOLÓG",
+            "semester": "2018.2",
+            "professor": "CARLOS EDUARDO PIMENTEL",
+            "horario": "24M34",
+            "local": "CCHLA 418 BLOCO A (CCHLA)"
+          }
+        ],
+        "prerequisites": [
+          "1405227"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDPSI0107",
+        "name": "TOPICOS EM PSICOLOGIA SOCIAL II",
+        "category": "Optativa",
+        "semester": 8,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDPSI0109",
+        "name": "TÓPICOS EM PSICOLOGIA CLÍNICA E SAÚDE MENTAL",
+        "category": "Optativa",
+        "semester": 8,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDPSI0109",
+            "turmaid": "02",
+            "nome": " TÓPICOS EM PSICOLOGIA CLÍNICA E SAÚDE MENTAL",
+            "semester": "2018.2",
+            "professor": "THIAGO ANTONIO AVELLAR DE AQUINO",
+            "horario": "5T2345",
+            "local": "CAG 103 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDPSI0110",
+        "name": "TÓPICOS EM PSICOLOGIA CLÍNICA E SAÚDE MENTAL",
+        "category": "Optativa",
+        "semester": 8,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDPSI0110",
+            "turmaid": "01",
+            "nome": " TÓPICOS EM PSICOLOGIA CLÍNICA E SAÚDE MENTAL",
+            "semester": "2018.2",
+            "professor": "VIRGINIA ANGELA MENEZES DE LUCENA E CARVALHO",
+            "horario": "4T2345",
+            "local": "CCHLA 408 BLOCO IV (CCHLA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDPSI0112",
+        "name": "TÓPICOS EM PSICOLOGIA CLÍNICA E SAÚDE MENTAL (PSICANALISE ARTE E LOUCURA)",
+        "category": "Optativa",
+        "semester": 8,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDPSI0112",
+            "turmaid": "01",
+            "nome": " TÓPICOS EM PSICOLOGIA CLÍNICA E SAÚDE MENTAL (PSICANALISE ARTE E LOUCURA)",
+            "semester": "2018.2",
+            "professor": "ZAETH AGUIAR DO NASCIMENTO",
+            "horario": "2T2345",
+            "local": "CCHLA 419 BLOCO A (CCHLA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1405251",
+        "name": "ESTÁGIO SUPERVISIONADO III  PSICOL",
+        "category": "Obrigatória",
+        "semester": 9,
+        "workload": "60h aula 165h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1405251",
+            "turmaid": "01A",
+            "nome": " ESTÁGIO SUPERVISIONADO III  PSICOL",
+            "semester": "2018.2",
+            "professor": "SHIRLEY DE SOUZA SILVA SIMEÃO, CARLA ALEXANDRA DA SILVA MOITA MINERVINO e THIAGO ANTONIO AVELLAR DE AQUINO",
+            "horario": "7T2345 (22/11/2018 - 10/05/2019)",
+            "local": "CCHLA 407 BLOCO IV (CCHLA)"
+          },
+          {
+            "id": "1405251",
+            "turmaid": "02A",
+            "nome": " ESTÁGIO SUPERVISIONADO III  PSICOL",
+            "semester": "2018.2",
+            "professor": "MARISIA OLIVEIRA DA SILVA, CLEIDE PEREIRA MONTEIRO e SANDRA SOUZA DA SILVA",
+            "horario": "7T2345 (22/11/2018 - 10/05/2019)",
+            "local": "CCHLA 408 BLOCO IV (CCHLA)"
+          },
+          {
+            "id": "1405251",
+            "turmaid": "03A",
+            "nome": " ESTÁGIO SUPERVISIONADO III  PSICOL",
+            "semester": "2018.2",
+            "professor": "TATIANA DE LUCENA TORRES, SILVANA CARNEIRO MACIEL e MONICA DE FATIMA BATISTA CORREIA",
+            "horario": "7T2345 (22/11/2018 - 10/05/2019)",
+            "local": "CCHLA 403 BLOCO IV (CCHLA)"
+          },
+          {
+            "id": "1405251",
+            "turmaid": "04A",
+            "nome": " ESTÁGIO SUPERVISIONADO III  PSICOL",
+            "semester": "2018.2",
+            "professor": "FLAVIO FREITAS BARBOSA, MIRIANE DA SILVA SANTOS BARBOZA, IEDA FRANKEN RODRIGUES e THAIS AUGUSTA CUNHA DE OLIVEIRA MAXIMO",
+            "horario": "7T2345 (22/11/2018 - 10/05/2019)",
+            "local": "CCHLA 405 BLOCO IV (CCHLA)"
+          }
+        ],
+        "prerequisites": [
+          "1405238"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1405253",
+        "name": "TRABALHO DE CONCLUSÃO DE CURSO I TCC I",
+        "category": "Complementar Obrigatória",
+        "semester": 9,
+        "workload": "60h aula 0h lab.",
+        "type": "TRABALHO DE CONCLUSÃO DE CURSO",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1405252",
+        "name": "ESTÁGIO SUPERVISIONADO IV  PSICOL",
+        "category": "Obrigatória",
+        "semester": 10,
+        "workload": "60h aula 165h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1405252",
+            "turmaid": "01A",
+            "nome": " ESTÁGIO SUPERVISIONADO IV  PSICOL",
+            "semester": "2018.2",
+            "professor": "SHIRLEY DE SOUZA SILVA SIMEÃO, IEDA FRANKEN RODRIGUES e SANDRA SOUZA DA SILVA",
+            "horario": "7M1234 (22/11/2018 - 10/05/2019)",
+            "local": "CCHLA 406 BLOCO IV (CCHLA)"
+          },
+          {
+            "id": "1405252",
+            "turmaid": "02A",
+            "nome": " ESTÁGIO SUPERVISIONADO IV  PSICOL",
+            "semester": "2018.2",
+            "professor": "MARIA DE FATIMA PEREIRA ALBERTO, CICERO ROBERTO PEREIRA e ANA RAQUEL ROSAS TORRES",
+            "horario": "7M1234 (22/11/2018 - 10/05/2019)",
+            "local": "CCHLA 408 BLOCO IV (CCHLA)"
+          },
+          {
+            "id": "1405252",
+            "turmaid": "03A",
+            "nome": " ESTÁGIO SUPERVISIONADO IV  PSICOL",
+            "semester": "2018.2",
+            "professor": "FABIOLA DE SOUSA BRAZ AQUINO, MONICA DE FATIMA BATISTA CORREIA e CARMEN SEVILLA GONCALVES DOS SANTOS",
+            "horario": "7M1234 (22/11/2018 - 10/05/2019)",
+            "local": "CCHLA 407 BLOCO IV (CCHLA)"
+          },
+          {
+            "id": "1405252",
+            "turmaid": "04A",
+            "nome": " ESTÁGIO SUPERVISIONADO IV  PSICOL",
+            "semester": "2018.2",
+            "professor": "CLEIDE PEREIRA MONTEIRO, BERNARDINO FERNANDEZ CALVO e FLAVIO FREITAS BARBOSA",
+            "horario": "7M1234 (22/11/2018 - 10/05/2019)",
+            "local": "CCHLA 405 BLOCO IV (CCHLA)"
+          },
+          {
+            "id": "1405252",
+            "turmaid": "05A",
+            "nome": " ESTÁGIO SUPERVISIONADO IV  PSICOL",
+            "semester": "2018.2",
+            "professor": "ANISIO JOSE DA SILVA ARAUJO, TATIANA DE LUCENA TORRES e THAIS AUGUSTA CUNHA DE OLIVEIRA MAXIMO",
+            "horario": "7M1234 (22/11/2018 - 10/05/2019)",
+            "local": "CCHLA 401  BLOCO IV (CCHLA)"
+          }
+        ],
+        "prerequisites": [
+          "1405251"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1405254",
+        "name": "TRABALHO DE CONCLUSÃO DE CURSO IITCCII",
+        "category": "Complementar Obrigatória",
+        "semester": 10,
+        "workload": "60h aula 0h lab.",
+        "type": "TRABALHO DE CONCLUSÃO DE CURSO",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1405253"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1301195",
+        "name": " FUNDAMENTOS  ANTROPOFILOSÓFICO DA EDUCAÇÃO",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": "60h",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1301195",
+            "turmaid": "02",
+            "nome": " FUNDAMENTOS  ANTROPOFILOSÓFICO DA EDUCAÇÃO",
+            "semester": "2018.2",
+            "professor": "ROBERTO RONDON",
+            "horario": "3M1234",
+            "local": "CAE 109 (PRG)"
+          },
+          {
+            "id": "1301195",
+            "turmaid": "05",
+            "nome": " FUNDAMENTOS  ANTROPOFILOSÓFICO DA EDUCAÇÃO",
+            "semester": "2018.2",
+            "professor": "TANIA RODRIGUES PALHANO",
+            "horario": "3T1234",
+            "local": "CAE 109 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1301201",
+        "name": " FUNDAMENTOS PSICOLÓGICOS DA EDUCAÇÃO",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": "60h",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1301201",
+            "turmaid": "01",
+            "nome": " FUNDAMENTOS PSICOLÓGICOS DA EDUCAÇÃO",
+            "semester": "2018.2",
+            "professor": "CARITA PORTILHO DE LIMA",
+            "horario": "4M1234",
+            "local": "CAD 104 (PRG)"
+          },
+          {
+            "id": "1301201",
+            "turmaid": "05",
+            "nome": " FUNDAMENTOS PSICOLÓGICOS DA EDUCAÇÃO",
+            "semester": "2018.2",
+            "professor": "LUIZ PEREIRA DE LIMA JUNIOR",
+            "horario": "5T1234",
+            "local": "CAD 111 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1301200",
+        "name": " FUNDAMENTOS SOCIOHISTÓRICOS DA EDUCAÇÃO",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": "60h",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1301200",
+            "turmaid": "04",
+            "nome": " FUNDAMENTOS SOCIOHISTÓRICOS DA EDUCAÇÃO",
+            "semester": "2018.2",
+            "professor": "UYGUACIARA VELOSO CASTELO BRANCO",
+            "horario": "5M1234",
+            "local": "CAH 106 (PRG)"
+          },
+          {
+            "id": "1301200",
+            "turmaid": "05",
+            "nome": " FUNDAMENTOS SOCIOHISTÓRICOS DA EDUCAÇÃO",
+            "semester": "2018.2",
+            "professor": "ANA MARIA NOBREGA DE SOUSA",
+            "horario": "4T2345",
+            "local": "CCHLA 414 BLOCO I CENTRAL DE AULAS (CCHLA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1303180",
+        "name": " POLITICA E GESTAO DA EDUCACAO",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": "60h",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1303180",
+            "turmaid": "09",
+            "nome": " POLITICA E GESTAO DA EDUCACAO",
+            "semester": "2018.2",
+            "professor": "ALEXANDRE ANTONIO GILI NADER",
+            "horario": "2T2345",
+            "local": "CAH 102 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+          "1303208"
+        ]
+      }
+    ]
+  }
+}

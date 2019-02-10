@@ -1,0 +1,854 @@
+{
+  "curriculum": {
+    "id": "402008",
+    "codigo": "1626848",
+    "name": "CIÊNCIAS NATURAIS - João Pessoa - A Distância - MT - LICENCIATURA PLENA",
+    "faculty": "CENTRO DE EDUCAÇÃO (CE) (11.00.56)",
+    "minch": "255",
+    "maxch": "495",
+    "semesters": 8,
+    "courses": [
+      {
+        "id": "GDLS0025",
+        "name": "LIBRAS UV",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1301214",
+        "name": "FUND SOCIOHISTORICOS DA EDUCACAO  UV",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1301248",
+        "name": "FUND PSICOLOGICOS DA EDUCACAOUV",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1302345",
+        "name": "PORTUGUES INSTRUMENTALUV",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1302346",
+        "name": "METODOLOGIA DO TRABALHO CIENTIFICOUV",
+        "category": "Complementar Obrigatória",
+        "semester": 1,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1302347",
+        "name": "INTRODUCAO A EDUCACAO A DISTANCIAUV",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1302348",
+        "name": "CIENCIAS NATURAIS I  UV",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1302352",
+        "name": "SEMINARIO TEMATICO I  CIENC NAT UV",
+        "category": "Complementar Flexiva",
+        "semester": 2,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1106229",
+        "name": "CIENCIAS NATURAIS IIUV",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1302348"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1301213",
+        "name": "FUND ANTROPOFILOSEDUCACO  UV",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1301251",
+        "name": "PESQUISA APLICADA A EDUCACAO  UV",
+        "category": "Complementar Obrigatória",
+        "semester": 2,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1301252",
+        "name": "POLITICAS E GESTAO DA EDUCACAO  UV",
+        "category": "Complementar Obrigatória",
+        "semester": 2,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1302353",
+        "name": "ESTAGIO SUPERVISIONADO I  C NAT UV",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1302377",
+        "name": "DIDATICA  UV",
+        "category": "Complementar Obrigatória",
+        "semester": 3,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1302393",
+        "name": "TOPICOS DE FISICA I  UV",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1302394",
+        "name": "CIENCIAS NATURAIS III  UV",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1106229"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1302395",
+        "name": "GEOCIENCIAS  UV",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1106229"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1302396",
+        "name": "TOPICOS DE MATEMATICA I  UV",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1302397",
+        "name": "INSTRUM PARA O ENS DE CIENC NATURAISUV",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1302489",
+        "name": "SEMINÁRIO TEMÁTICO II  CIENC NAT UV",
+        "category": "Complementar Flexiva",
+        "semester": 4,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1302352"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1302484",
+        "name": "CIÊNCIAS NATURAIS IV  UV",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1302394"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1302485",
+        "name": "APLICAÇÕES DE INFORMÁTICA À EDUCAÇÃOUV",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1302486",
+        "name": "TÓPICOS DE MATEMÁTICA II  UV",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1302396"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1302487",
+        "name": "TÓPICOS DE FÍSICA II UV",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1302393"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1302488",
+        "name": "ESTÁGIO SUPERVISIONADA II  C NAT UV",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1302353"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1303379",
+        "name": "PESQUISA E COTIDIANO ESCOLARUV",
+        "category": "Optativa",
+        "semester": 5,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1301280",
+        "name": "EDUCACAO INCLUSIVA  CIENC NAT  UV",
+        "category": "Complementar Obrigatória",
+        "semester": 5,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1302498",
+        "name": "FISICA EXPERIMENTAL  CNATUV",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1302487"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1302499",
+        "name": "QUIMICA GERAL  CIENC NAT  UV",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1303377",
+        "name": "PLANEJ E GESTAO ESCOLAR  C NAT  UV",
+        "category": "Complementar Obrigatória",
+        "semester": 5,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1303378",
+        "name": "ESCOLA FAMILIA E SOCIEDADE  CNAT  UV",
+        "category": "Complementar Obrigatória",
+        "semester": 5,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1302514",
+        "name": "SEMIN TEMAT EM CIENC NATURAIS IIIUV",
+        "category": "Complementar Flexiva",
+        "semester": 6,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1302489"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1301289",
+        "name": "EDUCAÇÃO SEXUAL  UV",
+        "category": "Complementar Obrigatória",
+        "semester": 6,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1302511",
+        "name": "MIDIAS INTER P ENS DE CIENC NATURAISUV",
+        "category": "Complementar Obrigatória",
+        "semester": 6,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1302512",
+        "name": "FUNDAMENTOS DE QUIM ORGANICA UV",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1302499"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1302513",
+        "name": "SEMINÁRIOS DE EDUC AMBIENTALUV",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1302515",
+        "name": "ESTÁGIO SUPERVISIONADO IIIC NATUV",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1302488"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1302520",
+        "name": "OPTATIVAAVALIAÇÃO DA APRENDIZAGEM UV",
+        "category": "Optativa",
+        "semester": 7,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1302517",
+        "name": "TÓPICOS DE ECOLOGIA  UV",
+        "category": "Obrigatória",
+        "semester": 7,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1302484"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1302518",
+        "name": "FUNDAMENTOS DE QUÍMICA INORGÂNICA  UV",
+        "category": "Obrigatória",
+        "semester": 7,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1302512"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1302519",
+        "name": "QUIMICA EXPERIMENTAL    UV",
+        "category": "Obrigatória",
+        "semester": 7,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1302499"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1302521",
+        "name": "EDUCAÇAO E CRIATIVIDADE UV",
+        "category": "Complementar Obrigatória",
+        "semester": 7,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1302522",
+        "name": "EDUCAÇÃO E SAUDE    UV",
+        "category": "Complementar Obrigatória",
+        "semester": 7,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1302524",
+        "name": "SEMIN TEMEM CIENNATURAIS IV UV",
+        "category": "Complementar Flexiva",
+        "semester": 8,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1302514"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1301300",
+        "name": "FUNDAM BIOLÓGICOS DA EDUCAÇÃO  UV",
+        "category": "Obrigatória",
+        "semester": 8,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1301301",
+        "name": "ANTROPOLOGIA DA EDUCAÇÃO  UV",
+        "category": "Complementar Obrigatória",
+        "semester": 8,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1301301",
+            "turmaid": "01",
+            "nome": " ANTROPOLOGIA DA EDUCAÇÃO  UV",
+            "semester": "2018.2",
+            "professor": "ALBA CLEIDE CALADO WANDERLEY e ROSEANE MARIA DE AMORIM",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1302523",
+        "name": "ARTE EDUC APLICA  CIENNATURAIS UV",
+        "category": "Complementar Obrigatória",
+        "semester": 8,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1302525",
+        "name": "TRABALHO DE CONCLUSÃO DE CURSO UV",
+        "category": "Complementar Obrigatória",
+        "semester": 8,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1303395",
+        "name": "ETICA E CIDADANIA CNATUV",
+        "category": "Complementar Obrigatória",
+        "semester": 8,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      }
+    ]
+  }
+}

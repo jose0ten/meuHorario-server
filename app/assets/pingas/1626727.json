@@ -1,0 +1,2835 @@
+{
+  "curriculum": {
+    "id": "0492008",
+    "codigo": "1626727",
+    "name": "DIREITO - João Pessoa - Presencial - N - BACHARELADO",
+    "faculty": "CENTRO DE CIÊNCIAS JURÍDICAS (CCJ) (11.00.57)",
+    "minch": "60",
+    "maxch": "615",
+    "semesters": 10,
+    "courses": [
+      {
+        "id": "1403747",
+        "name": "LIBRAS  LÍNGUA BRASILEIRA DE SINAIS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1501256",
+        "name": "TÓPICOS ESPECIAIS EM DIREITO PENAL",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1501233"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1502212",
+        "name": "BIOETICA E BIODIREITO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1502214",
+        "name": "DIREITO DE INFORMATICA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1502214",
+            "turmaid": "01",
+            "nome": " DIREITO DE INFORMATICA",
+            "semester": "2018.2",
+            "professor": "GUSTAVO RABAY GUERRA",
+            "horario": "3M56 4M34",
+            "local": "CCJ 05 (CCJ)"
+          },
+          {
+            "id": "1502214",
+            "turmaid": "02",
+            "nome": " DIREITO DE INFORMATICA",
+            "semester": "2018.2",
+            "professor": "GUSTAVO RABAY GUERRA",
+            "horario": "26N56",
+            "local": "CCJ 05 (CCJ)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1503134",
+        "name": "TÓPICOS ESPECIAIS EM DIREITO I",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1503135",
+        "name": "TÓPICOS ESPECIAIS EM DIREITO II",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1503136",
+        "name": "TÓPICOS ESPECIAIS EM DIREITO III",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1503137",
+        "name": "TÓPICOS ESPECIAIS EM DIREITO IV",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1503138",
+        "name": "TÓPICOS ESPECIAIS EM DIREITO V",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDLS0024",
+        "name": "LIBRAS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1502213",
+        "name": "HERMENEUTICA JURIDICA",
+        "category": "Optativa",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1502213",
+            "turmaid": "02",
+            "nome": " HERMENEUTICA JURIDICA",
+            "semester": "2018.2",
+            "professor": "PAULO HENRIQUE TAVARES DA SILVA",
+            "horario": "25N56",
+            "local": "CCJ 01 (CCJ)"
+          },
+          {
+            "id": "1502213",
+            "turmaid": "03",
+            "nome": " HERMENEUTICA JURIDICA",
+            "semester": "2018.2",
+            "professor": "LORENA DE MELO FREITAS",
+            "horario": "46M23",
+            "local": "CCJ 01 (CCJ)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1501214",
+        "name": "CIENCIA POLITICA",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1501214",
+            "turmaid": "01",
+            "nome": " CIENCIA POLITICA",
+            "semester": "2018.2",
+            "professor": "ANA ADELAIDE GUEDES PEREIRA ROSA LIRA",
+            "horario": "5N1234",
+            "local": "CCJ 01 (CCJ)"
+          },
+          {
+            "id": "1501214",
+            "turmaid": "02",
+            "nome": " CIENCIA POLITICA",
+            "semester": "2018.2",
+            "professor": "ANA ADELAIDE GUEDES PEREIRA ROSA LIRA",
+            "horario": "5M1234",
+            "local": "CCJ 01 (CCJ)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1502207",
+        "name": "INTRODUCAO AO DIREITO I",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1502207",
+            "turmaid": "02",
+            "nome": " INTRODUCAO AO DIREITO I",
+            "semester": "2018.2",
+            "professor": "MARIA GORETTI DAL BOSCO",
+            "horario": "4N23 6N34",
+            "local": "CCJ 01 (CCJ)"
+          },
+          {
+            "id": "1502207",
+            "turmaid": "03",
+            "nome": " INTRODUCAO AO DIREITO I",
+            "semester": "2018.2",
+            "professor": "MARIA GORETTI DAL BOSCO",
+            "horario": "5M56 6M45",
+            "local": "CCJ 01 (CCJ)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1502208",
+        "name": "ECONOMIA POLITICA",
+        "category": "Complementar Obrigatória",
+        "semester": 1,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1502208",
+            "turmaid": "01",
+            "nome": " ECONOMIA POLITICA",
+            "semester": "2018.2",
+            "professor": "IEDO LEITE FONTES",
+            "horario": "6N12",
+            "local": "CCJ 01 (CCJ)"
+          },
+          {
+            "id": "1502208",
+            "turmaid": "03",
+            "nome": " ECONOMIA POLITICA",
+            "semester": "2018.2",
+            "professor": "FRANCISCO DE PAULA BARRETO FILHO",
+            "horario": "3M56",
+            "local": "CCJ 01 (CCJ)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1502210",
+        "name": "HISTORIA E ANTROPOLOGIA JURIDICA",
+        "category": "Complementar Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1502210",
+            "turmaid": "02",
+            "nome": " HISTORIA E ANTROPOLOGIA JURIDICA",
+            "semester": "2018.2",
+            "professor": "ANA KAROLINA SOARES BEZERRA CAVALCANTI",
+            "horario": "2N12 6N56",
+            "local": "CCJ 01 (CCJ)"
+          },
+          {
+            "id": "1502210",
+            "turmaid": "03",
+            "nome": " HISTORIA E ANTROPOLOGIA JURIDICA",
+            "semester": "2018.2",
+            "professor": "ANA KAROLINA SOARES BEZERRA CAVALCANTI",
+            "horario": "2M23 4M45",
+            "local": "CCJ 01 (CCJ)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1502211",
+        "name": "SOCIOLOGIA GERAL JURIDICA",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "90h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1502211",
+            "turmaid": "02",
+            "nome": " SOCIOLOGIA GERAL JURIDICA",
+            "semester": "2018.2",
+            "professor": "EDWARD ANTONIO PINTO DE LEMOS",
+            "horario": "34N561",
+            "local": "CCJ 01 (CCJ)"
+          },
+          {
+            "id": "1502211",
+            "turmaid": "03",
+            "nome": " SOCIOLOGIA GERAL JURIDICA",
+            "semester": "2018.2",
+            "professor": "EDWARD ANTONIO PINTO DE LEMOS",
+            "horario": "2M456 3M234",
+            "local": "CCJ 01 (CCJ)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1501184",
+        "name": "DIREITOS HUMANOS",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1501184",
+            "turmaid": "01",
+            "nome": " DIREITOS HUMANOS",
+            "semester": "2018.2",
+            "professor": "ROBSON ANTAO DE MEDEIROS",
+            "horario": "45M12",
+            "local": "CCJ 02 (CCJ)"
+          },
+          {
+            "id": "1501184",
+            "turmaid": "02",
+            "nome": " DIREITOS HUMANOS",
+            "semester": "2018.2",
+            "professor": "LUIS CARLOS DOS SANTOS LIMA SOBRINHO",
+            "horario": "4N56 5N61",
+            "local": "CCJ 02 (CCJ)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1501217",
+        "name": "DIREITO CONSTITUCIONAL I",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1501217",
+            "turmaid": "02",
+            "nome": " DIREITO CONSTITUCIONAL I",
+            "semester": "2018.2",
+            "professor": "SOLON HENRIQUES DE SA E BENEVIDES",
+            "horario": "5N234",
+            "local": "CCJ 02 (CCJ)"
+          },
+          {
+            "id": "1501217",
+            "turmaid": "03",
+            "nome": " DIREITO CONSTITUCIONAL I",
+            "semester": "2018.2",
+            "professor": "LUCIANO MARIZ MAIA",
+            "horario": "2M456",
+            "local": "CCJ 02 (CCJ)"
+          }
+        ],
+        "prerequisites": [
+          "1502207"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1502209",
+        "name": "DIREITOS ROMANO",
+        "category": "Complementar Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1502209",
+            "turmaid": "02",
+            "nome": " DIREITOS ROMANO",
+            "semester": "2018.2",
+            "professor": "MARIA LIGIA MALTA DE FARIAS",
+            "horario": "6N5612",
+            "local": "CCJ 02 (CCJ)"
+          },
+          {
+            "id": "1502209",
+            "turmaid": "03",
+            "nome": " DIREITOS ROMANO",
+            "semester": "2018.2",
+            "professor": "MARIA LIGIA MALTA DE FARIAS",
+            "horario": "2M23 5M34",
+            "local": "CCJ 02 (CCJ)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1502218",
+        "name": "INTRODUCAO AO DIREITO II",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1502218",
+            "turmaid": "01",
+            "nome": " INTRODUCAO AO DIREITO II",
+            "semester": "2018.2",
+            "professor": "ENOQUE FEITOSA SOBREIRA FILHO",
+            "horario": "45M56",
+            "local": "CCJ 02 (CCJ)"
+          },
+          {
+            "id": "1502218",
+            "turmaid": "02",
+            "nome": " INTRODUCAO AO DIREITO II",
+            "semester": "2018.2",
+            "professor": "ENOQUE FEITOSA SOBREIRA FILHO",
+            "horario": "3N34 4N12",
+            "local": "CCJ 02 (CCJ)"
+          }
+        ],
+        "prerequisites": [
+          "1502207"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1502219",
+        "name": "METODOLOGIA DO TRABALHO CIENTIFICO",
+        "category": "Complementar Obrigatória",
+        "semester": 2,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1502219",
+            "turmaid": "01",
+            "nome": " METODOLOGIA DO TRABALHO CIENTIFICO",
+            "semester": "2018.2",
+            "professor": "ALESSANDRA MACEDO ASFORA",
+            "horario": "4M34",
+            "local": "CCJ 02 (CCJ)"
+          },
+          {
+            "id": "1502219",
+            "turmaid": "03",
+            "nome": " METODOLOGIA DO TRABALHO CIENTIFICO",
+            "semester": "2018.2",
+            "professor": "FILIPE MENDES CAVALCANTI LEITE",
+            "horario": "2N23",
+            "local": "CCJ 02 (CCJ)"
+          }
+        ],
+        "prerequisites": [
+          "1502207"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1502222",
+        "name": "FILOSOFIA GERAL E JURIDICA",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "90h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1502222",
+            "turmaid": "01",
+            "nome": " FILOSOFIA GERAL E JURIDICA",
+            "semester": "2018.2",
+            "professor": "EDUARDO RAMALHO RABENHORST",
+            "horario": "36M345",
+            "local": "CCJ 02 (CCJ)"
+          },
+          {
+            "id": "1502222",
+            "turmaid": "03",
+            "nome": " FILOSOFIA GERAL E JURIDICA",
+            "semester": "2018.2",
+            "professor": "EDUARDO RAMALHO RABENHORST",
+            "horario": "2N61 3N5612",
+            "local": "CCJ 02 (CCJ)"
+          }
+        ],
+        "prerequisites": [
+          "1502207"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1501245",
+        "name": "DIREITOPOLÍTICA E DESENVOLVIMENTO",
+        "category": "Optativa",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1501245",
+            "turmaid": "01",
+            "nome": " DIREITOPOLÍTICA E DESENVOLVIMENTO",
+            "semester": "2018.2",
+            "professor": "NADJA DIOGENES PALITOT Y PALITOT",
+            "horario": "3M34 4M56",
+            "local": "CCJ 03 (CCJ)"
+          },
+          {
+            "id": "1501245",
+            "turmaid": "02",
+            "nome": " DIREITOPOLÍTICA E DESENVOLVIMENTO",
+            "semester": "2018.2",
+            "professor": "IEDO LEITE FONTES",
+            "horario": "4N12 6N34",
+            "local": "CCJ 03 (CCJ)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1502246",
+        "name": "TEORIA DA ARGUMENTAÇÃO JURIDICA",
+        "category": "Optativa",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1502222"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1501219",
+        "name": "DIREITO PENAL I",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1501219",
+            "turmaid": "01",
+            "nome": " DIREITO PENAL I",
+            "semester": "2018.2",
+            "professor": "GUSTAVO BARBOSA DE MESQUITA BATISTA",
+            "horario": "4M34 5M12",
+            "local": "CCJ 03 (CCJ)"
+          },
+          {
+            "id": "1501219",
+            "turmaid": "02",
+            "nome": " DIREITO PENAL I",
+            "semester": "2018.2",
+            "professor": "ALCIDES LEITE DE AMORIM",
+            "horario": "56N12",
+            "local": "CCJ 03 (CCJ)"
+          }
+        ],
+        "prerequisites": [
+          "1502218"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1501220",
+        "name": "DIREITO CONSTITUCIONAL II",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1501220",
+            "turmaid": "01",
+            "nome": " DIREITO CONSTITUCIONAL II",
+            "semester": "2018.2",
+            "professor": "MARTSUNG FORMIGA CAVALCANTE E RODOVALHO DE ALENCAR",
+            "horario": "6M345",
+            "local": "CCJ 03 (CCJ)"
+          },
+          {
+            "id": "1501220",
+            "turmaid": "02",
+            "nome": " DIREITO CONSTITUCIONAL II",
+            "semester": "2018.2",
+            "professor": "SOLON HENRIQUES DE SA E BENEVIDES",
+            "horario": "3N123",
+            "local": "CCJ 03 (CCJ)"
+          }
+        ],
+        "prerequisites": [
+          "1501217"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1501229",
+        "name": "DIREITO DOS GRUPOS SOCIALMENTE VULNERAVEIS",
+        "category": "Complementar Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1501229",
+            "turmaid": "01",
+            "nome": " DIREITO DOS GRUPOS SOCIALMENTE VULNERAVEIS",
+            "semester": "2018.2",
+            "professor": "JOSE BAPTISTA DE MELLO NETO",
+            "horario": "2M45 5M34",
+            "local": "CCJ 03 (CCJ)"
+          },
+          {
+            "id": "1501229",
+            "turmaid": "02",
+            "nome": " DIREITO DOS GRUPOS SOCIALMENTE VULNERAVEIS",
+            "semester": "2018.2",
+            "professor": "JOSE BAPTISTA DE MELLO NETO",
+            "horario": "2N56 5N34",
+            "local": "CCJ 03 (CCJ)"
+          }
+        ],
+        "prerequisites": [
+          "1501184"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1502224",
+        "name": "DIREITO CIVIL I",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1502224",
+            "turmaid": "01",
+            "nome": " DIREITO CIVIL I",
+            "semester": "2018.2",
+            "professor": "ROGERIO DE MENESES FIALHO MOREIRA",
+            "horario": "2M23 6M12",
+            "local": "CCJ 03 (CCJ)"
+          },
+          {
+            "id": "1502224",
+            "turmaid": "02",
+            "nome": " DIREITO CIVIL I",
+            "semester": "2018.2",
+            "professor": "WLADIMIR ALCIBIADES MARINHO FALCAO CUNHA",
+            "horario": "2N1234",
+            "local": "CCJ 03 (CCJ)"
+          }
+        ],
+        "prerequisites": [
+          "1502218"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1502225",
+        "name": "DIREITO EMPRESARIAL I",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1502225",
+            "turmaid": "01",
+            "nome": " DIREITO EMPRESARIAL I",
+            "semester": "2018.2",
+            "professor": "MARILIA MARQUES REGO VILHENA",
+            "horario": "34M12",
+            "local": "CCJ 03 (CCJ)"
+          },
+          {
+            "id": "1502225",
+            "turmaid": "02",
+            "nome": " DIREITO EMPRESARIAL I",
+            "semester": "2018.2",
+            "professor": "CARLOS ALBERTO DE BRITO",
+            "horario": "46N56",
+            "local": "CCJ 03 (CCJ)"
+          }
+        ],
+        "prerequisites": [
+          "1502218"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1502226",
+        "name": "PSICOLOGIA JURIDICA",
+        "category": "Complementar Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1502226",
+            "turmaid": "01",
+            "nome": " PSICOLOGIA JURIDICA",
+            "semester": "2018.2",
+            "professor": "CAROLINE SATIRO DE HOLANDA",
+            "horario": "35M56",
+            "local": "CCJ 03 (CCJ)"
+          },
+          {
+            "id": "1502226",
+            "turmaid": "02",
+            "nome": " PSICOLOGIA JURIDICA",
+            "semester": "2018.2",
+            "professor": "CAROLINE SATIRO DE HOLANDA",
+            "horario": "35N56",
+            "local": "CCJ 03 (CCJ)"
+          }
+        ],
+        "prerequisites": [
+          "1502218"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1501246",
+        "name": "PRÁTICAS POLITICAS DE PROTE PROTEÇAO E DE DEFESA DOS DIREITOS HUMANOS",
+        "category": "Optativa",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1501184",
+          "1501229"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDDPR0100",
+        "name": "METODOLOGIA DE ESTUDOS DE CASO:CAPACITAÇÃO VIRTUAL EM SISTEMAS INTERNACIONAIS DE PROTEÇÃO E DEFESA DOS DIREITOS HUMANOS",
+        "category": "Optativa",
+        "semester": 4,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1502224"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1501221",
+        "name": "DIREITO CONSTITUCIONAL III",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1501221",
+            "turmaid": "01",
+            "nome": " DIREITO CONSTITUCIONAL III",
+            "semester": "2018.2",
+            "professor": "LUIS CARLOS DOS SANTOS LIMA SOBRINHO",
+            "horario": "6N123",
+            "local": "CCJ 04 (CCJ)"
+          },
+          {
+            "id": "1501221",
+            "turmaid": "02",
+            "nome": " DIREITO CONSTITUCIONAL III",
+            "semester": "2018.2",
+            "professor": "LUCIANO MARIZ MAIA",
+            "horario": "2M123",
+            "local": "CCJ 04 (CCJ)"
+          }
+        ],
+        "prerequisites": [
+          "1501220"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1501222",
+        "name": "DIREITO PENAL II",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1501222",
+            "turmaid": "01",
+            "nome": " DIREITO PENAL II",
+            "semester": "2018.2",
+            "professor": "GUSTAVO BARBOSA DE MESQUITA BATISTA",
+            "horario": "34M12",
+            "local": "CCJ 04 (CCJ)"
+          },
+          {
+            "id": "1501222",
+            "turmaid": "02",
+            "nome": " DIREITO PENAL II",
+            "semester": "2018.2",
+            "professor": "ALCIDES LEITE DE AMORIM",
+            "horario": "56N56",
+            "local": "CCJ 04 (CCJ)"
+          }
+        ],
+        "prerequisites": [
+          "1501219"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1501223",
+        "name": "DIREITO ADMINISTRATIVO I",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1501223",
+            "turmaid": "01",
+            "nome": " DIREITO ADMINISTRATIVO I",
+            "semester": "2018.2",
+            "professor": "ANA LUISA CELINO COUTINHO",
+            "horario": "35M34",
+            "local": "CCJ 04 (CCJ)"
+          },
+          {
+            "id": "1501223",
+            "turmaid": "02",
+            "nome": " DIREITO ADMINISTRATIVO I",
+            "semester": "2018.2",
+            "professor": "MARCIA GLEBYANE MACIEL QUIRINO",
+            "horario": "24N12",
+            "local": "CCJ 04 (CCJ)"
+          }
+        ],
+        "prerequisites": [
+          "1501220"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1502228",
+        "name": "DIREITO CIVIL II",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1502228",
+            "turmaid": "01",
+            "nome": " DIREITO CIVIL II",
+            "semester": "2018.2",
+            "professor": "ROGERIO DE MENESES FIALHO MOREIRA",
+            "horario": "2M45 6M34",
+            "local": "CCJ 04 (CCJ)"
+          },
+          {
+            "id": "1502228",
+            "turmaid": "02",
+            "nome": " DIREITO CIVIL II",
+            "semester": "2018.2",
+            "professor": "ALFREDO RANGEL RIBEIRO",
+            "horario": "24N56",
+            "local": "CCJ 04 (CCJ)"
+          }
+        ],
+        "prerequisites": [
+          "1502224"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1502229",
+        "name": "DIREITO DO TRABALHO I",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1502229",
+            "turmaid": "01",
+            "nome": " DIREITO DO TRABALHO I",
+            "semester": "2018.2",
+            "professor": "FRANCISCO JOSE GARCIA FIGUEIREDO",
+            "horario": "4M34 6M56",
+            "local": "CCJ 04 (CCJ)"
+          },
+          {
+            "id": "1502229",
+            "turmaid": "02",
+            "nome": " DIREITO DO TRABALHO I",
+            "semester": "2018.2",
+            "professor": "ARNALDO JOSE DUARTE DO AMARAL",
+            "horario": "5N1234",
+            "local": "CCJ 04 (CCJ)"
+          }
+        ],
+        "prerequisites": [
+          "1502224"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1502230",
+        "name": "DIREITO EMPRESARIAL II",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1502230",
+            "turmaid": "01",
+            "nome": " DIREITO EMPRESARIAL II",
+            "semester": "2018.2",
+            "professor": "JONABIO BARBOSA DOS SANTOS",
+            "horario": "35M56",
+            "local": "CCJ 04 (CCJ)"
+          },
+          {
+            "id": "1502230",
+            "turmaid": "02",
+            "nome": " DIREITO EMPRESARIAL II",
+            "semester": "2018.2",
+            "professor": "ANDRE LUIZ CAVALCANTI CABRAL",
+            "horario": "3N1234",
+            "local": "CCJ 04 (CCJ)"
+          }
+        ],
+        "prerequisites": [
+          "1502225"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1501247",
+        "name": "EXCLUSÃO SOCIAL POLITICAS PÚBLICAS E DIREITOS HUMANOS",
+        "category": "Optativa",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1501184",
+          "1501229"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1501249",
+        "name": "TÓPICOS ESPECIAIS EM DIREITOS HUMANOS",
+        "category": "Optativa",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1501184",
+          "1501229"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1501254",
+        "name": "DIREITO PENAL ECONÔMICO",
+        "category": "Optativa",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1501222"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1501226",
+        "name": "CIENCIAS DAS FINANE DIREITO FINANCEIRO",
+        "category": "Complementar Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1501226",
+            "turmaid": "01",
+            "nome": " CIENCIAS DAS FINANE DIREITO FINANCEIRO",
+            "semester": "2018.2",
+            "professor": "DUCIRAN VAN MARSEN FARENA",
+            "horario": "26M12",
+            "local": "CCJ 05 (CCJ)"
+          },
+          {
+            "id": "1501226",
+            "turmaid": "02",
+            "nome": " CIENCIAS DAS FINANE DIREITO FINANCEIRO",
+            "semester": "2018.2",
+            "professor": "DUCIRAN VAN MARSEN FARENA",
+            "horario": "2N12 6N34",
+            "local": "CCJ 05 (CCJ)"
+          }
+        ],
+        "prerequisites": [
+          "1501223"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1501227",
+        "name": "DIREITO PENAL III",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1501227",
+            "turmaid": "01",
+            "nome": " DIREITO PENAL III",
+            "semester": "2018.2",
+            "professor": "ROMULO RHEMO PALITOT BRAGA",
+            "horario": "4M12 5M56",
+            "local": "CCJ 05 (CCJ)"
+          },
+          {
+            "id": "1501227",
+            "turmaid": "02",
+            "nome": " DIREITO PENAL III",
+            "semester": "2018.2",
+            "professor": "ROMULO RHEMO PALITOT BRAGA",
+            "horario": "4N56 6N12",
+            "local": "CCJ 05 (CCJ)"
+          }
+        ],
+        "prerequisites": [
+          "1501222"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1501228",
+        "name": "DIREITO ADMINISTRATIVO II",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1501228",
+            "turmaid": "01",
+            "nome": " DIREITO ADMINISTRATIVO II",
+            "semester": "2018.2",
+            "professor": "JOAO EDUARDO CARDOSO LOURENCO",
+            "horario": "35M12",
+            "local": "CCJ 05 (CCJ)"
+          },
+          {
+            "id": "1501228",
+            "turmaid": "02",
+            "nome": " DIREITO ADMINISTRATIVO II",
+            "semester": "2018.2",
+            "professor": "CARLOS PESSOA DE AQUINO",
+            "horario": "3N5612",
+            "local": "CCJ 05 (CCJ)"
+          }
+        ],
+        "prerequisites": [
+          "1501223"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1502232",
+        "name": "DIREITO DO TRABALHO II",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1502232",
+            "turmaid": "01",
+            "nome": " DIREITO DO TRABALHO II",
+            "semester": "2018.2",
+            "professor": "FRANCISCO JOSE GARCIA FIGUEIREDO",
+            "horario": "4M56 6M34",
+            "local": "CCJ 05 (CCJ)"
+          },
+          {
+            "id": "1502232",
+            "turmaid": "02",
+            "nome": " DIREITO DO TRABALHO II",
+            "semester": "2018.2",
+            "professor": "MARCELA DE ALMEIDA MAIA ASFORA",
+            "horario": "4N1234",
+            "local": "CCJ 05 (CCJ)"
+          }
+        ],
+        "prerequisites": [
+          "1502229"
+        ],
+        "equivalences": [
+          "1502215"
+        ]
+      },
+      {
+        "id": "1502234",
+        "name": "DIREITO CIVIL III",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1502234",
+            "turmaid": "01",
+            "nome": " DIREITO CIVIL III",
+            "semester": "2018.2",
+            "professor": "CAROLINE SATIRO DE HOLANDA",
+            "horario": "3M34 6M56",
+            "local": "CCJ 05 (CCJ)"
+          },
+          {
+            "id": "1502234",
+            "turmaid": "02",
+            "nome": " DIREITO CIVIL III",
+            "semester": "2018.2",
+            "professor": "RODRIGO AZEVEDO TOSCANO DE BRITO",
+            "horario": "3N34 5N12",
+            "local": "CCJ 05 (CCJ)"
+          }
+        ],
+        "prerequisites": [
+          "1502228"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1503128",
+        "name": "TEORIA GERAL DO PROCESSO",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1503128",
+            "turmaid": "01",
+            "nome": " TEORIA GERAL DO PROCESSO",
+            "semester": "2018.2",
+            "professor": "WERTON MAGALHAES COSTA",
+            "horario": "25M34",
+            "local": "CCJ 05 (CCJ)"
+          },
+          {
+            "id": "1503128",
+            "turmaid": "02",
+            "nome": " TEORIA GERAL DO PROCESSO",
+            "semester": "2018.2",
+            "professor": "WERTON MAGALHAES COSTA",
+            "horario": "25N34",
+            "local": "CCJ 05 (CCJ)"
+          }
+        ],
+        "prerequisites": [
+          "1502228"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1501248",
+        "name": "EDUCAÇÃO EMDIREITOS HUMANOS",
+        "category": "Optativa",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1501184",
+          "1501229"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1501255",
+        "name": "DIREITO PENITENCIÁRIO",
+        "category": "Optativa",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1501222"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1501257",
+        "name": "DIREITO E ANÁLISE SÓCIOECONÔMICA",
+        "category": "Optativa",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1502232"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1501232",
+        "name": "MEDICINA LEGAL",
+        "category": "Complementar Obrigatória",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1501232",
+            "turmaid": "01",
+            "nome": " MEDICINA LEGAL",
+            "semester": "2018.2",
+            "professor": "LILIAN DEBORA PASCHOALIN MIGUEL",
+            "horario": "5M2345",
+            "local": "CCJ 06 (CCJ)"
+          },
+          {
+            "id": "1501232",
+            "turmaid": "02",
+            "nome": " MEDICINA LEGAL",
+            "semester": "2018.2",
+            "professor": "LILIAN DEBORA PASCHOALIN MIGUEL",
+            "horario": "5N1234",
+            "local": "CCJ 06 (CCJ)"
+          }
+        ],
+        "prerequisites": [
+          "1501227"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1501233",
+        "name": "DIREITO PENAL IV",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1501233",
+            "turmaid": "01",
+            "nome": " DIREITO PENAL IV",
+            "semester": "2018.2",
+            "professor": "GUSTAVO BARBOSA DE MESQUITA BATISTA",
+            "horario": "2M3456",
+            "local": "CCJ 06 (CCJ)"
+          },
+          {
+            "id": "1501233",
+            "turmaid": "02",
+            "nome": " DIREITO PENAL IV",
+            "semester": "2018.2",
+            "professor": "EITEL SANTIAGO DE BRITO PEREIRA",
+            "horario": "23N34",
+            "local": "CCJ 06 (CCJ)"
+          }
+        ],
+        "prerequisites": [
+          "1501222"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1502233",
+        "name": "PESQUISA APLICADA AO DIREITO",
+        "category": "Complementar Obrigatória",
+        "semester": 6,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1502233",
+            "turmaid": "01",
+            "nome": " PESQUISA APLICADA AO DIREITO",
+            "semester": "2018.2",
+            "professor": "ALESSANDRA MACEDO ASFORA",
+            "horario": "4M56",
+            "local": "CCJ 06 (CCJ)"
+          },
+          {
+            "id": "1502233",
+            "turmaid": "02",
+            "nome": " PESQUISA APLICADA AO DIREITO",
+            "semester": "2018.2",
+            "professor": "ALESSANDRA MACEDO ASFORA",
+            "horario": "4N56",
+            "local": "CCJ 06 (CCJ)"
+          }
+        ],
+        "prerequisites": [
+          "1502219"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1502235",
+        "name": "DIREITO CIVIL IV",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1502235",
+            "turmaid": "01",
+            "nome": " DIREITO CIVIL IV",
+            "semester": "2018.2",
+            "professor": "ALFREDO RANGEL RIBEIRO",
+            "horario": "56N56",
+            "local": "CCJ 06 (CCJ)"
+          },
+          {
+            "id": "1502235",
+            "turmaid": "04",
+            "nome": " DIREITO CIVIL IV",
+            "semester": "2018.2",
+            "professor": "ADAUMIRTON DIAS LOURENCO",
+            "horario": "2M12 4M34",
+            "local": "CCJ 06 (CCJ)"
+          }
+        ],
+        "prerequisites": [
+          "1502234"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1502238",
+        "name": "ETICA GERAL E PROFISSIONAL",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1502238",
+            "turmaid": "01",
+            "nome": " ETICA GERAL E PROFISSIONAL",
+            "semester": "2018.2",
+            "professor": "ANDRE LUIZ CAVALCANTI CABRAL",
+            "horario": "3M12",
+            "local": "CCJ 06 (CCJ)"
+          },
+          {
+            "id": "1502238",
+            "turmaid": "02",
+            "nome": " ETICA GERAL E PROFISSIONAL",
+            "semester": "2018.2",
+            "professor": "ANDRE LUIZ CAVALCANTI CABRAL",
+            "horario": "3N56",
+            "local": "CCJ 06 (CCJ)"
+          }
+        ],
+        "prerequisites": [
+          "1502222"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1503129",
+        "name": "DIREITO PROCESSUAL CIVIL I",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1503129",
+            "turmaid": "01",
+            "nome": " DIREITO PROCESSUAL CIVIL I",
+            "semester": "2018.2",
+            "professor": "PAULO AMERICO MAIA DE VASCONCELOS FILHO",
+            "horario": "6M1234",
+            "local": "CCJ 06 (CCJ)"
+          },
+          {
+            "id": "1503129",
+            "turmaid": "02",
+            "nome": " DIREITO PROCESSUAL CIVIL I",
+            "semester": "2018.2",
+            "professor": "FABIO BEZERRA DOS SANTOS",
+            "horario": "4N1234",
+            "local": "CCJ 06 (CCJ)"
+          }
+        ],
+        "prerequisites": [
+          "1503128"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1503130",
+        "name": "DIREITO PROCESSUAL PENAL I",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1503130",
+            "turmaid": "01",
+            "nome": " DIREITO PROCESSUAL PENAL I",
+            "semester": "2018.2",
+            "professor": "VICTOR MANOEL MAGALHAES GRANADEIRO RIO",
+            "horario": "3M345 4M2",
+            "local": "CCJ 06 (CCJ)"
+          },
+          {
+            "id": "1503130",
+            "turmaid": "02",
+            "nome": " DIREITO PROCESSUAL PENAL I",
+            "semester": "2018.2",
+            "professor": "LENILMA CRISTINA SENA DE FIGUEIREDO MEIRELLES",
+            "horario": "23N12",
+            "local": "CCJ 06 (CCJ)"
+          }
+        ],
+        "prerequisites": [
+          "1503128",
+          "1501222"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1501258",
+        "name": "DIREITOS HUMANOS DO TRABALHADOR",
+        "category": "Optativa",
+        "semester": 7,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1502232"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1501231",
+        "name": "DIREITO DA SEGURIDADE SOCIAL",
+        "category": "Complementar Obrigatória",
+        "semester": 7,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1501231",
+            "turmaid": "01",
+            "nome": " DIREITO DA SEGURIDADE SOCIAL",
+            "semester": "2018.2",
+            "professor": "ANNE AUGUSTA ALENCAR LEITE REINALDO",
+            "horario": "34M34",
+            "local": "CCJ 07 (CCJ)"
+          },
+          {
+            "id": "1501231",
+            "turmaid": "02",
+            "nome": " DIREITO DA SEGURIDADE SOCIAL",
+            "semester": "2018.2",
+            "professor": "PIERRE ANDRADE BERTHOLET",
+            "horario": "24N12",
+            "local": "CCJ 07 (CCJ)"
+          }
+        ],
+        "prerequisites": [
+          "1502232"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1501234",
+        "name": "DIREITO TRIBUTÁRIO E FISCAL I",
+        "category": "Obrigatória",
+        "semester": 7,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1501234",
+            "turmaid": "01",
+            "nome": " DIREITO TRIBUTÁRIO E FISCAL I",
+            "semester": "2018.2",
+            "professor": "GEILSON SALOMAO LEITE",
+            "horario": "2M34 5M12",
+            "local": "CCJ 07 (CCJ)"
+          },
+          {
+            "id": "1501234",
+            "turmaid": "02",
+            "nome": " DIREITO TRIBUTÁRIO E FISCAL I",
+            "semester": "2018.2",
+            "professor": "JOAO CLAUDIO CARNEIRO DE CARVALHO",
+            "horario": "6T56 6N12",
+            "local": "CCJ 07 (CCJ)"
+          }
+        ],
+        "prerequisites": [
+          "1501226"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1502236",
+        "name": "DIREITO CIVIL V",
+        "category": "Obrigatória",
+        "semester": 7,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1502236",
+            "turmaid": "01",
+            "nome": " DIREITO CIVIL V",
+            "semester": "2018.2",
+            "professor": "MARIA CREUSA DE ARAUJO BORGES",
+            "horario": "2M56 6M34",
+            "local": "CCJ 07 (CCJ)"
+          },
+          {
+            "id": "1502236",
+            "turmaid": "02",
+            "nome": " DIREITO CIVIL V",
+            "semester": "2018.2",
+            "professor": "RODRIGO AZEVEDO TOSCANO DE BRITO",
+            "horario": "3N12 5N34",
+            "local": "CCJ 07 (CCJ)"
+          }
+        ],
+        "prerequisites": [
+          "1502235"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1502239",
+        "name": "DIREITO INTERNACIONAL PRIVADO",
+        "category": "Obrigatória",
+        "semester": 7,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1502239",
+            "turmaid": "01",
+            "nome": " DIREITO INTERNACIONAL PRIVADO",
+            "semester": "2018.2",
+            "professor": "FILIPE MENDES CAVALCANTI LEITE",
+            "horario": "34N34",
+            "local": "CCJ 07 (CCJ)"
+          },
+          {
+            "id": "1502239",
+            "turmaid": "03",
+            "nome": " DIREITO INTERNACIONAL PRIVADO",
+            "semester": "2018.2",
+            "professor": "LORENA DE MELO FREITAS",
+            "horario": "46M56",
+            "local": "CCJ 07 (CCJ)"
+          }
+        ],
+        "prerequisites": [
+          "1502234"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1503131",
+        "name": "DIREITO PROCESSUAL CIVIL II",
+        "category": "Obrigatória",
+        "semester": 7,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1503131",
+            "turmaid": "02",
+            "nome": " DIREITO PROCESSUAL CIVIL II",
+            "semester": "2018.2",
+            "professor": "DELOSMAR DOMINGOS DE MENDONCA JUNIOR",
+            "horario": "2N34 5N12",
+            "local": "CCJ 07 (CCJ)"
+          },
+          {
+            "id": "1503131",
+            "turmaid": "03",
+            "nome": " DIREITO PROCESSUAL CIVIL II",
+            "semester": "2018.2",
+            "professor": "DELOSMAR DOMINGOS DE MENDONCA JUNIOR",
+            "horario": "3M56 5M34",
+            "local": "CCJ 07 (CCJ)"
+          }
+        ],
+        "prerequisites": [
+          "1503129"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1503132",
+        "name": "DIREITO PROCESSUAL PENAL II",
+        "category": "Obrigatória",
+        "semester": 7,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1503132",
+            "turmaid": "01",
+            "nome": " DIREITO PROCESSUAL PENAL II",
+            "semester": "2018.2",
+            "professor": "EDUARDO DE ARAUJO CAVALCANTI",
+            "horario": "34M12",
+            "local": "CCJ 07 (CCJ)"
+          },
+          {
+            "id": "1503132",
+            "turmaid": "02",
+            "nome": " DIREITO PROCESSUAL PENAL II",
+            "semester": "2018.2",
+            "professor": "LENILMA CRISTINA SENA DE FIGUEIREDO MEIRELLES",
+            "horario": "23N56",
+            "local": "CCJ 07 (CCJ)"
+          }
+        ],
+        "prerequisites": [
+          "1503130"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1503133",
+        "name": "PRÁTICA JURÍDICA I",
+        "category": "Obrigatória",
+        "semester": 7,
+        "workload": "75h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1503133",
+            "turmaid": "01",
+            "nome": " PRÁTICA JURÍDICA I",
+            "semester": "2018.2",
+            "professor": "PAULO AMERICO MAIA DE VASCONCELOS FILHO",
+            "horario": "5T12345",
+            "local": "SALA PRÁTICA JURÍDICA 02 - EXCLUSIVA PARA A PRÁTICA ..."
+          },
+          {
+            "id": "1503133",
+            "turmaid": "02",
+            "nome": " PRÁTICA JURÍDICA I",
+            "semester": "2018.2",
+            "professor": "PAULO AMERICO MAIA DE VASCONCELOS FILHO",
+            "horario": "4T12345",
+            "local": "SALA PRÁTICA JURÍDICA 01 - EXCLUSIVA PARA A PRÁTICA ..."
+          },
+          {
+            "id": "1503133",
+            "turmaid": "03",
+            "nome": " PRÁTICA JURÍDICA I",
+            "semester": "2018.2",
+            "professor": "FERNANDA HOLANDA DE VASCONCELOS BRANDAO",
+            "horario": "4T12345",
+            "local": "SALA PRÁTICA JURÍDICA 03 - EXCLUSIVA PARA A PRÁTICA ..."
+          },
+          {
+            "id": "1503133",
+            "turmaid": "04",
+            "nome": " PRÁTICA JURÍDICA I",
+            "semester": "2018.2",
+            "professor": "FERNANDA HOLANDA DE VASCONCELOS BRANDAO",
+            "horario": "5T12345",
+            "local": "SALA PRÁTICA JURÍDICA 04 - EXCLUSIVA PARA A PRÁTICA ..."
+          }
+        ],
+        "prerequisites": [
+          "1503129"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1501243",
+        "name": "SOCIOLOGIA CRIMINAL",
+        "category": "Optativa",
+        "semester": 8,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1501222",
+          "1502211"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1502248",
+        "name": "TÓPICOS ESPECIAIS EM DIREITO DO TRABALHO",
+        "category": "Optativa",
+        "semester": 8,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1502232"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1501235",
+        "name": "DIREITO TRIBUTÁRIO E FISICAL II",
+        "category": "Obrigatória",
+        "semester": 8,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1501235",
+            "turmaid": "01",
+            "nome": " DIREITO TRIBUTÁRIO E FISICAL II",
+            "semester": "2018.2",
+            "professor": "DIRCEU MARQUES GALVAO FILHO",
+            "horario": "3M56 5M12",
+            "local": "CCJ 08 (CCJ)"
+          },
+          {
+            "id": "1501235",
+            "turmaid": "02",
+            "nome": " DIREITO TRIBUTÁRIO E FISICAL II",
+            "semester": "2018.2",
+            "professor": "DIRCEU MARQUES GALVAO FILHO",
+            "horario": "36N34",
+            "local": "CCJ 08 (CCJ)"
+          }
+        ],
+        "prerequisites": [
+          "1501234"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1501236",
+        "name": "DIREITO ECONOMICO",
+        "category": "Complementar Obrigatória",
+        "semester": 8,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1501236",
+            "turmaid": "01",
+            "nome": " DIREITO ECONOMICO",
+            "semester": "2018.2",
+            "professor": "MARTSUNG FORMIGA CAVALCANTE E RODOVALHO DE ALENCAR",
+            "horario": "5M56 6M12",
+            "local": "CCJ 08 (CCJ)"
+          },
+          {
+            "id": "1501236",
+            "turmaid": "02",
+            "nome": " DIREITO ECONOMICO",
+            "semester": "2018.2",
+            "professor": "JOAO EDUARDO CARDOSO LOURENCO",
+            "horario": "2N1234",
+            "local": "CCJ 08 (CCJ)"
+          }
+        ],
+        "prerequisites": [
+          "1501220"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1501237",
+        "name": "DIREITO INTERNACIONAL PÚBLICO",
+        "category": "Obrigatória",
+        "semester": 8,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1501237",
+            "turmaid": "01",
+            "nome": " DIREITO INTERNACIONAL PÚBLICO",
+            "semester": "2018.2",
+            "professor": "ALESSANDRA CORREIA LIMA MACEDO FRANCA",
+            "horario": "34M34",
+            "local": "CCJ 08 (CCJ)"
+          },
+          {
+            "id": "1501237",
+            "turmaid": "02",
+            "nome": " DIREITO INTERNACIONAL PÚBLICO",
+            "semester": "2018.2",
+            "professor": "SERGIO JOSE VIEIRA LOPES",
+            "horario": "56N12",
+            "local": "CCJ 08 (CCJ)"
+          }
+        ],
+        "prerequisites": [
+          "1501220"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1502240",
+        "name": "DIREITO CIVIL VI",
+        "category": "Obrigatória",
+        "semester": 8,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1502240",
+            "turmaid": "01",
+            "nome": " DIREITO CIVIL VI",
+            "semester": "2018.2",
+            "professor": "RAQUEL MORAES DE LIMA",
+            "horario": "5M34 6M56",
+            "local": "CCJ 08 (CCJ)"
+          },
+          {
+            "id": "1502240",
+            "turmaid": "03",
+            "nome": " DIREITO CIVIL VI",
+            "semester": "2018.2",
+            "professor": "RAQUEL MORAES DE LIMA",
+            "horario": "35N56",
+            "local": "CCJ 08 (CCJ)"
+          }
+        ],
+        "prerequisites": [
+          "1502236"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1503139",
+        "name": "DIREITO PROCESSUAL CIVIL III",
+        "category": "Obrigatória",
+        "semester": 8,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1503139",
+            "turmaid": "01",
+            "nome": " DIREITO PROCESSUAL CIVIL III",
+            "semester": "2018.2",
+            "professor": "MARCELO WEICK POGLIESE",
+            "horario": "2M56 4M12",
+            "local": "CCJ 08 (CCJ)"
+          },
+          {
+            "id": "1503139",
+            "turmaid": "02",
+            "nome": " DIREITO PROCESSUAL CIVIL III",
+            "semester": "2018.2",
+            "professor": "MARCELO WEICK POGLIESE",
+            "horario": "45N34",
+            "local": "CCJ 08 (CCJ)"
+          }
+        ],
+        "prerequisites": [
+          "1503131"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1503140",
+        "name": "DIREITO PROCESSUAL DO TRABALHO I",
+        "category": "Obrigatória",
+        "semester": 8,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1503140",
+            "turmaid": "01",
+            "nome": " DIREITO PROCESSUAL DO TRABALHO I",
+            "semester": "2018.2",
+            "professor": "MARCIO ROBERTO DE FREITAS EVANGELISTA",
+            "horario": "26M34",
+            "local": "CCJ 08 (CCJ)"
+          },
+          {
+            "id": "1503140",
+            "turmaid": "02",
+            "nome": " DIREITO PROCESSUAL DO TRABALHO I",
+            "semester": "2018.2",
+            "professor": "MARCIO ROBERTO DE FREITAS EVANGELISTA",
+            "horario": "34N12",
+            "local": "CCJ 08 (CCJ)"
+          }
+        ],
+        "prerequisites": [
+          "1503131"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1503141",
+        "name": "PRÁTICA JURIDICA II",
+        "category": "Obrigatória",
+        "semester": 8,
+        "workload": "75h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1503141",
+            "turmaid": "01",
+            "nome": " PRÁTICA JURIDICA II",
+            "semester": "2018.2",
+            "professor": "EDUARDO DE ARAUJO CAVALCANTI",
+            "horario": "6T12345",
+            "local": "SALA PRÁTICA JURÍDICA 05 - EXCLUSIVA PARA A PRÁTICA ..."
+          },
+          {
+            "id": "1503141",
+            "turmaid": "02",
+            "nome": " PRÁTICA JURIDICA II",
+            "semester": "2018.2",
+            "professor": "ANTONIO CARLOS IRANLEI TOSCANO MOURA DOMINGUES",
+            "horario": "3T1 5T1234",
+            "local": "SALA PRÁTICA JURÍDICA 06 - EXCLUSIVA PARA A PRÁTICA ..."
+          },
+          {
+            "id": "1503141",
+            "turmaid": "03",
+            "nome": " PRÁTICA JURIDICA II",
+            "semester": "2018.2",
+            "professor": "ANTONIO CARLOS IRANLEI TOSCANO MOURA DOMINGUES",
+            "horario": "3T2 4T1234",
+            "local": "SALA PRÁTICA JURÍDICA 07 - EXCLUSIVA PARA A PRÁTICA ..."
+          },
+          {
+            "id": "1503141",
+            "turmaid": "04",
+            "nome": " PRÁTICA JURIDICA II",
+            "semester": "2018.2",
+            "professor": "ANTONIO CARLOS IRANLEI TOSCANO MOURA DOMINGUES",
+            "horario": "6T12345",
+            "local": "SALA PRÁTICA JURÍDICA 08 - EXCLUSIVA PARA A PRÁTICA ..."
+          }
+        ],
+        "prerequisites": [
+          "1503133"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1501244",
+        "name": "DIREITO DA INTEGRAÇÃO ECONÔMICA",
+        "category": "Optativa",
+        "semester": 9,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1501237"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1501250",
+        "name": "DIREITO DA ORGANIZAÇÃO E DO MERCADOS",
+        "category": "Optativa",
+        "semester": 9,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1501236",
+          "1502225",
+          "1502230"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1501251",
+        "name": "DIREITO INTERNACIONAL DO DESENVOLVIMENTO",
+        "category": "Optativa",
+        "semester": 9,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1501251",
+            "turmaid": "01",
+            "nome": " DIREITO INTERNACIONAL DO DESENVOLVIMENTO",
+            "semester": "2018.2",
+            "professor": "SERGIO JOSE VIEIRA LOPES",
+            "horario": "2N12 6N34",
+            "local": "CCJ 10 (CCJ)"
+          }
+        ],
+        "prerequisites": [
+          "1501236",
+          "1501213",
+          "1501216",
+          "1502225",
+          "1502230"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1503146",
+        "name": "TÉCNICA LEGISLATIVA",
+        "category": "Optativa",
+        "semester": 9,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1501221"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1501238",
+        "name": "DIREITO AMBIENTAL",
+        "category": "Complementar Obrigatória",
+        "semester": 9,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1501238",
+            "turmaid": "01",
+            "nome": " DIREITO AMBIENTAL",
+            "semester": "2018.2",
+            "professor": "TALDEN QUEIROZ FARIAS",
+            "horario": "6M3456",
+            "local": "CCJ 09 (CCJ)"
+          },
+          {
+            "id": "1501238",
+            "turmaid": "02",
+            "nome": " DIREITO AMBIENTAL",
+            "semester": "2018.2",
+            "professor": "TALDEN QUEIROZ FARIAS",
+            "horario": "4N5612",
+            "local": "CCJ 09 (CCJ)"
+          }
+        ],
+        "prerequisites": [
+          "1501228"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1501239",
+        "name": "DIREITO DA INTEGRAÇÃO",
+        "category": "Complementar Obrigatória",
+        "semester": 9,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1501239",
+            "turmaid": "01",
+            "nome": " DIREITO DA INTEGRAÇÃO",
+            "semester": "2018.2",
+            "professor": "LUIZA ROSA BARBOSA DE LIMA",
+            "horario": "4M3456",
+            "local": "CCJ 09 (CCJ)"
+          },
+          {
+            "id": "1501239",
+            "turmaid": "02",
+            "nome": " DIREITO DA INTEGRAÇÃO",
+            "semester": "2018.2",
+            "professor": "LUIZA ROSA BARBOSA DE LIMA",
+            "horario": "6N1234",
+            "local": "CCJ 09 (CCJ)"
+          }
+        ],
+        "prerequisites": [
+          "1501237"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1501240",
+        "name": "DIREITO ELEITORAL",
+        "category": "Complementar Obrigatória",
+        "semester": 9,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1501240",
+            "turmaid": "01",
+            "nome": " DIREITO ELEITORAL",
+            "semester": "2018.2",
+            "professor": "RENATO CESAR CARNEIRO",
+            "horario": "2M1234",
+            "local": "CCJ 09 (CCJ)"
+          },
+          {
+            "id": "1501240",
+            "turmaid": "02",
+            "nome": " DIREITO ELEITORAL",
+            "semester": "2018.2",
+            "professor": "RENATO CESAR CARNEIRO",
+            "horario": "5N1234",
+            "local": "CCJ 09 (CCJ)"
+          }
+        ],
+        "prerequisites": [
+          "1501220"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1502241",
+        "name": "DIREITO CIVIL VII",
+        "category": "Obrigatória",
+        "semester": 9,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1502241",
+            "turmaid": "01",
+            "nome": " DIREITO CIVIL VII",
+            "semester": "2018.2",
+            "professor": "JONABIO BARBOSA DOS SANTOS",
+            "horario": "35M34",
+            "local": "CCJ 09 (CCJ)"
+          },
+          {
+            "id": "1502241",
+            "turmaid": "02",
+            "nome": " DIREITO CIVIL VII",
+            "semester": "2018.2",
+            "professor": "WLADIMIR ALCIBIADES MARINHO FALCAO CUNHA",
+            "horario": "4N34 6N56",
+            "local": "CCJ 09 (CCJ)"
+          }
+        ],
+        "prerequisites": [
+          "1502240"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1502242",
+        "name": "DIREITO DO CONSUMIDOR",
+        "category": "Complementar Obrigatória",
+        "semester": 9,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1502242",
+            "turmaid": "01",
+            "nome": " DIREITO DO CONSUMIDOR",
+            "semester": "2018.2",
+            "professor": "ADAUMIRTON DIAS LOURENCO",
+            "horario": "34M12",
+            "local": "CCJ 09 (CCJ)"
+          },
+          {
+            "id": "1502242",
+            "turmaid": "02",
+            "nome": " DIREITO DO CONSUMIDOR",
+            "semester": "2018.2",
+            "professor": "ADAUMIRTON DIAS LOURENCO",
+            "horario": "2N34 5N56",
+            "local": "CCJ 09 (CCJ)"
+          }
+        ],
+        "prerequisites": [
+          "1502234"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1503142",
+        "name": "DIREITO PROCESSUAL DO TRABALHO II",
+        "category": "Obrigatória",
+        "semester": 9,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1503142",
+            "turmaid": "01",
+            "nome": " DIREITO PROCESSUAL DO TRABALHO II",
+            "semester": "2018.2",
+            "professor": "JAILTON MACENA DE ARAÚJO",
+            "horario": "56M12",
+            "local": "CCJ 09 (CCJ)"
+          },
+          {
+            "id": "1503142",
+            "turmaid": "02",
+            "nome": " DIREITO PROCESSUAL DO TRABALHO II",
+            "semester": "2018.2",
+            "professor": "JAILTON MACENA DE ARAÚJO",
+            "horario": "2N12 3N23",
+            "local": "CCJ 09 (CCJ)"
+          }
+        ],
+        "prerequisites": [
+          "1503140"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1503143",
+        "name": "PRÁTICA JURÍDICA III",
+        "category": "Obrigatória",
+        "semester": 9,
+        "workload": "75h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1503143",
+            "turmaid": "01",
+            "nome": " PRÁTICA JURÍDICA III",
+            "semester": "2018.2",
+            "professor": "DANIEL VELOSO DE SOUZA",
+            "horario": "2T12345",
+            "local": "SALA PRÁTICA JURÍDICA 09 - EXCLUSIVA PARA A PRÁTICA ..."
+          },
+          {
+            "id": "1503143",
+            "turmaid": "02",
+            "nome": " PRÁTICA JURÍDICA III",
+            "semester": "2018.2",
+            "professor": "DANIEL VELOSO DE SOUZA",
+            "horario": "3T12345",
+            "local": "SALA PRÁTICA JURÍDICA 10 - EXCLUSIVA PARA A PRÁTICA ..."
+          },
+          {
+            "id": "1503143",
+            "turmaid": "03",
+            "nome": " PRÁTICA JURÍDICA III",
+            "semester": "2018.2",
+            "professor": "MARCOS AUGUSTO LYRA FERREIRA CAJU",
+            "horario": "2T12345",
+            "local": "SALA PRÁTICA JURÍDICA 11 - EXCLUSIVA PARA A PRÁTICA ..."
+          },
+          {
+            "id": "1503143",
+            "turmaid": "04",
+            "nome": " PRÁTICA JURÍDICA III",
+            "semester": "2018.2",
+            "professor": "MARCOS AUGUSTO LYRA FERREIRA CAJU",
+            "horario": "3T12345",
+            "local": "SALA PRÁTICA JURÍDICA 12 - EXCLUSIVA PARA A PRÁTICA ..."
+          }
+        ],
+        "prerequisites": [
+          "1503133"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1501252",
+        "name": "TÓPICOS ESPECIAIS EM DIREITO ECONÔMICO",
+        "category": "Optativa",
+        "semester": 10,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1501252",
+            "turmaid": "01",
+            "nome": " TÓPICOS ESPECIAIS EM DIREITO ECONÔMICO",
+            "semester": "2018.2",
+            "professor": "JOAO CLAUDIO CARNEIRO DE CARVALHO",
+            "horario": "6M3456",
+            "local": "CCJ 10 (CCJ)"
+          }
+        ],
+        "prerequisites": [
+          "1501236"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1501241",
+        "name": "DIREITO MUNICIPAL",
+        "category": "Complementar Obrigatória",
+        "semester": 10,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1501241",
+            "turmaid": "01",
+            "nome": " DIREITO MUNICIPAL",
+            "semester": "2018.2",
+            "professor": "BASILE GEORGES CAMPOS CHRISTOPOULOS",
+            "horario": "3M3456",
+            "local": "CCJ 10 (CCJ)"
+          },
+          {
+            "id": "1501241",
+            "turmaid": "02",
+            "nome": " DIREITO MUNICIPAL",
+            "semester": "2018.2",
+            "professor": "CARLOS PESSOA DE AQUINO",
+            "horario": "34N34",
+            "local": "CCJ 10 (CCJ)"
+          }
+        ],
+        "prerequisites": [
+          "1501220"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1501242",
+        "name": "TRABALHO DE CONCLUSÃO DE CURSO",
+        "category": "Complementar Obrigatória",
+        "semester": 10,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1501242",
+            "turmaid": "01",
+            "nome": " TRABALHO DE CONCLUSÃO DE CURSO",
+            "semester": "2018.2",
+            "professor": "MARCIA GLEBYANE MACIEL QUIRINO",
+            "horario": "5M34",
+            "local": "CCJ 10 (CCJ)"
+          },
+          {
+            "id": "1501242",
+            "turmaid": "02",
+            "nome": " TRABALHO DE CONCLUSÃO DE CURSO",
+            "semester": "2018.2",
+            "professor": "MARCIA GLEBYANE MACIEL QUIRINO",
+            "horario": "4N56",
+            "local": "CCJ 10 (CCJ)"
+          }
+        ],
+        "prerequisites": [
+          "1502233"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1502243",
+        "name": "DIREITO DA CRIANÇA E DO ADOLESCENTE",
+        "category": "Complementar Obrigatória",
+        "semester": 10,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1502243",
+            "turmaid": "02",
+            "nome": " DIREITO DA CRIANÇA E DO ADOLESCENTE",
+            "semester": "2018.2",
+            "professor": "MARIA LIGIA MALTA DE FARIAS",
+            "horario": "5N1234",
+            "local": "CCJ 10 (CCJ)"
+          },
+          {
+            "id": "1502243",
+            "turmaid": "03",
+            "nome": " DIREITO DA CRIANÇA E DO ADOLESCENTE",
+            "semester": "2018.2",
+            "professor": "MARIA LIGIA MALTA DE FARIAS",
+            "horario": "2M45 5M56",
+            "local": "CCJ 10 (CCJ)"
+          }
+        ],
+        "prerequisites": [
+          "1502241"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1502244",
+        "name": "MEDIAÇÃO  E  ARBITRAGEM",
+        "category": "Complementar Obrigatória",
+        "semester": 10,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1502244",
+            "turmaid": "01",
+            "nome": " MEDIAÇÃO  E  ARBITRAGEM",
+            "semester": "2018.2",
+            "professor": "PAULO HENRIQUE TAVARES DA SILVA",
+            "horario": "2M12 4M56",
+            "local": "CCJ 08 (CCJ)"
+          },
+          {
+            "id": "1502244",
+            "turmaid": "03",
+            "nome": " MEDIAÇÃO  E  ARBITRAGEM",
+            "semester": "2018.2",
+            "professor": "FILIPE MENDES CAVALCANTI LEITE",
+            "horario": "24N56",
+            "local": "CCJ 08 (CCJ)"
+          }
+        ],
+        "prerequisites": [
+          "1502236",
+          "1502232",
+          "1501233"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1502245",
+        "name": "DIREITO AGRÁRIO",
+        "category": "Complementar Obrigatória",
+        "semester": 10,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1502245",
+            "turmaid": "03",
+            "nome": " DIREITO AGRÁRIO",
+            "semester": "2018.2",
+            "professor": "MARIA CREUSA DE ARAUJO BORGES",
+            "horario": "2M23 6M12",
+            "local": "CCJ 10 (CCJ)"
+          },
+          {
+            "id": "1502245",
+            "turmaid": "04",
+            "nome": " DIREITO AGRÁRIO",
+            "semester": "2018.2",
+            "professor": "PAULLA CHRISTIANNE DA COSTA NEWTON",
+            "horario": "2N56 3N12",
+            "local": "CCJ 10 (CCJ)"
+          }
+        ],
+        "prerequisites": [
+          "1502234"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1503144",
+        "name": "DIREITO PROCESSUAL COLETIVO",
+        "category": "Complementar Obrigatória",
+        "semester": 10,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1503144",
+            "turmaid": "01",
+            "nome": " DIREITO PROCESSUAL COLETIVO",
+            "semester": "2018.2",
+            "professor": "VICTOR MANOEL MAGALHAES GRANADEIRO RIO",
+            "horario": "3M12 4M34",
+            "local": "CCJ 10 (CCJ)"
+          },
+          {
+            "id": "1503144",
+            "turmaid": "02",
+            "nome": " DIREITO PROCESSUAL COLETIVO",
+            "semester": "2018.2",
+            "professor": "MARCELO WEICK POGLIESE",
+            "horario": "2N34 4N12",
+            "local": "CCJ 10 (CCJ)"
+          }
+        ],
+        "prerequisites": [
+          "1503128"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1503145",
+        "name": "PRÁTICA  JURÍDICA IV",
+        "category": "Obrigatória",
+        "semester": 10,
+        "workload": "75h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1503145",
+            "turmaid": "01",
+            "nome": " PRÁTICA  JURÍDICA IV",
+            "semester": "2018.2",
+            "professor": "FABIO BEZERRA DOS SANTOS",
+            "horario": "6T12345",
+            "local": "SALA PRÁTICA JURÍDICA 15 - EXCLUSIVA PARA A PRÁTICA ..."
+          },
+          {
+            "id": "1503145",
+            "turmaid": "02",
+            "nome": " PRÁTICA  JURÍDICA IV",
+            "semester": "2018.2",
+            "professor": "JOAO FRANCISCO DA SILVA",
+            "horario": "6T12345",
+            "local": "SALA PRÁTICA JURÍDICA 16 -  EXCLUSIVA PARA A PRÁTICA ..."
+          },
+          {
+            "id": "1503145",
+            "turmaid": "03",
+            "nome": " PRÁTICA  JURÍDICA IV",
+            "semester": "2018.2",
+            "professor": "FABIO BEZERRA DOS SANTOS",
+            "horario": "5T12345",
+            "local": "SALA PRÁTICA JURÍDICA 13 - EXCLUSIVA PARA A PRÁTICA ..."
+          },
+          {
+            "id": "1503145",
+            "turmaid": "04",
+            "nome": " PRÁTICA  JURÍDICA IV",
+            "semester": "2018.2",
+            "professor": "JOAO FRANCISCO DA SILVA",
+            "horario": "5T12345",
+            "local": "SALA PRÁTICA JURÍDICA 14 - EXCLUSIVA PARA A PRÁTICA ..."
+          }
+        ],
+        "prerequisites": [
+          "1503133"
+        ],
+        "equivalences": [
+
+        ]
+      }
+    ]
+  }
+}

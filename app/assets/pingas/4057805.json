@@ -1,0 +1,1857 @@
+{
+  "curriculum": {
+    "id": "29-022006",
+    "codigo": "4057805",
+    "name": "LETRAS (LÍNGUA FRANCESA) - João Pessoa - Presencial - LING. FRANCESA - MT - LICENCIATURA PLENA",
+    "faculty": "CENTRO DE CIÊNCIAS HUMANAS, LETRAS E ARTES (CCHLA) (11.00.53)",
+    "minch": "240",
+    "maxch": "420",
+    "semesters": 8,
+    "courses": [
+      {
+        "id": "1202251",
+        "name": "ATIVIDADE DE EXTENSAO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1202252",
+        "name": "ATIVIDADE DE EXTENSAO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1202253",
+        "name": "ATIVIDADE  DE EXTENSAO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "15h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1202254",
+        "name": "ATIVIDADE DE EXTESNSAO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1202321",
+        "name": "ANÁLISE DAS DEMONSTRAÇÕES CONTÁBEIS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1301146",
+        "name": "FUND ADM EDUCACAO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1302128",
+        "name": "INTRODUÇÃO AOS RECURSOS AUDIOVISUAIS EM EDUCAÇÃO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1302160",
+        "name": "PRAT ENS PORT LIT LIN PORT",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "120h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1302220",
+        "name": "AVALIAÇÃO DA APRENDIZAGEM",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1302305",
+        "name": "SEMINÁRIO DE PROBLEMAS  ATUAIS DA EDUCAÇÃO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1302324",
+        "name": "ALFABETIZACAO DE JOVENS E ADULTOS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1302324",
+            "turmaid": "01",
+            "nome": " ALFABETIZACAO DE JOVENS E ADULTOS",
+            "semester": "2018.2",
+            "professor": "QUÉZIA VILA FLOR FURTADO",
+            "horario": "3N1234",
+            "local": "CE 305 (CE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1302325",
+        "name": "EDUCAÇÃO E MOVIMENTOS SOCIAIS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1303195",
+        "name": "PLANEJAMENTO E GESTÃO ESCOLAR",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1303196",
+        "name": "CURRICULO E TRABALHO PEDAGOGICO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1303196",
+            "turmaid": "02",
+            "nome": " CURRICULO E TRABALHO PEDAGOGICO",
+            "semester": "2018.2",
+            "professor": "ANA CELIA SILVA MENEZES",
+            "horario": "5M1234",
+            "local": "CAH 107 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1303197",
+        "name": "PESQUISA E COTIDIANO ESCOLAR",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1303197",
+            "turmaid": "03",
+            "nome": " PESQUISA E COTIDIANO ESCOLAR",
+            "semester": "2018.2",
+            "professor": "GIULIANA CAVALCANTI VASCONCELOS",
+            "horario": "5N1234",
+            "local": "CAH 101 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1303398",
+        "name": "EDUCACAO E INCLUSAO SOCIAL",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1403350",
+        "name": "LITERATURA E ESTUDOS DE GÊNERO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1404201",
+        "name": "HISTORIA DA LINGUA FRANCESA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1404203",
+        "name": "PROG NEURO LING E ENS DE LING ESTRAN",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1404203",
+            "turmaid": "01",
+            "nome": " PROG NEURO LING E ENS DE LING ESTRAN",
+            "semester": "2018.2",
+            "professor": "MAURA REGINA DA SILVA DOURADO",
+            "horario": "5M1234",
+            "local": "CAG 102 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1404264",
+        "name": "TÓPICOS ESPECIAIS EM LÍNGUA FRANCESA",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1404265",
+        "name": "TÓPICOS ESPECIAIS EM LIGUÍSTICA",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1404266",
+        "name": "TOP ESP EM TRADUÇÃO",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1404270",
+        "name": "TRADUÇÃO POÉTICA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1404270",
+            "turmaid": "01",
+            "nome": " TRADUÇÃO POÉTICA",
+            "semester": "2018.2",
+            "professor": "JOSE ROBERTO ANDRADE FERES",
+            "horario": "3M1234",
+            "local": "CAD 101 (PRG)"
+          },
+          {
+            "id": "1404270",
+            "turmaid": "02",
+            "nome": " TRADUÇÃO POÉTICA",
+            "semester": "2018.2",
+            "professor": "JOSE ROBERTO ANDRADE FERES",
+            "horario": "5N1234",
+            "local": "CAH 102 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1404318",
+        "name": "TEORIAS DO TEXTO I ASPECTOS LINGUIST",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+          "GDMI0120"
+        ]
+      },
+      {
+        "id": "1404383",
+        "name": "MULHER E LITERATURA  LING FRANC",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1301195",
+        "name": "FUNDAMENTOS  ANTROPOFILOSÓFICO DA EDUCAÇÃO",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1301195",
+            "turmaid": "02",
+            "nome": " FUNDAMENTOS  ANTROPOFILOSÓFICO DA EDUCAÇÃO",
+            "semester": "2018.2",
+            "professor": "ROBERTO RONDON",
+            "horario": "3M1234",
+            "local": "CAE 109 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1404188",
+        "name": "LINGUA FRANCESA I",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1404189",
+        "name": "INTRODUÇÃO AOS ESTUDOS LITERÁRIOS DE LÍNGUAS ESTRANGEIRAS",
+        "category": "Complementar Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1404189",
+            "turmaid": "01",
+            "nome": " INTRODUÇÃO AOS ESTUDOS LITERÁRIOS DE LÍNGUAS ESTRANGEIRAS",
+            "semester": "2018.2",
+            "professor": "VINICIUS FERNANDO DE FARIAS MEIRA",
+            "horario": "6N1234",
+            "local": "CAH 102 (PRG)"
+          },
+          {
+            "id": "1404189",
+            "turmaid": "02",
+            "nome": " INTRODUÇÃO AOS ESTUDOS LITERÁRIOS DE LÍNGUAS ESTRANGEIRAS",
+            "semester": "2018.2",
+            "professor": "JULIANA HENRIQUES DE LUNA FREIRE",
+            "horario": "6M3456",
+            "local": "CAE 105 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1404194",
+        "name": "CULTURA DOS POVOS DE LÍNGUA FRANCESA",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1404195",
+        "name": "METODOLOGIA DO TRABALHO CIENTIFICO",
+        "category": "Complementar Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1404195",
+            "turmaid": "01",
+            "nome": " METODOLOGIA DO TRABALHO CIENTIFICO",
+            "semester": "2018.2",
+            "professor": "PHILIO GENERINO TERZAKIS",
+            "horario": "4M1234",
+            "local": "CAG 102 (PRG)"
+          },
+          {
+            "id": "1404195",
+            "turmaid": "02",
+            "nome": " METODOLOGIA DO TRABALHO CIENTIFICO",
+            "semester": "2018.2",
+            "professor": "VINICIUS FERNANDO DE FARIAS MEIRA",
+            "horario": "5N1234",
+            "local": "CCHLA 513 (CCHLA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+          "GDMI0119"
+        ]
+      },
+      {
+        "id": "1301200",
+        "name": "FUNDAMENTOS SOCIOHISTÓRICOS DA EDUCAÇÃO",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1301200",
+            "turmaid": "03",
+            "nome": " FUNDAMENTOS SOCIOHISTÓRICOS DA EDUCAÇÃO",
+            "semester": "2018.2",
+            "professor": "ROMILDO RAPOSO FERNANDES",
+            "horario": "5M1234",
+            "local": "CCHLA 414 BLOCO I CENTRAL DE AULAS (CCHLA)"
+          },
+          {
+            "id": "1301200",
+            "turmaid": "08",
+            "nome": " FUNDAMENTOS SOCIOHISTÓRICOS DA EDUCAÇÃO",
+            "semester": "2018.2",
+            "professor": "FABIOLA BARROCAS TAVARES",
+            "horario": "3N1234",
+            "local": "CAD 103 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1301201",
+        "name": "FUNDAMENTOS PSICOLÓGICOS DA EDUCAÇÃO",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1301201",
+            "turmaid": "02",
+            "nome": " FUNDAMENTOS PSICOLÓGICOS DA EDUCAÇÃO",
+            "semester": "2018.2",
+            "professor": "A DEFINIR",
+            "horario": "4M1234",
+            "local": "CAH 108 (PRG)"
+          },
+          {
+            "id": "1301201",
+            "turmaid": "09",
+            "nome": " FUNDAMENTOS PSICOLÓGICOS DA EDUCAÇÃO",
+            "semester": "2018.2",
+            "professor": "REBECKA WANDERLEY TANNUSS",
+            "horario": "4N1234",
+            "local": "CAB 102 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1404205",
+        "name": "TEORIAS DA LINGUÍSTICA I",
+        "category": "Complementar Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1404205",
+            "turmaid": "01",
+            "nome": " TEORIAS DA LINGUÍSTICA I",
+            "semester": "2018.2",
+            "professor": "SANDRA HELENA GURGEL DANTAS DE MEDEIROS",
+            "horario": "2M3456",
+            "local": "CAE 105 (PRG)"
+          },
+          {
+            "id": "1404205",
+            "turmaid": "02",
+            "nome": " TEORIAS DA LINGUÍSTICA I",
+            "semester": "2018.2",
+            "professor": "MAURA REGINA DA SILVA DOURADO",
+            "horario": "2N1234",
+            "local": "CAG 105 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1404211",
+        "name": "TEORIA LITERÁRIA I",
+        "category": "Complementar Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1404211",
+            "turmaid": "01",
+            "nome": " TEORIA LITERÁRIA I",
+            "semester": "2018.2",
+            "professor": "MARTA PRAGANA DANTAS",
+            "horario": "6M3456",
+            "local": "CAF 108 (PRG)"
+          },
+          {
+            "id": "1404211",
+            "turmaid": "02",
+            "nome": " TEORIA LITERÁRIA I",
+            "semester": "2018.2",
+            "professor": "MARTA PRAGANA DANTAS",
+            "horario": "5N1234",
+            "local": "CAF 108 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1404247",
+        "name": "LÍNGUA FRANCESA NÍVEL BÁSICO II",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1404247",
+            "turmaid": "01",
+            "nome": " LÍNGUA FRANCESA NÍVEL BÁSICO II",
+            "semester": "2018.2",
+            "professor": "SANDRA HELENA GURGEL DANTAS DE MEDEIROS",
+            "horario": "26M12",
+            "local": "CAH 101 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1404254",
+        "name": "FONÉTICA E FONOLOGIA DA LÍNGUA FRANCESA I",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1404254",
+            "turmaid": "01",
+            "nome": " FONÉTICA E FONOLOGIA DA LÍNGUA FRANCESA I",
+            "semester": "2018.2",
+            "professor": "SANDRA HELENA GURGEL DANTAS DE MEDEIROS",
+            "horario": "3M1234",
+            "local": "CAH 105 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1302105",
+        "name": "DIDÁTICA",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1302105",
+            "turmaid": "01",
+            "nome": " DIDÁTICA",
+            "semester": "2018.2",
+            "professor": "JOSEVAL DOS REIS MIRANDA",
+            "horario": "4M56 6M34",
+            "local": "CCHLA 413 BLOCO I CENTRAL DE AULAS (CCHLA)"
+          },
+          {
+            "id": "1302105",
+            "turmaid": "09",
+            "nome": " DIDÁTICA",
+            "semester": "2018.2",
+            "professor": "ISOLDA AYRES VIANA RAMOS",
+            "horario": "4N1234",
+            "local": "CAB 105 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1404206",
+        "name": "TEORIAS DA LINGUÍSTICA II",
+        "category": "Complementar Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1404206",
+            "turmaid": "01",
+            "nome": " TEORIAS DA LINGUÍSTICA II",
+            "semester": "2018.2",
+            "professor": "ELAINE ESPINDOLA BALDISSERA",
+            "horario": "3M1234",
+            "local": "CAE 105 (PRG)"
+          },
+          {
+            "id": "1404206",
+            "turmaid": "02",
+            "nome": " TEORIAS DA LINGUÍSTICA II",
+            "semester": "2018.2",
+            "professor": "FABIO ALEXANDRE SILVA BEZERRA",
+            "horario": "2N1234",
+            "local": "CAH 101 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1404210",
+        "name": "INTRODUÇÃO AOS ESTUDOS DA TRADUÇÃO",
+        "category": "Complementar Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1404210",
+            "turmaid": "01",
+            "nome": " INTRODUÇÃO AOS ESTUDOS DA TRADUÇÃO",
+            "semester": "2018.2",
+            "professor": "JOSE ROBERTO ANDRADE FERES",
+            "horario": "4M1234",
+            "local": "CAE 105 (PRG)"
+          },
+          {
+            "id": "1404210",
+            "turmaid": "02",
+            "nome": " INTRODUÇÃO AOS ESTUDOS DA TRADUÇÃO",
+            "semester": "2018.2",
+            "professor": "JOSE ROBERTO ANDRADE FERES",
+            "horario": "6N1234",
+            "local": "CCHLA 412 BLOCO I CENTRAL DE AULAS (CCHLA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1404212",
+        "name": "TEORIA LITERÁRIA II",
+        "category": "Complementar Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1404212",
+            "turmaid": "01",
+            "nome": " TEORIA LITERÁRIA II",
+            "semester": "2018.2",
+            "professor": "LUCIA FATIMA FERNANDES NOBRE",
+            "horario": "2M3456",
+            "local": "CAF 108 (PRG)"
+          },
+          {
+            "id": "1404212",
+            "turmaid": "02",
+            "nome": " TEORIA LITERÁRIA II",
+            "semester": "2018.2",
+            "professor": "GLORIA MARIA OLIVEIRA GAMA e GENILDA ALVES DE AZEREDO",
+            "horario": "5N1234",
+            "local": "CAG 104 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1404248",
+        "name": "LÍNGUA FRANCESA NÍVEL BÁSICO III",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1404255",
+        "name": "FONÉTICA E FONOLOGIA DA LÍNGUA FRANCESA II",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1303208",
+        "name": "POLITICA EDUCACIONAL DA EDUCACAO BASICA",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1303208",
+            "turmaid": "04",
+            "nome": " POLITICA EDUCACIONAL DA EDUCACAO BASICA",
+            "semester": "2018.2",
+            "professor": "SURYA AARONOVICH POMBO DE BARROS",
+            "horario": "5N1234",
+            "local": "CE 321 (CE)"
+          },
+          {
+            "id": "1303208",
+            "turmaid": "05",
+            "nome": " POLITICA EDUCACIONAL DA EDUCACAO BASICA",
+            "semester": "2018.2",
+            "professor": "VIRGINIA DE OLIVEIRA SILVA",
+            "horario": "5M1234",
+            "local": "CCHLA 420 BLOCO A 1º ANDAR (CCHLA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+          "1303180"
+        ]
+      },
+      {
+        "id": "1404207",
+        "name": "PESQUISA APLICADA AO ENSINO DE LÍNGUAS ESTRANGEIRAS",
+        "category": "Complementar Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1404207",
+            "turmaid": "01",
+            "nome": " PESQUISA APLICADA AO ENSINO DE LÍNGUAS ESTRANGEIRAS",
+            "semester": "2018.2",
+            "professor": "BARTHYRA CABRAL VIEIRA DE ANDRADE",
+            "horario": "3M1234",
+            "local": "CAE 107 (PRG)"
+          },
+          {
+            "id": "1404207",
+            "turmaid": "02",
+            "nome": " PESQUISA APLICADA AO ENSINO DE LÍNGUAS ESTRANGEIRAS",
+            "semester": "2018.2",
+            "professor": "BARTHYRA CABRAL VIEIRA DE ANDRADE",
+            "horario": "6N1234",
+            "local": "CAG 104 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1404240",
+        "name": "ESTÁGIO SUPERVISIONADO I ( INGLÊS/FRANCÊS/ESPANHOL)",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1404240",
+            "turmaid": "01",
+            "nome": " ESTÁGIO SUPERVISIONADO I ( INGLÊS/FRANCÊS/ESPANHOL)",
+            "semester": "2018.2",
+            "professor": "ANDREA BURITY DIALECTAQUIZ",
+            "horario": "6M3456",
+            "local": "CCHLA 416 BLOCO I CENTRAL DE AULAS (CCHLA)"
+          },
+          {
+            "id": "1404240",
+            "turmaid": "02",
+            "nome": " ESTÁGIO SUPERVISIONADO I ( INGLÊS/FRANCÊS/ESPANHOL)",
+            "semester": "2018.2",
+            "professor": "PHILIO GENERINO TERZAKIS",
+            "horario": "4N1234",
+            "local": "CAE 109 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1404249",
+        "name": "LÍNGUA FRANCESA NÍVEL INTERMEDIÁRIO I",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1404249",
+            "turmaid": "01",
+            "nome": " LÍNGUA FRANCESA NÍVEL INTERMEDIÁRIO I",
+            "semester": "2018.2",
+            "professor": "AGLAE MARIA ARAUJO FERNANDES",
+            "horario": "2M34 4M12",
+            "local": "CAH 106 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1404256",
+        "name": "PRÁTICA DE LEITURA E PRODUÇÃO TEXTUAL EM LÍNGUA FRANCESA I",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1404256",
+            "turmaid": "01",
+            "nome": " PRÁTICA DE LEITURA E PRODUÇÃO TEXTUAL EM LÍNGUA FRANCESA I",
+            "semester": "2018.2",
+            "professor": "AGLAE MARIA ARAUJO FERNANDES",
+            "horario": "26M12",
+            "local": "CAH 105 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1404258",
+        "name": "LITERATURA FRANCESA I",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1404258",
+            "turmaid": "01",
+            "nome": " LITERATURA FRANCESA I",
+            "semester": "2018.2",
+            "professor": "VINICIUS FERNANDO DE FARIAS MEIRA",
+            "horario": "4M3456",
+            "local": "CAF 108 (PRG)"
+          },
+          {
+            "id": "1404258",
+            "turmaid": "02",
+            "nome": " LITERATURA FRANCESA I",
+            "semester": "2018.2",
+            "professor": "VINICIUS FERNANDO DE FARIAS MEIRA",
+            "horario": "4N1234",
+            "local": "CCHLA 416 BLOCO I CENTRAL DE AULAS (CCHLA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1404250",
+        "name": "LÍNGUA FRANCESA NÍVEL INTERMEDIÁRIO II",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1404257",
+        "name": "PRÁTICA DE LEITURA E PRODUÇÃO TEXTUAL EM LÍNGUA FRANCESA II",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1404257",
+            "turmaid": "01",
+            "nome": " PRÁTICA DE LEITURA E PRODUÇÃO TEXTUAL EM LÍNGUA FRANCESA II",
+            "semester": "2018.2",
+            "professor": "PHILIO GENERINO TERZAKIS",
+            "horario": "2N1234",
+            "local": "CAE 109 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1404259",
+        "name": "LITERATURA FRANCESA II",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1404260",
+        "name": "LITERATURA FRANCESA III",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDLEM0100",
+        "name": "ESTÁGIO SUPERVISIONADO II ( INGLÊS/FRANCÊS/ESPANHOL)",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDLEM0100",
+            "turmaid": "01",
+            "nome": " ESTÁGIO SUPERVISIONADO II ( INGLÊS/FRANCÊS/ESPANHOL)",
+            "semester": "2018.2",
+            "professor": "ANGÉLICA ARAUJO DE MELO MAIA e BARBARA CABRAL FERREIRA",
+            "horario": "5M1234",
+            "local": "CAG 105 (PRG)"
+          },
+          {
+            "id": "GDLEM0100",
+            "turmaid": "02",
+            "nome": " ESTÁGIO SUPERVISIONADO II ( INGLÊS/FRANCÊS/ESPANHOL)",
+            "semester": "2018.2",
+            "professor": "WALISON PAULINO DE ARAUJO COSTA",
+            "horario": "3N1234",
+            "local": "CCHLA 515 (CCHLA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDLS0024",
+        "name": "LIBRAS",
+        "category": "Complementar Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDLS0024",
+            "turmaid": "13",
+            "nome": " LIBRAS",
+            "semester": "2018.2",
+            "professor": "EVERTON DE LIMA SILVA",
+            "horario": "5N1234",
+            "local": "TS-2 (CCHLA)"
+          },
+          {
+            "id": "GDLS0024",
+            "turmaid": "17",
+            "nome": " LIBRAS",
+            "semester": "2018.2",
+            "professor": "MAYSA RAMOS VIEIRA",
+            "horario": "3M2345",
+            "local": "TS-2 (CCHLA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1404209",
+        "name": "ESTUDOS PRAGMÁTICOS EM LÍNGUA ESTRANGEIRA",
+        "category": "Complementar Obrigatória",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1404209",
+            "turmaid": "01",
+            "nome": " ESTUDOS PRAGMÁTICOS EM LÍNGUA ESTRANGEIRA",
+            "semester": "2018.2",
+            "professor": "BARBARA CABRAL FERREIRA",
+            "horario": "3M3456",
+            "local": "CAG 105 (PRG)"
+          },
+          {
+            "id": "1404209",
+            "turmaid": "02",
+            "nome": " ESTUDOS PRAGMÁTICOS EM LÍNGUA ESTRANGEIRA",
+            "semester": "2018.2",
+            "professor": "BETANIA PASSOS MEDRADO",
+            "horario": "6N1234",
+            "local": "CCHLA 515 (CCHLA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1404251",
+        "name": "LÍNGUA FRANCESA NÍVEL INTERMEDIÁRIO III",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1404251",
+            "turmaid": "01",
+            "nome": " LÍNGUA FRANCESA NÍVEL INTERMEDIÁRIO III",
+            "semester": "2018.2",
+            "professor": "LAVINIA TEIXEIRA GOMES",
+            "horario": "2M56 4M34",
+            "local": "CAE 109 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1404261",
+        "name": "LITERATURA FRANCESA IV",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1404261",
+            "turmaid": "01",
+            "nome": " LITERATURA FRANCESA IV",
+            "semester": "2018.2",
+            "professor": "KARINA CHIANCA VENANCIO",
+            "horario": "5M1234",
+            "local": "CAE 109 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1404262",
+        "name": "LITERATURA FRANCESA V",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1404262",
+            "turmaid": "01",
+            "nome": " LITERATURA FRANCESA V",
+            "semester": "2018.2",
+            "professor": "KARINA CHIANCA VENANCIO",
+            "horario": "2M1234",
+            "local": "CAE 109 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDLEM0101",
+        "name": "ESTÁGIO SUPERVISIONADO III ( INGLÊS/FRANCÊS/ESPANHOL)",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDLEM0101",
+            "turmaid": "01",
+            "nome": " ESTÁGIO SUPERVISIONADO III ( INGLÊS/FRANCÊS/ESPANHOL)",
+            "semester": "2018.2",
+            "professor": "LAVINIA TEIXEIRA GOMES",
+            "horario": "34M12",
+            "local": "CAG 105 (PRG)"
+          },
+          {
+            "id": "GDLEM0101",
+            "turmaid": "02",
+            "nome": " ESTÁGIO SUPERVISIONADO III ( INGLÊS/FRANCÊS/ESPANHOL)",
+            "semester": "2018.2",
+            "professor": "MAURA REGINA DA SILVA DOURADO",
+            "horario": "5N1234",
+            "local": "CCHLA 515 (CCHLA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDLEM0102",
+        "name": "ESTÁGIO SUPERVISIONADO IV ( INGLÊS/FRANCÊS/ESPANHOL)",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDLEM0102",
+            "turmaid": "01",
+            "nome": " ESTÁGIO SUPERVISIONADO IV ( INGLÊS/FRANCÊS/ESPANHOL)",
+            "semester": "2018.2",
+            "professor": "CARLA LYNN REICHMANN",
+            "horario": "6M1234",
+            "local": "CAG 101 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1404267",
+        "name": "TÓPICOS ESPECIAIS EM LITERATURA FRANCESA",
+        "category": "Complementar Flexiva",
+        "semester": 7,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1404268",
+        "name": "TÓPICOS ESPECIAIS EM LITERATURAS DE EXPRESSÃO FRANCESA",
+        "category": "Complementar Flexiva",
+        "semester": 7,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1404252",
+        "name": "LÍNGUA FRANCESA NÍVEL AVANÇADO I",
+        "category": "Obrigatória",
+        "semester": 7,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1404263",
+        "name": "LITERATURAS DE EXPRESSÃO FRANCESA",
+        "category": "Obrigatória",
+        "semester": 7,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1404263",
+            "turmaid": "01",
+            "nome": " LITERATURAS DE EXPRESSÃO FRANCESA",
+            "semester": "2018.2",
+            "professor": "AGLAE MARIA ARAUJO FERNANDES",
+            "horario": "3N1234",
+            "local": "CCHLA 509 (CCHLA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1404274",
+        "name": "ESTÁGIO SUPERVISIONADO V  FRANCÊS",
+        "category": "Obrigatória",
+        "semester": 7,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1404275",
+        "name": "ESTÁGIO SUPERVISIONADO VI  FRANCÊS",
+        "category": "Obrigatória",
+        "semester": 7,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1404275",
+            "turmaid": "01",
+            "nome": " ESTÁGIO SUPERVISIONADO VI  FRANCÊS",
+            "semester": "2018.2",
+            "professor": "PHILIO GENERINO TERZAKIS",
+            "horario": "6N1234",
+            "local": "CCHLA 506 (CCHLA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1404328",
+        "name": "TEORIAS DO TEXTO II ASPECTOS LINGUIST",
+        "category": "Optativa",
+        "semester": 8,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1404373",
+        "name": "TRADUÇÃO E CULTURA I",
+        "category": "Optativa",
+        "semester": 8,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+          "GDMI0108"
+        ]
+      },
+      {
+        "id": "1404396",
+        "name": "TRADUÇÃO E CULTURA II",
+        "category": "Optativa",
+        "semester": 8,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1404213",
+        "name": "TRABALHO DE CONCLUSÃO DE CURSO TCC",
+        "category": "Complementar Obrigatória",
+        "semester": 8,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1404213",
+            "turmaid": "01",
+            "nome": " TRABALHO DE CONCLUSÃO DE CURSO TCC",
+            "semester": "2018.2",
+            "professor": "ANA BERENICE PERES MARTORELLI",
+            "horario": "7M1234",
+            "local": "CCHLA 403 BLOCO IV (CCHLA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1404253",
+        "name": "LÍNGUA FRANCESA NÍVEL AVANÇADO II",
+        "category": "Obrigatória",
+        "semester": 8,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1404253",
+            "turmaid": "01",
+            "nome": " LÍNGUA FRANCESA NÍVEL AVANÇADO II",
+            "semester": "2018.2",
+            "professor": "LAVINIA TEIXEIRA GOMES",
+            "horario": "4M56 6M34",
+            "local": "CAG 105 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1404276",
+        "name": "ESTÁGIO SUPERVISIONADO VII  FRANCÊS",
+        "category": "Obrigatória",
+        "semester": 8,
+        "workload": "0h aula 60h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1404276",
+            "turmaid": "01",
+            "nome": " ESTÁGIO SUPERVISIONADO VII  FRANCÊS",
+            "semester": "2018.2",
+            "professor": "KARINA CHIANCA VENANCIO",
+            "horario": "3M1234",
+            "local": "CAG 103 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1302304",
+        "name": " AVALIACAO DA APRENDIZAGEM",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": "60h",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1302304",
+            "turmaid": "04",
+            "nome": " AVALIACAO DA APRENDIZAGEM",
+            "semester": "2018.2",
+            "professor": "MARIA DA CONCEICAO GOMES DE MIRANDA",
+            "horario": "3T2345",
+            "local": "CAE 106 (PRG)"
+          },
+          {
+            "id": "1302304",
+            "turmaid": "06",
+            "nome": " AVALIACAO DA APRENDIZAGEM",
+            "semester": "2018.2",
+            "professor": "IRANETE DE ARAÚJO MEIRA",
+            "horario": "6N1234",
+            "local": "CE 306 (CE)"
+          },
+          {
+            "id": "1302304",
+            "turmaid": "07",
+            "nome": " AVALIACAO DA APRENDIZAGEM",
+            "semester": "2018.2",
+            "professor": "IDELSUITE DE SOUSA LIMA",
+            "horario": "2M1234",
+            "local": "CE 306 (CE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1303212",
+        "name": " EDUCACAO ESPECIAL",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": "60h",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1303212",
+            "turmaid": "01",
+            "nome": " EDUCACAO ESPECIAL",
+            "semester": "2018.2",
+            "professor": "IZAURA MARIA DE ANDRADE DA SILVA",
+            "horario": "5N1234",
+            "local": "CE 304 (CE)"
+          },
+          {
+            "id": "1303212",
+            "turmaid": "02",
+            "nome": " EDUCACAO ESPECIAL",
+            "semester": "2018.2",
+            "professor": "SANDRA ALVES DA SILVA SANTIAGO",
+            "horario": "6M1234",
+            "local": "CE 303 (CE)"
+          },
+          {
+            "id": "1303212",
+            "turmaid": "03",
+            "nome": " EDUCACAO ESPECIAL",
+            "semester": "2018.2",
+            "professor": "ADENIZE QUEIROZ DE FARIAS",
+            "horario": "4T1234",
+            "local": "CE 303 (CE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1303209",
+        "name": " EDUCACAO E TECNOLOGIA",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": "60h",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1303209",
+            "turmaid": "03",
+            "nome": " EDUCACAO E TECNOLOGIA",
+            "semester": "2018.2",
+            "professor": "LEBIAM TAMAR GOMES SILVA",
+            "horario": "6T1234",
+            "local": "CE 303 (CE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1404385",
+        "name": " MULHER E LITERATURA  LING INGLESA",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": "60h",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1404385",
+            "turmaid": "01",
+            "nome": " MULHER E LITERATURA  LING INGLESA",
+            "semester": "2018.2",
+            "professor": "RENATA GONCALVES GOMES",
+            "horario": "4M1234",
+            "local": "CAF 109 (PRG)"
+          },
+          {
+            "id": "1404385",
+            "turmaid": "02",
+            "nome": " MULHER E LITERATURA  LING INGLESA",
+            "semester": "2018.2",
+            "professor": "RENATA GONCALVES GOMES",
+            "horario": "2N1234",
+            "local": "CAH 106 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      }
+    ]
+  }
+}

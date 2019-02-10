@@ -1,0 +1,1150 @@
+{
+  "curriculum": {
+    "id": "572010",
+    "codigo": "1626862",
+    "name": "ANTROPOLOGIA -CCAE - Rio Tinto - Presencial - ANTROP SOCIAL - N - BACHARELADO",
+    "faculty": "CENTRO DE CIÊNCIAS APLICADAS E EDUCAÇÃO (CCAE) (11.00.59)",
+    "minch": "195",
+    "maxch": "390",
+    "semesters": 9,
+    "courses": [
+      {
+        "id": "8101259",
+        "name": "TECNICAS E ESTETICAS DO AUDIOVISUAL I",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8101261",
+        "name": "ANTROPOLOGIA DA RELIGIÃO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8101265",
+        "name": "TOPICOS ESPECIAIS EM ANTROPOLOGIA I",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8101267",
+        "name": "TECNICAS E ESTETICAS DO AUDIO VISUAL II",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8101267",
+            "turmaid": "01",
+            "nome": " TECNICAS E ESTETICAS DO AUDIO VISUAL II",
+            "semester": "2018.2",
+            "professor": "OSWALDO GIOVANNINI JUNIOR",
+            "horario": "4N1234",
+            "local": "R.A-204 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+          "8101259"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8101283",
+        "name": "ANTROPOLOGIA VISUAL I",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8101283",
+            "turmaid": "01",
+            "nome": " ANTROPOLOGIA VISUAL I",
+            "semester": "2018.2",
+            "professor": "JOAO MARTINHO BRAGA DE MENDONCA",
+            "horario": "3N1234",
+            "local": "R.A-203 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8101284",
+        "name": "ANTROPOLOGIA VISUAL II",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8101286",
+        "name": "MOV SOCIAIS E TEORIAS DO RECONHECIMENTO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8101287",
+        "name": "ANTROPOLOGIA FILOSOFICA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8101292",
+        "name": "TOPICOS ESPECIAIS EM ANTROPOLOGIA II",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8101298",
+        "name": "ANTROPOLOGIA DA ARTE",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8101300",
+        "name": "INICIAÇÃO À FOTOGRAFIA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8101303",
+        "name": "ANTROPOLOGIA E DIREITOS HUMANOS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8101303",
+            "turmaid": "01",
+            "nome": " ANTROPOLOGIA E DIREITOS HUMANOS",
+            "semester": "2018.2",
+            "professor": "ESTEVAO MARTINS PALITOT",
+            "horario": "5N1234",
+            "local": "R.A-204 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8101319",
+        "name": "LAZER E SOCIABILIDADE URBANA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8101319",
+            "turmaid": "01",
+            "nome": " LAZER E SOCIABILIDADE URBANA",
+            "semester": "2018.2",
+            "professor": "ALESSA CRISTINA PEREIRA DE SOUZA",
+            "horario": "2N1234",
+            "local": "R.A-203 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8101320",
+        "name": "ANTROPOLOGIA E HISTORIA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8101321",
+        "name": "ANTROPOLOGIA ECOMUNICAÇÃO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8101322",
+        "name": "ANTROPOLOGIA E LITERATURA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8101323",
+        "name": "TERRITORIO E MEIO AMBIENTE",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8101323",
+            "turmaid": "01",
+            "nome": " TERRITORIO E MEIO AMBIENTE",
+            "semester": "2018.2",
+            "professor": "RUTH HENRIQUE DA SILVA",
+            "horario": "4N1234",
+            "local": "R.A-203 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8101324",
+        "name": "INGLES INSTRUMENTAL",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8101325",
+        "name": "SOCIOLOGIA BRASILEIRA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8101326",
+        "name": "PROCESSOS RITUAIS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8101327",
+        "name": "ANTROPOLOGIA ECON E DA TECNOLOGIA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8101334",
+        "name": "LIBRASLINGUA BRASILEIRA DE SINAIS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8101110",
+        "name": "FUND DO PENSAMENTO ANTROPOLOGICO",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8101111",
+        "name": "FUND DO PENSAMENTO SOCIOLOGICO",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8101112",
+        "name": "FUND DO PENSAMENTO POLITICO",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8101131",
+        "name": "FILOSOFIA DAS CIENCIAS",
+        "category": "Complementar Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8101314",
+        "name": "METODOLOGIA DO TRAB CIENTIFICO",
+        "category": "Complementar Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8101180",
+        "name": "TEORIA ANTROPOLOGICA CLASSICA",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8101180",
+            "turmaid": "01",
+            "nome": " TEORIA ANTROPOLOGICA CLASSICA",
+            "semester": "2018.2",
+            "professor": "OSWALDO GIOVANNINI JUNIOR",
+            "horario": "5N1234",
+            "local": "R.A-201 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+          "8101110"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8101181",
+        "name": "TEORIA SOCIOLOGICA CLASSICA",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8101181",
+            "turmaid": "01",
+            "nome": " TEORIA SOCIOLOGICA CLASSICA",
+            "semester": "2018.2",
+            "professor": "LUZIANA MARQUES DA FONSECA SILVA",
+            "horario": "3N1234",
+            "local": "R.A-201 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+          "8101111"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8101182",
+        "name": "TEORIA DO ESTADO",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8101182",
+            "turmaid": "01",
+            "nome": " TEORIA DO ESTADO",
+            "semester": "2018.2",
+            "professor": "BALTAZAR MACAIBA DE SOUSA",
+            "horario": "2N1234",
+            "local": "R.A-201 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+          "8101112"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8101233",
+        "name": "INTRODUCAO A ETNODOCUMENTACAO",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8101233",
+            "turmaid": "01",
+            "nome": " INTRODUCAO A ETNODOCUMENTACAO",
+            "semester": "2018.2",
+            "professor": "LARA SANTOS DE AMORIM e DARLLAN NEVES DA ROCHA",
+            "horario": "6N1234",
+            "local": "R.A-201 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8101335",
+        "name": "SEMINARIOS DE PESQ EM ANTROPOLOGIA",
+        "category": "Complementar Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8101335",
+            "turmaid": "01",
+            "nome": " SEMINARIOS DE PESQ EM ANTROPOLOGIA",
+            "semester": "2018.2",
+            "professor": "ALESSA CRISTINA PEREIRA DE SOUZA",
+            "horario": "4N1234",
+            "local": "R.A-201 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8101221",
+        "name": "TEORIA SOCIOLOGICA CONTEMPORANEA",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "8101181"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8101276",
+        "name": "TEORIA ANTROPOLÓGICA I",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "8101180"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8101280",
+        "name": "INTRODUÇÃO A ANTROPOLOGIA VISUAL",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8105001",
+        "name": "LEITURA E PRODUÇÃO TEXTUAL",
+        "category": "Complementar Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+          "8105002"
+        ]
+      },
+      {
+        "id": "8108112",
+        "name": "FORMAÇÃO ECONOMICA E POLITICA DO BRASIL",
+        "category": "Complementar Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8101223",
+        "name": "ESTUDOS ETNOGRAFICOS",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8101223",
+            "turmaid": "01",
+            "nome": " ESTUDOS ETNOGRAFICOS",
+            "semester": "2018.2",
+            "professor": "KELLY EMANUELLY DE OLIVEIRA",
+            "horario": "5N1234",
+            "local": "R.A-202 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8101243",
+        "name": "MET DE MENSURACAO E ANALISE DE DADOS",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8101243",
+            "turmaid": "01",
+            "nome": " MET DE MENSURACAO E ANALISE DE DADOS",
+            "semester": "2018.2",
+            "professor": "JOSEILME FERNANDES GOUVEIA",
+            "horario": "4N1234",
+            "local": "R.A-202 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8101257",
+        "name": "MEMORIA NARRATIVA E ORALIDADE",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8101257",
+            "turmaid": "01",
+            "nome": " MEMORIA NARRATIVA E ORALIDADE",
+            "semester": "2018.2",
+            "professor": "LARA SANTOS DE AMORIM e DARLLAN NEVES DA ROCHA",
+            "horario": "3N1234",
+            "local": "R.A-202 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8101277",
+        "name": "TEORIA ANTROPOLÓGICA II",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8101277",
+            "turmaid": "01",
+            "nome": " TEORIA ANTROPOLÓGICA II",
+            "semester": "2018.2",
+            "professor": "ALEXANDRA BARBOSA DA SILVA e NATALIA DE CAMPOS",
+            "horario": "6N1234",
+            "local": "R.A-202 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+          "8101276",
+          "8101222"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8101328",
+        "name": "ANTROPOLOGIA BRASILEIRA",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8101328",
+            "turmaid": "01",
+            "nome": " ANTROPOLOGIA BRASILEIRA",
+            "semester": "2018.2",
+            "professor": "ESTEVAO MARTINS PALITOT",
+            "horario": "2N1234",
+            "local": "R.A-202 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8101262",
+        "name": "IDENTIDADE E RELAÇÕES INTERETNICAS",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8101264",
+        "name": "ANTROPOLOGIA URBANA",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8101317",
+        "name": "ESTUDOS RURAIS",
+        "category": "Complementar Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8101329",
+        "name": "ESTUDOS AFROBRASILEIROS",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8101266",
+        "name": "ETNOLOGIA INDIGENA",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8101266",
+            "turmaid": "01",
+            "nome": " ETNOLOGIA INDIGENA",
+            "semester": "2018.2",
+            "professor": "RUTH HENRIQUE DA SILVA",
+            "horario": "6N1234",
+            "local": "R.A-204 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+          "8101262"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8101282",
+        "name": "PATRIMONIO MATERIAL E IMATERIAL",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8101282",
+            "turmaid": "01",
+            "nome": " PATRIMONIO MATERIAL E IMATERIAL",
+            "semester": "2018.2",
+            "professor": "ANTONIO MANOEL ELIBIO JUNIOR",
+            "horario": "3N1234",
+            "local": "R.A-204 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+          "8101257"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8101285",
+        "name": "GENERO CORPO E GERAÇÃO",
+        "category": "Complementar Obrigatória",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8101285",
+            "turmaid": "01",
+            "nome": " GENERO CORPO E GERAÇÃO",
+            "semester": "2018.2",
+            "professor": "MARCO AURELIO PAZ TELLA",
+            "horario": "2N1234",
+            "local": "R.A-204 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8101331",
+        "name": "ESTAGIO SUPERVISIONADO I",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "90h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8101331",
+            "turmaid": "01",
+            "nome": " ESTAGIO SUPERVISIONADO I",
+            "semester": "2018.2",
+            "professor": "KELLY EMANUELLY DE OLIVEIRA",
+            "horario": "7T123456",
+            "local": "R.A-203 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8101315",
+        "name": "ORGANIZAÇÃO SOCIAL E PARENTESCO",
+        "category": "Complementar Obrigatória",
+        "semester": 7,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8101315",
+            "turmaid": "01",
+            "nome": " ORGANIZAÇÃO SOCIAL E PARENTESCO",
+            "semester": "2018.2",
+            "professor": "LARA ERENDIRA DE ANDRADE e FABIO MURA",
+            "horario": "6N1234",
+            "local": "R.A-203 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+          "8101266"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8101332",
+        "name": "ESTAGIO SUPERVISIONADO II",
+        "category": "Obrigatória",
+        "semester": 7,
+        "workload": "90h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8101332",
+            "turmaid": "01",
+            "nome": " ESTAGIO SUPERVISIONADO II",
+            "semester": "2018.2",
+            "professor": "ALESSA CRISTINA PEREIRA DE SOUZA",
+            "horario": "7T123456",
+            "local": "R.A-106 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+          "8101331"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8101270",
+        "name": "ANTROPOLOGIA POLITICA",
+        "category": "Complementar Obrigatória",
+        "semester": 8,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8101318",
+        "name": "LAUDOS ANTROPOLOGICOS",
+        "category": "Obrigatória",
+        "semester": 8,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "8101262"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8101333",
+        "name": "ESTAGIO SUPERVISIONADO III",
+        "category": "Obrigatória",
+        "semester": 8,
+        "workload": "90h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8101333",
+            "turmaid": "01",
+            "nome": " ESTAGIO SUPERVISIONADO III",
+            "semester": "2018.2",
+            "professor": "LUZIANA MARQUES DA FONSECA SILVA",
+            "horario": "7T123456",
+            "local": "R.A-204 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+          "8101332"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8101293",
+        "name": "TRABALHO DE CONCLUSÃO DE CURSO",
+        "category": "Complementar Obrigatória",
+        "semester": 9,
+        "workload": "135h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8101293",
+            "turmaid": "01",
+            "nome": " ANTROPOLOGIA",
+            "semester": "2018.2",
+            "professor": "BALTAZAR MACAIBA DE SOUSA",
+            "horario": "7M123456 7N123",
+            "local": "R.A-202 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      }
+    ]
+  }
+}

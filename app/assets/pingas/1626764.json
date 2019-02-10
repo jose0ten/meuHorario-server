@@ -1,0 +1,1154 @@
+{
+  "curriculum": {
+    "id": "0322005",
+    "codigo": "1626764",
+    "name": "ADMINISTRAÇÃO - CCHSA - Bananeiras - Presencial - N - BACHARELADO",
+    "faculty": "CENTRO DE CIÊNCIAS HUMANAS SOCIAIS E AGRÁRIAS (CCHSA) (11.00.45)",
+    "minch": "300",
+    "maxch": "540",
+    "semesters": 9,
+    "courses": [
+      {
+        "id": "4101180",
+        "name": "GESTAO AMBIENTAL",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4101185",
+        "name": "LINGUA ESPANHOLA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4101186",
+        "name": "LÍNGUA INGLESA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4101187",
+        "name": "LINGUA PORTUGUESA INSTRUMENTAL",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4101196",
+        "name": "SOCIOLOGIA DO TRABALHO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4101216",
+        "name": "TEA GESTAO COM PESSOAS AVANCADAS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4101234",
+        "name": "LIBRAS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4103123",
+        "name": "ELABORACAO E ANALISE DE PROJETOS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "4103123",
+            "turmaid": "01",
+            "nome": " ELABORACAO E ANALISE DE PROJETOS",
+            "semester": "2018.2",
+            "professor": "MILENE FELIX DE ALMEIDA",
+            "horario": "46T45",
+            "local": "BL ALCIDES 10 (CCHSA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4103126",
+        "name": "ESTAGIO NO AGRONEGOCIO III",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "4103126",
+            "turmaid": "01",
+            "nome": " ESTAGIO NO AGRONEGOCIO III",
+            "semester": "2018.2",
+            "professor": "GABRIELA TAVARES DOS SANTOS",
+            "horario": "6T45",
+            "local": "BL PED/ADM 06 (CCHSA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4101184",
+        "name": "INTRODUCAO A FILOSOFIA",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4101189",
+        "name": "METODOLOGIA DO ESTUDO CIENTIFICO",
+        "category": "Complementar Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4101194",
+        "name": "PSICOLOGIA DAS ORGANIZACOES",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4101195",
+        "name": "RELACOES DE TRABALHO E POLITICA",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4101198",
+        "name": "TEORIA GERAL DA ADMINISTRACAO I",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4101162",
+        "name": "ADMINISTRACAO EMPREENDEDORA",
+        "category": "Optativa",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "4101198",
+          "4101074"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4103122",
+        "name": "ADMINISTRACAO RURAL",
+        "category": "Optativa",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "4101198",
+          "4101074"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4101172",
+        "name": "ETICA EMPRESARIAL",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4101179",
+        "name": "FUNDAMENTOS DE MATEMATICA SUPERIOR",
+        "category": "Complementar Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4101190",
+        "name": "METODOLOGIA DA PESQUISA CIENTIFICA",
+        "category": "Complementar Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4101197",
+        "name": "SOCIOLOGIA DAS ORGANIZACOES",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4101199",
+        "name": "TEORIA GERAL DA ADMINISTRACAO II",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "4101198",
+          "4101074"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4101174",
+        "name": "ESTAGIO NO COOPERATIVISMO I",
+        "category": "Optativa",
+        "semester": 3,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4101193",
+        "name": "PESQUISA OPERACIONAL",
+        "category": "Optativa",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "4101179",
+          "4101045"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4103124",
+        "name": "ESTAGIO NO AGRONEGOCIO I",
+        "category": "Optativa",
+        "semester": 3,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "4103124",
+            "turmaid": "01",
+            "nome": " ESTAGIO NO AGRONEGOCIO I",
+            "semester": "2018.2",
+            "professor": "CLEBER BRITO DE SOUZA",
+            "horario": "45T6",
+            "local": "BL PED/ADM 06 (CCHSA)"
+          },
+          {
+            "id": "4103124",
+            "turmaid": "02",
+            "nome": " ESTAGIO NO AGRONEGOCIO I",
+            "semester": "2018.2",
+            "professor": "CLEBER BRITO DE SOUZA",
+            "horario": "5M2 6T1",
+            "local": "BL PED/ADM 06 (CCHSA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4101153",
+        "name": "ADMIN DAS ARQUITETURAS ORGANIZACIONAIS",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "4101198",
+          "4101074"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4101171",
+        "name": "ECONOMIA DE EMPRESAS",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4101177",
+        "name": "ESTATISTICA I",
+        "category": "Complementar Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "4101179",
+          "4101045"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4101183",
+        "name": "INFORMATICA EMPRESARIAL",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4101192",
+        "name": "PLANEJAMENTO ESTATEGICO ORGANIZACIONAL",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "4101198",
+          "4101074"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4101170",
+        "name": "ECONOMIA BRASILEIRA",
+        "category": "Optativa",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "4101171",
+          "4101049"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4101175",
+        "name": "ESTAGIO NO COOPERATIVISMO II",
+        "category": "Optativa",
+        "semester": 4,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "4101198"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4101191",
+        "name": "MERCADO DE CAPITAIS",
+        "category": "Optativa",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "4101171",
+          "4101049"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4101151",
+        "name": "ADMINISTRACAO DA PRODUCAO I",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "4101198"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4101165",
+        "name": "COMP E DESENV HUMAN NAS ORGANIZACOES",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4101166",
+        "name": "CONTABILIDADE PARA ADMINISTRADORES",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4101167",
+        "name": "DIREITO EMPRESARIAL I",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4101178",
+        "name": "ESTATISTICA II",
+        "category": "Complementar Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "4101177",
+          "4101046"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4101168",
+        "name": "DIREITO EMPRESARIAL II",
+        "category": "Optativa",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "4101167",
+          "4101057"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4101169",
+        "name": "DIREITO EMPRESARIAL III",
+        "category": "Optativa",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "4101167",
+          "4101057"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4101176",
+        "name": "ESTAGIO NO COOPERATIVISMO III",
+        "category": "Optativa",
+        "semester": 5,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4101152",
+        "name": "ADMINISTRACAO DA PRODUCAO II",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "4101151",
+          "4101065"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4101156",
+        "name": "ADMINSITRACAO DE PESSOAS I",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "4101194",
+          "4101072"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4101163",
+        "name": "ADMINISTRACAO DE COOPERATIVAS I",
+        "category": "Complementar Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "4101198",
+          "4101074"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4101188",
+        "name": "MATEMATICA FINANCEIRA",
+        "category": "Complementar Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4103125",
+        "name": "ESTAGIO NO AGRONEGOCIO II",
+        "category": "Optativa",
+        "semester": 6,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4101154",
+        "name": "ADMINISTRACAO DE MARKETING I",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "4101198",
+          "4101074"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4101157",
+        "name": "ADMINISTRACAO DE PESSOAS II",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "4101156",
+          "4101081"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4101164",
+        "name": "ADMINSITRACAO DE COOPERATIVAS II",
+        "category": "Complementar Obrigatória",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "4101198",
+          "4101074"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4101182",
+        "name": "GESTAO ESTRATEGICA DE CUSTOS",
+        "category": "Complementar Obrigatória",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "4101166",
+          "4101048"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4101201",
+        "name": "TOPICOS ESPECIAIS EM ADMINISTRACAO I",
+        "category": "Complementar Flexiva",
+        "semester": 7,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4101155",
+        "name": "ADMINISTRACAO DE MARKETING II",
+        "category": "Obrigatória",
+        "semester": 7,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "4101154",
+          "4101066"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4101158",
+        "name": "ADMINISTRACAO FINANCEIRA I",
+        "category": "Obrigatória",
+        "semester": 7,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "4101166",
+          "4101048"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4101160",
+        "name": "ADMIN DE RECURSOS MAT E PATRIMONIAS",
+        "category": "Obrigatória",
+        "semester": 7,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "4101198",
+          "4101074"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4103127",
+        "name": "FUNDAMENTOS DO AGRONEGOCIO",
+        "category": "Complementar Obrigatória",
+        "semester": 7,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "4103127",
+            "turmaid": "01",
+            "nome": " FUNDAMENTOS DO AGRONEGOCIO",
+            "semester": "2018.2",
+            "professor": "DANILO RAIMUNDO DE ARRUDA",
+            "horario": "6M23 4T45",
+            "local": "BL PED/ADM 08 (CCHSA)"
+          },
+          {
+            "id": "4103127",
+            "turmaid": "02",
+            "nome": " FUNDAMENTOS DO AGRONEGOCIO",
+            "semester": "2018.2",
+            "professor": "DANILO RAIMUNDO DE ARRUDA",
+            "horario": "2N12 3N34",
+            "local": "BL PED/ADM 01 (CCHSA)"
+          }
+        ],
+        "prerequisites": [
+          "4101153",
+          "4101077"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4101202",
+        "name": "TOPICOS ESPECIAIS EM ADMINISTRACAO II",
+        "category": "Complementar Flexiva",
+        "semester": 8,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4101159",
+        "name": "ADMINISTRACAO FINANCEIRA II",
+        "category": "Obrigatória",
+        "semester": 8,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "4101158",
+          "4101064"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4101161",
+        "name": "ADMIN DE SISTEMAS DE INFORMACOES",
+        "category": "Obrigatória",
+        "semester": 8,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "4101153",
+          "4101077"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4101181",
+        "name": "GESTAO DA QUALIDADE",
+        "category": "Obrigatória",
+        "semester": 8,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "4101198",
+          "4101074"
+        ],
+        "equivalences": [
+          "4101079"
+        ]
+      },
+      {
+        "id": "4103128",
+        "name": "JOGOS DE EMPRESAS AGROINDUSTRIAIS",
+        "category": "Complementar Obrigatória",
+        "semester": 8,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "4103128",
+            "turmaid": "01",
+            "nome": " JOGOS DE EMPRESAS AGROINDUSTRIAIS",
+            "semester": "2018.2",
+            "professor": "JAIRO DE PONTES GOMES",
+            "horario": "4M23 6T23",
+            "local": "BL PED/ADM 02 (CCHSA)"
+          }
+        ],
+        "prerequisites": [
+          "4101153",
+          "4101077"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4103129",
+        "name": "LOGISTICA DO AGRONEGOCIO",
+        "category": "Complementar Obrigatória",
+        "semester": 8,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "4101153",
+          "4101077"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4101173",
+        "name": "ESTAGIO SUPERVISIONADO",
+        "category": "Obrigatória",
+        "semester": 9,
+        "workload": "300h aula 0h lab.",
+        "type": "ESTÁGIO",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4101200",
+        "name": "TRABALHO DE CONCLUSADO DE CURSO",
+        "category": "Complementar Obrigatória",
+        "semester": 9,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "4101190",
+          "4101082"
+        ],
+        "equivalences": [
+
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,1947 @@
+{
+  "curriculum": {
+    "id": "152010",
+    "codigo": "1626787",
+    "name": "ECOLOGIA- CCAE - Rio Tinto - Presencial - MT - BACHARELADO",
+    "faculty": "CENTRO DE CIÊNCIAS APLICADAS E EDUCAÇÃO (CCAE) (11.00.59)",
+    "minch": "240",
+    "maxch": "390",
+    "semesters": 8,
+    "courses": [
+      {
+        "id": "8102164",
+        "name": "LIBRASLÍNGUA BRASILEIRA DE SINAISLN",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8103124",
+        "name": "ESTATISTICA I",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8104104",
+        "name": "PRINCIPIOS DE CARTOGRAFIA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8104115",
+        "name": "BOTANICA CRIPTOGAMICA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8104124",
+        "name": "HIDROLOGIA E RECURSOS HIDRICOS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8104126",
+        "name": "PEDOLOGIA E EDAFOLOGIA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8104151",
+        "name": "CADASTRAMENTO ZOOBOTANICO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8104197",
+        "name": "TÓPICOS ESPECIAIS EM ECOLOGIA I",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8104198",
+        "name": "TÓPICOS ESPECIAIS EM ECOLOGIA II",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8104199",
+        "name": "TÓPICOS ESPECIAIS EM ECOLOGIA III",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8104200",
+        "name": "AGROECOLOGIA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8104201",
+        "name": "BIOFÍSICA APLICADA A ECOLOGIA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8104204",
+        "name": "BIOLOGIA EVOLUTIVA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8104205",
+        "name": "CONTROLE BIOLOGICO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8104213",
+        "name": "ECOLOGIA HUMANA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8104214",
+        "name": "ECOLOGIA URBANA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8104214",
+            "turmaid": "01",
+            "nome": " ECOLOGIA URBANA",
+            "semester": "2018.2",
+            "professor": "JOEL SILVA DOS SANTOS",
+            "horario": "4M456",
+            "local": "R.E-105 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8104215",
+        "name": "ECOTURISMO E SUSTENTABILIDADE",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8104218",
+        "name": "FICOLOGIA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8104223",
+        "name": "INTERAÇÕES PLANTAANIMAL",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8104225",
+        "name": "INTRODUÇÃO A OCEANOGRAFIA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8104226",
+        "name": "INTRODUÇÃO A SISTEMATICA FILOGENETICA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8104229",
+        "name": "MICOLOGIA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8104229",
+            "turmaid": "01",
+            "nome": " MICOLOGIA",
+            "semester": "2018.2",
+            "professor": "DANIELLE KARLA ALVES DA SILVA",
+            "horario": "4T123",
+            "local": "R.A-101 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8105031",
+        "name": "LIBRASLINGUA BRASILEIRA DE SINAIS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDPMA0100",
+        "name": "PRINCÍPIOS DE CARTOGRAFIA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDPMA0101",
+        "name": "GEODIVERSIDADE E GEOCONSERVAÇÃO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8103100",
+        "name": "CALCULO",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8103100",
+            "turmaid": "01",
+            "nome": " CALCULO",
+            "semester": "2018.2",
+            "professor": "VANLEX GOMES GALDINO",
+            "horario": "4T1234",
+            "local": "R.A-104 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8103102",
+        "name": "FISICA",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8103102",
+            "turmaid": "01",
+            "nome": " FISICA",
+            "semester": "2018.2",
+            "professor": "ROBERTO MENEZES DA SILVA",
+            "horario": "2M45 2T12",
+            "local": "R.A-101 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8104100",
+        "name": "BIOLOGIA CELULAR",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8104100",
+            "turmaid": "01",
+            "nome": " BIOLOGIA CELULAR",
+            "semester": "2018.2",
+            "professor": "ANA PAVLA ALMEIDA DINIZ GURGEL",
+            "horario": "3M45 4M23",
+            "local": "R.E-105 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8104102",
+        "name": "FUNDAMENTOS DE ECOLOGIA",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8104102",
+            "turmaid": "01",
+            "nome": " FUNDAMENTOS DE ECOLOGIA",
+            "semester": "2018.2",
+            "professor": "FREDERICO GUSTAVO RODRIGUES FRANCA",
+            "horario": "35T12",
+            "local": "R.E-105 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8104103",
+        "name": "GEOLOGIA GERAL",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8104103",
+            "turmaid": "01",
+            "nome": " GEOLOGIA GERAL",
+            "semester": "2018.2",
+            "professor": "ANDERSON ALVES DOS SANTOS",
+            "horario": "5M2345",
+            "local": "R.E-105 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8104105",
+        "name": "QUIMICA GERAL",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8104105",
+            "turmaid": "01",
+            "nome": " QUIMICA GERAL",
+            "semester": "2018.2",
+            "professor": "WILLIAME FARIAS RIBEIRO",
+            "horario": "23M23",
+            "local": "R.E-105 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8104128",
+        "name": "GENETICA E EVOLUCAO",
+        "category": "Optativa",
+        "semester": 2,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8104128",
+            "turmaid": "01",
+            "nome": " GENETICA E EVOLUCAO",
+            "semester": "2018.2",
+            "professor": "ANA PAVLA ALMEIDA DINIZ GURGEL",
+            "horario": "3T123",
+            "local": "R.A-101 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+          "8104100"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8104109",
+        "name": "METODOLOGIA DO TRABALHO CIENTIFICO",
+        "category": "Complementar Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8104109",
+            "turmaid": "01",
+            "nome": " METODOLOGIA DO TRABALHO CIENTIFICO",
+            "semester": "2018.2",
+            "professor": "ELAINE FOLLY RAMOS",
+            "horario": "6M2345",
+            "local": "R.E-106 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8104110",
+        "name": "MICROBIOLOGIA AMBIENTAL",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8104110",
+            "turmaid": "01",
+            "nome": " MICROBIOLOGIA AMBIENTAL",
+            "semester": "2018.2",
+            "professor": "RAFAEL LUIS GALDINI RAIMUNDO",
+            "horario": "3T123",
+            "local": "R.E-106 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8104111",
+        "name": "CLIMATOLOGIA E METEOROLOGIA",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8104111",
+            "turmaid": "01",
+            "nome": " CLIMATOLOGIA E METEOROLOGIA",
+            "semester": "2018.2",
+            "professor": "LINCOLN ELOI DE ARAUJO",
+            "horario": "4M456",
+            "local": "R.E-106 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8104112",
+        "name": "ZOOLOGIA DOS INVERTEBRADOS",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8104112",
+            "turmaid": "01",
+            "nome": " ZOOLOGIA DOS INVERTEBRADOS",
+            "semester": "2018.2",
+            "professor": "ALMIR FERRAZ FILHO",
+            "horario": "3M45 5M23",
+            "local": "R.E-106 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8104113",
+        "name": "QUIMICA ORGANICA",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8104113",
+            "turmaid": "01",
+            "nome": " QUIMICA ORGANICA",
+            "semester": "2018.2",
+            "professor": "WILLIAME FARIAS RIBEIRO",
+            "horario": "2M456",
+            "local": "R.E-106 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8104114",
+        "name": "GEOMORFOLOGIA",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8104114",
+            "turmaid": "01",
+            "nome": " GEOMORFOLOGIA",
+            "semester": "2018.2",
+            "professor": "LEONARDO FIGUEIREDO DE MENESES",
+            "horario": "5M456",
+            "local": "R.E-106 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+          "8104103"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8104121",
+        "name": "MORFOLOGIA E ANATOMIA VEGETAL",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8104121",
+            "turmaid": "01",
+            "nome": " MORFOLOGIA E ANATOMIA VEGETAL",
+            "semester": "2018.2",
+            "professor": "ZELMA GLEBYA MACIEL QUIRINO",
+            "horario": "24M23",
+            "local": "R.E-106 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8104202",
+        "name": "BIOLOGIA DE ARACNÍDEOS",
+        "category": "Optativa",
+        "semester": 3,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8104207",
+        "name": "ECOLOGIA DA POLINIZAÇÃO",
+        "category": "Optativa",
+        "semester": 3,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "8104121"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8104216",
+        "name": "ENTOMOLOGIA",
+        "category": "Optativa",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "8104112"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8104217",
+        "name": "CLIMA URBANO",
+        "category": "Optativa",
+        "semester": 3,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8104221",
+        "name": "GEOMORFOLOGIA COSTEIRA",
+        "category": "Optativa",
+        "semester": 3,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "8104114"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8104122",
+        "name": "BIOESTATISTICA",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8104122",
+            "turmaid": "01",
+            "nome": " BIOESTATISTICA",
+            "semester": "2018.2",
+            "professor": "RAFAEL LUIS GALDINI RAIMUNDO",
+            "horario": "3M456",
+            "local": "R.A-101 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8104123",
+        "name": "BIOQUIMICA",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8104123",
+            "turmaid": "01",
+            "nome": " BIOQUIMICA",
+            "semester": "2018.2",
+            "professor": "ANA PAVLA ALMEIDA DINIZ GURGEL",
+            "horario": "4M456",
+            "local": "R.A-101 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+          "8104113"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8104127",
+        "name": "ZOOLOGIA DE VERTEBRADOS",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8104127",
+            "turmaid": "01",
+            "nome": " ZOOLOGIA DE VERTEBRADOS",
+            "semester": "2018.2",
+            "professor": "ALMIR FERRAZ FILHO",
+            "horario": "3M23 5M45",
+            "local": "R.A-101 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+          "8104112"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8104138",
+        "name": "TAXONOMIA VEGETAL",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8104138",
+            "turmaid": "01",
+            "nome": " TAXONOMIA VEGETAL",
+            "semester": "2018.2",
+            "professor": "EVELISE MARCIA LOCATELLI DE SOUZA",
+            "horario": "25M23",
+            "local": "R.A-101 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+          "8104121"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8104141",
+        "name": "RECURSOS NATURAIS RENOVAVEIS",
+        "category": "Complementar Obrigatória",
+        "semester": 3,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8104141",
+            "turmaid": "01",
+            "nome": " RECURSOS NATURAIS RENOVAVEIS",
+            "semester": "2018.2",
+            "professor": "JOEL SILVA DOS SANTOS",
+            "horario": "5T123",
+            "local": "R.A-101 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8104150",
+        "name": "EDUCACAO AMBIENTAL",
+        "category": "Complementar Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8104150",
+            "turmaid": "01",
+            "nome": " EDUCACAO AMBIENTAL",
+            "semester": "2018.2",
+            "professor": "ANDERSON ALVES DOS SANTOS",
+            "horario": "6M2345",
+            "local": "R.A-101 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8104162",
+        "name": "ANALISE MULTIVARIADA P ECO E SISTEMATIC",
+        "category": "Optativa",
+        "semester": 4,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "8104122"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8104203",
+        "name": "BIOLOGIA DOS REPTEIS",
+        "category": "Optativa",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8104219",
+        "name": "FITOSSOCIOLOGIA",
+        "category": "Optativa",
+        "semester": 4,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8104219",
+            "turmaid": "01",
+            "nome": " FITOSSOCIOLOGIA",
+            "semester": "2018.2",
+            "professor": "ELAINE BERNINI",
+            "horario": "2T123",
+            "local": "R.E-106 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+          "8104138"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8104222",
+        "name": "ICTIOLOGIA",
+        "category": "Optativa",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "8104127"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8104224",
+        "name": "INTRODUÇÃO A ANÁLISE MULTIVARIADA",
+        "category": "Optativa",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "8103100",
+          "8104122"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8104227",
+        "name": "MASTOZOOLOGIA",
+        "category": "Optativa",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "8104127"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8104230",
+        "name": "ORNITOLOGIA",
+        "category": "Optativa",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "8104127"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8104232",
+        "name": "TECNICAS DE CAMPO APLIC A BOTANICA",
+        "category": "Optativa",
+        "semester": 4,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "8104138"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8104136",
+        "name": "ECOSSISTEMAS TERRESTRES",
+        "category": "Complementar Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8104136",
+            "turmaid": "01",
+            "nome": " ECOSSISTEMAS TERRESTRES",
+            "semester": "2018.2",
+            "professor": "ELAINE BERNINI e CARLA SORAIA SOARES DE CASTRO",
+            "horario": "2M23 5M56",
+            "local": "R.A-102 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+          "8104102"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8104137",
+        "name": "ECOFISIOLOGIA VEGETAL",
+        "category": "Complementar Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8104137",
+            "turmaid": "01",
+            "nome": " ECOFISIOLOGIA VEGETAL",
+            "semester": "2018.2",
+            "professor": "ZELMA GLEBYA MACIEL QUIRINO",
+            "horario": "24M45",
+            "local": "R.A-102 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+          "8104121"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8104139",
+        "name": "BIOGEOGRAFIA E PALEOECOLOGIA",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8104139",
+            "turmaid": "01",
+            "nome": " BIOGEOGRAFIA E PALEOECOLOGIA",
+            "semester": "2018.2",
+            "professor": "RAFAEL LUIS GALDINI RAIMUNDO",
+            "horario": "6M2345",
+            "local": "R.A-102 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8104140",
+        "name": "AUTOECOLOGIA",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8104140",
+            "turmaid": "01",
+            "nome": " AUTOECOLOGIA",
+            "semester": "2018.2",
+            "professor": "ELAINE FOLLY RAMOS",
+            "horario": "5M234",
+            "local": "R.A-102 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+          "8104102"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8104155",
+        "name": "QUIMICA AMBIENTAL",
+        "category": "Complementar Obrigatória",
+        "semester": 4,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8104155",
+            "turmaid": "01",
+            "nome": " QUIMICA AMBIENTAL",
+            "semester": "2018.2",
+            "professor": "EVIO EDUARDO CHAVES DE MELO",
+            "horario": "3M456",
+            "local": "R.A-102 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+          "8104105",
+          "8104113"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8104206",
+        "name": "ECOLOGIA COMPORTAMENTAL",
+        "category": "Optativa",
+        "semester": 5,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8104208",
+        "name": "ECOLOGIA DE MACROALGAS MARINHAS",
+        "category": "Optativa",
+        "semester": 5,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "8104137"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8104209",
+        "name": "ECOLOGIA DA PAISAGEM",
+        "category": "Optativa",
+        "semester": 5,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8104209",
+            "turmaid": "01",
+            "nome": " ECOLOGIA DA PAISAGEM",
+            "semester": "2018.2",
+            "professor": "NADJACLEIA VILAR ALMEIDA",
+            "horario": "3T123",
+            "local": "R.A-105 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+          "8104139"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8104125",
+        "name": "PESQUISA APLICADA A ECOLOGIA",
+        "category": "Complementar Obrigatória",
+        "semester": 5,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8104125",
+            "turmaid": "01",
+            "nome": " PESQUISA APLICADA A ECOLOGIA",
+            "semester": "2018.2",
+            "professor": "EVELISE MARCIA LOCATELLI DE SOUZA",
+            "horario": "2T123",
+            "local": "R.A-102 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8104135",
+        "name": "LEGISLACAO E DIREITO AMBIENTAL",
+        "category": "Complementar Obrigatória",
+        "semester": 5,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8104135",
+            "turmaid": "01",
+            "nome": " LEGISLACAO E DIREITO AMBIENTAL",
+            "semester": "2018.2",
+            "professor": "EVELISE MARCIA LOCATELLI DE SOUZA",
+            "horario": "5M456",
+            "local": "R.A-105 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8104149",
+        "name": "SENSORIAMENTO REMOTO E SIG",
+        "category": "Complementar Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8104149",
+            "turmaid": "01",
+            "nome": " SENSORIAMENTO REMOTO E SIG",
+            "semester": "2018.2",
+            "professor": "NADJACLEIA VILAR ALMEIDA",
+            "horario": "4M2345",
+            "local": "R.A-105 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8104152",
+        "name": "POLUICAO AMBIENTAL",
+        "category": "Complementar Obrigatória",
+        "semester": 5,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8104152",
+            "turmaid": "01",
+            "nome": " POLUICAO AMBIENTAL",
+            "semester": "2018.2",
+            "professor": "LINCOLN ELOI DE ARAUJO",
+            "horario": "3M456",
+            "local": "R.A-105 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+          "8104105"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8104153",
+        "name": "ECOSSISTEMAS AQUATICOS",
+        "category": "Complementar Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8104153",
+            "turmaid": "01",
+            "nome": " ECOSSISTEMAS AQUATICOS",
+            "semester": "2018.2",
+            "professor": "ELAINE BERNINI",
+            "horario": "35M23",
+            "local": "R.A-105 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+          "8104102"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8104154",
+        "name": "ECOLOGIA DE POPULACOES",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8104154",
+            "turmaid": "01",
+            "nome": " ECOLOGIA DE POPULACOES",
+            "semester": "2018.2",
+            "professor": "CARLA SORAIA SOARES DE CASTRO e FREDERICO GUSTAVO RODRIGUES FRANCA",
+            "horario": "2M456",
+            "local": "R.A-105 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+          "8104102"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8104156",
+        "name": "ESTAGIO SUPERVISIONADO I",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8104156",
+            "turmaid": "01",
+            "nome": " ESTAGIO SUPERVISIONADO I",
+            "semester": "2018.2",
+            "professor": "ZELMA GLEBYA MACIEL QUIRINO",
+            "horario": "4T1234",
+            "local": "RC 101 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8104212",
+        "name": "ECOLOGIA EXPERIMENTAL",
+        "category": "Optativa",
+        "semester": 6,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8104212",
+            "turmaid": "01",
+            "nome": " ECOLOGIA EXPERIMENTAL",
+            "semester": "2018.2",
+            "professor": "WILLIAME FARIAS RIBEIRO",
+            "horario": "2T123",
+            "local": "R.A-105 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+          "8104125"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8104220",
+        "name": "FUND DE ORIENT E NAVEG TERRESTRE",
+        "category": "Optativa",
+        "semester": 6,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "8104149"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8104228",
+        "name": "METODOS DE CONTROLE DE POLUIÇÃO",
+        "category": "Optativa",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "8104152"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8104157",
+        "name": "ECOLOGIA DE COMUNIDADES",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8104157",
+            "turmaid": "01",
+            "nome": " ECOLOGIA DE COMUNIDADES",
+            "semester": "2018.2",
+            "professor": "FREDERICO GUSTAVO RODRIGUES FRANCA",
+            "horario": "5M2345",
+            "local": "R.A-104 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+          "8104154"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8104158",
+        "name": "PLANEJAMENTO AMBIENTAL",
+        "category": "Complementar Obrigatória",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8104158",
+            "turmaid": "01",
+            "nome": " PLANEJAMENTO AMBIENTAL",
+            "semester": "2018.2",
+            "professor": "NADJACLEIA VILAR ALMEIDA",
+            "horario": "3M2345",
+            "local": "R.A-104 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+          "8104114"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8104159",
+        "name": "TRATAMENTO DE RESIDUOS E DE EFLUENTES",
+        "category": "Complementar Obrigatória",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8104159",
+            "turmaid": "01",
+            "nome": " TRATAMENTO DE RESIDUOS E DE EFLUENTES",
+            "semester": "2018.2",
+            "professor": "EVIO EDUARDO CHAVES DE MELO",
+            "horario": "4M2345",
+            "local": "R.A-104 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+          "8104105"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8104160",
+        "name": "METOD DE EST DE IMPACTOS AMBIENTAIS",
+        "category": "Complementar Obrigatória",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8104160",
+            "turmaid": "01",
+            "nome": " METOD DE EST DE IMPACTOS AMBIENTAIS",
+            "semester": "2018.2",
+            "professor": "LEONARDO FIGUEIREDO DE MENESES",
+            "horario": "6M2345",
+            "local": "R.A-104 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8104161",
+        "name": "ESTAGIO SUPERVISIONADO II",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8104161",
+            "turmaid": "01",
+            "nome": " ESTAGIO SUPERVISIONADO II",
+            "semester": "2018.2",
+            "professor": "EVELISE MARCIA LOCATELLI DE SOUZA e WILLIAME FARIAS RIBEIRO",
+            "horario": "2356T5",
+            "local": "R.E-205 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+          "8104156"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8104210",
+        "name": "ECOLOGIA DE AMBIENTES RECIFAIS",
+        "category": "Optativa",
+        "semester": 7,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "8104153",
+          "8104157"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8104211",
+        "name": "COSERV DE ECOS COSTEIROS E MARINHOS",
+        "category": "Optativa",
+        "semester": 7,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8104231",
+        "name": "RECUPERAÇÃO DE AREAS DEGRADADAS",
+        "category": "Optativa",
+        "semester": 7,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "8104160"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8104233",
+        "name": "TRATAMENTO DE RESIDUOS E DE EFLUENTES II",
+        "category": "Optativa",
+        "semester": 7,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "8104159"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8104191",
+        "name": "BIOLOGIA DA CONSERVAÇÃO",
+        "category": "Complementar Obrigatória",
+        "semester": 7,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8104191",
+            "turmaid": "02",
+            "nome": " BIOLOGIA DA CONSERVAÇÃO",
+            "semester": "2018.2",
+            "professor": "ELAINE FOLLY RAMOS",
+            "horario": "5T1234",
+            "local": "R.A-105 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+          "8104154"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8104192",
+        "name": "ESTÁGIO SUPERVISIONADO III",
+        "category": "Obrigatória",
+        "semester": 7,
+        "workload": "90h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8104192",
+            "turmaid": "01",
+            "nome": " ESTÁGIO SUPERVISIONADO III",
+            "semester": "2018.2",
+            "professor": "LEONARDO FIGUEIREDO DE MENESES",
+            "horario": "7M23456 7T1",
+            "local": "R.A-105 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+          "8104156"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8104193",
+        "name": "ECOFISIOLOGIA ANIMAL",
+        "category": "Complementar Obrigatória",
+        "semester": 7,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8104193",
+            "turmaid": "02",
+            "nome": " ECOFISIOLOGIA ANIMAL",
+            "semester": "2018.2",
+            "professor": "ALMIR FERRAZ FILHO",
+            "horario": "3T1234",
+            "local": "R.E-205 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+          "8104127"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8104194",
+        "name": "ECOLOGIA DE CAMPO",
+        "category": "Obrigatória",
+        "semester": 8,
+        "workload": "120h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8104194",
+            "turmaid": "01",
+            "nome": " ECOLOGIA DE CAMPO",
+            "semester": "2018.2",
+            "professor": "ANDERSON ALVES DOS SANTOS e FREDERICO GUSTAVO RODRIGUES FRANCA",
+            "horario": "4T123456 6T34",
+            "local": "R.E-205 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+          "8104157"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8104195",
+        "name": "ESTAGIO SUPERVISIONADO IV",
+        "category": "Obrigatória",
+        "semester": 8,
+        "workload": "90h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8104195",
+            "turmaid": "01",
+            "nome": " ESTAGIO SUPERVISIONADO IV",
+            "semester": "2018.2",
+            "professor": "ANDERSON ALVES DOS SANTOS e ELAINE FOLLY RAMOS",
+            "horario": "23T6 56T56",
+            "local": "R.A-105 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+          "8104161"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8104196",
+        "name": "TCCTRABALHO DE CONCL DE CURSO ECO",
+        "category": "Complementar Obrigatória",
+        "semester": 8,
+        "workload": "90h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8104196",
+            "turmaid": "01",
+            "nome": " TCCTRABALHO DE CONCL DE CURSO ECO",
+            "semester": "2018.2",
+            "professor": "EVIO EDUARDO CHAVES DE MELO",
+            "horario": "7M23456 7T1",
+            "local": "R.E-205 (CCAE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      }
+    ]
+  }
+}

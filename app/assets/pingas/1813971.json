@@ -1,0 +1,1319 @@
+{
+  "curriculum": {
+    "id": "662012",
+    "codigo": "1813971",
+    "name": "COMPUTAÇÃO / EAD - João Pessoa - A Distância - MT - LICENCIATURA PLENA",
+    "faculty": "CENTRO DE CIÊNCIAS EXATAS E DA NATUREZA (CCEN) (11.00.41)",
+    "minch": "240",
+    "maxch": "450",
+    "semesters": 8,
+    "courses": [
+      {
+        "id": "1201305",
+        "name": "ECONOMIA BRASILEIRA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1301289",
+        "name": "EDUCAÇÃO SEXUAL  UV",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1301301",
+        "name": "ANTROPOLOGIA DA EDUCAÇÃO  UV",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "5102020",
+        "name": "SOFTWARE EDUCACIONAL  UV",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "5102020",
+            "turmaid": "01",
+            "nome": " SOFTWARE EDUCACIONAL  UV",
+            "semester": "2018.2",
+            "professor": "ELIZABET MARIA SPOHR DE MEDEIROS",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "5102021",
+        "name": "INTRODUCAO A FILOSOFIA  UV",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "5102022",
+        "name": "MULTIMIDIA NA EDUCACAO  UV",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "5102031",
+        "name": "ECONOMIA DA EDUCACAO  UV",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "5102032",
+        "name": "PLANEJAMENTO E GESTAO ESCOLAR  UV",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "5102033",
+        "name": "EDUCACAO INCLUSIVA  UV",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "5102034",
+        "name": "AVALIACAO DA APRENDIZAGEM  UV",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "5102037",
+        "name": "SEMINARIO DE PROBATUAIS EM EDUCACAOUV",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "5102038",
+        "name": "INTRODRECURSOS AUDIOVEM EDUCACAOUV",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "5102038",
+            "turmaid": "01",
+            "nome": " INTRODRECURSOS AUDIOVEM EDUCACAOUV",
+            "semester": "2018.2",
+            "professor": "HERCILIO DE MEDEIROS SOUSA",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "5102039",
+        "name": "SEMINARIO DE EDUC AMBIENTAL  UV",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "5102040",
+        "name": "TOPICOS ESPECIAIS EM COMPUTACAO I  UV",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "5102041",
+        "name": "TOPICOS ESPECIAIS EM COMPUTACAO II  UV",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "5102042",
+        "name": "TOPICOS ESPECIAIS EM COMPUTACAO III  UV",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "5102043",
+        "name": "TOPICOS ESPECIAIS EM COMPUTACAO IV  UV",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDINF0124",
+        "name": "SOFTWARE EDUCACIONAL",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDINF0125",
+        "name": "TÓPICOS ESPECIAIS EM COMPUTAÇÃO I",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDINF0126",
+        "name": "TÓPICOS ESPECIAIS EM COMPUTAÇÃO II",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDINF0127",
+        "name": "TÓPICOS ESPECIAIS EM COMPUTAÇÃO III",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDINF0128",
+        "name": "TÓPICOS ESPECIAIS EM COMPUTAÇÃO IV",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "5103017",
+        "name": "INTRODUCAO A COMPUTACAO  UV",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "5103018",
+        "name": "INTRODUCAO A PROGRAMACAO  UV",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "5103019",
+        "name": "MATEMATICA ELEMENTAR  UV",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+          "GDCOC0085"
+        ]
+      },
+      {
+        "id": "5103021",
+        "name": "INTRODUCAO A EAD  UV",
+        "category": "Complementar Obrigatória",
+        "semester": 1,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "5103030",
+        "name": "FUNDSOCIOHISTORICOS DA EDUCUV",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "5103022",
+        "name": "CALCULO DIFERENCIAL E INTEGRAL  UV",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "5103023",
+        "name": "INGLES INSTRUMENTAL  UV",
+        "category": "Complementar Obrigatória",
+        "semester": 2,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "5103024",
+        "name": "FUNDAMENTOS PSICOLOGICOS DA EDUCAÇÃO UV",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "5103025",
+        "name": "LINGUAGEM DE PROGRAMACAO I  UV",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "5103025",
+            "turmaid": "01",
+            "nome": " LINGUAGEM DE PROGRAMACAO I  UV",
+            "semester": "2018.2",
+            "professor": "IGUATEMI EDUARDO DA FONSECA",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+          "5103018"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "5103026",
+        "name": "METODOLOGIA DO TRABALHO CIENTIFICO  UV",
+        "category": "Complementar Obrigatória",
+        "semester": 2,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "5102012",
+        "name": "MATEMATICA COMPUTACIONAL  UV",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "5102012",
+            "turmaid": "01",
+            "nome": " MATEMATICA COMPUTACIONAL  UV",
+            "semester": "2018.2",
+            "professor": "FELIPE ANTONIO GARCIA MORENO",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+          "5103022"
+        ],
+        "equivalences": [
+          "GDCOC0084"
+        ]
+      },
+      {
+        "id": "5102013",
+        "name": "FUNDAMENTAÇÃO ANTROPO",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "5102013",
+            "turmaid": "01",
+            "nome": " FUNDAMENTAÇÃO ANTROPO-FILOSOFICA DA EDUCACAO  UV",
+            "semester": "2018.2",
+            "professor": "MARCELA ZAMBONI LUCENA",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "5102014",
+        "name": "ETICA PROFISSIONAL  UV",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "5102014",
+            "turmaid": "01",
+            "nome": " ETICA PROFISSIONAL  UV",
+            "semester": "2018.2",
+            "professor": "JOAO CARLOS RODRIGUES PEREIRA",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+          "GDINF0120"
+        ]
+      },
+      {
+        "id": "5102015",
+        "name": "PESQUISA APLICADA A COMPUTACAO UV",
+        "category": "Complementar Obrigatória",
+        "semester": 3,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "5102015",
+            "turmaid": "01",
+            "nome": " PESQUISA APLICADA A COMPUTACAO UV",
+            "semester": "2018.2",
+            "professor": "GILBERTO FARIAS DE SOUSA FILHO",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+          "GDINF0122"
+        ]
+      },
+      {
+        "id": "5103020",
+        "name": "ESTRUTURAS DE DADOS  UV",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "5103020",
+            "turmaid": "01",
+            "nome": " ESTRUTURAS DE DADOS  UV",
+            "semester": "2018.2",
+            "professor": "JOSE MIGUEL AROZTEGUI MASSERA",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+          "5103025"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "5103031",
+        "name": "INTRODUÇÃO A ARQUITETURA DE COMPUTADORES  UV",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "5103031",
+            "turmaid": "01",
+            "nome": " INTRODUÇÃO A ARQUITETURA DE COMPUTADORES  UV",
+            "semester": "2018.2",
+            "professor": "ALISSON VASCONCELOS DE BRITO",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+          "5103017"
+        ],
+        "equivalences": [
+          "GDSCO0050"
+        ]
+      },
+      {
+        "id": "5102023",
+        "name": "INTRODUCAO AOS COMPILADORES  UV",
+        "category": "Optativa",
+        "semester": 4,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDSCO0057",
+        "name": "INTRODUÇÃO AOS COMPILADORES",
+        "category": "Optativa",
+        "semester": 4,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "5102016",
+        "name": "PROBABILIDADE E ESTATISTICA  UV",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "5102016",
+            "turmaid": "01",
+            "nome": " PROBABILIDADE E ESTATISTICA  UV",
+            "semester": "2018.2",
+            "professor": "ANDREA VANESSA ROCHA",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "5102017",
+        "name": "DIDATICA  UV",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "5102017",
+            "turmaid": "01",
+            "nome": " DIDATICA  UV",
+            "semester": "2018.2",
+            "professor": "DANIELLE ROUSY DIAS DA SILVA",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "5102018",
+        "name": "LINGUAGEM DE PROGRAMACAO II  UV",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "5102018",
+            "turmaid": "01",
+            "nome": " LINGUAGEM DE PROGRAMACAO II  UV",
+            "semester": "2018.2",
+            "professor": "LINCOLN DAVID NERY E SILVA",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+          "5103025"
+        ],
+        "equivalences": [
+          "GDINF0121"
+        ]
+      },
+      {
+        "id": "5102019",
+        "name": "ESTÁGIO SUPERVISIONADO I  UV",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "5102019",
+            "turmaid": "01",
+            "nome": " ESTÁGIO SUPERVISIONADO I  UV",
+            "semester": "2018.2",
+            "professor": "KELY DIANA VILLACORTA VILLACORTA",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+          "GDINF0115"
+        ]
+      },
+      {
+        "id": "5103032",
+        "name": "BANCO DE DADOS  UV",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "5103032",
+            "turmaid": "01",
+            "nome": " BANCO DE DADOS  UV",
+            "semester": "2018.2",
+            "professor": "VITOR MENEGHETTI UGULINO DE ARAUJO",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+          "5103020"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "5102024",
+        "name": "ESTÁGIO CURRICULAR SUPERVISIONADO II  UV",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "5102024",
+            "turmaid": "01",
+            "nome": " ESTÁGIO CURRICULAR SUPERVISIONADO II  UV",
+            "semester": "2018.2",
+            "professor": "GILBERTO FARIAS DE SOUSA FILHO",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+          "5102019",
+          "5102017"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "5102025",
+        "name": "SEMINÁRIOS TEMÁTICOS: OBJETOS DIGITAIS DE EDUCAÇÃO EM COMPUTAÇÃO",
+        "category": "Complementar Obrigatória",
+        "semester": 5,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "5102025",
+            "turmaid": "01",
+            "nome": " SEMINÁRIOS TEMÁTICOS: OBJETOS DIGITAIS DE EDUCAÇÃO EM COMPUTAÇÃO",
+            "semester": "2018.2",
+            "professor": "ANA PAULA PINTADO WYSE",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+          "5102018"
+        ],
+        "equivalences": [
+          "GDINF0123"
+        ]
+      },
+      {
+        "id": "5103033",
+        "name": "INTERFACE HUMANO",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+          "GDSCO0049"
+        ]
+      },
+      {
+        "id": "5103034",
+        "name": "COMPUTADORES E SOCIEDADE  UV",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "5103035",
+        "name": "ANALISES E PROJETO DE SISTEMAS  UV",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "5103035",
+            "turmaid": "01",
+            "nome": " ANALISES E PROJETO DE SISTEMAS  UV",
+            "semester": "2018.2",
+            "professor": "VITOR MENEGHETTI UGULINO DE ARAUJO",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+          "5102018"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "5103036",
+        "name": "SISTEMAS OPERACIONAIS  UV",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "5103031"
+        ],
+        "equivalences": [
+          "GDSCO0067"
+        ]
+      },
+      {
+        "id": "5102026",
+        "name": "ESTAGIO CUR SUPERVISIONADO III  UV",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "5102024"
+        ],
+        "equivalences": [
+          "GDINF0117"
+        ]
+      },
+      {
+        "id": "5102027",
+        "name": "SEMTEMCOMPUTACAO COMO CIENBASICA  UV",
+        "category": "Complementar Obrigatória",
+        "semester": 6,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "5102027",
+            "turmaid": "01",
+            "nome": " SEMTEMCOMPUTACAO COMO CIENBASICA  UV",
+            "semester": "2018.2",
+            "professor": "JOSILENE AIRES MOREIRA",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+          "5103037"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "5102028",
+        "name": "PRODUCAO DE MATERIAIS INSTRUCIONAISUV",
+        "category": "Complementar Obrigatória",
+        "semester": 6,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "5102028",
+            "turmaid": "01",
+            "nome": " PRODUCAO DE MATERIAIS INSTRUCIONAISUV",
+            "semester": "2018.2",
+            "professor": "HERCILIO DE MEDEIROS SOUSA",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "5103037",
+        "name": "TEORIA DA COMPUTACAO  UV",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "5103037",
+            "turmaid": "01",
+            "nome": " TEORIA DA COMPUTACAO  UV",
+            "semester": "2018.2",
+            "professor": "ANDREI DE ARAUJO FORMIGA",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+          "GDCOC0086"
+        ]
+      },
+      {
+        "id": "5103038",
+        "name": "ENGENHARIA DE SOFTWARE  UV",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "5103035"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "5103039",
+        "name": "REDES DE COMPUTADORES  UV",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "5103031"
+        ],
+        "equivalences": [
+          "GDSCO0061"
+        ]
+      },
+      {
+        "id": "5102029",
+        "name": "POLITICA E GESTAO DA EDUCACAO  UV",
+        "category": "Obrigatória",
+        "semester": 7,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "5102029",
+            "turmaid": "01",
+            "nome": " POLITICA E GESTAO DA EDUCACAO  UV",
+            "semester": "2018.2",
+            "professor": "ANDERSON MOEBUS RETONDAR",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "5102030",
+        "name": "ESTAGIO CUR SUPERVISIONADO IV  UV",
+        "category": "Obrigatória",
+        "semester": 7,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "5102030",
+            "turmaid": "01",
+            "nome": " ESTAGIO CUR SUPERVISIONADO IV  UV",
+            "semester": "2018.2",
+            "professor": "FELIPE ANTONIO GARCIA MORENO",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+          "5102026"
+        ],
+        "equivalences": [
+          "GDINF0118"
+        ]
+      },
+      {
+        "id": "5103040",
+        "name": "SISTEMAS WEB  UV",
+        "category": "Obrigatória",
+        "semester": 7,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "5103040",
+            "turmaid": "01",
+            "nome": " SISTEMAS WEB  UV",
+            "semester": "2018.2",
+            "professor": "RAONI KULESZA",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+          "5102018",
+          "5103039"
+        ],
+        "equivalences": [
+          "GDSCO0070"
+        ]
+      },
+      {
+        "id": "5103041",
+        "name": "AGENTES INTELIGENTES EM EDUCACAO  UV",
+        "category": "Obrigatória",
+        "semester": 7,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "5103041",
+            "turmaid": "01",
+            "nome": " AGENTES INTELIGENTES EM EDUCACAO  UV",
+            "semester": "2018.2",
+            "professor": "CLAUIRTON DE ALBUQUERQUE SIEBRA",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+          "5103020"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDLS0025",
+        "name": "LIBRAS UV",
+        "category": "Complementar Obrigatória",
+        "semester": 7,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDLS0025",
+            "turmaid": "01",
+            "nome": " LIBRAS UV",
+            "semester": "2018.2",
+            "professor": "EVERTON DE LIMA SILVA",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "5102035",
+        "name": "ESTAGIO CUR SUPERVISIONADO V  UV",
+        "category": "Obrigatória",
+        "semester": 8,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "5102035",
+            "turmaid": "01",
+            "nome": " ESTAGIO CUR SUPERVISIONADO V  UV",
+            "semester": "2018.2",
+            "professor": "KELY DIANA VILLACORTA VILLACORTA",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+          "5102030"
+        ],
+        "equivalences": [
+          "GDINF0119"
+        ]
+      },
+      {
+        "id": "5102036",
+        "name": "TRABALHO DE CONCLUSAO DE CURSO  UV",
+        "category": "Complementar Obrigatória",
+        "semester": 8,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "5102036",
+            "turmaid": "01",
+            "nome": " TRABALHO DE CONCLUSAO DE CURSO  UV",
+            "semester": "2018.2",
+            "professor": "DANIELLE ROUSY DIAS DA SILVA",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+          "GDINF0129"
+        ]
+      }
+    ]
+  }
+}

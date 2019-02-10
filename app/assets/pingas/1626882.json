@@ -1,0 +1,1706 @@
+{
+  "curriculum": {
+    "id": "102017",
+    "codigo": "1626882",
+    "name": "SERVIÇO SOCIAL - João Pessoa - Presencial - T - BACHARELADO",
+    "faculty": "CENTRO DE CIÊNCIAS HUMANAS, LETRAS E ARTES (CCHLA) (11.00.53)",
+    "minch": "120",
+    "maxch": "480",
+    "semesters": 8,
+    "courses": [
+      {
+        "id": "1403747",
+        "name": "LIBRAS  LÍNGUA BRASILEIRA DE SINAIS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1409151",
+        "name": "TOPICOS ESPECIAIS EM SERVICO SOCIAL II",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1409152",
+        "name": "TOPICOS ESPECIAIS EM SERVICO SOCIAL I",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1409153",
+        "name": "TOPICOS ESPECIAIS EM SERVICO SOCIAL III",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "75h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1409181",
+        "name": "POLITICA SOCIAL DA ASSISTENCIA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1409183",
+        "name": "POLITICA SOCIAL DA EDUCACAO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1409184",
+        "name": "POLIT SOC DA CIRANCA E DO ADOLESCENTE",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1409190",
+        "name": "TOPICOS ESPECIAIS EM SERVICO SOCIAL I",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1409191",
+        "name": "TOPICOS ESPECIAIS EM SERVICO SOCIAL II",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1409195",
+        "name": "POBREZA E EXCLUSAO SOCIAL",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1409195",
+            "turmaid": "01",
+            "nome": " POBREZA E EXCLUSAO SOCIAL",
+            "semester": "2018.2",
+            "professor": "MARIA DE FATIMA MELO DO NASCIMENTO",
+            "horario": "4T2345",
+            "local": "CCHLA 401  BLOCO IV (CCHLA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1409196",
+        "name": "TOPICOS ESPECIAIS EM SERVICO SOCIAL",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1409197",
+        "name": "DIREITOS HUMANOS E CIDADANIA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1409198",
+        "name": "TOPICOS ESPECIAIS EM PESQUISA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1409209",
+        "name": "TOPICOS ESPECIAIS EM POLITICA SOCIAL",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1409210",
+        "name": "TRABALHO NA CONTEMPORANEIDADE",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDSSC0110",
+        "name": "ATIVIDADES COMPLEMENTARES FLEXÍVEIS (MONITORIA)",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDSSC0111",
+        "name": "ATIVIDADES COMPLEMENTARES FLEXÍVEIS (CURSOS)",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDSSC0112",
+        "name": "ATIVIDADES COMPLEMENTARES FLEXÍVEIS (MINICURSOS E OFICINAS)",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDSSC0113",
+        "name": "FILOSOFIA POLITICA E CRITICA SOCIAL",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDSSC0113",
+            "turmaid": "01",
+            "nome": " FILOSOFIA POLITICA E CRITICA SOCIAL",
+            "semester": "2018.2",
+            "professor": "WÉCIO PINHEIRO ARAUJO",
+            "horario": "5N1234",
+            "local": "CCHLA 415 BLOCO I CENTRAL DE AULAS (CCHLA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDSSC0114",
+        "name": "INFLUENCIAS FILOSOFICAS NO SERVIÇO SOCIAL",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDSSC0115",
+        "name": "DESENVOLVIMENTO REGIONAL",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDSSC0116",
+        "name": "A QUESTÃO URBANA NO BRASIL",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDSSC0117",
+        "name": "FAMILIA E RELAÇÕES DE GENERO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDSSC0117",
+            "turmaid": "01",
+            "nome": " FAMILIA E RELAÇÕES DE GENERO",
+            "semester": "2018.2",
+            "professor": "LUZIANA RAMALHO RIBEIRO",
+            "horario": "4N1234",
+            "local": "CCHLA 403 BLOCO IV (CCHLA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDSSC0118",
+        "name": "CIDADANIA E DIREITOS HUMANOS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDSSC0118",
+            "turmaid": "01",
+            "nome": " CIDADANIA E DIREITOS HUMANOS",
+            "semester": "2018.2",
+            "professor": "MARIA DE NAZARE TAVARES ZENAIDE",
+            "horario": "5N1234",
+            "local": "CCHLA 413 BLOCO I CENTRAL DE AULAS (CCHLA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDSSC0119",
+        "name": "SERVIÇO SOCIAL E PROCESSOS DE TRABALHO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDSSC0120",
+        "name": "POLITICA DE PROTEÇÃO A CRIANÇA E AO ADOLESCENTE",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDSSC0120",
+            "turmaid": "01",
+            "nome": " POLITICA DE PROTEÇÃO A CRIANÇA E AO ADOLESCENTE",
+            "semester": "2018.2",
+            "professor": "MARLENE DE MELO BARBOZA ARAUJO",
+            "horario": "6T2345",
+            "local": "CCHLA 407 BLOCO IV (CCHLA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDSSC0121",
+        "name": "POLITICA DE SAUDE NO BRASIL",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDSSC0121",
+            "turmaid": "01",
+            "nome": " POLITICA DE SAUDE NO BRASIL",
+            "semester": "2018.2",
+            "professor": "PATRICIA BARRETO CAVALCANTI",
+            "horario": "6T2345",
+            "local": "CCHLA 403 BLOCO IV (CCHLA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDSSC0122",
+        "name": "POLITICA DE ASSISTENCIA SOCIAL",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDSSC0122",
+            "turmaid": "01",
+            "nome": " POLITICA DE ASSISTENCIA SOCIAL",
+            "semester": "2018.2",
+            "professor": "MARCIA EMILIA RODRIGUES NEVES",
+            "horario": "3N1234",
+            "local": "CCHLA 405 BLOCO IV (CCHLA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDSSC0123",
+        "name": "POLITICA DE PREVIDENCIA SOCIAL",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDSSC0123",
+            "turmaid": "01",
+            "nome": " POLITICA DE PREVIDENCIA SOCIAL",
+            "semester": "2018.2",
+            "professor": "MARCIA EMILIA RODRIGUES NEVES",
+            "horario": "4T2345",
+            "local": "CCHLA 405 BLOCO IV (CCHLA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDSSC0124",
+        "name": "POLITICA DE EDUCAÇAO NO BRASIL",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDSSC0124",
+            "turmaid": "01",
+            "nome": " POLITICA DE EDUCAÇAO NO BRASIL",
+            "semester": "2018.2",
+            "professor": "MAURICELIA CORDEIRA DA SILVA",
+            "horario": "5N1234",
+            "local": "CCHLA 414 BLOCO I CENTRAL DE AULAS (CCHLA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDSSC0125",
+        "name": "QUESTAO AMBIENTAL E POLITICAS PUBLICAS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDSSC0126",
+        "name": "TERCEIRO SETOR E SERVIÇO SOCIAL",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDSSC0127",
+        "name": "OFICINAS DE ELABORAÇAO DE PROJETOS SOCIAIS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDSSC0128",
+        "name": "QUESTAO AGRARIA NO BRASIL",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDSSC0129",
+        "name": "AVALIAÇAO, MONITORAMENTO E ORCAMENTO DE POLITICAS PUBLICAS SOCIAIS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDSSC0129",
+            "turmaid": "01",
+            "nome": " AVALIAÇAO, MONITORAMENTO E ORCAMENTO DE POLITICAS PUBLICAS SOCIAIS",
+            "semester": "2018.2",
+            "professor": "MARIA DAS GRACAS MIRANDA FERREIRA DA SILVA",
+            "horario": "4N1234",
+            "local": "CCHLA 413 BLOCO I CENTRAL DE AULAS (CCHLA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDSSC0130",
+        "name": "FORMACAO HISTORICA DO CAPITALISMO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDSSC0130",
+            "turmaid": "01",
+            "nome": " FORMACAO HISTORICA DO CAPITALISMO",
+            "semester": "2018.2",
+            "professor": "JAMERSON MURILLO ANUNCIACAO DE SOUZA",
+            "horario": "4N1234",
+            "local": "CCHLA 407 BLOCO IV (CCHLA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDSSC0131",
+        "name": "EDUCACAO POPULAR E SERVICO SOCIAL",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDSSC0131",
+            "turmaid": "01",
+            "nome": " EDUCACAO POPULAR E SERVICO SOCIAL",
+            "semester": "2018.2",
+            "professor": "ALINE MARIA BATISTA MACHADO",
+            "horario": "3N1234",
+            "local": "CCHLA 403 BLOCO IV (CCHLA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDSSC0132",
+        "name": "EDUCAÇAO DAS RELAÇOES ETNICO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDSSC0136",
+        "name": "ATIVIDADES COMPLEMENTARES FLEXÍVEIS (PESQUISA)",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDSSC0137",
+        "name": "ATIVIDADES COMPLEMENTARES FLEXÍVEIS (EXTENSÃO)",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDSSC0138",
+        "name": "ATIVIDADES COMPLEMENTARES FLEXÍVEIS (ESTAGIO EXTRA",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1401253",
+        "name": "FUND DO PENSAMENTO SOCIOLOGICO",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1401253",
+            "turmaid": "01",
+            "nome": " FUND DO PENSAMENTO SOCIOLOGICO",
+            "semester": "2018.2",
+            "professor": "MIQUELI MICHETTI",
+            "horario": "3N1234",
+            "local": "CCHLA 413 BLOCO I CENTRAL DE AULAS (CCHLA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1402240",
+        "name": "INTRODUCAO A FILOSOFIA",
+        "category": "Complementar Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1402240",
+            "turmaid": "05",
+            "nome": " INTRODUCAO A FILOSOFIA",
+            "semester": "2018.2",
+            "professor": "FRANCISCO DE ASSIS VALE CAVALCANTE FILHO e ANDERSON DARC FERREIRA",
+            "horario": "4N1234",
+            "local": "CCHLA 415 BLOCO I CENTRAL DE AULAS (CCHLA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1409156",
+        "name": "INTRODUCAO AO SERVICO SOCIAL",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1409156",
+            "turmaid": "01",
+            "nome": " INTRODUCAO AO SERVICO SOCIAL",
+            "semester": "2018.2",
+            "professor": "MARIA APARECIDA RAMOS DE MENESES",
+            "horario": "2N1234",
+            "local": "CCHLA 401  BLOCO IV (CCHLA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDHIS0102",
+        "name": "FORMAÇÃO SOCIAL DO BRASIL",
+        "category": "Complementar Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDHIS0102",
+            "turmaid": "01",
+            "nome": " FORMAÇÃO SOCIAL DO BRASIL",
+            "semester": "2018.2",
+            "professor": "Martinho Guedes dos Santos Neto",
+            "horario": "5N1234",
+            "local": "CCHLA 406 BLOCO IV (CCHLA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDSSC0135",
+        "name": "METODOLOGIA DO TRABALHO CIENTÍFICO",
+        "category": "Complementar Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDSSC0135",
+            "turmaid": "01",
+            "nome": " METODOLOGIA DO TRABALHO CIENTÍFICO",
+            "semester": "2018.2",
+            "professor": "CARLOS WENDELL PEDROSA DOS SANTOS",
+            "horario": "6N1234",
+            "local": "CCHLA 401  BLOCO IV (CCHLA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1401104",
+        "name": "ANTROPOLOGIA CULTURAL",
+        "category": "Complementar Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1401104",
+            "turmaid": "02",
+            "nome": " ANTROPOLOGIA CULTURAL",
+            "semester": "2018.2",
+            "professor": "MARIA TEREZA SANTANA DA COSTA RODRIGUES ALMEIDA",
+            "horario": "6T1234",
+            "local": "CAE 111 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1405188",
+        "name": "PSICOLOGIA SOCIAL I",
+        "category": "Complementar Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1405188",
+            "turmaid": "01",
+            "nome": " PSICOLOGIA SOCIAL I",
+            "semester": "2018.2",
+            "professor": "SANDRA LEAL DE MELO DAHIA",
+            "horario": "5T3456",
+            "local": "CCHLA 407 BLOCO IV (CCHLA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1409157",
+        "name": "FUNDAMENTOS  HISTORICOS  TEORICOS METODOLOGICOS  DO SERVIÇO  SOCIAL I",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1409157",
+            "turmaid": "01",
+            "nome": " FUNDAMENTOS  HISTORICOS  TEORICOS METODOLOGICOS  DO SERVIÇO  SOCIAL I",
+            "semester": "2018.2",
+            "professor": "DANIELLE VIANA LUGO PEREIRA",
+            "horario": "2T2345",
+            "local": "CCHLA 412 BLOCO I CENTRAL DE AULAS (CCHLA)"
+          }
+        ],
+        "prerequisites": [
+          "1409156"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1501137",
+        "name": "DIREITO E LEGIS SOCIAL",
+        "category": "Complementar Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1501137",
+            "turmaid": "01",
+            "nome": " DIREITO E LEGIS SOCIAL",
+            "semester": "2018.2",
+            "professor": "PAULLA CHRISTIANNE DA COSTA NEWTON",
+            "horario": "36N56",
+            "local": "CCHLA 418 BLOCO A (CCHLA)"
+          },
+          {
+            "id": "1501137",
+            "turmaid": "02",
+            "nome": " DIREITO E LEGIS SOCIAL",
+            "semester": "2018.2",
+            "professor": "ARNALDO JOSE DUARTE DO AMARAL",
+            "horario": "6N1234",
+            "local": "CCHLA 418 BLOCO A (CCHLA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+          "1502232"
+        ]
+      },
+      {
+        "id": "GDCSC0103",
+        "name": "TEORIA POLÍTICA CONTREMPORÂNEA",
+        "category": "Complementar Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDCSC0103",
+            "turmaid": "01",
+            "nome": " TEORIA POLÍTICA CONTREMPORÂNEA",
+            "semester": "2018.2",
+            "professor": "LUCIANA APARECIDA ALIAGA AZARA DE OLIVEIRA",
+            "horario": "4T2345",
+            "local": "CAE 111 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDSSC0102",
+        "name": "ECONOMIA POLÍTICA E SERVIÇO SOCIAL",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDSSC0102",
+            "turmaid": "01",
+            "nome": " ECONOMIA POLÍTICA E SERVIÇO SOCIAL",
+            "semester": "2018.2",
+            "professor": "JESSICA MARIA DE SOUZA MELO",
+            "horario": "35T12",
+            "local": "CCHLA 412 BLOCO I CENTRAL DE AULAS (CCHLA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1409136",
+        "name": "POLITICA SOCIAL I",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1409136",
+            "turmaid": "01",
+            "nome": " POLITICA SOCIAL I",
+            "semester": "2018.2",
+            "professor": "EDNA TANIA FERREIRA DA SILVA",
+            "horario": "2N1234",
+            "local": "CCHLA 412 BLOCO I CENTRAL DE AULAS (CCHLA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1409158",
+        "name": "FUNDAMENTOS  HISTORICOS  TEORICOS METODOLOGICOS  DO SERVIÇO SOCIAL II",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1409158",
+            "turmaid": "01",
+            "nome": " FUNDAMENTOS  HISTORICOS  TEORICOS METODOLOGICOS  DO SERVIÇO SOCIAL II",
+            "semester": "2018.2",
+            "professor": "ADATHIANE FARIAS DE ANDRADE e ANA PAULA ROCHA DE SALES MIRANDA",
+            "horario": "4N1234",
+            "local": "CCHLA 412 BLOCO I CENTRAL DE AULAS (CCHLA)"
+          }
+        ],
+        "prerequisites": [
+          "1409157"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1409163",
+        "name": "TRABALHO E SOCIABILIDADE",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1409163",
+            "turmaid": "01",
+            "nome": " TRABALHO E SOCIABILIDADE",
+            "semester": "2018.2",
+            "professor": "WÉCIO PINHEIRO ARAUJO",
+            "horario": "3N1234",
+            "local": "CCHLA 412 BLOCO I CENTRAL DE AULAS (CCHLA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1409186",
+        "name": "QUESTAO SOCIAL",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1409186",
+            "turmaid": "01",
+            "nome": " QUESTAO SOCIAL",
+            "semester": "2018.2",
+            "professor": "ANA LUCIA BATISTA AURINO",
+            "horario": "5N1234",
+            "local": "CCHLA 412 BLOCO I CENTRAL DE AULAS (CCHLA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1409137",
+        "name": "POLITICA SOCIAL II",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1409137",
+            "turmaid": "01",
+            "nome": " POLITICA SOCIAL II",
+            "semester": "2018.2",
+            "professor": "MARCELO SITCOVSKY SANTOS PEREIRA",
+            "horario": "4T2345",
+            "local": "CCHLA 403 BLOCO IV (CCHLA)"
+          }
+        ],
+        "prerequisites": [
+          "1409136"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1409159",
+        "name": "FUNDAMENTOS HISTORICOS  TEORICOS METODOLOGICOS DO SERVIÇO SOCIAL III",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1409159",
+            "turmaid": "01",
+            "nome": " FUNDAMENTOS HISTORICOS  TEORICOS METODOLOGICOS DO SERVIÇO SOCIAL III",
+            "semester": "2018.2",
+            "professor": "NIVIA CRISTIANE PEREIRA DA SILVA e KLEBER JOSÉ DA SILVA",
+            "horario": "3T2345",
+            "local": "CCHLA 403 BLOCO IV (CCHLA)"
+          }
+        ],
+        "prerequisites": [
+          "1409158",
+          "1409163",
+          "1409186"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1409168",
+        "name": "FUNDAMENTOS DA PESQUISA SOCIAL",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1409168",
+            "turmaid": "01",
+            "nome": " FUNDAMENTOS DA PESQUISA SOCIAL",
+            "semester": "2018.2",
+            "professor": "MARIA DE FATIMA MELO DO NASCIMENTO",
+            "horario": "2T2345",
+            "local": "CCHLA 403 BLOCO IV (CCHLA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1409170",
+        "name": "ETICA EM SERVICO SOCIAL",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1409170",
+            "turmaid": "01",
+            "nome": " ETICA EM SERVICO SOCIAL",
+            "semester": "2018.2",
+            "professor": "MARIA DE FATIMA LEITE GOMES",
+            "horario": "5T2345",
+            "local": "CCHLA 403 BLOCO IV (CCHLA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1409160",
+        "name": "FUNDAMENTOS HISTORICOS TEORICOS METODOLOGICOS DO SERVIÇO SOCIAL IV",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1409160",
+            "turmaid": "01",
+            "nome": " FUNDAMENTOS HISTORICOS TEORICOS METODOLOGICOS DO SERVIÇO SOCIAL IV",
+            "semester": "2018.2",
+            "professor": "JAMERSON MURILLO ANUNCIACAO DE SOUZA",
+            "horario": "2N1234",
+            "local": "CCHLA 405 BLOCO IV (CCHLA)"
+          }
+        ],
+        "prerequisites": [
+          "1409159"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1409173",
+        "name": "PESQUISA EM SERVICO SOCIAL",
+        "category": "Complementar Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1409173",
+            "turmaid": "01",
+            "nome": " PESQUISA EM SERVICO SOCIAL",
+            "semester": "2018.2",
+            "professor": "ELISANGELA DE OLIVEIRA INACIO",
+            "horario": "5N1234",
+            "local": "CCHLA 405 BLOCO IV (CCHLA)"
+          }
+        ],
+        "prerequisites": [
+          "1409168"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1409193",
+        "name": "INSTRUM TEC OPERATVOS EM SERV SOCIAL",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1409193",
+            "turmaid": "01",
+            "nome": " INSTRUM TEC OPERATVOS EM SERV SOCIAL",
+            "semester": "2018.2",
+            "professor": "ERLANE BANDEIRA DE MELO SIQUEIRA",
+            "horario": "4N1234",
+            "local": "CCHLA 405 BLOCO IV (CCHLA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDSSC0133",
+        "name": "MOVIMENTOS E LUTAS SOCIAIS",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDSSC0133",
+            "turmaid": "01",
+            "nome": " MOVIMENTOS E LUTAS SOCIAIS",
+            "semester": "2018.2",
+            "professor": "MARIA DE NAZARE TAVARES ZENAIDE",
+            "horario": "6N1234",
+            "local": "CCHLA 405 BLOCO IV (CCHLA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDSSC0103",
+        "name": "ESTÁGIO SUPERVIOSIONADO I",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "240h aula 0h lab.",
+        "type": "ESTÁGIO",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDSSC0104",
+        "name": "GESTÃO E PLANEJAMENTO EM POLÍTICAS SOCIAIS",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDSSC0104",
+            "turmaid": "01",
+            "nome": " GESTÃO E PLANEJAMENTO EM POLÍTICAS SOCIAIS",
+            "semester": "2018.2",
+            "professor": "PATRICIA BARRETO CAVALCANTI",
+            "horario": "3T2345",
+            "local": "CCHLA 405 BLOCO IV (CCHLA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDSSC0106",
+        "name": "ANALISE DE INDICADORES SOCIAIS",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDSSC0106",
+            "turmaid": "01",
+            "nome": " ANALISE DE INDICADORES SOCIAIS",
+            "semester": "2018.2",
+            "professor": "BERNADETE DE LOURDES FIGUEIREDO DE ALMEIDA",
+            "horario": "5T2345",
+            "local": "CCHLA 405 BLOCO IV (CCHLA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDSSC0134",
+        "name": "SUPERVISÃO EM SERVIÇO SOCIAL I",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDSSC0134",
+            "turmaid": "01",
+            "nome": " SUPERVISÃO EM SERVIÇO SOCIAL I",
+            "semester": "2018.2",
+            "professor": "ANA LUCIA BATISTA AURINO",
+            "horario": "7M1234",
+            "local": "CCHLA 509 (CCHLA)"
+          },
+          {
+            "id": "GDSSC0134",
+            "turmaid": "02",
+            "nome": " SUPERVISÃO EM SERVIÇO SOCIAL I",
+            "semester": "2018.2",
+            "professor": "ELISANGELA DE OLIVEIRA INACIO",
+            "horario": "7M1234",
+            "local": "CCHLA 505 (CCHLA)"
+          },
+          {
+            "id": "GDSSC0134",
+            "turmaid": "03",
+            "nome": " SUPERVISÃO EM SERVIÇO SOCIAL I",
+            "semester": "2018.2",
+            "professor": "ERLANE BANDEIRA DE MELO SIQUEIRA",
+            "horario": "7M1234",
+            "local": "CCHLA 507 (CCHLA)"
+          },
+          {
+            "id": "GDSSC0134",
+            "turmaid": "04",
+            "nome": " SUPERVISÃO EM SERVIÇO SOCIAL I",
+            "semester": "2018.2",
+            "professor": "MARCELO SITCOVSKY SANTOS PEREIRA",
+            "horario": "7M1234",
+            "local": "CCHLA 510 (CCHLA)"
+          },
+          {
+            "id": "GDSSC0134",
+            "turmaid": "05",
+            "nome": " SUPERVISÃO EM SERVIÇO SOCIAL I",
+            "semester": "2018.2",
+            "professor": "MARLENE DE MELO BARBOZA ARAUJO",
+            "horario": "7M1234",
+            "local": "CCHLA 421 BLOCO A 1º ANDAR (CCHLA)"
+          },
+          {
+            "id": "GDSSC0134",
+            "turmaid": "06",
+            "nome": " SUPERVISÃO EM SERVIÇO SOCIAL I",
+            "semester": "2018.2",
+            "professor": "MARIA DAS GRACAS MIRANDA FERREIRA DA SILVA",
+            "horario": "7M1234",
+            "local": "CCHLA 513 (CCHLA)"
+          },
+          {
+            "id": "GDSSC0134",
+            "turmaid": "07",
+            "nome": " SUPERVISÃO EM SERVIÇO SOCIAL I",
+            "semester": "2018.2",
+            "professor": "MARCIA EMILIA RODRIGUES NEVES",
+            "horario": "7M1234",
+            "local": "CCHLA 515 (CCHLA)"
+          },
+          {
+            "id": "GDSSC0134",
+            "turmaid": "08",
+            "nome": " SUPERVISÃO EM SERVIÇO SOCIAL I",
+            "semester": "2018.2",
+            "professor": "MARIA DE FATIMA LEITE GOMES",
+            "horario": "7M1234",
+            "local": "CCHLA 413 BLOCO I CENTRAL DE AULAS (CCHLA)"
+          },
+          {
+            "id": "GDSSC0134",
+            "turmaid": "09",
+            "nome": " SUPERVISÃO EM SERVIÇO SOCIAL I",
+            "semester": "2018.2",
+            "professor": "MARIA DE LOURDES SOARES",
+            "horario": "7M1234",
+            "local": "CCHLA 416 BLOCO I CENTRAL DE AULAS (CCHLA)"
+          },
+          {
+            "id": "GDSSC0134",
+            "turmaid": "10",
+            "nome": " SUPERVISÃO EM SERVIÇO SOCIAL I",
+            "semester": "2018.2",
+            "professor": "MAURICELIA CORDEIRA DA SILVA",
+            "horario": "7M1234",
+            "local": "CCHLA 415 BLOCO I CENTRAL DE AULAS (CCHLA)"
+          },
+          {
+            "id": "GDSSC0134",
+            "turmaid": "11",
+            "nome": " SUPERVISÃO EM SERVIÇO SOCIAL I",
+            "semester": "2018.2",
+            "professor": "MARIA AUXILIADORA LEITE BOTELHO",
+            "horario": "7M1234",
+            "local": "CCHLA 412 BLOCO I CENTRAL DE AULAS (CCHLA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDSSC0105",
+        "name": "ESTÁGIO SUPERVISIONADO II",
+        "category": "Obrigatória",
+        "semester": 7,
+        "workload": "240h aula 0h lab.",
+        "type": "ESTÁGIO",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "0103"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDSSC0107",
+        "name": "SUPERVISÃO EM SERVIÇO SOCIAL II",
+        "category": "Obrigatória",
+        "semester": 7,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDSSC0107",
+            "turmaid": "01",
+            "nome": " SUPERVISÃO EM SERVIÇO SOCIAL II",
+            "semester": "2018.2",
+            "professor": "MARIA AUXILIADORA LEITE BOTELHO",
+            "horario": "6M2345",
+            "local": "LAB LEPS - CCHLA - BLOCO C (CCHLA)"
+          },
+          {
+            "id": "GDSSC0107",
+            "turmaid": "02",
+            "nome": " SUPERVISÃO EM SERVIÇO SOCIAL II",
+            "semester": "2018.2",
+            "professor": "KLEBER JOSÉ DA SILVA",
+            "horario": "7M1234",
+            "local": "LAB LEPS - CCHLA - BLOCO C (CCHLA)"
+          },
+          {
+            "id": "GDSSC0107",
+            "turmaid": "03",
+            "nome": " SUPERVISÃO EM SERVIÇO SOCIAL II",
+            "semester": "2018.2",
+            "professor": "PATRÍCIA LARRISSA DE LIMA OLIVEIRA",
+            "horario": "7M1234",
+            "local": "CCHLA 418 BLOCO A (CCHLA)"
+          },
+          {
+            "id": "GDSSC0107",
+            "turmaid": "04",
+            "nome": " SUPERVISÃO EM SERVIÇO SOCIAL II",
+            "semester": "2018.2",
+            "professor": "MARIA DO SOCORRO DE SOUZA VIEIRA",
+            "horario": "7M1234",
+            "local": "CCHLA 420 BLOCO A 1º ANDAR (CCHLA)"
+          },
+          {
+            "id": "GDSSC0107",
+            "turmaid": "05",
+            "nome": " SUPERVISÃO EM SERVIÇO SOCIAL II",
+            "semester": "2018.2",
+            "professor": "VALERIA COSTA ALDECI DE OLIVEIRA",
+            "horario": "7M1234",
+            "local": "CCHLA 425 BLOCO A 2º ANDAR (CCHLA)"
+          },
+          {
+            "id": "GDSSC0107",
+            "turmaid": "06",
+            "nome": " SUPERVISÃO EM SERVIÇO SOCIAL II",
+            "semester": "2018.2",
+            "professor": "RAFAEL NICOLAU CARVALHO",
+            "horario": "7M1234",
+            "local": "CCHLA 422 BLOCO A 1º ANDAR (CCHLA)"
+          },
+          {
+            "id": "GDSSC0107",
+            "turmaid": "07",
+            "nome": " SUPERVISÃO EM SERVIÇO SOCIAL II",
+            "semester": "2018.2",
+            "professor": "CARLOS WENDELL PEDROSA DOS SANTOS",
+            "horario": "7M1234",
+            "local": "CCHLA 414 BLOCO I CENTRAL DE AULAS (CCHLA)"
+          }
+        ],
+        "prerequisites": [
+          "0134"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDSSC0108",
+        "name": "TRABALHO DE CONCLUSÃO DE CURSO I",
+        "category": "Complementar Obrigatória",
+        "semester": 7,
+        "workload": "120h aula 0h lab.",
+        "type": "TRABALHO DE CONCLUSÃO DE CURSO",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "0103",
+          "0105",
+          "0106"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDSSC0109",
+        "name": "TRABALHO DE CONCLUSÃO DE CURSO II",
+        "category": "Complementar Obrigatória",
+        "semester": 8,
+        "workload": "180h aula 0h lab.",
+        "type": "TRABALHO DE CONCLUSÃO DE CURSO",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      }
+    ]
+  }
+}

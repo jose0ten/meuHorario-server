@@ -1,0 +1,1635 @@
+{
+  "curriculum": {
+    "id": "122013",
+    "codigo": "1626845",
+    "name": "PEDAGOGIA (LICENCIATURA)/UV - João Pessoa - A Distância - MT - LICENCIATURA PLENA",
+    "faculty": "CENTRO DE EDUCAÇÃO (CE) (11.00.56)",
+    "minch": "180",
+    "maxch": "480",
+    "semesters": 8,
+    "courses": [
+      {
+        "id": "1302344",
+        "name": "DIDATICA NA EDUCACAO INFANTIL  UV",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1303236",
+        "name": "POLITICAS PUBLICAS E EDUC INFANTILUV",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1303240",
+        "name": "PESQUISA PRAT PED EDUC INFANTIL IUV",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1303243",
+        "name": "EST SUP MAG EDUC INFANTIL IIIUV",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1303351",
+        "name": "SEMINARIOS TEMAT PRAT CURRICULAR IV  UV",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1303352",
+        "name": "EST SUP MAG EDUC INFANTIL IV  UV",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1306007",
+        "name": "GESTÃO E PLANEJ NA EDUC INFANTIL  UV",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1306017",
+        "name": "LUDICIDADE E DESENV DA CRIANÇA IIUV",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1306018",
+        "name": "EDUCAÇÃO E SAUDE II UV",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDFED0102",
+        "name": "ESCOLA, FAMÍLIA E SOCIEDADE",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDFED0102",
+            "turmaid": "01",
+            "nome": " EAD",
+            "semester": "2018.2",
+            "professor": "EDSON CARVALHO GUEDES",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1301207",
+        "name": "SOCIOLOGIA EDUCACIONAL I  UV",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1301208",
+        "name": "FILOSOFIA DA EDUCACAO I  UV",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1301401",
+        "name": "HISTORIA DA EDUCACAO BRASILEIRA  UV",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1306031",
+        "name": "INTRODUCAO A EAD  UV",
+        "category": "Complementar Obrigatória",
+        "semester": 1,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDMTE0104",
+        "name": "PORTUGUÊS INSTRUMENTAL",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDMTE0104",
+            "turmaid": "01",
+            "nome": " EAD",
+            "semester": "2018.2",
+            "professor": "MARIA CLAURENIA ABREU DE ANDRADE SILVEIRA",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDMTE0106",
+        "name": "MATEMÁTICA INSTRUMENTAL",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDMTE0106",
+            "turmaid": "01",
+            "nome": " EAD",
+            "semester": "2018.2",
+            "professor": "EDISON THADEU BICHARA DANTAS",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1303193",
+        "name": "SEM TEMATPRAT CURRICULAR I  UV",
+        "category": "Optativa",
+        "semester": 2,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1301210",
+        "name": "SOCIOLOGIA EDUCACIONAL II  UV",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1301207"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1301212",
+        "name": "FILOSOFIA DA EDUCACAO II  UV",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1301212",
+            "turmaid": "01",
+            "nome": " FILOSOFIA DA EDUCACAO II  UV",
+            "semester": "2018.2",
+            "professor": "RODRIGO SILVA ROSAL DE ARAUJO",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+          "1301208"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1301402",
+        "name": "PSICOLOGIA EDUCACIONAL  UV",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1303399",
+        "name": "ESTSUPEM GESTAO EDUCACIONAL I  UV",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1303399",
+            "turmaid": "01",
+            "nome": " ESTSUPEM GESTAO EDUCACIONAL I  UV",
+            "semester": "2018.2",
+            "professor": "MARILENE SALGUEIRO",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1303400",
+        "name": "GESTAO EDUCACIONAL  UV",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1303401",
+        "name": "SEMTEMATPRATCURRICULAR IEMA  UV",
+        "category": "Complementar Obrigatória",
+        "semester": 2,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+          "1303237"
+        ]
+      },
+      {
+        "id": "GDFED0100",
+        "name": "ANTROPOLOGIA CULTURAL",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1302414",
+        "name": "DIDATICA  UV",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1302414",
+            "turmaid": "01",
+            "nome": " DIDATICA  UV",
+            "semester": "2018.2",
+            "professor": "JOSE RAMOS BARBOSA DA SILVA",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1302415",
+        "name": "AVALIACAO DA APRENDIZAGEM  UV",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1302415",
+            "turmaid": "01",
+            "nome": " AVALIACAO DA APRENDIZAGEM  UV",
+            "semester": "2018.2",
+            "professor": "VÍVIA DE MELO SILVA",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+          "GDMTE0107"
+        ]
+      },
+      {
+        "id": "1303402",
+        "name": "POLITICA EDUCACIONAL  UV",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1303192",
+            "turmaid": "01",
+            "nome": " POLITICA EDUCACIONAL  UV",
+            "semester": "2018.2",
+            "professor": "MARINILSON BARBOSA DA SILVA",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+          "1303192"
+        ]
+      },
+      {
+        "id": "1303403",
+        "name": "SEMTEMDE PRATICA CURRICULAR IIEDCUV",
+        "category": "Complementar Obrigatória",
+        "semester": 3,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1303403",
+            "turmaid": "01",
+            "nome": " SEMTEMDE PRATICA CURRICULAR IIEDCUV",
+            "semester": "2018.2",
+            "professor": "MARLENE HELENA DE OLIVEIRA FRANÇA",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1303404",
+        "name": "ESTAGSUPERVEM GESTAO EDUCACIONAL IIUV",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1303404",
+            "turmaid": "01",
+            "nome": " ESTAGSUPERVEM GESTAO EDUCACIONAL IIUV",
+            "semester": "2018.2",
+            "professor": "ISABEL MARINHO DA COSTA",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+          "1303399"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1303405",
+        "name": "CURRICULO E PRATICA PEDAGOGICA  UV",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1303405",
+            "turmaid": "01",
+            "nome": " CURRICULO E PRATICA PEDAGOGICA  UV",
+            "semester": "2018.2",
+            "professor": "JEANE FELIX DA SILVA",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDPSP0108",
+        "name": "LUDICIDADE E DESENVOLVIMENTO DA CRIANÇA",
+        "category": "Complementar Obrigatória",
+        "semester": 3,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDPSP0108",
+            "turmaid": "01",
+            "nome": " EAD",
+            "semester": "2018.2",
+            "professor": "MONICA DIAS PALITOT",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+          "GDPSP0103"
+        ]
+      },
+      {
+        "id": "1302346",
+        "name": "METODOLOGIA DO TRABALHO CIENTIFICOUV",
+        "category": "Complementar Obrigatória",
+        "semester": 4,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1302346",
+            "turmaid": "01",
+            "nome": " METODOLOGIA DO TRABALHO CIENTIFICOUV",
+            "semester": "2018.2",
+            "professor": "ROBERTO WAGNER CAVALCANTI RAPOSO",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1302505",
+        "name": "MATEMATICA NA EDUCACAO INFANTIL  UV",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1302505",
+            "turmaid": "01",
+            "nome": " MATEMATICA NA EDUCACAO INFANTIL  UV",
+            "semester": "2018.2",
+            "professor": "EDISON THADEU BICHARA DANTAS",
+            "horario": "",
+            "local": ""
+          },
+          {
+            "id": "1302354",
+            "turmaid": "01",
+            "nome": " MATEMATICA EDUC INFANTIL I  UV",
+            "semester": "2018.2",
+            "professor": "EDISON THADEU BICHARA DANTAS",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+          "1302354"
+        ]
+      },
+      {
+        "id": "1303194",
+        "name": "EST SUPMAGEDUCINFANTIL I  UV",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1303194",
+            "turmaid": "01",
+            "nome": " EST SUPMAGEDUCINFANTIL I  UV",
+            "semester": "2018.2",
+            "professor": "ANA LUISA NOGUEIRA DE AMORIM",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1303406",
+        "name": "SEMTEMDE PRATCURRICULAR IIIETI  UV",
+        "category": "Complementar Obrigatória",
+        "semester": 4,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1303406",
+            "turmaid": "01",
+            "nome": " SEMTEMDE PRATCURRICULAR IIIETI  UV",
+            "semester": "2018.2",
+            "professor": "ROBERTO DERIVALDO ANSELMO",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+          "1303242"
+        ]
+      },
+      {
+        "id": "1306034",
+        "name": "CIÊNCIAS SOCIAIS NA EDUCAÇÃO INFANTILUV",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+          "1306025"
+        ]
+      },
+      {
+        "id": "1306035",
+        "name": "LINGUAGENS ARTNA EDUCAÇÃO INFANTILUV",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1306036",
+        "name": "CIÊNCIAS NATURAIS NA EDUCINFANTILUV",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+          "1306021"
+        ]
+      },
+      {
+        "id": "1302506",
+        "name": "LITERATURA INFANTIL  UV",
+        "category": "Complementar Obrigatória",
+        "semester": 5,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1302495",
+            "turmaid": "01",
+            "nome": " LITERATURA INFANTIL  UV",
+            "semester": "2018.2",
+            "professor": "MARIA CLAURENIA ABREU DE ANDRADE SILVEIRA",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+          "1302495"
+        ]
+      },
+      {
+        "id": "1303353",
+        "name": "PESQUISA APLICADA A EDUCACAO  UV",
+        "category": "Complementar Obrigatória",
+        "semester": 5,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1303353",
+            "turmaid": "01",
+            "nome": " PESQUISA APLICADA A EDUCACAO  UV",
+            "semester": "2018.2",
+            "professor": "GIULIANA CAVALCANTI VASCONCELOS",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+          "1302346"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1303407",
+        "name": "SEM TEM DE PRÁTCURRICULAR IVETFDUV",
+        "category": "Complementar Obrigatória",
+        "semester": 5,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1306003",
+        "name": "EDUCAÇÃO INCLUSIVA  UV",
+        "category": "Complementar Obrigatória",
+        "semester": 5,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1306037",
+        "name": "LINGUAGEM DO PENSAMENTO NA EDUCAÇÃO INFANTIL UV",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+          "1306019"
+        ]
+      },
+      {
+        "id": "1306038",
+        "name": "EDUCACAO CULTURA E MIDIA  UV",
+        "category": "Complementar Obrigatória",
+        "semester": 5,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+          "1306016"
+        ]
+      },
+      {
+        "id": "GDHPE0100",
+        "name": "ESTAGIO SUPEVISIONADO MAGISTÉRIO EDUCAÇÃO INFANTIL II",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDHPE0100",
+            "turmaid": "01",
+            "nome": " UV",
+            "semester": "2018.2",
+            "professor": "NADIA JANE DE SOUSA",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+          "1303194"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1302535",
+        "name": "MATEMÁTICA NO ENSINO FUNDAMENTAL UV",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1303408",
+        "name": "ESTSUPEM MAGDO ENS FUNDAMENTAL IUV",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1303408",
+            "turmaid": "01",
+            "nome": " ESTSUPEM MAGDO ENS FUNDAMENTAL IUV",
+            "semester": "2018.2",
+            "professor": "DANIEL FIGUEIRAS ALVES",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1303409",
+        "name": "SEMÁRIO TEMÁTICO PRÁTICA CURRICULAR  V (EDH)  EAD",
+        "category": "Complementar Obrigatória",
+        "semester": 6,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+          "1303374"
+        ]
+      },
+      {
+        "id": "GDMTE0105",
+        "name": "CIÊNCIAS NATURAIS DE ENSINO FUNDAMENTAL",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDMTE0108",
+        "name": "LINGUAGENS ARTÍSTICAS NO ENSINO FUNDAMENTAL",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDMTE0109",
+        "name": "LINGUAGEM E PENSAMENTO NO ENSINO FUNDAMENTAL",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDMTE0109",
+            "turmaid": "01",
+            "nome": " EAD",
+            "semester": "2018.2",
+            "professor": "MARIA DEBORAH CABRAL DE SOUSA",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+          "1306037"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDMTE0110",
+        "name": "CIÊNCIAS SOCIAIS NO ENSINO FUNDAMENTAL",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1303413",
+        "name": "EDUCAÇÃO E TRABALHO  UV",
+        "category": "Optativa",
+        "semester": 7,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1303413",
+            "turmaid": "01",
+            "nome": " EDUCAÇÃO E TRABALHO  UV",
+            "semester": "2018.2",
+            "professor": "ANA PAULA FURTADO SOARES PONTES",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1306023",
+        "name": "TOPICOS ESP EM EDUCAÇÃO IUV",
+        "category": "Complementar Flexiva",
+        "semester": 7,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1303410",
+        "name": "SEMTEMPRÁTCURRICULAR VIOETEUV",
+        "category": "Complementar Obrigatória",
+        "semester": 7,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1303410",
+            "turmaid": "01",
+            "nome": " SEMTEMPRÁTCURRICULAR VIOETEUV",
+            "semester": "2018.2",
+            "professor": "ANA LUISA NOGUEIRA DE AMORIM",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1303411",
+        "name": "ESTSUPMAGDO ENSINO FUNDAMENTAL IIUV",
+        "category": "Obrigatória",
+        "semester": 7,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1303411",
+            "turmaid": "01",
+            "nome": " ESTSUPMAGDO ENSINO FUNDAMENTAL IIUV",
+            "semester": "2018.2",
+            "professor": "JANINE MARTA COELHO RODRIGUES",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+          "1303408"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1303415",
+        "name": "EDUCAÇÃO E TECNOLOGIAS UV",
+        "category": "Complementar Obrigatória",
+        "semester": 7,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1303415",
+            "turmaid": "01",
+            "nome": " EDUCAÇÃO E TECNOLOGIAS UV",
+            "semester": "2018.2",
+            "professor": "THAMYRIS MARIANA CAMAROTE MANDU",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1306043",
+        "name": "TRABALHO DE CONCLUSÃO DE CURSO IUV",
+        "category": "Complementar Obrigatória",
+        "semester": 7,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1303353",
+          "1302346"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDLS0025",
+        "name": "LIBRAS UV",
+        "category": "Complementar Obrigatória",
+        "semester": 7,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1302536",
+        "name": "EDUCAÇÃO DE JOVENS E ADULTOS UV",
+        "category": "Optativa",
+        "semester": 8,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1302536",
+            "turmaid": "01",
+            "nome": " EDUCAÇÃO DE JOVENS E ADULTOS UV",
+            "semester": "2018.2",
+            "professor": "JOSE RAMOS BARBOSA DA SILVA",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1306028",
+        "name": "TOPICOS ESPEM EDUCAÇAO IIUV",
+        "category": "Complementar Flexiva",
+        "semester": 8,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1303414",
+        "name": "SEMTEMÁTCURRICULAR VIIUV",
+        "category": "Complementar Obrigatória",
+        "semester": 8,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1303414",
+            "turmaid": "01",
+            "nome": " SEMTEMÁTCURRICULAR VIIUV",
+            "semester": "2018.2",
+            "professor": "MAGNO ALEXON BEZERRA SEABRA",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1306044",
+        "name": "TRABALHO DE CONCLUSÃO DE CURSO IIUV",
+        "category": "Complementar Obrigatória",
+        "semester": 8,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1306043"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDPSP0105",
+        "name": "EDUCAÇÃO E SAÚDE",
+        "category": "Complementar Obrigatória",
+        "semester": 8,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDPSP0105",
+            "turmaid": "01",
+            "nome": " EAD",
+            "semester": "2018.2",
+            "professor": "PATRICIA NUNES DA FONSECA e VIVIANY SILVA ARAUJO PESSOA",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+          "GDPSP0101"
+        ]
+      },
+      {
+        "id": "GDPSP0102",
+        "name": " EAD",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": "60h",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDPSP0102",
+            "turmaid": "01",
+            "nome": " EAD",
+            "semester": "2018.2",
+            "professor": "PATRICIA NUNES DA FONSECA e VIVIANY SILVA ARAUJO PESSOA",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1303393",
+        "name": " EST SUP EM MAGIST DA ED INFANTIL VIIUV",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": "60h",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1303393",
+            "turmaid": "01",
+            "nome": " EST SUP EM MAGIST DA ED INFANTIL VIIUV",
+            "semester": "2018.2",
+            "professor": "ANA LUISA NOGUEIRA DE AMORIM",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1303380",
+        "name": " EST SUP EM MAGIST DA ED INFANTIL VIUV",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": "60h",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1303380",
+            "turmaid": "01",
+            "nome": " EST SUP EM MAGIST DA ED INFANTIL VIUV",
+            "semester": "2018.2",
+            "professor": "JANINE MARTA COELHO RODRIGUES",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1302495",
+        "name": " LITERATURA INFANTIL  UV",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": "45h",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1302495",
+            "turmaid": "01",
+            "nome": " LITERATURA INFANTIL  UV",
+            "semester": "2018.2",
+            "professor": "MARIA CLAURENIA ABREU DE ANDRADE SILVEIRA",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1302402",
+        "name": " MATEMATICA EDUC INFANTIL II  UV",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": "45h",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1302402",
+            "turmaid": "01",
+            "nome": " MATEMATICA EDUC INFANTIL II  UV",
+            "semester": "2018.2",
+            "professor": "EDISON THADEU BICHARA DANTAS",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1302354",
+        "name": " MATEMATICA EDUC INFANTIL I  UV",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": "45h",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1302354",
+            "turmaid": "01",
+            "nome": " MATEMATICA EDUC INFANTIL I  UV",
+            "semester": "2018.2",
+            "professor": "EDISON THADEU BICHARA DANTAS",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1303192",
+        "name": " POLITICA EDUCACIONAL  UV",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": "60h",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1303192",
+            "turmaid": "01",
+            "nome": " POLITICA EDUCACIONAL  UV",
+            "semester": "2018.2",
+            "professor": "MARINILSON BARBOSA DA SILVA",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1302343",
+        "name": " PSICOLOGIA EDUCACIONAL II UV",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": "60h",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1302343",
+            "turmaid": "01",
+            "nome": " PSICOLOGIA EDUCACIONAL II UV",
+            "semester": "2018.2",
+            "professor": "STELLA MARIA LIMA GASPAR DE OLIVEIRA",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1301211",
+        "name": " PSICOLOGIA EDUCACIONAL I  UV",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": "60h",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1301211",
+            "turmaid": "01",
+            "nome": " PSICOLOGIA EDUCACIONAL I  UV",
+            "semester": "2018.2",
+            "professor": "STELLA MARIA LIMA GASPAR DE OLIVEIRA",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDPSP0100",
+        "name": " EAD",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": "45h",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDPSP0100",
+            "turmaid": "01",
+            "nome": " EAD",
+            "semester": "2018.2",
+            "professor": "PATRICIA NUNES DA FONSECA e VIVIANY SILVA ARAUJO PESSOA",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1303392",
+        "name": " SEMINARIOS TEMATICOS DE PRAT CURR VIIUV",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": "60h",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1303392",
+            "turmaid": "01",
+            "nome": " SEMINARIOS TEMATICOS DE PRAT CURR VIIUV",
+            "semester": "2018.2",
+            "professor": "ANA LUISA NOGUEIRA DE AMORIM",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1303381",
+        "name": " SEMINARIOS TEMATICOS DE PRAT CURR VIUV",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": "60h",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1303381",
+            "turmaid": "01",
+            "nome": " SEMINARIOS TEMATICOS DE PRAT CURR VIUV",
+            "semester": "2018.2",
+            "professor": "MARINILSON BARBOSA DA SILVA",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      }
+    ]
+  }
+}

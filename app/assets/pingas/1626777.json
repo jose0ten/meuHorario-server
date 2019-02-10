@@ -1,0 +1,1842 @@
+{
+  "curriculum": {
+    "id": "962011",
+    "codigo": "1626777",
+    "name": "ENGENHARIA DE ENERGIAS RENOVÁVEIS - João Pessoa - Presencial - MT - BACHARELADO",
+    "faculty": "CENTRO DE ENERGIAS E ALTERNATIVAS E RENOVÁVEIS (CEAR) (11.00.65)",
+    "minch": "270",
+    "maxch": "495",
+    "semesters": 10,
+    "courses": [
+      {
+        "id": "1403747",
+        "name": "LIBRAS  LÍNGUA BRASILEIRA DE SINAIS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "2102018",
+        "name": "TÓPESPEM ENGENDE ENERG RENOVÁVEIS I",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "2102019",
+        "name": "TÓPESPEM ENGENDE ENERGRENOVÁVEIS II",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "2102020",
+        "name": "TÓPESPEM ENGENDE ENERGRENOVÁVEIS III",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDLS0024",
+        "name": "LIBRAS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1101157",
+        "name": "FISICA GERAL I",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1101157",
+            "turmaid": "06",
+            "nome": " FISICA GERAL I",
+            "semester": "2018.2",
+            "professor": "A DEFINIR",
+            "horario": "24T12",
+            "local": "CAB 104 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1103118",
+        "name": "CÁLCULO VETORIAL E GEOMETRIA ANALÍTICA",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1103118",
+            "turmaid": "07",
+            "nome": " CÁLCULO VETORIAL E GEOMETRIA ANALÍTICA",
+            "semester": "2018.2",
+            "professor": "GILMAR OTAVIO CORREIA",
+            "horario": "35M23",
+            "local": "CAB 104 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1103177",
+        "name": "CÁLCULO DIFERENCIAL E INTEGRAL I",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1103177",
+            "turmaid": "08",
+            "nome": " CÁLCULO DIFERENCIAL E INTEGRAL I",
+            "semester": "2018.2",
+            "professor": "FLAVIA JERONIMO BARBOSA",
+            "horario": "24T45",
+            "local": "CAA 105 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1105161",
+        "name": "QUÍMICA FUNDAMENTAL",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1105161",
+            "turmaid": "02",
+            "nome": " QUÍMICA FUNDAMENTAL",
+            "semester": "2018.2",
+            "professor": "COSME RAFAEL MARTINEZ SALINAS",
+            "horario": "24M45",
+            "local": "CAB 106 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "2102001",
+        "name": "COMUNICAÇÃO E EXPRESSÃO PARA ENGENHEIROS",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "2102001",
+            "turmaid": "01",
+            "nome": " COMUNICAÇÃO E EXPRESSÃO PARA ENGENHEIROS",
+            "semester": "2018.2",
+            "professor": "CRISTIANE KELLY FERREIRA DA SILVA",
+            "horario": "35M45",
+            "local": "CAH 108 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "2102002",
+        "name": "HISTÓRIA DA ENERGIA",
+        "category": "Complementar Obrigatória",
+        "semester": 1,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "2102002",
+            "turmaid": "01",
+            "nome": " HISTÓRIA DA ENERGIA",
+            "semester": "2018.2",
+            "professor": "SILVIA LAYARA FLORIANI ANDERSEN",
+            "horario": "3T23",
+            "local": "CAD 106 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "2102003",
+        "name": "COMPUTAÇÃO E PROGRAMAÇÃO",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "2102003",
+            "turmaid": "01",
+            "nome": " COMPUTAÇÃO E PROGRAMAÇÃO",
+            "semester": "2018.2",
+            "professor": "JOSE FELIX DA SILVA NETO",
+            "horario": "2M23 5T12",
+            "local": "CAE 101 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1101163",
+        "name": "FISICA GERAL II",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1101163",
+            "turmaid": "07",
+            "nome": " FISICA GERAL II",
+            "semester": "2018.2",
+            "professor": "A DEFINIR",
+            "horario": "24T23",
+            "local": "CAA 105 (PRG)"
+          }
+        ],
+        "prerequisites": [
+          "1101157"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1101165",
+        "name": "FISICA EXPERIMENTAL I",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "0h aula 30h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1101165",
+            "turmaid": "03",
+            "nome": " FISICA EXPERIMENTAL I",
+            "semester": "2018.2",
+            "professor": "A DEFINIR",
+            "horario": "5T45",
+            "local": "DF 200 (CCEN)"
+          }
+        ],
+        "prerequisites": [
+          "1101157"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1103178",
+        "name": "CALCULO DIFERENCIAL E INTEGRAL II",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1103178",
+            "turmaid": "09",
+            "nome": " CALCULO DIFERENCIAL E INTEGRAL II",
+            "semester": "2018.2",
+            "professor": "ANTONIO JOAQUIM RODRIGUES FEITOSA",
+            "horario": "24T45",
+            "local": "CAB 104 (PRG)"
+          }
+        ],
+        "prerequisites": [
+          "1103177"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1103179",
+        "name": "INTRODUCAO A ALGEBRA LINEAR",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1103118"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "2102004",
+        "name": "DESENHO MAQUINAS ASSISTIDO POR COMPUTADOR",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "75h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "2102004",
+            "turmaid": "01",
+            "nome": " DESENHO MAQUINAS ASSISTIDO POR COMPUTADOR",
+            "semester": "2018.2",
+            "professor": "MARCAL ROSAS F LIMA FILHO",
+            "horario": "2M45 6M123",
+            "local": "CAD 104 (PRG)"
+          }
+        ],
+        "prerequisites": [
+          "2102003"
+        ],
+        "equivalences": [
+          "1701178"
+        ]
+      },
+      {
+        "id": "2102005",
+        "name": "INTRODUÇÃO A CIÊNCIA DOS MATERIAIS",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "2102005",
+            "turmaid": "01",
+            "nome": " INTRODUÇÃO A CIÊNCIA DOS MATERIAIS",
+            "semester": "2018.2",
+            "professor": "KELLY CRISTIANE GOMES DA SILVA",
+            "horario": "36M45",
+            "local": "CAF 105 (PRG)"
+          }
+        ],
+        "prerequisites": [
+          "1105161"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "2102006",
+        "name": "METODOLOGIA DO TRABALHO CIENTÍFICO",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "2102006",
+            "turmaid": "01",
+            "nome": " METODOLOGIA DO TRABALHO CIENTÍFICO",
+            "semester": "2018.2",
+            "professor": "ALBERTO SOTO LOCK",
+            "horario": "3M123",
+            "local": "CAE 103 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1101164",
+        "name": "FISICA GERAL III",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1101164",
+            "turmaid": "05",
+            "nome": " FISICA GERAL III",
+            "semester": "2018.2",
+            "professor": "A DEFINIR",
+            "horario": "24T23",
+            "local": "CAF 110 (PRG)"
+          }
+        ],
+        "prerequisites": [
+          "1101163"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1101166",
+        "name": "FISICA EXPERIMENTAL II",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1101166",
+            "turmaid": "03",
+            "nome": " FISICA EXPERIMENTAL II",
+            "semester": "2018.2",
+            "professor": "A DEFINIR",
+            "horario": "3T23",
+            "local": "LAB (CCEN)"
+          }
+        ],
+        "prerequisites": [
+          "1101163"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1103180",
+        "name": "SERIES E EQUACOES DIF ORDINARIAS",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1103180",
+            "turmaid": "06",
+            "nome": " SERIES E EQUACOES DIF ORDINARIAS",
+            "semester": "2018.2",
+            "professor": "LIZANDRO SANCHEZ CHALLAPA",
+            "horario": "35T45",
+            "local": "CAA 103 (PRG)"
+          }
+        ],
+        "prerequisites": [
+          "1103178",
+          "1103179"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1103232",
+        "name": "CALCULO DIF  E INTEGRAL III",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1103232",
+            "turmaid": "07",
+            "nome": " CALCULO DIF  E INTEGRAL III",
+            "semester": "2018.2",
+            "professor": "JOAO BOSCO BATISTA LACERDA",
+            "horario": "24T45",
+            "local": "CAB 102 (PRG)"
+          }
+        ],
+        "prerequisites": [
+          "1103178",
+          "1103118"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "2102021",
+        "name": "INTRODUÇÃO ÀS ENERGIAS RENOVÁVEIS",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "2102021",
+            "turmaid": "01",
+            "nome": " INTRODUÇÃO ÀS ENERGIAS RENOVÁVEIS",
+            "semester": "2018.2",
+            "professor": "SAYONARA ANDRADE ELIZIARIO",
+            "horario": "5M123",
+            "local": "CAE 106 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "2102022",
+        "name": "CLIMATOLOGIA GERAL",
+        "category": "Complementar Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "2102022",
+            "turmaid": "01",
+            "nome": " CLIMATOLOGIA GERAL",
+            "semester": "2018.2",
+            "professor": "RAPHAEL ABRAHAO",
+            "horario": "2M23 5T23",
+            "local": "CAF 104 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "2102023",
+        "name": "PESQUISA APL À ENG DE ENE RENOVÁVEIS",
+        "category": "Complementar Obrigatória",
+        "semester": 3,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "2102023",
+            "turmaid": "01",
+            "nome": " PESQUISA APL À ENG DE ENE RENOVÁVEIS",
+            "semester": "2018.2",
+            "professor": "MARTA CELIA DANTAS SILVA",
+            "horario": "3M123",
+            "local": "CAF 101 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "2102025",
+        "name": "CALCULO DAS PROBABILIDADE E ESTATÍSTICA",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "2102025",
+            "turmaid": "01",
+            "nome": " CALCULO DAS PROBABILIDADE E ESTATÍSTICA",
+            "semester": "2018.2",
+            "professor": "SABRINA ALVES DE FREITAS",
+            "horario": "3M45 6T23",
+            "local": "CAF 107 (PRG)"
+          }
+        ],
+        "prerequisites": [
+          "1103177"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "2102008",
+        "name": "FÍSICA DA ENERGIA SOLAR",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "2102008",
+            "turmaid": "01",
+            "nome": " FÍSICA DA ENERGIA SOLAR",
+            "semester": "2018.2",
+            "professor": "FABIANO CORDEIRO CAVALCANTI",
+            "horario": "24T23",
+            "local": "CAF 101 (PRG)"
+          }
+        ],
+        "prerequisites": [
+          "2102022"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "2102009",
+        "name": "TERMODINÂMICA I",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "2102009",
+            "turmaid": "01",
+            "nome": " TERMODINÂMICA I",
+            "semester": "2018.2",
+            "professor": "MONICA CARVALHO",
+            "horario": "46M45",
+            "local": "CAF 106 (PRG)"
+          }
+        ],
+        "prerequisites": [
+          "1101166"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "2102015",
+        "name": "MÉTODOS NUM APLIC A ENGENHARIA",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "2102015",
+            "turmaid": "01",
+            "nome": " MÉTODOS NUM APLIC A ENGENHARIA",
+            "semester": "2018.2",
+            "professor": "SABRINA ALVES DE FREITAS",
+            "horario": "35T23",
+            "local": "CAE 107 (PRG)"
+          }
+        ],
+        "prerequisites": [
+          "1103180"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "2102027",
+        "name": "MECÂNICA DOS FLUÍDOS II",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "90h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "2102027",
+            "turmaid": "01",
+            "nome": " MECÂNICA DOS FLUÍDOS II",
+            "semester": "2018.2",
+            "professor": "GILBERTO AUGUSTO AMADO MOREIRA",
+            "horario": "24M123",
+            "local": "Laboratório de Sistemas de Refrigeração por Adsorção ..."
+          }
+        ],
+        "prerequisites": [
+          "1103232",
+          "1103180"
+        ],
+        "equivalences": [
+          "1701179",
+          "2102007"
+        ]
+      },
+      {
+        "id": "2102028",
+        "name": "ELETRICIDADE E MAGNETISMO",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "2102028",
+            "turmaid": "01",
+            "nome": " ELETRICIDADE E MAGNETISMO",
+            "semester": "2018.2",
+            "professor": "ALBERTO SOTO LOCK",
+            "horario": "35M45",
+            "local": "CAF 101 (PRG)"
+          }
+        ],
+        "prerequisites": [
+          "1103180"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "2102030",
+        "name": "ENERGIA DESENV E SUSTENTABILIDADE",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "2102030",
+            "turmaid": "01",
+            "nome": " ENERGIA DESENV E SUSTENTABILIDADE",
+            "semester": "2018.2",
+            "professor": "SILVIA LAYARA FLORIANI ANDERSEN",
+            "horario": "35M23",
+            "local": "CAF 109 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "2102031",
+        "name": "QUIMICA ORGANICA PARA TECNÓLOGOS",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "2102010",
+        "name": "TERMODINÂMICA II",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "2102010",
+            "turmaid": "01",
+            "nome": " TERMODINÂMICA II",
+            "semester": "2018.2",
+            "professor": "JOAO ALVES DE LIMA",
+            "horario": "46T23",
+            "local": "CAH 105 (PRG)"
+          }
+        ],
+        "prerequisites": [
+          "2102009"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "2102011",
+        "name": "TRANSFERÊNCIA DE CALOR E MASSA",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "90h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "2102011",
+            "turmaid": "01",
+            "nome": " TRANSFERÊNCIA DE CALOR E MASSA",
+            "semester": "2018.2",
+            "professor": "FABIANO CORDEIRO CAVALCANTI",
+            "horario": "246M45",
+            "local": "CAF 101 (PRG)"
+          }
+        ],
+        "prerequisites": [
+          "2102009",
+          "2102027",
+          "2102007"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "2102032",
+        "name": "MECÂNICA DOS SÓLIDOS",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "90h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "2102032",
+            "turmaid": "01",
+            "nome": " MECÂNICA DOS SÓLIDOS",
+            "semester": "2018.2",
+            "professor": "RAIMUNDO APRIGIO DE MENEZES JUNIOR",
+            "horario": "245T45",
+            "local": "CAE 105 (PRG)"
+          }
+        ],
+        "prerequisites": [
+          "1103232",
+          "1103180"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "2102033",
+        "name": "PROCESSO DE CONVERSÃO ELETROQUIMICA",
+        "category": "Complementar Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "2102033",
+            "turmaid": "01",
+            "nome": " PROCESSO DE CONVERSÃO ELETROQUIMICA",
+            "semester": "2018.2",
+            "professor": "FLAVIA DE MEDEIROS AQUINO",
+            "horario": "46M23",
+            "local": "CAF 106 (PRG)"
+          }
+        ],
+        "prerequisites": [
+          "2102005"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "2102034",
+        "name": "ANÁLISE DE CIRCUITOS ELÉTRICOS",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "90h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "2102034",
+            "turmaid": "01",
+            "nome": " ANÁLISE DE CIRCUITOS ELÉTRICOS",
+            "semester": "2018.2",
+            "professor": "KLEBER CARNEIRO DE OLIVEIRA",
+            "horario": "235T23",
+            "local": "CAE 103 (PRG)"
+          }
+        ],
+        "prerequisites": [
+          "1101164",
+          "2102028"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "2102036",
+        "name": "ENERGIA     EÓLICA",
+        "category": "Complementar Obrigatória",
+        "semester": 5,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "2102036",
+            "turmaid": "01",
+            "nome": " ENERGIA     EÓLICA",
+            "semester": "2018.2",
+            "professor": "MARCIO RODRIGO DE ARAUJO SOUZA",
+            "horario": "3M123",
+            "local": "CAF 107 (PRG)"
+          }
+        ],
+        "prerequisites": [
+          "2102022"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "2102012",
+        "name": "MÁQUINAS  TÉRMICAS",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "2102012",
+            "turmaid": "01",
+            "nome": " MÁQUINAS  TÉRMICAS",
+            "semester": "2018.2",
+            "professor": "GILBERTO AUGUSTO AMADO MOREIRA",
+            "horario": "3M23 6M12",
+            "local": "CAD 103 (PRG)"
+          }
+        ],
+        "prerequisites": [
+          "2102011",
+          "2102010"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "2102037",
+        "name": "PROCESSO DE CONVERSÃO TERMOELÉTRICA",
+        "category": "Complementar Obrigatória",
+        "semester": 6,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "2102037",
+            "turmaid": "01",
+            "nome": " PROCESSO DE CONVERSÃO TERMOELÉTRICA",
+            "semester": "2018.2",
+            "professor": "ROGERIO PINHEIRO KLUPPEL",
+            "horario": "6M345",
+            "local": "CAH 102 (PRG)"
+          }
+        ],
+        "prerequisites": [
+          "2102011"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "2102038",
+        "name": "TROCADORES DE CALOR",
+        "category": "Complementar Obrigatória",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "2102038",
+            "turmaid": "01",
+            "nome": " TROCADORES DE CALOR",
+            "semester": "2018.2",
+            "professor": "CRISTIANE KELLY FERREIRA DA SILVA",
+            "horario": "24M45",
+            "local": "CAE 101 (PRG)"
+          }
+        ],
+        "prerequisites": [
+          "2102011"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDEER0063",
+        "name": "SISTEMAS ELETRICOS APLICADOS",
+        "category": "Complementar Obrigatória",
+        "semester": 6,
+        "workload": "75h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDEER0063",
+            "turmaid": "01",
+            "nome": " SISTEMAS ELETRICOS APLICADOS",
+            "semester": "2018.2",
+            "professor": "JOAO MARCELO DIAS FERREIRA",
+            "horario": "2M23 5M123",
+            "local": "CAD 104 (PRG)"
+          }
+        ],
+        "prerequisites": [
+          "2102034"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDEER0064",
+        "name": "CONTROLE DE PROCESSOS",
+        "category": "Complementar Obrigatória",
+        "semester": 6,
+        "workload": "90h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDEER0064",
+            "turmaid": "01",
+            "nome": " CONTROLE DE PROCESSOS",
+            "semester": "2018.2",
+            "professor": "RAIMUNDO APRIGIO DE MENEZES JUNIOR",
+            "horario": "35M45 6T23",
+            "local": "CAD 103 (PRG) / CAD 103 (PRG)"
+          }
+        ],
+        "prerequisites": [
+          "2102034"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDEER0065",
+        "name": "PROCESSO DE CONVERSÃO ELETROMECÂNICA",
+        "category": "Complementar Obrigatória",
+        "semester": 6,
+        "workload": "90h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDEER0065",
+            "turmaid": "01",
+            "nome": " PROCESSO DE CONVERSÃO ELETROMECÂNICA",
+            "semester": "2018.2",
+            "professor": "VICTOR FELIPE MOURA BEZERRA MELO",
+            "horario": "24T23 6T45",
+            "local": "CAF 106 (PRG)"
+          }
+        ],
+        "prerequisites": [
+          "2102034"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "2102029",
+        "name": "GESTÃO E PLANEJAMENTO AMBIENTAL",
+        "category": "Complementar Obrigatória",
+        "semester": 7,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "2102029",
+            "turmaid": "01",
+            "nome": " GESTÃO E PLANEJAMENTO AMBIENTAL",
+            "semester": "2018.2",
+            "professor": "RAPHAEL ABRAHAO",
+            "horario": "3M45",
+            "local": "CAD 102 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "2102044",
+        "name": "CELULAS COMBUSTÍVEIS",
+        "category": "Complementar Obrigatória",
+        "semester": 7,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "2102044",
+            "turmaid": "01",
+            "nome": " CELULAS COMBUSTÍVEIS",
+            "semester": "2018.2",
+            "professor": "FLAVIA DE MEDEIROS AQUINO",
+            "horario": "46M45",
+            "local": "CAB 105 (PRG)"
+          }
+        ],
+        "prerequisites": [
+          "2102033"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDEER0047",
+        "name": "EFICIÊNCIA ENERGÉTICAQ EM CONSTRUÇÕES",
+        "category": "Complementar Obrigatória",
+        "semester": 7,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDEER0047",
+            "turmaid": "01",
+            "nome": " EFICIÊNCIA ENERGÉTICAQ EM CONSTRUÇÕES",
+            "semester": "2018.2",
+            "professor": "MARCAL ROSAS F LIMA FILHO",
+            "horario": "24T23",
+            "local": "CAF 103 (PRG)"
+          }
+        ],
+        "prerequisites": [
+          "2102011",
+          "0063"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDEER0048",
+        "name": "PROCESSO DE CONVERSÃO TERMOSOLAR",
+        "category": "Complementar Obrigatória",
+        "semester": 7,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDEER0048",
+            "turmaid": "01",
+            "nome": " PROCESSO DE CONVERSÃO TERMOSOLAR",
+            "semester": "2018.2",
+            "professor": "JOSE MAURICIO ALVES DE MATOS GURGEL",
+            "horario": "2M45 6M23",
+            "local": "CAF 105 (PRG)"
+          }
+        ],
+        "prerequisites": [
+          "2102012",
+          "2102039",
+          "2102008",
+          "2102035"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDEER0049",
+        "name": "ELETRÔNICA APLICADA",
+        "category": "Complementar Obrigatória",
+        "semester": 7,
+        "workload": "75h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDEER0049",
+            "turmaid": "01",
+            "nome": " ELETRÔNICA APLICADA",
+            "semester": "2018.2",
+            "professor": "LEVI PEDRO BARBOSA DE OLIVEIRA",
+            "horario": "3M23 5M123",
+            "local": "CAF 106 (PRG)"
+          }
+        ],
+        "prerequisites": [
+          "0063"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDEER0050",
+        "name": "PROCESSO DE CONVERSÃO HIDROELÉTRICA",
+        "category": "Complementar Obrigatória",
+        "semester": 7,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDEER0050",
+            "turmaid": "01",
+            "nome": " PROCESSO DE CONVERSÃO HIDROELÉTRICA",
+            "semester": "2018.2",
+            "professor": "MARCIO RODRIGO DE ARAUJO SOUZA",
+            "horario": "6T123",
+            "local": "CAF 103 (PRG)"
+          }
+        ],
+        "prerequisites": [
+          "0065"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDEER0051",
+        "name": "TRABALHO DE CONCLUSÃO DE CURSO I (ENG. RENOVÁVEIS)",
+        "category": "Complementar Obrigatória",
+        "semester": 7,
+        "workload": "30h aula 0h lab.",
+        "type": "TRABALHO DE CONCLUSÃO DE CURSO",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDEER0053",
+        "name": "ADMINISTRAÇÃO PARA ENGENHARIA",
+        "category": "Obrigatória",
+        "semester": 7,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDEER0053",
+            "turmaid": "01",
+            "nome": " ADMINISTRAÇÃO PARA ENGENHARIA",
+            "semester": "2018.2",
+            "professor": "LUIZ MOREIRA COELHO JUNIOR",
+            "horario": "3T123",
+            "local": "CAF 106 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "2102014",
+        "name": "CONDICIONAMENTO DE AR VENTILAÇÃO E  REFRIGERAÇÃO",
+        "category": "Optativa",
+        "semester": 8,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "2102014",
+            "turmaid": "02",
+            "nome": " CONDICIONAMENTO DE AR VENTILAÇÃO E  REFRIGERAÇÃO",
+            "semester": "2018.2",
+            "professor": "JOSE MAURICIO ALVES DE MATOS GURGEL",
+            "horario": "3M123",
+            "local": "Laboratório de Sistemas de Refrigeração por Adsorção ..."
+          }
+        ],
+        "prerequisites": [
+          "2102010",
+          "2102011"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "2102016",
+        "name": "HIDROGÊNIO",
+        "category": "Optativa",
+        "semester": 8,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "2102016",
+            "turmaid": "01",
+            "nome": " HIDROGÊNIO",
+            "semester": "2018.2",
+            "professor": "MARTA CELIA DANTAS SILVA",
+            "horario": "5T123",
+            "local": "CAD 109 (PRG)"
+          }
+        ],
+        "prerequisites": [
+          "1105161"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "2102017",
+        "name": "GASES DE EFEITO ESTUFA",
+        "category": "Optativa",
+        "semester": 8,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "2102026",
+        "name": "MATERIAIS ELÉTRICOS",
+        "category": "Optativa",
+        "semester": 8,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "2102005"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDEER0067",
+        "name": "BATERIAS",
+        "category": "Optativa",
+        "semester": 8,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDEER0067",
+            "turmaid": "01",
+            "nome": " BATERIAS",
+            "semester": "2018.2",
+            "professor": "SAYONARA ANDRADE ELIZIARIO",
+            "horario": "4M123",
+            "local": "AUDITÓRIO DO CENTRO DE ENERGIAS E ALTERNATIVAS E ..."
+          }
+        ],
+        "prerequisites": [
+          "2102033"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDEER0069",
+        "name": "MATERIAIS APLICADOS AS ENERGIAS RENOVAVEIS",
+        "category": "Optativa",
+        "semester": 8,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "2102005"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "2102024",
+        "name": "ECONOMIA I",
+        "category": "Obrigatória",
+        "semester": 8,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "2102024",
+            "turmaid": "01",
+            "nome": " ECONOMIA I",
+            "semester": "2018.2",
+            "professor": "LUIZ MOREIRA COELHO JUNIOR",
+            "horario": "35M23",
+            "local": "CAF 105 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "2102045",
+        "name": "BIOMASSA E BIOCOMBUSTÍVEIS",
+        "category": "Complementar Obrigatória",
+        "semester": 8,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "2102045",
+            "turmaid": "01",
+            "nome": " BIOMASSA E BIOCOMBUSTÍVEIS",
+            "semester": "2018.2",
+            "professor": "SILVIA LAYARA FLORIANI ANDERSEN",
+            "horario": "24M23",
+            "local": "CAF 105 (PRG)"
+          }
+        ],
+        "prerequisites": [
+          "1105252"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDEER0054",
+        "name": "SISTEMA TERMOSOLAR",
+        "category": "Complementar Obrigatória",
+        "semester": 8,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDEER0054",
+            "turmaid": "01",
+            "nome": " SISTEMA TERMOSOLAR",
+            "semester": "2018.2",
+            "professor": "ROGERIO PINHEIRO KLUPPEL",
+            "horario": "5M45",
+            "local": "CAF 109 (PRG)"
+          }
+        ],
+        "prerequisites": [
+          "0048"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDEER0055",
+        "name": "ELETRÔNICA DE POTÊNCIA",
+        "category": "Complementar Obrigatória",
+        "semester": 8,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDEER0055",
+            "turmaid": "01",
+            "nome": " ELETRÔNICA DE POTÊNCIA",
+            "semester": "2018.2",
+            "professor": "LEVI PEDRO BARBOSA DE OLIVEIRA",
+            "horario": "35T45",
+            "local": "CAF 107 (PRG)"
+          }
+        ],
+        "prerequisites": [
+          "0049"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDEER0056",
+        "name": "INTRODUÇÃO AO DIREITO NO SETOR ENERGÉTICO",
+        "category": "Obrigatória",
+        "semester": 8,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDEER0056",
+            "turmaid": "01",
+            "nome": " INTRODUÇÃO AO DIREITO NO SETOR ENERGÉTICO",
+            "semester": "2018.2",
+            "professor": "SAYONARA ANDRADE ELIZIARIO",
+            "horario": "6M123",
+            "local": "CAE 104 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDEER0057",
+        "name": "TRABALHO DE CONCLUSÃO DE CURSO II (ENG. RENOVÁVEIS)",
+        "category": "Complementar Obrigatória",
+        "semester": 8,
+        "workload": "30h aula 0h lab.",
+        "type": "TRABALHO DE CONCLUSÃO DE CURSO",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "0051"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "2102043",
+        "name": "REATORES QUIMICOS",
+        "category": "Optativa",
+        "semester": 9,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "2102043",
+            "turmaid": "01",
+            "nome": " REATORES QUIMICOS",
+            "semester": "2018.2",
+            "professor": "SILVIA LAYARA FLORIANI ANDERSEN",
+            "horario": "2M4 4M45",
+            "local": "Laboratório de Sistemas de Refrigeração por Adsorção ..."
+          }
+        ],
+        "prerequisites": [
+          "2102044"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDEER0068",
+        "name": "GERAÇÃO E DISTRIBUIÇÃO DE VAPOR",
+        "category": "Optativa",
+        "semester": 9,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "2102010",
+          "2102011"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDEER0070",
+        "name": "ENERGIA GEOTÉRMICA",
+        "category": "Optativa",
+        "semester": 9,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDEER0070",
+            "turmaid": "02",
+            "nome": " ENERGIA GEOTÉRMICA",
+            "semester": "2018.2",
+            "professor": "MONICA CARVALHO",
+            "horario": "2M123",
+            "local": "CAH 104 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDEER0071",
+        "name": "ENERGIA MAREMOTRIZ E DAS ONDAS",
+        "category": "Optativa",
+        "semester": 9,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDEER0072",
+        "name": "PROCESSOS E SISTEMAS DE COMBUSTÃO",
+        "category": "Optativa",
+        "semester": 9,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "2102010"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "2102042",
+        "name": "SISTEMA DE  ENERGIA EÓLICA",
+        "category": "Complementar Obrigatória",
+        "semester": 9,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "2102042",
+            "turmaid": "01",
+            "nome": " SISTEMA DE  ENERGIA EÓLICA",
+            "semester": "2018.2",
+            "professor": "VICTOR FELIPE MOURA BEZERRA MELO",
+            "horario": "4T45",
+            "local": "CAF 101 (PRG)"
+          }
+        ],
+        "prerequisites": [
+          "2102036"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDEER0059",
+        "name": "APLICAÇÃO INDUSTRIAL DE ENERGIAS RENOVÁVEIS",
+        "category": "Complementar Obrigatória",
+        "semester": 9,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDEER0059",
+            "turmaid": "02",
+            "nome": " APLICAÇÃO INDUSTRIAL DE ENERGIAS RENOVÁVEIS",
+            "semester": "2018.2",
+            "professor": "ZAQUEU ERNESTO DA SILVA",
+            "horario": "25T23",
+            "local": "CAD 101 (PRG)"
+          }
+        ],
+        "prerequisites": [
+          "0054"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDEER0060",
+        "name": "PROCESSO DE CONVERSÃO FOTOVOLTAICA",
+        "category": "Complementar Obrigatória",
+        "semester": 9,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDEER0060",
+            "turmaid": "01",
+            "nome": " PROCESSO DE CONVERSÃO FOTOVOLTAICA",
+            "semester": "2018.2",
+            "professor": "JOAO MARCELO DIAS FERREIRA",
+            "horario": "34T23",
+            "local": "CAF 102 (PRG)"
+          }
+        ],
+        "prerequisites": [
+          "2102034"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDEER0061",
+        "name": "SISTEMAS FOTOVOLTAICOS",
+        "category": "Complementar Obrigatória",
+        "semester": 9,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDEER0061",
+            "turmaid": "01",
+            "nome": " SISTEMAS FOTOVOLTAICOS",
+            "semester": "2018.2",
+            "professor": "KLEBER CARNEIRO DE OLIVEIRA",
+            "horario": "2T45",
+            "local": "CAE 103 (PRG)"
+          }
+        ],
+        "prerequisites": [
+          "2102034"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDEER0062",
+        "name": "TRABALHO DE CONCLUSÃO DE CURSO III (ENG. RENOVÁVEIS)",
+        "category": "Complementar Obrigatória",
+        "semester": 9,
+        "workload": "30h aula 0h lab.",
+        "type": "TRABALHO DE CONCLUSÃO DE CURSO",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "0057"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDEER0058",
+        "name": "ESTÁGIO SUPERVISIONADO (ENG. RENOVÁVEIS)",
+        "category": "Complementar Obrigatória",
+        "semester": 10,
+        "workload": "180h aula 0h lab.",
+        "type": "ESTÁGIO",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1105252",
+        "name": " QUÍMICA ORGÂNICA PARA TECNÓLOGOS",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": "60h",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1105252",
+            "turmaid": "02",
+            "nome": " QUÍMICA ORGÂNICA PARA TECNÓLOGOS",
+            "semester": "2018.2",
+            "professor": "ARNALDO BUENO PEREIRA",
+            "horario": "35T45",
+            "local": "CAD 108 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      }
+    ]
+  }
+}

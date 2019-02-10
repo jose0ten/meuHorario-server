@@ -1,0 +1,1996 @@
+{
+  "curriculum": {
+    "id": "23-022008",
+    "codigo": "1626808",
+    "name": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - OUTRO TIPO DE GRAU ACADÊMICO",
+    "faculty": "CENTRO DE ENERGIAS E ALTERNATIVAS E RENOVÁVEIS (CEAR) (11.00.65)",
+    "minch": "270",
+    "maxch": "495",
+    "semesters": 10,
+    "courses": [
+      {
+        "id": "1403747",
+        "name": "LIBRAS  LÍNGUA BRASILEIRA DE SINAIS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDLS0024",
+        "name": "LIBRAS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDLS0024",
+            "turmaid": "04",
+            "nome": " LIBRAS",
+            "semester": "2018.2",
+            "professor": "CAROLINA SILVA RESENDE DA NÓBREGA",
+            "horario": "3N1234",
+            "local": "CAB 105 (PRG)"
+          },
+          {
+            "id": "GDLS0024",
+            "turmaid": "07",
+            "nome": " LIBRAS",
+            "semester": "2018.2",
+            "professor": "MARIE GORETT DANTAS DE ASSIS E MEDEIROS BATISTA",
+            "horario": "4N1234",
+            "local": "CCHLA 421 BLOCO A 1º ANDAR (CCHLA)"
+          },
+          {
+            "id": "GDLS0024",
+            "turmaid": "12",
+            "nome": " LIBRAS",
+            "semester": "2018.2",
+            "professor": "MARIE GORETT DANTAS DE ASSIS E MEDEIROS BATISTA",
+            "horario": "5N1234",
+            "local": "CCHLA 423 BLOCO A 2º ANDAR (CCHLA)"
+          },
+          {
+            "id": "GDLS0024",
+            "turmaid": "15",
+            "nome": " LIBRAS",
+            "semester": "2018.2",
+            "professor": "MARIE GORETT DANTAS DE ASSIS E MEDEIROS BATISTA",
+            "horario": "6N1234",
+            "local": "CAH 108 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1101157",
+        "name": "FISICA GERAL I",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1101157",
+            "turmaid": "05",
+            "nome": " FISICA GERAL I",
+            "semester": "2018.2",
+            "professor": "A DEFINIR",
+            "horario": "24M45",
+            "local": "CAB 102 (PRG)"
+          },
+          {
+            "id": "1101157",
+            "turmaid": "08",
+            "nome": " FISICA GERAL I",
+            "semester": "2018.2",
+            "professor": "A DEFINIR",
+            "horario": "24T23",
+            "local": "CAB 102 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1103118",
+        "name": "CÁLCULO VETORIAL E GEOMETRIA ANALÍTICA",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1103118",
+            "turmaid": "10",
+            "nome": " CÁLCULO VETORIAL E GEOMETRIA ANALÍTICA",
+            "semester": "2018.2",
+            "professor": "GILMAR OTAVIO CORREIA",
+            "horario": "35T23",
+            "local": "CAA 105 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1103177",
+        "name": "CÁLCULO DIFERENCIAL E INTEGRAL I",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1103177",
+            "turmaid": "05",
+            "nome": " CÁLCULO DIFERENCIAL E INTEGRAL I",
+            "semester": "2018.2",
+            "professor": "FLAVIA JERONIMO BARBOSA",
+            "horario": "24M23",
+            "local": "CAA 105 (PRG)"
+          },
+          {
+            "id": "1103177",
+            "turmaid": "10",
+            "nome": " CÁLCULO DIFERENCIAL E INTEGRAL I",
+            "semester": "2018.2",
+            "professor": "GABRIELA ALBUQUERQUE WANDERLEY",
+            "horario": "24T45",
+            "local": "CAA 103 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1403153",
+        "name": "PORTUGUÊS INSTRUMENTAL",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1403153",
+            "turmaid": "03",
+            "nome": " PORTUGUÊS INSTRUMENTAL",
+            "semester": "2018.2",
+            "professor": "ISAIAS MOREIRA FERREIRA",
+            "horario": "6M1234",
+            "local": "CAG 106 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1404138",
+        "name": "LINGUA INGLESA I",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "75h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1404138",
+            "turmaid": "02",
+            "nome": " LINGUA INGLESA I",
+            "semester": "2018.2",
+            "professor": "GREGÓRIO PEREIRA DE VASCONCELOS",
+            "horario": "24M56 6M6",
+            "local": "CAA 101 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+          "1404325"
+        ]
+      },
+      {
+        "id": "1704245",
+        "name": "DESENHO BÁSICO",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1704245",
+            "turmaid": "01",
+            "nome": " DESENHO BÁSICO",
+            "semester": "2018.2",
+            "professor": "DIMITRI COSTA CASTOR",
+            "horario": "35M23",
+            "local": "CTE 101 (CT)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "2102006",
+        "name": "METODOLOGIA DO TRABALHO CIENTÍFICO",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1101163",
+        "name": "FISICA GERAL II",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1101163",
+            "turmaid": "03",
+            "nome": " FISICA GERAL II",
+            "semester": "2018.2",
+            "professor": "A DEFINIR",
+            "horario": "24M45",
+            "local": "CAB 103 (PRG)"
+          },
+          {
+            "id": "1101163",
+            "turmaid": "07",
+            "nome": " FISICA GERAL II",
+            "semester": "2018.2",
+            "professor": "A DEFINIR",
+            "horario": "24T23",
+            "local": "CAA 105 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1103178",
+        "name": "CALCULO DIFERENCIAL E INTEGRAL II",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1103178",
+            "turmaid": "04",
+            "nome": " CALCULO DIFERENCIAL E INTEGRAL II",
+            "semester": "2018.2",
+            "professor": "JOSE GOMES DE ASSIS",
+            "horario": "24M23",
+            "local": "CAD 110 (PRG)"
+          },
+          {
+            "id": "1103178",
+            "turmaid": "09",
+            "nome": " CALCULO DIFERENCIAL E INTEGRAL II",
+            "semester": "2018.2",
+            "professor": "ANTONIO JOAQUIM RODRIGUES FEITOSA",
+            "horario": "24T45",
+            "local": "CAB 104 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1103179",
+        "name": "INTRODUCAO A ALGEBRA LINEAR",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1103179",
+            "turmaid": "01",
+            "nome": " INTRODUCAO A ALGEBRA LINEAR",
+            "semester": "2018.2",
+            "professor": "JOAO BOSCO BATISTA LACERDA",
+            "horario": "35M23",
+            "local": "CAB 106 (PRG)"
+          },
+          {
+            "id": "1103179",
+            "turmaid": "09",
+            "nome": " INTRODUCAO A ALGEBRA LINEAR",
+            "semester": "2018.2",
+            "professor": "JOSE NAELITON MARQUES DA SILVA",
+            "horario": "35T23",
+            "local": "CAB 103 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1105161",
+        "name": "QUÍMICA FUNDAMENTAL",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1105161",
+            "turmaid": "04",
+            "nome": " QUÍMICA FUNDAMENTAL",
+            "semester": "2018.2",
+            "professor": "MARIA DE FATIMA CARVALHO COSTA",
+            "horario": "24T23",
+            "local": "CAD 108 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1107174",
+        "name": "INICIACAO A COMPUTACAO",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1107174",
+            "turmaid": "06",
+            "nome": " INICIACAO A COMPUTACAO",
+            "semester": "2018.2",
+            "professor": "GIORGIA DE OLIVEIRA MATTOS",
+            "horario": "35T45",
+            "local": "CAE 111 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1204172",
+        "name": "ADM PARA ENGENHARIA",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1204172",
+            "turmaid": "03",
+            "nome": " ADM PARA ENGENHARIA",
+            "semester": "2018.2",
+            "professor": "SANDRA LEANDRO PEREIRA",
+            "horario": "3M456",
+            "local": "CAF 111 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1707001",
+        "name": "CIRCUITOS LOGICOS",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "75h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1707001",
+            "turmaid": "01",
+            "nome": " CIRCUITOS LOGICOS",
+            "semester": "2018.2",
+            "professor": "JOSE MAURICIO RAMOS DE SOUZA NETO",
+            "horario": "3M23 6M123",
+            "local": "CTJ 202 (CT)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1101164",
+        "name": "FISICA GERAL III",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1101164",
+            "turmaid": "03",
+            "nome": " FISICA GERAL III",
+            "semester": "2018.2",
+            "professor": "A DEFINIR",
+            "horario": "24M45",
+            "local": "CAA 104 (PRG)"
+          },
+          {
+            "id": "1101164",
+            "turmaid": "06",
+            "nome": " FISICA GERAL III",
+            "semester": "2018.2",
+            "professor": "A DEFINIR",
+            "horario": "24T23",
+            "local": "CAE 110 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1101165",
+        "name": "FISICA EXPERIMENTAL I",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "0h aula 30h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1101165",
+            "turmaid": "03",
+            "nome": " FISICA EXPERIMENTAL I",
+            "semester": "2018.2",
+            "professor": "A DEFINIR",
+            "horario": "5T45",
+            "local": "DF 200 (CCEN)"
+          },
+          {
+            "id": "1101165",
+            "turmaid": "04",
+            "nome": " FISICA EXPERIMENTAL I",
+            "semester": "2018.2",
+            "professor": "A DEFINIR",
+            "horario": "6M23",
+            "local": "DF 200 (CCEN)"
+          },
+          {
+            "id": "1101165",
+            "turmaid": "05",
+            "nome": " FISICA EXPERIMENTAL I",
+            "semester": "2018.2",
+            "professor": "A DEFINIR",
+            "horario": "6M45",
+            "local": "DF 200 (CCEN)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1103180",
+        "name": "SERIES E EQUACOES DIF ORDINARIAS",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1103180",
+            "turmaid": "01",
+            "nome": " SERIES E EQUACOES DIF ORDINARIAS",
+            "semester": "2018.2",
+            "professor": "CARLOS BOCKER NETO",
+            "horario": "35M23",
+            "local": "CAF 111 (PRG)"
+          },
+          {
+            "id": "1103180",
+            "turmaid": "05",
+            "nome": " SERIES E EQUACOES DIF ORDINARIAS",
+            "semester": "2018.2",
+            "professor": "NACIB ANDRE GURGEL E ALBUQUERQUE",
+            "horario": "35T45",
+            "local": "CAA 101 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1103232",
+        "name": "CALCULO DIF  E INTEGRAL III",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1103232",
+            "turmaid": "01",
+            "nome": " CALCULO DIF  E INTEGRAL III",
+            "semester": "2018.2",
+            "professor": "LENIMAR NUNES DE ANDRADE",
+            "horario": "24M23",
+            "local": "CAC 108 (PRG)"
+          },
+          {
+            "id": "1103232",
+            "turmaid": "06",
+            "nome": " CALCULO DIF  E INTEGRAL III",
+            "semester": "2018.2",
+            "professor": "ALBERTO MASAYOSHI FARIA OHASHI",
+            "horario": "24T45",
+            "local": "CAB 101 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1108100",
+        "name": "CÁLCULO DAS PROBABILIDADES E  ESTATÍSTICA I",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1108100",
+            "turmaid": "07",
+            "nome": " CÁLCULO DAS PROBABILIDADES E  ESTATÍSTICA I",
+            "semester": "2018.2",
+            "professor": "TIE DIAS DE FARIAS e EUFRASIO DE ANDRADE LIMA NETO",
+            "horario": "35T23",
+            "local": "CAE 110 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1707002",
+        "name": "ARQUITETURA DE SISTEMAS DIGITAIS",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "75h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1707002",
+            "turmaid": "02",
+            "nome": " ARQUITETURA DE SISTEMAS DIGITAIS",
+            "semester": "2018.2",
+            "professor": "LUCAS VINICIUS HARTMANN",
+            "horario": "3M456 5M45",
+            "local": "CTJ 202 (CT)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "2102005",
+        "name": "INTRODUÇÃO A CIÊNCIA DOS MATERIAIS",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "2102005",
+            "turmaid": "02",
+            "nome": " INTRODUÇÃO A CIÊNCIA DOS MATERIAIS",
+            "semester": "2018.2",
+            "professor": "JOSE FELIX DA SILVA NETO",
+            "horario": "2T23 4T45",
+            "local": "CAF 105 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1101166",
+        "name": "FISICA EXPERIMENTAL II",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1101166",
+            "turmaid": "03",
+            "nome": " FISICA EXPERIMENTAL II",
+            "semester": "2018.2",
+            "professor": "A DEFINIR",
+            "horario": "3T23",
+            "local": "LAB (CCEN)"
+          },
+          {
+            "id": "1101166",
+            "turmaid": "04",
+            "nome": " FISICA EXPERIMENTAL II",
+            "semester": "2018.2",
+            "professor": "A DEFINIR",
+            "horario": "4M23",
+            "local": "LAB (CCEN)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1103128",
+        "name": "FUNCOES DE UMA VARIAVEL COMPLEXA",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1103128",
+            "turmaid": "01",
+            "nome": " FUNCOES DE UMA VARIAVEL COMPLEXA",
+            "semester": "2018.2",
+            "professor": "DAMIAO JUNIO GONCALVES ARAUJO",
+            "horario": "24T23",
+            "local": "CAA 106 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1108182",
+        "name": "INTRODUÇÃO À PROCESSOS ESTOCÁSTICOS",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1108182",
+            "turmaid": "01",
+            "nome": " INTRODUÇÃO À PROCESSOS ESTOCÁSTICOS",
+            "semester": "2018.2",
+            "professor": "RODRIGO BERNARDO DA SILVA e ANA HERMINIA ANDRADE E SILVA",
+            "horario": "24T45",
+            "local": "CAH 106 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1401161",
+        "name": "SOCIOLOGIA DO TRABALHO",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1401161",
+            "turmaid": "06",
+            "nome": " SOCIOLOGIA DO TRABALHO",
+            "semester": "2018.2",
+            "professor": "ANTONIO GIOVANNI BOAES GONCALVES",
+            "horario": "24M45",
+            "local": "CAF 103 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1701180",
+        "name": "MECANICA DOS SOLIDOS I",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "90h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1701180",
+            "turmaid": "02",
+            "nome": " MECANICA DOS SOLIDOS I",
+            "semester": "2018.2",
+            "professor": "NAOR MORAES MELO",
+            "horario": "356M23",
+            "local": "CTA 101 (CT)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1707499",
+        "name": "CIRCUITOS ELÉTRICOS I",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "75h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1707499",
+            "turmaid": "02",
+            "nome": " CIRCUITOS ELÉTRICOS I",
+            "semester": "2018.2",
+            "professor": "ALEXANDRE CEZAR DE CASTRO",
+            "horario": "3T45 5T123",
+            "local": "CTS 101 (CT)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDCOC0072",
+        "name": "CALCULO NUMERICO",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDCOC0072",
+            "turmaid": "02",
+            "nome": " CALCULO NUMERICO",
+            "semester": "2018.2",
+            "professor": "MOISES DANTAS DOS SANTOS",
+            "horario": "35M45",
+            "local": "CAA 106 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1101785",
+        "name": "ELETROMAGNETISMO I",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1101785",
+            "turmaid": "01",
+            "nome": " ELETROMAGNETISMO I",
+            "semester": "2018.2",
+            "professor": "A DEFINIR",
+            "horario": "26M45",
+            "local": "CAD 102 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1201126",
+        "name": "ECONOMIA I",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1201126",
+            "turmaid": "04",
+            "nome": " ECONOMIA I",
+            "semester": "2018.2",
+            "professor": "GABRIELA BEZERRA DE MEDEIROS",
+            "horario": "46T45",
+            "local": "CAF 110 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+          "1201180"
+        ]
+      },
+      {
+        "id": "1701181",
+        "name": "MECANICA DOS SOLIDOS II",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "75h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1701181",
+            "turmaid": "01",
+            "nome": " MECANICA DOS SOLIDOS II",
+            "semester": "2018.2",
+            "professor": "KOJE DANIEL VASCONCELOS MISHINA",
+            "horario": "4M23 5M123",
+            "local": "CTA 103 (CT)"
+          },
+          {
+            "id": "1701181",
+            "turmaid": "02",
+            "nome": " MECANICA DOS SOLIDOS II",
+            "semester": "2018.2",
+            "professor": "ABEL CAVALCANTE LIMA FILHO",
+            "horario": "3T23 5T123",
+            "local": "CTA 103 (CT)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1707012",
+        "name": "TÉCNICAS DE PROGRAMAÇÃO",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1707012",
+            "turmaid": "02",
+            "nome": " TÉCNICAS DE PROGRAMAÇÃO",
+            "semester": "2018.2",
+            "professor": "A DEFINIR",
+            "horario": "35M45",
+            "local": "LPS (CT)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1707013",
+        "name": "DISPOSITIVOS ELETRÔNICOS",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1707013",
+            "turmaid": "02",
+            "nome": " DISPOSITIVOS ELETRÔNICOS",
+            "semester": "2018.2",
+            "professor": "RAFAEL DE SOUSA MARINHO",
+            "horario": "2M23 4M45",
+            "local": "CTJ 203 (CT)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1707014",
+        "name": "ANÁLISE DE SINAIS E SISTEMAS",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1707014",
+            "turmaid": "02",
+            "nome": " ANÁLISE DE SINAIS E SISTEMAS",
+            "semester": "2018.2",
+            "professor": "CLEONILSON PROTASIO DE SOUZA",
+            "horario": "36M23",
+            "local": "CTJ 203 (CT)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1707015",
+        "name": "CIRCUITOS ELÉTRICOS II",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1707015",
+            "turmaid": "02",
+            "nome": " CIRCUITOS ELÉTRICOS II",
+            "semester": "2018.2",
+            "professor": "ISAAC SOARES DE FREITAS",
+            "horario": "24T23",
+            "local": "CTS 103 (CT)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1703103",
+        "name": "CIENCIAS DO AMBIENTE",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1703103",
+            "turmaid": "02",
+            "nome": " CIENCIAS DO AMBIENTE",
+            "semester": "2018.2",
+            "professor": "CARMEM LUCIA MOREIRA GADELHA",
+            "horario": "5M123",
+            "local": "CTM 201 (CT)"
+          },
+          {
+            "id": "1703103",
+            "turmaid": "03",
+            "nome": " CIENCIAS DO AMBIENTE",
+            "semester": "2018.2",
+            "professor": "ADRIANO ROLIM DA PAZ",
+            "horario": "6M123",
+            "local": "CTD 105 (CT)"
+          },
+          {
+            "id": "1703103",
+            "turmaid": "05",
+            "nome": " CIENCIAS DO AMBIENTE",
+            "semester": "2018.2",
+            "professor": "ALINE FLAVIA NUNES REMIGIO ANTUNES",
+            "horario": "6T123",
+            "local": "CTD 105 (CT)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1707500",
+        "name": "TEORIA DE CONTROLE",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1707500",
+            "turmaid": "02",
+            "nome": " TEORIA DE CONTROLE",
+            "semester": "2018.2",
+            "professor": "A DEFINIR",
+            "horario": "3T45 5T23",
+            "local": "CTJ 203 (CT)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1707501",
+        "name": "ELETRÔNICA",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "75h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1707501",
+            "turmaid": "02",
+            "nome": " ELETRÔNICA",
+            "semester": "2018.2",
+            "professor": "EULER CASSIO TAVARES DE MACEDO",
+            "horario": "4T456 6T45",
+            "local": "CTS 104 (CT)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1707502",
+        "name": "MATERIAIS ELÉTRICOS",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1707502",
+            "turmaid": "02",
+            "nome": " MATERIAIS ELÉTRICOS",
+            "semester": "2018.2",
+            "professor": "CICERO DA ROCHA SOUTO",
+            "horario": "25T45",
+            "local": "CTJ 203 (CT)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1707503",
+        "name": "CONVERSÃO DE ENERGIA",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "75h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1707503",
+            "turmaid": "01",
+            "nome": " CONVERSÃO DE ENERGIA",
+            "semester": "2018.2",
+            "professor": "ALEXANDRE CEZAR DE CASTRO",
+            "horario": "2T23 4T123",
+            "local": "CTJ 203 (CT)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1707504",
+        "name": "PESQUISA APLICADA À ENG ELÉTRICA",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1707504",
+            "turmaid": "01",
+            "nome": " PESQUISA APLICADA À ENG ELÉTRICA",
+            "semester": "2018.2",
+            "professor": "JESSICA PEDERNEIRAS MORAES ROCHA",
+            "horario": "3T123",
+            "local": "CTJ 203 (CT)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDEER0052",
+        "name": "MECÂNICA DOS FLUIDOS II",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "75h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1701179",
+            "turmaid": "01",
+            "nome": " MECANICA DOS FLUIDOS II",
+            "semester": "2018.2",
+            "professor": "ROMULO DA SILVEIRA PAZ",
+            "horario": "23M123",
+            "local": "CTJ 106 (CT)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+          "1701179"
+        ]
+      },
+      {
+        "id": "1707505",
+        "name": "CONTROLE I",
+        "category": "Obrigatória",
+        "semester": 7,
+        "workload": "75h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1707505",
+            "turmaid": "01",
+            "nome": " CONTROLE I",
+            "semester": "2018.2",
+            "professor": "ALEXSANDRO JOSÉ VIRGINIO DOS SANTOS",
+            "horario": "4M456 6M45",
+            "local": "CTJ 202 (CT)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1707506",
+        "name": "ELETRÔNICA DE POTÊNCIA",
+        "category": "Obrigatória",
+        "semester": 7,
+        "workload": "75h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1707506",
+            "turmaid": "01",
+            "nome": " ELETRÔNICA DE POTÊNCIA",
+            "semester": "2018.2",
+            "professor": "ROMERO LEANDRO ANDERSEN",
+            "horario": "3T45 5T123",
+            "local": "CTJ 202 (CT)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1707507",
+        "name": "INSTRUMENTAÇÃO ELETRÔNICA",
+        "category": "Obrigatória",
+        "semester": 7,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1707507",
+            "turmaid": "01",
+            "nome": " INSTRUMENTAÇÃO ELETRÔNICA",
+            "semester": "2018.2",
+            "professor": "CICERO DA ROCHA SOUTO",
+            "horario": "36M23",
+            "local": "MULTI CT (CT)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1707508",
+        "name": "SISTEMAS ELÉTRICOS",
+        "category": "Obrigatória",
+        "semester": 7,
+        "workload": "75h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1707508",
+            "turmaid": "01",
+            "nome": " SISTEMAS ELÉTRICOS",
+            "semester": "2018.2",
+            "professor": "CLIVALDO SILVA DE ARAUJO",
+            "horario": "2M23 4M123",
+            "local": "CTJ 202 (CT)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1707509",
+        "name": "PRINCÍPIOS DE COMUNICAÇÕES",
+        "category": "Obrigatória",
+        "semester": 7,
+        "workload": "75h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1707509",
+            "turmaid": "01",
+            "nome": " PRINCÍPIOS DE COMUNICAÇÕES",
+            "semester": "2018.2",
+            "professor": "FABRICIO BRAGA SOARES DE CARVALHO",
+            "horario": "3M45 5M123",
+            "local": "CTJ 202 (CT) / CTJ 203 (CT)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1707510",
+        "name": "MÁQUINAS ELÉTRICAS  ENG ELÉTRICA",
+        "category": "Obrigatória",
+        "semester": 7,
+        "workload": "75h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1707510",
+            "turmaid": "01",
+            "nome": " MÁQUINAS ELÉTRICAS  ENG ELÉTRICA",
+            "semester": "2018.2",
+            "professor": "FABIANO SALVADORI",
+            "horario": "2M45 5M456",
+            "local": "CTJ 203 (CT)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1707518",
+        "name": "AUTOMAÇÃO INTELIGENTE",
+        "category": "Optativa",
+        "semester": 8,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1707518",
+            "turmaid": "02",
+            "nome": " AUTOMAÇÃO INTELIGENTE",
+            "semester": "2018.2",
+            "professor": "A DEFINIR",
+            "horario": "25M45",
+            "local": "CTM 204 (CT)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1707519",
+        "name": "CONVERSORES ESTÁTICOS E ELETROMECANICOS",
+        "category": "Optativa",
+        "semester": 8,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1707519",
+            "turmaid": "01",
+            "nome": " CONVERSORES ESTÁTICOS E ELETROMECANICOS",
+            "semester": "2018.2",
+            "professor": "ROMERO LEANDRO ANDERSEN",
+            "horario": "3M45 5M23",
+            "local": "CTJ 106 (CT)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1707520",
+        "name": "INFORMÁTICA INDUSTRIAL",
+        "category": "Optativa",
+        "semester": 8,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1707520",
+            "turmaid": "01",
+            "nome": " INFORMÁTICA INDUSTRIAL",
+            "semester": "2018.2",
+            "professor": "ADEMAR VIRGOLINO DA SILVA NETTO",
+            "horario": "24T23",
+            "local": "CTJ 202 (CT)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1707521",
+        "name": "SIST DE AQUISIÇÃO DE DADOS E INTERFACES",
+        "category": "Optativa",
+        "semester": 8,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1707521",
+            "turmaid": "02",
+            "nome": " SIST DE AQUISIÇÃO DE DADOS E INTERFACES",
+            "semester": "2018.2",
+            "professor": "CARLOS ALBERTO DE SOUZA FILHO",
+            "horario": "46T45",
+            "local": "LAC (CT)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1707523",
+        "name": "SISTEMAS DE AUTOMAÇÃO INDUSTRIAL",
+        "category": "Optativa",
+        "semester": 8,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1707524",
+        "name": "SISTEMAS DE EVENTOS DISCRETOS",
+        "category": "Optativa",
+        "semester": 8,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1707525",
+        "name": "SISTEMAS EM TEMPO REAL",
+        "category": "Optativa",
+        "semester": 8,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1707539",
+        "name": "TÓPICOS ESPECIAIS EM ENGENHARIA ELÉTRICA",
+        "category": "Complementar Flexiva",
+        "semester": 8,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1707009",
+        "name": "ACIONAMENTOS E CONTROLES ELÉTRICOS",
+        "category": "Complementar Obrigatória",
+        "semester": 8,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1707514",
+        "name": "FILTROS ELÉTRICOS",
+        "category": "Complementar Obrigatória",
+        "semester": 8,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1707514",
+            "turmaid": "02",
+            "nome": " FILTROS ELÉTRICOS",
+            "semester": "2018.2",
+            "professor": "EULER CASSIO TAVARES DE MACEDO",
+            "horario": "46M45",
+            "local": "CTM 204 (CT)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1707515",
+        "name": "INSTRUMENTAÇÃO INDUSTRIAL",
+        "category": "Complementar Obrigatória",
+        "semester": 8,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1707515",
+            "turmaid": "01",
+            "nome": " INSTRUMENTAÇÃO INDUSTRIAL",
+            "semester": "2018.2",
+            "professor": "CARLOS ALBERTO DE SOUZA FILHO",
+            "horario": "36M23",
+            "local": "LAC (CT)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1707522",
+        "name": "CONTROLE DE PROCESSOS",
+        "category": "Optativa",
+        "semester": 9,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1707522",
+            "turmaid": "01",
+            "nome": " CONTROLE DE PROCESSOS",
+            "semester": "2018.2",
+            "professor": "ADEMAR VIRGOLINO DA SILVA NETTO",
+            "horario": "25T45",
+            "local": "CTJ 202 (CT)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1707541",
+        "name": "TRABALHO DE CONCLUSAÕ DE CURSO TCC",
+        "category": "Complementar Obrigatória",
+        "semester": 9,
+        "workload": "60h aula 0h lab.",
+        "type": "TRABALHO DE CONCLUSÃO DE CURSO",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1707540",
+        "name": "ESTÁGIO SUPERVISIONADO",
+        "category": "Obrigatória",
+        "semester": 10,
+        "workload": "180h aula 0h lab.",
+        "type": "ESTÁGIO",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1707512",
+        "name": " ACIONAMENTOS E CONTROLES ELETRICOS",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": "60h",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1707512",
+            "turmaid": "01",
+            "nome": " ACIONAMENTOS E CONTROLES ELETRICOS",
+            "semester": "2018.2",
+            "professor": "NADY ROCHA",
+            "horario": "3T45 5T23",
+            "local": "CTM 203 (CT)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+          "1707009"
+        ]
+      },
+      {
+        "id": "1707517",
+        "name": " ANÁLISE DE SISTEMAS ELÉTRICOS",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": "60h",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1707517",
+            "turmaid": "01",
+            "nome": " ANÁLISE DE SISTEMAS ELÉTRICOS",
+            "semester": "2018.2",
+            "professor": "HELON DAVID DE MACEDO BRAZ",
+            "horario": "25M45",
+            "local": "CTK 201 (CT)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1707529",
+        "name": " COMUNICAÇÃO DIGITAL",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": "60h",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1707529",
+            "turmaid": "01",
+            "nome": " COMUNICAÇÃO DIGITAL",
+            "semester": "2018.2",
+            "professor": "FABRICIO BRAGA SOARES DE CARVALHO",
+            "horario": "24M23",
+            "local": "CTJ 102 (CT) / CTJ 106 (CT)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1707534",
+        "name": " DISTRIBUIÇÃO DE ENERGIA ELÉTRICA",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": "60h",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1707534",
+            "turmaid": "01",
+            "nome": " DISTRIBUIÇÃO DE ENERGIA ELÉTRICA",
+            "semester": "2018.2",
+            "professor": "HELON DAVID DE MACEDO BRAZ",
+            "horario": "25T45",
+            "local": "CTJ T03 (CT)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1707537",
+        "name": " GERAÇÃO DE ENERGIA ELÉTRICA",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": "60h",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1707537",
+            "turmaid": "01",
+            "nome": " GERAÇÃO DE ENERGIA ELÉTRICA",
+            "semester": "2018.2",
+            "professor": "ROGERIO GASPAR DE ALMEIDA",
+            "horario": "46T45",
+            "local": "CTM 204 (CT)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1707511",
+        "name": " INSTALAÇÕES ELETRICAS",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": "60h",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1707511",
+            "turmaid": "02",
+            "nome": " INSTALAÇÕES ELETRICAS",
+            "semester": "2018.2",
+            "professor": "NADY ROCHA",
+            "horario": "36M23",
+            "local": "CTM 205 (CT)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1701179",
+        "name": " MECANICA DOS FLUIDOS II",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": "90h",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1701179",
+            "turmaid": "01",
+            "nome": " MECANICA DOS FLUIDOS II",
+            "semester": "2018.2",
+            "professor": "ROMULO DA SILVEIRA PAZ",
+            "horario": "23M123",
+            "local": "CTJ 106 (CT)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+          "2102007",
+          "2102027",
+          "GDEER0052"
+        ]
+      },
+      {
+        "id": "1701175",
+        "name": " METODOLOGIA DO TRABALHO CIENTIFICO",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": "45h",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1701175",
+            "turmaid": "01",
+            "nome": " METODOLOGIA DO TRABALHO CIENTIFICO",
+            "semester": "2018.2",
+            "professor": "ROMULO DA SILVEIRA PAZ",
+            "horario": "2T1 5T45",
+            "local": "CTA 101 (CT)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1707516",
+        "name": " MICROCONTROLADORES E MICROPROCESSADORES",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": "60h",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1707516",
+            "turmaid": "01",
+            "nome": " MICROCONTROLADORES E MICROPROCESSADORES",
+            "semester": "2018.2",
+            "professor": "LUCAS VINICIUS HARTMANN",
+            "horario": "3T45 5T23",
+            "local": "LPS (CT)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1707530",
+        "name": " PROJETOS DE CIRCUITOS INTEGRADOS",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": "60h",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1707530",
+            "turmaid": "02",
+            "nome": " PROJETOS DE CIRCUITOS INTEGRADOS",
+            "semester": "2018.2",
+            "professor": "RAFAEL DE SOUSA MARINHO",
+            "horario": "25M45",
+            "local": "CTS 103 (CT)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1707533",
+        "name": " PROTEÇÃO DE SISTEMAS ELÉTRICOS",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": "60h",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1707533",
+            "turmaid": "01",
+            "nome": " PROTEÇÃO DE SISTEMAS ELÉTRICOS",
+            "semester": "2018.2",
+            "professor": "ROGERIO GASPAR DE ALMEIDA",
+            "horario": "36T23",
+            "local": "CTJ 102 (CT)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1707513",
+        "name": " TÉCNICAS DE MEDIÇÃO",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": "60h",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1707513",
+            "turmaid": "01",
+            "nome": " TÉCNICAS DE MEDIÇÃO",
+            "semester": "2018.2",
+            "professor": "YURI PERCY MOLINA RODRIGUEZ",
+            "horario": "24M23",
+            "local": "CTM 204 (CT)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,1978 @@
+{
+  "curriculum": {
+    "id": "372009",
+    "codigo": "1626815",
+    "name": "FONOAUDIOLOGIA - João Pessoa - Presencial - MT - OUTRO TIPO DE GRAU ACADÊMICO",
+    "faculty": "CENTRO DE CIÊNCIAS DA SAÚDE (CCS) (11.00.54)",
+    "minch": "300",
+    "maxch": "510",
+    "semesters": 8,
+    "courses": [
+      {
+        "id": "1202252",
+        "name": "ATIVIDADE DE EXTENSAO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1302308",
+        "name": "INTRODUÇÃO AOS RECURSOS AUDIOVISUAIS EM EDUCAÇÃO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1303180",
+        "name": "POLITICA E GESTAO DA EDUCACAO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1303180",
+            "turmaid": "01",
+            "nome": " POLITICA E GESTAO DA EDUCACAO",
+            "semester": "2018.2",
+            "professor": "GALDINO TOSCANO DE BRITO FILHO",
+            "horario": "3T1234",
+            "local": "CCS 106 (CCS)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+          "1303208"
+        ]
+      },
+      {
+        "id": "1611139",
+        "name": "PARASITOLOGIA II",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1611139",
+            "turmaid": "03",
+            "nome": " PARASITOLOGIA II",
+            "semester": "2018.2",
+            "professor": "FABIO MARCEL DA SILVA SANTOS",
+            "horario": "6M123",
+            "local": "CCS 208 (CCS)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1611141",
+        "name": "PATOLOGIA GERAL",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1611141",
+            "turmaid": "02",
+            "nome": " PATOLOGIA GERAL",
+            "semester": "2018.2",
+            "professor": "IARA LEÃO LUNA DE SOUZA",
+            "horario": "6T123",
+            "local": "CCS 204 (CCS)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1611215",
+        "name": "COGNIÇÃO E MEMÓRIA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1612117",
+        "name": "NUTRICAO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1612117",
+            "turmaid": "01",
+            "nome": " NUTRICAO",
+            "semester": "2018.2",
+            "professor": "ANA PAULA MORAES VENTURA e TALITA MARIA ALVES LOPES DA SILVA",
+            "horario": "2M23",
+            "local": "FONO 29 (CCS)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1614174",
+        "name": "BIOINFORMATICA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1618051",
+        "name": "SAÚDE MENTAL",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1618051",
+            "turmaid": "01",
+            "nome": " SAÚDE MENTAL",
+            "semester": "2018.2",
+            "professor": "JAIMS FRANKLIN RIBEIRO SOARES",
+            "horario": "2T1234",
+            "local": "FONO 54 (CCS)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1805137",
+        "name": "ATENCAO A SAUDE DA FAMILIA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1104231",
+        "name": "FUNDAMENTOS DE GENETICA",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1104231",
+            "turmaid": "01",
+            "nome": " FUNDAMENTOS DE GENETICA",
+            "semester": "2018.2",
+            "professor": "MARCIA ROSA DE OLIVEIRA",
+            "horario": "3M45",
+            "local": "CCS 606 (CCS)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1108181",
+        "name": "BIOESTATISTICA",
+        "category": "Complementar Obrigatória",
+        "semester": 1,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1108181",
+            "turmaid": "01",
+            "nome": " BIOESTATISTICA",
+            "semester": "2018.2",
+            "professor": "JOZEMAR PEREIRA DOS SANTOS",
+            "horario": "2M234",
+            "local": "CCS 607 (CCS)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1401281",
+        "name": "SOCIOLOGIA DA SAUDE",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1401281",
+            "turmaid": "02",
+            "nome": " SOCIOLOGIA DA SAUDE",
+            "semester": "2018.2",
+            "professor": "MARI CRISTINA DE FREITAS FAGUNDES",
+            "horario": "4M234",
+            "local": "CAH 107 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1403743",
+        "name": "LING APLICADA A FONOAUDIOLOGIA",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "75h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1403743",
+            "turmaid": "01",
+            "nome": " LING APLICADA A FONOAUDIOLOGIA",
+            "semester": "2018.2",
+            "professor": "MARIANNE CARVALHO BEZERRA CAVALCANTE",
+            "horario": "3T12345",
+            "local": "CCS 104 (CCS)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1610183",
+        "name": "ANATOMIA APLICADA A FONOAUDIOLOGIA I",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1610183",
+            "turmaid": "01",
+            "nome": " ANATOMIA APLICADA A FONOAUDIOLOGIA I",
+            "semester": "2018.2",
+            "professor": "ANNA FERLA MONTEIRO SILVA",
+            "horario": "4T1234",
+            "local": "CCS 406 (CCS)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1610184",
+        "name": "BIOLOGIA DO DESENV E HISTOLOGIA HUMANA",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1610184",
+            "turmaid": "03",
+            "nome": " BIOLOGIA DO DESENV E HISTOLOGIA HUMANA",
+            "semester": "2018.2",
+            "professor": "ROSSANA SEIXAS MAIA DA SILVA e ANDREA SARMENTO QUEIROGA",
+            "horario": "6M12 5T12",
+            "local": "CCS 403 (CCS)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1618001",
+        "name": "FUNDAMENTOS DA FONOAUDIOLOGIA",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1618001",
+            "turmaid": "01",
+            "nome": " FUNDAMENTOS DA FONOAUDIOLOGIA",
+            "semester": "2018.2",
+            "professor": "ARIANA ELITE DOS SANTOS",
+            "horario": "5M2345",
+            "local": "FONO 59 (CCS)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1618003",
+        "name": "ACUSTICA E PSICOACUSTICA",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1618003",
+            "turmaid": "01",
+            "nome": " ACUSTICA E PSICOACUSTICA",
+            "semester": "2018.2",
+            "professor": "VINICIUS JEFFERSON DIAS VIEIRA",
+            "horario": "6M345",
+            "local": "FONO 05 (CCS)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1618053",
+        "name": "METODOLOGIA DO TRABALHO CIENTÍFICO",
+        "category": "Complementar Obrigatória",
+        "semester": 1,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1618053",
+            "turmaid": "01",
+            "nome": " METODOLOGIA DO TRABALHO CIENTÍFICO",
+            "semester": "2018.2",
+            "professor": "MARIA ADELAIDE SILVA PAREDES MOREIRA",
+            "horario": "3M23",
+            "local": "FONO 54 (CCS)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1302215",
+        "name": "TECNICAS AUDIOV EDUC I",
+        "category": "Optativa",
+        "semester": 2,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1614122",
+        "name": "MICROCOMPUTACAO EM SAUDE",
+        "category": "Optativa",
+        "semester": 2,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1618045",
+        "name": "TOPICOS ESPECIAIS EM FONO I",
+        "category": "Complementar Flexiva",
+        "semester": 2,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1403386",
+        "name": "FONETICA E FONOLOGIA",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1403386",
+            "turmaid": "01",
+            "nome": " FONETICA E FONOLOGIA",
+            "semester": "2018.2",
+            "professor": "JORGEVALDO DE SOUZA SILVA",
+            "horario": "5M345",
+            "local": "FONO 03 (CCS)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1610193",
+        "name": "ANATOMIA APLICADA A FONOAUDIOLOGIA II",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "90h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1610193",
+            "turmaid": "01",
+            "nome": " ANATOMIA APLICADA A FONOAUDIOLOGIA II",
+            "semester": "2018.2",
+            "professor": "ANA KARINE FARIAS DA TRINDADE",
+            "horario": "3M1234 5M12",
+            "local": "CCS 419 (CCS)"
+          }
+        ],
+        "prerequisites": [
+          "1610183"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1610195",
+        "name": "NEUROANATOMIA FUNCIONAL",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1610195",
+            "turmaid": "01",
+            "nome": " NEUROANATOMIA FUNCIONAL",
+            "semester": "2018.2",
+            "professor": "ANA LUCIA BASILIO CARNEIRO",
+            "horario": "3T1234",
+            "local": "CCS 416 (CCS)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1611194",
+        "name": "FISIOLOGIA HUMANA II",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "90h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1611194",
+            "turmaid": "03",
+            "nome": " FISIOLOGIA HUMANA II",
+            "semester": "2018.2",
+            "professor": "RACHEL LINKA BENIZ GOUVEIA",
+            "horario": "24M123",
+            "local": "DOR 306 (CCS)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1618002",
+        "name": "ETICA E BIOETICA APL A FONOAUDIOLOGIA",
+        "category": "Complementar Obrigatória",
+        "semester": 2,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1618002",
+            "turmaid": "01",
+            "nome": " ETICA E BIOETICA APL A FONOAUDIOLOGIA",
+            "semester": "2018.2",
+            "professor": "ANA LOISA DE LIMA E SILVA",
+            "horario": "5T123",
+            "local": "FONO 54 (CCS)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1618004",
+        "name": "PSICOLOGIA DO DESENV E DA APRENDIZAGEM",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1618004",
+            "turmaid": "01",
+            "nome": " PSICOLOGIA DO DESENV E DA APRENDIZAGEM",
+            "semester": "2018.2",
+            "professor": "JAIMS FRANKLIN RIBEIRO SOARES",
+            "horario": "6T123",
+            "local": "FONO 55 (CCS)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1618016",
+        "name": "PESQUISA APLICADA A FONO",
+        "category": "Complementar Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1618016",
+            "turmaid": "01",
+            "nome": " PESQUISA APLICADA A FONO",
+            "semester": "2018.2",
+            "professor": "MARIANA LOPES MARTINS",
+            "horario": "4T1234",
+            "local": "FONO 54 (CCS)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1611204",
+        "name": "FARMACOLOGIA",
+        "category": "Optativa",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1618046",
+        "name": "TOPICOS ESPECIAIS EM FONO II",
+        "category": "Complementar Flexiva",
+        "semester": 3,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1602182",
+        "name": "ORTODONTIA E ORTOPEDIA FACIAL",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1602182",
+            "turmaid": "01",
+            "nome": " ORTODONTIA E ORTOPEDIA FACIAL",
+            "semester": "2018.2",
+            "professor": "RICARDO LOMBARDI DE FARIAS, EDNARA MERCIA FERNANDES DE ANDRADE, REJANE TARGINO SOARES BELTRAO e KARINA JERONIMO RODRIGUES SANTIAGO DE LIMA",
+            "horario": "3T234",
+            "local": "FONO  04 (CCS)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1618005",
+        "name": "AUDIOLOGIA I",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1618005",
+            "turmaid": "01",
+            "nome": " AUDIOLOGIA I",
+            "semester": "2018.2",
+            "professor": "WAGNER TEOBALDO LOPES DE ANDRADE",
+            "horario": "5M2345",
+            "local": "FONO 61 (CCS)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1618006",
+        "name": "VOZ I",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1618006",
+            "turmaid": "01",
+            "nome": " VOZ I",
+            "semester": "2018.2",
+            "professor": "ANNA ALICE FIGUEIREDO DE ALMEIDA",
+            "horario": "3M2345",
+            "local": "FONO 61 (CCS)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1618007",
+        "name": "AQUISIÇÃO DA LINGUAGEM ORAL",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1618007",
+            "turmaid": "01",
+            "nome": " AQUISIÇÃO DA LINGUAGEM ORAL",
+            "semester": "2018.2",
+            "professor": "HERTHA MARIA TAVARES DE ALBUQUERQUE COUTINHO",
+            "horario": "4T123",
+            "local": "FONO 61 (CCS)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1618008",
+        "name": "APRENDIZAGEM DA LINGUAGEM ESCRITA",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1618008",
+            "turmaid": "01",
+            "nome": " APRENDIZAGEM DA LINGUAGEM ESCRITA",
+            "semester": "2018.2",
+            "professor": "HERTHA MARIA TAVARES DE ALBUQUERQUE COUTINHO",
+            "horario": "4M345",
+            "local": "FONO 61 (CCS)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1618009",
+        "name": "MOTRICIDADE OROFACIAL I",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1618009",
+            "turmaid": "01",
+            "nome": " MOTRICIDADE OROFACIAL I",
+            "semester": "2018.2",
+            "professor": "ANA KARENINA DE FREITAS JORDAO DO AMARAL",
+            "horario": "2M2345",
+            "local": "FONO 01 (CCS)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1618044",
+        "name": "PSICOLOGIA DA SAÚDE",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1618044",
+            "turmaid": "01",
+            "nome": " PSICOLOGIA DA SAÚDE",
+            "semester": "2018.2",
+            "professor": "JAIMS FRANKLIN RIBEIRO SOARES",
+            "horario": "6M345",
+            "local": "FONO 01 (CCS)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1618052",
+        "name": "SAÚDE  COLETIVA",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1618052",
+            "turmaid": "01",
+            "nome": " SAÚDE  COLETIVA",
+            "semester": "2018.2",
+            "professor": "JANAÍNA VON SOHSTEN TRIGUEIRO",
+            "horario": "2T1234",
+            "local": "FONO 01 (CCS)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1618049",
+        "name": "EPIDEMOLOGIA APLICÁ FONOAUDIOLOGIA",
+        "category": "Optativa",
+        "semester": 4,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1618049",
+            "turmaid": "01",
+            "nome": " EPIDEMOLOGIA APLICÁ FONOAUDIOLOGIA",
+            "semester": "2018.2",
+            "professor": "JULYANE FEITOZA COÊLHO",
+            "horario": "4M23",
+            "local": "FONO 54 (CCS)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1618010",
+        "name": "AUDIOLOGIA II",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1618010",
+            "turmaid": "01",
+            "nome": " AUDIOLOGIA II",
+            "semester": "2018.2",
+            "professor": "A DEFINIR",
+            "horario": "5M2345",
+            "local": "FONO 33 (CCS)"
+          }
+        ],
+        "prerequisites": [
+          "1618005"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1618011",
+        "name": "VOZ II",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1618011",
+            "turmaid": "01",
+            "nome": " VOZ II",
+            "semester": "2018.2",
+            "professor": "LEONARDO WANDERLEY LOPES",
+            "horario": "3M2345",
+            "local": "FONO 03 (CCS)"
+          }
+        ],
+        "prerequisites": [
+          "1618006"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1618012",
+        "name": "LINGUAGEM ORAL I",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "75h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1618012",
+            "turmaid": "01",
+            "nome": " LINGUAGEM ORAL I",
+            "semester": "2018.2",
+            "professor": "ARIANA ELITE DOS SANTOS",
+            "horario": "5T12345",
+            "local": "FONO 33 (CCS)"
+          }
+        ],
+        "prerequisites": [
+          "1618007"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1618014",
+        "name": "MOTRICIDADE OROFACIAL II",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1618014",
+            "turmaid": "01",
+            "nome": " MOTRICIDADE OROFACIAL II",
+            "semester": "2018.2",
+            "professor": "GIORVAN ANDERSON DOS SANTOS ALVES",
+            "horario": "2M2345",
+            "local": "FONO 03 (CCS)"
+          }
+        ],
+        "prerequisites": [
+          "1618009"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1618015",
+        "name": "SAÚDE COLETIVA APLICADA À FONOAUDIOLOGIA",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1618015",
+            "turmaid": "01",
+            "nome": " SAÚDE COLETIVA APLICADA À FONOAUDIOLOGIA",
+            "semester": "2018.2",
+            "professor": "MICHELLY SANTOS DE ANDRADE",
+            "horario": "2T1234",
+            "local": "FONO 03 (CCS)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1618024",
+        "name": "AUDIOLOGIA EDUCACIONAL",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1618024",
+            "turmaid": "01",
+            "nome": " AUDIOLOGIA EDUCACIONAL",
+            "semester": "2018.2",
+            "professor": "LUCIANA PIMENTEL FERNANDES DE MELO",
+            "horario": "3T123",
+            "local": "FONO 32 (CCS)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1613123",
+        "name": "SAUDE MENTAL",
+        "category": "Optativa",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1618047",
+        "name": "TOPICOS ESPECIAIS EM FONO III",
+        "category": "Complementar Flexiva",
+        "semester": 5,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1618050",
+        "name": "FONNA ATENÇÃO PRIM Á SAÚDE",
+        "category": "Optativa",
+        "semester": 5,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1204231",
+        "name": "ADMINISTRAÇÃO APLICADA À SAÚDE",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1204231",
+            "turmaid": "01",
+            "nome": " ADMINISTRAÇÃO APLICADA À SAÚDE",
+            "semester": "2018.2",
+            "professor": "CLÁUDIO PILAR DA SILVA JUNIOR",
+            "horario": "5T234",
+            "local": "FONO 03 (CCS)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1618013",
+        "name": "LINGUAGEM ESCRITA",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1618013",
+            "turmaid": "01",
+            "nome": " LINGUAGEM ESCRITA",
+            "semester": "2018.2",
+            "professor": "ISABELLE CAHINO DELGADO",
+            "horario": "4M2345",
+            "local": "FONO  04 (CCS)"
+          }
+        ],
+        "prerequisites": [
+          "1618008"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1618017",
+        "name": "AUDIOLOGIA III",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1618017",
+            "turmaid": "01",
+            "nome": " AUDIOLOGIA III",
+            "semester": "2018.2",
+            "professor": "HANNALICE GOTTSCHALCK CAVALCANTI",
+            "horario": "5M2345",
+            "local": "FONO  04 (CCS)"
+          }
+        ],
+        "prerequisites": [
+          "1618010"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1618018",
+        "name": "VOZ III",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1618018",
+            "turmaid": "01",
+            "nome": " VOZ III",
+            "semester": "2018.2",
+            "professor": "LEANDRO DE ARAUJO PERNAMBUCO e PRISCILA OLIVEIRA COSTA SILVA",
+            "horario": "3M2345",
+            "local": "FONO  04 (CCS)"
+          }
+        ],
+        "prerequisites": [
+          "1618011"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1618019",
+        "name": "LINGUAGEM ORAL II",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "75h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1618019",
+            "turmaid": "01",
+            "nome": " LINGUAGEM ORAL II",
+            "semester": "2018.2",
+            "professor": "FLAVIA LUIZA COSTA DO REGO",
+            "horario": "4T12345",
+            "local": "FONO  04 (CCS)"
+          }
+        ],
+        "prerequisites": [
+          "1618012"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1618021",
+        "name": "MOTRICIDADE OROFACIAL III",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1618021",
+            "turmaid": "01",
+            "nome": " MOTRICIDADE OROFACIAL III",
+            "semester": "2018.2",
+            "professor": "LUCIANE SPINELLI DE FIGUEIREDO PESSOA",
+            "horario": "2M2345",
+            "local": "FONO  04 (CCS)"
+          }
+        ],
+        "prerequisites": [
+          "1618014"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDLS0024",
+        "name": "LIBRAS",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDLS0024",
+            "turmaid": "03",
+            "nome": " LIBRAS",
+            "semester": "2018.2",
+            "professor": "LIGIO JOSIAS GOMES DE SOUSA",
+            "horario": "3T1234",
+            "local": "CCS 509 (CCS)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1618048",
+        "name": "TOPICOS ESPECIAIS EM FONO IV",
+        "category": "Complementar Flexiva",
+        "semester": 6,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1303250",
+        "name": "EDUC ESP NA PERSPEC DA EDUC INCLUSIVA",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1303250",
+            "turmaid": "01",
+            "nome": " EDUC ESP NA PERSPEC DA EDUC INCLUSIVA",
+            "semester": "2018.2",
+            "professor": "ADENIZE QUEIROZ DE FARIAS",
+            "horario": "3T123",
+            "local": "FONO 03 (CCS)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1618025",
+        "name": "VOZ PROFISSIONAL",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1618025",
+            "turmaid": "01",
+            "nome": " VOZ PROFISSIONAL",
+            "semester": "2018.2",
+            "professor": "MARIA FABIANA BONFIM DE LIMA SILVA",
+            "horario": "4T1234",
+            "local": "FONO 03 (CCS)"
+          }
+        ],
+        "prerequisites": [
+          "1618006"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1618026",
+        "name": "DISFAGIA",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1618026",
+            "turmaid": "01",
+            "nome": " DISFAGIA",
+            "semester": "2018.2",
+            "professor": "MANUELA LEITÃO DE VASCONCELOS e LEANDRO DE ARAUJO PERNAMBUCO",
+            "horario": "4M123",
+            "local": "FONO 03 (CCS)"
+          }
+        ],
+        "prerequisites": [
+          "1618021"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1618037",
+        "name": "FONOAUDIOLOGIA ESCOLAREDUCACIONAL",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "90h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1618037",
+            "turmaid": "01",
+            "nome": " FONOAUDIOLOGIA ESCOLAREDUCACIONAL",
+            "semester": "2018.2",
+            "professor": "LUCIANA FIGUEIREDO DE OLIVEIRA",
+            "horario": "2M2345 3M23",
+            "local": "FONO 05 (CCS)"
+          },
+          {
+            "id": "1618037",
+            "turmaid": "02",
+            "nome": " FONOAUDIOLOGIA ESCOLAREDUCACIONAL",
+            "semester": "2018.2",
+            "professor": "LUCIANA FIGUEIREDO DE OLIVEIRA",
+            "horario": "3M45 2T1234",
+            "local": "FONO 05 (CCS) / FONO  04 (CCS)"
+          }
+        ],
+        "prerequisites": [
+          "1618012",
+          "1618013"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1618038",
+        "name": "ESTAGIO SUPER EM SAÚDE COLETIVA",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "90h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1618038",
+            "turmaid": "01",
+            "nome": " ESTAGIO SUPER EM SAÚDE COLETIVA",
+            "semester": "2018.2",
+            "professor": "JANAÍNA VON SOHSTEN TRIGUEIRO",
+            "horario": "4M45 5M2345",
+            "local": "FONO 30 (CCS)"
+          },
+          {
+            "id": "1618038",
+            "turmaid": "02",
+            "nome": " ESTAGIO SUPER EM SAÚDE COLETIVA",
+            "semester": "2018.2",
+            "professor": "JULYANE FEITOZA COÊLHO",
+            "horario": "4M45 5M2345",
+            "local": "FONO 32 (CCS)"
+          },
+          {
+            "id": "1618038",
+            "turmaid": "03",
+            "nome": " ESTAGIO SUPER EM SAÚDE COLETIVA",
+            "semester": "2018.2",
+            "professor": "MARIA ADELAIDE SILVA PAREDES MOREIRA",
+            "horario": "4M45 5M2345",
+            "local": "FONO 36 (CCS)"
+          },
+          {
+            "id": "1618038",
+            "turmaid": "04",
+            "nome": " ESTAGIO SUPER EM SAÚDE COLETIVA",
+            "semester": "2018.2",
+            "professor": "MICHELLY SANTOS DE ANDRADE",
+            "horario": "4M45 5M1234",
+            "local": "FONO 65 (CCS)"
+          }
+        ],
+        "prerequisites": [
+          "1618015"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1618028",
+        "name": "TCC I FONO",
+        "category": "Complementar Obrigatória",
+        "semester": 7,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1618028",
+            "turmaid": "01",
+            "nome": " TCC I FONO",
+            "semester": "2018.2",
+            "professor": "JANAÍNA VON SOHSTEN TRIGUEIRO",
+            "horario": "5T123",
+            "local": "FONO 01 (CCS)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1618030",
+        "name": "ESTAGIO SUPER EM AUDIO EDUCACIONAL",
+        "category": "Obrigatória",
+        "semester": 7,
+        "workload": "75h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1618030",
+            "turmaid": "01",
+            "nome": " ESTAGIO SUPER EM AUDIO EDUCACIONAL",
+            "semester": "2018.2",
+            "professor": "LUCIANA PIMENTEL FERNANDES DE MELO",
+            "horario": "4M12345",
+            "local": "FONO 29 (CCS)"
+          },
+          {
+            "id": "1618030",
+            "turmaid": "02",
+            "nome": " ESTAGIO SUPER EM AUDIO EDUCACIONAL",
+            "semester": "2018.2",
+            "professor": "LUCIANA PIMENTEL FERNANDES DE MELO",
+            "horario": "4T12345",
+            "local": "FONO 60 (CCS)"
+          },
+          {
+            "id": "1618030",
+            "turmaid": "03",
+            "nome": " ESTAGIO SUPER EM AUDIO EDUCACIONAL",
+            "semester": "2018.2",
+            "professor": "MARIANA LOPES MARTINS",
+            "horario": "3T12345",
+            "local": "FONO 29 (CCS)"
+          }
+        ],
+        "prerequisites": [
+          "1618024"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1618032",
+        "name": "ESTAGIO SUPER EM AUDIO I",
+        "category": "Obrigatória",
+        "semester": 7,
+        "workload": "75h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1618032",
+            "turmaid": "01",
+            "nome": " ESTAGIO SUPER EM AUDIO I",
+            "semester": "2018.2",
+            "professor": "WAGNER TEOBALDO LOPES DE ANDRADE",
+            "horario": "2T12345",
+            "local": "CLIN AUDIO 01 (CCS)"
+          },
+          {
+            "id": "1618032",
+            "turmaid": "02",
+            "nome": " ESTAGIO SUPER EM AUDIO I",
+            "semester": "2018.2",
+            "professor": "ANA LOISA DE LIMA E SILVA",
+            "horario": "4T12345",
+            "local": "CLIN AUDIO 01 (CCS)"
+          },
+          {
+            "id": "1618032",
+            "turmaid": "03",
+            "nome": " ESTAGIO SUPER EM AUDIO I",
+            "semester": "2018.2",
+            "professor": "ANA LOISA DE LIMA E SILVA",
+            "horario": "5M12345",
+            "local": "CLIN AUDIO 01 (CCS)"
+          }
+        ],
+        "prerequisites": [
+          "1618017"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1618033",
+        "name": "ESTAGIO SUPER EM LINGUAGEM I",
+        "category": "Obrigatória",
+        "semester": 7,
+        "workload": "75h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1618033",
+            "turmaid": "01",
+            "nome": " ESTAGIO SUPER EM LINGUAGEM I",
+            "semester": "2018.2",
+            "professor": "ANA CARLA ESTELLITA VOGELEY",
+            "horario": "2M12345",
+            "local": "CLIN FONO 01 (CCS)"
+          },
+          {
+            "id": "1618033",
+            "turmaid": "02",
+            "nome": " ESTAGIO SUPER EM LINGUAGEM I",
+            "semester": "2018.2",
+            "professor": "ANA CARLA ESTELLITA VOGELEY",
+            "horario": "2T12345",
+            "local": "FONO 28 (CCS)"
+          },
+          {
+            "id": "1618033",
+            "turmaid": "03",
+            "nome": " ESTAGIO SUPER EM LINGUAGEM I",
+            "semester": "2018.2",
+            "professor": "FLAVIA LUIZA COSTA DO REGO",
+            "horario": "3T12345",
+            "local": "CLIN FONO 01 (CCS)"
+          }
+        ],
+        "prerequisites": [
+          "1618019",
+          "1618013"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1618035",
+        "name": "ESTAGIO SUPER EM VOZ I",
+        "category": "Obrigatória",
+        "semester": 7,
+        "workload": "75h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1618035",
+            "turmaid": "01",
+            "nome": " ESTAGIO SUPER EM VOZ I",
+            "semester": "2018.2",
+            "professor": "ANNA ALICE FIGUEIREDO DE ALMEIDA",
+            "horario": "4T12345",
+            "local": "FONO 65 (CCS)"
+          },
+          {
+            "id": "1618035",
+            "turmaid": "02",
+            "nome": " ESTAGIO SUPER EM VOZ I",
+            "semester": "2018.2",
+            "professor": "MARIA FABIANA BONFIM DE LIMA SILVA",
+            "horario": "4M12345",
+            "local": "CLIN FONO 03 (CCS)"
+          },
+          {
+            "id": "1618035",
+            "turmaid": "03",
+            "nome": " ESTAGIO SUPER EM VOZ I",
+            "semester": "2018.2",
+            "professor": "A DEFINIR",
+            "horario": "3M12345",
+            "local": "CLIN FONO 03 (CCS)"
+          }
+        ],
+        "prerequisites": [
+          "1618018"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1618036",
+        "name": "ESTAGIO SUPER EM MOTRIC OROFACIAL I",
+        "category": "Obrigatória",
+        "semester": 7,
+        "workload": "75h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1618036",
+            "turmaid": "01",
+            "nome": " ESTAGIO SUPER EM MOTRIC OROFACIAL I",
+            "semester": "2018.2",
+            "professor": "MANUELA LEITÃO DE VASCONCELOS",
+            "horario": "2T12345",
+            "local": "CLIN FONO 02 (CCS)"
+          },
+          {
+            "id": "1618036",
+            "turmaid": "02",
+            "nome": " ESTAGIO SUPER EM MOTRIC OROFACIAL I",
+            "semester": "2018.2",
+            "professor": "ANA CELIANE DA NOBREGA E UGULINO",
+            "horario": "4M12345",
+            "local": "CLIN FONO 02 (CCS)"
+          },
+          {
+            "id": "1618036",
+            "turmaid": "03",
+            "nome": " ESTAGIO SUPER EM MOTRIC OROFACIAL I",
+            "semester": "2018.2",
+            "professor": "JULYANE FEITOZA COÊLHO",
+            "horario": "2M12345",
+            "local": "FONO 30 (CCS)"
+          }
+        ],
+        "prerequisites": [
+          "1618021"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1618029",
+        "name": "TCC II FONO",
+        "category": "Complementar Obrigatória",
+        "semester": 8,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1618029",
+            "turmaid": "01",
+            "nome": " TCC II FONO",
+            "semester": "2018.2",
+            "professor": "MICHELLY SANTOS DE ANDRADE",
+            "horario": "7T456",
+            "local": "FONO  04 (CCS)"
+          }
+        ],
+        "prerequisites": [
+          "1618028"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1618031",
+        "name": "ESTAGIO SUPER EM FONO HOSPITALAR",
+        "category": "Obrigatória",
+        "semester": 8,
+        "workload": "90h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1618031",
+            "turmaid": "01",
+            "nome": " ESTAGIO SUPER EM FONO HOSPITALAR",
+            "semester": "2018.2",
+            "professor": "MANUELA LEITÃO DE VASCONCELOS e LEANDRO DE ARAUJO PERNAMBUCO",
+            "horario": "6M23 7M1234",
+            "local": "FONO 03 (CCS)"
+          }
+        ],
+        "prerequisites": [
+          "1618026",
+          "1618018",
+          "1618021"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1618039",
+        "name": "ESTAGIO SUPER EM AUDIO II",
+        "category": "Obrigatória",
+        "semester": 8,
+        "workload": "75h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1618039",
+            "turmaid": "01",
+            "nome": " ESTAGIO SUPER EM AUDIO II",
+            "semester": "2018.2",
+            "professor": "MARIANA LOPES MARTINS",
+            "horario": "4M12345",
+            "local": "CLIN AUDIO 02 (CCS)"
+          },
+          {
+            "id": "1618039",
+            "turmaid": "02",
+            "nome": " ESTAGIO SUPER EM AUDIO II",
+            "semester": "2018.2",
+            "professor": "MARINE RAQUEL DINIZ DA ROSA",
+            "horario": "2T12345",
+            "local": "CLIN AUDIO 02 (CCS)"
+          },
+          {
+            "id": "1618039",
+            "turmaid": "03",
+            "nome": " ESTAGIO SUPER EM AUDIO II",
+            "semester": "2018.2",
+            "professor": "HANNALICE GOTTSCHALCK CAVALCANTI",
+            "horario": "4T12345",
+            "local": "CLIN AUDIO 02 (CCS)"
+          }
+        ],
+        "prerequisites": [
+          "1618032"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1618040",
+        "name": "ESTAGIO SUPER EM LINGUAGEM II",
+        "category": "Obrigatória",
+        "semester": 8,
+        "workload": "75h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1618040",
+            "turmaid": "01",
+            "nome": " ESTAGIO SUPER EM LINGUAGEM II",
+            "semester": "2018.2",
+            "professor": "ISABELLE CAHINO DELGADO",
+            "horario": "4T12345",
+            "local": "CLIN FONO 01 (CCS)"
+          },
+          {
+            "id": "1618040",
+            "turmaid": "02",
+            "nome": " ESTAGIO SUPER EM LINGUAGEM II",
+            "semester": "2018.2",
+            "professor": "FLAVIA LUIZA COSTA DO REGO",
+            "horario": "4M12345",
+            "local": "CLIN FONO 01 (CCS)"
+          },
+          {
+            "id": "1618040",
+            "turmaid": "03",
+            "nome": " ESTAGIO SUPER EM LINGUAGEM II",
+            "semester": "2018.2",
+            "professor": "HERTHA MARIA TAVARES DE ALBUQUERQUE COUTINHO",
+            "horario": "3M12345",
+            "local": "CLIN FONO 01 (CCS)"
+          }
+        ],
+        "prerequisites": [
+          "1618033"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1618042",
+        "name": "ESTAGIO SUPER EM VOZ II",
+        "category": "Obrigatória",
+        "semester": 8,
+        "workload": "75h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1618042",
+            "turmaid": "01",
+            "nome": " ESTAGIO SUPER EM VOZ II",
+            "semester": "2018.2",
+            "professor": "LEONARDO WANDERLEY LOPES",
+            "horario": "2M12345",
+            "local": "CLIN FONO 03 (CCS)"
+          },
+          {
+            "id": "1618042",
+            "turmaid": "02",
+            "nome": " ESTAGIO SUPER EM VOZ II",
+            "semester": "2018.2",
+            "professor": "ANA CELIANE DA NOBREGA E UGULINO",
+            "horario": "2T12345",
+            "local": "CLIN FONO 03 (CCS)"
+          },
+          {
+            "id": "1618042",
+            "turmaid": "03",
+            "nome": " ESTAGIO SUPER EM VOZ II",
+            "semester": "2018.2",
+            "professor": "ANA CELIANE DA NOBREGA E UGULINO",
+            "horario": "2M12345",
+            "local": "FONO 28 (CCS)"
+          }
+        ],
+        "prerequisites": [
+          "1618035"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1618043",
+        "name": "ESTAGIO SUPER EM MOTRIC OROFACIAL II",
+        "category": "Obrigatória",
+        "semester": 8,
+        "workload": "75h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1618043",
+            "turmaid": "01",
+            "nome": " ESTAGIO SUPER EM MOTRIC OROFACIAL II",
+            "semester": "2018.2",
+            "professor": "ANA KARENINA DE FREITAS JORDAO DO AMARAL",
+            "horario": "3M12345",
+            "local": "CLIN FONO 02 (CCS)"
+          },
+          {
+            "id": "1618043",
+            "turmaid": "02",
+            "nome": " ESTAGIO SUPER EM MOTRIC OROFACIAL II",
+            "semester": "2018.2",
+            "professor": "GIORVAN ANDERSON DOS SANTOS ALVES",
+            "horario": "4T12345",
+            "local": "CLIN FONO 02 (CCS)"
+          },
+          {
+            "id": "1618043",
+            "turmaid": "03",
+            "nome": " ESTAGIO SUPER EM MOTRIC OROFACIAL II",
+            "semester": "2018.2",
+            "professor": "LUCIANE SPINELLI DE FIGUEIREDO PESSOA",
+            "horario": "3T12345",
+            "local": "CLIN FONO 02 (CCS)"
+          }
+        ],
+        "prerequisites": [
+          "1618036"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDCFA0109",
+        "name": " TOPICOS ESPCECIAIS I",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": "15h",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDCFA0109",
+            "turmaid": "02",
+            "nome": " TOPICOS ESPCECIAIS I",
+            "semester": "2018.2",
+            "professor": "FRANKLIN DELANO SOARES FORTE, WALLERI CHRISTINI TORELLI REIS e GERALDO EDUARDO GUEDES DE BRITO",
+            "horario": "3T345",
+            "local": "DCF - AUDITÓRIO 1 (CCS)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      }
+    ]
+  }
+}

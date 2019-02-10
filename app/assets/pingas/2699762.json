@@ -1,0 +1,1372 @@
+{
+  "curriculum": {
+    "id": "472009",
+    "codigo": "2699762",
+    "name": "PEDAGOGIA (EDUCAÇÃO DO CAMPO) - João Pessoa - Presencial - EDUCAÇÃO DO CAMPO - N - LICENCIATURA PLENA",
+    "faculty": "CENTRO DE EDUCAÇÃO (CE) (11.00.56)",
+    "minch": "210",
+    "maxch": "360",
+    "semesters": 10,
+    "courses": [
+      {
+        "id": "1301204",
+        "name": "EDUCAÇÃO SEXUAL",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1301242",
+        "name": "ETICA PROFISSIONAL",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1301270",
+        "name": "EDUCAÇÃO E DESENVOLVIMENTO SUSTENTÁVEL",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1301271",
+        "name": "TOPICOS ESP EM EDUC DO CAMPO III",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "120h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1301272",
+        "name": "TOPICOS ESP EM EDUC DO CAMPO IV",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1301302",
+        "name": "SEMINÁRIOS TEMÁTICOS EM EDUCAÇÃO AMBIENTAL",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1302421",
+        "name": "EDUCAÇÃO AMBIENTAL",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1302422",
+        "name": "ESCOLA RURAL E CLASSES MULTISSERIADAS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1302423",
+        "name": "EDUCAÇÃO E JUVENTUDE RURAL",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1302424",
+        "name": "TOPICOS ESPEC EM EDUC DO CAMPO I",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1302425",
+        "name": "TOPICOS ESPEC EM EDUC DO CAMPO II",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "75h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1303358",
+        "name": "EDUCAÇÃO E TRABALHO NO CAMPO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1303359",
+        "name": "TECNOLOGIA EDUCACIONAIS E PROCESSOS INCLUSIVOS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1303360",
+        "name": "EDUCAÇÃO INFANTIL",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1303360",
+            "turmaid": "01",
+            "nome": " EDUCAÇÃO INFANTIL",
+            "semester": "2018.2",
+            "professor": "MAIRA LEWTCHUK ESPINDOLA",
+            "horario": "4N1234",
+            "local": "MESTR 04 (CE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1303361",
+        "name": "MÉTODOS E TÉCNICAS EM EDUCAÇÃO ESPECIAL",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1303361",
+            "turmaid": "01",
+            "nome": " MÉTODOS E TÉCNICAS EM EDUCAÇÃO ESPECIAL",
+            "semester": "2018.2",
+            "professor": "ADENIZE QUEIROZ DE FARIAS",
+            "horario": "4N1234",
+            "local": "CE 313 (CE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1303362",
+        "name": "EDUCAÇÃO DAS RELAÇÕES ÉTNICORRACIAIS E ENSINO DE HISTÓRIA E CULTURA AFROBRASILEIRA E AFRICANA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1303362",
+            "turmaid": "02",
+            "nome": " EDUCAÇÃO DAS RELAÇÕES ÉTNICORRACIAIS E ENSINO DE HISTÓRIA E CULTURA AFROBRASILEIRA E AFRICANA",
+            "semester": "2018.2",
+            "professor": "ANA PAULA ROMAO DE SOUZA FERREIRA",
+            "horario": "4N1234",
+            "local": "CE 311 (CE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1303363",
+        "name": "TOPICOS ESPEC EM EDUC DO CAMPO V",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1303364",
+        "name": "TOPICOS ESPEC EM EDUC DO CAMPO VI",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1303387",
+        "name": "PLANEJAMENTO E AVALIAÇÃO EDUCACIONAL",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1303387",
+            "turmaid": "01",
+            "nome": " PEDAGOGIA DO CAMPO",
+            "semester": "2018.2",
+            "professor": "FABIO DO NASCIMENTO FONSECA",
+            "horario": "2N1234",
+            "local": "CAF 101 (PRG)"
+          }
+        ],
+        "prerequisites": [
+          "1302105"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1303388",
+        "name": "ORGANIZAÇÃO E PRÁTICA DA EDUCAÇÃO ESPECIAL",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1307006",
+        "name": "EDUCAÇÃO DO CAMPO E DESENVOLVIMENTO SUSTENTÁVEL",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1307006",
+            "turmaid": "01",
+            "nome": " EDUCAÇÃO DO CAMPO E DESENVOLVIMENTO SUSTENTÁVEL",
+            "semester": "2018.2",
+            "professor": "MARIA DO SOCORRO XAVIER BATISTA",
+            "horario": "2N12",
+            "local": "MESTR 05 (CE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1307007",
+        "name": "EDUCAÇÃO AMBIENTAL",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1307010",
+        "name": "ESCOLA RURAL E CLASSES MULTISSERIADAS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1307013",
+        "name": "ESCOLA RURAL E CLASSES MULTISSERIADAS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1307013",
+            "turmaid": "01",
+            "nome": " ESCOLA RURAL E CLASSES MULTISSERIADAS",
+            "semester": "2018.2",
+            "professor": "MARIA DO SOCORRO XAVIER BATISTA",
+            "horario": "4N12",
+            "local": "CE 314 (CE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1301263",
+        "name": "FILOSOFIA DA EDUCAÇÃO",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "75h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1301263",
+            "turmaid": "01",
+            "nome": " FILOSOFIA DA EDUCAÇÃO",
+            "semester": "2018.2",
+            "professor": "PAULO CESAR GEGLIO",
+            "horario": "5N1234 6N4",
+            "local": "CE 322 (CE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1301264",
+        "name": "SOCIOLOGIA DA EDUCAÇÃO",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "75h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1301264",
+            "turmaid": "01",
+            "nome": " SOCIOLOGIA DA EDUCAÇÃO",
+            "semester": "2018.2",
+            "professor": "JEAN CARLO DE CARVALHO COSTA",
+            "horario": "2N1234 6N1",
+            "local": "CE 322 (CE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1301265",
+        "name": "PSICOLOGIA DA EDUCAÇÃO",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "75h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1301265",
+            "turmaid": "01",
+            "nome": " PSICOLOGIA DA EDUCAÇÃO",
+            "semester": "2018.2",
+            "professor": "ANA MARIA COUTINHO DE SALES e FERNANDO CEZAR BEZERRA DE ANDRADE",
+            "horario": "3N1234 6N2",
+            "local": "CE 322 (CE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1301266",
+        "name": "HISTÓRIA DA EDUCAÇÃO",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "75h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1301266",
+            "turmaid": "01",
+            "nome": " HISTÓRIA DA EDUCAÇÃO",
+            "semester": "2018.2",
+            "professor": "FABIOLA BARROCAS TAVARES",
+            "horario": "4N1234 6N3",
+            "local": "CE 322 (CE) / CAD 104 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1303198",
+        "name": "METODOLOGIA DO TRABALHO CIENTÍFICO",
+        "category": "Complementar Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1303198",
+            "turmaid": "04",
+            "nome": " METODOLOGIA DO TRABALHO CIENTÍFICO",
+            "semester": "2018.2",
+            "professor": "MARINILSON BARBOSA DA SILVA",
+            "horario": "2N1234",
+            "local": "CE 321 (CE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1303373",
+        "name": "POLITICA EDUCACIONAL",
+        "category": "Complementar Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1303373",
+            "turmaid": "01",
+            "nome": " POLITICA EDUCACIONAL",
+            "semester": "2018.2",
+            "professor": "GALDINO TOSCANO DE BRITO FILHO",
+            "horario": "6N1234",
+            "local": "CE 321 (CE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+          "1303180"
+        ]
+      },
+      {
+        "id": "1307004",
+        "name": "FUNDAMENTOS SOCIOHISTÓRICOS DA EDUCAÇÃO DO CAMPO",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1307004",
+            "turmaid": "01",
+            "nome": " FUNDAMENTOS SOCIOHISTÓRICOS DA EDUCAÇÃO DO CAMPO",
+            "semester": "2018.2",
+            "professor": "MARIA DO SOCORRO XAVIER BATISTA",
+            "horario": "3N1234",
+            "local": "CE 321 (CE)"
+          }
+        ],
+        "prerequisites": [
+          "1301264",
+          "1301266"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1403153",
+        "name": "PORTUGUÊS INSTRUMENTAL",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1403153",
+            "turmaid": "02",
+            "nome": " PORTUGUÊS INSTRUMENTAL",
+            "semester": "2018.2",
+            "professor": "ENEIDA MARTINS DE OLIVEIRA",
+            "horario": "5N1234",
+            "local": "TS-1 (CCHLA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1301268",
+        "name": "FUNDAMENTOS DA EDUCAÇÃO E DO ENSINO FUNDAMENTAL",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1301268",
+            "turmaid": "01",
+            "nome": " FUNDAMENTOS DA EDUCAÇÃO E DO ENSINO FUNDAMENTAL",
+            "semester": "2018.2",
+            "professor": "MARISETE FERNANDES DE LIMA",
+            "horario": "4N1234",
+            "local": "CE 323 (CE)"
+          }
+        ],
+        "prerequisites": [
+          "1303373"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1302420",
+        "name": "ALFABETIZAÇÃO: PROCESSOS,  MÉTODOS E PRÁTICAS",
+        "category": "Complementar Obrigatória",
+        "semester": 3,
+        "workload": "75h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1302420",
+            "turmaid": "01",
+            "nome": " ALFABETIZAÇÃO: PROCESSOS,  MÉTODOS E PRÁTICAS",
+            "semester": "2018.2",
+            "professor": "ELIANE FERRAZ ALVES",
+            "horario": "5N12346",
+            "local": "MESTR 05 (CE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1307001",
+        "name": "GESTÃO DE PROCESSOS EDUCATIVOS EM ESCOLAS DO CAMPO",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1307001",
+            "turmaid": "01",
+            "nome": " GESTÃO DE PROCESSOS EDUCATIVOS EM ESCOLAS DO CAMPO",
+            "semester": "2018.2",
+            "professor": "MARIANO CASTRO NETO",
+            "horario": "6N1234",
+            "local": "MESTR 05 (CE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1307002",
+        "name": "PESQUISA E PRÁTICAS EDUCATIVAS NA EDUCAÇÃO DO CAMPO I",
+        "category": "Complementar Obrigatória",
+        "semester": 3,
+        "workload": "75h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1307002",
+            "turmaid": "01",
+            "nome": " PESQUISA E PRÁTICAS EDUCATIVAS NA EDUCAÇÃO DO CAMPO I",
+            "semester": "2018.2",
+            "professor": "EUNICE SIMOES LINS",
+            "horario": "3N61234",
+            "local": "MESTR 05 (CE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1301290",
+        "name": "FUNDAMENTOS DA EJA",
+        "category": "Complementar Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1301290",
+            "turmaid": "01",
+            "nome": " PEDAGOGIA DO CAMPO",
+            "semester": "2018.2",
+            "professor": "EDUARDO JORGE LOPES DA SILVA",
+            "horario": "3N1234",
+            "local": "MESTR 02 (CE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1302105",
+        "name": "DIDÁTICA",
+        "category": "Complementar Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1302105",
+            "turmaid": "11",
+            "nome": " DIDÁTICA",
+            "semester": "2018.2",
+            "professor": "JOSE RAMOS BARBOSA DA SILVA",
+            "horario": "4N1234",
+            "local": "CE 321 (CE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1302325",
+        "name": "EDUCAÇÃO E MOVIMENTOS SOCIAIS",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1302325",
+            "turmaid": "01",
+            "nome": " EDUCAÇÃO E MOVIMENTOS SOCIAIS",
+            "semester": "2018.2",
+            "professor": "LUCIANO DE SOUSA SILVA",
+            "horario": "2N1234",
+            "local": "CE 323 (CE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1307003",
+        "name": "PESQUISA E PRÁTICA EDUCATIVAS NA EDUCAÇÃO DO CAMPO II",
+        "category": "Complementar Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1307003",
+            "turmaid": "01",
+            "nome": " PESQUISA E PRÁTICA EDUCATIVAS NA EDUCAÇÃO DO CAMPO II",
+            "semester": "2018.2",
+            "professor": "EUNICE SIMOES LINS",
+            "horario": "5N1234",
+            "local": "CE 323 (CE)"
+          }
+        ],
+        "prerequisites": [
+          "1303355",
+          "1307002"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1307005",
+        "name": "EDUCAÇÃO, ECONOMIA POPULAR SOLIDÁRIA E PRÁTICAS ASSOCIATIVAS",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1307005",
+            "turmaid": "01",
+            "nome": " EDUCAÇÃO, ECONOMIA POPULAR SOLIDÁRIA E PRÁTICAS ASSOCIATIVAS",
+            "semester": "2018.2",
+            "professor": "GISLAINE DA NOBREGA CHAVES",
+            "horario": "6N1234",
+            "local": "CE 323 (CE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+          "1301269"
+        ]
+      },
+      {
+        "id": "1307008",
+        "name": "PROJETO DE PESQUISA E EXTENSÃO NO CAMPO I",
+        "category": "Complementar Obrigatória",
+        "semester": 5,
+        "workload": "90h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1307008",
+            "turmaid": "01",
+            "nome": " PROJETO DE PESQUISA E EXTENSÃO NO CAMPO I",
+            "semester": "2018.2",
+            "professor": "EDINEIDE JEZINI MESQUITA ARAUJO",
+            "horario": "2N1234 6N12",
+            "local": "CE 324 (CE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1307014",
+        "name": "ESTÁGIO SUPERVISIONADO I",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "75h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1307014",
+            "turmaid": "01",
+            "nome": " ESTÁGIO SUPERVISIONADO I",
+            "semester": "2018.2",
+            "professor": "MARIANO CASTRO NETO",
+            "horario": "5N12346",
+            "local": "CE 324 (CE)"
+          }
+        ],
+        "prerequisites": [
+          "1302105"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1307017",
+        "name": "CONTEÚDO E METODOLOGIA DO ENSINO DE PORTUGUÊS",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "75h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1307017",
+            "turmaid": "01",
+            "nome": " CONTEÚDO E METODOLOGIA DO ENSINO DE PORTUGUÊS",
+            "semester": "2018.2",
+            "professor": "MARIA APARECIDA VALENTIM AFONSO",
+            "horario": "3N12346",
+            "local": "CE 324 (CE)"
+          }
+        ],
+        "prerequisites": [
+          "1403153"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1307015",
+        "name": "ESTÁGIO SUPERVISIONADO II",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "90h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1307015",
+            "turmaid": "01",
+            "nome": " ESTÁGIO SUPERVISIONADO II",
+            "semester": "2018.2",
+            "professor": "MARIA APARECIDA VALENTIM AFONSO",
+            "horario": "5N1234 6N12",
+            "local": "CE 314 (CE)"
+          }
+        ],
+        "prerequisites": [
+          "1307014"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1307020",
+        "name": "CONTEÚDO E METODOLOGIA DO ENSINO DE MATEMÁTICA",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "75h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1307020",
+            "turmaid": "01",
+            "nome": " CONTEÚDO E METODOLOGIA DO ENSINO DE MATEMÁTICA",
+            "semester": "2018.2",
+            "professor": "SEVERINA ANDRÉA DANTAS DE FARIAS",
+            "horario": "2N61234",
+            "local": "CE 314 (CE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDECA0022",
+        "name": "PROJETO DE PESQUISA E EXTENSÃO NO CAMPO II",
+        "category": "Complementar Obrigatória",
+        "semester": 6,
+        "workload": "90h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDECA0022",
+            "turmaid": "01",
+            "nome": " PROJETO DE PESQUISA E EXTENSÃO NO CAMPO II",
+            "semester": "2018.2",
+            "professor": "EDINEIDE JEZINI MESQUITA ARAUJO",
+            "horario": "3N1234 4N34",
+            "local": "CE 314 (CE)"
+          }
+        ],
+        "prerequisites": [
+          "1307008"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1303357",
+        "name": "CURRÍCULO E EDUCAÇÃO",
+        "category": "Complementar Obrigatória",
+        "semester": 7,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1303357",
+            "turmaid": "01",
+            "nome": " CURRÍCULO E EDUCAÇÃO",
+            "semester": "2018.2",
+            "professor": "ANA CELIA SILVA MENEZES",
+            "horario": "2N1234",
+            "local": "CE 312 (CE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+          "1303210"
+        ]
+      },
+      {
+        "id": "1307016",
+        "name": "ESTÁGIO SUPERVISIONADO III",
+        "category": "Obrigatória",
+        "semester": 7,
+        "workload": "120h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1307016",
+            "turmaid": "01",
+            "nome": " ESTÁGIO SUPERVISIONADO III",
+            "semester": "2018.2",
+            "professor": "SEVERINA ANDRÉA DANTAS DE FARIAS",
+            "horario": "56N1234",
+            "local": "CE 313 (CE)"
+          }
+        ],
+        "prerequisites": [
+          "1307015"
+        ],
+        "equivalences": [
+          "1302413"
+        ]
+      },
+      {
+        "id": "1307021",
+        "name": "CONTEÚDO E METODOLOGIA DO ENSINO DE CIÊNCIAS",
+        "category": "Obrigatória",
+        "semester": 7,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1307021",
+            "turmaid": "01",
+            "nome": " CONTEÚDO E METODOLOGIA DO ENSINO DE CIÊNCIAS",
+            "semester": "2018.2",
+            "professor": "RICARDO DE CARVALHO COSTA",
+            "horario": "3N1234",
+            "local": "CE 313 (CE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+          "1302410"
+        ]
+      },
+      {
+        "id": "GDLS0024",
+        "name": "LIBRAS",
+        "category": "Complementar Obrigatória",
+        "semester": 7,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDLS0024",
+            "turmaid": "09",
+            "nome": " LIBRAS",
+            "semester": "2018.2",
+            "professor": "EVERTON DE LIMA SILVA",
+            "horario": "4N1234",
+            "local": "CE 312 (CE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1303384",
+        "name": "ESTÁGIO SUPERVISIONADO IV",
+        "category": "Obrigatória",
+        "semester": 8,
+        "workload": "120h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1303384",
+            "turmaid": "01",
+            "nome": " PEDAGOGIA DO CAMPO",
+            "semester": "2018.2",
+            "professor": "RICARDO DE CARVALHO COSTA",
+            "horario": "56N1234",
+            "local": "MESTR 04 (CE)"
+          }
+        ],
+        "prerequisites": [
+          "1307016"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1307018",
+        "name": "CONTEÚDO E METODOLOGIA DO ENSINO DE HISTÓRIA",
+        "category": "Obrigatória",
+        "semester": 8,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1307018",
+            "turmaid": "01",
+            "nome": " CONTEÚDO E METODOLOGIA DO ENSINO DE HISTÓRIA",
+            "semester": "2018.2",
+            "professor": "GISLAINE DA NOBREGA CHAVES",
+            "horario": "3N1234",
+            "local": "MESTR 04 (CE)"
+          }
+        ],
+        "prerequisites": [
+          "1301266"
+        ],
+        "equivalences": [
+          "1302407"
+        ]
+      },
+      {
+        "id": "1307019",
+        "name": "CONTEÚDO E METODOLOGIA DO ENSINO DE GEOGRAFIA",
+        "category": "Obrigatória",
+        "semester": 8,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1307019",
+            "turmaid": "01",
+            "nome": " CONTEÚDO E METODOLOGIA DO ENSINO DE GEOGRAFIA",
+            "semester": "2018.2",
+            "professor": "RICARDO DE CARVALHO COSTA",
+            "horario": "2N1234",
+            "local": "MESTR 04 (CE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+          "1302408"
+        ]
+      },
+      {
+        "id": "1302339",
+        "name": "EDUCAÇÃO POPULAR",
+        "category": "Obrigatória",
+        "semester": 9,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1302339",
+            "turmaid": "01",
+            "nome": " EDUCAÇÃO POPULAR",
+            "semester": "2018.2",
+            "professor": "ALINE PRAXEDES DE ARAÚJO",
+            "horario": "3N1234",
+            "local": "MESTR 03 (CE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1302418",
+        "name": "ARTES E EDUCAÇAO",
+        "category": "Complementar Obrigatória",
+        "semester": 9,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1302418",
+            "turmaid": "01",
+            "nome": " ARTES E EDUCAÇAO",
+            "semester": "2018.2",
+            "professor": "MARIA MARGARETH DE LIMA",
+            "horario": "2N1234",
+            "local": "MESTR 03 (CE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1302419",
+        "name": "ORGANIZAÇÃO E PRÁTICA DE EJA",
+        "category": "Complementar Obrigatória",
+        "semester": 9,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1302419",
+            "turmaid": "01",
+            "nome": " ORGANIZAÇÃO E PRÁTICA DE EJA",
+            "semester": "2018.2",
+            "professor": "LUCIANO DE SOUSA SILVA",
+            "horario": "5N1234",
+            "local": "MESTR 03 (CE)"
+          }
+        ],
+        "prerequisites": [
+          "1301290"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1303385",
+        "name": "ESTÁGIO SUPERVISIONADO V",
+        "category": "Obrigatória",
+        "semester": 9,
+        "workload": "90h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1303385",
+            "turmaid": "01",
+            "nome": " PEDAGOGIA DO CAMPO",
+            "semester": "2018.2",
+            "professor": "FRANCISCA ALEXANDRE DE LIMA",
+            "horario": "4N1234 7N12",
+            "local": "MESTR 05 (CE)"
+          }
+        ],
+        "prerequisites": [
+          "1303384"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1302338",
+        "name": "TEORIAS E PRÁTICAS DA EDUCAÇÃO POPULAR",
+        "category": "Obrigatória",
+        "semester": 10,
+        "workload": "75h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1302338",
+            "turmaid": "01",
+            "nome": " TEORIAS E PRÁTICAS DA EDUCAÇÃO POPULAR",
+            "semester": "2018.2",
+            "professor": "AVELAR ARAUJO SANTOS JUNIOR",
+            "horario": "5N12346",
+            "local": "CE 312 (CE)"
+          }
+        ],
+        "prerequisites": [
+          "1302339",
+          "1302255"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1303386",
+        "name": "TRABALHO DE CONCLUSÃO DE CURSO",
+        "category": "Complementar Obrigatória",
+        "semester": 10,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1303386",
+            "turmaid": "01",
+            "nome": " PEDAGOGIA DO CAMPO",
+            "semester": "2018.2",
+            "professor": "FRANCISCA ALEXANDRE DE LIMA",
+            "horario": "3N1234",
+            "local": "CE 312 (CE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,815 @@
+{
+  "curriculum": {
+    "id": "0572009",
+    "codigo": "1626823",
+    "name": "REGÊNCIA DE BANDAS E FANFARRAS - João Pessoa - Presencial - N - OUTRO TIPO DE GRAU ACADÊMICO",
+    "faculty": "CENTRO DE COMUNICAÇÃO, TURISMO E ARTES (CCTA) (11.00.66)",
+    "minch": "270",
+    "maxch": "480",
+    "semesters": 4,
+    "courses": [
+      {
+        "id": "1407736",
+        "name": "CANTO CORAL I",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1407740",
+        "name": "TECNICA VOCAL I",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1407116",
+        "name": "FLAUTA DOCE I",
+        "category": "Optativa",
+        "semester": 1,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1407674",
+        "name": "TOPICOS ESPECIAIS EM MUSICA I",
+        "category": "Complementar Flexiva",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "ATIVIDADE ESPECIAL",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1407301",
+        "name": "HISTORIA DA MUSICA BRASILEIRA",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1407684",
+        "name": "TEORIA E PERCEPÇÃO MUSICAL I",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1407697",
+        "name": "APRECIAÇÃO MUSICAL",
+        "category": "Complementar Obrigatória",
+        "semester": 1,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1407698",
+        "name": "FUNDAMENTOS DE ACUSTICA MUSICAL",
+        "category": "Complementar Obrigatória",
+        "semester": 1,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1407703",
+        "name": "LAB DE BANDAFANFARRA I",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1407707",
+        "name": "TÉCNICAS DE ENS DE BANDASFANFARRAS I",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1407710",
+        "name": "LAB DE INSTRUMENTOS DE SOPROS I",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1407869",
+        "name": "REGÊNCIA DE BANDAFANFARRA I",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1407117",
+        "name": "FLAUTA DOCE II",
+        "category": "Optativa",
+        "semester": 2,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1407116"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1407688",
+        "name": "MANIFESTAÇÕES MUSICAIS DA CPB",
+        "category": "Optativa",
+        "semester": 2,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1407301"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1407691",
+        "name": "PRODUÇÃO MUSICAL I",
+        "category": "Optativa",
+        "semester": 2,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1407707"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1407724",
+        "name": "TOPICOS ESPECIAIS EM MUSICA II",
+        "category": "Complementar Flexiva",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "ATIVIDADE ESPECIAL",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1407674"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1407737",
+        "name": "CANTO CORAL II",
+        "category": "Optativa",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1407736"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1407741",
+        "name": "TECNICA VOCAL II",
+        "category": "Optativa",
+        "semester": 2,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1407740"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1413271",
+        "name": "REGENCIA CORAL",
+        "category": "Optativa",
+        "semester": 2,
+        "workload": "0h aula 30h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1407685",
+        "name": "TEORIA E PERCEPÇÃO MUSICAL II",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1407684"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1407704",
+        "name": "LAB DE BANDAFANFARRA II",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1407703"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1407708",
+        "name": "TÉCNICAS DE ENS DE BANDASFANFARRAS II",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1407707"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1407711",
+        "name": "LAB DE INSTRUMENTOS DE SOPROS II",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1407710"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1407731",
+        "name": "LINGUAGEM HARMONICA I",
+        "category": "Complementar Obrigatória",
+        "semester": 2,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1407697"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1407733",
+        "name": "HISTÓRIA DA BANDA",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1407301"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1407734",
+        "name": "INSTRUMENTAÇÃO E ORQUESTRAÇÃO",
+        "category": "Complementar Obrigatória",
+        "semester": 2,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1407698"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1407870",
+        "name": "REGÊNCIA DE BANDAFANFARRA  II",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1407869",
+          "1407699"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1407692",
+        "name": "PRODUÇÃO MUSICAL II",
+        "category": "Optativa",
+        "semester": 3,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1407691"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1407738",
+        "name": "TOPICOS ESPECIAIS EM MUSICA III",
+        "category": "Complementar Flexiva",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "ATIVIDADE ESPECIAL",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1407743",
+        "name": "IMPROVISAÇÃO PARA INSTRUMENTOS DE SOPRO I",
+        "category": "Optativa",
+        "semester": 3,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1407711"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1407686",
+        "name": "TEORIA E PERCEPÇÃO MUSICAL III",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1407685"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1407705",
+        "name": "LAB DE BANDAFANFARRA III",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1407704"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1407709",
+        "name": "TÉCNICAS DE ENS DE BANDASFANFARRAS III",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1407708"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1407712",
+        "name": "LAB DE INSTRUMENTOS DE SOPROS III",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1407711"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1407732",
+        "name": "LINGUAGEM HARMONICA II",
+        "category": "Complementar Obrigatória",
+        "semester": 3,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1407731"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1407744",
+        "name": "ESTUDO DO REPERT DE BANDAFANFARRA",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1407745",
+        "name": "TÉCNICAS DE ARRANJO I",
+        "category": "Complementar Obrigatória",
+        "semester": 3,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1407734"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1407871",
+        "name": "REGÊNCIA DE BANDAFANFARRA  III",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1407870",
+          "1407700"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1407739",
+        "name": "TOPICOS ESPECIAIS EM MUSICA IV",
+        "category": "Complementar Flexiva",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "ATIVIDADE ESPECIAL",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1407687",
+        "name": "TEORIA E PERCEPÇÃO MUSICAL IV",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1407706",
+        "name": "LAB DE BANDAFANFARRA IV",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1407705"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1407746",
+        "name": "TÉCNICAS DE ARRANJO II",
+        "category": "Complementar Obrigatória",
+        "semester": 4,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1407745"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1407768",
+        "name": "REGÊNCIA DE BANDAFANFARRA IV",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1407701",
+          "1407871"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1407769",
+        "name": "EDIÇÃO DE PARTITURAS",
+        "category": "Complementar Obrigatória",
+        "semester": 4,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1407684"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1407770",
+        "name": "LAB DE NSTRUMENTO DE PERCUSSÃO",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1407771",
+        "name": "LEGISLAÇÃO PROFISSIONAL E DIR AUTORAL",
+        "category": "Complementar Obrigatória",
+        "semester": 4,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1407772",
+        "name": "ELEMENTOS DE EVOL E COREOGRAFIA",
+        "category": "Complementar Obrigatória",
+        "semester": 4,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1407708"
+        ],
+        "equivalences": [
+
+        ]
+      }
+    ]
+  }
+}

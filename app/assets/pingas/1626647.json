@@ -1,0 +1,2090 @@
+{
+  "curriculum": {
+    "id": "342011",
+    "codigo": "1626647",
+    "name": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+    "faculty": "CENTRO DE TECNOLOGIA (CT) (11.00.55)",
+    "minch": "270",
+    "maxch": "495",
+    "semesters": 8,
+    "courses": [
+      {
+        "id": "1105158",
+        "name": "TOPICOS SELEC EM QUIMICAESPECTROSC",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1105166",
+        "name": "QUIMICA ANALITICA CLASSICA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1105166",
+            "turmaid": "03",
+            "nome": " QUIMICA ANALITICA CLASSICA",
+            "semester": "2018.2",
+            "professor": "MARCIO JOSE COELHO DE PONTES",
+            "horario": "35T23",
+            "local": "DQ 06 (CCEN)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1403747",
+        "name": "LIBRAS  LÍNGUA BRASILEIRA DE SINAIS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1709099",
+        "name": "CROMATOGRAFIA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1709099",
+            "turmaid": "01",
+            "nome": " CROMATOGRAFIA",
+            "semester": "2018.2",
+            "professor": "ANDREA LOPES DE OLIVEIRA FERREIRA",
+            "horario": "35M45",
+            "local": "CTB 105 (CT)"
+          }
+        ],
+        "prerequisites": [
+          "1105163"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDLS0024",
+        "name": "LIBRAS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDPEQ0112",
+        "name": "TÓPICOS ESPECIAIS EM QUÍMICA INDUSTRIAL I",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDPEQ0113",
+        "name": "TÓPICOS ESPECIAIS EM QUÍMICA INDUSTRIAL II",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1103118",
+        "name": "CÁLCULO VETORIAL E GEOMETRIA ANALÍTICA",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1103118",
+            "turmaid": "07",
+            "nome": " CÁLCULO VETORIAL E GEOMETRIA ANALÍTICA",
+            "semester": "2018.2",
+            "professor": "GILMAR OTAVIO CORREIA",
+            "horario": "35M23",
+            "local": "CAB 104 (PRG)"
+          },
+          {
+            "id": "1103118",
+            "turmaid": "11",
+            "nome": " CÁLCULO VETORIAL E GEOMETRIA ANALÍTICA",
+            "semester": "2018.2",
+            "professor": "NAPOLEON CARO TUESTA",
+            "horario": "35T23",
+            "local": "CAA 101 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1103177",
+        "name": "CÁLCULO DIFERENCIAL E INTEGRAL I",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1103177",
+            "turmaid": "05",
+            "nome": " CÁLCULO DIFERENCIAL E INTEGRAL I",
+            "semester": "2018.2",
+            "professor": "FLAVIA JERONIMO BARBOSA",
+            "horario": "24M23",
+            "local": "CAA 105 (PRG)"
+          },
+          {
+            "id": "1103177",
+            "turmaid": "09",
+            "nome": " CÁLCULO DIFERENCIAL E INTEGRAL I",
+            "semester": "2018.2",
+            "professor": "JORGE COSTA DUARTE FILHO",
+            "horario": "24T45",
+            "local": "CAA 101 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1105163",
+        "name": "QUIMICA BASICA  ESTRUTURA",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1105163",
+            "turmaid": "01",
+            "nome": " QUIMICA BASICA  ESTRUTURA",
+            "semester": "2018.2",
+            "professor": "MARIA DE FATIMA CARVALHO COSTA",
+            "horario": "35M23",
+            "local": "DQ 05 (CCEN)"
+          },
+          {
+            "id": "1105163",
+            "turmaid": "03",
+            "nome": " QUIMICA BASICA  ESTRUTURA",
+            "semester": "2018.2",
+            "professor": "GIANNA DE SOUZA SORRENTINO",
+            "horario": "35M45",
+            "local": "CCENB5 (CCEN)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1105164",
+        "name": "QUIMICA BASICA  TRANSFORMACOES",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1105164",
+            "turmaid": "01",
+            "nome": " QUIMICA BASICA  TRANSFORMACOES",
+            "semester": "2018.2",
+            "professor": "MARCUS TULLIUS SCOTTI",
+            "horario": "24M45",
+            "local": "DQ 06 (CCEN)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1403153",
+        "name": "PORTUGUÊS INSTRUMENTAL",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1403153",
+            "turmaid": "02",
+            "nome": " PORTUGUÊS INSTRUMENTAL",
+            "semester": "2018.2",
+            "professor": "ENEIDA MARTINS DE OLIVEIRA",
+            "horario": "5N1234",
+            "local": "TS-1 (CCHLA)"
+          },
+          {
+            "id": "1403153",
+            "turmaid": "03",
+            "nome": " PORTUGUÊS INSTRUMENTAL",
+            "semester": "2018.2",
+            "professor": "ISAIAS MOREIRA FERREIRA",
+            "horario": "6M1234",
+            "local": "CAG 106 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1709077",
+        "name": "QUIMICA NO CONTEXTO SÓCIOECONOMICO",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1709077",
+            "turmaid": "01",
+            "nome": " QUIMICA NO CONTEXTO SÓCIOECONOMICO",
+            "semester": "2018.2",
+            "professor": "ANTONIO LUIZ DE ALBUQUERQUE GOMES",
+            "horario": "4M1 2T45",
+            "local": "CTB 105 (CT)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1709080",
+        "name": "BIOQUÍMICA BÁSICA",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1709080",
+            "turmaid": "01",
+            "nome": " BIOQUÍMICA BÁSICA",
+            "semester": "2018.2",
+            "professor": "JULICE DUTRA LOPES",
+            "horario": "24T23",
+            "local": "CTB 103 (CT) / CTB 107 (CT)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1709086",
+        "name": "MINERALOGIA",
+        "category": "Optativa",
+        "semester": 2,
+        "workload": "75h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1105163"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1101157",
+        "name": "FISICA GERAL I",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1101157",
+            "turmaid": "01",
+            "nome": " FISICA GERAL I",
+            "semester": "2018.2",
+            "professor": "A DEFINIR",
+            "horario": "24M45",
+            "local": "CAD 110 (PRG)"
+          },
+          {
+            "id": "1101157",
+            "turmaid": "10",
+            "nome": " FISICA GERAL I",
+            "semester": "2018.2",
+            "professor": "A DEFINIR",
+            "horario": "24T23",
+            "local": "CAB 103 (PRG)"
+          }
+        ],
+        "prerequisites": [
+          "1103177"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1103178",
+        "name": "CALCULO DIFERENCIAL E INTEGRAL II",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1103178",
+            "turmaid": "05",
+            "nome": " CALCULO DIFERENCIAL E INTEGRAL II",
+            "semester": "2018.2",
+            "professor": "PEDRO ANTONIO GOMEZ VENEGAS",
+            "horario": "24M23",
+            "local": "CAE 111 (PRG)"
+          },
+          {
+            "id": "1103178",
+            "turmaid": "07",
+            "nome": " CALCULO DIFERENCIAL E INTEGRAL II",
+            "semester": "2018.2",
+            "professor": "PEDRO ANTONIO GOMEZ VENEGAS",
+            "horario": "24T45",
+            "local": "CAA 104 (PRG)"
+          }
+        ],
+        "prerequisites": [
+          "1103177"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1105162",
+        "name": "QUIMICA BASICA  EXPERIMENTAL",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1105162",
+            "turmaid": "01",
+            "nome": " QUIMICA BASICA  EXPERIMENTAL",
+            "semester": "2018.2",
+            "professor": "AFRANIO GABRIEL DA SILVA",
+            "horario": "3M2345",
+            "local": "LAB QUI 05 (CCEN)"
+          }
+        ],
+        "prerequisites": [
+          "1105164"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1105167",
+        "name": "QUIMICA ORGANICA I",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1105167",
+            "turmaid": "02",
+            "nome": " QUIMICA ORGANICA I",
+            "semester": "2018.2",
+            "professor": "MARIO LUIZ ARAUJO DE ALMEIDA VASCONCELLOS",
+            "horario": "35T45",
+            "local": "CCENB8 (CCEN)"
+          }
+        ],
+        "prerequisites": [
+          "1105163"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1105168",
+        "name": "QUIMICA ANAL QUALITATIVA EXPERIMENTAL",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "0h aula 45h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1105168",
+            "turmaid": "01",
+            "nome": " QUIMICA ANAL QUALITATIVA EXPERIMENTAL",
+            "semester": "2018.2",
+            "professor": "RICARDO ALEXANDRE CAVALCANTI DE LIMA",
+            "horario": "6T234",
+            "local": "LAB QUI 03 (CCEN)"
+          }
+        ],
+        "prerequisites": [
+          "1105164"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1205003",
+        "name": "METODOLOGIA DO TRABALHO CIENTÍFICO",
+        "category": "Complementar Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1205003",
+            "turmaid": "04",
+            "nome": " METODOLOGIA DO TRABALHO CIENTÍFICO",
+            "semester": "2018.2",
+            "professor": "GISELE ROCHA CORTES",
+            "horario": "2M2345",
+            "local": "CCSA 213 (CCSA)"
+          },
+          {
+            "id": "1205003",
+            "turmaid": "09",
+            "nome": " METODOLOGIA DO TRABALHO CIENTÍFICO",
+            "semester": "2018.2",
+            "professor": "LUCIANA FERREIRA DA COSTA",
+            "horario": "35N12",
+            "local": "CCSA 230 (CCSA)"
+          },
+          {
+            "id": "1205003",
+            "turmaid": "10",
+            "nome": " METODOLOGIA DO TRABALHO CIENTÍFICO",
+            "semester": "2018.2",
+            "professor": "ISMAELLY BATISTA DOS SANTOS SILVA",
+            "horario": "35N12",
+            "local": "CCSA 219 (CCSA)"
+          },
+          {
+            "id": "1205003",
+            "turmaid": "11",
+            "nome": " METODOLOGIA DO TRABALHO CIENTÍFICO",
+            "semester": "2018.2",
+            "professor": "IZABEL FRANCA DE LIMA",
+            "horario": "4M1 6M123",
+            "local": "CAB 102 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+          "1401140",
+          "1709001",
+          "GDTH0036"
+        ]
+      },
+      {
+        "id": "1404325",
+        "name": "LINGUA INGLESA INSTRUMENTAL I",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1404325",
+            "turmaid": "01",
+            "nome": " LINGUA INGLESA INSTRUMENTAL I",
+            "semester": "2018.2",
+            "professor": "ELAINE ESPINDOLA BALDISSERA",
+            "horario": "35T12",
+            "local": "AMBIENTE  Inglês Instrumental 14 (CCHLA)"
+          },
+          {
+            "id": "1404325",
+            "turmaid": "02",
+            "nome": " LINGUA INGLESA INSTRUMENTAL I",
+            "semester": "2018.2",
+            "professor": "ROSYCLÉA DANTAS SILVA",
+            "horario": "35N34",
+            "local": "CAF 110 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1101163",
+        "name": "FISICA GERAL II",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1101163",
+            "turmaid": "01",
+            "nome": " FISICA GERAL II",
+            "semester": "2018.2",
+            "professor": "A DEFINIR",
+            "horario": "24M45",
+            "local": "CAC 108 (PRG)"
+          },
+          {
+            "id": "1101163",
+            "turmaid": "05",
+            "nome": " FISICA GERAL II",
+            "semester": "2018.2",
+            "professor": "A DEFINIR",
+            "horario": "24T23",
+            "local": "CAA 103 (PRG)"
+          }
+        ],
+        "prerequisites": [
+          "1101157"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1103232",
+        "name": "CALCULO DIF  E INTEGRAL III",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1103232",
+            "turmaid": "01",
+            "nome": " CALCULO DIF  E INTEGRAL III",
+            "semester": "2018.2",
+            "professor": "LENIMAR NUNES DE ANDRADE",
+            "horario": "24M23",
+            "local": "CAC 108 (PRG)"
+          },
+          {
+            "id": "1103232",
+            "turmaid": "08",
+            "nome": " CALCULO DIF  E INTEGRAL III",
+            "semester": "2018.2",
+            "professor": "LENIMAR NUNES DE ANDRADE",
+            "horario": "24T45",
+            "local": "CAC 108 (PRG)"
+          }
+        ],
+        "prerequisites": [
+          "1103178"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1105169",
+        "name": "QUIMICA ANAL QUANTITATIVA EXPERIMENTAL",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1105169",
+            "turmaid": "03",
+            "nome": " QUIMICA ANAL QUANTITATIVA EXPERIMENTAL",
+            "semester": "2018.2",
+            "professor": "LILIANA DE FATIMA BEZERRA LIRA DE PONTES",
+            "horario": "6T234",
+            "local": "LAB QUI 02 (CCEN)"
+          }
+        ],
+        "prerequisites": [
+          "1105164"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1105171",
+        "name": "QUIMICA ORGANIGA EXPERIMENTAL I",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "0h aula 45h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1105171",
+            "turmaid": "01",
+            "nome": " QUIMICA ORGANIGA EXPERIMENTAL I",
+            "semester": "2018.2",
+            "professor": "MARIA ALDEIZA MEIRELES ALMEIDA DE MAURERA",
+            "horario": "4M123",
+            "local": "LAB QUI 06 (CCEN)"
+          }
+        ],
+        "prerequisites": [
+          "1105167"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1105172",
+        "name": "QUIMICA ORGANICA II",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1105172",
+            "turmaid": "02",
+            "nome": " QUIMICA ORGANICA II",
+            "semester": "2018.2",
+            "professor": "JAILTON DE SOUZA FERRARI",
+            "horario": "35T23",
+            "local": "CCENB8 (CCEN)"
+          }
+        ],
+        "prerequisites": [
+          "1105167"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1105193",
+        "name": "COMPUTACAO PARA QUIMICA",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "30h aula 30h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1105193",
+            "turmaid": "01",
+            "nome": " COMPUTACAO PARA QUIMICA",
+            "semester": "2018.2",
+            "professor": "CLAUDIA DE FIGUEIREDO BRAGA",
+            "horario": "6M2345",
+            "local": "LAB QUI07 (CCEN)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1709078",
+        "name": "INTRODUÇÃO À CIÊNCIA DOS MATERIAIS",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1709078",
+            "turmaid": "01",
+            "nome": " INTRODUÇÃO À CIÊNCIA DOS MATERIAIS",
+            "semester": "2018.2",
+            "professor": "SHEILA ALVES BEZERRA DA COSTA REGO",
+            "horario": "35M23",
+            "local": "CTJ T03 (CT)"
+          }
+        ],
+        "prerequisites": [
+          "1105164"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1101164",
+        "name": "FISICA GERAL III",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1101164",
+            "turmaid": "01",
+            "nome": " FISICA GERAL III",
+            "semester": "2018.2",
+            "professor": "A DEFINIR",
+            "horario": "24M45",
+            "local": "CAA 103 (PRG)"
+          },
+          {
+            "id": "1101164",
+            "turmaid": "04",
+            "nome": " FISICA GERAL III",
+            "semester": "2018.2",
+            "professor": "A DEFINIR",
+            "horario": "24T23",
+            "local": "CAD 111 (PRG)"
+          }
+        ],
+        "prerequisites": [
+          "1101163"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1101165",
+        "name": "FISICA EXPERIMENTAL I",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "0h aula 30h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1101165",
+            "turmaid": "03",
+            "nome": " FISICA EXPERIMENTAL I",
+            "semester": "2018.2",
+            "professor": "A DEFINIR",
+            "horario": "5T45",
+            "local": "DF 200 (CCEN)"
+          },
+          {
+            "id": "1101165",
+            "turmaid": "05",
+            "nome": " FISICA EXPERIMENTAL I",
+            "semester": "2018.2",
+            "professor": "A DEFINIR",
+            "horario": "6M45",
+            "local": "DF 200 (CCEN)"
+          },
+          {
+            "id": "1101165",
+            "turmaid": "07",
+            "nome": " FISICA EXPERIMENTAL I",
+            "semester": "2018.2",
+            "professor": "A DEFINIR",
+            "horario": "6T23",
+            "local": "DF 200 (CCEN)"
+          }
+        ],
+        "prerequisites": [
+          "1101163"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1105173",
+        "name": "TERMODINAMICA QUIMICA I",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1105173",
+            "turmaid": "01",
+            "nome": " TERMODINAMICA QUIMICA I",
+            "semester": "2018.2",
+            "professor": "OTAVIO LUIS DE SANTANA",
+            "horario": "46M23",
+            "local": "CCENB8 (CCEN)"
+          }
+        ],
+        "prerequisites": [
+          "1105164",
+          "1103178"
+        ],
+        "equivalences": [
+          "1105106"
+        ]
+      },
+      {
+        "id": "1105179",
+        "name": "QUIMICA ORGANICA EXPERIMENTAL II",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1105179",
+            "turmaid": "01",
+            "nome": " QUIMICA ORGANICA EXPERIMENTAL II",
+            "semester": "2018.2",
+            "professor": "GABRIELA FEHN FISS",
+            "horario": "6T123",
+            "local": "LAB QUI 06 (CCEN)"
+          },
+          {
+            "id": "1105179",
+            "turmaid": "04",
+            "nome": " QUIMICA ORGANICA EXPERIMENTAL II",
+            "semester": "2018.2",
+            "professor": "MARCAL DE QUEIROZ PAULO",
+            "horario": "6M345",
+            "local": "LAB QUI 06 (CCEN)"
+          }
+        ],
+        "prerequisites": [
+          "1105172"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1105204",
+        "name": "INTRODUCAO AOS METODOS INSTRUMENTAIS",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1105168"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1108100",
+        "name": "CÁLCULO DAS PROBABILIDADES E  ESTATÍSTICA I",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1108100",
+            "turmaid": "01",
+            "nome": " CÁLCULO DAS PROBABILIDADES E  ESTATÍSTICA I",
+            "semester": "2018.2",
+            "professor": "MARIA LIDIA COCO TERRA e JOSE CARLOS DE LACERDA LEITE",
+            "horario": "35M23",
+            "local": "CAB 105 (PRG)"
+          },
+          {
+            "id": "1108100",
+            "turmaid": "05",
+            "nome": " CÁLCULO DAS PROBABILIDADES E  ESTATÍSTICA I",
+            "semester": "2018.2",
+            "professor": "ANA HERMINIA ANDRADE E SILVA e MARCELO RODRIGO PORTELA FERREIRA",
+            "horario": "35T23",
+            "local": "CAF 110 (PRG)"
+          },
+          {
+            "id": "1108100",
+            "turmaid": "09",
+            "nome": " CÁLCULO DAS PROBABILIDADES E  ESTATÍSTICA I",
+            "semester": "2018.2",
+            "professor": "ANA HERMINIA ANDRADE E SILVA e JULYANA KELLY TAVARES DE ARAUJO",
+            "horario": "35N12",
+            "local": "CAB 106 (PRG)"
+          }
+        ],
+        "prerequisites": [
+          "1103177"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1101166",
+        "name": "FISICA EXPERIMENTAL II",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1101166",
+            "turmaid": "01",
+            "nome": " FISICA EXPERIMENTAL II",
+            "semester": "2018.2",
+            "professor": "A DEFINIR",
+            "horario": "2T23",
+            "local": "LAB (CCEN)"
+          }
+        ],
+        "prerequisites": [
+          "1101164"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1105177",
+        "name": "TERMODINAMICA QUIMICA II",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1105177",
+            "turmaid": "02",
+            "nome": " TERMODINAMICA QUIMICA II",
+            "semester": "2018.2",
+            "professor": "NEWTON CESAR VIANA COSTA",
+            "horario": "26M45",
+            "local": "CCENB7 (CCEN)"
+          }
+        ],
+        "prerequisites": [
+          "1105164",
+          "1103178"
+        ],
+        "equivalences": [
+          "1105107"
+        ]
+      },
+      {
+        "id": "1105205",
+        "name": "INT AOS MET INSTRUM EXPERIMENTAIS",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1105205",
+            "turmaid": "01",
+            "nome": " INT AOS MET INSTRUM EXPERIMENTAIS",
+            "semester": "2018.2",
+            "professor": "MARIO CESAR UGULINO DE ARAUJO",
+            "horario": "5M345",
+            "local": "LAB QUI 04 (CCEN)"
+          },
+          {
+            "id": "1105205",
+            "turmaid": "02",
+            "nome": " INT AOS MET INSTRUM EXPERIMENTAIS",
+            "semester": "2018.2",
+            "professor": "MARIO CESAR UGULINO DE ARAUJO",
+            "horario": "3M456",
+            "local": "LAB QUI 04 (CCEN)"
+          }
+        ],
+        "prerequisites": [
+          "1105204"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1705100",
+        "name": "CONTROLE DE QUALIDADE",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1705100",
+            "turmaid": "01",
+            "nome": " CONTROLE DE QUALIDADE",
+            "semester": "2018.2",
+            "professor": "LIGIA DE OLIVEIRA FRANZOSI BESSA",
+            "horario": "35T23",
+            "local": "XIQUEXIQUE (CT)"
+          }
+        ],
+        "prerequisites": [
+          "1108100"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1705102",
+        "name": "CUSTOS DA PRODUCAO INDUSTRIAL",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1705102",
+            "turmaid": "01",
+            "nome": " CUSTOS DA PRODUCAO INDUSTRIAL",
+            "semester": "2018.2",
+            "professor": "JONAS ALVES DE PAIVA",
+            "horario": "35N34",
+            "local": "CTF 101 (CT)"
+          },
+          {
+            "id": "1705102",
+            "turmaid": "02",
+            "nome": " CUSTOS DA PRODUCAO INDUSTRIAL",
+            "semester": "2018.2",
+            "professor": "JONAS ALVES DE PAIVA",
+            "horario": "35T45",
+            "local": "AUD DEP (CT)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1709093",
+        "name": "ESTEQUIOMETRIA INDUSTRIAL QUIMICA INDUSTRIAL",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1709093",
+            "turmaid": "01",
+            "nome": " ESTEQUIOMETRIA INDUSTRIAL QUIMICA INDUSTRIAL",
+            "semester": "2018.2",
+            "professor": "RAUL ROSENHAIM",
+            "horario": "24T45",
+            "local": "CTB 107 (CT)"
+          }
+        ],
+        "prerequisites": [
+          "1103178",
+          "1105164"
+        ],
+        "equivalences": [
+          "1709008"
+        ]
+      },
+      {
+        "id": "1709094",
+        "name": "FENÔMENOS DE TRANSPORTE (QUIMICA NDUSTRIAL)",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1709094",
+            "turmaid": "01",
+            "nome": " FENÔMENOS DE TRANSPORTE (QUIMICA NDUSTRIAL)",
+            "semester": "2018.2",
+            "professor": "ADRIANO DUARTE TAVARES",
+            "horario": "46M23",
+            "local": "CTJ T07 (CT)"
+          }
+        ],
+        "prerequisites": [
+          "1105173"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1709037",
+        "name": "PLANEJAMENTO E OTIMIZAÇÃO DE EXPERIMENTO",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1709037",
+            "turmaid": "01",
+            "nome": " PLANEJAMENTO E OTIMIZAÇÃO DE EXPERIMENTO",
+            "semester": "2018.2",
+            "professor": "IZABEL CRISTINA EVARISTO DA SILVA e ANDREA LOPES DE OLIVEIRA FERREIRA",
+            "horario": "35M23",
+            "local": "CTB 105 (CT)"
+          }
+        ],
+        "prerequisites": [
+          "1108100"
+        ],
+        "equivalences": [
+          "1709012"
+        ]
+      },
+      {
+        "id": "1709095",
+        "name": "PROCESSO QUIMICOS AMBIENTAIS",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1709095",
+            "turmaid": "01",
+            "nome": " PROCESSO QUIMICOS AMBIENTAIS",
+            "semester": "2018.2",
+            "professor": "RENNIO FELIX DE SENA",
+            "horario": "35T45",
+            "local": "CTJ 102 (CT) / CTK 201 (CT)"
+          }
+        ],
+        "prerequisites": [
+          "1105164"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1709096",
+        "name": "MICROBIOLOGIA INDUSTRIAL",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1709096",
+            "turmaid": "01",
+            "nome": " MICROBIOLOGIA INDUSTRIAL",
+            "semester": "2018.2",
+            "professor": "ANA FLAVIA SANTOS COELHO",
+            "horario": "6M2345",
+            "local": "CTB 107 (CT)"
+          }
+        ],
+        "prerequisites": [
+          "1709080"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1709100",
+        "name": "CINÉTICA E CÁLCULO DE REATORES",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1709100",
+            "turmaid": "01",
+            "nome": " CINÉTICA E CÁLCULO DE REATORES",
+            "semester": "2018.2",
+            "professor": "VITAL DE SOUSA QUEIROZ",
+            "horario": "35T23",
+            "local": "CTB 105 (CT)"
+          }
+        ],
+        "prerequisites": [
+          "1103178"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDPEQ0104",
+        "name": "OPERAÇÕES UNITÁRIAS I (QUIMICA INDUSTRIAL)",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDPEQ0104",
+            "turmaid": "01",
+            "nome": " OPERAÇÕES UNITÁRIAS I (QUIMICA INDUSTRIAL)",
+            "semester": "2018.2",
+            "professor": "ANTONIO LUIZ DE ALBUQUERQUE GOMES",
+            "horario": "24M23",
+            "local": "CTB 107 (CT)"
+          }
+        ],
+        "prerequisites": [
+          "1709094"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDPEQ0106",
+        "name": "TERMODINÂMICA APLICADA (QUÍMICA INDUSTRIAL)",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDPEQ0106",
+            "turmaid": "01",
+            "nome": " TERMODINÂMICA APLICADA (QUÍMICA INDUSTRIAL)",
+            "semester": "2018.2",
+            "professor": "ADRIANO DUARTE TAVARES",
+            "horario": "46T23",
+            "local": "CTJ T07 (CT)"
+          }
+        ],
+        "prerequisites": [
+          "1105177"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDPEQ0108",
+        "name": "TECNOLOGIA DE FABRICAÇÃO DE COSMETICOS",
+        "category": "Optativa",
+        "semester": 7,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDPEQ0108",
+            "turmaid": "01",
+            "nome": " TECNOLOGIA DE FABRICAÇÃO DE COSMETICOS",
+            "semester": "2018.2",
+            "professor": "MELANIA LOPES CORNELIO",
+            "horario": "24T45",
+            "local": "CTJ T07 (CT)"
+          }
+        ],
+        "prerequisites": [
+          "1705100"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDPEQ0109",
+        "name": "GESTÃO DA QUALIDADE DE SANEANTES E COSMÉTICOS",
+        "category": "Optativa",
+        "semester": 7,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDPEQ0114",
+        "name": "BIOQUIMICA DE ALIMENTOS (QUIMICA INDUSTRIAL)",
+        "category": "Optativa",
+        "semester": 7,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1709080"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDPEQ0116",
+        "name": "CONTROLE DE QUALIDADE DOS ALIMENTOS (QUIMICA INDUSTRIAL)",
+        "category": "Optativa",
+        "semester": 7,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1705100"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1709087",
+        "name": "PROCESSOS QUÍMICOS ORGÂNICOS",
+        "category": "Obrigatória",
+        "semester": 7,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1709087",
+            "turmaid": "01",
+            "nome": " PROCESSOS QUÍMICOS ORGÂNICOS",
+            "semester": "2018.2",
+            "professor": "VITAL DE SOUSA QUEIROZ",
+            "horario": "24M23",
+            "local": "CTF 102 (CT)"
+          }
+        ],
+        "prerequisites": [
+          "1709093"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1709089",
+        "name": "PESQUISA APLICADA À QUIMICA INDUSTRIAL",
+        "category": "Complementar Obrigatória",
+        "semester": 7,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1709089",
+            "turmaid": "01",
+            "nome": " PESQUISA APLICADA À QUIMICA INDUSTRIAL",
+            "semester": "2018.2",
+            "professor": "JULICE DUTRA LOPES",
+            "horario": "4M45",
+            "local": "CTB 103 (CT)"
+          }
+        ],
+        "prerequisites": [
+          "1709037"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1709090",
+        "name": "BOAS PRÁTICAS DE FABRICACÃO NA INDUSTRIA QUIMICA",
+        "category": "Obrigatória",
+        "semester": 7,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1709090",
+            "turmaid": "01",
+            "nome": " BOAS PRÁTICAS DE FABRICACÃO NA INDUSTRIA QUIMICA",
+            "semester": "2018.2",
+            "professor": "ANA FLAVIA SANTOS COELHO",
+            "horario": "2M456",
+            "local": "CTF 102 (CT)"
+          }
+        ],
+        "prerequisites": [
+          "1705100"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1709091",
+        "name": "PROCESSOS QUIMICOS INORGÂNICOS",
+        "category": "Obrigatória",
+        "semester": 7,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1709091",
+            "turmaid": "01",
+            "nome": " PROCESSOS QUIMICOS INORGÂNICOS",
+            "semester": "2018.2",
+            "professor": "JOSE SOARES",
+            "horario": "35T45",
+            "local": "CTF 102 (CT)"
+          }
+        ],
+        "prerequisites": [
+          "1709093"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1709098",
+        "name": "BIOTECNOLOGIA INDUSTRIAL",
+        "category": "Obrigatória",
+        "semester": 7,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1709098",
+            "turmaid": "01",
+            "nome": " BIOTECNOLOGIA INDUSTRIAL",
+            "semester": "2018.2",
+            "professor": "CARLOS ALBERTO BISPO DE SOUSA",
+            "horario": "24T23",
+            "local": "CTB 103 (CT) / CTK 201 (CT)"
+          }
+        ],
+        "prerequisites": [
+          "1709096"
+        ],
+        "equivalences": [
+          "1709009"
+        ]
+      },
+      {
+        "id": "GDECV0107",
+        "name": "TRATAMENTO DE EFLUENTES DOMESTICOS E INDUSTRIAIS",
+        "category": "Complementar Obrigatória",
+        "semester": 7,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1709095"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDPEQ0007",
+        "name": "ESTAGIO SUPERVISIONADO I (QUÍMICA INDUSTRIAL)",
+        "category": "Obrigatória",
+        "semester": 7,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDPEQ0007",
+            "turmaid": "01",
+            "nome": " ESTAGIO SUPERVISIONADO I (QUÍMICA INDUSTRIAL)",
+            "semester": "2018.2",
+            "professor": "RENNIO FELIX DE SENA",
+            "horario": "7T2345 (22/11/2018 - 10/05/2019)",
+            "local": "CTS 101 (CT)"
+          }
+        ],
+        "prerequisites": [
+          "1709037"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDPEQ0107",
+        "name": "OPERAÇÕES UNITÁRIOS II (QUÍMICA INDUSTRIAL)",
+        "category": "Obrigatória",
+        "semester": 7,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDPEQ0107",
+            "turmaid": "01",
+            "nome": " OPERAÇÕES UNITÁRIOS II (QUÍMICA INDUSTRIAL)",
+            "semester": "2018.2",
+            "professor": "CARLOS ALBERTO BISPO DE SOUSA",
+            "horario": "35M23",
+            "local": "CTJ T07 (CT)"
+          }
+        ],
+        "prerequisites": [
+          "0104"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDPEQ0115",
+        "name": "BIOTECNOLOGIA NA PRODUÇÃO DE ALIMENTOS ( QUIMICA INDUSTRIAL)",
+        "category": "Optativa",
+        "semester": 8,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDPEQ0115",
+            "turmaid": "01",
+            "nome": " BIOTECNOLOGIA NA PRODUÇÃO DE ALIMENTOS ( QUIMICA INDUSTRIAL)",
+            "semester": "2018.2",
+            "professor": "CARLOS ALBERTO BISPO DE SOUSA",
+            "horario": "3T123",
+            "local": "CTB 103 (CT)"
+          }
+        ],
+        "prerequisites": [
+          "1709098"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDPEQ0117",
+        "name": "HIGIENE E LEGISLAÇÃO DE ALIMENTOS ( QUIMICA INDUSTRIAL)",
+        "category": "Optativa",
+        "semester": 8,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1709096"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDPEQ0118",
+        "name": "TECNOLOGIA DE FABRICAÇÃO DE SANEANTES",
+        "category": "Optativa",
+        "semester": 8,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDPEQ0118",
+            "turmaid": "01",
+            "nome": " TECNOLOGIA DE FABRICAÇÃO DE SANEANTES",
+            "semester": "2018.2",
+            "professor": "MELANIA LOPES CORNELIO",
+            "horario": "24N12",
+            "local": "CTJ T02 (CT)"
+          }
+        ],
+        "prerequisites": [
+          "1705100"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDECV0108",
+        "name": "TRATAMENTO DE RESIDUOS SOLIDOS",
+        "category": "Complementar Obrigatória",
+        "semester": 8,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1709095"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDECV0109",
+        "name": "GESTÃO DE RECURSOS HIDRICOS E REUSO DE AGUA",
+        "category": "Complementar Obrigatória",
+        "semester": 8,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1709095"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDPEQ0100",
+        "name": "ESTAGIO SUPERVISIONADO II (QUÍMICA INDUSTRIAL)",
+        "category": "Obrigatória",
+        "semester": 8,
+        "workload": "0h aula 180h lab.",
+        "type": "ESTÁGIO",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "0007"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDPEQ0101",
+        "name": "TRABALHO DE CONCLUSÃO DE CURSO (QUÍMICA INDUSTRIAL)",
+        "category": "Complementar Obrigatória",
+        "semester": 8,
+        "workload": "30h aula 0h lab.",
+        "type": "TRABALHO DE CONCLUSÃO DE CURSO",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "0007"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDPEQ0102",
+        "name": "INTRODUÇÃO À INDÚSTRIA DO PETRÓLEO",
+        "category": "Obrigatória",
+        "semester": 8,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDPEQ0102",
+            "turmaid": "01",
+            "nome": " INTRODUÇÃO À INDÚSTRIA DO PETRÓLEO",
+            "semester": "2018.2",
+            "professor": "RAUL ROSENHAIM",
+            "horario": "5T456",
+            "local": "CTJ T07 (CT)"
+          }
+        ],
+        "prerequisites": [
+          "1709087"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDPEQ0103",
+        "name": "METROLOGIA",
+        "category": "Obrigatória",
+        "semester": 8,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDPEQ0103",
+            "turmaid": "01",
+            "nome": " METROLOGIA",
+            "semester": "2018.2",
+            "professor": "RAUL ROSENHAIM",
+            "horario": "3T456",
+            "local": "CTJ 102 (CT)"
+          }
+        ],
+        "prerequisites": [
+          "1103177",
+          "1101157"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDPEQ0110",
+        "name": "HIGIENE E SEGURANÇA DO TRABALHO",
+        "category": "Obrigatória",
+        "semester": 8,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDPEQ0110",
+            "turmaid": "01",
+            "nome": " HIGIENE E SEGURANÇA DO TRABALHO",
+            "semester": "2018.2",
+            "professor": "JULICE DUTRA LOPES",
+            "horario": "3M456",
+            "local": "CTJ 101 (CT)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1702167",
+        "name": " BIOQUIMICA DE ALIMENTOS II",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": "60h",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1702167",
+            "turmaid": "01",
+            "nome": " BIOQUIMICA DE ALIMENTOS II",
+            "semester": "2018.2",
+            "professor": "MARCIANE MAGNANI",
+            "horario": "5M2345",
+            "local": "CTB 101 (CT)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+          "GDPEQ0114"
+        ]
+      },
+      {
+        "id": "1703103",
+        "name": " CIENCIAS DO AMBIENTE",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": "45h",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1703103",
+            "turmaid": "01",
+            "nome": " CIENCIAS DO AMBIENTE",
+            "semester": "2018.2",
+            "professor": "ADRIANO ROLIM DA PAZ",
+            "horario": "3T123",
+            "local": "CTM 205 (CT)"
+          },
+          {
+            "id": "1703103",
+            "turmaid": "03",
+            "nome": " CIENCIAS DO AMBIENTE",
+            "semester": "2018.2",
+            "professor": "ADRIANO ROLIM DA PAZ",
+            "horario": "6M123",
+            "local": "CTD 105 (CT)"
+          },
+          {
+            "id": "1703103",
+            "turmaid": "05",
+            "nome": " CIENCIAS DO AMBIENTE",
+            "semester": "2018.2",
+            "professor": "ALINE FLAVIA NUNES REMIGIO ANTUNES",
+            "horario": "6T123",
+            "local": "CTD 105 (CT)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1702180",
+        "name": " CONTROLE DE QUALIDADE DE ALIMENTOS",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": "45h",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1702180",
+            "turmaid": "01",
+            "nome": " CONTROLE DE QUALIDADE DE ALIMENTOS",
+            "semester": "2018.2",
+            "professor": "HELENICE DUARTE DE HOLANDA",
+            "horario": "4M123",
+            "local": "CTE 104 (CT)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1703234",
+        "name": " GESTÃO DE RECURSOS HIDRICOS",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": "60h",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1703234",
+            "turmaid": "01",
+            "nome": " GESTÃO DE RECURSOS HIDRICOS",
+            "semester": "2018.2",
+            "professor": "FRANCISCO JACOME SARMENTO",
+            "horario": "56M23",
+            "local": "CTM 203 (CT)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+          "GDPEQ0116",
+          "GDECV0109"
+        ]
+      },
+      {
+        "id": "1703202",
+        "name": " GESTAO DE RESIDUOS SOLIDOS URBANOS",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": "60h",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1703202",
+            "turmaid": "01",
+            "nome": " GESTAO DE RESIDUOS SOLIDOS URBANOS",
+            "semester": "2018.2",
+            "professor": "ALINE FLAVIA NUNES REMIGIO ANTUNES",
+            "horario": "24M45",
+            "local": "CTD 107 (CT)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+          "GDECV0108"
+        ]
+      },
+      {
+        "id": "1702177",
+        "name": " HIGIENE NA INDUSTRIA DE ALIMENTOS",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": "45h",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1702177",
+            "turmaid": "01",
+            "nome": " HIGIENE NA INDUSTRIA DE ALIMENTOS",
+            "semester": "2018.2",
+            "professor": "YURI MONTENEGRO ISHIHARA",
+            "horario": "4T123",
+            "local": "CTJ 201 (CT)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+          "GDPEQ0117"
+        ]
+      },
+      {
+        "id": "1102178",
+        "name": " MINERALOGIA",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": "60h",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1102178",
+            "turmaid": "01",
+            "nome": " MINERALOGIA",
+            "semester": "2018.2",
+            "professor": "WERNER MAXIMILIAN TOPITSCH",
+            "horario": "6T2345",
+            "local": "LEGAM (CCEN)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1709097",
+        "name": " SEMINÁRIO TEMÁTICO I ED REL ETN RAC",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": "30h",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1709097",
+            "turmaid": "01",
+            "nome": " SEMINÁRIO TEMÁTICO I ED REL ETN RAC",
+            "semester": "2018.2",
+            "professor": "IZABEL CRISTINA EVARISTO DA SILVA e GIOVANILTON FERREIRA DA SILVA",
+            "horario": "6T123",
+            "local": "CTB 101 (CT)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1709024",
+        "name": " TECNOLOGIA DAS FERMENTAÇÕES",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": "60h",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1709024",
+            "turmaid": "01",
+            "nome": " TECNOLOGIA DAS FERMENTAÇÕES",
+            "semester": "2018.2",
+            "professor": "ANA FLAVIA SANTOS COELHO",
+            "horario": "46T23",
+            "local": "CTB 107 (CT)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+          "1709035"
+        ]
+      },
+      {
+        "id": "1703170",
+        "name": " TRATAMENTO DE ÁGUA E ESGOTO",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": "60h",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1703170",
+            "turmaid": "01",
+            "nome": " TRATAMENTO DE ÁGUA E ESGOTO",
+            "semester": "2018.2",
+            "professor": "CARMEM LUCIA MOREIRA GADELHA",
+            "horario": "46M23",
+            "local": "CTD 103 (CT) / CTD 105 (CT)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+          "GDECV0107"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,2109 @@
+{
+  "curriculum": {
+    "id": "292006",
+    "codigo": "2663749",
+    "name": "LETRAS (LÍNGUAS INGLESA) - João Pessoa - Presencial - LING. INGLESA - MT - LICENCIATURA PLENA",
+    "faculty": "CENTRO DE CIÊNCIAS HUMANAS, LETRAS E ARTES (CCHLA) (11.00.53)",
+    "minch": "240",
+    "maxch": "420",
+    "semesters": 8,
+    "courses": [
+      {
+        "id": "1202251",
+        "name": "ATIVIDADE DE EXTENSAO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1202252",
+        "name": "ATIVIDADE DE EXTENSAO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1202253",
+        "name": "ATIVIDADE  DE EXTENSAO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "15h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1202254",
+        "name": "ATIVIDADE DE EXTESNSAO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1301146",
+        "name": "FUND ADM EDUCACAO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1301204",
+        "name": "EDUCAÇÃO SEXUAL",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1302128",
+        "name": "INTRODUÇÃO AOS RECURSOS AUDIOVISUAIS EM EDUCAÇÃO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1302220",
+        "name": "AVALIAÇÃO DA APRENDIZAGEM",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1302304",
+        "name": "AVALIACAO DA APRENDIZAGEM",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1302304",
+            "turmaid": "04",
+            "nome": " AVALIACAO DA APRENDIZAGEM",
+            "semester": "2018.2",
+            "professor": "MARIA DA CONCEICAO GOMES DE MIRANDA",
+            "horario": "3T2345",
+            "local": "CAE 106 (PRG)"
+          },
+          {
+            "id": "1302304",
+            "turmaid": "06",
+            "nome": " AVALIACAO DA APRENDIZAGEM",
+            "semester": "2018.2",
+            "professor": "IRANETE DE ARAÚJO MEIRA",
+            "horario": "6N1234",
+            "local": "CE 306 (CE)"
+          },
+          {
+            "id": "1302304",
+            "turmaid": "07",
+            "nome": " AVALIACAO DA APRENDIZAGEM",
+            "semester": "2018.2",
+            "professor": "IDELSUITE DE SOUSA LIMA",
+            "horario": "2M1234",
+            "local": "CE 306 (CE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1302305",
+        "name": "SEMINÁRIO DE PROBLEMAS  ATUAIS DA EDUCAÇÃO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1302324",
+        "name": "ALFABETIZACAO DE JOVENS E ADULTOS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1302324",
+            "turmaid": "01",
+            "nome": " ALFABETIZACAO DE JOVENS E ADULTOS",
+            "semester": "2018.2",
+            "professor": "QUÉZIA VILA FLOR FURTADO",
+            "horario": "3N1234",
+            "local": "CE 305 (CE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1302325",
+        "name": "EDUCAÇÃO E MOVIMENTOS SOCIAIS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1303195",
+        "name": "PLANEJAMENTO E GESTÃO ESCOLAR",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1303196",
+        "name": "CURRICULO E TRABALHO PEDAGOGICO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1303196",
+            "turmaid": "02",
+            "nome": " CURRICULO E TRABALHO PEDAGOGICO",
+            "semester": "2018.2",
+            "professor": "ANA CELIA SILVA MENEZES",
+            "horario": "5M1234",
+            "local": "CAH 107 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1303197",
+        "name": "PESQUISA E COTIDIANO ESCOLAR",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1303197",
+            "turmaid": "03",
+            "nome": " PESQUISA E COTIDIANO ESCOLAR",
+            "semester": "2018.2",
+            "professor": "GIULIANA CAVALCANTI VASCONCELOS",
+            "horario": "5N1234",
+            "local": "CAH 101 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1303212",
+        "name": "EDUCACAO ESPECIAL",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1303212",
+            "turmaid": "01",
+            "nome": " EDUCACAO ESPECIAL",
+            "semester": "2018.2",
+            "professor": "IZAURA MARIA DE ANDRADE DA SILVA",
+            "horario": "5N1234",
+            "local": "CE 304 (CE)"
+          },
+          {
+            "id": "1303212",
+            "turmaid": "02",
+            "nome": " EDUCACAO ESPECIAL",
+            "semester": "2018.2",
+            "professor": "SANDRA ALVES DA SILVA SANTIAGO",
+            "horario": "6M1234",
+            "local": "CE 303 (CE)"
+          },
+          {
+            "id": "1303212",
+            "turmaid": "03",
+            "nome": " EDUCACAO ESPECIAL",
+            "semester": "2018.2",
+            "professor": "ADENIZE QUEIROZ DE FARIAS",
+            "horario": "4T1234",
+            "local": "CE 303 (CE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1303398",
+        "name": "EDUCACAO E INCLUSAO SOCIAL",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1403350",
+        "name": "LITERATURA E ESTUDOS DE GÊNERO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1404200",
+        "name": "HISTORIA DA LÍNGUA INGLESA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1404203",
+        "name": "PROG NEURO LING E ENS DE LING ESTRAN",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1404203",
+            "turmaid": "01",
+            "nome": " PROG NEURO LING E ENS DE LING ESTRAN",
+            "semester": "2018.2",
+            "professor": "MAURA REGINA DA SILVA DOURADO",
+            "horario": "5M1234",
+            "local": "CAG 102 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1404208",
+        "name": "ESTUDOS SEMÂNTICOS EM LÍNGUA ESTRANGEIRA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1404231",
+        "name": "TÓPICOS ESPECIAIS EM LÍNGUA INGLESA",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1404205",
+          "1404206"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1404232",
+        "name": "TOP ESP EM LINGÜÍSTICA",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1404205",
+          "1404206"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1404233",
+        "name": "TOP ESP EM TRADUÇÃO",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1404205",
+          "1404206"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1404234",
+        "name": "TÓPICOS ESPECIAIS EM LITERATURA INGLESA",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1404189",
+          "1404211",
+          "1404212"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1404235",
+        "name": "TÓPICOS ESPECIAIS EM LITERATURA NORTE",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1404189",
+          "1404211",
+          "1404212"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1404300",
+        "name": "TRADUÇÃO POÉTICA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1404318",
+        "name": "TEORIAS DO TEXTO I ASPECTOS LINGUIST",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+          "GDMI0120"
+        ]
+      },
+      {
+        "id": "1404385",
+        "name": "MULHER E LITERATURA  LING INGLESA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1404385",
+            "turmaid": "01",
+            "nome": " MULHER E LITERATURA  LING INGLESA",
+            "semester": "2018.2",
+            "professor": "RENATA GONCALVES GOMES",
+            "horario": "4M1234",
+            "local": "CAF 109 (PRG)"
+          },
+          {
+            "id": "1404385",
+            "turmaid": "02",
+            "nome": " MULHER E LITERATURA  LING INGLESA",
+            "semester": "2018.2",
+            "professor": "RENATA GONCALVES GOMES",
+            "horario": "2N1234",
+            "local": "CAH 106 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1301195",
+        "name": "FUNDAMENTOS  ANTROPOFILOSÓFICO DA EDUCAÇÃO",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1301195",
+            "turmaid": "01",
+            "nome": " FUNDAMENTOS  ANTROPOFILOSÓFICO DA EDUCAÇÃO",
+            "semester": "2018.2",
+            "professor": "FERNANDES ANTONIO BRASILEIRO RODRIGUES",
+            "horario": "3M1234",
+            "local": "CAF 110 (PRG)"
+          },
+          {
+            "id": "1301195",
+            "turmaid": "08",
+            "nome": " FUNDAMENTOS  ANTROPOFILOSÓFICO DA EDUCAÇÃO",
+            "semester": "2018.2",
+            "professor": "FABIOLA BARROCAS TAVARES",
+            "horario": "2N1234",
+            "local": "CAH 108 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1404176",
+        "name": "LINGUA INGLESA I",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1404176",
+            "turmaid": "01",
+            "nome": " LINGUA INGLESA I",
+            "semester": "2018.2",
+            "professor": "EDMILSON DE ALBUQUERQUE BORBOREMA FILHO",
+            "horario": "26M12",
+            "local": "CAH 106 (PRG)"
+          },
+          {
+            "id": "1404176",
+            "turmaid": "02",
+            "nome": " LINGUA INGLESA I",
+            "semester": "2018.2",
+            "professor": "BARBARA CABRAL FERREIRA",
+            "horario": "4N1234",
+            "local": "CCHLA 515 (CCHLA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1404189",
+        "name": "INTRODUÇÃO AOS ESTUDOS LITERÁRIOS DE LÍNGUAS ESTRANGEIRAS",
+        "category": "Complementar Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1404189",
+            "turmaid": "01",
+            "nome": " INTRODUÇÃO AOS ESTUDOS LITERÁRIOS DE LÍNGUAS ESTRANGEIRAS",
+            "semester": "2018.2",
+            "professor": "VINICIUS FERNANDO DE FARIAS MEIRA",
+            "horario": "6N1234",
+            "local": "CAH 102 (PRG)"
+          },
+          {
+            "id": "1404189",
+            "turmaid": "02",
+            "nome": " INTRODUÇÃO AOS ESTUDOS LITERÁRIOS DE LÍNGUAS ESTRANGEIRAS",
+            "semester": "2018.2",
+            "professor": "JULIANA HENRIQUES DE LUNA FREIRE",
+            "horario": "6M3456",
+            "local": "CAE 105 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1404192",
+        "name": "CULTURA DOS POVOS DE LÍNGUA INGLESA",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1404192",
+            "turmaid": "01",
+            "nome": " CULTURA DOS POVOS DE LÍNGUA INGLESA",
+            "semester": "2018.2",
+            "professor": "MARIA ELIZABETH PEREGRINO SOUTO MAIOR MENDES",
+            "horario": "2M3456",
+            "local": "CAG 104 (PRG)"
+          },
+          {
+            "id": "1404192",
+            "turmaid": "02",
+            "nome": " CULTURA DOS POVOS DE LÍNGUA INGLESA",
+            "semester": "2018.2",
+            "professor": "DANIELLE DE LUNA E SILVA",
+            "horario": "3N1234",
+            "local": "CAH 106 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1404195",
+        "name": "METODOLOGIA DO TRABALHO CIENTIFICO",
+        "category": "Complementar Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1404195",
+            "turmaid": "01",
+            "nome": " METODOLOGIA DO TRABALHO CIENTIFICO",
+            "semester": "2018.2",
+            "professor": "PHILIO GENERINO TERZAKIS",
+            "horario": "4M1234",
+            "local": "CAG 102 (PRG)"
+          },
+          {
+            "id": "1404195",
+            "turmaid": "02",
+            "nome": " METODOLOGIA DO TRABALHO CIENTIFICO",
+            "semester": "2018.2",
+            "professor": "VINICIUS FERNANDO DE FARIAS MEIRA",
+            "horario": "5N1234",
+            "local": "CCHLA 513 (CCHLA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+          "GDMI0119"
+        ]
+      },
+      {
+        "id": "1301200",
+        "name": "FUNDAMENTOS SOCIOHISTÓRICOS DA EDUCAÇÃO",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1301200",
+            "turmaid": "03",
+            "nome": " FUNDAMENTOS SOCIOHISTÓRICOS DA EDUCAÇÃO",
+            "semester": "2018.2",
+            "professor": "ROMILDO RAPOSO FERNANDES",
+            "horario": "5M1234",
+            "local": "CCHLA 414 BLOCO I CENTRAL DE AULAS (CCHLA)"
+          },
+          {
+            "id": "1301200",
+            "turmaid": "08",
+            "nome": " FUNDAMENTOS SOCIOHISTÓRICOS DA EDUCAÇÃO",
+            "semester": "2018.2",
+            "professor": "FABIOLA BARROCAS TAVARES",
+            "horario": "3N1234",
+            "local": "CAD 103 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1301201",
+        "name": "FUNDAMENTOS PSICOLÓGICOS DA EDUCAÇÃO",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1301201",
+            "turmaid": "02",
+            "nome": " FUNDAMENTOS PSICOLÓGICOS DA EDUCAÇÃO",
+            "semester": "2018.2",
+            "professor": "A DEFINIR",
+            "horario": "4M1234",
+            "local": "CAH 108 (PRG)"
+          },
+          {
+            "id": "1301201",
+            "turmaid": "08",
+            "nome": " FUNDAMENTOS PSICOLÓGICOS DA EDUCAÇÃO",
+            "semester": "2018.2",
+            "professor": "MARIA IVETE MARTINS CORREIA",
+            "horario": "4N1234",
+            "local": "CAE 111 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1404205",
+        "name": "TEORIAS DA LINGUÍSTICA I",
+        "category": "Complementar Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1404205",
+            "turmaid": "01",
+            "nome": " TEORIAS DA LINGUÍSTICA I",
+            "semester": "2018.2",
+            "professor": "SANDRA HELENA GURGEL DANTAS DE MEDEIROS",
+            "horario": "2M3456",
+            "local": "CAE 105 (PRG)"
+          },
+          {
+            "id": "1404205",
+            "turmaid": "02",
+            "nome": " TEORIAS DA LINGUÍSTICA I",
+            "semester": "2018.2",
+            "professor": "MAURA REGINA DA SILVA DOURADO",
+            "horario": "2N1234",
+            "local": "CAG 105 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1404211",
+        "name": "TEORIA LITERÁRIA I",
+        "category": "Complementar Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1404211",
+            "turmaid": "01",
+            "nome": " TEORIA LITERÁRIA I",
+            "semester": "2018.2",
+            "professor": "MARTA PRAGANA DANTAS",
+            "horario": "6M3456",
+            "local": "CAF 108 (PRG)"
+          },
+          {
+            "id": "1404211",
+            "turmaid": "02",
+            "nome": " TEORIA LITERÁRIA I",
+            "semester": "2018.2",
+            "professor": "MARTA PRAGANA DANTAS",
+            "horario": "5N1234",
+            "local": "CAF 108 (PRG)"
+          }
+        ],
+        "prerequisites": [
+          "1403182",
+          "1404189"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1404214",
+        "name": "LÍNGUA INGLESA NÍVEL BÁSICO II",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1404214",
+            "turmaid": "01",
+            "nome": " LÍNGUA INGLESA NÍVEL BÁSICO II",
+            "semester": "2018.2",
+            "professor": "WALISON PAULINO DE ARAUJO COSTA",
+            "horario": "4N1234",
+            "local": "CAH 106 (PRG)"
+          },
+          {
+            "id": "1404214",
+            "turmaid": "02",
+            "nome": " LÍNGUA INGLESA NÍVEL BÁSICO II",
+            "semester": "2018.2",
+            "professor": "WALISON PAULINO DE ARAUJO COSTA",
+            "horario": "26M12",
+            "local": "CAF 109 (PRG)"
+          }
+        ],
+        "prerequisites": [
+          "1404176"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1404221",
+        "name": "FONÉTICA E FONOLOGIA DA LÍNGUA INGLESA I",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1404221",
+            "turmaid": "01",
+            "nome": " FONÉTICA E FONOLOGIA DA LÍNGUA INGLESA I",
+            "semester": "2018.2",
+            "professor": "EDMILSON DE ALBUQUERQUE BORBOREMA FILHO",
+            "horario": "3M1234",
+            "local": "CAG 101 (PRG)"
+          },
+          {
+            "id": "1404221",
+            "turmaid": "02",
+            "nome": " FONÉTICA E FONOLOGIA DA LÍNGUA INGLESA I",
+            "semester": "2018.2",
+            "professor": "RUBENS MARQUES DE LUCENA",
+            "horario": "6N1234",
+            "local": "CAG 105 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1302105",
+        "name": "DIDÁTICA",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1302105",
+            "turmaid": "01",
+            "nome": " DIDÁTICA",
+            "semester": "2018.2",
+            "professor": "JOSEVAL DOS REIS MIRANDA",
+            "horario": "4M56 6M34",
+            "local": "CCHLA 413 BLOCO I CENTRAL DE AULAS (CCHLA)"
+          },
+          {
+            "id": "1302105",
+            "turmaid": "09",
+            "nome": " DIDÁTICA",
+            "semester": "2018.2",
+            "professor": "ISOLDA AYRES VIANA RAMOS",
+            "horario": "4N1234",
+            "local": "CAB 105 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1404206",
+        "name": "TEORIAS DA LINGUÍSTICA II",
+        "category": "Complementar Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1404206",
+            "turmaid": "01",
+            "nome": " TEORIAS DA LINGUÍSTICA II",
+            "semester": "2018.2",
+            "professor": "ELAINE ESPINDOLA BALDISSERA",
+            "horario": "3M1234",
+            "local": "CAE 105 (PRG)"
+          },
+          {
+            "id": "1404206",
+            "turmaid": "02",
+            "nome": " TEORIAS DA LINGUÍSTICA II",
+            "semester": "2018.2",
+            "professor": "FABIO ALEXANDRE SILVA BEZERRA",
+            "horario": "2N1234",
+            "local": "CAH 101 (PRG)"
+          }
+        ],
+        "prerequisites": [
+          "1404205"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1404210",
+        "name": "INTRODUÇÃO AOS ESTUDOS DA TRADUÇÃO",
+        "category": "Complementar Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1404210",
+            "turmaid": "01",
+            "nome": " INTRODUÇÃO AOS ESTUDOS DA TRADUÇÃO",
+            "semester": "2018.2",
+            "professor": "JOSE ROBERTO ANDRADE FERES",
+            "horario": "4M1234",
+            "local": "CAE 105 (PRG)"
+          },
+          {
+            "id": "1404210",
+            "turmaid": "02",
+            "nome": " INTRODUÇÃO AOS ESTUDOS DA TRADUÇÃO",
+            "semester": "2018.2",
+            "professor": "JOSE ROBERTO ANDRADE FERES",
+            "horario": "6N1234",
+            "local": "CCHLA 412 BLOCO I CENTRAL DE AULAS (CCHLA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1404212",
+        "name": "TEORIA LITERÁRIA II",
+        "category": "Complementar Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1404212",
+            "turmaid": "01",
+            "nome": " TEORIA LITERÁRIA II",
+            "semester": "2018.2",
+            "professor": "LUCIA FATIMA FERNANDES NOBRE",
+            "horario": "2M3456",
+            "local": "CAF 108 (PRG)"
+          },
+          {
+            "id": "1404212",
+            "turmaid": "02",
+            "nome": " TEORIA LITERÁRIA II",
+            "semester": "2018.2",
+            "professor": "GLORIA MARIA OLIVEIRA GAMA e GENILDA ALVES DE AZEREDO",
+            "horario": "5N1234",
+            "local": "CAG 104 (PRG)"
+          }
+        ],
+        "prerequisites": [
+          "1404211",
+          "1404189"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1404215",
+        "name": "LÍNGUA INGLESA NÍVEL BÁSICO III",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1404215",
+            "turmaid": "01",
+            "nome": " LÍNGUA INGLESA NÍVEL BÁSICO III",
+            "semester": "2018.2",
+            "professor": "ROSYCLÉA DANTAS SILVA",
+            "horario": "6N1234",
+            "local": "CCHLA 513 (CCHLA)"
+          },
+          {
+            "id": "1404215",
+            "turmaid": "02",
+            "nome": " LÍNGUA INGLESA NÍVEL BÁSICO III",
+            "semester": "2018.2",
+            "professor": "ANDREA BURITY DIALECTAQUIZ",
+            "horario": "26M12",
+            "local": "CAH 103 (PRG)"
+          }
+        ],
+        "prerequisites": [
+          "1404176"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1404222",
+        "name": "FONÉTICA E FONOLOGIA DA LÍNGUA INGLESA II",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1404222",
+            "turmaid": "01",
+            "nome": " FONÉTICA E FONOLOGIA DA LÍNGUA INGLESA II",
+            "semester": "2018.2",
+            "professor": "EDMILSON DE ALBUQUERQUE BORBOREMA FILHO",
+            "horario": "5M1234",
+            "local": "CCHLA 516 - PPGH (CCHLA)"
+          },
+          {
+            "id": "1404222",
+            "turmaid": "02",
+            "nome": " FONÉTICA E FONOLOGIA DA LÍNGUA INGLESA II",
+            "semester": "2018.2",
+            "professor": "EDMILSON DE ALBUQUERQUE BORBOREMA FILHO",
+            "horario": "3N1234",
+            "local": "CAF 102 (PRG)"
+          }
+        ],
+        "prerequisites": [
+          "1404221"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1303208",
+        "name": "POLITICA EDUCACIONAL DA EDUCACAO BASICA",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1303208",
+            "turmaid": "04",
+            "nome": " POLITICA EDUCACIONAL DA EDUCACAO BASICA",
+            "semester": "2018.2",
+            "professor": "SURYA AARONOVICH POMBO DE BARROS",
+            "horario": "5N1234",
+            "local": "CE 321 (CE)"
+          },
+          {
+            "id": "1303208",
+            "turmaid": "05",
+            "nome": " POLITICA EDUCACIONAL DA EDUCACAO BASICA",
+            "semester": "2018.2",
+            "professor": "VIRGINIA DE OLIVEIRA SILVA",
+            "horario": "5M1234",
+            "local": "CCHLA 420 BLOCO A 1º ANDAR (CCHLA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+          "1303180"
+        ]
+      },
+      {
+        "id": "1404207",
+        "name": "PESQUISA APLICADA AO ENSINO DE LÍNGUAS ESTRANGEIRAS",
+        "category": "Complementar Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1404207",
+            "turmaid": "01",
+            "nome": " PESQUISA APLICADA AO ENSINO DE LÍNGUAS ESTRANGEIRAS",
+            "semester": "2018.2",
+            "professor": "BARTHYRA CABRAL VIEIRA DE ANDRADE",
+            "horario": "3M1234",
+            "local": "CAE 107 (PRG)"
+          },
+          {
+            "id": "1404207",
+            "turmaid": "02",
+            "nome": " PESQUISA APLICADA AO ENSINO DE LÍNGUAS ESTRANGEIRAS",
+            "semester": "2018.2",
+            "professor": "BARTHYRA CABRAL VIEIRA DE ANDRADE",
+            "horario": "6N1234",
+            "local": "CAG 104 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1404216",
+        "name": "LÍNGUA INGLESA N II",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1404216",
+            "turmaid": "01",
+            "nome": " LÍNGUA INGLESA N II",
+            "semester": "2018.2",
+            "professor": "ANDREA BURITY DIALECTAQUIZ",
+            "horario": "2M34 4M12",
+            "local": "CAH 102 (PRG)"
+          },
+          {
+            "id": "1404216",
+            "turmaid": "02",
+            "nome": " LÍNGUA INGLESA N II",
+            "semester": "2018.2",
+            "professor": "RUBENS MARQUES DE LUCENA",
+            "horario": "3N1234",
+            "local": "CCHLA 414 BLOCO I CENTRAL DE AULAS (CCHLA)"
+          }
+        ],
+        "prerequisites": [
+          "1404215"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1404223",
+        "name": "P L P T EM LING INGL  I",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1404223",
+            "turmaid": "01",
+            "nome": " P L P T EM LING INGL  I",
+            "semester": "2018.2",
+            "professor": "FELIX AUGUSTO RODRIGUES DA SILVA",
+            "horario": "26M12",
+            "local": "CAF 102 (PRG)"
+          },
+          {
+            "id": "1404223",
+            "turmaid": "02",
+            "nome": " P L P T EM LING INGL  I",
+            "semester": "2018.2",
+            "professor": "ANDERSON ALVES DE SOUZA",
+            "horario": "4N1234",
+            "local": "CAG 105 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1404225",
+        "name": "LITERATURA INGLESA   I",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1404225",
+            "turmaid": "01",
+            "nome": " LITERATURA INGLESA   I",
+            "semester": "2018.2",
+            "professor": "GLORIA MARIA OLIVEIRA GAMA e GENILDA ALVES DE AZEREDO",
+            "horario": "2N1234",
+            "local": "CAD 109 (PRG)"
+          },
+          {
+            "id": "1404225",
+            "turmaid": "02",
+            "nome": " LITERATURA INGLESA   I",
+            "semester": "2018.2",
+            "professor": "JULIANA HENRIQUES DE LUNA FREIRE",
+            "horario": "4M3456",
+            "local": "CAE 107 (PRG)"
+          }
+        ],
+        "prerequisites": [
+          "1404212"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1404240",
+        "name": "ESTÁGIO SUPERVISIONADO I ( INGLÊS/FRANCÊS/ESPANHOL)",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1404240",
+            "turmaid": "01",
+            "nome": " ESTÁGIO SUPERVISIONADO I ( INGLÊS/FRANCÊS/ESPANHOL)",
+            "semester": "2018.2",
+            "professor": "ANDREA BURITY DIALECTAQUIZ",
+            "horario": "6M3456",
+            "local": "CCHLA 416 BLOCO I CENTRAL DE AULAS (CCHLA)"
+          },
+          {
+            "id": "1404240",
+            "turmaid": "02",
+            "nome": " ESTÁGIO SUPERVISIONADO I ( INGLÊS/FRANCÊS/ESPANHOL)",
+            "semester": "2018.2",
+            "professor": "PHILIO GENERINO TERZAKIS",
+            "horario": "4N1234",
+            "local": "CAE 109 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1404217",
+        "name": "LÍNGUA INGLES N I   II",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1404217",
+            "turmaid": "01",
+            "nome": " LÍNGUA INGLES N I   II",
+            "semester": "2018.2",
+            "professor": "DANIELLE BARBOSA LINS DE ALMEIDA",
+            "horario": "2M34 4M12",
+            "local": "CAF 102 (PRG)"
+          },
+          {
+            "id": "1404217",
+            "turmaid": "02",
+            "nome": " LÍNGUA INGLES N I   II",
+            "semester": "2018.2",
+            "professor": "BARTHYRA CABRAL VIEIRA DE ANDRADE",
+            "horario": "2N1234",
+            "local": "CAD 101 (PRG)"
+          }
+        ],
+        "prerequisites": [
+          "1404216"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1404224",
+        "name": "P L P T  EM LING INGL  II",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1404224",
+            "turmaid": "01",
+            "nome": " P L P T  EM LING INGL  II",
+            "semester": "2018.2",
+            "professor": "ANDERSON ALVES DE SOUZA",
+            "horario": "26M56",
+            "local": "CAG 105 (PRG)"
+          },
+          {
+            "id": "1404224",
+            "turmaid": "02",
+            "nome": " P L P T  EM LING INGL  II",
+            "semester": "2018.2",
+            "professor": "ANDERSON ALVES DE SOUZA",
+            "horario": "5N1234",
+            "local": "CAE 109 (PRG)"
+          }
+        ],
+        "prerequisites": [
+          "1404223"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1404226",
+        "name": "LITERATURA INGLESA  II",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1404226",
+            "turmaid": "01",
+            "nome": " LITERATURA INGLESA  II",
+            "semester": "2018.2",
+            "professor": "LUCIA FATIMA FERNANDES NOBRE",
+            "horario": "6M1234",
+            "local": "CAG 103 (PRG)"
+          },
+          {
+            "id": "1404226",
+            "turmaid": "02",
+            "nome": " LITERATURA INGLESA  II",
+            "semester": "2018.2",
+            "professor": "LUCIA FATIMA FERNANDES NOBRE",
+            "horario": "3N1234",
+            "local": "CAE 109 (PRG)"
+          }
+        ],
+        "prerequisites": [
+          "1404212"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1404228",
+        "name": "LITERATURA NORTE",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1404228",
+            "turmaid": "01",
+            "nome": " LITERATURA NORTE-AMERICANA I",
+            "semester": "2018.2",
+            "professor": "MARIA ELIZABETH PEREGRINO SOUTO MAIOR MENDES",
+            "horario": "4M3456",
+            "local": "CAD 109 (PRG)"
+          },
+          {
+            "id": "1404228",
+            "turmaid": "02",
+            "nome": " LITERATURA NORTE-AMERICANA I",
+            "semester": "2018.2",
+            "professor": "RENATA GONCALVES GOMES",
+            "horario": "6N1234",
+            "local": "CAH 106 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDLEM0100",
+        "name": "ESTÁGIO SUPERVISIONADO II ( INGLÊS/FRANCÊS/ESPANHOL)",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDLEM0100",
+            "turmaid": "01",
+            "nome": " ESTÁGIO SUPERVISIONADO II ( INGLÊS/FRANCÊS/ESPANHOL)",
+            "semester": "2018.2",
+            "professor": "ANGÉLICA ARAUJO DE MELO MAIA e BARBARA CABRAL FERREIRA",
+            "horario": "5M1234",
+            "local": "CAG 105 (PRG)"
+          },
+          {
+            "id": "GDLEM0100",
+            "turmaid": "02",
+            "nome": " ESTÁGIO SUPERVISIONADO II ( INGLÊS/FRANCÊS/ESPANHOL)",
+            "semester": "2018.2",
+            "professor": "WALISON PAULINO DE ARAUJO COSTA",
+            "horario": "3N1234",
+            "local": "CCHLA 515 (CCHLA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDLS0024",
+        "name": "LIBRAS",
+        "category": "Complementar Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDLS0024",
+            "turmaid": "13",
+            "nome": " LIBRAS",
+            "semester": "2018.2",
+            "professor": "EVERTON DE LIMA SILVA",
+            "horario": "5N1234",
+            "local": "TS-2 (CCHLA)"
+          },
+          {
+            "id": "GDLS0024",
+            "turmaid": "17",
+            "nome": " LIBRAS",
+            "semester": "2018.2",
+            "professor": "MAYSA RAMOS VIEIRA",
+            "horario": "3M2345",
+            "local": "TS-2 (CCHLA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1404209",
+        "name": "ESTUDOS PRAGMÁTICOS EM LÍNGUA ESTRANGEIRA",
+        "category": "Complementar Obrigatória",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1404209",
+            "turmaid": "01",
+            "nome": " ESTUDOS PRAGMÁTICOS EM LÍNGUA ESTRANGEIRA",
+            "semester": "2018.2",
+            "professor": "BARBARA CABRAL FERREIRA",
+            "horario": "3M3456",
+            "local": "CAG 105 (PRG)"
+          },
+          {
+            "id": "1404209",
+            "turmaid": "02",
+            "nome": " ESTUDOS PRAGMÁTICOS EM LÍNGUA ESTRANGEIRA",
+            "semester": "2018.2",
+            "professor": "BETANIA PASSOS MEDRADO",
+            "horario": "6N1234",
+            "local": "CCHLA 515 (CCHLA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1404218",
+        "name": "LÍNGUA INGLESA NÍVEL INTERMEDIÁRIO III",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1404218",
+            "turmaid": "01",
+            "nome": " LÍNGUA INGLESA NÍVEL INTERMEDIÁRIO III",
+            "semester": "2018.2",
+            "professor": "DANIELLE BARBOSA LINS DE ALMEIDA",
+            "horario": "2M56 4M34",
+            "local": "CAH 104 (PRG)"
+          },
+          {
+            "id": "1404218",
+            "turmaid": "02",
+            "nome": " LÍNGUA INGLESA NÍVEL INTERMEDIÁRIO III",
+            "semester": "2018.2",
+            "professor": "FELIX AUGUSTO RODRIGUES DA SILVA",
+            "horario": "4N1234",
+            "local": "CAE 106 (PRG)"
+          }
+        ],
+        "prerequisites": [
+          "1404217"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1404227",
+        "name": "LITERATURA INGLESA  III",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1404227",
+            "turmaid": "01",
+            "nome": " LITERATURA INGLESA  III",
+            "semester": "2018.2",
+            "professor": "SANDRA AMELIA LUNA CIRNE DE AZEVEDO",
+            "horario": "2N1234",
+            "local": "CAF 108 (PRG)"
+          },
+          {
+            "id": "1404227",
+            "turmaid": "02",
+            "nome": " LITERATURA INGLESA  III",
+            "semester": "2018.2",
+            "professor": "JULIANA HENRIQUES DE LUNA FREIRE",
+            "horario": "2M1234",
+            "local": "CAG 101 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1404229",
+        "name": "LITERATURA NORTE",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1404229",
+            "turmaid": "01",
+            "nome": " LITERATURA NORTE-AMERICANA II",
+            "semester": "2018.2",
+            "professor": "MARIA ELIZABETH PEREGRINO SOUTO MAIOR MENDES",
+            "horario": "5M1234",
+            "local": "CAE 105 (PRG)"
+          },
+          {
+            "id": "1404229",
+            "turmaid": "02",
+            "nome": " LITERATURA NORTE-AMERICANA II",
+            "semester": "2018.2",
+            "professor": "DANIELLE DE LUNA E SILVA",
+            "horario": "4N1234",
+            "local": "CAF 108 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDLEM0101",
+        "name": "ESTÁGIO SUPERVISIONADO III ( INGLÊS/FRANCÊS/ESPANHOL)",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDLEM0101",
+            "turmaid": "01",
+            "nome": " ESTÁGIO SUPERVISIONADO III ( INGLÊS/FRANCÊS/ESPANHOL)",
+            "semester": "2018.2",
+            "professor": "LAVINIA TEIXEIRA GOMES",
+            "horario": "34M12",
+            "local": "CAG 105 (PRG)"
+          },
+          {
+            "id": "GDLEM0101",
+            "turmaid": "02",
+            "nome": " ESTÁGIO SUPERVISIONADO III ( INGLÊS/FRANCÊS/ESPANHOL)",
+            "semester": "2018.2",
+            "professor": "MAURA REGINA DA SILVA DOURADO",
+            "horario": "5N1234",
+            "local": "CCHLA 515 (CCHLA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDLEM0102",
+        "name": "ESTÁGIO SUPERVISIONADO IV ( INGLÊS/FRANCÊS/ESPANHOL)",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDLEM0102",
+            "turmaid": "01",
+            "nome": " ESTÁGIO SUPERVISIONADO IV ( INGLÊS/FRANCÊS/ESPANHOL)",
+            "semester": "2018.2",
+            "professor": "CARLA LYNN REICHMANN",
+            "horario": "6M1234",
+            "local": "CAG 101 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1404219",
+        "name": "LÍNGUA INGLESA NÍVEL AVANÇADO I",
+        "category": "Obrigatória",
+        "semester": 7,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1404219",
+            "turmaid": "01",
+            "nome": " LÍNGUA INGLESA NÍVEL AVANÇADO I",
+            "semester": "2018.2",
+            "professor": "ANDERSON ALVES DE SOUZA",
+            "horario": "2N1234",
+            "local": "CAH 102 (PRG)"
+          },
+          {
+            "id": "1404219",
+            "turmaid": "02",
+            "nome": " LÍNGUA INGLESA NÍVEL AVANÇADO I",
+            "semester": "2018.2",
+            "professor": "ELAINE ESPINDOLA BALDISSERA",
+            "horario": "2M1234",
+            "local": "CAD 109 (PRG)"
+          }
+        ],
+        "prerequisites": [
+          "1404218"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1404230",
+        "name": "LITERATURA NORTE",
+        "category": "Obrigatória",
+        "semester": 7,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1404230",
+            "turmaid": "01",
+            "nome": " LITERATURA NORTE-AMERICANA III",
+            "semester": "2018.2",
+            "professor": "LIANE SCHNEIDER",
+            "horario": "4M1234",
+            "local": "CAG 104 (PRG)"
+          },
+          {
+            "id": "1404230",
+            "turmaid": "02",
+            "nome": " LITERATURA NORTE-AMERICANA III",
+            "semester": "2018.2",
+            "professor": "DANIELLE DE LUNA E SILVA",
+            "horario": "2N1234",
+            "local": "CAD 102 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1404244",
+        "name": "ESTÁGIO SUPERVISIONADO V INGLÊS",
+        "category": "Obrigatória",
+        "semester": 7,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1404244",
+            "turmaid": "01",
+            "nome": " ESTÁGIO SUPERVISIONADO V INGLÊS",
+            "semester": "2018.2",
+            "professor": "ANGÉLICA ARAUJO DE MELO MAIA e BETANIA PASSOS MEDRADO",
+            "horario": "6M1234",
+            "local": "CAE 109 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1404245",
+        "name": "ESTÁGIO SUPERVISIONADO VI INGLÊS",
+        "category": "Obrigatória",
+        "semester": 7,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1404245",
+            "turmaid": "01",
+            "nome": " ESTÁGIO SUPERVISIONADO VI INGLÊS",
+            "semester": "2018.2",
+            "professor": "CARLA LYNN REICHMANN",
+            "horario": "3N1234",
+            "local": "CAF 108 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1404328",
+        "name": "TEORIAS DO TEXTO II ASPECTOS LINGUIST",
+        "category": "Optativa",
+        "semester": 8,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1404373",
+        "name": "TRADUÇÃO E CULTURA I",
+        "category": "Optativa",
+        "semester": 8,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+          "GDMI0108"
+        ]
+      },
+      {
+        "id": "1404396",
+        "name": "TRADUÇÃO E CULTURA II",
+        "category": "Optativa",
+        "semester": 8,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1404213",
+        "name": "TRABALHO DE CONCLUSÃO DE CURSO TCC",
+        "category": "Complementar Obrigatória",
+        "semester": 8,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1404213",
+            "turmaid": "01",
+            "nome": " TRABALHO DE CONCLUSÃO DE CURSO TCC",
+            "semester": "2018.2",
+            "professor": "ANA BERENICE PERES MARTORELLI",
+            "horario": "7M1234",
+            "local": "CCHLA 403 BLOCO IV (CCHLA)"
+          },
+          {
+            "id": "1404213",
+            "turmaid": "02",
+            "nome": " TRABALHO DE CONCLUSÃO DE CURSO TCC",
+            "semester": "2018.2",
+            "professor": "BETANIA PASSOS MEDRADO",
+            "horario": "7T1234",
+            "local": "CCHLA 516 - PPGH (CCHLA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1404220",
+        "name": "LÍNGUA INGLESA NÍVEL AVANÇADO II",
+        "category": "Obrigatória",
+        "semester": 8,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1404220",
+            "turmaid": "02",
+            "nome": " LÍNGUA INGLESA NÍVEL AVANÇADO II",
+            "semester": "2018.2",
+            "professor": "FABIO ALEXANDRE SILVA BEZERRA",
+            "horario": "4M1234",
+            "local": "CCHLA 423 BLOCO A 2º ANDAR (CCHLA)"
+          }
+        ],
+        "prerequisites": [
+          "1404219"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1404246",
+        "name": "ESTÁGIO SUPERVISIONADO VII INGLÊS",
+        "category": "Obrigatória",
+        "semester": 8,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1404246",
+            "turmaid": "01",
+            "nome": " ESTÁGIO SUPERVISIONADO VII INGLÊS",
+            "semester": "2018.2",
+            "professor": "RAFAELA CARLA SANTOS DE SOUSA",
+            "horario": "3M1234",
+            "local": "CAH 106 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1303209",
+        "name": " EDUCACAO E TECNOLOGIA",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": "60h",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1303209",
+            "turmaid": "03",
+            "nome": " EDUCACAO E TECNOLOGIA",
+            "semester": "2018.2",
+            "professor": "LEBIAM TAMAR GOMES SILVA",
+            "horario": "6T1234",
+            "local": "CE 303 (CE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1404270",
+        "name": " TRADUÇÃO POÉTICA",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": "60h",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1404270",
+            "turmaid": "01",
+            "nome": " TRADUÇÃO POÉTICA",
+            "semester": "2018.2",
+            "professor": "JOSE ROBERTO ANDRADE FERES",
+            "horario": "3M1234",
+            "local": "CAD 101 (PRG)"
+          },
+          {
+            "id": "1404270",
+            "turmaid": "02",
+            "nome": " TRADUÇÃO POÉTICA",
+            "semester": "2018.2",
+            "professor": "JOSE ROBERTO ANDRADE FERES",
+            "horario": "5N1234",
+            "local": "CAH 102 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      }
+    ]
+  }
+}

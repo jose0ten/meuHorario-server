@@ -1,0 +1,1061 @@
+{
+  "curriculum": {
+    "id": "20-012007",
+    "codigo": "1626844",
+    "name": "LETRAS / EAD - João Pessoa - A Distância - MT - LICENCIATURA PLENA",
+    "faculty": "CENTRO DE CIÊNCIAS HUMANAS, LETRAS E ARTES (CCHLA) (11.00.53)",
+    "minch": "270",
+    "maxch": "420",
+    "semesters": 8,
+    "courses": [
+      {
+        "id": "1301213",
+        "name": "FUND ANTROPOFILOSEDUCACO  UV",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1301213",
+            "turmaid": "02",
+            "nome": " FUND ANTROPOFILOSEDUCACO  UV",
+            "semester": "2018.2",
+            "professor": "BARTOLOMEU LEITE DA SILVA",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1403184",
+        "name": "INT AOS ESTUDOS LITERARIOS  UV",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1403185",
+        "name": "INT AOS ESTUDOS CLASSICOS  UV",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1403185",
+            "turmaid": "01",
+            "nome": " INT AOS ESTUDOS CLASSICOS  UV",
+            "semester": "2018.2",
+            "professor": "ALCIONE LUCENA DE ALBERTIM",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1403186",
+        "name": "LEITURA E PRODUCAO DE TEXTOS I  UV",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1403186",
+            "turmaid": "01",
+            "nome": " LEITURA E PRODUCAO DE TEXTOS I  UV",
+            "semester": "2018.2",
+            "professor": "AMANDA BATISTA BRAGA",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1403187",
+        "name": "FUNDAMENTOS DE LINGUISTICA  UV",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1403187",
+            "turmaid": "01",
+            "nome": " FUNDAMENTOS DE LINGUISTICA  UV",
+            "semester": "2018.2",
+            "professor": "JOSE FERRARI NETO",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1403188",
+        "name": "INTRODUCAO A EDUCACO A DISTANCIA  UV",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1301214",
+        "name": "FUND SOCIOHISTORICOS DA EDUCACAO  UV",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1301214",
+            "turmaid": "01",
+            "nome": " FUND SOCIOHISTORICOS DA EDUCACAO  UV",
+            "semester": "2018.2",
+            "professor": "ERENILDO JOAO CARLOS",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1403189",
+        "name": "TEORIA  LINGUISTICA  I  UV",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1403189",
+            "turmaid": "01",
+            "nome": " TEORIA  LINGUISTICA  I  UV",
+            "semester": "2018.2",
+            "professor": "MARCIO MARTINS LEITAO",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1403190",
+        "name": "TEORIA LITERARIA I  UV",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1403190",
+            "turmaid": "01",
+            "nome": " TEORIA LITERARIA I  UV",
+            "semester": "2018.2",
+            "professor": "AMADOR RIBEIRO NETO",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1403191",
+        "name": "LATIM  UV",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1403192",
+        "name": "FONETICA E FONOL DA LING PORTUGUESA UV",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1403192",
+            "turmaid": "01",
+            "nome": " FONETICA E FONOL DA LING PORTUGUESA UV",
+            "semester": "2018.2",
+            "professor": "JULIENE LOPES RIBEIRO PEDROSA",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1403193",
+        "name": "METODOLOGIA DO TRABALHO CIENTIFICO UV",
+        "category": "Complementar Obrigatória",
+        "semester": 2,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1403193",
+            "turmaid": "01",
+            "nome": " METODOLOGIA DO TRABALHO CIENTIFICO UV",
+            "semester": "2018.2",
+            "professor": "CIRINEU CECOTE STEIN",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1302342",
+        "name": "ALF JOV ADULTOSPROC E METODOS  UV",
+        "category": "Optativa",
+        "semester": 3,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1302342",
+            "turmaid": "01",
+            "nome": " ALF JOV ADULTOSPROC E METODOS  UV",
+            "semester": "2018.2",
+            "professor": "VINICIUS VARELLA FERREIRA",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1301248",
+        "name": "FUND PSICOLOGICOS DA EDUCACAOUV",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1301248",
+            "turmaid": "01",
+            "nome": " FUND PSICOLOGICOS DA EDUCACAOUV",
+            "semester": "2018.2",
+            "professor": "CARMEN SEVILLA GONCALVES DOS SANTOS",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1403668",
+        "name": "TEORIA LINGUISTICA IIUV",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1403668",
+            "turmaid": "01",
+            "nome": " TEORIA LINGUISTICA IIUV",
+            "semester": "2018.2",
+            "professor": "ORIANA DE NADAI FULANETI",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1403669",
+        "name": "TEORIA LITERARIA IIUV",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1403669",
+            "turmaid": "01",
+            "nome": " TEORIA LITERARIA IIUV",
+            "semester": "2018.2",
+            "professor": "HERMANO DE FRANCA RODRIGUES",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1403670",
+        "name": "MORFOLOGIA DA LINGUA PORTUGUESAUV",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1403670",
+            "turmaid": "01",
+            "nome": " MORFOLOGIA DA LINGUA PORTUGUESAUV",
+            "semester": "2018.2",
+            "professor": "MARGARETE VON MUHLEN POLL",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1403671",
+        "name": "LEIT DE PROD DE TEXTO IIUV",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1403671",
+            "turmaid": "01",
+            "nome": " LEIT DE PROD DE TEXTO IIUV",
+            "semester": "2018.2",
+            "professor": "REGINA CELI MENDES PEREIRA DA SILVA",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1302351",
+        "name": "SEMINARIOS DE PROB ATUAIS EM EDC  UV",
+        "category": "Optativa",
+        "semester": 4,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1302351",
+            "turmaid": "01",
+            "nome": " SEMINARIOS DE PROB ATUAIS EM EDC  UV",
+            "semester": "2018.2",
+            "professor": "DANIEL FIGUEIRAS ALVES",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1301252",
+        "name": "POLITICAS E GESTAO DA EDUCACAO  UV",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1301252",
+            "turmaid": "01",
+            "nome": " POLITICAS E GESTAO DA EDUCACAO  UV",
+            "semester": "2018.2",
+            "professor": "VIRGINIA MARIA MAGLIANO DE MORAIS",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1403672",
+        "name": "E SUP ILING APL AO ENSINO DA LPEFUV",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1403672",
+            "turmaid": "01",
+            "nome": " E SUP ILING APL AO ENSINO DA LPEFUV",
+            "semester": "2018.2",
+            "professor": "EDJANE GOMES DE ASSIS",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1403673",
+        "name": "LITERATURA  BRASILEIRA I  UV",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1403673",
+            "turmaid": "01",
+            "nome": " LITERATURA  BRASILEIRA I  UV",
+            "semester": "2018.2",
+            "professor": "SOCORRO DE FATIMA PACIFICO BARBOSA",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1403674",
+        "name": "LITERATURA PORTUGUESA I  UV",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1403674",
+            "turmaid": "01",
+            "nome": " LITERATURA PORTUGUESA I  UV",
+            "semester": "2018.2",
+            "professor": "LUCIANA ELEONORA DE FREITAS CALADO DEPLAGNE",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1403675",
+        "name": "SINTAXE DA LINGUA PORTUGUESA  UV",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1403675",
+            "turmaid": "01",
+            "nome": " SINTAXE DA LINGUA PORTUGUESA  UV",
+            "semester": "2018.2",
+            "professor": "FRANCISCO EDUARDO VIEIRA DA SILVA",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1403676",
+        "name": "E SUP II LINGUIST APL ENS L PORTEMUV",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1403677",
+        "name": "E SUP III LIT INFANTOJUVENIL  UV",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1403678",
+        "name": "LITERATURA PORTUGUES II  UV",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1403679",
+        "name": "LITERATURA BRASILEIRA II  UV",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1403680",
+        "name": "SEMANTICA DA LINGUA PORTUGUESA  UV",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1403681",
+        "name": "DIDATICA DO ENS DE LINGUA PORTUGUESAUV",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1403682",
+        "name": "E SUP IV LIT DO ENSINO MEDIO  UV",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1403683",
+        "name": "E SUP V VIV LING PORT ENS FUND  UV",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1403684",
+        "name": "LITERATURA PORTUGUESA III  UV",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1403685",
+        "name": "LITERATURA BRASILEIRA III  UV",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1403686",
+        "name": "PRAGMATICA DA LINGUA PORTUGUESAUV",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1403687",
+        "name": "PESQ APLICADA A LINGUA PORTUGUESAUV",
+        "category": "Complementar Obrigatória",
+        "semester": 6,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1403692",
+        "name": "TOPICOS ESPEC EM LING PORTUGUESA I UV",
+        "category": "Complementar Flexiva",
+        "semester": 7,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1403692",
+            "turmaid": "01",
+            "nome": " TOPICOS ESPEC EM LING PORTUGUESA I UV",
+            "semester": "2018.2",
+            "professor": "ANA CLAUDIA FELIX GUALBERTO",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1403697",
+        "name": "OPTATIVALINGUISTICA INTERACIONALUV",
+        "category": "Optativa",
+        "semester": 7,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1403697",
+            "turmaid": "01",
+            "nome": " OPTATIVALINGUISTICA INTERACIONALUV",
+            "semester": "2018.2",
+            "professor": "RAQUEL BASILIO DA CUNHA DIAS DE MELO",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1403688",
+        "name": "E SUP VI VIV LING PORT ENS MEDIO  UV",
+        "category": "Obrigatória",
+        "semester": 7,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1403688",
+            "turmaid": "01",
+            "nome": " E SUP VI VIV LING PORT ENS MEDIO  UV",
+            "semester": "2018.2",
+            "professor": "ELIANA VASCONCELOS DA SILVA ESVAEL",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1403689",
+        "name": "E SUP VII VIV LIT ENS FUND E MEDIO  UV",
+        "category": "Obrigatória",
+        "semester": 7,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1403689",
+            "turmaid": "01",
+            "nome": " E SUP VII VIV LIT ENS FUND E MEDIO  UV",
+            "semester": "2018.2",
+            "professor": "ALYERE SILVA FARIAS",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1403690",
+        "name": "LINGUISTICA TEXTUAL  UV",
+        "category": "Obrigatória",
+        "semester": 7,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1403690",
+            "turmaid": "01",
+            "nome": " LINGUISTICA TEXTUAL  UV",
+            "semester": "2018.2",
+            "professor": "JOAO WANDEMBERG GONCALVES MACIEL",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1403691",
+        "name": "LITERATURA BRASILEIRA IV  UV",
+        "category": "Obrigatória",
+        "semester": 7,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1403696",
+        "name": "TOPICOS ESPEC EM LING PORTUGUESA II  UV",
+        "category": "Complementar Flexiva",
+        "semester": 8,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1403696",
+            "turmaid": "01",
+            "nome": " TOPICOS ESPEC EM LING PORTUGUESA II  UV",
+            "semester": "2018.2",
+            "professor": "FABIANA FERREIRA DA COSTA",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1403698",
+        "name": "SOCIOLINGUISTICA  UV",
+        "category": "Optativa",
+        "semester": 8,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1403693",
+        "name": "LITERATURA BRASILEIRA V  UV",
+        "category": "Obrigatória",
+        "semester": 8,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1403693",
+            "turmaid": "01",
+            "nome": " LITERATURA BRASILEIRA V  UV",
+            "semester": "2018.2",
+            "professor": "ANA CLAUDIA FELIX GUALBERTO",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1403694",
+        "name": "HISTORIA DA LINGUA PORTUGUESA  UV",
+        "category": "Obrigatória",
+        "semester": 8,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1403695",
+        "name": "TRAB CONCLUSAO CURSO  TCC  UV",
+        "category": "Complementar Obrigatória",
+        "semester": 8,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1403695",
+            "turmaid": "01",
+            "nome": " TRAB CONCLUSAO CURSO  TCC  UV",
+            "semester": "2018.2",
+            "professor": "MARIA ALICE SERRANO DE ANDRADE",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDLS0025",
+        "name": "LIBRAS UV",
+        "category": "Complementar Obrigatória",
+        "semester": 8,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      }
+    ]
+  }
+}

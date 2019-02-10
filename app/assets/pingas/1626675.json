@@ -1,0 +1,2266 @@
+{
+  "curriculum": {
+    "id": "452017",
+    "codigo": "1626675",
+    "name": "FÍSICA - João Pessoa - Presencial - MT - BACHARELADO",
+    "faculty": "CENTRO DE CIÊNCIAS EXATAS E DA NATUREZA (CCEN) (11.00.41)",
+    "minch": "210",
+    "maxch": "420",
+    "semesters": 8,
+    "courses": [
+      {
+        "id": "1101155",
+        "name": "TOPICOS DE FISICA",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1103105",
+        "name": "ALGEBRA LINEAR",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1103183",
+        "name": "MATEMATICA ELEMENTAR I",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1104101",
+        "name": "BIOFÍSICA BÁSICA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1105220",
+        "name": "QUIMICA GERAL E INORGANICA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1301201",
+        "name": "FUNDAMENTOS PSICOLÓGICOS DA EDUCAÇÃO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1402240",
+        "name": "INTRODUCAO A FILOSOFIA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1402240",
+            "turmaid": "01",
+            "nome": " INTRODUCAO A FILOSOFIA",
+            "semester": "2018.2",
+            "professor": "SERGIO LUIS PERSCH",
+            "horario": "24N12",
+            "local": "CCHLA 509 (CCHLA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1404114",
+        "name": "INGLES INSTRUMENTAL",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1405108",
+        "name": "INTRODUCAO A PSICOLOGIA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDFIS0098",
+        "name": "EVOLUÇÃO HISTORICA DA FISICA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDLS0024",
+        "name": "LIBRAS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1402154",
+        "name": "FILOSOFIA DAS CIENCIAS",
+        "category": "Optativa",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1402248",
+        "name": "LOGICA I",
+        "category": "Optativa",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1101157",
+        "name": "FISICA GERAL I",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1101157",
+            "turmaid": "02",
+            "nome": " FISICA GERAL I",
+            "semester": "2018.2",
+            "professor": "A DEFINIR",
+            "horario": "24M45",
+            "local": "CAE 111 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1103118",
+        "name": "CÁLCULO VETORIAL E GEOMETRIA ANALÍTICA",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1103118",
+            "turmaid": "03",
+            "nome": " CÁLCULO VETORIAL E GEOMETRIA ANALÍTICA",
+            "semester": "2018.2",
+            "professor": "MARIVALDO PEREIRA MATOS",
+            "horario": "35M23",
+            "local": "CAA 101 (PRG)"
+          },
+          {
+            "id": "1103118",
+            "turmaid": "04",
+            "nome": " CÁLCULO VETORIAL E GEOMETRIA ANALÍTICA",
+            "semester": "2018.2",
+            "professor": "SHIRLEY MARIA SANTOS E SOUZA",
+            "horario": "35M23",
+            "local": "CAA 104 (PRG)"
+          },
+          {
+            "id": "1103118",
+            "turmaid": "09",
+            "nome": " CÁLCULO VETORIAL E GEOMETRIA ANALÍTICA",
+            "semester": "2018.2",
+            "professor": "MARIVALDO PEREIRA MATOS",
+            "horario": "35T23",
+            "local": "CAA 103 (PRG)"
+          },
+          {
+            "id": "1103118",
+            "turmaid": "13",
+            "nome": " CÁLCULO VETORIAL E GEOMETRIA ANALÍTICA",
+            "semester": "2018.2",
+            "professor": "MAURICIO CARDOSO SANTOS",
+            "horario": "35N12",
+            "local": "CAA 103 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1103177",
+        "name": "CÁLCULO DIFERENCIAL E INTEGRAL I",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1103177",
+            "turmaid": "06",
+            "nome": " CÁLCULO DIFERENCIAL E INTEGRAL I",
+            "semester": "2018.2",
+            "professor": "EVERALDO SOUTO DE MEDEIROS",
+            "horario": "24M23",
+            "local": "CAB 106 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1105161",
+        "name": "QUÍMICA FUNDAMENTAL",
+        "category": "Complementar Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDFIS0104",
+        "name": "METODOLOGIA DO TRABALHO CIENTIFICO",
+        "category": "Complementar Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1402249",
+        "name": "LOGICA II",
+        "category": "Optativa",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1101163",
+        "name": "FISICA GERAL II",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1101163",
+            "turmaid": "01",
+            "nome": " FISICA GERAL II",
+            "semester": "2018.2",
+            "professor": "A DEFINIR",
+            "horario": "24M45",
+            "local": "CAC 108 (PRG)"
+          }
+        ],
+        "prerequisites": [
+          "1101157",
+          "1103177",
+          "1101117",
+          "1103114"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1103178",
+        "name": "CALCULO DIFERENCIAL E INTEGRAL II",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1103178",
+            "turmaid": "06",
+            "nome": " CALCULO DIFERENCIAL E INTEGRAL II",
+            "semester": "2018.2",
+            "professor": "UBERLANDIO BATISTA SEVERO",
+            "horario": "24M23",
+            "local": "CAB 101 (PRG)"
+          }
+        ],
+        "prerequisites": [
+          "1103118",
+          "1103177",
+          "1103114",
+          "1103118"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1103179",
+        "name": "INTRODUCAO A ALGEBRA LINEAR",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1103179",
+            "turmaid": "06",
+            "nome": " INTRODUCAO A ALGEBRA LINEAR",
+            "semester": "2018.2",
+            "professor": "DANIEL MARINHO PELLEGRINO",
+            "horario": "35M23",
+            "local": "CAE 111 (PRG)"
+          },
+          {
+            "id": "1103179",
+            "turmaid": "11",
+            "nome": " INTRODUCAO A ALGEBRA LINEAR",
+            "semester": "2018.2",
+            "professor": "AURELIO MENEGON NETO",
+            "horario": "35N12",
+            "local": "CAA 101 (PRG)"
+          }
+        ],
+        "prerequisites": [
+          "1103118"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1107174",
+        "name": "INICIACAO A COMPUTACAO",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1107174",
+            "turmaid": "04",
+            "nome": " INICIACAO A COMPUTACAO",
+            "semester": "2018.2",
+            "professor": "CARLOS ALBERTO NUNES MACHADO",
+            "horario": "35M45",
+            "local": "CAB 104 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDFIS0078",
+        "name": "FISICA EXPERIMENTAL I",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDFIS0078",
+            "turmaid": "01",
+            "nome": " FISICA EXPERIMENTAL I",
+            "semester": "2018.2",
+            "professor": "A DEFINIR",
+            "horario": "24T45",
+            "local": "DF 200 (CCEN)"
+          }
+        ],
+        "prerequisites": [
+          "1101157",
+          "1101117"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1103187",
+        "name": "ALGEBRA LINEAR I",
+        "category": "Optativa",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1103179",
+          "1103104"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1101164",
+        "name": "FISICA GERAL III",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1101164",
+            "turmaid": "01",
+            "nome": " FISICA GERAL III",
+            "semester": "2018.2",
+            "professor": "A DEFINIR",
+            "horario": "24M45",
+            "local": "CAA 103 (PRG)"
+          }
+        ],
+        "prerequisites": [
+          "1101163",
+          "1103178",
+          "1101118",
+          "1103115"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1103180",
+        "name": "SERIES E EQUACOES DIF ORDINARIAS",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1103178",
+          "1103179",
+          "1103115",
+          "1103104"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1103232",
+        "name": "CALCULO DIF  E INTEGRAL III",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1103232",
+            "turmaid": "04",
+            "nome": " CALCULO DIF  E INTEGRAL III",
+            "semester": "2018.2",
+            "professor": "JOEDSON SILVA DOS SANTOS",
+            "horario": "24M23",
+            "local": "CAE 110 (PRG)"
+          }
+        ],
+        "prerequisites": [
+          "1103178",
+          "1103115"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1108100",
+        "name": "CÁLCULO DAS PROBABILIDADES E  ESTATÍSTICA I",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1108100",
+            "turmaid": "09",
+            "nome": " CÁLCULO DAS PROBABILIDADES E  ESTATÍSTICA I",
+            "semester": "2018.2",
+            "professor": "ANA HERMINIA ANDRADE E SILVA e JULYANA KELLY TAVARES DE ARAUJO",
+            "horario": "35N12",
+            "local": "CAB 106 (PRG)"
+          }
+        ],
+        "prerequisites": [
+          "1103178",
+          "1103115"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDFIS0076",
+        "name": "PESQUISA APLICADA A FISICA",
+        "category": "Complementar Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDFIS0076",
+            "turmaid": "01",
+            "nome": " PESQUISA APLICADA A FISICA",
+            "semester": "2018.2",
+            "professor": "A DEFINIR",
+            "horario": "24M23",
+            "local": "CAF 103 (PRG)"
+          }
+        ],
+        "prerequisites": [
+          "0104"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDFIS0077",
+        "name": "FISICA COMPUTACIONAL I",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1101163",
+          "1103179",
+          "1107174",
+          "1101118",
+          "1103104",
+          "1107135"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1103111",
+        "name": "CALCULO AVANCADO",
+        "category": "Optativa",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1103178",
+          "1103179",
+          "1103114",
+          "1103104"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1103124",
+        "name": "EQUACOES DIFERENCIAIS PARCIAIS",
+        "category": "Optativa",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1103124",
+            "turmaid": "01",
+            "nome": " EQUACOES DIFERENCIAIS PARCIAIS",
+            "semester": "2018.2",
+            "professor": "FLANK DAVID MORAIS BEZERRA",
+            "horario": "35T45",
+            "local": "CAD 109 (PRG)"
+          }
+        ],
+        "prerequisites": [
+          "1103232",
+          "1103179",
+          "1103104",
+          "1103112"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1103144",
+        "name": "INTRODUCAO A GEOMETRIA DIFERENCIAL",
+        "category": "Optativa",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1103232",
+          "1103179",
+          "1103104",
+          "1103112"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDEST0104",
+        "name": "CÁLCULO DAS PROBABILIDADES E ESTATÍSTICA II",
+        "category": "Optativa",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1108100",
+          "1103178",
+          "1103115",
+          "1108100"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDMAT0101",
+        "name": "INTRODUÇÃO À ANÁLISE REAL",
+        "category": "Optativa",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1103227",
+          "1103183",
+          "1103112",
+          "1103183"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDSCO0051",
+        "name": "INTRODUÇÃO À COMPUTAÇÃO GRÁFICA",
+        "category": "Optativa",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1101120",
+        "name": "FISICA GERAL IV",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1101120",
+            "turmaid": "01",
+            "nome": " FISICA GERAL IV",
+            "semester": "2018.2",
+            "professor": "A DEFINIR",
+            "horario": "24M45",
+            "local": "CAA 105 (PRG)"
+          },
+          {
+            "id": "1101120",
+            "turmaid": "02",
+            "nome": " FISICA GERAL IV",
+            "semester": "2018.2",
+            "professor": "A DEFINIR",
+            "horario": "35N12",
+            "local": "CCENB7 (CCEN)"
+          }
+        ],
+        "prerequisites": [
+          "1101164",
+          "1103232",
+          "1101119",
+          "1103112"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1101149",
+        "name": "METODOS MATEMATICOS DA FISICA I",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1101149",
+            "turmaid": "01",
+            "nome": " METODOS MATEMATICOS DA FISICA I",
+            "semester": "2018.2",
+            "professor": "A DEFINIR",
+            "horario": "35M23",
+            "local": "CAD 106 (PRG)"
+          }
+        ],
+        "prerequisites": [
+          "1103180",
+          "1103123"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1103128",
+        "name": "FUNCOES DE UMA VARIAVEL COMPLEXA",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1103128",
+            "turmaid": "01",
+            "nome": " FUNCOES DE UMA VARIAVEL COMPLEXA",
+            "semester": "2018.2",
+            "professor": "DAMIAO JUNIO GONCALVES ARAUJO",
+            "horario": "24T23",
+            "local": "CAA 106 (PRG)"
+          }
+        ],
+        "prerequisites": [
+          "1103232",
+          "1103112"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDFIS0079",
+        "name": "MECÂNICA CLÁSSICA I",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDFIS0079",
+            "turmaid": "01",
+            "nome": " MECÂNICA CLÁSSICA I",
+            "semester": "2018.2",
+            "professor": "A DEFINIR",
+            "horario": "35M45",
+            "local": "CCENA 103 (CCEN)"
+          }
+        ],
+        "prerequisites": [
+          "1101163",
+          "1103180",
+          "1101118",
+          "1103123"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDFIS0095",
+        "name": "FISICA EXPERIMENTAL II",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDFIS0095",
+            "turmaid": "02",
+            "nome": " FISICA EXPERIMENTAL II",
+            "semester": "2018.2",
+            "professor": "A DEFINIR",
+            "horario": "35T45",
+            "local": "LAB (CCEN)"
+          }
+        ],
+        "prerequisites": [
+          "0078"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1101151",
+        "name": "OTICA FISICA",
+        "category": "Optativa",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1101120"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDFIS0102",
+        "name": "FISICA DO MEIO AMBIENTE",
+        "category": "Optativa",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1101120"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDFIS0105",
+        "name": "INTRODUÇÃO A ASTRONOMIA E ASTROFISICA",
+        "category": "Optativa",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1101120"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDFIS0110",
+        "name": "MECANICA DOS FLUIDOS",
+        "category": "Optativa",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1101149"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDFIS0111",
+        "name": "TEORIA DA RELATIVIDADE RESTRITA",
+        "category": "Optativa",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "0079",
+          "1101120",
+          "1101120",
+          "1101144"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1101154",
+        "name": "TERMODINAMICA",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1101154",
+            "turmaid": "01",
+            "nome": " TERMODINAMICA",
+            "semester": "2018.2",
+            "professor": "A DEFINIR",
+            "horario": "35N12",
+            "local": "CCENB6 (CCEN)"
+          }
+        ],
+        "prerequisites": [
+          "1101163",
+          "1103178",
+          "1101118",
+          "1103115"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDFIS0087",
+        "name": "LABORATÓRIO DE INSTRUMENTAÇÃO CIENTÍFICA I",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "0095"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDFIS0088",
+        "name": "FISICA MODERNA I",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1101120"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDFIS0089",
+        "name": "MECANICA CLASSICA II",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "0079"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDFIS0090",
+        "name": "METODOS MATEMATICOS DA FISICA II",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1101149"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDFIS0100",
+        "name": "FISICA DO ESTADO SOLIDO I",
+        "category": "Optativa",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "0088"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDFIS0103",
+        "name": "FISICA MODERNA II",
+        "category": "Optativa",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "0088"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDFIS0109",
+        "name": "LABORATORIO DE INSTRUMENTAÇÃO CIENTIFICA II",
+        "category": "Optativa",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "0087"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1101146",
+        "name": "MECANICA QUANTICA I",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1101146",
+            "turmaid": "01",
+            "nome": " MECANICA QUANTICA I",
+            "semester": "2018.2",
+            "professor": "A DEFINIR",
+            "horario": "35T23",
+            "local": "CCENB1 (CCEN)"
+          }
+        ],
+        "prerequisites": [
+          "0088",
+          "1101149"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1101785",
+        "name": "ELETROMAGNETISMO I",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1101164",
+          "1103242"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDFIS0091",
+        "name": "ESTAGIO SUPERVISIONADO I (FISICA BACH)",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "150h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDFIS0093",
+        "name": "LABORATORIO DE FISICA MODERNA I",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "0095"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDFIS0112",
+        "name": "MECÂNICA ESTATÍSTICA",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1101136",
+        "name": "INTRODUÇÃO A FISICA DE PARTICULAS  ELEMENTARES",
+        "category": "Optativa",
+        "semester": 7,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1101146"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1101138",
+        "name": "INTRODUCO A FISICA NUCLEAR",
+        "category": "Optativa",
+        "semester": 7,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1101146"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1101139",
+        "name": "INTRODUCO A TEORIA DA RELATIVIDADE",
+        "category": "Optativa",
+        "semester": 7,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1101139",
+            "turmaid": "01",
+            "nome": " INTRODUCO A TEORIA DA RELATIVIDADE",
+            "semester": "2018.2",
+            "professor": "A DEFINIR",
+            "horario": "35T45",
+            "local": "CCENB4 (CCEN)"
+          }
+        ],
+        "prerequisites": [
+          "1101120"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDFIS0097",
+        "name": "COSMOLOGIA DO UNIVERSO PRIMORDIAL",
+        "category": "Optativa",
+        "semester": 7,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1101143",
+          "0088"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDFIS0099",
+        "name": "FISICA COMPUTACIONAL II",
+        "category": "Optativa",
+        "semester": 7,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "0077",
+          "1101143"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDFIS0101",
+        "name": "FISICA DO ESTADO SOLIDO II",
+        "category": "Optativa",
+        "semester": 7,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "0100"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDFIS0106",
+        "name": "INTRODUÇÃO A FISICA ATÔMICA",
+        "category": "Optativa",
+        "semester": 7,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1101146"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDFIS0107",
+        "name": "INTRODUÇÃO AOS PROCESSOS ESTOCASTICOS",
+        "category": "Optativa",
+        "semester": 7,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1101143"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDFIS0108",
+        "name": "LABORATORIO DE FISICA MODERNA II",
+        "category": "Optativa",
+        "semester": 7,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "0103",
+          "0093"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDFIS0113",
+        "name": "INTRODUÇÃO À TEORIA DA RELATIVIDADE GERAL",
+        "category": "Optativa",
+        "semester": 7,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "0111",
+          "1101139"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1101104",
+        "name": "ELETROMAGNETISMO II",
+        "category": "Obrigatória",
+        "semester": 7,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1101104",
+            "turmaid": "01",
+            "nome": " ELETROMAGNETISMO II",
+            "semester": "2018.2",
+            "professor": "A DEFINIR",
+            "horario": "35M23",
+            "local": "CAD 107 (PRG)"
+          }
+        ],
+        "prerequisites": [
+          "1101785"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1101147",
+        "name": "MECANICA QUANTICA II",
+        "category": "Obrigatória",
+        "semester": 7,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1101147",
+            "turmaid": "01",
+            "nome": " MECANICA QUANTICA II",
+            "semester": "2018.2",
+            "professor": "A DEFINIR",
+            "horario": "35T23",
+            "local": "CAD 110 (PRG)"
+          }
+        ],
+        "prerequisites": [
+          "1101146"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDFIS0092",
+        "name": "ESTAGIO SUPERVISIONADO II (FÍSICA BACH)",
+        "category": "Obrigatória",
+        "semester": 7,
+        "workload": "150h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "0091"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDCOC0073",
+        "name": "EDUCAÇÃO DAS RELAÇÕES ETNICO RACIAIS",
+        "category": "Complementar Obrigatória",
+        "semester": 8,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDFIS0094",
+        "name": "TRABALHO DE CONCLUSÃO DE CURSO (FISICA BACH)",
+        "category": "Complementar Obrigatória",
+        "semester": 8,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "0092"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1103114",
+        "name": " CALCULO DIFERENCIAL E INTEGRAL I",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": "90h",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1103114",
+            "turmaid": "02",
+            "nome": " CALCULO DIFERENCIAL E INTEGRAL I",
+            "semester": "2018.2",
+            "professor": "JORGE COSTA DUARTE FILHO",
+            "horario": "246N34",
+            "local": "CAB 106 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1103115",
+        "name": " CALCULO DIFERENCIAL E INTEGRAL II",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": "90h",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1103115",
+            "turmaid": "02",
+            "nome": " CALCULO DIFERENCIAL E INTEGRAL II",
+            "semester": "2018.2",
+            "professor": "ADRIANO ALVES DE MEDEIROS",
+            "horario": "246N34",
+            "local": "CAB 101 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1103112",
+        "name": " CALCULO DIFERENCIAL E INTEGRAL III",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": "90h",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1103112",
+            "turmaid": "02",
+            "nome": " CALCULO DIFERENCIAL E INTEGRAL III",
+            "semester": "2018.2",
+            "professor": "JOAO BOSCO NOGUEIRA",
+            "horario": "246N34",
+            "local": "CAB 104 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDCOC0072",
+        "name": " CALCULO NUMERICO",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": "60h",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDCOC0072",
+            "turmaid": "02",
+            "nome": " CALCULO NUMERICO",
+            "semester": "2018.2",
+            "professor": "MOISES DANTAS DOS SANTOS",
+            "horario": "35M45",
+            "local": "CAA 106 (PRG)"
+          },
+          {
+            "id": "GDCOC0072",
+            "turmaid": "06",
+            "nome": " CALCULO NUMERICO",
+            "semester": "2018.2",
+            "professor": "GUSTAVO CHARLES PEIXOTO DE OLIVEIRA",
+            "horario": "35N12",
+            "local": "CAA 106 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1303196",
+        "name": " CURRICULO E TRABALHO PEDAGOGICO",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": "60h",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1303196",
+            "turmaid": "03",
+            "nome": " CURRICULO E TRABALHO PEDAGOGICO",
+            "semester": "2018.2",
+            "professor": "MARIA ZULEIDE DA COSTA PEREIRA",
+            "horario": "5M2345",
+            "local": "CAH 103 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1303210",
+        "name": " CURRICULO E TRABALHO PEDAGOGICO",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": "60h",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1303210",
+            "turmaid": "03",
+            "nome": " CURRICULO E TRABALHO PEDAGOGICO",
+            "semester": "2018.2",
+            "professor": "JOSÉ LEONARDO ROLIM DE LIMA SEVERO",
+            "horario": "4N1234",
+            "local": "MESTR 02 (CE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1302105",
+        "name": " DIDÁTICA",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": "60h",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1302105",
+            "turmaid": "09",
+            "nome": " DIDÁTICA",
+            "semester": "2018.2",
+            "professor": "ISOLDA AYRES VIANA RAMOS",
+            "horario": "4N1234",
+            "local": "CAB 105 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1101108",
+        "name": " ESTRUTURA DA MATERIA II",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": null,
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1101108",
+            "turmaid": "01",
+            "nome": " ESTRUTURA DA MATERIA II",
+            "semester": "2018.2",
+            "professor": "A DEFINIR",
+            "horario": "35M45",
+            "local": "CAB 105 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1101117",
+        "name": " FISICA GERAL I",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": null,
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1101117",
+            "turmaid": "02",
+            "nome": " FISICA GERAL I",
+            "semester": "2018.2",
+            "professor": "A DEFINIR",
+            "horario": "246N12",
+            "local": "CAB 106 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1101118",
+        "name": " FISICA GERAL II",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": null,
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1101118",
+            "turmaid": "02",
+            "nome": " FISICA GERAL II",
+            "semester": "2018.2",
+            "professor": "A DEFINIR",
+            "horario": "246N12",
+            "local": "CAD 106 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1101119",
+        "name": " FISICA GERAL III",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": null,
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1101119",
+            "turmaid": "02",
+            "nome": " FISICA GERAL III",
+            "semester": "2018.2",
+            "professor": "A DEFINIR",
+            "horario": "246N12",
+            "local": "CCENB1 (CCEN)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1101129",
+        "name": " INSTRUMENTACAO CIENTIFICA I",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": null,
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1101129",
+            "turmaid": "01",
+            "nome": " INSTRUMENTACAO CIENTIFICA I",
+            "semester": "2018.2",
+            "professor": "A DEFINIR",
+            "horario": "246N12",
+            "local": "LAB (CCEN)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1101132",
+        "name": " INSTRUMENTACO P O ENSINO DE FISICA II",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": null,
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1101132",
+            "turmaid": "01",
+            "nome": " INSTRUMENTACO P O ENSINO DE FISICA II",
+            "semester": "2018.2",
+            "professor": "A DEFINIR",
+            "horario": "246N34",
+            "local": "DF 201 (CCEN)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1101137",
+        "name": " INTRODUCAO AO ESTADO SOLIDO",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": null,
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1101137",
+            "turmaid": "01",
+            "nome": " INTRODUCAO AO ESTADO SOLIDO",
+            "semester": "2018.2",
+            "professor": "A DEFINIR",
+            "horario": "35M23",
+            "local": "CAD 102 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1101140",
+        "name": " LABORATORIO DE FISICA MODERNA I",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": null,
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1101140",
+            "turmaid": "01",
+            "nome": " LABORATORIO DE FISICA MODERNA I",
+            "semester": "2018.2",
+            "professor": "A DEFINIR",
+            "horario": "246T45",
+            "local": "CAD 111 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1404138",
+        "name": " LINGUA INGLESA I",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": "60h",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1404138",
+            "turmaid": "01",
+            "nome": " LINGUA INGLESA I",
+            "semester": "2018.2",
+            "professor": "GREGÓRIO PEREIRA DE VASCONCELOS",
+            "horario": "35N34 6N1",
+            "local": "CAA 106 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+          "1404325"
+        ]
+      },
+      {
+        "id": "1403120",
+        "name": " LINGUA PORTUGUESA I",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": "75h",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1403120",
+            "turmaid": "01",
+            "nome": " LINGUA PORTUGUESA I",
+            "semester": "2018.2",
+            "professor": "ALVANIRA LUCIA DE BARROS",
+            "horario": "3T12345",
+            "local": "CCHLA 415 BLOCO I CENTRAL DE AULAS (CCHLA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1101143",
+        "name": " MECANICA ESTATISTICA I",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": null,
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1101143",
+            "turmaid": "01",
+            "nome": " MECANICA ESTATISTICA I",
+            "semester": "2018.2",
+            "professor": "A DEFINIR",
+            "horario": "35M45",
+            "local": "CAD 111 (PRG)"
+          }
+        ],
+        "prerequisites": [
+          "1101154",
+          "0088"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1101145",
+        "name": " MECANICA GERAL II",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": null,
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1101145",
+            "turmaid": "01",
+            "nome": " MECANICA GERAL II",
+            "semester": "2018.2",
+            "professor": "A DEFINIR",
+            "horario": "246T45",
+            "local": "CAF 111 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1101150",
+        "name": " METODOS MATEMATICOS DA FISICA II",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": null,
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1101150",
+            "turmaid": "01",
+            "nome": " METODOS MATEMATICOS DA FISICA II",
+            "semester": "2018.2",
+            "professor": "A DEFINIR",
+            "horario": "246T23",
+            "local": "CAD 107 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1303205",
+        "name": " PLANEJAMENTO EDUCACIONAL",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": "60h",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1303205",
+            "turmaid": "04",
+            "nome": " PLANEJAMENTO EDUCACIONAL",
+            "semester": "2018.2",
+            "professor": "CATARINA CARNEIRO GONCALVES",
+            "horario": "2N1234",
+            "local": "CE 304 (CE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1303180",
+        "name": " POLITICA E GESTAO DA EDUCACAO",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": "60h",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1303180",
+            "turmaid": "03",
+            "nome": " POLITICA E GESTAO DA EDUCACAO",
+            "semester": "2018.2",
+            "professor": "LUIZ DE SOUSA JUNIOR",
+            "horario": "3N1234",
+            "local": "CAG 105 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+          "1303208"
+        ]
+      },
+      {
+        "id": "GDMTE0133",
+        "name": " PRATICA DE ENSINO COMPLEMENTAR DE FISICA",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": "60h",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDMTE0133",
+            "turmaid": "01",
+            "nome": " PRATICA DE ENSINO COMPLEMENTAR DE FISICA",
+            "semester": "2018.2",
+            "professor": "ROOSEVELT IMPERIANO DA SILVA",
+            "horario": "7M123456 (22/11/2018 - 10/05/2019)",
+            "local": "CCENB 105 (CCEN)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDMTE0134",
+        "name": " PRATICA DE ENSINO DE FISICA",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": "60h",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDMTE0134",
+            "turmaid": "01",
+            "nome": " PRATICA DE ENSINO DE FISICA",
+            "semester": "2018.2",
+            "professor": "ROOSEVELT IMPERIANO DA SILVA",
+            "horario": "5T2345 (22/11/2018 - 10/05/2019)",
+            "local": "CCENB 105 (CCEN)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1105135",
+        "name": " QUIMICA INORGANICA I",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": "90h",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1105135",
+            "turmaid": "01",
+            "nome": " QUIMICA INORGANICA I",
+            "semester": "2018.2",
+            "professor": "JOSE DE QUEIROZ CALUETE",
+            "horario": "246T45",
+            "local": "CCENB6 (CCEN) / LAB QUI 05 (CCEN)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1301130",
+        "name": " SOCIOLOGIA DA EDUCACAO I",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": "60h",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1301130",
+            "turmaid": "01",
+            "nome": " SOCIOLOGIA DA EDUCACAO I",
+            "semester": "2018.2",
+            "professor": "ROSEANE MARIA DE AMORIM",
+            "horario": "3N1234",
+            "local": "CE 310 (CE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1402278",
+        "name": " TEORIA DO CONHECIMENTO I",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": "60h",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1402278",
+            "turmaid": "02",
+            "nome": " TEORIA DO CONHECIMENTO I",
+            "semester": "2018.2",
+            "professor": "SERGIO LUIS PERSCH",
+            "horario": "24N34",
+            "local": "CCHLA 508 (CCHLA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      }
+    ]
+  }
+}

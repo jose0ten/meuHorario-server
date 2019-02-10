@@ -1,0 +1,1273 @@
+{
+  "curriculum": {
+    "id": "542013",
+    "codigo": "2663760",
+    "name": "LETRAS (LÍNGUA ESPANHOLA) - EAD - Mamanguape - A Distância - LINGUA ESPANHOLA - MT - LICENCIATURA PLENA",
+    "faculty": "CENTRO DE CIÊNCIAS APLICADAS E EDUCAÇÃO (CCAE) (11.00.59)",
+    "minch": "120",
+    "maxch": "480",
+    "semesters": 8,
+    "courses": [
+      {
+        "id": "GDDLT0146",
+        "name": "TÓPICOS ESPECIAIS EM LÍNGUA ESPANHOLA I UV",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDDLT0147",
+        "name": "TÓPICOS ESPECIAIS EM LÍNGUA ESPANHOLA II UV",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDDLT0155",
+        "name": "SOCIOLINGUISTICA  EAD",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDDLT0162",
+        "name": "AQUISIÇÃO DA LINGUAGEM UV",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDDLT0163",
+        "name": "ANÁLISE DE DISCURSO UV",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDEDC0093",
+        "name": "ECONOMIA DA EDUCAÇÃO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDEDC0094",
+        "name": "ALFABETIZAÇÃO DE JOVENS E ADULTOS PROCESSOS E  METODOS UV",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDEDC0103",
+        "name": "EDUCAÇÃO SEXUAL",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDEDC0104",
+        "name": "ANTROPOLOGIA DA EDUCAÇÃO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDEDC0106",
+        "name": "AVALIAÇÃO DA APRENDIZAGEM",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDEDC0107",
+        "name": "CURRÍCULO E TRABALHO PEDAGÓGICO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDEDC0108",
+        "name": "EDUCAÇÃO E MOVIMENTOS SOCIAIS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDEDC0109",
+        "name": "FUNDAMENTOS DA ADMINISTRAÇÃO DA EDUCAÇÃO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDEDC0110",
+        "name": "FUNDAMENTOS BIOLÓGICOS DA EDUCAÇÃO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDEDC0111",
+        "name": "PLANEJAMENTO E GESTÃO ESCOLAR",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDEDC0112",
+        "name": "SEMINÁRIOS DE PROBLEMAS ATUAIS EM EDUCAÇÃO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDEDC0113",
+        "name": "SEMINÁRIO DE EDUCAÇÃO AMBIENTAL",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8102186",
+        "name": "FUNDAMENTOS ANTROPOFILOSÓFICOS DA EDUCACAO",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8105092",
+        "name": "LINGUA ESPANHOLA I LN  UV",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8105093",
+        "name": "TEORIA DA LITERATURA I LN  UV",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8105094",
+        "name": "TEORIA DA LINGUISTICA I LN  UV",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8105095",
+        "name": "INSTRUMENTALIZACAO PARA EAD LN  UV",
+        "category": "Complementar Obrigatória",
+        "semester": 1,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8102187",
+        "name": "FUNDAMENTOS SÓCIO HISTÓRICOS DA EDUCAÇÃO",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8105105",
+        "name": "LINGUA ESPANHOLA II LN  UV",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "8105092"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8105106",
+        "name": "TEORIA DA LITERATURA II  LN  UV",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8105106",
+            "turmaid": "01",
+            "nome": " TEORIA DA LITERATURA II  LN  UV",
+            "semester": "2018.2",
+            "professor": "LUCIANE ALVES SANTOS",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8105107",
+        "name": "TEORIAS DA LINGUISTICA II  LN UV",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "8105094"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8105108",
+        "name": "METODOLOGIA DO TRABALHO CIENTIFICO  UV",
+        "category": "Complementar Obrigatória",
+        "semester": 2,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8105112",
+        "name": "LINGUISTICA TEXTUAL",
+        "category": "Optativa",
+        "semester": 3,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDDLT0151",
+        "name": "SEMÂNTICA ARGUMENTATIVA UV",
+        "category": "Optativa",
+        "semester": 3,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8102188",
+        "name": "FUNDAMENTOS PSICOLÓGICOS DA EDUCAÇÃO",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8102188",
+            "turmaid": "01",
+            "nome": " UV",
+            "semester": "2018.2",
+            "professor": "FERNANDA MARQUES DE ALMEIDA HOLANDA",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8102189",
+        "name": "POLITICA E GESTAO EDUCACIONAL  UV",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8102189",
+            "turmaid": "01",
+            "nome": " POLITICA E GESTAO EDUCACIONAL  UV",
+            "semester": "2018.2",
+            "professor": "IVONALDO NERES LEITE",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8105111",
+        "name": "LINGUA ESPANHOLA IIIUV",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "8105111",
+            "turmaid": "01",
+            "nome": " LINGUA ESPANHOLA IIIUV",
+            "semester": "2018.2",
+            "professor": "RUTH MARCELA BOWN CUELLO",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8105113",
+        "name": "LIBRAS IUV",
+        "category": "Complementar Obrigatória",
+        "semester": 3,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDDLT0104",
+        "name": "LITERATURA E ESTUDO DE GÊNEROS",
+        "category": "Optativa",
+        "semester": 4,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDDLT0157",
+        "name": "LITERATURA COMPARADA",
+        "category": "Optativa",
+        "semester": 4,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDDLT0100",
+        "name": "LÍNGUA ESPANHOLA IV UV",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDDLT0100",
+            "turmaid": "01",
+            "nome": " LÍNGUA ESPANHOLA IV UV",
+            "semester": "2018.2",
+            "professor": "GRAZIELLEN GELLI PINHEIRO LIMA",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+          "8105111"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDDLT0101",
+        "name": "LITERATURA ESPANHOLA I UV",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDDLT0101",
+            "turmaid": "01",
+            "nome": " LITERATURA ESPANHOLA I UV",
+            "semester": "2018.2",
+            "professor": "CHRISTIANE MARIA DE SENA DINIZ",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+          "8105111"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDDLT0102",
+        "name": "LIBRAS II UV",
+        "category": "Complementar Obrigatória",
+        "semester": 4,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "8105113"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDDLT0103",
+        "name": "PESQUISA APLICADA AO ENSINO DE LÍNGUA ESPANHOLA",
+        "category": "Complementar Obrigatória",
+        "semester": 4,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDDLT0103",
+            "turmaid": "01",
+            "nome": " PESQUISA APLICADA AO ENSINO DE LÍNGUA ESPANHOLA",
+            "semester": "2018.2",
+            "professor": "ANA BERENICE PERES MARTORELLI",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDEDC0090",
+        "name": "DIDÁTICA",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDEDC0090",
+            "turmaid": "01",
+            "nome": " UV",
+            "semester": "2018.2",
+            "professor": "FERNANDA BARBOZA DE LIMA",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDEDC0091",
+        "name": "PESQUISA E COTIDIANO ESCOLAR",
+        "category": "Optativa",
+        "semester": 5,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDDLT0105",
+        "name": "LÍNGUA ESPANHOLA V UV",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "0100"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDDLT0106",
+        "name": "LINGUISTÍCA APLICADA I UV",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDDLT0106",
+            "turmaid": "01",
+            "nome": " LINGUISTÍCA APLICADA I UV",
+            "semester": "2018.2",
+            "professor": "ELAINE ESPINDOLA BALDISSERA",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+          "8105111",
+          "8105107"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDDLT0107",
+        "name": "LITERATURA ESPANHOLA II UV",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "8105111"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDDLT0108",
+        "name": "FONÉTICA E FONOLOGIA DA LÍNGUA ESPANHOLA I UV",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "0100"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDDLT0109",
+        "name": "ESTUDOS COMPARATIVOS EM LÍNGUA ESPANHOLA UV",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "0100"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDDLT0110",
+        "name": "ESTUDOS CULTURAIS EM LÍNGUA ESPANHOLA UV",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "8105111"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDDLT0174",
+        "name": "INTRODUÇÃO AOS ESTUDOS DA TRADUÇÃO",
+        "category": "Optativa",
+        "semester": 6,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDDLT0111",
+        "name": "LÍNGUA ESPANHOLA VI UV",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDDLT0111",
+            "turmaid": "01",
+            "nome": " LÍNGUA ESPANHOLA VI UV",
+            "semester": "2018.2",
+            "professor": "SILVIA RENATA RIBEIRO",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+          "0105"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDDLT0112",
+        "name": "LINGUÍSTICA APLICADA II UV",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDDLT0112",
+            "turmaid": "01",
+            "nome": " LINGUÍSTICA APLICADA II UV",
+            "semester": "2018.2",
+            "professor": "ERIVALDO PEREIRA DO NASCIMENTO",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+          "0106"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDDLT0113",
+        "name": "LITERATURA ESPANHOLA III UV",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "8105111"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDDLT0114",
+        "name": "LITERATURA HISPANO",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "0100"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDDLT0115",
+        "name": "FONÉTICA E FONOLOGIA DA LÍNGUA ESPANHOLA II UV",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "0108"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDDLT0116",
+        "name": "ESTÁGIO SUPERVISIONADO I UV",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDDLT0116",
+            "turmaid": "01",
+            "nome": " ESTÁGIO SUPERVISIONADO I UV",
+            "semester": "2018.2",
+            "professor": "ANDREA SILVA PONTE",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "8105079",
+        "name": "LITERATURA E ESTUDOS   DE GÊNERO",
+        "category": "Optativa",
+        "semester": 7,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDEDC0092",
+        "name": "INTRODUÇÃO AOS RECURSOS AUDIOVISUAIS EM EDUCAÇÃO",
+        "category": "Optativa",
+        "semester": 7,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDDLT0117",
+        "name": "LÍNGUA ESPANHOLA VII UV",
+        "category": "Obrigatória",
+        "semester": 7,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "0111"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDDLT0118",
+        "name": "LÍNGUA LATINA I UV",
+        "category": "Obrigatória",
+        "semester": 7,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDDLT0119",
+        "name": "LITERATURA HISPANO",
+        "category": "Obrigatória",
+        "semester": 7,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "0100"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDDLT0123",
+        "name": "ESTÁGIO SUPERVISIONADO II UV",
+        "category": "Obrigatória",
+        "semester": 7,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDDLT0124",
+        "name": "PROJETO DE TCC UV",
+        "category": "Complementar Obrigatória",
+        "semester": 7,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDDLT0124",
+            "turmaid": "01",
+            "nome": " PROJETO DE TCC UV",
+            "semester": "2018.2",
+            "professor": "FÁBIO PESSOA DA SILVA",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDDLT0150",
+        "name": "LINGUÍSTICA INTERACIONAL UV",
+        "category": "Optativa",
+        "semester": 8,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDDLT0175",
+        "name": "LÍNGUA LATINA II",
+        "category": "Optativa",
+        "semester": 8,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDDLT0125",
+        "name": "LÍNGUA ESPANHOLA VIII UV",
+        "category": "Obrigatória",
+        "semester": 8,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDDLT0125",
+            "turmaid": "01",
+            "nome": " LÍNGUA ESPANHOLA VIII UV",
+            "semester": "2018.2",
+            "professor": "RUTH MARCELA BOWN CUELLO",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+          "0117"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDDLT0128",
+        "name": "LITERATURA HISPANO",
+        "category": "Obrigatória",
+        "semester": 8,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "0100"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDDLT0129",
+        "name": "ESTÁGIO SUPERVISIONADO III UV",
+        "category": "Obrigatória",
+        "semester": 8,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDDLT0148",
+        "name": "TCC",
+        "category": "Complementar Obrigatória",
+        "semester": 8,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDDLT0148",
+            "turmaid": "01",
+            "nome": " TCC",
+            "semester": "2018.2",
+            "professor": "LAURENIA SOUTO SALES",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+          "0124"
+        ],
+        "equivalences": [
+
+        ]
+      }
+    ]
+  }
+}

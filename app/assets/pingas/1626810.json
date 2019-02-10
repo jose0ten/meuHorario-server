@@ -1,0 +1,2425 @@
+{
+  "curriculum": {
+    "id": "00532012",
+    "codigo": "1626810",
+    "name": "MEDICINA VETERINÁRIA - AREIA - Areia - Presencial - MT - BACHARELADO",
+    "faculty": "CENTRO DE CIÊNCIAS AGRÁRIAS (CCA) (11.00.44)",
+    "minch": "30",
+    "maxch": "645",
+    "semesters": 10,
+    "courses": [
+      {
+        "id": "3103043",
+        "name": "MELHORAMENTO ANIMAL",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "3103110",
+        "name": "DIGESTAO EM RUMINANTES",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "3103110",
+            "turmaid": "01",
+            "nome": " DIGESTAO EM RUMINANTES",
+            "semester": "2018.2",
+            "professor": "CARLA APARECIDA SOARES SARAIVA",
+            "horario": "3M45 3T23",
+            "local": "BLOCO C - SALA 4 (CCA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "3103112",
+        "name": "EQUINOCULTURA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "3103113",
+        "name": "CINOTECNIA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "3103114",
+        "name": "TÉCNICAS DE CRIAÇÃO DE ANIMAIS DE LABORATÓRIO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "3103115",
+        "name": "TEC AVANCADAS EM FORMULACAO DE RACOES",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "3103116",
+        "name": "NUTRIÇÃO DE CÃES E GATOS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "3103116",
+            "turmaid": "02",
+            "nome": " NUTRIÇÃO DE CÃES E GATOS",
+            "semester": "2018.2",
+            "professor": "BRUNA AGY LOUREIRO",
+            "horario": "5T123",
+            "local": "BLOCO A -SALA 1 (CCA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "3103117",
+        "name": "OVINOCULTURA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "3103118",
+        "name": "SUINOCULTURA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "3103134",
+        "name": "TECNOLOGIA DA PRODUÇÃO DE OVINOS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "3103136",
+        "name": "CUNICULTURA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "3103161",
+        "name": "TECNOLOGIA DE PRODUÇÃO DE AVES",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "3103162",
+        "name": "TECNOLOGIA DE PRODUÇÃO DE SUÍNOS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "3103163",
+        "name": "TECNDE PRODUÇÃO DE BOVINOS DE CORTE",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+          "3103140"
+        ]
+      },
+      {
+        "id": "3103164",
+        "name": "TECNOLOGIA DE PROD DE BOVINOS DE LEITE",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "3103165",
+        "name": "TECNDE PRODUÇÃO DE PEIXES",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "3103166",
+        "name": "CUNICULTURA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "3103167",
+        "name": "TECNOLOGIA DE PRODUÇÃO OVINOS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "3103168",
+        "name": "TECNOLOGIA DE PRODUÇÃO CAPRINOS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "3103169",
+        "name": "TECNOLOGIA DE PRODUÇÃO DE EQUÍDEOS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "3104039",
+        "name": "ESTATÍSTICA EXPERIMENTAL",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "3104080",
+        "name": "QUIMICA GERAL",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "3104107",
+        "name": "PRÁTICA DESPORTIVA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "3104130",
+        "name": "PRÁTICA DESPORTIVA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "3104130",
+            "turmaid": "01",
+            "nome": " PRÁTICA DESPORTIVA",
+            "semester": "2018.2",
+            "professor": "MARIA LORENA DE ASSIS CANDIDO",
+            "horario": "3M23 4M45",
+            "local": "GINÁSIO DE ESPORTES (CCA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "3104135",
+        "name": "LIBRAS  LÍNGUA BRASILEIRA DE SINAIS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "3104135",
+            "turmaid": "01",
+            "nome": " LIBRAS  LÍNGUA BRASILEIRA DE SINAIS",
+            "semester": "2018.2",
+            "professor": "ROBSON DE LIMA PEIXOTO",
+            "horario": "23T45",
+            "local": "BLOCO C - SALA 3 (CCA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "3105027",
+        "name": "TOPICOS ESPECIAIS EM MED VETERINARIA I",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "75h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "3105038",
+        "name": "CONTROLE BIOLOGICO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "3105044",
+        "name": "TOPICOS ESPECIAIS EM MED VETERINARIA II",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "3105046",
+        "name": "ONCOLOGIA ANIMAL",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "3105047",
+        "name": "P0DOLOGIA DOS BOVINOS E EQUINOS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "3105048",
+        "name": "ELETROCARDIOGRAFIA CLIN DE PEQUENOS ANIM",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "3105049",
+        "name": "PROTOZ RIQUETSIOSES EMERG EM CAES E GAT",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "3105050",
+        "name": "CLINICA E BIOTEC APLIC REPROD CANINOS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "3105051",
+        "name": "CLINICA E BIOTEC APLIC REPROD RUMINANTES",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "3105051",
+            "turmaid": "01",
+            "nome": " CLINICA E BIOTEC APLIC REPROD RUMINANTES",
+            "semester": "2018.2",
+            "professor": "A DEFINIR",
+            "horario": "23M23",
+            "local": "BLOCO D - SALA 6 (CCA) / BLOCO B - SALA 3 (CCA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "3105052",
+        "name": "CLINICA E BIOTEC APLIC REPROD EQUIDEOS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "3105053",
+        "name": "CLINICA E BIOTEC APLIC REPROD DE SUINOS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "3105054",
+        "name": "HEMATOLOGIA VETERINARIA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "3105055",
+        "name": "CLINICA E MANEJO ANIM SILVESTRES CATIVEI",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "3105057",
+        "name": "MICROBIOLOGIA DOS ALIMENTOS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "3105058",
+        "name": "TOXICOLOGIA E PLANTAS TÓXICAS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "3105058",
+            "turmaid": "01",
+            "nome": " TOXICOLOGIA E PLANTAS TÓXICAS",
+            "semester": "2018.2",
+            "professor": "A DEFINIR",
+            "horario": "34M12",
+            "local": "BLOCO C - SALA 3 (CCA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "3105059",
+        "name": "DOENCAS DE ORGANISMOS AQUATICOS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "3105080",
+        "name": "TÓPICOS ESPEM MEDICINA VETERINÁRIA I",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "3106001",
+        "name": "BASES GENETICA DA EVOLUCAO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "3106003",
+        "name": "BIOLOGIA MOLECULAR",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "3106039",
+        "name": "BIOLOGIA MOLECULAR",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDCFS0121",
+        "name": "EDUCAÇÃO DAS RELAÇÕES ÉTNICO RACIAIS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDCFS0121",
+            "turmaid": "01",
+            "nome": " EDUCAÇÃO DAS RELAÇÕES ÉTNICO RACIAIS",
+            "semester": "2018.2",
+            "professor": "ANA CRISTINA SILVA DAXENBERGER",
+            "horario": "5T345",
+            "local": "BLOCO C - SALA 4 (CCA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDPOG0019",
+        "name": "MCOP3",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "32h aula 0h lab.",
+        "type": "MODULO",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "3101142",
+        "name": "ECOLOGIA",
+        "category": "Complementar Obrigatória",
+        "semester": 1,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "3101142",
+            "turmaid": "01",
+            "nome": " ECOLOGIA",
+            "semester": "2018.2",
+            "professor": "ROSEMBERG FERNANDES DE MENEZES",
+            "horario": "5T123",
+            "local": "FIT 5 (CCA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "3104094",
+        "name": "BIOFISICA",
+        "category": "Complementar Obrigatória",
+        "semester": 1,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "3104094",
+            "turmaid": "02",
+            "nome": " BIOFISICA",
+            "semester": "2018.2",
+            "professor": "JOSE CAETANO DA SILVA FILHO",
+            "horario": "2T123",
+            "local": "BLOCO C - SALA 1 (CCA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "3104155",
+        "name": "INTRODUÇÃO  À INFORMÁTICA",
+        "category": "Complementar Obrigatória",
+        "semester": 1,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "3104155",
+            "turmaid": "01",
+            "nome": " INTRODUÇÃO  À INFORMÁTICA",
+            "semester": "2018.2",
+            "professor": "MARCIA VERONICA COSTA MIRANDA",
+            "horario": "4T123",
+            "local": "LACACIA (CCA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "3105004",
+        "name": "CITOLOGIA E EMBRIOLOGIA",
+        "category": "Complementar Obrigatória",
+        "semester": 1,
+        "workload": "75h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "3105004",
+            "turmaid": "01",
+            "nome": " CITOLOGIA E EMBRIOLOGIA",
+            "semester": "2018.2",
+            "professor": "ABRAAO RIBEIRO BARBOSA",
+            "horario": "3T123 5T45",
+            "local": "BLOCO B - SALA 2 (CCA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "3105008",
+        "name": "INTRODUCAO A MEDICINA VETERINARIA",
+        "category": "Complementar Obrigatória",
+        "semester": 1,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "3105008",
+            "turmaid": "01",
+            "nome": " INTRODUCAO A MEDICINA VETERINARIA",
+            "semester": "2018.2",
+            "professor": "ISABELLA DE OLIVEIRA BARROS",
+            "horario": "4M234",
+            "local": "BLOCO D - SALA 4 (CCA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "3105077",
+        "name": "ANATOMIA DOS ANIMAIS DOMÉSTICOS I",
+        "category": "Complementar Obrigatória",
+        "semester": 1,
+        "workload": "30h aula 45h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "3105077",
+            "turmaid": "01A",
+            "nome": " ANATOMIA DOS ANIMAIS DOMÉSTICOS I",
+            "semester": "2018.2",
+            "professor": "ERIKA TOLEDO DA FONSECA",
+            "horario": "3T45 6T123",
+            "local": "BLOCO D - SALA 6 (CCA) / LAA (CCA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDQF0007",
+        "name": "BIOQUIMICA I",
+        "category": "Complementar Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDQF0007",
+            "turmaid": "01",
+            "nome": " BIOQUIMICA I",
+            "semester": "2018.2",
+            "professor": "YANNA CAROLINA FERREIRA TELES",
+            "horario": "24T45",
+            "local": "BLOCO D - SALA 1 (CCA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "3104117",
+        "name": "METODOLOGIA DO TRABALHO CIENTIFICO",
+        "category": "Complementar Obrigatória",
+        "semester": 2,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "3104117",
+            "turmaid": "01",
+            "nome": " METODOLOGIA DO TRABALHO CIENTIFICO",
+            "semester": "2018.2",
+            "professor": "LAÉRCIO DE BARROS SILVA",
+            "horario": "3T123",
+            "local": "BLOCO C - SALA 2 (CCA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "3104122",
+        "name": "ESTATISTICA APL A MEDICINA VETERINARIA",
+        "category": "Complementar Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "3104122",
+            "turmaid": "01",
+            "nome": " ESTATISTICA APL A MEDICINA VETERINARIA",
+            "semester": "2018.2",
+            "professor": "ELIZANILDA RAMALHO DO REGO",
+            "horario": "4M23 5M34",
+            "local": "BLOCO D - SALA 1 (CCA)"
+          },
+          {
+            "id": "3104122",
+            "turmaid": "02",
+            "nome": " ESTATISTICA APL A MEDICINA VETERINARIA",
+            "semester": "2018.2",
+            "professor": "LAZARO DE SOUTO ARAUJO",
+            "horario": "4M23 5M34",
+            "local": "BLOCO D - SALA 6 (CCA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "3104132",
+        "name": "BIOQUIMICA II",
+        "category": "Complementar Obrigatória",
+        "semester": 2,
+        "workload": "30h aula 30h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "3104132",
+            "turmaid": "01",
+            "nome": " BIOQUIMICA II",
+            "semester": "2018.2",
+            "professor": "LARA TOLEDO HENRIQUES",
+            "horario": "2M45 3M12",
+            "local": "BLOCO C - SALA 1 (CCA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "3105003",
+        "name": "FISIOLOGIA DOS ANIMAIS DOMESTICOS I",
+        "category": "Complementar Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "3105003",
+            "turmaid": "01",
+            "nome": " FISIOLOGIA DOS ANIMAIS DOMESTICOS I",
+            "semester": "2018.2",
+            "professor": "SARA VILAR DANTAS SIMOES",
+            "horario": "2M23 6M45",
+            "local": "BLOCO B - SALA 1 (CCA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "3105007",
+        "name": "HISTOLOGIA VETERINARIA",
+        "category": "Complementar Obrigatória",
+        "semester": 2,
+        "workload": "75h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "3105007",
+            "turmaid": "01",
+            "nome": " HISTOLOGIA VETERINARIA",
+            "semester": "2018.2",
+            "professor": "RICARDO ROMAO GUERRA",
+            "horario": "3M345 5M12",
+            "local": "BLOCO D - SALA 3 (CCA) / BLOCO C - LMM (CCA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "3105078",
+        "name": "ANATOMIA DOS ANIMAIS DOMÉSTICOS II",
+        "category": "Complementar Obrigatória",
+        "semester": 2,
+        "workload": "30h aula 45h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "3105078",
+            "turmaid": "01A",
+            "nome": " ANATOMIA DOS ANIMAIS DOMÉSTICOS II",
+            "semester": "2018.2",
+            "professor": "ERIKA TOLEDO DA FONSECA",
+            "horario": "4M45 6M123",
+            "local": "BLOCO D - SALA 6 (CCA) / LAA (CCA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "3106004",
+        "name": "MICROBIOLOGIA GERAL",
+        "category": "Complementar Obrigatória",
+        "semester": 2,
+        "workload": "30h aula 30h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "3106004",
+            "turmaid": "01",
+            "nome": " MICROBIOLOGIA GERAL",
+            "semester": "2018.2",
+            "professor": "LOISE ARAUJO COSTA",
+            "horario": "45T23",
+            "local": "BLOCO C - LMM (CCA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+          "3106013"
+        ]
+      },
+      {
+        "id": "3103106",
+        "name": "ETOLOGIA",
+        "category": "Complementar Obrigatória",
+        "semester": 3,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "3103106",
+            "turmaid": "01",
+            "nome": " ETOLOGIA",
+            "semester": "2018.2",
+            "professor": "LUCIANA DINIZ ROLA",
+            "horario": "5T345",
+            "local": "BLOCO A - SALA 2 (CCA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "3105009",
+        "name": "ANATOMIA TOPOGRAFICA DOS ANIMAIS DOMESTI",
+        "category": "Complementar Obrigatória",
+        "semester": 3,
+        "workload": "15h aula 45h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "3105009",
+            "turmaid": "01A",
+            "nome": " ANATOMIA TOPOGRAFICA DOS ANIMAIS DOMESTI",
+            "semester": "2018.2",
+            "professor": "ERIKA TOLEDO DA FONSECA",
+            "horario": "4T34 5T12",
+            "local": "LAA (CCA) / BLOCO D - SALA 4 (CCA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "3105010",
+        "name": "FISIOLOGIA DOS ANIMAIS DOMESTICOS II",
+        "category": "Complementar Obrigatória",
+        "semester": 3,
+        "workload": "90h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "3105010",
+            "turmaid": "01",
+            "nome": " FISIOLOGIA DOS ANIMAIS DOMESTICOS II",
+            "semester": "2018.2",
+            "professor": "SARA VILAR DANTAS SIMOES",
+            "horario": "36T123",
+            "local": "BLOCO B - SALA 1 (CCA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "3105011",
+        "name": "IMUNOLOGIA VETERINÁRIA",
+        "category": "Complementar Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "3105011",
+            "turmaid": "01",
+            "nome": " IMUNOLOGIA VETERINÁRIA",
+            "semester": "2018.2",
+            "professor": "ALEXANDRE JOSE ALVES",
+            "horario": "36T45",
+            "local": "BLOCO A - SALA 3 (CCA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "3105012",
+        "name": "MICROBIOLOGIA VETERINARIA",
+        "category": "Complementar Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "3105012",
+            "turmaid": "01",
+            "nome": " MICROBIOLOGIA VETERINARIA",
+            "semester": "2018.2",
+            "professor": "SUZANA APARECIDA COSTA DE ARAUJO",
+            "horario": "2T34 4T12",
+            "local": "BLOCO B - SALA 2 (CCA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "3105013",
+        "name": "FARMACOLOGIA VETERINARIA",
+        "category": "Complementar Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "3105013",
+            "turmaid": "01",
+            "nome": " FARMACOLOGIA VETERINARIA",
+            "semester": "2018.2",
+            "professor": "JOAO WALTER DE SOUZA DA SILVEIRA",
+            "horario": "6M45 2T12",
+            "local": "BLOCO A -SALA 1 (CCA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "3103004",
+        "name": "NUTRICAO ANIMAL",
+        "category": "Complementar Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "3103004",
+            "turmaid": "01",
+            "nome": " NUTRICAO ANIMAL",
+            "semester": "2018.2",
+            "professor": "LUDMILA DA PAZ GOMES DA SILVA e JULIANA SILVA DE OLIVEIRA",
+            "horario": "4M45 5M23",
+            "local": "BLOCO A - SALA 2 (CCA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "3103109",
+        "name": "ZOOTECNIA GERAL",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "3103109",
+            "turmaid": "01",
+            "nome": " ZOOTECNIA GERAL",
+            "semester": "2018.2",
+            "professor": "AMARO CALHEIROS PEDROSA",
+            "horario": "3M345",
+            "local": "BLOCO A - SALA 2 (CCA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "3105014",
+        "name": "PARASITOLOGIA VETERINARIA I",
+        "category": "Complementar Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "3105014",
+            "turmaid": "01",
+            "nome": " PARASITOLOGIA VETERINARIA I",
+            "semester": "2018.2",
+            "professor": "VALESKA SHELDA PESSOA DE MELO",
+            "horario": "36M12",
+            "local": "BLOCO B - SALA 2 (CCA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "3105015",
+        "name": "TERAPEUTICA VETERINARIA",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "3105015",
+            "turmaid": "01",
+            "nome": " TERAPEUTICA VETERINARIA",
+            "semester": "2018.2",
+            "professor": "SIMONE BOPP",
+            "horario": "6M345",
+            "local": "BLOCO D - SALA 4 (CCA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "3105016",
+        "name": "PATOLOGIA VETERINARIA I",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "45h aula 30h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "3105016",
+            "turmaid": "01A",
+            "nome": " PATOLOGIA VETERINARIA I",
+            "semester": "2018.2",
+            "professor": "MARCIO DE CASTRO MENEZES",
+            "horario": "2M12345",
+            "local": "BLOCO D - SALA 1 (CCA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "3105069",
+        "name": "ESTAGIO SUPERVISIONADO I  MED VET",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "ESTÁGIO",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "3106002",
+        "name": "GENETICA APLICADA",
+        "category": "Complementar Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "3106002",
+            "turmaid": "01",
+            "nome": " GENETICA APLICADA",
+            "semester": "2018.2",
+            "professor": "ANA EMILIA BARROS E SILVA",
+            "horario": "4M23 5M45",
+            "local": "BIO 4 (CCA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "3104077",
+        "name": "DEONTOLOGIA",
+        "category": "Complementar Obrigatória",
+        "semester": 5,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "3104077",
+            "turmaid": "01",
+            "nome": " DEONTOLOGIA",
+            "semester": "2018.2",
+            "professor": "MARCOS ANTONIO PIMENTEL PEQUENO",
+            "horario": "4T45",
+            "local": "BLOCO B - SALA 3 (CCA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "3105017",
+        "name": "PATOLOGIA VETERINARIA II",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "90h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "3105017",
+            "turmaid": "01",
+            "nome": " PATOLOGIA VETERINARIA II",
+            "semester": "2018.2",
+            "professor": "MARCIO DE CASTRO MENEZES e RICARDO BARBOSA DE LUCENA",
+            "horario": "4M45 36T12",
+            "local": "BLOCO D - SALA 1 (CCA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "3105018",
+        "name": "SEMIOLOGIA VETERINARIA",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "45h aula 30h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "3105018",
+            "turmaid": "01A",
+            "nome": " SEMIOLOGIA VETERINARIA",
+            "semester": "2018.2",
+            "professor": "SUEDNEY DE LIMA SILVA e DEBORA MONTEIRO NAVARRO MARQUES DE OLIVEIRA",
+            "horario": "2T34 4T123",
+            "local": "BLOCO B - SALA 1 (CCA)"
+          },
+          {
+            "id": "3105018",
+            "turmaid": "02A",
+            "nome": " SEMIOLOGIA VETERINARIA",
+            "semester": "2018.2",
+            "professor": "SUEDNEY DE LIMA SILVA e DEBORA MONTEIRO NAVARRO MARQUES DE OLIVEIRA",
+            "horario": "4T123 5T34",
+            "local": "BLOCO B - SALA 3 (CCA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "3105019",
+        "name": "RADIOLOGIA VETERINARIA",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "30h aula 30h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "3105019",
+            "turmaid": "01A",
+            "nome": " RADIOLOGIA VETERINARIA",
+            "semester": "2018.2",
+            "professor": "DEBORA MONTEIRO NAVARRO MARQUES DE OLIVEIRA",
+            "horario": "3M34 2T12",
+            "local": "BLOCO C - SALA 3 (CCA)"
+          },
+          {
+            "id": "3105019",
+            "turmaid": "01B",
+            "nome": " RADIOLOGIA VETERINARIA",
+            "semester": "2018.2",
+            "professor": "DEBORA MONTEIRO NAVARRO MARQUES DE OLIVEIRA",
+            "horario": "25T12",
+            "local": "BLOCO C - SALA 3 (CCA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "3105020",
+        "name": "ANESTESIOLOGIA VETERINARIA",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "30h aula 30h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "3105020",
+            "turmaid": "01A",
+            "nome": " ANESTESIOLOGIA VETERINARIA",
+            "semester": "2018.2",
+            "professor": "SIMONE BOPP",
+            "horario": "26T34",
+            "local": "BLOCO D - SALA 6 (CCA) / BLOCO D - SALA 6 (CCA)"
+          },
+          {
+            "id": "3105020",
+            "turmaid": "01B",
+            "nome": " ANESTESIOLOGIA VETERINARIA",
+            "semester": "2018.2",
+            "professor": "SIMONE BOPP",
+            "horario": "56T34",
+            "local": "BLOCO D - SALA 6 (CCA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "3105021",
+        "name": "EPIDEMIOLOGIA GERAL",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "3105021",
+            "turmaid": "01",
+            "nome": " EPIDEMIOLOGIA GERAL",
+            "semester": "2018.2",
+            "professor": "INACIO JOSE CLEMENTINO",
+            "horario": "3T345",
+            "local": "BLOCO B - SALA 3 (CCA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "3105070",
+        "name": "ESTÁGIO SUPERVISIONADO II  MED VET",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "ESTÁGIO",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "3105069"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "3105022",
+        "name": "PATOLOGIA CLINICA VETERINARIA",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "45h aula 30h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "3105022",
+            "turmaid": "01A",
+            "nome": " PATOLOGIA CLINICA VETERINARIA",
+            "semester": "2018.2",
+            "professor": "FABIANA SATAKE",
+            "horario": "2M12345",
+            "local": "BLOCO D - SALA 6 (CCA)"
+          },
+          {
+            "id": "3105022",
+            "turmaid": "01B",
+            "nome": " PATOLOGIA CLINICA VETERINARIA",
+            "semester": "2018.2",
+            "professor": "FABIANA SATAKE",
+            "horario": "2M123 3M34",
+            "local": "BLOCO D - SALA 6 (CCA) / BLOCO C - LMM (CCA)"
+          },
+          {
+            "id": "3105022",
+            "turmaid": "01C",
+            "nome": " PATOLOGIA CLINICA VETERINARIA",
+            "semester": "2018.2",
+            "professor": "FABIANA SATAKE",
+            "horario": "2M123 5M34",
+            "local": "BLOCO D - SALA 6 (CCA) / BLOCO C - LMM (CCA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "3105025",
+        "name": "ENF INFECCIOSAS DOS ANIMAIS DOMESTICOS",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "3105025",
+            "turmaid": "01",
+            "nome": " ENF INFECCIOSAS DOS ANIMAIS DOMESTICOS",
+            "semester": "2018.2",
+            "professor": "ARTUR CEZAR DE CARVALHO FERNANDES",
+            "horario": "4M45 6M12",
+            "local": "BLOCO A - SALA 3 (CCA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "3105026",
+        "name": "ENFERMIDADES PARASIT DOS ANIM DOMESTICOS",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "3105026",
+            "turmaid": "01",
+            "nome": " ENFERMIDADES PARASIT DOS ANIM DOMESTICOS",
+            "semester": "2018.2",
+            "professor": "VALESKA SHELDA PESSOA DE MELO",
+            "horario": "4M23 5M12",
+            "local": "BLOCO D - SALA 3 (CCA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "3105071",
+        "name": "ESTÁGIO SUPERVISIONADO III  MED VET",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "ESTÁGIO",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "3105070"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "3105079",
+        "name": "TÉCNICA CIRÚRGICA",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "15h aula 60h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "3105079",
+            "turmaid": "01A",
+            "nome": " TÉCNICA CIRÚRGICA",
+            "semester": "2018.2",
+            "professor": "LUIZ EDUARDO CARVALHO BUQUERA",
+            "horario": "3M2 4T1234",
+            "local": "BLOCO D - SALA 3 (CCA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "3105082",
+        "name": "PESQAPLICADA A MEDICINA VETERINÁRIA",
+        "category": "Complementar Obrigatória",
+        "semester": 6,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "3105082",
+            "turmaid": "01",
+            "nome": " PESQAPLICADA A MEDICINA VETERINÁRIA",
+            "semester": "2018.2",
+            "professor": "NATALIA MATOS SOUZA AZEVEDO",
+            "horario": "6M345",
+            "local": "BLOCO D - SALA 3 (CCA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "3104156",
+        "name": "COMUNICAÇÃO E EXTENSÃO RURAL",
+        "category": "Complementar Obrigatória",
+        "semester": 7,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "3104156",
+            "turmaid": "01",
+            "nome": " COMUNICAÇÃO E EXTENSÃO RURAL",
+            "semester": "2018.2",
+            "professor": "ROSIVALDO GOMES DE SA SOBRINHO",
+            "horario": "6M12 5T12",
+            "local": "BLOCO B - SALA 3 (CCA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "3105023",
+        "name": "CLINICA MEDICA DE CANINOS E FELINOS",
+        "category": "Obrigatória",
+        "semester": 7,
+        "workload": "60h aula 30h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "3105023",
+            "turmaid": "01A",
+            "nome": " CLINICA MEDICA DE CANINOS E FELINOS",
+            "semester": "2018.2",
+            "professor": "IVIA CARMEM TALIERI",
+            "horario": "2T1234 4T12",
+            "local": "BLOCO A - SALA 3 (CCA)"
+          },
+          {
+            "id": "3105023",
+            "turmaid": "01B",
+            "nome": " CLINICA MEDICA DE CANINOS E FELINOS",
+            "semester": "2018.2",
+            "professor": "IVIA CARMEM TALIERI",
+            "horario": "2T12 4T1234",
+            "local": "BLOCO A - SALA 3 (CCA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "3105029",
+        "name": "CLINICA MEDICA DE RUMINANTES",
+        "category": "Obrigatória",
+        "semester": 7,
+        "workload": "90h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "3105029",
+            "turmaid": "01",
+            "nome": " CLINICA MEDICA DE RUMINANTES",
+            "semester": "2018.2",
+            "professor": "SUEDNEY DE LIMA SILVA",
+            "horario": "5M1234 6M34",
+            "local": "BLOCO D - SALA 5 (CCA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "3105031",
+        "name": "ZOONOSES E SAUDE PUBLICA VETERINARIA",
+        "category": "Obrigatória",
+        "semester": 7,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "3105031",
+            "turmaid": "01",
+            "nome": " ZOONOSES E SAUDE PUBLICA VETERINARIA",
+            "semester": "2018.2",
+            "professor": "INACIO JOSE CLEMENTINO",
+            "horario": "6T345",
+            "local": "BLOCO B - SALA 3 (CCA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "3105034",
+        "name": "FISIOPATOLOGIA DA REPRODUCAO ANIMAL",
+        "category": "Obrigatória",
+        "semester": 7,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "3105034",
+            "turmaid": "01",
+            "nome": " FISIOPATOLOGIA DA REPRODUCAO ANIMAL",
+            "semester": "2018.2",
+            "professor": "NORMA LUCIA DE SOUZA ARAUJO",
+            "horario": "4M34 5T34",
+            "local": "BLOCO C - SALA 2 (CCA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "3105072",
+        "name": "ESTÁGIO SUPERVISIONADO IV  MED VET",
+        "category": "Obrigatória",
+        "semester": 7,
+        "workload": "60h aula 0h lab.",
+        "type": "ESTÁGIO",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "3105071"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "3105081",
+        "name": "CLÍNICA CIRÚRGICA DE PEQANIMAIS",
+        "category": "Obrigatória",
+        "semester": 7,
+        "workload": "30h aula 60h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "3105081",
+            "turmaid": "01A",
+            "nome": " CLÍNICA CIRÚRGICA DE PEQANIMAIS",
+            "semester": "2018.2",
+            "professor": "LUIZ EDUARDO CARVALHO BUQUERA",
+            "horario": "3T1234 6T12",
+            "local": "BLOCO D - SALA 2 (CCA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "3103107",
+        "name": "TEC DE ALIMENTOS DE ORIGEM ANIMAL I",
+        "category": "Obrigatória",
+        "semester": 8,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "3103107",
+            "turmaid": "01",
+            "nome": " TEC DE ALIMENTOS DE ORIGEM ANIMAL I",
+            "semester": "2018.2",
+            "professor": "CELSO JOSE BRUNO DE OLIVEIRA",
+            "horario": "2M345",
+            "local": "ZOO 4 - LAB. DE AVALIAÇÃO DE PRODUTOS DE ORIGEM ANIMAL ..."
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "3105028",
+        "name": "CLINICA MEDICA DE EQUIDEOS",
+        "category": "Obrigatória",
+        "semester": 8,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "3105028",
+            "turmaid": "01",
+            "nome": " CLINICA MEDICA DE EQUIDEOS",
+            "semester": "2018.2",
+            "professor": "ISABELLA DE OLIVEIRA BARROS",
+            "horario": "6M12 5T45",
+            "local": "BLOCO C - SALA 3 (CCA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "3105035",
+        "name": "GINECOLOGIA E OBSTETRICIA VETERINARIA",
+        "category": "Obrigatória",
+        "semester": 8,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "3105035",
+            "turmaid": "01",
+            "nome": " GINECOLOGIA E OBSTETRICIA VETERINARIA",
+            "semester": "2018.2",
+            "professor": "NORMA LUCIA DE SOUZA ARAUJO",
+            "horario": "3M45 5M34",
+            "local": "BLOCO C - SALA 2 (CCA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "3105039",
+        "name": "HIG E INSPECAO DE PROD DE ORIGEM ANIM I",
+        "category": "Obrigatória",
+        "semester": 8,
+        "workload": "75h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "3105039",
+            "turmaid": "01",
+            "nome": " HIG E INSPECAO DE PROD DE ORIGEM ANIM I",
+            "semester": "2018.2",
+            "professor": "FELIPE NAEL SEIXAS",
+            "horario": "6M345 4T45",
+            "local": "BLOCO D - SALA 2 (CCA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "3105073",
+        "name": "ESTÁGIO SUPERVISIONADO V  MED VET",
+        "category": "Obrigatória",
+        "semester": 8,
+        "workload": "60h aula 0h lab.",
+        "type": "ESTÁGIO",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "3105072"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "3105083",
+        "name": "PATOLOGIA AVIÁRIA",
+        "category": "Obrigatória",
+        "semester": 8,
+        "workload": "45h aula 15h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "3105083",
+            "turmaid": "01",
+            "nome": " PATOLOGIA AVIÁRIA",
+            "semester": "2018.2",
+            "professor": "ARTUR CEZAR DE CARVALHO FERNANDES, INACIO JOSE CLEMENTINO e RICARDO BARBOSA DE LUCENA",
+            "horario": "3M23 5M12",
+            "local": "BLOCO B - SALA 1 (CCA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "3105084",
+        "name": "PATOLOGIA DE SUÍNOS",
+        "category": "Obrigatória",
+        "semester": 8,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "3105084",
+            "turmaid": "01",
+            "nome": " PATOLOGIA DE SUÍNOS",
+            "semester": "2018.2",
+            "professor": "RICARDO BARBOSA DE LUCENA",
+            "horario": "5T123",
+            "local": "BLOCO B - SALA 2 (CCA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "3105087",
+        "name": "CLÍNICA CIRÚRGICA DE GRANDES ANIMAIS",
+        "category": "Obrigatória",
+        "semester": 8,
+        "workload": "90h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "3105087",
+            "turmaid": "01",
+            "nome": " CLÍNICA CIRÚRGICA DE GRANDES ANIMAIS",
+            "semester": "2018.2",
+            "professor": "NATALIA MATOS SOUZA AZEVEDO",
+            "horario": "2M12 4M1234",
+            "local": "HV - CCGA (CCA) / BLOCO C - SALA 1 (CCA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "3103125",
+        "name": "TEC DE ALIMENTOS DE ORIGEM ANIMAL II",
+        "category": "Obrigatória",
+        "semester": 9,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "3103125",
+            "turmaid": "02",
+            "nome": " TEC DE ALIMENTOS DE ORIGEM ANIMAL II",
+            "semester": "2018.2",
+            "professor": "PAULO SERGIO DE AZEVEDO",
+            "horario": "4T45 5T23",
+            "local": "ZOO 4 - LAB. DE AVALIAÇÃO DE PRODUTOS DE ORIGEM ANIMAL ..."
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "3104129",
+        "name": "GESTÃO EMPRESARIAL E MARKETING",
+        "category": "Complementar Obrigatória",
+        "semester": 9,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "3104129",
+            "turmaid": "01",
+            "nome": " GESTÃO EMPRESARIAL E MARKETING",
+            "semester": "2018.2",
+            "professor": "EMANUELLE ALICIA SANTOS DE VASCONCELOS",
+            "horario": "4T123",
+            "local": "BLOCO D - SALA 2 (CCA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "3105041",
+        "name": "HIG E INSPECAO DE PROD DE ORIGEM ANIM II",
+        "category": "Obrigatória",
+        "semester": 9,
+        "workload": "75h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "3105041",
+            "turmaid": "01",
+            "nome": " HIG E INSPECAO DE PROD DE ORIGEM ANIM II",
+            "semester": "2018.2",
+            "professor": "FELIPE NAEL SEIXAS",
+            "horario": "2T345 5T45",
+            "local": "BLOCO D - SALA 2 (CCA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "3105042",
+        "name": "DEFESA SANITARIA ANIMAL",
+        "category": "Obrigatória",
+        "semester": 9,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "3105042",
+            "turmaid": "01",
+            "nome": " DEFESA SANITARIA ANIMAL",
+            "semester": "2018.2",
+            "professor": "ALEXANDRE JOSE ALVES",
+            "horario": "2T12 6T23",
+            "local": "BLOCO A - SALA 2 (CCA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "3105086",
+        "name": "MEIOS E MÉTODOS DE DIAGNÓSTICO",
+        "category": "Obrigatória",
+        "semester": 9,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "3105086",
+            "turmaid": "01",
+            "nome": " MEIOS E MÉTODOS DE DIAGNÓSTICO",
+            "semester": "2018.2",
+            "professor": "DEBORA MONTEIRO NAVARRO MARQUES DE OLIVEIRA",
+            "horario": "3T234",
+            "local": "BLOCO D - SALA 3 (CCA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "3105074",
+        "name": "ESTÁGIO SUPERVISIONADO VI  MED VET",
+        "category": "Obrigatória",
+        "semester": 10,
+        "workload": "255h aula 0h lab.",
+        "type": "ESTÁGIO",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "3105073"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "3105075",
+        "name": "TRABALHO DE CONCLUSÃO DE CURSOMED VET",
+        "category": "Complementar Obrigatória",
+        "semester": 10,
+        "workload": "60h aula 0h lab.",
+        "type": "TRABALHO DE CONCLUSÃO DE CURSO",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      }
+    ]
+  }
+}

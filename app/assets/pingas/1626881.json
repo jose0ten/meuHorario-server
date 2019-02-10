@@ -1,0 +1,1073 @@
+{
+  "curriculum": {
+    "id": "572009",
+    "codigo": "1626881",
+    "name": "MUSICA POPULAR - João Pessoa - Presencial - N - OUTRO TIPO DE GRAU ACADÊMICO",
+    "faculty": "CENTRO DE COMUNICAÇÃO, TURISMO E ARTES (CCTA) (11.00.66)",
+    "minch": "270",
+    "maxch": "480",
+    "semesters": 4,
+    "courses": [
+      {
+        "id": "1407102",
+        "name": "CANTO CORAL I",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+          "1413133",
+          "GDPTM0160"
+        ]
+      },
+      {
+        "id": "1407103",
+        "name": "CANTO CORAL II",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1407102"
+        ],
+        "equivalences": [
+          "GDPTM0161"
+        ]
+      },
+      {
+        "id": "1407116",
+        "name": "FLAUTA DOCE I",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1407117",
+        "name": "FLAUTA DOCE II",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1407116"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1407701",
+        "name": "REGÊNCIA III",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1407734",
+        "name": "INSTRUMENTAÇÃO E ORQUESTRAÇÃO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1407698"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1407736",
+        "name": "CANTO CORAL I",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1407737",
+        "name": "CANTO CORAL II",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1407736"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1407740",
+        "name": "TECNICA VOCAL I",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1407741",
+        "name": "TECNICA VOCAL II",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1407740"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1407742",
+        "name": "TEORIA E FORMA DA CANÇÃO POPULAR",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1407743",
+        "name": "IMPROVISAÇÃO PARA INSTRUMENTOS DE SOPRO I",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1407743",
+            "turmaid": "01",
+            "nome": " IMPROVISAÇÃO PARA INSTRUMENTOS DE SOPRO I",
+            "semester": "2018.2",
+            "professor": "HELENO FEITOSA COSTA FILHO",
+            "horario": "2N12",
+            "local": "DeMÚS 03 (CCTA)"
+          }
+        ],
+        "prerequisites": [
+          "1407731"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1407775",
+        "name": "IMPROVISAÇÃO PINSTRUMENTS DE CORDAS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1407681"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1407866",
+        "name": "TÉCNICAS DE ARRANJO II",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1407745"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1407674",
+        "name": "TOPICOS ESPECIAIS EM MUSICA I",
+        "category": "Complementar Flexiva",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "ATIVIDADE ESPECIAL",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1407128",
+        "name": "INSTRUMENTO COMPLEMENTAR I",
+        "category": "Complementar Obrigatória",
+        "semester": 1,
+        "workload": "30h aula 0h lab.",
+        "type": "ATIVIDADE ESPECIAL",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1407301",
+        "name": "HISTORIA DA MUSICA BRASILEIRA",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1407680",
+        "name": "INSTRUMENTO DE VOZ I",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "ATIVIDADE ESPECIAL",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1407684",
+        "name": "TEORIA E PERCEPÇÃO MUSICAL I",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1407689",
+        "name": "TECNICAS DE ENSAIO I",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1407693",
+        "name": "LAB DE CONJUNTOS POPULARES I",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1407697",
+        "name": "APRECIAÇÃO MUSICAL",
+        "category": "Complementar Obrigatória",
+        "semester": 1,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1407698",
+        "name": "FUNDAMENTOS DE ACUSTICA MUSICAL",
+        "category": "Complementar Obrigatória",
+        "semester": 1,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1407724",
+        "name": "TOPICOS ESPECIAIS EM MUSICA II",
+        "category": "Complementar Flexiva",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "ATIVIDADE ESPECIAL",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1407674"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1407129",
+        "name": "INSTRUMENTO COMPLEMENTAR II",
+        "category": "Complementar Obrigatória",
+        "semester": 2,
+        "workload": "30h aula 0h lab.",
+        "type": "ATIVIDADE ESPECIAL",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1407128",
+          "1407655",
+          "1407658",
+          "1407661"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1407679",
+        "name": "HISTÓRIA DA MPB",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1407301"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1407681",
+        "name": "INSTRUMENTO DE VOZ II",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "ATIVIDADE ESPECIAL",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1407680"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1407685",
+        "name": "TEORIA E PERCEPÇÃO MUSICAL II",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1407684"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1407690",
+        "name": "TECNICAS DE ENSAIO II",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1407689"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1407694",
+        "name": "LAB DE CONJUNTOS POPULARES II",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1407693"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1407729",
+        "name": "TECNICAS DE GRAV E SONORIZAÇAO I",
+        "category": "Complementar Obrigatória",
+        "semester": 2,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1407698"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1407731",
+        "name": "LINGUAGEM HARMONICA I",
+        "category": "Complementar Obrigatória",
+        "semester": 2,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1407697"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1407738",
+        "name": "TOPICOS ESPECIAIS EM MUSICA III",
+        "category": "Complementar Flexiva",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "ATIVIDADE ESPECIAL",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1407130",
+        "name": "INSTRUMENTO COMPLEMENTAR III",
+        "category": "Complementar Obrigatória",
+        "semester": 3,
+        "workload": "30h aula 0h lab.",
+        "type": "ATIVIDADE ESPECIAL",
+        "turmas": [
+          {
+            "id": "1407130",
+            "turmaid": "01",
+            "nome": " INSTRUMENTO COMPLEMENTAR III",
+            "semester": "2018.2",
+            "professor": "CLARA BEZERRA NUNES BARROS",
+            "horario": "",
+            "local": ""
+          },
+          {
+            "id": "1407130",
+            "turmaid": "02",
+            "nome": " INSTRUMENTO COMPLEMENTAR III",
+            "semester": "2018.2",
+            "professor": "LUIZ FERNANDO NAVARRO COSTA",
+            "horario": "",
+            "local": ""
+          },
+          {
+            "id": "1407130",
+            "turmaid": "03",
+            "nome": " INSTRUMENTO COMPLEMENTAR III",
+            "semester": "2018.2",
+            "professor": "LUCENI CAETANO DA SILVA",
+            "horario": "",
+            "local": ""
+          },
+          {
+            "id": "1407130",
+            "turmaid": "04",
+            "nome": " INSTRUMENTO COMPLEMENTAR III",
+            "semester": "2018.2",
+            "professor": "SABRINA DA PAZ FERNANDES",
+            "horario": "",
+            "local": ""
+          },
+          {
+            "id": "1407130",
+            "turmaid": "05",
+            "nome": " INSTRUMENTO COMPLEMENTAR III",
+            "semester": "2018.2",
+            "professor": "JOSE ANDRADE DE MELO JUNIOR",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+          "1407129"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1407682",
+        "name": "INSTRUMENTO DE VOZ III",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "ATIVIDADE ESPECIAL",
+        "turmas": [
+          {
+            "id": "1407682",
+            "turmaid": "01",
+            "nome": " INSTRUMENTO DE VOZ III",
+            "semester": "2018.2",
+            "professor": "ANDERSON DE SOUSA MARIANO",
+            "horario": "",
+            "local": ""
+          },
+          {
+            "id": "1407682",
+            "turmaid": "02",
+            "nome": " INSTRUMENTO DE VOZ III",
+            "semester": "2018.2",
+            "professor": "GLEDSON MEIRA DANTAS",
+            "horario": "",
+            "local": ""
+          },
+          {
+            "id": "1407682",
+            "turmaid": "03",
+            "nome": " INSTRUMENTO DE VOZ III",
+            "semester": "2018.2",
+            "professor": "HELIO GIOVANNI MEDEIROS DA SILVA",
+            "horario": "",
+            "local": ""
+          },
+          {
+            "id": "1407682",
+            "turmaid": "04",
+            "nome": " INSTRUMENTO DE VOZ III",
+            "semester": "2018.2",
+            "professor": "EDUARDO FIORUSSI",
+            "horario": "",
+            "local": ""
+          },
+          {
+            "id": "1407682",
+            "turmaid": "05",
+            "nome": " INSTRUMENTO DE VOZ III",
+            "semester": "2018.2",
+            "professor": "LEONARDO MEIRA DANTAS",
+            "horario": "",
+            "local": ""
+          },
+          {
+            "id": "1407682",
+            "turmaid": "06",
+            "nome": " INSTRUMENTO DE VOZ III",
+            "semester": "2018.2",
+            "professor": "JOSE ANDRADE DE MELO JUNIOR",
+            "horario": "",
+            "local": ""
+          },
+          {
+            "id": "1407682",
+            "turmaid": "07",
+            "nome": " INSTRUMENTO DE VOZ III",
+            "semester": "2018.2",
+            "professor": "HELENO FEITOSA COSTA FILHO",
+            "horario": "",
+            "local": ""
+          },
+          {
+            "id": "1407682",
+            "turmaid": "08",
+            "nome": " INSTRUMENTO DE VOZ III",
+            "semester": "2018.2",
+            "professor": "XISTO MEDEIROS DE SOUSA",
+            "horario": "",
+            "local": ""
+          },
+          {
+            "id": "1407682",
+            "turmaid": "09",
+            "nome": " INSTRUMENTO DE VOZ III",
+            "semester": "2018.2",
+            "professor": "CLARA BEZERRA NUNES BARROS",
+            "horario": "",
+            "local": ""
+          },
+          {
+            "id": "1407682",
+            "turmaid": "10",
+            "nome": " INSTRUMENTO DE VOZ III",
+            "semester": "2018.2",
+            "professor": "SABRINA DA PAZ FERNANDES",
+            "horario": "",
+            "local": ""
+          },
+          {
+            "id": "1407682",
+            "turmaid": "11",
+            "nome": " INSTRUMENTO DE VOZ III",
+            "semester": "2018.2",
+            "professor": "LUIZ FERNANDO NAVARRO COSTA",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1407686",
+        "name": "TEORIA E PERCEPÇÃO MUSICAL III",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1407686",
+            "turmaid": "01",
+            "nome": " TEORIA E PERCEPÇÃO MUSICAL III",
+            "semester": "2018.2",
+            "professor": "JOSE ANDRADE DE MELO JUNIOR",
+            "horario": "2N12",
+            "local": "DeMÚS - SALA IM (CCTA)"
+          }
+        ],
+        "prerequisites": [
+          "1407685"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1407688",
+        "name": "MANIFESTAÇÕES MUSICAIS DA CPB",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1407688",
+            "turmaid": "01",
+            "nome": " MANIFESTAÇÕES MUSICAIS DA CPB",
+            "semester": "2018.2",
+            "professor": "EURIDES DE SOUZA DOS SANTOS",
+            "horario": "5T56",
+            "local": "DeMÚS 03 (CCTA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1407691",
+        "name": "PRODUÇÃO MUSICAL I",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1407691",
+            "turmaid": "01",
+            "nome": " PRODUÇÃO MUSICAL I",
+            "semester": "2018.2",
+            "professor": "EDUARDO FIORUSSI",
+            "horario": "4N12",
+            "local": "DeMÚS 12 (CCTA)"
+          }
+        ],
+        "prerequisites": [
+          "1407690"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1407695",
+        "name": "LAB DE CONJUNTOS POPULARES III",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1407695",
+            "turmaid": "01",
+            "nome": " LAB DE CONJUNTOS POPULARES III",
+            "semester": "2018.2",
+            "professor": "XISTO MEDEIROS DE SOUSA",
+            "horario": "6T56 6N12",
+            "local": "DeMÚS 19 (CCTA)"
+          }
+        ],
+        "prerequisites": [
+          "1407694"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1407730",
+        "name": "TECNICAS DE GRAV E SONORIZAÇAO II",
+        "category": "Complementar Obrigatória",
+        "semester": 3,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1407730",
+            "turmaid": "01",
+            "nome": " TECNICAS DE GRAV E SONORIZAÇAO II",
+            "semester": "2018.2",
+            "professor": "HELIO GIOVANNI MEDEIROS DA SILVA",
+            "horario": "3N12",
+            "local": "DeMÚS 03 (CCTA)"
+          }
+        ],
+        "prerequisites": [
+          "1407729"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1407732",
+        "name": "LINGUAGEM HARMONICA II",
+        "category": "Complementar Obrigatória",
+        "semester": 3,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1407732",
+            "turmaid": "01",
+            "nome": " LINGUAGEM HARMONICA II",
+            "semester": "2018.2",
+            "professor": "LEONARDO MEIRA DANTAS",
+            "horario": "4N34",
+            "local": "DeMÚS 03 (CCTA)"
+          }
+        ],
+        "prerequisites": [
+          "1407731"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1407739",
+        "name": "TOPICOS ESPECIAIS EM MUSICA IV",
+        "category": "Complementar Flexiva",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "ATIVIDADE ESPECIAL",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1407131",
+        "name": "INSTRUMENTO COMPLEMENT IV",
+        "category": "Complementar Obrigatória",
+        "semester": 4,
+        "workload": "30h aula 0h lab.",
+        "type": "ATIVIDADE ESPECIAL",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1407130"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1407683",
+        "name": "INSTRUMENTO DE VOZ IV",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "0h aula 60h lab.",
+        "type": "ATIVIDADE ESPECIAL",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1407687",
+        "name": "TEORIA E PERCEPÇÃO MUSICAL IV",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1407686"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1407692",
+        "name": "PRODUÇÃO MUSICAL II",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1407691"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1407696",
+        "name": "LAB DE CONJUNTOS POPULARES IV",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1407695"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1407745",
+        "name": "TÉCNICAS DE ARRANJO I",
+        "category": "Complementar Obrigatória",
+        "semester": 4,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1407732"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1407769",
+        "name": "EDIÇÃO DE PARTITURAS",
+        "category": "Complementar Obrigatória",
+        "semester": 4,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1407684"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1407771",
+        "name": "LEGISLAÇÃO PROFISSIONAL E DIR AUTORAL",
+        "category": "Complementar Obrigatória",
+        "semester": 4,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1407771",
+            "turmaid": "01",
+            "nome": " LEGISLAÇÃO PROFISSIONAL E DIR AUTORAL",
+            "semester": "2018.2",
+            "professor": "HARUE TANAKA",
+            "horario": "5T56",
+            "local": "DeMÚS 12 (CCTA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      }
+    ]
+  }
+}

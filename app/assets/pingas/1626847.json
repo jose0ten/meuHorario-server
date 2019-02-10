@@ -1,0 +1,1808 @@
+{
+  "curriculum": {
+    "id": "342008",
+    "codigo": "1626847",
+    "name": "CIÊNCIAS AGRÁRIAS -EAD - Bananeiras - A Distância - MT - LICENCIATURA PLENA",
+    "faculty": "CENTRO DE CIÊNCIAS HUMANAS SOCIAIS E AGRÁRIAS (CCHSA) (11.00.45)",
+    "minch": "330",
+    "maxch": "555",
+    "semesters": 9,
+    "courses": [
+      {
+        "id": "4101225",
+        "name": "LINGUA PORTUGUESA  UV",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4101226",
+        "name": "LINGUA ESPANHOLA UV",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4101227",
+        "name": "LINGUA INGLESA  UV",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4102119",
+        "name": "RANICULTURAUV",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4102120",
+        "name": "MANEJO E CONSERV DO SOLO E AGUAUV",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4103159",
+        "name": "ABATE E PROCESSAMENTO DE ANIMAISUV",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "4103159",
+            "turmaid": "01",
+            "nome": " ABATE E PROCESSAMENTO DE ANIMAISUV",
+            "semester": "2018.2",
+            "professor": "CYBELLE DE OLIVEIRA DANTAS",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4103160",
+        "name": "MECANIZAÇÃO AGRÍCOLAUV",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "4103160",
+            "turmaid": "01",
+            "nome": " MECANIZAÇÃO AGRÍCOLAUV",
+            "semester": "2018.2",
+            "professor": "CLEBER BRITO DE SOUZA",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4103161",
+        "name": "CONSTRUÇÕES RURAISUV",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4104193",
+        "name": "ÉTICA E LEGISLAÇÃO PROFISSIONALUV",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4104195",
+        "name": "ECONOMIA DA EDUCAÇÃOUV",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4104196",
+        "name": "FUNDAM DA ADMINISTRAÇÃO DA EDUCAÇÃOUV",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4104197",
+        "name": "EDUCAÇÃO SEXUALUV",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4104198",
+        "name": "FUNDAMENTOS BIOLOGICOS DA EDUCAÇÃOUV",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4104199",
+        "name": "ANTROPOLOGIA DA EDUCAÇÃOUV",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4104200",
+        "name": "PESQUISA E COTIDIANO ESCOLARUV",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4104204",
+        "name": "AVALIAÇÃO DA APRENDIZAGEMUV",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4104205",
+        "name": "SEMIN DE PROBL ATUAIS EM EDUCAÇÃOUV",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4104208",
+        "name": "INTROD AOS REC AUDIOVISUAIS EM EDUCUV",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4104209",
+        "name": "SEMINÁRIO DE EDUC AMBIENTALUV",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4104177",
+        "name": "INTRODUCAO A EDUCACAO A DISTANCIAUV",
+        "category": "Optativa",
+        "semester": 1,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4101219",
+        "name": "QUIMICA GERALUV",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4101220",
+        "name": "BIOLOGIA GERALUV",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4102083",
+        "name": "INTRODUCAO A FITOTECNIAUV",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4102084",
+        "name": "INTRODUCAO A ZOOTECNIAUV",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4104175",
+        "name": "FUND ANTROPOFILOSOFICOS DA EDUCUV",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4104176",
+        "name": "INFORMATICAUV",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "4104176",
+            "turmaid": "01",
+            "nome": " INFORMATICAUV",
+            "semester": "2018.2",
+            "professor": "EMILIANO ROSTAND DE MORAIS CELIO",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4104179",
+        "name": "ELEMENTOS DE MATEMATICA  UV",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4101221",
+        "name": "REDACAO TECNICA EXPRESSAO GRAFICAUV",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4101223",
+        "name": "ZOOLOGIA  UV",
+        "category": "Complementar Obrigatória",
+        "semester": 2,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "4101223",
+            "turmaid": "01",
+            "nome": " ZOOLOGIA  UV",
+            "semester": "2018.2",
+            "professor": "ISABELLE DA COSTA WANDERLEY ALENCAR",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4102048",
+        "name": "ANATOMIA E ECOFISIOLOGIA VEGETAL  UV",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4104178",
+        "name": "FUNDAMENTOS PSICOLOGICOS DA EDUCACAOUV",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4104182",
+        "name": "FUNDAM SÓCIOHISTÓRICOS DA EDUCAÇÃOUV",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "4104182",
+            "turmaid": "01",
+            "nome": " FUNDAM SÓCIOHISTÓRICOS DA EDUCAÇÃOUV",
+            "semester": "2018.2",
+            "professor": "GABRIEL DE MEDEIROS LIMA",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDCSO0102",
+        "name": "QUIMICA ORGANICA EAD",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDPAG0036",
+        "name": "FERTILIDADE DO SOLO E NUTRICAO DE PLANTAS EAD",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4101222",
+        "name": "ECOLOGIA E MEIO AMBIENTE  UV",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "4101222",
+            "turmaid": "01",
+            "nome": " ECOLOGIA E MEIO AMBIENTE  UV",
+            "semester": "2018.2",
+            "professor": "JOSE EDILSON ALVES DE ARAUJO",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4101224",
+        "name": "BIOQUIMICA  UV",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "4101224",
+            "turmaid": "01",
+            "nome": " BIOQUIMICA  UV",
+            "semester": "2018.2",
+            "professor": "ANABELLE CAMAROTTI DE LIMA BATISTA",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+          "1105228"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4102049",
+        "name": "METODOLOGIA DO TRABALHO CIENTIFICOUV",
+        "category": "Complementar Obrigatória",
+        "semester": 3,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4102092",
+        "name": "ANATOMIA E FISIOLOGIA ANIMAL  UV",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "4102092",
+            "turmaid": "01",
+            "nome": " ANATOMIA E FISIOLOGIA ANIMAL  UV",
+            "semester": "2018.2",
+            "professor": "GERSON ALVES DE AZEREDO",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+          "4101220"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4103150",
+        "name": "DESENHO E TOPOGRAFIA  UV",
+        "category": "Complementar Obrigatória",
+        "semester": 3,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "4103150",
+            "turmaid": "01",
+            "nome": " DESENHO E TOPOGRAFIA  UV",
+            "semester": "2018.2",
+            "professor": "ALEXANDRE JOSE SOARES MINA",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4103153",
+        "name": "INTRODUÇÃO A AGROINDUSTRIAUV",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4102100",
+        "name": "TÓPICOS ESPECIAIS I  UV",
+        "category": "Complementar Flexiva",
+        "semester": 4,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "4102100",
+            "turmaid": "01",
+            "nome": " TÓPICOS ESPECIAIS I  UV",
+            "semester": "2018.2",
+            "professor": "GEORGE RODRIGO BELTRAO DA CRUZ",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4102096",
+        "name": "ESTATÍSTICA EXPERIMENTAL  UV",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "4102096",
+            "turmaid": "01",
+            "nome": " ESTATÍSTICA EXPERIMENTAL  UV",
+            "semester": "2018.2",
+            "professor": "GEORGE RODRIGO BELTRAO DA CRUZ",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+          "4104179"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4102097",
+        "name": "NUTRALIMENTANIMAL E FORRAGICULTURAUV",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "4102097",
+            "turmaid": "01",
+            "nome": " NUTRALIMENTANIMAL E FORRAGICULTURAUV",
+            "semester": "2018.2",
+            "professor": "JOSE HUMBERTO VILAR DA SILVA",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4102099",
+        "name": "OLERICULTURA  UV",
+        "category": "Complementar Obrigatória",
+        "semester": 4,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "4102099",
+            "turmaid": "01",
+            "nome": " OLERICULTURA  UV",
+            "semester": "2018.2",
+            "professor": "JOSE EDUARDO FERREIRA ESPINOLA",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4102106",
+        "name": "PESQUISA APLIC A CIENCIAS AGRARIASUV",
+        "category": "Complementar Obrigatória",
+        "semester": 4,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "4102049"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4104181",
+        "name": "DIDÁTICA  UV",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "4104181",
+            "turmaid": "01",
+            "nome": " DIDÁTICA  UV",
+            "semester": "2018.2",
+            "professor": "LUCIENE CHAVES DE AQUINO",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4104183",
+        "name": "ECONOMIA RURALUV",
+        "category": "Complementar Obrigatória",
+        "semester": 4,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4104185",
+        "name": "TOPICOS ESPECIAIS II  UV",
+        "category": "Complementar Flexiva",
+        "semester": 5,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4102093",
+        "name": "CULTURAS REGIONAIS  UV",
+        "category": "Complementar Obrigatória",
+        "semester": 5,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "4102093",
+            "turmaid": "01",
+            "nome": " CULTURAS REGIONAIS  UV",
+            "semester": "2018.2",
+            "professor": "ALEXANDRE EDUARDO DE ARAUJO",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4102094",
+        "name": "FRUTICULTURA  UV",
+        "category": "Complementar Obrigatória",
+        "semester": 5,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "4102094",
+            "turmaid": "01",
+            "nome": " FRUTICULTURA  UV",
+            "semester": "2018.2",
+            "professor": "NIVANIA PEREIRA DA COSTA MENEZES",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4102098",
+        "name": "BOVINOCULTURA  UV",
+        "category": "Complementar Obrigatória",
+        "semester": 5,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "4102098",
+            "turmaid": "01",
+            "nome": " BOVINOCULTURA  UV",
+            "semester": "2018.2",
+            "professor": "CARLOS AUGUSTO ALANIS CLEMENTE",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4102101",
+        "name": "AVICULTURAUV",
+        "category": "Complementar Obrigatória",
+        "semester": 5,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "4102101",
+            "turmaid": "01",
+            "nome": " AVICULTURAUV",
+            "semester": "2018.2",
+            "professor": "JOSE JORDAO FILHO",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4103154",
+        "name": "MICROBIOLOGIA DE PROD AGROINDUSTRIASUV",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "4101220"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4104184",
+        "name": "POLITICA E GESTÃO DA EDUCAÇÃOUV",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDPAG0008",
+        "name": "IRRIGAÇÃO E DRENAGEM",
+        "category": "Complementar Obrigatória",
+        "semester": 5,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4102107",
+        "name": "TOPICOS ESPECIAIS IIIUV",
+        "category": "Complementar Flexiva",
+        "semester": 6,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4102114",
+        "name": "OPTATIVAFISIOLOGIA POSCOLHEITAUV",
+        "category": "Optativa",
+        "semester": 6,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "4102114",
+            "turmaid": "01",
+            "nome": " OPTATIVAFISIOLOGIA POSCOLHEITAUV",
+            "semester": "2018.2",
+            "professor": "LAESIO PEREIRA MARTINS",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4102121",
+        "name": "OPTATIVAPLANTAS MEDICINAISUV",
+        "category": "Optativa",
+        "semester": 6,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "4102121",
+            "turmaid": "01",
+            "nome": " OPTATIVAPLANTAS MEDICINAISUV",
+            "semester": "2018.2",
+            "professor": "MARCOS BARROS DE MEDEIROS",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4103158",
+        "name": "OPTATIVAGESTÃO DE PRODAGROINDUSTUV",
+        "category": "Optativa",
+        "semester": 6,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4104201",
+        "name": "OPTATIVAPLANEJ E GESTÃO ESCOLARUV",
+        "category": "Optativa",
+        "semester": 6,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "4104201",
+            "turmaid": "01",
+            "nome": " OPTATIVAPLANEJ E GESTÃO ESCOLARUV",
+            "semester": "2018.2",
+            "professor": "RITA CRISTIANA BARBOSA",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4102102",
+        "name": "METODOLOGIA DO ENS DE CIENC AGRARIASUV",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "4104181"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4102103",
+        "name": "FITOSSANIDADEUV",
+        "category": "Complementar Obrigatória",
+        "semester": 6,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4102104",
+        "name": "SUINOCULTURAUV",
+        "category": "Complementar Obrigatória",
+        "semester": 6,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4102105",
+        "name": "CRIAÇÕES ALTERNATIVASUV",
+        "category": "Complementar Obrigatória",
+        "semester": 6,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4103156",
+        "name": "CONSERVÇÃO DE PRODUT AGROINDUSTRIAISUV",
+        "category": "Complementar Obrigatória",
+        "semester": 6,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4102113",
+        "name": "OPTATIVAAGROECOL E AGRIC ORGANICAUV",
+        "category": "Optativa",
+        "semester": 7,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4102117",
+        "name": "OPTATIVASISTEMAS AGROFLORESTAISUV",
+        "category": "Optativa",
+        "semester": 7,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4102118",
+        "name": "OPTATIVAVIVEIRICJARDINAG E PAISAGUV",
+        "category": "Optativa",
+        "semester": 7,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "4102118",
+            "turmaid": "01",
+            "nome": " OPTATIVAVIVEIRICJARDINAG E PAISAGUV",
+            "semester": "2018.2",
+            "professor": "JUSSARA ELLEN MORAIS FRAZAO",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4104187",
+        "name": "TOPICOS ESPECIAIS IV  UV",
+        "category": "Complementar Flexiva",
+        "semester": 7,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4104191",
+        "name": "OPTATIVAANAL ECON DO SIST DE PRODUV",
+        "category": "Optativa",
+        "semester": 7,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4104203",
+        "name": "EDUCAÇÃO E INCLUSÃO SOCIALUV",
+        "category": "Optativa",
+        "semester": 7,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4104207",
+        "name": "OPTATIVAEDUCACAO E MOVIM SOCIAISUV",
+        "category": "Optativa",
+        "semester": 7,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "4104207",
+            "turmaid": "01",
+            "nome": " OPTATIVAEDUCACAO E MOVIM SOCIAISUV",
+            "semester": "2018.2",
+            "professor": "JOHN ALEX XAVIER DE SOUSA",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4103155",
+        "name": "TECNOL PROD ORIG ANIMAL E VEGTPOAVUV",
+        "category": "Complementar Obrigatória",
+        "semester": 7,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4104186",
+        "name": "ADMINISTRAÇÃO RURAL  UV",
+        "category": "Complementar Obrigatória",
+        "semester": 7,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDPAG0022",
+        "name": "ESTÁGIO SUPERVISIONADO I",
+        "category": "Obrigatória",
+        "semester": 7,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDPAG0022",
+            "turmaid": "01",
+            "nome": " ESTÁGIO SUPERVISIONADO I",
+            "semester": "2018.2",
+            "professor": "ADEMIR GUILHERME DE OLIVEIRA",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4102110",
+        "name": "TOPICOS ESPECIAIS VUV",
+        "category": "Complementar Flexiva",
+        "semester": 8,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "4102110",
+            "turmaid": "01",
+            "nome": " TOPICOS ESPECIAIS VUV",
+            "semester": "2018.2",
+            "professor": "SILVANIA MARIA DE SOUZA GOMES NASCIMENTO",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4102115",
+        "name": "OPTATIVAAPICULTURAUV",
+        "category": "Optativa",
+        "semester": 8,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4104190",
+        "name": "OPTATIVACOOPERAT E ASSOCIATIVISMOUV",
+        "category": "Optativa",
+        "semester": 8,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4104192",
+        "name": "OPTATIVASOCIOLOGIA RURALUV",
+        "category": "Optativa",
+        "semester": 8,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "4104192",
+            "turmaid": "01",
+            "nome": " OPTATIVASOCIOLOGIA RURALUV",
+            "semester": "2018.2",
+            "professor": "A DEFINIR",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4104202",
+        "name": "OPTATIVACURRIC E TRABALHO PEDAGUV",
+        "category": "Optativa",
+        "semester": 8,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4104206",
+        "name": "OPTATIVAALFAB JOV E ADULTPROC E METUV",
+        "category": "Optativa",
+        "semester": 8,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "4104206",
+            "turmaid": "01",
+            "nome": " OPTATIVAALFAB JOV E ADULTPROC E METUV",
+            "semester": "2018.2",
+            "professor": "GERALDA MACEDO",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4102109",
+        "name": "CAPRINOCULTURA E OVINOCULTURAUV",
+        "category": "Complementar Obrigatória",
+        "semester": 8,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4103157",
+        "name": "ANALISE E CONTR DE QUALID DE ALIMUV",
+        "category": "Complementar Obrigatória",
+        "semester": 8,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "4103157",
+            "turmaid": "01",
+            "nome": " ANALISE E CONTR DE QUALID DE ALIMUV",
+            "semester": "2018.2",
+            "professor": "GILSANDRO ALVES DA COSTA",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4104188",
+        "name": "ESTÁGIO SUPERVISIONADO II  UV",
+        "category": "Obrigatória",
+        "semester": 8,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "4104188",
+            "turmaid": "01",
+            "nome": " ESTÁGIO SUPERVISIONADO II  UV",
+            "semester": "2018.2",
+            "professor": "MARCOS BARROS DE MEDEIROS",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+          "4102108",
+          "0022"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4102112",
+        "name": "TOPICOS ESPECIAIS VI  UV",
+        "category": "Complementar Flexiva",
+        "semester": 9,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "4102112",
+            "turmaid": "01",
+            "nome": " TOPICOS ESPECIAIS VI  UV",
+            "semester": "2018.2",
+            "professor": "MARIA JOSE ARAUJO WANDERLEY",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4102116",
+        "name": "AQÜICULTURAUV",
+        "category": "Optativa",
+        "semester": 9,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4104194",
+        "name": "DIREITO E LEGISLAÇÃO AGRÁRIAUV",
+        "category": "Optativa",
+        "semester": 9,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4102111",
+        "name": "TRAB DE CONCLUSÃO DE CURSOTCC CIAGRAUV",
+        "category": "Complementar Obrigatória",
+        "semester": 9,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "4102111",
+            "turmaid": "01",
+            "nome": " TRAB DE CONCLUSÃO DE CURSOTCC CIAGRAUV",
+            "semester": "2018.2",
+            "professor": "ELISANDRA COSTA ALMEIDA",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "4104189",
+        "name": "ESTÁGIO SUPERVISIONADO III  UV",
+        "category": "Obrigatória",
+        "semester": 9,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "4104189",
+            "turmaid": "01",
+            "nome": " ESTÁGIO SUPERVISIONADO III  UV",
+            "semester": "2018.2",
+            "professor": "AIENE FERNANDES REBOUCAS",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+          "4104188"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDCSO0101",
+        "name": "LIBRAS LINGUA BRASILEIRA DE SINAIS ( UV",
+        "category": "Complementar Obrigatória",
+        "semester": 9,
+        "workload": "0h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDCSO0101",
+            "turmaid": "01",
+            "nome": " LIBRAS LINGUA BRASILEIRA DE SINAIS ( UV-BN)",
+            "semester": "2018.2",
+            "professor": "FILIPPE PAULINO SOARES",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      }
+    ]
+  }
+}

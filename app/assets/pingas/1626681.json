@@ -1,0 +1,2309 @@
+{
+  "curriculum": {
+    "id": "752006",
+    "codigo": "1626681",
+    "name": "MATEMÁTICA - João Pessoa - Presencial - MT - BACHARELADO",
+    "faculty": "CENTRO DE CIÊNCIAS EXATAS E DA NATUREZA (CCEN) (11.00.41)",
+    "minch": "285",
+    "maxch": "480",
+    "semesters": 8,
+    "courses": [
+      {
+        "id": "1103135",
+        "name": "HISTORIA DA MATEMATICA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1103222",
+        "name": "ANALISE REAL III",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1103110"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1103224",
+        "name": "HISTORIA DA MATEMATICA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "90h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1103224",
+            "turmaid": "01",
+            "nome": " HISTORIA DA MATEMATICA",
+            "semester": "2018.2",
+            "professor": "FLANK DAVID MORAIS BEZERRA",
+            "horario": "246M23",
+            "local": "CAB 105 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1302304",
+        "name": "AVALIACAO DA APRENDIZAGEM",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1302304",
+            "turmaid": "03",
+            "nome": " AVALIACAO DA APRENDIZAGEM",
+            "semester": "2018.2",
+            "professor": "MARIA DA CONCEICAO GOMES DE MIRANDA",
+            "horario": "2T2345",
+            "local": "CAE 106 (PRG)"
+          },
+          {
+            "id": "1302304",
+            "turmaid": "05",
+            "nome": " AVALIACAO DA APRENDIZAGEM",
+            "semester": "2018.2",
+            "professor": "IRANETE DE ARAÚJO MEIRA",
+            "horario": "2N1234",
+            "local": "CAB 102 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1403153",
+        "name": "PORTUGUÊS INSTRUMENTAL",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1403153",
+            "turmaid": "01",
+            "nome": " PORTUGUÊS INSTRUMENTAL",
+            "semester": "2018.2",
+            "professor": "MARIA DE FATIMA ALMEIDA",
+            "horario": "3T1234",
+            "local": "CCHLA 414 BLOCO I CENTRAL DE AULAS (CCHLA)"
+          },
+          {
+            "id": "1403153",
+            "turmaid": "02",
+            "nome": " PORTUGUÊS INSTRUMENTAL",
+            "semester": "2018.2",
+            "professor": "ENEIDA MARTINS DE OLIVEIRA",
+            "horario": "5N1234",
+            "local": "TS-1 (CCHLA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1403747",
+        "name": "LIBRAS  LÍNGUA BRASILEIRA DE SINAIS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1404175",
+        "name": "LINGUA ESPANHOLA I",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "75h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1404176",
+        "name": "LINGUA INGLESA I",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1404188",
+        "name": "LINGUA FRANCESA I",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1404325",
+        "name": "LINGUA INGLESA INSTRUMENTAL I",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1404325",
+            "turmaid": "01",
+            "nome": " LINGUA INGLESA INSTRUMENTAL I",
+            "semester": "2018.2",
+            "professor": "ELAINE ESPINDOLA BALDISSERA",
+            "horario": "35T12",
+            "local": "AMBIENTE  Inglês Instrumental 14 (CCHLA)"
+          },
+          {
+            "id": "1404325",
+            "turmaid": "03",
+            "nome": " LINGUA INGLESA INSTRUMENTAL I",
+            "semester": "2018.2",
+            "professor": "A DEFINIR",
+            "horario": "35N34",
+            "local": "CAD 102 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1704119",
+        "name": "GEOMETRIA DESCRITIVA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+          "1704249"
+        ]
+      },
+      {
+        "id": "GDLS0024",
+        "name": "LIBRAS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDLS0024",
+            "turmaid": "15",
+            "nome": " LIBRAS",
+            "semester": "2018.2",
+            "professor": "MARIE GORETT DANTAS DE ASSIS E MEDEIROS BATISTA",
+            "horario": "6N1234",
+            "local": "CAH 108 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1103118",
+        "name": "CÁLCULO VETORIAL E GEOMETRIA ANALÍTICA",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1103118",
+            "turmaid": "02",
+            "nome": " CÁLCULO VETORIAL E GEOMETRIA ANALÍTICA",
+            "semester": "2018.2",
+            "professor": "VALDENILZA FERREIRA DA SILVA",
+            "horario": "35M23",
+            "local": "CAA 103 (PRG)"
+          },
+          {
+            "id": "1103118",
+            "turmaid": "11",
+            "nome": " CÁLCULO VETORIAL E GEOMETRIA ANALÍTICA",
+            "semester": "2018.2",
+            "professor": "NAPOLEON CARO TUESTA",
+            "horario": "35T23",
+            "local": "CAA 101 (PRG)"
+          },
+          {
+            "id": "1103118",
+            "turmaid": "13",
+            "nome": " CÁLCULO VETORIAL E GEOMETRIA ANALÍTICA",
+            "semester": "2018.2",
+            "professor": "MAURICIO CARDOSO SANTOS",
+            "horario": "35N12",
+            "local": "CAA 103 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1103177",
+        "name": "CÁLCULO DIFERENCIAL E INTEGRAL I",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1103177",
+            "turmaid": "06",
+            "nome": " CÁLCULO DIFERENCIAL E INTEGRAL I",
+            "semester": "2018.2",
+            "professor": "EVERALDO SOUTO DE MEDEIROS",
+            "horario": "24M23",
+            "local": "CAB 106 (PRG)"
+          },
+          {
+            "id": "1103177",
+            "turmaid": "07",
+            "nome": " CÁLCULO DIFERENCIAL E INTEGRAL I",
+            "semester": "2018.2",
+            "professor": "EVERALDO SOUTO DE MEDEIROS",
+            "horario": "24T45",
+            "local": "CAA 102 (PRG)"
+          },
+          {
+            "id": "1103177",
+            "turmaid": "11",
+            "nome": " CÁLCULO DIFERENCIAL E INTEGRAL I",
+            "semester": "2018.2",
+            "professor": "FELIPE WALLISON CHAVES SILVA",
+            "horario": "24N34",
+            "local": "CAA 105 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1103189",
+        "name": "ARGUMENTACAO EM MATEMATICA",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1103192",
+        "name": "METODOLOGIA DO TRABALHO CIENTIFICO MAT",
+        "category": "Complementar Obrigatória",
+        "semester": 1,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1107174",
+        "name": "INICIACAO A COMPUTACAO",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1107174",
+            "turmaid": "03",
+            "nome": " INICIACAO A COMPUTACAO",
+            "semester": "2018.2",
+            "professor": "ALVARO FRANCISCO DE CASTRO MEDEIROS",
+            "horario": "35N34",
+            "local": "CAB 106 (PRG)"
+          },
+          {
+            "id": "1107174",
+            "turmaid": "04",
+            "nome": " INICIACAO A COMPUTACAO",
+            "semester": "2018.2",
+            "professor": "CARLOS ALBERTO NUNES MACHADO",
+            "horario": "35M45",
+            "local": "CAB 104 (PRG)"
+          },
+          {
+            "id": "1107174",
+            "turmaid": "05",
+            "nome": " INICIACAO A COMPUTACAO",
+            "semester": "2018.2",
+            "professor": "YURI GONZAGA GONÇALVES DA COSTA",
+            "horario": "35M45",
+            "local": "CAA 104 (PRG)"
+          },
+          {
+            "id": "1107174",
+            "turmaid": "06",
+            "nome": " INICIACAO A COMPUTACAO",
+            "semester": "2018.2",
+            "professor": "GIORGIA DE OLIVEIRA MATTOS",
+            "horario": "35T45",
+            "local": "CAE 111 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1107190",
+        "name": "INTRODUÇÃO A COMPUTAÇÃO GRÁFICA",
+        "category": "Optativa",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1107174"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1101157",
+        "name": "FISICA GERAL I",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1101157",
+            "turmaid": "05",
+            "nome": " FISICA GERAL I",
+            "semester": "2018.2",
+            "professor": "A DEFINIR",
+            "horario": "24M45",
+            "local": "CAB 102 (PRG)"
+          },
+          {
+            "id": "1101157",
+            "turmaid": "11",
+            "nome": " FISICA GERAL I",
+            "semester": "2018.2",
+            "professor": "A DEFINIR",
+            "horario": "24N12",
+            "local": "CAA 105 (PRG)"
+          }
+        ],
+        "prerequisites": [
+          "1103177",
+          "1103118"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1103178",
+        "name": "CALCULO DIFERENCIAL E INTEGRAL II",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1103178",
+            "turmaid": "06",
+            "nome": " CALCULO DIFERENCIAL E INTEGRAL II",
+            "semester": "2018.2",
+            "professor": "UBERLANDIO BATISTA SEVERO",
+            "horario": "24M23",
+            "local": "CAB 101 (PRG)"
+          },
+          {
+            "id": "1103178",
+            "turmaid": "07",
+            "nome": " CALCULO DIFERENCIAL E INTEGRAL II",
+            "semester": "2018.2",
+            "professor": "PEDRO ANTONIO GOMEZ VENEGAS",
+            "horario": "24T45",
+            "local": "CAA 104 (PRG)"
+          },
+          {
+            "id": "1103178",
+            "turmaid": "08",
+            "nome": " CALCULO DIFERENCIAL E INTEGRAL II",
+            "semester": "2018.2",
+            "professor": "Wállace Mangueira de Sousa",
+            "horario": "24T45",
+            "local": "CAB 106 (PRG)"
+          },
+          {
+            "id": "1103178",
+            "turmaid": "11",
+            "nome": " CALCULO DIFERENCIAL E INTEGRAL II",
+            "semester": "2018.2",
+            "professor": "Wállace Mangueira de Sousa",
+            "horario": "24N34",
+            "local": "CAA 102 (PRG)"
+          }
+        ],
+        "prerequisites": [
+          "1103177",
+          "1103114"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1103179",
+        "name": "INTRODUCAO A ALGEBRA LINEAR",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1103179",
+            "turmaid": "05",
+            "nome": " INTRODUCAO A ALGEBRA LINEAR",
+            "semester": "2018.2",
+            "professor": "ROBERTO CALLEJAS BEDREGAL",
+            "horario": "35M23",
+            "local": "CAC 108 (PRG)"
+          },
+          {
+            "id": "1103179",
+            "turmaid": "06",
+            "nome": " INTRODUCAO A ALGEBRA LINEAR",
+            "semester": "2018.2",
+            "professor": "DANIEL MARINHO PELLEGRINO",
+            "horario": "35M23",
+            "local": "CAE 111 (PRG)"
+          },
+          {
+            "id": "1103179",
+            "turmaid": "08",
+            "nome": " INTRODUCAO A ALGEBRA LINEAR",
+            "semester": "2018.2",
+            "professor": "FAGNER DIAS ARARUNA",
+            "horario": "35T23",
+            "local": "CAB 106 (PRG)"
+          },
+          {
+            "id": "1103179",
+            "turmaid": "11",
+            "nome": " INTRODUCAO A ALGEBRA LINEAR",
+            "semester": "2018.2",
+            "professor": "AURELIO MENEGON NETO",
+            "horario": "35N12",
+            "local": "CAA 101 (PRG)"
+          }
+        ],
+        "prerequisites": [
+          "1103118"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1103183",
+        "name": "MATEMATICA ELEMENTAR I",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1103183",
+            "turmaid": "01",
+            "nome": " MATEMATICA ELEMENTAR I",
+            "semester": "2018.2",
+            "professor": "MIRIAM DA SILVA PEREIRA",
+            "horario": "36M45",
+            "local": "CAA 103 (PRG)"
+          },
+          {
+            "id": "1103183",
+            "turmaid": "02",
+            "nome": " MATEMATICA ELEMENTAR I",
+            "semester": "2018.2",
+            "professor": "NAPOLEON CARO TUESTA",
+            "horario": "36N34",
+            "local": "CAA 102 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1103193",
+        "name": "PESQUISA APLICADA A MATEMATICA",
+        "category": "Complementar Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1103193",
+            "turmaid": "01",
+            "nome": " PESQUISA APLICADA A MATEMATICA",
+            "semester": "2018.2",
+            "professor": "FLAVIA JERONIMO BARBOSA",
+            "horario": "35T45",
+            "local": "CAA 104 (PRG)"
+          },
+          {
+            "id": "1103193",
+            "turmaid": "02",
+            "nome": " PESQUISA APLICADA A MATEMATICA",
+            "semester": "2018.2",
+            "professor": "ROGERIA GAUDENCIO DO REGO",
+            "horario": "5N34 6N12",
+            "local": "CAB 104 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1103182",
+        "name": "INTRODUCAO A CRIPTOGRAFIA",
+        "category": "Optativa",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1103183"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1103202",
+        "name": "TEORIA DOS NUMEROS",
+        "category": "Optativa",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1103183"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1103223",
+        "name": "FUNDAMENTOS DA MATEMATICA",
+        "category": "Optativa",
+        "semester": 3,
+        "workload": "90h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1103223",
+            "turmaid": "01",
+            "nome": " FUNDAMENTOS DA MATEMATICA",
+            "semester": "2018.2",
+            "professor": "BRUNO HENRIQUE CARVALHO RIBEIRO",
+            "horario": "246M45",
+            "local": "CAD 107 (PRG)"
+          },
+          {
+            "id": "1103223",
+            "turmaid": "02",
+            "nome": " FUNDAMENTOS DA MATEMATICA",
+            "semester": "2018.2",
+            "professor": "JOSE NAELITON MARQUES DA SILVA",
+            "horario": "246N34",
+            "local": "CAD 106 (PRG)"
+          }
+        ],
+        "prerequisites": [
+          "1103153",
+          "1103183"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1103180",
+        "name": "SERIES E EQUACOES DIF ORDINARIAS",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1103180",
+            "turmaid": "01",
+            "nome": " SERIES E EQUACOES DIF ORDINARIAS",
+            "semester": "2018.2",
+            "professor": "CARLOS BOCKER NETO",
+            "horario": "35M23",
+            "local": "CAF 111 (PRG)"
+          },
+          {
+            "id": "1103180",
+            "turmaid": "05",
+            "nome": " SERIES E EQUACOES DIF ORDINARIAS",
+            "semester": "2018.2",
+            "professor": "NACIB ANDRE GURGEL E ALBUQUERQUE",
+            "horario": "35T45",
+            "local": "CAA 101 (PRG)"
+          },
+          {
+            "id": "1103180",
+            "turmaid": "08",
+            "nome": " SERIES E EQUACOES DIF ORDINARIAS",
+            "semester": "2018.2",
+            "professor": "LIZANDRO SANCHEZ CHALLAPA",
+            "horario": "35N34",
+            "local": "CAA 103 (PRG)"
+          }
+        ],
+        "prerequisites": [
+          "1103178",
+          "1103179"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1103184",
+        "name": "MATEMATICA ELEMENTAR II",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1103184",
+            "turmaid": "01",
+            "nome": " MATEMATICA ELEMENTAR II",
+            "semester": "2018.2",
+            "professor": "LIZANDRO SANCHEZ CHALLAPA",
+            "horario": "24N34",
+            "local": "CAD 107 (PRG)"
+          }
+        ],
+        "prerequisites": [
+          "1103183"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1103225",
+        "name": "INTRODUCAO A ALGEBRA",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "90h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1103183"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1103232",
+        "name": "CALCULO DIF  E INTEGRAL III",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1103232",
+            "turmaid": "05",
+            "nome": " CALCULO DIF  E INTEGRAL III",
+            "semester": "2018.2",
+            "professor": "EDUARDO GONCALVES DOS SANTOS",
+            "horario": "24M23",
+            "local": "CAG 106 (PRG)"
+          },
+          {
+            "id": "1103232",
+            "turmaid": "08",
+            "nome": " CALCULO DIF  E INTEGRAL III",
+            "semester": "2018.2",
+            "professor": "LENIMAR NUNES DE ANDRADE",
+            "horario": "24T45",
+            "local": "CAC 108 (PRG)"
+          },
+          {
+            "id": "1103232",
+            "turmaid": "09",
+            "nome": " CALCULO DIF  E INTEGRAL III",
+            "semester": "2018.2",
+            "professor": "ALBERTO MASAYOSHI FARIA OHASHI",
+            "horario": "24N34",
+            "local": "CAA 103 (PRG)"
+          }
+        ],
+        "prerequisites": [
+          "1103178",
+          "1103118"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1108100",
+        "name": "CÁLCULO DAS PROBABILIDADES E  ESTATÍSTICA I",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1108100",
+            "turmaid": "06",
+            "nome": " CÁLCULO DAS PROBABILIDADES E  ESTATÍSTICA I",
+            "semester": "2018.2",
+            "professor": "FRANCISCO ELMIRO DE SOUSA FILHO e TATIENE CORREIA DE SOUZA",
+            "horario": "35T23",
+            "local": "CAE 111 (PRG)"
+          },
+          {
+            "id": "1108100",
+            "turmaid": "09",
+            "nome": " CÁLCULO DAS PROBABILIDADES E  ESTATÍSTICA I",
+            "semester": "2018.2",
+            "professor": "ANA HERMINIA ANDRADE E SILVA e JULYANA KELLY TAVARES DE ARAUJO",
+            "horario": "35N12",
+            "local": "CAB 106 (PRG)"
+          }
+        ],
+        "prerequisites": [
+          "1103178"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1103196",
+        "name": "INTROD A TEOR DOS COD CORRET DE ERROS",
+        "category": "Optativa",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1103179",
+          "1103225"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1103198",
+        "name": "INTRODUCAO A ALGEBRA COMUTATIVA",
+        "category": "Optativa",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1103225",
+          "1103179"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1103199",
+        "name": "INTRODUCAO A GEOMETRIA ALGEBRICA",
+        "category": "Optativa",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1103179",
+          "1103225"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1103207",
+        "name": "TOPICOS ESPECIAIS EM MATEMATICA I",
+        "category": "Complementar Flexiva",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1108162",
+        "name": "PROGRAMACAO MATEMATICA",
+        "category": "Optativa",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1103228",
+          "1103232",
+          "1103112",
+          "1103179"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1108169",
+        "name": "CALCULO DAS PROB  E ESTATISTICA IIMAT",
+        "category": "Optativa",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1108100"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1108172",
+        "name": "OTIMIZACAO LINEAR",
+        "category": "Optativa",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1103112",
+          "1103228",
+          "1103232",
+          "1103179"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1101163",
+        "name": "FISICA GERAL II",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1101163",
+            "turmaid": "03",
+            "nome": " FISICA GERAL II",
+            "semester": "2018.2",
+            "professor": "A DEFINIR",
+            "horario": "24M45",
+            "local": "CAB 103 (PRG)"
+          }
+        ],
+        "prerequisites": [
+          "1101157"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1103226",
+        "name": "INTRODUCAO A ANALISE REAL",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "90h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1103226",
+            "turmaid": "01",
+            "nome": " INTRODUCAO A ANALISE REAL",
+            "semester": "2018.2",
+            "professor": "MAURICIO CARDOSO SANTOS",
+            "horario": "246M23",
+            "local": "CAB 103 (PRG)"
+          }
+        ],
+        "prerequisites": [
+          "1103180",
+          "1103183"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDCOC0072",
+        "name": "CALCULO NUMERICO",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDCOC0072",
+            "turmaid": "03",
+            "nome": " CALCULO NUMERICO",
+            "semester": "2018.2",
+            "professor": "APARECIDO JESUINO DE SOUZA",
+            "horario": "35M45",
+            "local": "CAA 105 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1103200",
+        "name": "ANALISE NUMERICA",
+        "category": "Optativa",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1103176",
+          "1103226"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1103208",
+        "name": "TOPICOS ESPECIAIS EM MATEMATICA II",
+        "category": "Complementar Flexiva",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1101164",
+        "name": "FISICA GERAL III",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1101164",
+            "turmaid": "03",
+            "nome": " FISICA GERAL III",
+            "semester": "2018.2",
+            "professor": "A DEFINIR",
+            "horario": "24M45",
+            "local": "CAA 104 (PRG)"
+          }
+        ],
+        "prerequisites": [
+          "1101163",
+          "1101118"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1103111",
+        "name": "CALCULO AVANCADO",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1103179",
+          "1103232"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1103187",
+        "name": "ALGEBRA LINEAR I",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1103179"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1103190",
+        "name": "ESTAGIO SUPERVISIONADO I MATEMBACH",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "105h aula 0h lab.",
+        "type": "ESTÁGIO",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1103228",
+          "1103232"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1103239",
+        "name": "ALGEBRA I MAT",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1103225"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1103209",
+        "name": "TOPICOS ESPECIAIS EM MATEMATICA III",
+        "category": "Complementar Flexiva",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1101120",
+        "name": "FISICA GERAL IV",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1101120",
+            "turmaid": "01",
+            "nome": " FISICA GERAL IV",
+            "semester": "2018.2",
+            "professor": "A DEFINIR",
+            "horario": "24M45",
+            "local": "CAA 105 (PRG)"
+          }
+        ],
+        "prerequisites": [
+          "1101164",
+          "1101119"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1103128",
+        "name": "FUNCOES DE UMA VARIAVEL COMPLEXA",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1103128",
+            "turmaid": "01",
+            "nome": " FUNCOES DE UMA VARIAVEL COMPLEXA",
+            "semester": "2018.2",
+            "professor": "DAMIAO JUNIO GONCALVES ARAUJO",
+            "horario": "24T23",
+            "local": "CAA 106 (PRG)"
+          },
+          {
+            "id": "1103128",
+            "turmaid": "02",
+            "nome": " FUNCOES DE UMA VARIAVEL COMPLEXA",
+            "semester": "2018.2",
+            "professor": "DAMIAO JUNIO GONCALVES ARAUJO",
+            "horario": "24N12",
+            "local": "CAB 104 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1103186",
+        "name": "TOPOLOGIA DOS ESPACOS METRICOS",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1103186",
+            "turmaid": "01",
+            "nome": " TOPOLOGIA DOS ESPACOS METRICOS",
+            "semester": "2018.2",
+            "professor": "MANASSES XAVIER DE SOUZA",
+            "horario": "35M45",
+            "local": "CAA 102 (PRG)"
+          }
+        ],
+        "prerequisites": [
+          "1103142",
+          "1103226"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1103191",
+        "name": "ESTAGIO SUPERVISIONADO II MATEMBACH",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "105h aula 0h lab.",
+        "type": "ESTÁGIO",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1103190"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1103195",
+        "name": "ALGEBRA LINEAR II",
+        "category": "Complementar Obrigatória",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1103195",
+            "turmaid": "01",
+            "nome": " ALGEBRA LINEAR II",
+            "semester": "2018.2",
+            "professor": "CLETO BRASILEIRO MIRANDA NETO",
+            "horario": "24M23",
+            "local": "CAD 107 (PRG)"
+          }
+        ],
+        "prerequisites": [
+          "1103187"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1103107",
+        "name": "ANALISE COMPLEXA",
+        "category": "Optativa",
+        "semester": 7,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1103226",
+          "1103185"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1103172",
+        "name": "TOPOLOGIA GERAL",
+        "category": "Optativa",
+        "semester": 7,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1103172",
+            "turmaid": "01",
+            "nome": " TOPOLOGIA GERAL",
+            "semester": "2018.2",
+            "professor": "AURELIO MENEGON NETO",
+            "horario": "24T23",
+            "local": "CAB 105 (PRG)"
+          }
+        ],
+        "prerequisites": [
+          "1103186"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1103201",
+        "name": "TOPICOS DE MATEMATICA APLICADA",
+        "category": "Optativa",
+        "semester": 7,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1103186"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1103210",
+        "name": "TOPICOS ESPECIAIS EM MATEMATICA IV",
+        "category": "Complementar Flexiva",
+        "semester": 7,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1103109",
+        "name": "ANALISE REAL I",
+        "category": "Obrigatória",
+        "semester": 7,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1103111",
+          "1103226"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1103123",
+        "name": "EQUACOES DIFERENCIAIS ORDINARIAS",
+        "category": "Obrigatória",
+        "semester": 7,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1103186"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1103144",
+        "name": "INTRODUCAO A GEOMETRIA DIFERENCIAL",
+        "category": "Obrigatória",
+        "semester": 7,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1103111"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1103203",
+        "name": "ESTAGIO SUPERVISIONADO III MATEMBACH",
+        "category": "Obrigatória",
+        "semester": 7,
+        "workload": "90h aula 0h lab.",
+        "type": "ESTÁGIO",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1103191",
+          "1103255"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1103240",
+        "name": "ALGEBRA II MAT",
+        "category": "Complementar Obrigatória",
+        "semester": 7,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1103239"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1103110",
+        "name": "ANALISE REAL II",
+        "category": "Optativa",
+        "semester": 8,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1103109"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1103197",
+        "name": "ELEMENTOS DE CALCULO DAS VARIACOES",
+        "category": "Optativa",
+        "semester": 8,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1103109"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1103211",
+        "name": "TOPICOS ESPECIAIS EM MATEMATICA V",
+        "category": "Complementar Flexiva",
+        "semester": 8,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1103124",
+        "name": "EQUACOES DIFERENCIAIS PARCIAIS",
+        "category": "Complementar Obrigatória",
+        "semester": 8,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1103124",
+            "turmaid": "01",
+            "nome": " EQUACOES DIFERENCIAIS PARCIAIS",
+            "semester": "2018.2",
+            "professor": "FLANK DAVID MORAIS BEZERRA",
+            "horario": "35T45",
+            "local": "CAD 109 (PRG)"
+          }
+        ],
+        "prerequisites": [
+          "1103123"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1103188",
+        "name": "INTRODUCAO A MATEMATICA APLICADA",
+        "category": "Obrigatória",
+        "semester": 8,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1103188",
+            "turmaid": "01",
+            "nome": " INTRODUCAO A MATEMATICA APLICADA",
+            "semester": "2018.2",
+            "professor": "MILTON DE LACERDA OLIVEIRA",
+            "horario": "24T45",
+            "local": "CAB 105 (PRG)"
+          }
+        ],
+        "prerequisites": [
+          "1103180"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1103194",
+        "name": "TRABALHO DE CONCLUSAO DE CURSO MAT",
+        "category": "Complementar Obrigatória",
+        "semester": 8,
+        "workload": "120h aula 0h lab.",
+        "type": "TRABALHO DE CONCLUSÃO DE CURSO",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1103225",
+          "1103138",
+          "1103226",
+          "1103203",
+          "1103193",
+          "1103192"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1302324",
+        "name": " ALFABETIZACAO DE JOVENS E ADULTOS",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": "60h",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1302324",
+            "turmaid": "01",
+            "nome": " ALFABETIZACAO DE JOVENS E ADULTOS",
+            "semester": "2018.2",
+            "professor": "QUÉZIA VILA FLOR FURTADO",
+            "horario": "3N1234",
+            "local": "CE 305 (CE)"
+          },
+          {
+            "id": "1302324",
+            "turmaid": "02",
+            "nome": " ALFABETIZACAO DE JOVENS E ADULTOS",
+            "semester": "2018.2",
+            "professor": "TIMOTHY DENIS IRELAND",
+            "horario": "3T1234",
+            "local": "CE 306 (CE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1303196",
+        "name": " CURRICULO E TRABALHO PEDAGOGICO",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": "60h",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1303196",
+            "turmaid": "01",
+            "nome": " CURRICULO E TRABALHO PEDAGOGICO",
+            "semester": "2018.2",
+            "professor": "JOSÉ LEONARDO ROLIM DE LIMA SEVERO",
+            "horario": "3N1234",
+            "local": "CAG 101 (PRG)"
+          },
+          {
+            "id": "1303196",
+            "turmaid": "02",
+            "nome": " CURRICULO E TRABALHO PEDAGOGICO",
+            "semester": "2018.2",
+            "professor": "ANA CELIA SILVA MENEZES",
+            "horario": "5M1234",
+            "local": "CAH 107 (PRG)"
+          },
+          {
+            "id": "1303196",
+            "turmaid": "04",
+            "nome": " CURRICULO E TRABALHO PEDAGOGICO",
+            "semester": "2018.2",
+            "professor": "JEANE FELIX DA SILVA",
+            "horario": "4N1234",
+            "local": "CAH 108 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1303210",
+        "name": " CURRICULO E TRABALHO PEDAGOGICO",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": "60h",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1303210",
+            "turmaid": "05",
+            "nome": " CURRICULO E TRABALHO PEDAGOGICO",
+            "semester": "2018.2",
+            "professor": "JEANE FELIX DA SILVA",
+            "horario": "2T345 4T5",
+            "local": "CE 307 (CE)"
+          },
+          {
+            "id": "1303210",
+            "turmaid": "06",
+            "nome": " CURRICULO E TRABALHO PEDAGOGICO",
+            "semester": "2018.2",
+            "professor": "MARIA ZULEIDE DA COSTA PEREIRA",
+            "horario": "2M5 3M345",
+            "local": "CE 303 (CE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1302105",
+        "name": " DIDÁTICA",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": "60h",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1302105",
+            "turmaid": "04",
+            "nome": " DIDÁTICA",
+            "semester": "2018.2",
+            "professor": "DANIEL FIGUEIRAS ALVES",
+            "horario": "3M3456",
+            "local": "CE 305 (CE)"
+          },
+          {
+            "id": "1302105",
+            "turmaid": "09",
+            "nome": " DIDÁTICA",
+            "semester": "2018.2",
+            "professor": "ISOLDA AYRES VIANA RAMOS",
+            "horario": "4N1234",
+            "local": "CAB 105 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1301244",
+        "name": " ECONOMIA DA EDUCACAO",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": "60h",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1301244",
+            "turmaid": "01",
+            "nome": " ECONOMIA DA EDUCACAO",
+            "semester": "2018.2",
+            "professor": "MARIA APARECIDA NUNES PEREIRA",
+            "horario": "45M45",
+            "local": "CE 301 (CE)"
+          },
+          {
+            "id": "1301244",
+            "turmaid": "03",
+            "nome": " ECONOMIA DA EDUCACAO",
+            "semester": "2018.2",
+            "professor": "VIRGINIA MARIA MAGLIANO DE MORAIS",
+            "horario": "5N1234",
+            "local": "CE 302 (CE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1301204",
+        "name": " EDUCAÇÃO SEXUAL",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": "60h",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1301204",
+            "turmaid": "01",
+            "nome": " EDUCAÇÃO SEXUAL",
+            "semester": "2018.2",
+            "professor": "REBECKA WANDERLEY TANNUSS",
+            "horario": "6M1234",
+            "local": "CAB 104 (PRG)"
+          },
+          {
+            "id": "1301204",
+            "turmaid": "03",
+            "nome": " EDUCAÇÃO SEXUAL",
+            "semester": "2018.2",
+            "professor": "A DEFINIR",
+            "horario": "6N1234",
+            "local": "CAD 109 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDMTE0127",
+        "name": " MAT. LIC.",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": "60h",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDMTE0127",
+            "turmaid": "01",
+            "nome": " MAT. LIC.",
+            "semester": "2018.2",
+            "professor": "ROOSEVELT IMPERIANO DA SILVA",
+            "horario": "4M1234 6M123 (22/11/2018 - 10/05/2019)",
+            "local": "CCENB3 (CCEN)"
+          },
+          {
+            "id": "GDMTE0127",
+            "turmaid": "02",
+            "nome": " MAT. LIC.",
+            "semester": "2018.2",
+            "professor": "ROOSEVELT IMPERIANO DA SILVA e EDISON THADEU BICHARA DANTAS",
+            "horario": "2N1234 4N123 (22/11/2018 - 10/05/2019)",
+            "local": "CAH 103 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDMTE0126",
+        "name": " MAT. LIC.",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": "30h",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDMTE0126",
+            "turmaid": "01",
+            "nome": " MAT. LIC.",
+            "semester": "2018.2",
+            "professor": "ROOSEVELT IMPERIANO DA SILVA e EDISON THADEU BICHARA DANTAS",
+            "horario": "5N1234 7N123 (22/11/2018 - 10/05/2019)",
+            "local": "CAB 105 (PRG)"
+          },
+          {
+            "id": "GDMTE0126",
+            "turmaid": "02",
+            "nome": " MAT. LIC.",
+            "semester": "2018.2",
+            "professor": "ROOSEVELT IMPERIANO DA SILVA",
+            "horario": "3T2345 6T234 (22/11/2018 - 10/05/2019)",
+            "local": "CCENB3 (CCEN)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDMTE0125",
+        "name": " MAT. LIC.",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": "60h",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDMTE0125",
+            "turmaid": "01",
+            "nome": " MAT. LIC.",
+            "semester": "2018.2",
+            "professor": "VINICIUS VARELLA FERREIRA",
+            "horario": "3M2345 5M234 (22/11/2018 - 10/05/2019)",
+            "local": "CAE 104 (PRG)"
+          },
+          {
+            "id": "GDMTE0125",
+            "turmaid": "02",
+            "nome": " MAT. LIC.",
+            "semester": "2018.2",
+            "professor": "VINICIUS VARELLA FERREIRA",
+            "horario": "3N1234 5N123 (22/11/2018 - 10/05/2019)",
+            "local": "CAF 106 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDMTE0128",
+        "name": " MAT. LIC.",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": "30h",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDMTE0128",
+            "turmaid": "01",
+            "nome": " MAT. LIC.",
+            "semester": "2018.2",
+            "professor": "ROOSEVELT IMPERIANO DA SILVA e EDISON THADEU BICHARA DANTAS",
+            "horario": "7T12 6N1234 (22/11/2018 - 10/05/2019)",
+            "local": "CAD 101 (PRG)"
+          },
+          {
+            "id": "GDMTE0128",
+            "turmaid": "02",
+            "nome": " MAT. LIC.",
+            "semester": "2018.2",
+            "professor": "ROOSEVELT IMPERIANO DA SILVA",
+            "horario": "35M234 (22/11/2018 - 10/05/2019)",
+            "local": "CCENA 101 (CCEN)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1301146",
+        "name": " FUND ADM EDUCACAO",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": "60h",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1301146",
+            "turmaid": "01",
+            "nome": " FUND ADM EDUCACAO",
+            "semester": "2018.2",
+            "professor": "MARISETE FERNANDES DE LIMA",
+            "horario": "2N1234",
+            "local": "CAD 103 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1301195",
+        "name": " FUNDAMENTOS  ANTROPOFILOSÓFICO DA EDUCAÇÃO",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": "60h",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1301195",
+            "turmaid": "02",
+            "nome": " FUNDAMENTOS  ANTROPOFILOSÓFICO DA EDUCAÇÃO",
+            "semester": "2018.2",
+            "professor": "ROBERTO RONDON",
+            "horario": "3M1234",
+            "local": "CAE 109 (PRG)"
+          },
+          {
+            "id": "1301195",
+            "turmaid": "08",
+            "nome": " FUNDAMENTOS  ANTROPOFILOSÓFICO DA EDUCAÇÃO",
+            "semester": "2018.2",
+            "professor": "FABIOLA BARROCAS TAVARES",
+            "horario": "2N1234",
+            "local": "CAH 108 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1301201",
+        "name": " FUNDAMENTOS PSICOLÓGICOS DA EDUCAÇÃO",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": "60h",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1301201",
+            "turmaid": "04",
+            "nome": " FUNDAMENTOS PSICOLÓGICOS DA EDUCAÇÃO",
+            "semester": "2018.2",
+            "professor": "LUIZ PEREIRA DE LIMA JUNIOR",
+            "horario": "3T1234",
+            "local": "CAB 102 (PRG)"
+          },
+          {
+            "id": "1301201",
+            "turmaid": "11",
+            "nome": " FUNDAMENTOS PSICOLÓGICOS DA EDUCAÇÃO",
+            "semester": "2018.2",
+            "professor": "A DEFINIR",
+            "horario": "5N1234",
+            "local": "CAH 108 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1301200",
+        "name": " FUNDAMENTOS SOCIOHISTÓRICOS DA EDUCAÇÃO",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": "60h",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1301200",
+            "turmaid": "02",
+            "nome": " FUNDAMENTOS SOCIOHISTÓRICOS DA EDUCAÇÃO",
+            "semester": "2018.2",
+            "professor": "OSVALDO BARBOSA MAIA",
+            "horario": "5M1234",
+            "local": "CAE 108 (PRG)"
+          },
+          {
+            "id": "1301200",
+            "turmaid": "07",
+            "nome": " FUNDAMENTOS SOCIOHISTÓRICOS DA EDUCAÇÃO",
+            "semester": "2018.2",
+            "professor": "ROMILDO RAPOSO FERNANDES",
+            "horario": "2N1234",
+            "local": "CCHLA 414 BLOCO I CENTRAL DE AULAS (CCHLA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1103205",
+        "name": " MATEMATICA PARA ENSINO BASICO I",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": "90h",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1103205",
+            "turmaid": "01",
+            "nome": " MATEMATICA PARA ENSINO BASICO I",
+            "semester": "2018.2",
+            "professor": "JOAO BATISTA ALVES PARENTE",
+            "horario": "246M23",
+            "local": "CAD 102 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1103206",
+        "name": " MATEMATICA PARA ENSINO BASICO II",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": "90h",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1103206",
+            "turmaid": "01",
+            "nome": " MATEMATICA PARA ENSINO BASICO II",
+            "semester": "2018.2",
+            "professor": "ADRIANO ALVES DE MEDEIROS",
+            "horario": "246N12",
+            "local": "CAD 105 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1303197",
+        "name": " PESQUISA E COTIDIANO ESCOLAR",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": "60h",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1303197",
+            "turmaid": "03",
+            "nome": " PESQUISA E COTIDIANO ESCOLAR",
+            "semester": "2018.2",
+            "professor": "GIULIANA CAVALCANTI VASCONCELOS",
+            "horario": "5N1234",
+            "local": "CAH 101 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1303180",
+        "name": " POLITICA E GESTAO DA EDUCACAO",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": "60h",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1303180",
+            "turmaid": "03",
+            "nome": " POLITICA E GESTAO DA EDUCACAO",
+            "semester": "2018.2",
+            "professor": "LUIZ DE SOUSA JUNIOR",
+            "horario": "3N1234",
+            "local": "CAG 105 (PRG)"
+          },
+          {
+            "id": "1303180",
+            "turmaid": "05",
+            "nome": " POLITICA E GESTAO DA EDUCACAO",
+            "semester": "2018.2",
+            "professor": "MARCOS ANGELUS MIRANDA DE ALCANTARA",
+            "horario": "5N1234",
+            "local": "CAF 105 (PRG)"
+          },
+          {
+            "id": "1303180",
+            "turmaid": "08",
+            "nome": " POLITICA E GESTAO DA EDUCACAO",
+            "semester": "2018.2",
+            "professor": "CARLOS EDUARDO REBUA OLIVEIRA",
+            "horario": "3T1234",
+            "local": "CE 304 (CE)"
+          },
+          {
+            "id": "1303180",
+            "turmaid": "09",
+            "nome": " POLITICA E GESTAO DA EDUCACAO",
+            "semester": "2018.2",
+            "professor": "ALEXANDRE ANTONIO GILI NADER",
+            "horario": "2T2345",
+            "local": "CAH 102 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+          "1303208"
+        ]
+      },
+      {
+        "id": "1103204",
+        "name": " TRATAMENTO DA INFORMACAO",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": "60h",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1103204",
+            "turmaid": "01",
+            "nome": " TRATAMENTO DA INFORMACAO",
+            "semester": "2018.2",
+            "professor": "ELISANDRA DE FATIMA GLOSS DE MORAES",
+            "horario": "246M23",
+            "local": "CAD 101 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      }
+    ]
+  }
+}

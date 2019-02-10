@@ -1,0 +1,1420 @@
+{
+  "curriculum": {
+    "id": "552010",
+    "codigo": "1626818",
+    "name": "PSICOPEDAGOGIA (BACH) - João Pessoa - Presencial - T - BACHARELADO",
+    "faculty": "CENTRO DE EDUCAÇÃO (CE) (11.00.56)",
+    "minch": "255",
+    "maxch": "525",
+    "semesters": 7,
+    "courses": [
+      {
+        "id": "1305098",
+        "name": "ECOLOGIA DO DESENVOLVIMENTO HUMANO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1305101",
+        "name": "PSICODRAMA PSICOPEDAGÓGICO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1403747",
+        "name": "LIBRAS  LÍNGUA BRASILEIRA DE SINAIS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDLS0024",
+        "name": "LIBRAS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1305049",
+        "name": "MATRIZ EPIST DAS TEORIAS DA APRENDIZAGEM",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1305049",
+            "turmaid": "01",
+            "nome": " MATRIZ EPIST DAS TEORIAS DA APRENDIZAGEM",
+            "semester": "2018.2",
+            "professor": "ADRIANA DE ANDRADE GAIAO E BARBOSA",
+            "horario": "4T123 6T1",
+            "local": "CE 322 (CE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1305050",
+        "name": "CONSTRUCAO DA LEITURA E DA ESCRITA",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1305050",
+            "turmaid": "01",
+            "nome": " CONSTRUCAO DA LEITURA E DA ESCRITA",
+            "semester": "2018.2",
+            "professor": "PATRICIA BATISTA BEZERRA RAMOS",
+            "horario": "2T45 6T23",
+            "local": "CE 322 (CE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1305051",
+        "name": "EPISTEMOLOGIA DA PSICOPEDAGOGIA",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1305051",
+            "turmaid": "01",
+            "nome": " EPISTEMOLOGIA DA PSICOPEDAGOGIA",
+            "semester": "2018.2",
+            "professor": "ROBERTO DERIVALDO ANSELMO",
+            "horario": "2T123 3T3",
+            "local": "CE 322 (CE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1305052",
+        "name": "METOD DO TRABALHO CIENTIFICO PSICOP",
+        "category": "Complementar Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1305052",
+            "turmaid": "01",
+            "nome": " METOD DO TRABALHO CIENTIFICO PSICOP",
+            "semester": "2018.2",
+            "professor": "VIVIANY SILVA ARAUJO PESSOA",
+            "horario": "3T45 5T23",
+            "local": "CE 322 (CE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1305053",
+        "name": "DESENV INFANTOJUVENIL E APRENDIZAGEM",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1305053",
+            "turmaid": "01",
+            "nome": " DESENV INFANTOJUVENIL E APRENDIZAGEM",
+            "semester": "2018.2",
+            "professor": "FLÁVIA MOURA DE MOURA",
+            "horario": "46T45",
+            "local": "CE 322 (CE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1305054",
+        "name": "EST DE HIST DA EDUC EM PSICOPEDAGOGIA",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1305054",
+            "turmaid": "01",
+            "nome": " EST DE HIST DA EDUC EM PSICOPEDAGOGIA",
+            "semester": "2018.2",
+            "professor": "EDER DA SILVA DANTAS",
+            "horario": "3T12 5T45",
+            "local": "CE 322 (CE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1305055",
+        "name": "PSICOMOTRICIDADE",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1305055",
+            "turmaid": "01",
+            "nome": " PSICOMOTRICIDADE",
+            "semester": "2018.2",
+            "professor": "A DEFINIR",
+            "horario": "2M45 6M12",
+            "local": "CE 321 (CE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1305056",
+        "name": "NEUROPSICOLOGIA",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1305056",
+            "turmaid": "01",
+            "nome": " NEUROPSICOLOGIA",
+            "semester": "2018.2",
+            "professor": "A DEFINIR",
+            "horario": "4M12 6M34",
+            "local": "CE 321 (CE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1305057",
+        "name": "DISTURBIOS DA APRENDIZAGEM I",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1305057",
+            "turmaid": "01",
+            "nome": " DISTURBIOS DA APRENDIZAGEM I",
+            "semester": "2018.2",
+            "professor": "GEOVANI SOARES DE ASSIS",
+            "horario": "3M23 4M34",
+            "local": "CE 321 (CE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1305059",
+        "name": "DESENVOLVIMENTO ESTETICO E CRIATIVIDADE",
+        "category": "Complementar Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1305059",
+            "turmaid": "01",
+            "nome": " DESENVOLVIMENTO ESTETICO E CRIATIVIDADE",
+            "semester": "2018.2",
+            "professor": "NORMA MARIA DE LIMA",
+            "horario": "4M5 5M123",
+            "local": "CE 321 (CE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1305060",
+        "name": "PSICOPATOLOGIA DA INFANCIA E ADOLESC I",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1305060",
+            "turmaid": "01",
+            "nome": " PSICOPATOLOGIA DA INFANCIA E ADOLESC I",
+            "semester": "2018.2",
+            "professor": "ADRIANA DE ANDRADE GAIAO E BARBOSA",
+            "horario": "2M123 3M1",
+            "local": "CE 323 (CE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1305062",
+        "name": "PSICOSOCIOLOGIA E APRENDIZAGEM",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1305062",
+            "turmaid": "01",
+            "nome": " PSICOSOCIOLOGIA E APRENDIZAGEM",
+            "semester": "2018.2",
+            "professor": "ROBERTO DERIVALDO ANSELMO",
+            "horario": "35M45",
+            "local": "CE 321 (CE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1305058",
+        "name": "DISTURBIOS DA APRENDIZAGEM II",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1305058",
+            "turmaid": "01",
+            "nome": " DISTURBIOS DA APRENDIZAGEM II",
+            "semester": "2018.2",
+            "professor": "GEOVANI SOARES DE ASSIS",
+            "horario": "3T23 4T34",
+            "local": "CE 323 (CE)"
+          }
+        ],
+        "prerequisites": [
+          "1305057",
+          "1305029"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1305061",
+        "name": "PSICOPATOLOGIA DA INFANCIA E ADOLESC II",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1305061",
+            "turmaid": "01",
+            "nome": " PSICOPATOLOGIA DA INFANCIA E ADOLESC II",
+            "semester": "2018.2",
+            "professor": "ADRIANA DE ANDRADE GAIAO E BARBOSA",
+            "horario": "2T123 3T1",
+            "local": "CE 323 (CE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1305063",
+        "name": "AVALIACAO PSICOPEDAGOGICA I",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1305063",
+            "turmaid": "01",
+            "nome": " AVALIACAO PSICOPEDAGOGICA I",
+            "semester": "2018.2",
+            "professor": "FLÁVIA MOURA DE MOURA",
+            "horario": "46T12",
+            "local": "CE 323 (CE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1305065",
+        "name": "METOD E TECN PEDAG NA PSICOPEDAGOGIA",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1305065",
+            "turmaid": "01",
+            "nome": " METOD E TECN PEDAG NA PSICOPEDAGOGIA",
+            "semester": "2018.2",
+            "professor": "MARIA TEREZA LIRA DE OLIVEIRA CHAVES",
+            "horario": "6T345 7T2",
+            "local": "CE 323 (CE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1305066",
+        "name": "NEUROLINGUISTICA",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1305066",
+            "turmaid": "01",
+            "nome": " NEUROLINGUISTICA",
+            "semester": "2018.2",
+            "professor": "JOSE FERRARI NETO",
+            "horario": "4T5 5T345",
+            "local": "CE 323 (CE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1305067",
+        "name": "ESTUDOS ANTROPOLOGICOS EM PSICOPEDAGOGIA",
+        "category": "Complementar Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1305067",
+            "turmaid": "01",
+            "nome": " ESTUDOS ANTROPOLOGICOS EM PSICOPEDAGOGIA",
+            "semester": "2018.2",
+            "professor": "EDER DA SILVA DANTAS",
+            "horario": "3T45 5T12",
+            "local": "CE 323 (CE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1305068",
+        "name": "SEMINARIO TEMATICO EM PSICOPEDAGOGIA I",
+        "category": "Complementar Obrigatória",
+        "semester": 3,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1305068",
+            "turmaid": "01",
+            "nome": " SEMINARIO TEMATICO EM PSICOPEDAGOGIA I",
+            "semester": "2018.2",
+            "professor": "ROBERTO DERIVALDO ANSELMO",
+            "horario": "2T45 7T1",
+            "local": "CE 323 (CE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1305074",
+        "name": "TÓPICOS ESP EM PSICOPEDAGOGIA I",
+        "category": "Complementar Flexiva",
+        "semester": 4,
+        "workload": "75h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1305090",
+        "name": "NOVAS TECNOLOGIAS DE APRENDIZAGEM",
+        "category": "Optativa",
+        "semester": 4,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1305090",
+            "turmaid": "01",
+            "nome": " NOVAS TECNOLOGIAS DE APRENDIZAGEM",
+            "semester": "2018.2",
+            "professor": "FERNANDA MENDES CABRAL ALBUQUERQUE COELHO",
+            "horario": "6T34",
+            "local": "CE 324 (CE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1305096",
+        "name": "POLÍTICAS DE EDUCAÇÃO INCLUSIVA",
+        "category": "Optativa",
+        "semester": 4,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1305096",
+            "turmaid": "01",
+            "nome": " POLÍTICAS DE EDUCAÇÃO INCLUSIVA",
+            "semester": "2018.2",
+            "professor": "ADELAIDE ALVES DIAS",
+            "horario": "2M23",
+            "local": "CE 324 (CE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1305100",
+        "name": "RELAÇÕES INTERP E DINÂMICAS DE GRUPO",
+        "category": "Optativa",
+        "semester": 4,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1305100",
+            "turmaid": "01",
+            "nome": " RELAÇÕES INTERP E DINÂMICAS DE GRUPO",
+            "semester": "2018.2",
+            "professor": "MARIA TEREZA LIRA DE OLIVEIRA CHAVES",
+            "horario": "6T12",
+            "local": "CE 324 (CE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1305064",
+        "name": "AVALIACAO PSICOPEDAGOGICA II",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1305064",
+            "turmaid": "01",
+            "nome": " AVALIACAO PSICOPEDAGOGICA II",
+            "semester": "2018.2",
+            "professor": "CARLA ALEXANDRA DA SILVA MOITA MINERVINO",
+            "horario": "4M345 6M5",
+            "local": "CE 324 (CE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1305070",
+        "name": "TÉCNICAS DE INTERV PSICOPEDAGÓGICA I",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1305070",
+            "turmaid": "01",
+            "nome": " TÉCNICAS DE INTERV PSICOPEDAGÓGICA I",
+            "semester": "2018.2",
+            "professor": "MARCIA PAIVA DE OLIVEIRA",
+            "horario": "2M1 3M345",
+            "local": "CE 324 (CE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1305072",
+        "name": "FAMÍLIA E APRENDIZAGEM",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1305072",
+            "turmaid": "01",
+            "nome": " FAMÍLIA E APRENDIZAGEM",
+            "semester": "2018.2",
+            "professor": "PATRICIA NUNES DA FONSECA",
+            "horario": "46M12",
+            "local": "CE 324 (CE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1305073",
+        "name": "ÉTICA E DEONTOLOGIA",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1305073",
+            "turmaid": "01",
+            "nome": " ÉTICA E DEONTOLOGIA",
+            "semester": "2018.2",
+            "professor": "MARIANA LINS DE OLIVEIRA",
+            "horario": "2M45 3M12",
+            "local": "CE 324 (CE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1305077",
+        "name": "ESTÁGIO SUPERVISIONADO I",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "75h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1305077",
+            "turmaid": "01",
+            "nome": " ESTÁGIO SUPERVISIONADO I",
+            "semester": "2018.2",
+            "professor": "CELIA MARIA CRUZ MARQUES CHAVES",
+            "horario": "5M12345",
+            "local": "CE 324 (CE)"
+          },
+          {
+            "id": "1305077",
+            "turmaid": "02",
+            "nome": " ESTÁGIO SUPERVISIONADO I",
+            "semester": "2018.2",
+            "professor": "GEOVANI SOARES DE ASSIS",
+            "horario": "5M12345",
+            "local": "CE 322 (CE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1305093",
+        "name": "JOGOS BRINQUEDOS E BRINCADEIRAS INFANT",
+        "category": "Optativa",
+        "semester": 5,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1305093",
+            "turmaid": "01",
+            "nome": " JOGOS BRINQUEDOS E BRINCADEIRAS INFANT",
+            "semester": "2018.2",
+            "professor": "NORMA MARIA DE LIMA",
+            "horario": "4T12",
+            "local": "CE 321 (CE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1305099",
+        "name": "PSICOPEDAGOGIA E DIREITOS HUMANOS",
+        "category": "Optativa",
+        "semester": 5,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1305099",
+            "turmaid": "01",
+            "nome": " PSICOPEDAGOGIA E DIREITOS HUMANOS",
+            "semester": "2018.2",
+            "professor": "ADELAIDE ALVES DIAS",
+            "horario": "3T45",
+            "local": "CE 321 (CE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1305069",
+        "name": "SEMINARIO TEMATICO EM PSICOPEDAGOGIA II",
+        "category": "Complementar Obrigatória",
+        "semester": 5,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1305069",
+            "turmaid": "01",
+            "nome": " SEMINARIO TEMATICO EM PSICOPEDAGOGIA II",
+            "semester": "2018.2",
+            "professor": "VIVIANY SILVA ARAUJO PESSOA",
+            "horario": "6T45 7T3",
+            "local": "CE 321 (CE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1305071",
+        "name": "TÉCNICAS DE INTERV PSICOPEDAGÓGICA II",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1305071",
+            "turmaid": "01",
+            "nome": " TÉCNICAS DE INTERV PSICOPEDAGÓGICA II",
+            "semester": "2018.2",
+            "professor": "TANIA LUCIA AMORIM COLELLA",
+            "horario": "4T345 7T1",
+            "local": "CE 321 (CE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1305078",
+        "name": "ESTÁGIO SUPERVISIONADO II",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "75h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1305078",
+            "turmaid": "01",
+            "nome": " ESTÁGIO SUPERVISIONADO II",
+            "semester": "2018.2",
+            "professor": "FERNANDA MENDES CABRAL ALBUQUERQUE COELHO",
+            "horario": "5T12345",
+            "local": "CE 321 (CE)"
+          },
+          {
+            "id": "1305078",
+            "turmaid": "02",
+            "nome": " ESTÁGIO SUPERVISIONADO II",
+            "semester": "2018.2",
+            "professor": "TANIA LUCIA AMORIM COLELLA",
+            "horario": "5T12345",
+            "local": "CE 324 (CE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1305081",
+        "name": "SITUAÇÕES PSICOS EM CONT DE TRAB COMUN",
+        "category": "Complementar Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1305081",
+            "turmaid": "01",
+            "nome": " SITUAÇÕES PSICOS EM CONT DE TRAB COMUN",
+            "semester": "2018.2",
+            "professor": "A DEFINIR",
+            "horario": "2T123 3T1",
+            "local": "CE 321 (CE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1305082",
+        "name": "DISTURBIOS DA LING EM PSICOPEDAGOGIA",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1305082",
+            "turmaid": "01",
+            "nome": " DISTURBIOS DA LING EM PSICOPEDAGOGIA",
+            "semester": "2018.2",
+            "professor": "ESTEPHANE ENADIR LUCENA DUARTE PEREIRA",
+            "horario": "6T123 7T2",
+            "local": "CE 321 (CE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1305083",
+        "name": "EST DE POLIT EDUC EM PSICOPEDAGOGIA",
+        "category": "Complementar Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1305083",
+            "turmaid": "01",
+            "nome": " EST DE POLIT EDUC EM PSICOPEDAGOGIA",
+            "semester": "2018.2",
+            "professor": "MARIA TEREZA LIRA DE OLIVEIRA CHAVES",
+            "horario": "2T45 3T23",
+            "local": "CE 321 (CE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1305075",
+        "name": "TÓPICOS ESP EM PSICOPEDAGOGIA II",
+        "category": "Complementar Flexiva",
+        "semester": 6,
+        "workload": "75h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1305092",
+        "name": "A CLINICA DE PSICOP COMO CONT DE APENDIZ",
+        "category": "Optativa",
+        "semester": 6,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1305092",
+            "turmaid": "01",
+            "nome": " A CLINICA DE PSICOP COMO CONT DE APENDIZ",
+            "semester": "2018.2",
+            "professor": "MARCIA PAIVA DE OLIVEIRA",
+            "horario": "2M45",
+            "local": "CE 322 (CE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1305102",
+        "name": "PSICOPEDAGOGIA NO CONTEXTO INSTITUCIONAL",
+        "category": "Optativa",
+        "semester": 6,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1305102",
+            "turmaid": "01",
+            "nome": " PSICOPEDAGOGIA NO CONTEXTO INSTITUCIONAL",
+            "semester": "2018.2",
+            "professor": "FLÁVIA MOURA DE MOURA",
+            "horario": "2M23",
+            "local": "CE 322 (CE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1305079",
+        "name": "ESTÁGIO SUPERVISIONADO III",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "75h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1305079",
+            "turmaid": "01",
+            "nome": " ESTÁGIO SUPERVISIONADO III",
+            "semester": "2018.2",
+            "professor": "ESTEPHANE ENADIR LUCENA DUARTE PEREIRA",
+            "horario": "5M12345",
+            "local": "CE 323 (CE)"
+          },
+          {
+            "id": "1305079",
+            "turmaid": "02",
+            "nome": " ESTÁGIO SUPERVISIONADO III",
+            "semester": "2018.2",
+            "professor": "MONICA DIAS PALITOT",
+            "horario": "5M12345",
+            "local": "CE 310 (CE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1305084",
+        "name": "ARTE EDUCAÇÃO E APRENDIZAGEM",
+        "category": "Complementar Obrigatória",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1305084",
+            "turmaid": "01",
+            "nome": " ARTE EDUCAÇÃO E APRENDIZAGEM",
+            "semester": "2018.2",
+            "professor": "NORMA MARIA DE LIMA",
+            "horario": "2M1 4M123",
+            "local": "CE 322 (CE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1305085",
+        "name": "PESQUISA APLICADA A PSICOPEDAGOGIA",
+        "category": "Complementar Obrigatória",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1305085",
+            "turmaid": "01",
+            "nome": " PESQUISA APLICADA A PSICOPEDAGOGIA",
+            "semester": "2018.2",
+            "professor": "PATRICIA NUNES DA FONSECA",
+            "horario": "4M45 6M34",
+            "local": "CE 322 (CE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1305086",
+        "name": "BIOESTATÍSTICA PARA PSICOPEDAGOGIA",
+        "category": "Complementar Obrigatória",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1305086",
+            "turmaid": "01",
+            "nome": " BIOESTATÍSTICA PARA PSICOPEDAGOGIA",
+            "semester": "2018.2",
+            "professor": "CELIA MARIA CRUZ MARQUES CHAVES",
+            "horario": "36M12",
+            "local": "CE 322 (CE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1305087",
+        "name": "PSICOPEDAGOGIA DO ENVELHECIMENTO",
+        "category": "Complementar Obrigatória",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1305087",
+            "turmaid": "01",
+            "nome": " PSICOPEDAGOGIA DO ENVELHECIMENTO",
+            "semester": "2018.2",
+            "professor": "MONICA DIAS PALITOT",
+            "horario": "3M345 6M5",
+            "local": "CE 322 (CE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1305076",
+        "name": "TÓPICOS ESP EM PSICOPEDAGOGIA III",
+        "category": "Complementar Flexiva",
+        "semester": 7,
+        "workload": "75h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1305091",
+        "name": "GESTÃO DE PROJETOS",
+        "category": "Optativa",
+        "semester": 7,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1305094",
+        "name": "PSICOPEDAGOGIA NO CONTEXTO DA JUSTIÇA",
+        "category": "Optativa",
+        "semester": 7,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1305095",
+        "name": "EDUCAÇÃO POPULAR EM PSICOPEDAGOGIA",
+        "category": "Optativa",
+        "semester": 7,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1305095",
+            "turmaid": "01",
+            "nome": " EDUCAÇÃO POPULAR EM PSICOPEDAGOGIA",
+            "semester": "2018.2",
+            "professor": "A DEFINIR",
+            "horario": "2T23",
+            "local": "CE 324 (CE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1305097",
+        "name": "O JÓVEM E O ADULTO NOS PROC DE APRENDIZ",
+        "category": "Optativa",
+        "semester": 7,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1305103",
+        "name": "TECN DE ENTREV E ACONSELHAM EM PSICOPED",
+        "category": "Optativa",
+        "semester": 7,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1305103",
+            "turmaid": "01",
+            "nome": " TECN DE ENTREV E ACONSELHAM EM PSICOPED",
+            "semester": "2018.2",
+            "professor": "TANIA LUCIA AMORIM COLELLA",
+            "horario": "6M34",
+            "local": "CE 324 (CE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1305080",
+        "name": "ESTÁGIO SUPERVISIONADO IV",
+        "category": "Obrigatória",
+        "semester": 7,
+        "workload": "75h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1305080",
+            "turmaid": "01",
+            "nome": " ESTÁGIO SUPERVISIONADO IV",
+            "semester": "2018.2",
+            "professor": "MARCIA PAIVA DE OLIVEIRA",
+            "horario": "5T12345",
+            "local": "CE 307 (CE)"
+          },
+          {
+            "id": "1305080",
+            "turmaid": "02",
+            "nome": " ESTÁGIO SUPERVISIONADO IV",
+            "semester": "2018.2",
+            "professor": "SANDRA CRISTINA MORAES DE SOUZA",
+            "horario": "5T12345",
+            "local": "CE 310 (CE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1305088",
+        "name": "LINGUAGEM E COGNIÇÃO",
+        "category": "Obrigatória",
+        "semester": 7,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1305088",
+            "turmaid": "01",
+            "nome": " LINGUAGEM E COGNIÇÃO",
+            "semester": "2018.2",
+            "professor": "SANDRA CRISTINA MORAES DE SOUZA",
+            "horario": "3T123 4T1",
+            "local": "CE 324 (CE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1305089",
+        "name": "TCCTRABALHO DE CONCLUSÃO DE CURSO",
+        "category": "Complementar Obrigatória",
+        "semester": 7,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1305089",
+            "turmaid": "01",
+            "nome": " TCCTRABALHO DE CONCLUSÃO DE CURSO",
+            "semester": "2018.2",
+            "professor": "VIVIANY SILVA ARAUJO PESSOA",
+            "horario": "24T45",
+            "local": "CE 324 (CE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1305038",
+        "name": " LIBRAS",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": "30h",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1305038",
+            "turmaid": "01",
+            "nome": " LIBRAS",
+            "semester": "2018.2",
+            "professor": "SANDRA ALVES DA SILVA SANTIAGO",
+            "horario": "4T45",
+            "local": "CE 306 (CE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      }
+    ]
+  }
+}

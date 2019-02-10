@@ -1,0 +1,3642 @@
+{
+  "curriculum": {
+    "id": "492007",
+    "codigo": "1626729",
+    "name": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+    "faculty": "CENTRO DE CIÊNCIAS DA SAÚDE (CCS) (11.00.54)",
+    "minch": "390",
+    "maxch": "540",
+    "semesters": 10,
+    "courses": [
+      {
+        "id": "1302509",
+        "name": "EDUC POPULAR EM PRÁT DE EXTESÃO I",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1302510",
+        "name": "EDUC POPULAR EM PRÁT DE EXTESÃO II",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1403747",
+        "name": "LIBRAS  LÍNGUA BRASILEIRA DE SINAIS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1608201",
+        "name": "ANATOMIA TOPOGRAFICA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1608238",
+        "name": "INFORM APLICADA À FARMÁCIA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1608239",
+        "name": "EDUC POPULAR EM PRÁTICAS DE EXTENSÃO I",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1608240",
+        "name": "EDUC POPULAR EM PRÁTICAS DE EXTENSÃO II",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1608241",
+        "name": "EDUC FARMACÊUTICA EM PRÁTICAS DE SAÚDE",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1608242",
+        "name": "DERMOFARMÁCIA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "75h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1608243",
+        "name": "MÉT CROM APL ANÁLISE DE MEDICAMENTOS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1608243",
+            "turmaid": "01",
+            "nome": " MÉT CROM APL ANÁLISE DE MEDICAMENTOS",
+            "semester": "2018.2",
+            "professor": "MARCELO SOBRAL DA SILVA",
+            "horario": "5M45 2T45",
+            "local": "DCF - ESTÁGIO SUPERVISIONADO IND 3 (CCS)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1608244",
+        "name": "TÓPICOS DE FORMAÇÃO BÁSICA I",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "15h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1608245",
+        "name": "TÓPICOS DE FORMAÇÃO BÁSICA II",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "15h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1608246",
+        "name": "TÓPICOS DE FORMAÇÃO BÁSICA III",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1608247",
+        "name": "TÓPICOS DE FORMAÇÃO BÁSICA IV",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1608248",
+        "name": "SEMINÁRIOS ESPECIAIS DE FORMAÇÃO I",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "15h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1608249",
+        "name": "SEMINÁRIOS ESPECIAIS DE FORMAÇÃO II",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1608250",
+        "name": "SEMINÁRIOS ESPECIAIS DE FORMAÇÃO III",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1608251",
+        "name": "SEMINÁRIOS ESPECIAIS DE FORMAÇÃO IV",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1608252",
+        "name": "EXPERIÊNCIA ACADÊMICA EM ENSINO I",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1608253",
+        "name": "EXPERIÊNCIA ACADÊMICA EM ENSINO II",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "75h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1608254",
+        "name": "EXPERIÊNCIA ACADÊMICA EM ENSINO III",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "150h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1608255",
+        "name": "EXPERIÊNCIA ACADÊMICA EM EXTESÃO I",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1608256",
+        "name": "EXPERIÊNCIA ACADÊMICA EM EXTESÃO II",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "75h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1608257",
+        "name": "EXPERIÊNCIA ACADÊMICA EM EXTESÃO III",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "150h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1608258",
+        "name": "EXPERIÊNCIA ACADÊMICA EM PESQUISA I",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1608259",
+        "name": "EXPERIÊNCIA ACADÊMICA EM PESQUISA II",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "75h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1608260",
+        "name": "EXPERIÊNCIA ACADÊMICA EM PESQUISA III",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "150h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1608261",
+        "name": "TÓPICOS DE FORMAÇÃO AVANÇADA I",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "15h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1608262",
+        "name": "TÓPICOS DE FORMAÇÃO AVANÇADA II",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1608263",
+        "name": "TÓPICOS DE FORMAÇÃO AVANÇADA III",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1608264",
+        "name": "TÓPICOS DE FORMAÇÃO AVANÇADA IV",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1608265",
+        "name": "VIVENCIAS DE FORMAÇÃO AVANÇADA I",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1608266",
+        "name": "VIVENCIAS DE FORMAÇÃO AVANÇADA II",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "75h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1611213",
+        "name": "MATÉRIA MÉDICA HOMEOPÁTICA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1611213",
+            "turmaid": "01",
+            "nome": " MATÉRIA MÉDICA HOMEOPÁTICA",
+            "semester": "2018.2",
+            "professor": "MARIA DO SOCORRO SOUSA e DANIELLY ALBUQUERQUE DA COSTA",
+            "horario": "2M123",
+            "local": "NEPHF (CCS)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDCFA0103",
+        "name": "SAUDE DO IDOSO (FARMACIA)",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDCFA0105",
+        "name": "EMPREENDEDORISMO EM FARMACIA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDCFA0106",
+        "name": "DERMATOFARMACIA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDCFA0106",
+            "turmaid": "01",
+            "nome": " DERMATOFARMACIA",
+            "semester": "2018.2",
+            "professor": "JOSE DAMIAO CHAVES BORBA",
+            "horario": "3T12 5T45",
+            "local": "CCS 802 (CCS) / CCS 601 (CCS)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDCFA0107",
+        "name": "RESISTENCIA BACTERIANA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDCFA0107",
+            "turmaid": "01",
+            "nome": " RESISTENCIA BACTERIANA",
+            "semester": "2018.2",
+            "professor": "LAURO SANTOS FILHO",
+            "horario": "4T123",
+            "local": "DCF - SALA DE AULA 1 (CCS)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDCFA0108",
+        "name": "ANALISES TOXICOLOGICAS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDCFA0109",
+        "name": "TOPICOS ESPCECIAIS I",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDCFA0109",
+            "turmaid": "02",
+            "nome": " TOPICOS ESPCECIAIS I",
+            "semester": "2018.2",
+            "professor": "FRANKLIN DELANO SOARES FORTE, WALLERI CHRISTINI TORELLI REIS e GERALDO EDUARDO GUEDES DE BRITO",
+            "horario": "3T345",
+            "local": "DCF - AUDITÓRIO 1 (CCS)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDCFA0110",
+        "name": "TOPICOS ESPECIAIS II",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDCFA0111",
+        "name": "TOPICOS ESPECIAIS III",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDCFA0112",
+        "name": "PRESCRICAO FARMACEUTICA",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDLS0024",
+        "name": "LIBRAS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1608188",
+        "name": "FARMACIA CIENCIA E PROFISSAO",
+        "category": "Optativa",
+        "semester": 1,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1608188",
+            "turmaid": "01",
+            "nome": " FARMACIA CIENCIA E PROFISSAO",
+            "semester": "2018.2",
+            "professor": "LAURO SANTOS FILHO",
+            "horario": "2M3 3M45",
+            "local": "CCS 504 (CCS)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDCFA0086",
+        "name": "INFORMÁTICA APLICADA À FARMÁCIA",
+        "category": "Optativa",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1104214",
+        "name": "BIOQUÍMICA ESTRUTURAL",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1104214",
+            "turmaid": "01",
+            "nome": " BIOQUÍMICA ESTRUTURAL",
+            "semester": "2018.2",
+            "professor": "DARLENE CAMATI PERSUHN",
+            "horario": "4M45 3T23",
+            "local": "CCS 606 (CCS)"
+          },
+          {
+            "id": "1104214",
+            "turmaid": "02",
+            "nome": " BIOQUÍMICA ESTRUTURAL",
+            "semester": "2018.2",
+            "professor": "CICERO FRANCISCO BEZERRA FELIPE",
+            "horario": "24M45",
+            "local": "CCS 604 (CCS)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1104215",
+        "name": "BIOLOGIA CELULAR FARMACIA",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "75h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1104215",
+            "turmaid": "01",
+            "nome": " BIOLOGIA CELULAR FARMACIA",
+            "semester": "2018.2",
+            "professor": "LUIS FERNANDO MARQUES DOS SANTOS",
+            "horario": "2T345 4T45",
+            "local": "CCENB1 (CCEN)"
+          },
+          {
+            "id": "1104215",
+            "turmaid": "02",
+            "nome": " BIOLOGIA CELULAR FARMACIA",
+            "semester": "2018.2",
+            "professor": "NAILA FRANCIS PAULO DE OLIVEIRA",
+            "horario": "2T345 4T45",
+            "local": "CCENB5 (CCEN) / CCENB4 (CCEN)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1104216",
+        "name": "BIOFISICA FUNDAMENTAL FARMACIA",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1104216",
+            "turmaid": "01",
+            "nome": " BIOFISICA FUNDAMENTAL FARMACIA",
+            "semester": "2018.2",
+            "professor": "DANIELA PRISCILA MARCHI SALVADOR",
+            "horario": "5M2345",
+            "local": "CCS 607 (CCS)"
+          },
+          {
+            "id": "1104216",
+            "turmaid": "02",
+            "nome": " BIOFISICA FUNDAMENTAL FARMACIA",
+            "semester": "2018.2",
+            "professor": "DANIELA PRISCILA MARCHI SALVADOR",
+            "horario": "6M2345",
+            "local": "CCS 802 (CCS)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1105219",
+        "name": "QUIMICA GERAL E INORG EXPERIMENTAL",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "30h aula 3h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1105219",
+            "turmaid": "01",
+            "nome": " QUIMICA GERAL E INORG EXPERIMENTAL",
+            "semester": "2018.2",
+            "professor": "ANA PAULA DE MELO ALVES GUEDES",
+            "horario": "2M45",
+            "local": "LAB QUI 05 (CCEN)"
+          },
+          {
+            "id": "1105219",
+            "turmaid": "02",
+            "nome": " QUIMICA GERAL E INORG EXPERIMENTAL",
+            "semester": "2018.2",
+            "professor": "JOSE DE QUEIROZ CALUETE",
+            "horario": "3T23",
+            "local": "LAB QUI 05 (CCEN)"
+          },
+          {
+            "id": "1105219",
+            "turmaid": "03",
+            "nome": " QUIMICA GERAL E INORG EXPERIMENTAL",
+            "semester": "2018.2",
+            "professor": "RAFAELA BERNARDO PROVAZI PESCI",
+            "horario": "3T23",
+            "local": "LAB QUI 02 (CCEN)"
+          },
+          {
+            "id": "1105219",
+            "turmaid": "05",
+            "nome": " QUIMICA GERAL E INORG EXPERIMENTAL",
+            "semester": "2018.2",
+            "professor": "ERCULES EPAMINONDAS DE SOUSA TEOTONIO",
+            "horario": "2M12",
+            "local": "LAB QUI 01 (CCEN)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1105220",
+        "name": "QUIMICA GERAL E INORGANICA",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1105220",
+            "turmaid": "01",
+            "nome": " QUIMICA GERAL E INORGANICA",
+            "semester": "2018.2",
+            "professor": "JOSE DE QUEIROZ CALUETE",
+            "horario": "3T45 5T23",
+            "local": "CCENB5 (CCEN)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1108174",
+        "name": "ESTATISTICA VITAL",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1108174",
+            "turmaid": "01",
+            "nome": " ESTATISTICA VITAL",
+            "semester": "2018.2",
+            "professor": "GILMARA ALVES CAVALCANTI",
+            "horario": "4T123",
+            "local": "CCENB6 (CCEN)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1608187",
+        "name": "METODOLOGIA DA CIENCIA E DA PESQUISA",
+        "category": "Complementar Obrigatória",
+        "semester": 1,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1608187",
+            "turmaid": "01",
+            "nome": " METODOLOGIA DA CIENCIA E DA PESQUISA",
+            "semester": "2018.2",
+            "professor": "RUI OLIVEIRA MACEDO",
+            "horario": "3M23",
+            "local": "CCS 504 (CCS)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1610180",
+        "name": "ANATOMIA HUMANA",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "75h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1610180",
+            "turmaid": "01",
+            "nome": " ANATOMIA HUMANA",
+            "semester": "2018.2",
+            "professor": "ANDRE DE SA BRAGA OLIVEIRA",
+            "horario": "4M123 2T12",
+            "local": "CCS 419 (CCS)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1608199",
+        "name": "BIOSSEGURANÇA",
+        "category": "Optativa",
+        "semester": 2,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1608199",
+            "turmaid": "01",
+            "nome": " BIOSSEGURANÇA",
+            "semester": "2018.2",
+            "professor": "JOSE DAMIAO CHAVES BORBA",
+            "horario": "6T234",
+            "local": "CCS 805 (CCS)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1610196",
+        "name": "ANATOMIA TOPOGRÁFICA",
+        "category": "Optativa",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1610196",
+            "turmaid": "01",
+            "nome": " ANATOMIA TOPOGRÁFICA",
+            "semester": "2018.2",
+            "professor": "FRANCISCO DE ASSIS LIMEIRA JUNIOR",
+            "horario": "5M45 3T12",
+            "local": "CCS 415 (CCS)"
+          }
+        ],
+        "prerequisites": [
+          "1610180"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1104218",
+        "name": "BIOQUÍMICA METABÓLICA FARMÁCIA",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "75h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1104218",
+            "turmaid": "01",
+            "nome": " BIOQUÍMICA METABÓLICA FARMÁCIA",
+            "semester": "2018.2",
+            "professor": "CICERO FRANCISCO BEZERRA FELIPE",
+            "horario": "3M123 5M23",
+            "local": "CCS 602 (CCS)"
+          },
+          {
+            "id": "1104218",
+            "turmaid": "02",
+            "nome": " BIOQUÍMICA METABÓLICA FARMÁCIA",
+            "semester": "2018.2",
+            "professor": "DAVI FELIPE FARIAS",
+            "horario": "5M23 3T345",
+            "local": "CCS 603 (CCS)"
+          }
+        ],
+        "prerequisites": [
+          "1104214"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1105166",
+        "name": "QUIMICA ANALITICA CLASSICA",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1105166",
+            "turmaid": "01",
+            "nome": " QUIMICA ANALITICA CLASSICA",
+            "semester": "2018.2",
+            "professor": "MARCIO JOSE COELHO DE PONTES",
+            "horario": "35M45",
+            "local": "CCENB1 (CCEN)"
+          }
+        ],
+        "prerequisites": [
+          "1105220"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1105167",
+        "name": "QUIMICA ORGANICA I",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1105167",
+            "turmaid": "01",
+            "nome": " QUIMICA ORGANICA I",
+            "semester": "2018.2",
+            "professor": "NEIDE QUEIROZ",
+            "horario": "24T45",
+            "local": "CCENB8 (CCEN)"
+          }
+        ],
+        "prerequisites": [
+          "1105220"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1105218",
+        "name": "FUNDAMENTOS DE FISICOQUIMICA",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1105218",
+            "turmaid": "01",
+            "nome": " FUNDAMENTOS DE FISICOQUIMICA",
+            "semester": "2018.2",
+            "professor": "REGIANE DE CASSIA MARITAN UGULINO DE ARAUJO",
+            "horario": "24M23",
+            "local": "DQ 05 (CCEN)"
+          },
+          {
+            "id": "1105218",
+            "turmaid": "02",
+            "nome": " FUNDAMENTOS DE FISICOQUIMICA",
+            "semester": "2018.2",
+            "professor": "GERD BRUNO DA ROCHA",
+            "horario": "24M23",
+            "local": "DQ 06 (CCEN)"
+          }
+        ],
+        "prerequisites": [
+          "1105220"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1608185",
+        "name": "ESTAGIO I  VIVENCIA ACADEMICA",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1608185",
+            "turmaid": "01",
+            "nome": " ESTAGIO I  VIVENCIA ACADEMICA",
+            "semester": "2018.2",
+            "professor": "RUI OLIVEIRA MACEDO",
+            "horario": "2M45",
+            "local": "DCF - LABORATÓRIO C.Q. BIOLÓGICO (CCS)"
+          },
+          {
+            "id": "1608185",
+            "turmaid": "02",
+            "nome": " ESTAGIO I  VIVENCIA ACADEMICA",
+            "semester": "2018.2",
+            "professor": "FELIPE QUEIROGA SARMENTO GUERRA",
+            "horario": "2M45",
+            "local": "DCF  -  LABORATÓRIO DE MICOLOGIA (CCS)"
+          },
+          {
+            "id": "1608185",
+            "turmaid": "03",
+            "nome": " ESTAGIO I  VIVENCIA ACADEMICA",
+            "semester": "2018.2",
+            "professor": "ISAC ALMEIDA DE MEDEIROS",
+            "horario": "2M45",
+            "local": "DCF - ESTÁGIO SUPERVISIONADO IND 7 (CCS)"
+          },
+          {
+            "id": "1608185",
+            "turmaid": "04",
+            "nome": " ESTAGIO I  VIVENCIA ACADEMICA",
+            "semester": "2018.2",
+            "professor": "HEMERSON IURY FERREIRA MAGALHAES",
+            "horario": "4M45",
+            "local": "DCF - LABORATÓRIO DE TOXICOLOGIA (CCS)"
+          },
+          {
+            "id": "1608185",
+            "turmaid": "05",
+            "nome": " ESTAGIO I  VIVENCIA ACADEMICA",
+            "semester": "2018.2",
+            "professor": "IONALDO JOSE LIMA DINIZ BASILIO",
+            "horario": "4M45",
+            "local": "DCF - LABORATÓRIO DE FARMACOGNOSIA (CCS)"
+          },
+          {
+            "id": "1608185",
+            "turmaid": "07",
+            "nome": " ESTAGIO I  VIVENCIA ACADEMICA",
+            "semester": "2018.2",
+            "professor": "ISAC ALMEIDA DE MEDEIROS",
+            "horario": "4M45",
+            "local": "DCF - ESTÁGIO SUPERVISIONADO IND 3 (CCS)"
+          },
+          {
+            "id": "1608185",
+            "turmaid": "08",
+            "nome": " ESTAGIO I  VIVENCIA ACADEMICA",
+            "semester": "2018.2",
+            "professor": "JOSE MARIA BARBOSA FILHO",
+            "horario": "3M23",
+            "local": "DCF - LABORATÓRIO DE FARMACOGNOSIA (CCS)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1610181",
+        "name": "EMBRIOLOGIA FARMACIA",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1610181",
+            "turmaid": "01",
+            "nome": " EMBRIOLOGIA FARMACIA",
+            "semester": "2018.2",
+            "professor": "ALEXANDRE SARMENTO QUEIROGA",
+            "horario": "5T123",
+            "local": "CCS 302 (CCS)"
+          }
+        ],
+        "prerequisites": [
+          "1104215"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1610182",
+        "name": "HISTOLOGIA HUMANA",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "90h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1610182",
+            "turmaid": "01",
+            "nome": " HISTOLOGIA HUMANA",
+            "semester": "2018.2",
+            "professor": "ANA MARIA BARROS CHAVES PEREIRA e BRUNO MENDES TENORIO",
+            "horario": "24T123",
+            "local": "CCS 400 (CCS)"
+          },
+          {
+            "id": "1610182",
+            "turmaid": "02",
+            "nome": " HISTOLOGIA HUMANA",
+            "semester": "2018.2",
+            "professor": "TATIANA FARIA MACEDO BEZERRA e GICIANE CARVALHO VIEIRA",
+            "horario": "24T123",
+            "local": "CCS 403 (CCS)"
+          }
+        ],
+        "prerequisites": [
+          "1104215"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1805125",
+        "name": "SOCIOLOGIA DA SAUDE E DA DOENCA",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1805125",
+            "turmaid": "01",
+            "nome": " SOCIOLOGIA DA SAUDE E DA DOENCA",
+            "semester": "2018.2",
+            "professor": "ROSEANA MARIA BARBOSA MEIRA",
+            "horario": "6M123",
+            "local": "CCM GERAL 1 2º ANDAR (CCM)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1104233",
+        "name": "BIOQUIMICA DOS SISTEMAS",
+        "category": "Optativa",
+        "semester": 3,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1104233",
+            "turmaid": "01",
+            "nome": " BIOQUIMICA DOS SISTEMAS",
+            "semester": "2018.2",
+            "professor": "CLAYTON ZAMBELI OLIVEIRA",
+            "horario": "3T123",
+            "local": "CCS 608 (CCS)"
+          }
+        ],
+        "prerequisites": [
+          "1104218"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1608193",
+        "name": "PRINCIPIOS SINALIZ TRANSDUCAO CELULARES",
+        "category": "Optativa",
+        "semester": 3,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1608193",
+            "turmaid": "01",
+            "nome": " PRINCIPIOS SINALIZ TRANSDUCAO CELULARES",
+            "semester": "2018.2",
+            "professor": "BAGNOLIA ARAUJO COSTA",
+            "horario": "4T345",
+            "local": "CCS 802 (CCS)"
+          }
+        ],
+        "prerequisites": [
+          "1104215",
+          "1104214"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1104219",
+        "name": "GENETICA FARMACIA",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1104219",
+            "turmaid": "01",
+            "nome": " GENETICA FARMACIA",
+            "semester": "2018.2",
+            "professor": "HILZETH DE LUNA FREIRE PESSÔA",
+            "horario": "3M12 4T12",
+            "local": "CCS 603 (CCS)"
+          }
+        ],
+        "prerequisites": [
+          "1104215"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1105169",
+        "name": "QUIMICA ANAL QUANTITATIVA EXPERIMENTAL",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1105169",
+            "turmaid": "01",
+            "nome": " QUIMICA ANAL QUANTITATIVA EXPERIMENTAL",
+            "semester": "2018.2",
+            "professor": "SHERLAN GUIMARAES LEMOS",
+            "horario": "5M345",
+            "local": "LAB QUI 02 (CCEN)"
+          },
+          {
+            "id": "1105169",
+            "turmaid": "02",
+            "nome": " QUIMICA ANAL QUANTITATIVA EXPERIMENTAL",
+            "semester": "2018.2",
+            "professor": "LILIANA DE FATIMA BEZERRA LIRA DE PONTES",
+            "horario": "6M123",
+            "local": "LAB QUI 02 (CCEN)"
+          }
+        ],
+        "prerequisites": [
+          "1105166"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1105171",
+        "name": "QUIMICA ORGANIGA EXPERIMENTAL I",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "0h aula 45h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1105171",
+            "turmaid": "02",
+            "nome": " QUIMICA ORGANIGA EXPERIMENTAL I",
+            "semester": "2018.2",
+            "professor": "MARIA ALDEIZA MEIRELES ALMEIDA DE MAURERA",
+            "horario": "2M345",
+            "local": "LAB QUI 06 (CCEN)"
+          },
+          {
+            "id": "1105171",
+            "turmaid": "03",
+            "nome": " QUIMICA ORGANIGA EXPERIMENTAL I",
+            "semester": "2018.2",
+            "professor": "CLAUDIO GABRIEL LIMA JUNIOR",
+            "horario": "3M345",
+            "local": "LAB QUI 06 (CCEN)"
+          }
+        ],
+        "prerequisites": [
+          "1105167"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1105172",
+        "name": "QUIMICA ORGANICA II",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1105172",
+            "turmaid": "01",
+            "nome": " QUIMICA ORGANICA II",
+            "semester": "2018.2",
+            "professor": "ANTONIA LUCIA DE SOUZA",
+            "horario": "3T45 6T23",
+            "local": "CCENB2 (CCEN)"
+          }
+        ],
+        "prerequisites": [
+          "1105167"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1105222",
+        "name": "FUND DA FISICOQUIMICA EXPERIMENTAL",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1105222",
+            "turmaid": "01",
+            "nome": " FUND DA FISICOQUIMICA EXPERIMENTAL",
+            "semester": "2018.2",
+            "professor": "KAREN CACILDA WEBER",
+            "horario": "4M23",
+            "local": "LAB QUI 01 (CCEN)"
+          },
+          {
+            "id": "1105222",
+            "turmaid": "02",
+            "nome": " FUND DA FISICOQUIMICA EXPERIMENTAL",
+            "semester": "2018.2",
+            "professor": "CLAUDIA MENEGAZ ZACCARON CRISTIANO",
+            "horario": "2T45",
+            "local": "LAB QUI 01 (CCEN)"
+          },
+          {
+            "id": "1105222",
+            "turmaid": "03",
+            "nome": " FUND DA FISICOQUIMICA EXPERIMENTAL",
+            "semester": "2018.2",
+            "professor": "KAREN CACILDA WEBER",
+            "horario": "3M23",
+            "local": "LAB QUI 01 (CCEN)"
+          }
+        ],
+        "prerequisites": [
+          "1105218"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1608189",
+        "name": "SEMINARIO DE ESTUDOS INTEGRADOS I",
+        "category": "Complementar Obrigatória",
+        "semester": 3,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1608189",
+            "turmaid": "01",
+            "nome": " SEMINARIO DE ESTUDOS INTEGRADOS I",
+            "semester": "2018.2",
+            "professor": "BARBARA VIVIANA DE OLIVEIRA SANTOS",
+            "horario": "5M12",
+            "local": "CCS 103 (CCS)"
+          }
+        ],
+        "prerequisites": [
+          "1105166",
+          "1104215",
+          "1105167",
+          "1108174"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1608190",
+        "name": "ESTAGIO II  VIV ACADEMICA",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1608190",
+            "turmaid": "01",
+            "nome": " ESTAGIO II  VIV ACADEMICA",
+            "semester": "2018.2",
+            "professor": "MARCELO SOBRAL DA SILVA",
+            "horario": "3M34",
+            "local": "DCF - ESTÁGIO SUPERVISIONADO IND 4 (CCS)"
+          },
+          {
+            "id": "1608190",
+            "turmaid": "02",
+            "nome": " ESTAGIO II  VIV ACADEMICA",
+            "semester": "2018.2",
+            "professor": "MARIA DE FATIMA VANDERLEI DE SOUZA",
+            "horario": "5T23",
+            "local": "DCF - ESTÁGIO SUPERVISIONADO IND 1 (CCS)"
+          },
+          {
+            "id": "1608190",
+            "turmaid": "03",
+            "nome": " ESTAGIO II  VIV ACADEMICA",
+            "semester": "2018.2",
+            "professor": "JOSE MARIA BARBOSA FILHO",
+            "horario": "4M23",
+            "local": "DCF - LABORATÓRIO DE FARMACOGNOSIA (CCS)"
+          },
+          {
+            "id": "1608190",
+            "turmaid": "04",
+            "nome": " ESTAGIO II  VIV ACADEMICA",
+            "semester": "2018.2",
+            "professor": "DAMIAO PERGENTINO DE SOUSA",
+            "horario": "3M45",
+            "local": "DCF - LABORATÓRIO DE QUÍMICA FARMACÊUTICA (CCS)"
+          },
+          {
+            "id": "1608190",
+            "turmaid": "05",
+            "nome": " ESTAGIO II  VIV ACADEMICA",
+            "semester": "2018.2",
+            "professor": "MARIA DE FATIMA VANDERLEI DE SOUZA",
+            "horario": "3T12",
+            "local": "DCF - ESTÁGIO SUPERVISIONADO IND 3 (CCS)"
+          },
+          {
+            "id": "1608190",
+            "turmaid": "06",
+            "nome": " ESTAGIO II  VIV ACADEMICA",
+            "semester": "2018.2",
+            "professor": "JOSE DAMIAO CHAVES BORBA",
+            "horario": "2M45",
+            "local": "DCF - LABORATÓRIO DE FARMACOTÉCNICA HOMEOPÁTICA (CCS)"
+          },
+          {
+            "id": "1608190",
+            "turmaid": "07",
+            "nome": " ESTAGIO II  VIV ACADEMICA",
+            "semester": "2018.2",
+            "professor": "DAMIAO PERGENTINO DE SOUSA",
+            "horario": "2M34",
+            "local": "DCF - LABORATÓRIO DE QUÍMICA FARMACÊUTICA (CCS)"
+          },
+          {
+            "id": "1608190",
+            "turmaid": "08",
+            "nome": " ESTAGIO II  VIV ACADEMICA",
+            "semester": "2018.2",
+            "professor": "MARCELO SOBRAL DA SILVA",
+            "horario": "2M34",
+            "local": "DCF - ESTÁGIO SUPERVISIONADO IND 3 (CCS)"
+          },
+          {
+            "id": "1608190",
+            "turmaid": "09",
+            "nome": " ESTAGIO II  VIV ACADEMICA",
+            "semester": "2018.2",
+            "professor": "ISLANIA GISELIA ALBUQUERQUE GONCALVES",
+            "horario": "2M34",
+            "local": "DCF - HOSPITAL 7 (CCS)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1611194",
+        "name": "FISIOLOGIA HUMANA II",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "90h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1611194",
+            "turmaid": "02",
+            "nome": " FISIOLOGIA HUMANA II",
+            "semester": "2018.2",
+            "professor": "FABIANA DE ANDRADE CAVALCANTE OLIVEIRA",
+            "horario": "2M12 46M45",
+            "local": "CCS 210 (CCS) / CCS 208 (CCS)"
+          }
+        ],
+        "prerequisites": [
+          "1104215",
+          "1104214"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1805135",
+        "name": "SAUDE COLETIVA",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1805135",
+            "turmaid": "01",
+            "nome": " SAUDE COLETIVA",
+            "semester": "2018.2",
+            "professor": "CLODOALDO DA SILVEIRA COSTA",
+            "horario": "2T123",
+            "local": "CCM GERAL 3 2º ANDAR (CCM)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1105179",
+        "name": "QUIMICA ORGANICA EXPERIMENTAL II",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1105179",
+            "turmaid": "03",
+            "nome": " QUIMICA ORGANICA EXPERIMENTAL II",
+            "semester": "2018.2",
+            "professor": "ANTONIA LUCIA DE SOUZA",
+            "horario": "5T234",
+            "local": "LAB QUI 06 (CCEN)"
+          },
+          {
+            "id": "1105179",
+            "turmaid": "04",
+            "nome": " QUIMICA ORGANICA EXPERIMENTAL II",
+            "semester": "2018.2",
+            "professor": "MARCAL DE QUEIROZ PAULO",
+            "horario": "6M345",
+            "local": "LAB QUI 06 (CCEN)"
+          }
+        ],
+        "prerequisites": [
+          "1105172"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1608191",
+        "name": "FARMACOBOTANICA",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1608191",
+            "turmaid": "01",
+            "nome": " FARMACOBOTANICA",
+            "semester": "2018.2",
+            "professor": "IONALDO JOSE LIMA DINIZ BASILIO",
+            "horario": "2T345",
+            "local": "CCS 105 (CCS)"
+          },
+          {
+            "id": "1608191",
+            "turmaid": "02",
+            "nome": " FARMACOBOTANICA",
+            "semester": "2018.2",
+            "professor": "IONALDO JOSE LIMA DINIZ BASILIO",
+            "horario": "3T234",
+            "local": "DCF - LABORATÓRIO DE FARMACOGNOSIA (CCS)"
+          }
+        ],
+        "prerequisites": [
+          "1104215"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1608192",
+        "name": "ESTAGIO III  VIVENCIA ACADEMICA",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1608192",
+            "turmaid": "01",
+            "nome": " ESTAGIO III  VIVENCIA ACADEMICA",
+            "semester": "2018.2",
+            "professor": "JOSEAN FECHINE TAVARES",
+            "horario": "2M12",
+            "local": "DCF - ESTÁGIO SUPERVISIONADO IND 3 (CCS)"
+          },
+          {
+            "id": "1608192",
+            "turmaid": "02",
+            "nome": " ESTAGIO III  VIVENCIA ACADEMICA",
+            "semester": "2018.2",
+            "professor": "PAULO MARQUES DA SILVA CAVALCANTI",
+            "horario": "4T34",
+            "local": "CCS 805 (CCS)"
+          },
+          {
+            "id": "1608192",
+            "turmaid": "03",
+            "nome": " ESTAGIO III  VIVENCIA ACADEMICA",
+            "semester": "2018.2",
+            "professor": "MARCELO SOBRAL DA SILVA",
+            "horario": "6M34",
+            "local": "DCF - ESTÁGIO SUPERVISIONADO IND 3 (CCS)"
+          },
+          {
+            "id": "1608192",
+            "turmaid": "04",
+            "nome": " ESTAGIO III  VIVENCIA ACADEMICA",
+            "semester": "2018.2",
+            "professor": "JOSE MARIA BARBOSA FILHO",
+            "horario": "2M12",
+            "local": "DCF - LABORATÓRIO DE FARMACOGNOSIA (CCS)"
+          },
+          {
+            "id": "1608192",
+            "turmaid": "05",
+            "nome": " ESTAGIO III  VIVENCIA ACADEMICA",
+            "semester": "2018.2",
+            "professor": "MARCELO SOBRAL DA SILVA",
+            "horario": "4M45",
+            "local": "DCF - ESTÁGIO SUPERVISIONADO IND 4 (CCS)"
+          },
+          {
+            "id": "1608192",
+            "turmaid": "06",
+            "nome": " ESTAGIO III  VIVENCIA ACADEMICA",
+            "semester": "2018.2",
+            "professor": "FELIPE QUEIROGA SARMENTO GUERRA",
+            "horario": "2M12",
+            "local": "DCF  -  LABORATÓRIO DE MICOLOGIA (CCS)"
+          },
+          {
+            "id": "1608192",
+            "turmaid": "07",
+            "nome": " ESTAGIO III  VIVENCIA ACADEMICA",
+            "semester": "2018.2",
+            "professor": "FRANCISCO ROBERTO DA SILVA",
+            "horario": "6M45",
+            "local": "DCF - LABORATÓRIO DE TOXICOLOGIA (CCS)"
+          },
+          {
+            "id": "1608192",
+            "turmaid": "08",
+            "nome": " ESTAGIO III  VIVENCIA ACADEMICA",
+            "semester": "2018.2",
+            "professor": "SILVANA TEREZA LACERDA JALES",
+            "horario": "2M12",
+            "local": "DCF - ESTÁGIO SUPERVISIONADO IND 4 (CCS)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1611101",
+        "name": "FARMACOLOGIA",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "75h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1611101",
+            "turmaid": "01",
+            "nome": " FARMACOLOGIA",
+            "semester": "2018.2",
+            "professor": "KATY LISIAS GONDIM DIAS DE ALBUQUERQUE",
+            "horario": "3M45 4M123",
+            "local": "CCS 205 (CCS) / CCS 208 (CCS)"
+          }
+        ],
+        "prerequisites": [
+          "1611194",
+          "1104218"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1611139",
+        "name": "PARASITOLOGIA II",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1611139",
+            "turmaid": "04",
+            "nome": " PARASITOLOGIA II",
+            "semester": "2018.2",
+            "professor": "CALIANDRA MARIA BEZERRA LUNA LIMA",
+            "horario": "5M345",
+            "local": "CCS 205 (CCS)"
+          },
+          {
+            "id": "1611139",
+            "turmaid": "05",
+            "nome": " PARASITOLOGIA II",
+            "semester": "2018.2",
+            "professor": "FABIO MARCEL DA SILVA SANTOS",
+            "horario": "5M345",
+            "local": "CCS 204 (CCS)"
+          }
+        ],
+        "prerequisites": [
+          "1611194"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1611198",
+        "name": "PATOLOGIA GERAL",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1611198",
+            "turmaid": "01",
+            "nome": " PATOLOGIA GERAL",
+            "semester": "2018.2",
+            "professor": "ADRIANO FRANCISCO ALVES",
+            "horario": "24T12",
+            "local": "CCS 210 (CCS)"
+          },
+          {
+            "id": "1611198",
+            "turmaid": "02",
+            "nome": " PATOLOGIA GERAL",
+            "semester": "2018.2",
+            "professor": "DAVI ANTAS E SILVA",
+            "horario": "4M45 2T12",
+            "local": "CCS 202 (CCS) / CCS 211 (CCS)"
+          }
+        ],
+        "prerequisites": [
+          "1611194"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1611199",
+        "name": "MICROBIOLOGIA",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "75h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1611199",
+            "turmaid": "01",
+            "nome": " MICROBIOLOGIA",
+            "semester": "2018.2",
+            "professor": "MARCELO MORENO",
+            "horario": "2M345 4M45",
+            "local": "CCS 214 (CCS)"
+          },
+          {
+            "id": "1611199",
+            "turmaid": "02",
+            "nome": " MICROBIOLOGIA",
+            "semester": "2018.2",
+            "professor": "MARCELO MORENO e VINICIUS PIETA PEREZ",
+            "horario": "2T345 4T23",
+            "local": "CCS 214 (CCS)"
+          }
+        ],
+        "prerequisites": [
+          "1611194"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1611200",
+        "name": "IMUNOLOGIA",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1611200",
+            "turmaid": "01",
+            "nome": " IMUNOLOGIA",
+            "semester": "2018.2",
+            "professor": "PRISCILLA ANNE CASTRO DE ASSIS",
+            "horario": "56M12",
+            "local": "CCS 209 (CCS)"
+          }
+        ],
+        "prerequisites": [
+          "1611194"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1805136",
+        "name": "POLITICAS PUBLICAS DE SAUDE",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1805136",
+            "turmaid": "01",
+            "nome": " POLITICAS PUBLICAS DE SAUDE",
+            "semester": "2018.2",
+            "professor": "ERNANI VIEIRA DE VASCONCELOS FILHO",
+            "horario": "3M123",
+            "local": "CCM GERAL 2 2º ANDAR (CCM)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1608200",
+        "name": "FITOTERAPIA",
+        "category": "Optativa",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1608200",
+            "turmaid": "01",
+            "nome": " FITOTERAPIA",
+            "semester": "2018.2",
+            "professor": "LEONIA MARIA BATISTA",
+            "horario": "35T45",
+            "local": "NEPHF 2 (CCS)"
+          }
+        ],
+        "prerequisites": [
+          "1608191"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDCFA0114",
+        "name": "SEMIOLOGIA E COMUNICAÇÃO FARMACÊUTICA",
+        "category": "Optativa",
+        "semester": 5,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDCFA0114",
+            "turmaid": "01",
+            "nome": " SEMIOLOGIA E COMUNICAÇÃO FARMACÊUTICA",
+            "semester": "2018.2",
+            "professor": "WALLERI CHRISTINI TORELLI REIS",
+            "horario": "5T123",
+            "local": "DCF - AUDITÓRIO 1 (CCS)"
+          }
+        ],
+        "prerequisites": [
+          "1611101"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1608121",
+        "name": "FARMACODINAMICA",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "75h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1608121",
+            "turmaid": "02",
+            "nome": " FARMACODINAMICA",
+            "semester": "2018.2",
+            "professor": "BAGNOLIA ARAUJO COSTA",
+            "horario": "3T123 4T12",
+            "local": "CCS 802 (CCS)"
+          },
+          {
+            "id": "1608121",
+            "turmaid": "03",
+            "nome": " FARMACODINAMICA",
+            "semester": "2018.2",
+            "professor": "ISLANIA GISELIA ALBUQUERQUE GONCALVES",
+            "horario": "2M12 3M234",
+            "local": "CCS 608 (CCS) / DCF - AUDITÓRIO 2 (CCS)"
+          }
+        ],
+        "prerequisites": [
+          "1611101"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1608142",
+        "name": "QUIMICA FARMACEUTICA",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "90h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1608142",
+            "turmaid": "01",
+            "nome": " QUIMICA FARMACEUTICA",
+            "semester": "2018.2",
+            "professor": "DAMIAO PERGENTINO DE SOUSA",
+            "horario": "34T123",
+            "local": "CCS 805 (CCS) / DCF - LABORATÓRIO DE QUÍMICA ..."
+          },
+          {
+            "id": "1608142",
+            "turmaid": "02",
+            "nome": " QUIMICA FARMACEUTICA",
+            "semester": "2018.2",
+            "professor": "BARBARA VIVIANA DE OLIVEIRA SANTOS",
+            "horario": "2M12 4M2345",
+            "local": "CCS 808 (CCS) / CCS 808 (CCS)"
+          }
+        ],
+        "prerequisites": [
+          "1105172"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1608194",
+        "name": "FARMACOGNOSIA",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "90h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1608194",
+            "turmaid": "01",
+            "nome": " FARMACOGNOSIA",
+            "semester": "2018.2",
+            "professor": "JOSE MARIA BARBOSA FILHO",
+            "horario": "25M345",
+            "local": "CCS 808 (CCS)"
+          },
+          {
+            "id": "1608194",
+            "turmaid": "02",
+            "nome": " FARMACOGNOSIA",
+            "semester": "2018.2",
+            "professor": "MARIA DE FATIMA VANDERLEI DE SOUZA",
+            "horario": "25M345",
+            "local": "CCS 802 (CCS)"
+          }
+        ],
+        "prerequisites": [
+          "1608191",
+          "1105220",
+          "1105167",
+          "1105166",
+          "1611194",
+          "1611101"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1608195",
+        "name": "ETICA E LEGISLAÇAO FARMACEUTICA",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1608195",
+            "turmaid": "01",
+            "nome": " ETICA E LEGISLAÇAO FARMACEUTICA",
+            "semester": "2018.2",
+            "professor": "ROSEANA MARIA BARBOSA MEIRA",
+            "horario": "24T45",
+            "local": "DCF - SALA DE AULA 2 (CCS)"
+          }
+        ],
+        "prerequisites": [
+          "1805135"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1608196",
+        "name": "FARMACOEPIDEMIOLOGIA",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1608196",
+            "turmaid": "01",
+            "nome": " FARMACOEPIDEMIOLOGIA",
+            "semester": "2018.2",
+            "professor": "WALLERI CHRISTINI TORELLI REIS",
+            "horario": "5M12",
+            "local": "CCS 509 (CCS)"
+          }
+        ],
+        "prerequisites": [
+          "1108174"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1608197",
+        "name": "FARMACOTERAPIA",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "75h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1608197",
+            "turmaid": "01",
+            "nome": " FARMACOTERAPIA",
+            "semester": "2018.2",
+            "professor": "MARIANNA VIEIRA SOBRAL",
+            "horario": "2T23 5T123",
+            "local": "DCF - AUDITÓRIO 2 (CCS)"
+          },
+          {
+            "id": "1608197",
+            "turmaid": "02",
+            "nome": " FARMACOTERAPIA",
+            "semester": "2018.2",
+            "professor": "PAULO MARQUES DA SILVA CAVALCANTI",
+            "horario": "2T23 5T123",
+            "local": "CCS 805 (CCS)"
+          }
+        ],
+        "prerequisites": [
+          "1611101"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1608198",
+        "name": "ESTAGIO IV  VIVENCIA EM ATENCAO A SAUDE",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1608198",
+            "turmaid": "01",
+            "nome": " ESTAGIO IV  VIVENCIA EM ATENCAO A SAUDE",
+            "semester": "2018.2",
+            "professor": "LUCIANA LUCENA ARANHA DE MACEDO",
+            "horario": "4M234",
+            "local": "DCF - USF 5 (CCS)"
+          },
+          {
+            "id": "1608198",
+            "turmaid": "02",
+            "nome": " ESTAGIO IV  VIVENCIA EM ATENCAO A SAUDE",
+            "semester": "2018.2",
+            "professor": "DEYSIANE OLIVEIRA BRANDAO",
+            "horario": "4M234",
+            "local": "DCF  - USF 2 (CCS)"
+          },
+          {
+            "id": "1608198",
+            "turmaid": "03",
+            "nome": " ESTAGIO IV  VIVENCIA EM ATENCAO A SAUDE",
+            "semester": "2018.2",
+            "professor": "FELIPE QUEIROGA SARMENTO GUERRA",
+            "horario": "4M234",
+            "local": "DCF - USF 7 (CCS)"
+          },
+          {
+            "id": "1608198",
+            "turmaid": "04",
+            "nome": " ESTAGIO IV  VIVENCIA EM ATENCAO A SAUDE",
+            "semester": "2018.2",
+            "professor": "ROSEANA MARIA BARBOSA MEIRA",
+            "horario": "3M234",
+            "local": "DCF - USF 7 (CCS)"
+          },
+          {
+            "id": "1608198",
+            "turmaid": "05",
+            "nome": " ESTAGIO IV  VIVENCIA EM ATENCAO A SAUDE",
+            "semester": "2018.2",
+            "professor": "FRANCISCO ROBERTO DA SILVA",
+            "horario": "3M234",
+            "local": "DCF  - USF 2 (CCS)"
+          },
+          {
+            "id": "1608198",
+            "turmaid": "06",
+            "nome": " ESTAGIO IV  VIVENCIA EM ATENCAO A SAUDE",
+            "semester": "2018.2",
+            "professor": "BARBARA VIVIANA DE OLIVEIRA SANTOS",
+            "horario": "3M234",
+            "local": "DCF - USF 5 (CCS)"
+          },
+          {
+            "id": "1608198",
+            "turmaid": "07",
+            "nome": " ESTAGIO IV  VIVENCIA EM ATENCAO A SAUDE",
+            "semester": "2018.2",
+            "professor": "WALLERI CHRISTINI TORELLI REIS",
+            "horario": "3M234",
+            "local": "DCF - USF 6 (CCS)"
+          },
+          {
+            "id": "1608198",
+            "turmaid": "08",
+            "nome": " ESTAGIO IV  VIVENCIA EM ATENCAO A SAUDE",
+            "semester": "2018.2",
+            "professor": "WALLERI CHRISTINI TORELLI REIS",
+            "horario": "6M234",
+            "local": "DCF  - USF 2 (CCS)"
+          }
+        ],
+        "prerequisites": [
+          "1805136",
+          "1805135"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1608203",
+        "name": "TOXICOLOGIA",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "90h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1608203",
+            "turmaid": "01",
+            "nome": " TOXICOLOGIA",
+            "semester": "2018.2",
+            "professor": "FRANCISCO ROBERTO DA SILVA",
+            "horario": "5M123 4T123",
+            "local": "CCS 605 (CCS) / CCS 508 (CCS)"
+          },
+          {
+            "id": "1608203",
+            "turmaid": "02",
+            "nome": " TOXICOLOGIA",
+            "semester": "2018.2",
+            "professor": "HEMERSON IURY FERREIRA MAGALHAES",
+            "horario": "24T123",
+            "local": "CCS 504 (CCS) / DCF - LABORATÓRIO DE TOXICOLOGIA (CCS)"
+          }
+        ],
+        "prerequisites": [
+          "1611101"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1608204",
+        "name": "ATENÇÃO FARMACÊUTICA",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1608204",
+            "turmaid": "01",
+            "nome": " ATENÇÃO FARMACÊUTICA",
+            "semester": "2018.2",
+            "professor": "WALLERI CHRISTINI TORELLI REIS",
+            "horario": "4M45 2T45",
+            "local": "CCS 104 (CCS)"
+          }
+        ],
+        "prerequisites": [
+          "1608197"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1608205",
+        "name": "FARMÁCIA HOSPITALAR",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1608205",
+            "turmaid": "01",
+            "nome": " FARMÁCIA HOSPITALAR",
+            "semester": "2018.2",
+            "professor": "LUCIANA LUCENA ARANHA DE MACEDO",
+            "horario": "5M45 3T12",
+            "local": "CCS 608 (CCS) / DCF - AUDITÓRIO 1 (CCS)"
+          }
+        ],
+        "prerequisites": [
+          "1608197"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1608206",
+        "name": "HOMEOPATIA E FARMACOT HOMEOPATICA",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "75h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1608206",
+            "turmaid": "01",
+            "nome": " HOMEOPATIA E FARMACOT HOMEOPATICA",
+            "semester": "2018.2",
+            "professor": "JOSE DAMIAO CHAVES BORBA",
+            "horario": "2M123 5T23",
+            "local": "CCS 805 (CCS) / CCS 802 (CCS)"
+          },
+          {
+            "id": "1608206",
+            "turmaid": "02",
+            "nome": " HOMEOPATIA E FARMACOT HOMEOPATICA",
+            "semester": "2018.2",
+            "professor": "FABIOLA BERNARDO CARNEIRO",
+            "horario": "2M123 5T23",
+            "local": "CCS 105 (CCS) / DCF - LABORATÓRIO DE FARMACOTÉCNICA ..."
+          }
+        ],
+        "prerequisites": [
+          "1105218"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1608207",
+        "name": "FARMACOTECNICA",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "90h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1608207",
+            "turmaid": "01",
+            "nome": " FARMACOTECNICA",
+            "semester": "2018.2",
+            "professor": "PABLO QUEIROZ LOPES",
+            "horario": "2M45 6M2345",
+            "local": "DCF - LABORATÓRIO DE FARMACOTÉCNICA (CCS) / CCS 104 ..."
+          },
+          {
+            "id": "1608207",
+            "turmaid": "02",
+            "nome": " FARMACOTECNICA",
+            "semester": "2018.2",
+            "professor": "LEONIA MARIA BATISTA",
+            "horario": "3M2345 5M23",
+            "local": "DCF - LABORATÓRIO DE FARMACOTÉCNICA (CCS)"
+          }
+        ],
+        "prerequisites": [
+          "1105218",
+          "1611101"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1608208",
+        "name": "GESTÃO FARMACEUTICA",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1608208",
+            "turmaid": "01",
+            "nome": " GESTÃO FARMACEUTICA",
+            "semester": "2018.2",
+            "professor": "FABIOLA BERNARDO CARNEIRO",
+            "horario": "45T45",
+            "local": "CCS 608 (CCS)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1608209",
+        "name": "SEMINARIO  DE ESTUDOS INTEGRADOS II",
+        "category": "Complementar Obrigatória",
+        "semester": 6,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1608209",
+            "turmaid": "01",
+            "nome": " SEMINARIO  DE ESTUDOS INTEGRADOS II",
+            "semester": "2018.2",
+            "professor": "JOSEAN FECHINE TAVARES",
+            "horario": "4M23",
+            "local": "CCS 607 (CCS)"
+          }
+        ],
+        "prerequisites": [
+          "1608189"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1608211",
+        "name": "ESTAGIO VIVENCIA V",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1608211",
+            "turmaid": "01",
+            "nome": " ESTAGIO VIVENCIA V",
+            "semester": "2018.2",
+            "professor": "CELIDARQUE DA SILVA DIAS",
+            "horario": "3M234",
+            "local": "DCF -  HOSPITAL 8 (CCS)"
+          },
+          {
+            "id": "1608211",
+            "turmaid": "02",
+            "nome": " ESTAGIO VIVENCIA V",
+            "semester": "2018.2",
+            "professor": "MARIANNA VIEIRA SOBRAL",
+            "horario": "3M234",
+            "local": "DCF - HOSPITAl 1 (CCS)"
+          },
+          {
+            "id": "1608211",
+            "turmaid": "03",
+            "nome": " ESTAGIO VIVENCIA V",
+            "semester": "2018.2",
+            "professor": "ISLANIA GISELIA ALBUQUERQUE GONCALVES",
+            "horario": "2T123",
+            "local": "DCF -  HOSPITAL 8 (CCS)"
+          },
+          {
+            "id": "1608211",
+            "turmaid": "04",
+            "nome": " ESTAGIO VIVENCIA V",
+            "semester": "2018.2",
+            "professor": "LUCIANA LUCENA ARANHA DE MACEDO",
+            "horario": "6M234",
+            "local": "DCF - HOSPITAl 1 (CCS)"
+          },
+          {
+            "id": "1608211",
+            "turmaid": "05",
+            "nome": " ESTAGIO VIVENCIA V",
+            "semester": "2018.2",
+            "professor": "MARIANNA VIEIRA SOBRAL",
+            "horario": "6M234",
+            "local": "DCF -  HOSPITAL 8 (CCS)"
+          },
+          {
+            "id": "1608211",
+            "turmaid": "06",
+            "nome": " ESTAGIO VIVENCIA V",
+            "semester": "2018.2",
+            "professor": "ELOIZA HELENA CAMPANA",
+            "horario": "6T234",
+            "local": "DCF - HOSPITAl 1 (CCS)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDCFA0115",
+        "name": "FARMÁCIA CLÍNICA",
+        "category": "Optativa",
+        "semester": 7,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1608204"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1608212",
+        "name": "ESTAGIO VIVENCIA VI",
+        "category": "Obrigatória",
+        "semester": 7,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1608212",
+            "turmaid": "01",
+            "nome": " ESTAGIO VIVENCIA VI",
+            "semester": "2018.2",
+            "professor": "LEONIA MARIA BATISTA",
+            "horario": "2T234",
+            "local": "DCF - LABORATÓRIO DE FARMACOTÉCNICA (CCS)"
+          }
+        ],
+        "prerequisites": [
+          "1608207"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1608215",
+        "name": "BIOTECNOLOGIA DAS FERMENTAÇÕES",
+        "category": "Obrigatória",
+        "semester": 7,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1608215",
+            "turmaid": "01",
+            "nome": " BIOTECNOLOGIA DAS FERMENTAÇÕES",
+            "semester": "2018.2",
+            "professor": "CELIDARQUE DA SILVA DIAS",
+            "horario": "25M45",
+            "local": "DCF - AUDITÓRIO 2 (CCS) / DCF - AUDITÓRIO 2 (CCS)"
+          }
+        ],
+        "prerequisites": [
+          "1104214",
+          "1611199"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1608216",
+        "name": "BROMATOLOGIA",
+        "category": "Obrigatória",
+        "semester": 7,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1608216",
+            "turmaid": "01",
+            "nome": " BROMATOLOGIA",
+            "semester": "2018.2",
+            "professor": "CELIDARQUE DA SILVA DIAS",
+            "horario": "2M123",
+            "local": "CCS 104 (CCS)"
+          }
+        ],
+        "prerequisites": [
+          "1104218"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1608217",
+        "name": "TECNOLOGIA DE MEDICAMENTOS",
+        "category": "Obrigatória",
+        "semester": 7,
+        "workload": "90h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1608217",
+            "turmaid": "01",
+            "nome": " TECNOLOGIA DE MEDICAMENTOS",
+            "semester": "2018.2",
+            "professor": "SILVANA TEREZA LACERDA JALES",
+            "horario": "5M123 5T123",
+            "local": "DCF - SALA DE AULA 1 (CCS) / DCF - AUDITÓRIO 2 (CCS)"
+          }
+        ],
+        "prerequisites": [
+          "1608207"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1608218",
+        "name": "TECNOLOGIA DE ALIMENTOS",
+        "category": "Obrigatória",
+        "semester": 7,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1608218",
+            "turmaid": "01",
+            "nome": " TECNOLOGIA DE ALIMENTOS",
+            "semester": "2018.2",
+            "professor": "SILVANA TEREZA LACERDA JALES",
+            "horario": "3T345",
+            "local": "DCF - AUDITÓRIO 2 (CCS)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1608219",
+        "name": "CONTR DE QLDE FISQM PROD FARM E COSMET",
+        "category": "Obrigatória",
+        "semester": 7,
+        "workload": "75h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1608219",
+            "turmaid": "01",
+            "nome": " CONTR DE QLDE FISQM PROD FARM E COSMET",
+            "semester": "2018.2",
+            "professor": "FABIO SANTOS DE SOUZA e IONALDO JOSE LIMA DINIZ BASILIO",
+            "horario": "3M12345",
+            "local": "DCF - LABORATÓRIO C.Q. FÍSICO-QUÍMICO (CCS)"
+          },
+          {
+            "id": "1608219",
+            "turmaid": "03",
+            "nome": " CONTR DE QLDE FISQM PROD FARM E COSMET",
+            "semester": "2018.2",
+            "professor": "FABIO SANTOS DE SOUZA",
+            "horario": "4T12345",
+            "local": "DCF - LABORATÓRIO C.Q. FÍSICO-QUÍMICO (CCS)"
+          }
+        ],
+        "prerequisites": [
+          "1105169",
+          "1608142",
+          "1608207"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1608220",
+        "name": "MÉT ESPECTROSC APLIC A ANALISE DE FÁRMAC",
+        "category": "Obrigatória",
+        "semester": 7,
+        "workload": "90h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1608220",
+            "turmaid": "01",
+            "nome": " MÉT ESPECTROSC APLIC A ANALISE DE FÁRMAC",
+            "semester": "2018.2",
+            "professor": "JOSEAN FECHINE TAVARES",
+            "horario": "4M45 6M2345",
+            "local": "CCS 607 (CCS)"
+          }
+        ],
+        "prerequisites": [
+          "1105179",
+          "1608142"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1608221",
+        "name": "BIOFARMÁCIA",
+        "category": "Obrigatória",
+        "semester": 7,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1608221",
+            "turmaid": "01",
+            "nome": " BIOFARMÁCIA",
+            "semester": "2018.2",
+            "professor": "FABIO SANTOS DE SOUZA",
+            "horario": "4M123",
+            "local": "CCS 601 (CCS)"
+          }
+        ],
+        "prerequisites": [
+          "1611101",
+          "1608207"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1608213",
+        "name": "ESTAGIO VIVENCIA VII",
+        "category": "Obrigatória",
+        "semester": 8,
+        "workload": "90h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1608213",
+            "turmaid": "01",
+            "nome": " ESTAGIO VIVENCIA VII",
+            "semester": "2018.2",
+            "professor": "CELIDARQUE DA SILVA DIAS",
+            "horario": "6M345 6T123",
+            "local": "DCF - LABORATÓRIO DE BIOTECNOLOGIA DAS FERMENTAÇÕES ..."
+          },
+          {
+            "id": "1608213",
+            "turmaid": "02",
+            "nome": " ESTAGIO VIVENCIA VII",
+            "semester": "2018.2",
+            "professor": "DAMIAO PERGENTINO DE SOUSA e BARBARA VIVIANA DE OLIVEIRA SANTOS",
+            "horario": "6M345 6T123",
+            "local": "DCF - LABORATÓRIO DE QUÍMICA FARMACÊUTICA (CCS)"
+          },
+          {
+            "id": "1608213",
+            "turmaid": "03",
+            "nome": " ESTAGIO VIVENCIA VII",
+            "semester": "2018.2",
+            "professor": "FABIOLA BERNARDO CARNEIRO",
+            "horario": "6M345 6T123",
+            "local": "DCF - LABORATÓRIO DE FARMACOTÉCNICA HOMEOPÁTICA (CCS)"
+          },
+          {
+            "id": "1608213",
+            "turmaid": "04",
+            "nome": " ESTAGIO VIVENCIA VII",
+            "semester": "2018.2",
+            "professor": "FABIO SANTOS DE SOUZA e IONALDO JOSE LIMA DINIZ BASILIO",
+            "horario": "6M345 6T123",
+            "local": "DCF - LABORATÓRIO C.Q. FÍSICO-QUÍMICO (CCS)"
+          }
+        ],
+        "prerequisites": [
+          "1608215",
+          "1608217",
+          "1608218"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1608222",
+        "name": "BIOQUÍMICA CLÍNICA I",
+        "category": "Obrigatória",
+        "semester": 8,
+        "workload": "90h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1608222",
+            "turmaid": "01",
+            "nome": " BIOQUÍMICA CLÍNICA I",
+            "semester": "2018.2",
+            "professor": "JOAO VIANNEY PEREIRA e ISABELE BESERRA SANTOS GOMES",
+            "horario": "2T23 5T2345",
+            "local": "DCF - LABORATÓRIO BIOQUIMICA (CCS)"
+          },
+          {
+            "id": "1608222",
+            "turmaid": "02",
+            "nome": " BIOQUÍMICA CLÍNICA I",
+            "semester": "2018.2",
+            "professor": "JOAO VIANNEY PEREIRA e ISABELE BESERRA SANTOS GOMES",
+            "horario": "2T23 3T2345",
+            "local": "DCF - LABORATÓRIO BIOQUIMICA (CCS) / DCF - SALA DE AULA ..."
+          }
+        ],
+        "prerequisites": [
+          "1104218",
+          "1611194",
+          "1611198"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1608224",
+        "name": "HEMATOLOGIA CLÍNICA I",
+        "category": "Obrigatória",
+        "semester": 8,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1608224",
+            "turmaid": "01",
+            "nome": " HEMATOLOGIA CLÍNICA I",
+            "semester": "2018.2",
+            "professor": "ROBSON CAVALCANTE VERAS",
+            "horario": "3M2345",
+            "local": "DCF - SALA DE AULA 1 (CCS)"
+          },
+          {
+            "id": "1608224",
+            "turmaid": "02",
+            "nome": " HEMATOLOGIA CLÍNICA I",
+            "semester": "2018.2",
+            "professor": "ROBSON CAVALCANTE VERAS",
+            "horario": "4M2345",
+            "local": "DCF - SALA DE AULA 1 (CCS)"
+          }
+        ],
+        "prerequisites": [
+          "1611194",
+          "1104218"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1608226",
+        "name": "CITOLOGIA CLÍNICA",
+        "category": "Obrigatória",
+        "semester": 8,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1608226",
+            "turmaid": "01",
+            "nome": " CITOLOGIA CLÍNICA",
+            "semester": "2018.2",
+            "professor": "DANIELE IDALINO JANEBRO XIMENES",
+            "horario": "4M2345",
+            "local": "DCF  - LABORATÓRIO HEMATOLOGIA E CITOLOGIA (CCS)"
+          },
+          {
+            "id": "1608226",
+            "turmaid": "02",
+            "nome": " CITOLOGIA CLÍNICA",
+            "semester": "2018.2",
+            "professor": "DANIELE IDALINO JANEBRO XIMENES",
+            "horario": "3M2345",
+            "local": "DCF  - LABORATÓRIO HEMATOLOGIA E CITOLOGIA (CCS)"
+          }
+        ],
+        "prerequisites": [
+          "1104218",
+          "1611194"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1608227",
+        "name": "MICROBIOLOGIA CLÍNICA",
+        "category": "Obrigatória",
+        "semester": 8,
+        "workload": "90h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1608227",
+            "turmaid": "01",
+            "nome": " MICROBIOLOGIA CLÍNICA",
+            "semester": "2018.2",
+            "professor": "LAURO SANTOS FILHO",
+            "horario": "2M45 3T1234",
+            "local": "DCF - LABORATÓRIO DE MICROBIOLOGIA (CCS)"
+          },
+          {
+            "id": "1608227",
+            "turmaid": "02",
+            "nome": " MICROBIOLOGIA CLÍNICA",
+            "semester": "2018.2",
+            "professor": "ELOIZA HELENA CAMPANA",
+            "horario": "2M45 5T2345",
+            "local": "DCF - LABORATÓRIO DE MICROBIOLOGIA (CCS) / DCF - SALA DE ..."
+          }
+        ],
+        "prerequisites": [
+          "1611198",
+          "1611199"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1608228",
+        "name": "CONTR DE QLDE BIOL PROD FARM E COSMET",
+        "category": "Obrigatória",
+        "semester": 8,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1608228",
+            "turmaid": "01",
+            "nome": " CONTR DE QLDE BIOL PROD FARM E COSMET",
+            "semester": "2018.2",
+            "professor": "RUI OLIVEIRA MACEDO",
+            "horario": "24T45",
+            "local": "DCF - LABORATÓRIO C.Q. BIOLÓGICO (CCS)"
+          }
+        ],
+        "prerequisites": [
+          "1608219"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1608229",
+        "name": "PARASITOLOGIA CLÍNICA I",
+        "category": "Obrigatória",
+        "semester": 8,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1608229",
+            "turmaid": "01",
+            "nome": " PARASITOLOGIA CLÍNICA I",
+            "semester": "2018.2",
+            "professor": "DEYSIANE OLIVEIRA BRANDAO",
+            "horario": "4T123",
+            "local": "DCF - LABORATÓRIO PARASITOLOGIA (CCS)"
+          },
+          {
+            "id": "1608229",
+            "turmaid": "02",
+            "nome": " PARASITOLOGIA CLÍNICA I",
+            "semester": "2018.2",
+            "professor": "DEYSIANE OLIVEIRA BRANDAO",
+            "horario": "2M123",
+            "local": "DCF - LABORATÓRIO PARASITOLOGIA (CCS)"
+          }
+        ],
+        "prerequisites": [
+          "1611198",
+          "1611139"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1608210",
+        "name": "SEMINARIO  DE ESTUDOS INTEGRADOS III",
+        "category": "Complementar Obrigatória",
+        "semester": 9,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1608210",
+            "turmaid": "01",
+            "nome": " SEMINARIO  DE ESTUDOS INTEGRADOS III",
+            "semester": "2018.2",
+            "professor": "PAULO MARQUES DA SILVA CAVALCANTI",
+            "horario": "6M45",
+            "local": "CCS 805 (CCS)"
+          }
+        ],
+        "prerequisites": [
+          "1608209"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1608214",
+        "name": "ESTAGIO VIVENCIA VIII",
+        "category": "Obrigatória",
+        "semester": 9,
+        "workload": "90h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1608214",
+            "turmaid": "01",
+            "nome": " ESTAGIO VIVENCIA VIII",
+            "semester": "2018.2",
+            "professor": "ROBSON CAVALCANTE VERAS e DANIELE IDALINO JANEBRO XIMENES",
+            "horario": "56M123",
+            "local": "DCF  - LABORATÓRIO HEMATOLOGIA E CITOLOGIA (CCS)"
+          },
+          {
+            "id": "1608214",
+            "turmaid": "02",
+            "nome": " ESTAGIO VIVENCIA VIII",
+            "semester": "2018.2",
+            "professor": "ZELIA BRAZ VIEIRA DA SILVA PONTES",
+            "horario": "56M123",
+            "local": "DCF  -  LABORATÓRIO DE MICOLOGIA (CCS)"
+          },
+          {
+            "id": "1608214",
+            "turmaid": "03",
+            "nome": " ESTAGIO VIVENCIA VIII",
+            "semester": "2018.2",
+            "professor": "FRANCISCA INES DE SOUZA FREITAS",
+            "horario": "56M123",
+            "local": "DCF - LABORATÓRIO PARASITOLOGIA (CCS)"
+          },
+          {
+            "id": "1608214",
+            "turmaid": "04",
+            "nome": " ESTAGIO VIVENCIA VIII",
+            "semester": "2018.2",
+            "professor": "ISABELE BESERRA SANTOS GOMES",
+            "horario": "56M123",
+            "local": "DCF - LABORATÓRIO BIOQUIMICA (CCS)"
+          },
+          {
+            "id": "1608214",
+            "turmaid": "05",
+            "nome": " ESTAGIO VIVENCIA VIII",
+            "semester": "2018.2",
+            "professor": "ELOIZA HELENA CAMPANA e LAURO SANTOS FILHO",
+            "horario": "56M123",
+            "local": "DCF - LABORATÓRIO DE MICROBIOLOGIA (CCS)"
+          },
+          {
+            "id": "1608214",
+            "turmaid": "06",
+            "nome": " ESTAGIO VIVENCIA VIII",
+            "semester": "2018.2",
+            "professor": "HEMERSON IURY FERREIRA MAGALHAES",
+            "horario": "56M123",
+            "local": "DCF - LABORATÓRIO DE TOXICOLOGIA (CCS)"
+          }
+        ],
+        "prerequisites": [
+          "1608222",
+          "1608224",
+          "1608226",
+          "1608227",
+          "1608229",
+          "1608203"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1608223",
+        "name": "BIOQUÍMICA CLÍNICA II",
+        "category": "Obrigatória",
+        "semester": 9,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1608223",
+            "turmaid": "01",
+            "nome": " BIOQUÍMICA CLÍNICA II",
+            "semester": "2018.2",
+            "professor": "JOAO VIANNEY PEREIRA e ISABELE BESERRA SANTOS GOMES",
+            "horario": "4M2345",
+            "local": "DCF - LABORATÓRIO BIOQUIMICA (CCS)"
+          },
+          {
+            "id": "1608223",
+            "turmaid": "02",
+            "nome": " BIOQUÍMICA CLÍNICA II",
+            "semester": "2018.2",
+            "professor": "JOAO VIANNEY PEREIRA e ISABELE BESERRA SANTOS GOMES",
+            "horario": "3M2345",
+            "local": "DCF - LABORATÓRIO BIOQUIMICA (CCS)"
+          }
+        ],
+        "prerequisites": [
+          "1608222"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1608225",
+        "name": "HEMATOLOGIA CLÍNICA II",
+        "category": "Obrigatória",
+        "semester": 9,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1608225",
+            "turmaid": "01",
+            "nome": " HEMATOLOGIA CLÍNICA II",
+            "semester": "2018.2",
+            "professor": "DANIELE IDALINO JANEBRO XIMENES",
+            "horario": "2M45",
+            "local": "DCF  - LABORATÓRIO HEMATOLOGIA E CITOLOGIA (CCS)"
+          },
+          {
+            "id": "1608225",
+            "turmaid": "02",
+            "nome": " HEMATOLOGIA CLÍNICA II",
+            "semester": "2018.2",
+            "professor": "ROBSON CAVALCANTE VERAS",
+            "horario": "2M23",
+            "local": "DCF  - LABORATÓRIO HEMATOLOGIA E CITOLOGIA (CCS)"
+          }
+        ],
+        "prerequisites": [
+          "1608224"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1608230",
+        "name": "PARASITOLOGIA CLÍNICA II",
+        "category": "Obrigatória",
+        "semester": 9,
+        "workload": "75h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1608230",
+            "turmaid": "01",
+            "nome": " PARASITOLOGIA CLÍNICA II",
+            "semester": "2018.2",
+            "professor": "FRANCISCA INES DE SOUZA FREITAS",
+            "horario": "3M12345",
+            "local": "DCF - LABORATÓRIO PARASITOLOGIA (CCS)"
+          },
+          {
+            "id": "1608230",
+            "turmaid": "02",
+            "nome": " PARASITOLOGIA CLÍNICA II",
+            "semester": "2018.2",
+            "professor": "FRANCISCA INES DE SOUZA FREITAS",
+            "horario": "4M12345",
+            "local": "DCF - LABORATÓRIO PARASITOLOGIA (CCS)"
+          }
+        ],
+        "prerequisites": [
+          "1608229"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1608231",
+        "name": "IMUNOLOGIA CLÍNICA E VIROLOGIA",
+        "category": "Obrigatória",
+        "semester": 9,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1608231",
+            "turmaid": "01",
+            "nome": " IMUNOLOGIA CLÍNICA E VIROLOGIA",
+            "semester": "2018.2",
+            "professor": "THOMPSON LOPES DE OLIVEIRA",
+            "horario": "4T2345",
+            "local": "DCF  - LABORATÓRIO DE IMUNOLOGIA (CCS)"
+          },
+          {
+            "id": "1608231",
+            "turmaid": "02",
+            "nome": " IMUNOLOGIA CLÍNICA E VIROLOGIA",
+            "semester": "2018.2",
+            "professor": "THOMPSON LOPES DE OLIVEIRA",
+            "horario": "3T2345",
+            "local": "DCF  - LABORATÓRIO DE IMUNOLOGIA (CCS)"
+          }
+        ],
+        "prerequisites": [
+          "1611199"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1608232",
+        "name": "MICOLOGIA CLÍNICA",
+        "category": "Obrigatória",
+        "semester": 9,
+        "workload": "90h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1608232",
+            "turmaid": "01",
+            "nome": " MICOLOGIA CLÍNICA",
+            "semester": "2018.2",
+            "professor": "ZELIA BRAZ VIEIRA DA SILVA PONTES",
+            "horario": "2T23 3T1234",
+            "local": "DCF  -  LABORATÓRIO DE MICOLOGIA (CCS)"
+          },
+          {
+            "id": "1608232",
+            "turmaid": "02",
+            "nome": " MICOLOGIA CLÍNICA",
+            "semester": "2018.2",
+            "professor": "FELIPE QUEIROGA SARMENTO GUERRA",
+            "horario": "2T23 4T1234",
+            "local": "DCF - SALA DE AULA 2 (CCS) / DCF  -  LABORATÓRIO DE ..."
+          }
+        ],
+        "prerequisites": [
+          "1104218",
+          "1611194",
+          "1611198"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDCFA0113",
+        "name": "TRABALHO DE CONCLUSÃO DE CURSO",
+        "category": "Complementar Obrigatória",
+        "semester": 9,
+        "workload": "30h aula 0h lab.",
+        "type": "TRABALHO DE CONCLUSÃO DE CURSO",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1608234",
+        "name": "ESTÁGIO SUPERV I FARM PÚBL E HOSP",
+        "category": "Obrigatória",
+        "semester": 10,
+        "workload": "210h aula 0h lab.",
+        "type": "ESTÁGIO",
+        "turmas": [
+          {
+            "id": "1608234",
+            "turmaid": "01",
+            "nome": " ESTÁGIO SUPERV I FARM PÚBL E HOSP",
+            "semester": "2018.2",
+            "professor": "WALLERI CHRISTINI TORELLI REIS, LUCIANA LUCENA ARANHA DE MACEDO, MARIANNA VIEIRA SOBRAL, ISLANIA GISELIA ALBUQUERQUE GONCALVES e FELIPE QUEIROGA SARMENTO GUERRA",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+          "1608198",
+          "1608204",
+          "1608205",
+          "1608208",
+          "1608195",
+          "1608197",
+          "1608212"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1608235",
+        "name": "ESTÁGIO SUPERV II  INDÚSTRIA",
+        "category": "Obrigatória",
+        "semester": 10,
+        "workload": "210h aula 0h lab.",
+        "type": "ESTÁGIO",
+        "turmas": [
+          {
+            "id": "1608235",
+            "turmaid": "01",
+            "nome": " ESTÁGIO SUPERV II  INDÚSTRIA",
+            "semester": "2018.2",
+            "professor": "CELIDARQUE DA SILVA DIAS, JOSE DAMIAO CHAVES BORBA, FABIO SANTOS DE SOUZA, IONALDO JOSE LIMA DINIZ BASILIO, SILVANA TEREZA LACERDA JALES, FABIOLA BERNARDO CARNEIRO e PABLO QUEIROZ LOPES",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+          "1608215",
+          "1608216",
+          "1608217",
+          "1608218",
+          "1608219",
+          "1608221"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1608237",
+        "name": "ESTÁGIO SUPERV IV  ERIP",
+        "category": "Obrigatória",
+        "semester": 10,
+        "workload": "120h aula 0h lab.",
+        "type": "ESTÁGIO",
+        "turmas": [
+          {
+            "id": "1608237",
+            "turmaid": "01",
+            "nome": " ESTÁGIO SUPERV IV  ERIP",
+            "semester": "2018.2",
+            "professor": "FRANCISCO ROBERTO DA SILVA, HEMERSON IURY FERREIRA MAGALHAES e PABLO QUEIROZ LOPES",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+          "1608198",
+          "1608211",
+          "1608213",
+          "1608214"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1608236",
+        "name": " ESTÁGIO SUPERV III ANÁLISES CLÍNICAS",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": "30h",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1608236",
+            "turmaid": "01",
+            "nome": " ESTÁGIO SUPERV III ANÁLISES CLÍNICAS",
+            "semester": "2018.2",
+            "professor": "ZELIA BRAZ VIEIRA DA SILVA PONTES, ISABELE BESERRA SANTOS GOMES, ELOIZA HELENA CAMPANA, ROBSON CAVALCANTE VERAS e DANIELE IDALINO JANEBRO XIMENES",
+            "horario": "",
+            "local": ""
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      }
+    ]
+  }
+}

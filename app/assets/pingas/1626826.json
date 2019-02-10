@@ -1,0 +1,848 @@
+{
+  "curriculum": {
+    "id": "512009",
+    "codigo": "1626826",
+    "name": "CURSO SUPERIOR DE TECNOLOGIA EM GESTÃO PÚBLICA - João Pessoa - Presencial - T - TECNOLÓGICO",
+    "faculty": "CENTRO DE CIÊNCIAS SOCIAIS E APLICADAS (CCSA) (11.00.52)",
+    "minch": "240",
+    "maxch": "540",
+    "semesters": 6,
+    "courses": [
+      {
+        "id": "1403747",
+        "name": "LIBRAS  LÍNGUA BRASILEIRA DE SINAIS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDLS0024",
+        "name": "LIBRAS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1103261",
+        "name": "MATEMÁTICA APLIC À GESTÃO PÚBLICATECNÓL",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1903002",
+        "name": "INFORMÁTICA APLIC À GESTÃO PÚBLICA",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1903003",
+        "name": "METODOLOGIA DO TRABALHO CIENTÍFICO",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1903004",
+        "name": "FUNDAMENTOS DE ECONOMIA",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1903005",
+        "name": "TEORIA DAS ORGANIZAÇÕES",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1903006",
+        "name": "FUNDAMENTOS DE CIÊNCIAS SOCIAIS",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1108184",
+        "name": "ESTATÍSTICA PARA GESTÃO PUBLICA",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1502231",
+        "name": "INTRODUÇÃO AO ESTUDO DO DIREITOGPUBL",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1903007",
+        "name": "BASES DA ADMINISTRAÇÃO PUBLICA",
+        "category": "Complementar Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1903005"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1903008",
+        "name": "CIENCIA POLITICA",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1903006"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1903009",
+        "name": "ETICA NA ADMINISTRAÇÃO PUBLICA",
+        "category": "Complementar Obrigatória",
+        "semester": 2,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1903010",
+        "name": "FUNDAMENTOS DE CONTABILIDADE",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1903014",
+        "name": "TOPICOS ESPECIAIS EM GESTÃO PUBLICA I",
+        "category": "Complementar Flexiva",
+        "semester": 3,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1501224",
+        "name": "DIREITO CONSTITUCIONAL GPUBL",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1502231"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1903011",
+        "name": "CONTABILIDADE PUBLICA",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1903010"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1903012",
+        "name": "PROCESSOS ORGANIZACIONAIS",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1903005"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1903013",
+        "name": "ADMINISTRAÇÃO DE RECURSOS HUMANOS",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1903023",
+        "name": "POLITICAS PUBLICAS",
+        "category": "Complementar Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1903007"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1903015",
+        "name": "TOPICOS ESPECIAIS EM GESTÃO PUBLICA II",
+        "category": "Complementar Flexiva",
+        "semester": 4,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1501225",
+        "name": "DIREITO ADMINISTRATIVO GPUBL",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1502231"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1903017",
+        "name": "FINANÇAS PUBLICAS",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1903011"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1903018",
+        "name": "GESTÃO MUNICIPAL",
+        "category": "Complementar Obrigatória",
+        "semester": 4,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1903007"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1903019",
+        "name": "PODER E DESENVOLVIMENTO LOCAL",
+        "category": "Complementar Obrigatória",
+        "semester": 4,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1903020",
+        "name": "ECONOMIA NO SETOR PUBLICO",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1903021",
+        "name": "ADM DE REC MATERIAIS E PATRIMONIAIS",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1903016",
+        "name": "TOPICOS ESPECIAIS EM GESTÃO PUBLICA III",
+        "category": "Complementar Flexiva",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1903034",
+        "name": "MARKETING INSTITUCIONAL",
+        "category": "Optativa",
+        "semester": 5,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1903035",
+        "name": "QUALIDADE NA GESTÃO PUBLICA",
+        "category": "Optativa",
+        "semester": 5,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1903036",
+        "name": "MEIO AMBIENTE E DESENV SUSTENTAVEL",
+        "category": "Optativa",
+        "semester": 5,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1903036",
+            "turmaid": "02",
+            "nome": " MEIO AMBIENTE E DESENV SUSTENTAVEL",
+            "semester": "2018.2",
+            "professor": "JULIANA FERNANDES MOREIRA",
+            "horario": "2T45",
+            "local": "CCSA 224 (CCSA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1903037",
+        "name": "RESPONSABILIDADE SOCIAL",
+        "category": "Optativa",
+        "semester": 5,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1903037",
+            "turmaid": "02",
+            "nome": " RESPONSABILIDADE SOCIAL",
+            "semester": "2018.2",
+            "professor": "VANDERSON GONCALVES CARNEIRO",
+            "horario": "5T45",
+            "local": "CCSA 224 (CCSA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1903022",
+        "name": "PESQUISA APLICADA À GESTÃO PUBLICA",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1903022",
+            "turmaid": "03",
+            "nome": " PESQUISA APLICADA À GESTÃO PUBLICA",
+            "semester": "2018.2",
+            "professor": "JAMES BATISTA VIEIRA",
+            "horario": "34T23",
+            "local": "CCSA 224 (CCSA)"
+          }
+        ],
+        "prerequisites": [
+          "1903003"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1903024",
+        "name": "ELABORAÇÃO E GESTÃO DE PROJETOS",
+        "category": "Complementar Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1903024",
+            "turmaid": "03",
+            "nome": " ELABORAÇÃO E GESTÃO DE PROJETOS",
+            "semester": "2018.2",
+            "professor": "FERNANDO JOSE VIEIRA TORRES",
+            "horario": "46T45",
+            "local": "CCSA 224 (CCSA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1903025",
+        "name": "LICITAÇÃO E GESTÃO DE CONTRATOS",
+        "category": "Complementar Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1903025",
+            "turmaid": "02",
+            "nome": " LICITAÇÃO E GESTÃO DE CONTRATOS",
+            "semester": "2018.2",
+            "professor": "JULIANA FERNANDES MOREIRA",
+            "horario": "25T23",
+            "local": "CCSA 224 (CCSA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1903026",
+        "name": "ORÇAMENTO PUBLICO",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1903026",
+            "turmaid": "01",
+            "nome": " ORÇAMENTO PUBLICO",
+            "semester": "2018.2",
+            "professor": "MARIA DANIELLA DE OLIVEIRA PEREIRA DA SILVA",
+            "horario": "3T45 6T23",
+            "local": "CCSA 224 (CCSA)"
+          }
+        ],
+        "prerequisites": [
+          "1903017"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1903032",
+        "name": "ESTAGIO SUPERVISIONADO",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "120h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1903032",
+            "turmaid": "01",
+            "nome": " ESTAGIO SUPERVISIONADO",
+            "semester": "2018.2",
+            "professor": "JOSENEIDE SOUZA PESSOA",
+            "horario": "7T123456 7N12",
+            "local": "Sala Virtual (PGPCI) (CCSA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1903027",
+        "name": "POLITICAS DE DESENV ECONOMICO E REGIONAL",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1903027",
+            "turmaid": "01",
+            "nome": " POLITICAS DE DESENV ECONOMICO E REGIONAL",
+            "semester": "2018.2",
+            "professor": "GLENDA DANTAS FERREIRA",
+            "horario": "24N12",
+            "local": "CCSA 203 (CCSA)"
+          }
+        ],
+        "prerequisites": [
+          "1903023"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1903028",
+        "name": "AUDITORIA PUBLICA",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1903028",
+            "turmaid": "01",
+            "nome": " AUDITORIA PUBLICA",
+            "semester": "2018.2",
+            "professor": "MARIA DANIELLA DE OLIVEIRA PEREIRA DA SILVA",
+            "horario": "36N12",
+            "local": "CCSA 203 (CCSA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1903029",
+        "name": "SISTEMAS DE INF E DECISÃO NO GOVERNO",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1903029",
+            "turmaid": "02",
+            "nome": " SISTEMAS DE INF E DECISÃO NO GOVERNO",
+            "semester": "2018.2",
+            "professor": "HERMANN ATILA HRDLICKA",
+            "horario": "23N34",
+            "local": "CCSA 203 (CCSA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1903030",
+        "name": "PLANEJAMENTO ESTRAT NO SETOR PUBLICO",
+        "category": "Complementar Obrigatória",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1903030",
+            "turmaid": "01",
+            "nome": " PLANEJAMENTO ESTRAT NO SETOR PUBLICO",
+            "semester": "2018.2",
+            "professor": "MARCO ANTONIO CASTILHOS ACCO",
+            "horario": "56N34",
+            "local": "CCSA 203 (CCSA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1903031",
+        "name": "GESTÃO DE SERVÇOS PUBLICOS",
+        "category": "Complementar Obrigatória",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1903031",
+            "turmaid": "02",
+            "nome": " GESTÃO DE SERVÇOS PUBLICOS",
+            "semester": "2018.2",
+            "professor": "VANDERSON GONCALVES CARNEIRO",
+            "horario": "4N34 5N12",
+            "local": "CCSA 203 (CCSA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1903033",
+        "name": "TRABALHO DE CONCLUSÃO DE CURSO  TCC",
+        "category": "Complementar Obrigatória",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1903033",
+            "turmaid": "01",
+            "nome": " TRABALHO DE CONCLUSÃO DE CURSO  TCC",
+            "semester": "2018.2",
+            "professor": "JOSENEIDE SOUZA PESSOA",
+            "horario": "7M1234",
+            "local": "Sala Virtual (PGPCI) (CCSA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      }
+    ]
+  }
+}

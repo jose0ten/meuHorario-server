@@ -1,0 +1,3174 @@
+{
+  "curriculum": {
+    "id": "2007",
+    "codigo": "1626698",
+    "name": "PEDAGOGIA - João Pessoa - Presencial - MAGIST ANOS INIC PEC MSC - MT - LICENCIATURA PLENA",
+    "faculty": "CENTRO DE EDUCAÇÃO (CE) (11.00.56)",
+    "minch": "540",
+    "maxch": "450",
+    "semesters": 10,
+    "courses": [
+      {
+        "id": "1301286",
+        "name": "TOP ESP EDUC CAMPO E DESV AUTOPEC MSC",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1301288",
+        "name": "SEMINÁRIO TEMÁTICO  PEC MSC",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1302426",
+        "name": "PLANEJAMENTO E AVALIAÇAO EDUC  PECMSC",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1302293"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1303369",
+        "name": "ESTÁGIO SUPERVISIONADO II PECMSC",
+        "category": "Obrigatória",
+        "semester": 0,
+        "workload": "75h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1303368"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1301230",
+        "name": "FILOSOFIA DA EDUCACAO PEC MSC",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "75h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1301231",
+        "name": "SOCIOLOGIA DA EDUCACAO PEC MSC",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "75h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1301232",
+        "name": "HISTORIA DA EDUCACAO PEC MSC",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "75h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1301233",
+        "name": "PSICOLOGIA DA EDUCACAO PEC MSC",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "75h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1303219",
+        "name": "METODOLOGIA DO TRABALHO CIENTIFICO MSC",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1301236",
+        "name": "SEMINARIO I REALID EDUC BRAS PEC MSC",
+        "category": "Complementar Flexiva",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1301237",
+        "name": "TOPICOS ESPEC CULT GEN RELIG PEC MSC",
+        "category": "Complementar Flexiva",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1301234",
+        "name": "FUND SOCIOHISTORICOS EDUC CAMPO PEC MSC",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1301231",
+          "1301232"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1301235",
+        "name": "EDUC ECON POP SOLID PRAT ASSOC PEC MSC",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1303220",
+        "name": "POLITICA EDUCACIONAL PEC MSC",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1303221",
+        "name": "PESQUISA E PRATICAS EDUCATIVA I PEC MSC",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "75h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1303210",
+            "turmaid": "03",
+            "nome": " CURRICULO E TRABALHO PEDAGOGICO",
+            "semester": "2018.2",
+            "professor": "JOSÉ LEONARDO ROLIM DE LIMA SEVERO",
+            "horario": "4N1234",
+            "local": "MESTR 02 (CE)"
+          },
+          {
+            "id": "1303210",
+            "turmaid": "05",
+            "nome": " CURRICULO E TRABALHO PEDAGOGICO",
+            "semester": "2018.2",
+            "professor": "JEANE FELIX DA SILVA",
+            "horario": "2T345 4T5",
+            "local": "CE 307 (CE)"
+          },
+          {
+            "id": "1303210",
+            "turmaid": "06",
+            "nome": " CURRICULO E TRABALHO PEDAGOGICO",
+            "semester": "2018.2",
+            "professor": "MARIA ZULEIDE DA COSTA PEREIRA",
+            "horario": "2M5 3M345",
+            "local": "CE 303 (CE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+          "1303210"
+        ]
+      },
+      {
+        "id": "1403163",
+        "name": "LINGUA PORTUGUESA I",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1301259",
+        "name": "SEMINARIO II REALID EDUC BRAS DO CAMPO",
+        "category": "Complementar Flexiva",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1301257",
+        "name": "FUNDAMENTOS DA EDUC E DO ENSINO FUNDAMEN",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1303220"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1301258",
+        "name": "GESTAO EDUCACIONAL",
+        "category": "Complementar Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1302292",
+        "name": "EDUCACAO E MOVIMENTOS SOCIAIS MSC",
+        "category": "Complementar Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1302293",
+        "name": "DIDATICA MSC",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1302369",
+        "name": "PROJETO DE PESQUISA E EXTENSAO",
+        "category": "Complementar Obrigatória",
+        "semester": 3,
+        "workload": "90h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1303245",
+        "name": "PESQUISA E PRATICAS EDUCATIVA II",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1303221"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1301273",
+        "name": "FUNDAMENTOS DA EJA  PECMSC",
+        "category": "Complementar Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1302467",
+        "name": "ARTES E EDUCAÇÃO  PECMSC",
+        "category": "Complementar Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1303365",
+        "name": "CURRÍCULO E EDUCAÇÃO PECMSC",
+        "category": "Complementar Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1303366",
+        "name": "PESQUISA E PRÁTICAS EDUC III PEC MSC",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1303367",
+        "name": "PROJETO DE PESQ E EXTENSÃO II PECMSC",
+        "category": "Complementar Obrigatória",
+        "semester": 4,
+        "workload": "90h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1302369"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1303368",
+        "name": "ESTÁGIO SUPERVISIONADO I  PECMSC",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1302469",
+        "name": "ORGANIZAÇOA E PRATICA DA ED ESP PECMSC",
+        "category": "Optativa",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1302473",
+        "name": "TOP ESP TEPSOFINAS DE ART E ED PECMSC",
+        "category": "Complementar Flexiva",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1302468",
+        "name": "CONTEUDO E METOD DO ENS DE PORT PECMSC",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "75h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1403163"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1302470",
+        "name": "ORGANIZAÇOA E PRATICA DA EJA PECMSC",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1301273"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1302471",
+        "name": "CONTEUDO E METOD DO ENS DE HIST PECMSC",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1301232"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1302472",
+        "name": "CONTEUDO E METOD DO ENS DE GEO PECMSC",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1302474",
+        "name": "ESTAGIO SUPERVISIONADO II PECMSC",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "75h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1303368"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1302324",
+        "name": " ALFABETIZACAO DE JOVENS E ADULTOS",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": "60h",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1302324",
+            "turmaid": "01",
+            "nome": " ALFABETIZACAO DE JOVENS E ADULTOS",
+            "semester": "2018.2",
+            "professor": "QUÉZIA VILA FLOR FURTADO",
+            "horario": "3N1234",
+            "local": "CE 305 (CE)"
+          },
+          {
+            "id": "1302324",
+            "turmaid": "02",
+            "nome": " ALFABETIZACAO DE JOVENS E ADULTOS",
+            "semester": "2018.2",
+            "professor": "TIMOTHY DENIS IRELAND",
+            "horario": "3T1234",
+            "local": "CE 306 (CE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1302304",
+        "name": " AVALIACAO DA APRENDIZAGEM",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": "60h",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1302304",
+            "turmaid": "01",
+            "nome": " AVALIACAO DA APRENDIZAGEM",
+            "semester": "2018.2",
+            "professor": "IRANETE DE ARAÚJO MEIRA",
+            "horario": "2M45 3M12",
+            "local": "CE 305 (CE)"
+          },
+          {
+            "id": "1302304",
+            "turmaid": "02",
+            "nome": " AVALIACAO DA APRENDIZAGEM",
+            "semester": "2018.2",
+            "professor": "ELZANIR DOS SANTOS",
+            "horario": "2T123 3T1",
+            "local": "CE 305 (CE)"
+          },
+          {
+            "id": "1302304",
+            "turmaid": "06",
+            "nome": " AVALIACAO DA APRENDIZAGEM",
+            "semester": "2018.2",
+            "professor": "IRANETE DE ARAÚJO MEIRA",
+            "horario": "6N1234",
+            "local": "CE 306 (CE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1303224",
+        "name": " AVALIACAO DE PROCEDIMENTOS DE INTERVENCA",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": "60h",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1303224",
+            "turmaid": "01",
+            "nome": " AVALIACAO DE PROCEDIMENTOS DE INTERVENCA",
+            "semester": "2018.2",
+            "professor": "MUNIQUE MASSARO",
+            "horario": "2N1234",
+            "local": "MESTR 02 (CE)"
+          },
+          {
+            "id": "1303224",
+            "turmaid": "02",
+            "nome": " AVALIACAO DE PROCEDIMENTOS DE INTERVENCA",
+            "semester": "2018.2",
+            "professor": "JANINE MARTA COELHO RODRIGUES",
+            "horario": "4M1234",
+            "local": "CE 317 (CE)"
+          },
+          {
+            "id": "1303224",
+            "turmaid": "03",
+            "nome": " AVALIACAO DE PROCEDIMENTOS DE INTERVENCA",
+            "semester": "2018.2",
+            "professor": "MUNIQUE MASSARO",
+            "horario": "2T1234",
+            "local": "CE 310 (CE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1301227",
+        "name": " CORPO AMBIENTE E EDUCACAO",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": "60h",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1301227",
+            "turmaid": "01",
+            "nome": " CORPO AMBIENTE E EDUCACAO",
+            "semester": "2018.2",
+            "professor": "MARIA DEBORAH CABRAL DE SOUSA",
+            "horario": "26M12",
+            "local": "CE 308 (CE)"
+          },
+          {
+            "id": "1301227",
+            "turmaid": "02",
+            "nome": " CORPO AMBIENTE E EDUCACAO",
+            "semester": "2018.2",
+            "professor": "VERA LUCIA ARAUJO DE LUCENA",
+            "horario": "2T123 3T1",
+            "local": "CE 308 (CE)"
+          },
+          {
+            "id": "1301227",
+            "turmaid": "03",
+            "nome": " CORPO AMBIENTE E EDUCACAO",
+            "semester": "2018.2",
+            "professor": "MARIA DEBORAH CABRAL DE SOUSA",
+            "horario": "6N1234",
+            "local": "CE 308 (CE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1302337",
+        "name": " CULTURA E EDUCACAO DE JOVENS E ADULTOS",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": "60h",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1302337",
+            "turmaid": "01",
+            "nome": " CULTURA E EDUCACAO DE JOVENS E ADULTOS",
+            "semester": "2018.2",
+            "professor": "JOSE VAZ MAGALHAES NETO",
+            "horario": "6N1234",
+            "local": "CE 310 (CE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1303210",
+        "name": " CURRICULO E TRABALHO PEDAGOGICO",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": "60h",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1303210",
+            "turmaid": "03",
+            "nome": " CURRICULO E TRABALHO PEDAGOGICO",
+            "semester": "2018.2",
+            "professor": "JOSÉ LEONARDO ROLIM DE LIMA SEVERO",
+            "horario": "4N1234",
+            "local": "MESTR 02 (CE)"
+          },
+          {
+            "id": "1303210",
+            "turmaid": "05",
+            "nome": " CURRICULO E TRABALHO PEDAGOGICO",
+            "semester": "2018.2",
+            "professor": "JEANE FELIX DA SILVA",
+            "horario": "2T345 4T5",
+            "local": "CE 307 (CE)"
+          },
+          {
+            "id": "1303210",
+            "turmaid": "06",
+            "nome": " CURRICULO E TRABALHO PEDAGOGICO",
+            "semester": "2018.2",
+            "professor": "MARIA ZULEIDE DA COSTA PEREIRA",
+            "horario": "2M5 3M345",
+            "local": "CE 303 (CE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1302105",
+        "name": " DIDÁTICA",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": "60h",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1302105",
+            "turmaid": "04",
+            "nome": " DIDÁTICA",
+            "semester": "2018.2",
+            "professor": "DANIEL FIGUEIRAS ALVES",
+            "horario": "3M3456",
+            "local": "CE 305 (CE)"
+          },
+          {
+            "id": "1302105",
+            "turmaid": "05",
+            "nome": " DIDÁTICA",
+            "semester": "2018.2",
+            "professor": "AURENISIA COUTINHO IVO e MARA LEITE SIMOES",
+            "horario": "35T45",
+            "local": "CAB 103 (PRG)"
+          },
+          {
+            "id": "1302105",
+            "turmaid": "06",
+            "nome": " DIDÁTICA",
+            "semester": "2018.2",
+            "professor": "JOSE RAMOS BARBOSA DA SILVA",
+            "horario": "3T2345",
+            "local": "CE 305 (CE)"
+          },
+          {
+            "id": "1302105",
+            "turmaid": "07",
+            "nome": " DIDÁTICA",
+            "semester": "2018.2",
+            "professor": "ISABEL MARINHO DA COSTA",
+            "horario": "2N1234",
+            "local": "CE 306 (CE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1303230",
+        "name": " DISTURBIOS DE APRENDIZAGEM",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": "60h",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1303230",
+            "turmaid": "01",
+            "nome": " DISTURBIOS DE APRENDIZAGEM",
+            "semester": "2018.2",
+            "professor": "MAGNO ALEXON BEZERRA SEABRA",
+            "horario": "6N1234",
+            "local": "CE 304 (CE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1301244",
+        "name": " ECONOMIA DA EDUCACAO",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": "60h",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1301244",
+            "turmaid": "01",
+            "nome": " ECONOMIA DA EDUCACAO",
+            "semester": "2018.2",
+            "professor": "MARIA APARECIDA NUNES PEREIRA",
+            "horario": "45M45",
+            "local": "CE 301 (CE)"
+          },
+          {
+            "id": "1301244",
+            "turmaid": "02",
+            "nome": " ECONOMIA DA EDUCACAO",
+            "semester": "2018.2",
+            "professor": "MARIA APARECIDA NUNES PEREIRA",
+            "horario": "24T12",
+            "local": "CE 301 (CE)"
+          },
+          {
+            "id": "1301244",
+            "turmaid": "03",
+            "nome": " ECONOMIA DA EDUCACAO",
+            "semester": "2018.2",
+            "professor": "VIRGINIA MARIA MAGLIANO DE MORAIS",
+            "horario": "5N1234",
+            "local": "CE 302 (CE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1303362",
+        "name": " EDUCAÇÃO DAS RELAÇÕES ÉTNICORRACIAIS E ENSINO DE HISTÓRIA E CULTURA AFROBRASILEIRA E AFRICANA",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": "60h",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1303362",
+            "turmaid": "01",
+            "nome": " EDUCAÇÃO DAS RELAÇÕES ÉTNICORRACIAIS E ENSINO DE HISTÓRIA E CULTURA AFROBRASILEIRA E AFRICANA",
+            "semester": "2018.2",
+            "professor": "SURYA AARONOVICH POMBO DE BARROS",
+            "horario": "6T1234",
+            "local": "CE 318 (CE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1302333",
+        "name": " EDUCACAO DE JOVENS E ADULTOS",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": "60h",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1302333",
+            "turmaid": "01",
+            "nome": " EDUCACAO DE JOVENS E ADULTOS",
+            "semester": "2018.2",
+            "professor": "SUELIDIA MARIA CALACA",
+            "horario": "2T456 4T1",
+            "local": "CE 308 (CE)"
+          },
+          {
+            "id": "1302333",
+            "turmaid": "02",
+            "nome": " EDUCACAO DE JOVENS E ADULTOS",
+            "semester": "2018.2",
+            "professor": "EDUARDO ANTONIO DE PONTES COSTA",
+            "horario": "5N1234",
+            "local": "CE 308 (CE)"
+          },
+          {
+            "id": "1302333",
+            "turmaid": "03",
+            "nome": " EDUCACAO DE JOVENS E ADULTOS",
+            "semester": "2018.2",
+            "professor": "TIMOTHY DENIS IRELAND",
+            "horario": "2M123 4M1",
+            "local": "CE 310 (CE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1303199",
+        "name": " EDUCACAO E DIVERSIDADE CULTURAL",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": "60h",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1303199",
+            "turmaid": "01",
+            "nome": " EDUCACAO E DIVERSIDADE CULTURAL",
+            "semester": "2018.2",
+            "professor": "MARIA DA LUZ OLEGARIO",
+            "horario": "2N1234",
+            "local": "CE 303 (CE)"
+          },
+          {
+            "id": "1303199",
+            "turmaid": "02",
+            "nome": " EDUCACAO E DIVERSIDADE CULTURAL",
+            "semester": "2018.2",
+            "professor": "ANA PAULA ROMAO DE SOUZA FERREIRA",
+            "horario": "5M1234",
+            "local": "CE 302 (CE)"
+          },
+          {
+            "id": "1303199",
+            "turmaid": "03",
+            "nome": " EDUCACAO E DIVERSIDADE CULTURAL",
+            "semester": "2018.2",
+            "professor": "EMILIA MARIA DA TRINDADE PRESTES",
+            "horario": "4T2345",
+            "local": "CE 302 (CE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1302325",
+        "name": " EDUCAÇÃO E MOVIMENTOS SOCIAIS",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": "60h",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1302325",
+            "turmaid": "02",
+            "nome": " EDUCAÇÃO E MOVIMENTOS SOCIAIS",
+            "semester": "2018.2",
+            "professor": "JOSE VAZ MAGALHAES NETO",
+            "horario": "2N1234",
+            "local": "CE 305 (CE)"
+          },
+          {
+            "id": "1302325",
+            "turmaid": "03",
+            "nome": " EDUCAÇÃO E MOVIMENTOS SOCIAIS",
+            "semester": "2018.2",
+            "professor": "JOSE VAZ MAGALHAES NETO",
+            "horario": "5T1234",
+            "local": "CE 306 (CE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1303212",
+        "name": " EDUCACAO ESPECIAL",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": "60h",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1303212",
+            "turmaid": "01",
+            "nome": " EDUCACAO ESPECIAL",
+            "semester": "2018.2",
+            "professor": "IZAURA MARIA DE ANDRADE DA SILVA",
+            "horario": "5N1234",
+            "local": "CE 304 (CE)"
+          },
+          {
+            "id": "1303212",
+            "turmaid": "02",
+            "nome": " EDUCACAO ESPECIAL",
+            "semester": "2018.2",
+            "professor": "SANDRA ALVES DA SILVA SANTIAGO",
+            "horario": "6M1234",
+            "local": "CE 303 (CE)"
+          },
+          {
+            "id": "1303212",
+            "turmaid": "03",
+            "nome": " EDUCACAO ESPECIAL",
+            "semester": "2018.2",
+            "professor": "ADENIZE QUEIROZ DE FARIAS",
+            "horario": "4T1234",
+            "local": "CE 303 (CE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1303209",
+        "name": " EDUCACAO E TECNOLOGIA",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": "60h",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1303209",
+            "turmaid": "01",
+            "nome": " EDUCACAO E TECNOLOGIA",
+            "semester": "2018.2",
+            "professor": "LEBIAM TAMAR GOMES SILVA",
+            "horario": "5N1234",
+            "local": "CE 303 (CE)"
+          },
+          {
+            "id": "1303209",
+            "turmaid": "02",
+            "nome": " EDUCACAO E TECNOLOGIA",
+            "semester": "2018.2",
+            "professor": "LEBIAM TAMAR GOMES SILVA",
+            "horario": "4M123 5M5",
+            "local": "CE 303 (CE)"
+          },
+          {
+            "id": "1303209",
+            "turmaid": "03",
+            "nome": " EDUCACAO E TECNOLOGIA",
+            "semester": "2018.2",
+            "professor": "LEBIAM TAMAR GOMES SILVA",
+            "horario": "6T1234",
+            "local": "CE 303 (CE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1303204",
+        "name": " EDUCACAO E TRABALHO",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": "60h",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1303204",
+            "turmaid": "01",
+            "nome": " EDUCACAO E TRABALHO",
+            "semester": "2018.2",
+            "professor": "MAGNO ALEXON BEZERRA SEABRA e ANA PAULA FURTADO SOARES PONTES",
+            "horario": "4N1234",
+            "local": "CE 303 (CE)"
+          },
+          {
+            "id": "1303204",
+            "turmaid": "02",
+            "nome": " EDUCACAO E TRABALHO",
+            "semester": "2018.2",
+            "professor": "MAGNO ALEXON BEZERRA SEABRA e ANA PAULA FURTADO SOARES PONTES",
+            "horario": "2M1234",
+            "local": "CE 303 (CE)"
+          },
+          {
+            "id": "1303204",
+            "turmaid": "03",
+            "nome": " EDUCACAO E TRABALHO",
+            "semester": "2018.2",
+            "professor": "MARCOS ANGELUS MIRANDA DE ALCANTARA",
+            "horario": "23T12",
+            "local": "CE 303 (CE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1302339",
+        "name": " EDUCAÇÃO POPULAR",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": "60h",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1302339",
+            "turmaid": "02",
+            "nome": " EDUCAÇÃO POPULAR",
+            "semester": "2018.2",
+            "professor": "LUCIANO DE SOUSA SILVA",
+            "horario": "3N1234",
+            "local": "CE 309 (CE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1301204",
+        "name": " EDUCAÇÃO SEXUAL",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": "60h",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1301204",
+            "turmaid": "01",
+            "nome": " EDUCAÇÃO SEXUAL",
+            "semester": "2018.2",
+            "professor": "REBECKA WANDERLEY TANNUSS",
+            "horario": "6M1234",
+            "local": "CAB 104 (PRG)"
+          },
+          {
+            "id": "1301204",
+            "turmaid": "02",
+            "nome": " EDUCAÇÃO SEXUAL",
+            "semester": "2018.2",
+            "professor": "JOSEVAL DOS REIS MIRANDA",
+            "horario": "2T1234",
+            "local": "CCHLA 414 BLOCO I CENTRAL DE AULAS (CCHLA)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1302318",
+        "name": " ENSINO DE ARTE",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": "60h",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1302318",
+            "turmaid": "01",
+            "nome": " ENSINO DE ARTE",
+            "semester": "2018.2",
+            "professor": "MARIA EMILIA SARDELICH",
+            "horario": "2N1234",
+            "local": "CAH 104 (PRG)"
+          },
+          {
+            "id": "1302318",
+            "turmaid": "02",
+            "nome": " ENSINO DE ARTE",
+            "semester": "2018.2",
+            "professor": "MARIA MARGARETH DE LIMA",
+            "horario": "3M2345",
+            "local": "CAE 108 (PRG)"
+          },
+          {
+            "id": "1302318",
+            "turmaid": "03",
+            "nome": " ENSINO DE ARTE",
+            "semester": "2018.2",
+            "professor": "MARIA MARGARETH DE LIMA",
+            "horario": "2T45 6T12",
+            "local": "CE 305 (CE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1302321",
+        "name": " ENSINO DE CIENCIAS",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": "60h",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1302321",
+            "turmaid": "01",
+            "nome": " ENSINO DE CIENCIAS",
+            "semester": "2018.2",
+            "professor": "MARIA ANDRESA DA SILVA",
+            "horario": "6M1234",
+            "local": "CE 307 (CE)"
+          },
+          {
+            "id": "1302321",
+            "turmaid": "02",
+            "nome": " ENSINO DE CIENCIAS",
+            "semester": "2018.2",
+            "professor": "APARECIDA DE LOURDES PAES BARRETO",
+            "horario": "3T1234",
+            "local": "CE 307 (CE)"
+          },
+          {
+            "id": "1302321",
+            "turmaid": "03",
+            "nome": " ENSINO DE CIENCIAS",
+            "semester": "2018.2",
+            "professor": "APARECIDA DE LOURDES PAES BARRETO",
+            "horario": "3N1234",
+            "local": "CE 307 (CE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1302323",
+        "name": " ENSINO DE GEOGRAFIA",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": "60h",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1302323",
+            "turmaid": "01",
+            "nome": " ENSINO DE GEOGRAFIA",
+            "semester": "2018.2",
+            "professor": "CARLOS AUGUSTO DE AMORIM CARDOSO",
+            "horario": "4M1234",
+            "local": "CE 305 (CE)"
+          },
+          {
+            "id": "1302323",
+            "turmaid": "02",
+            "nome": " ENSINO DE GEOGRAFIA",
+            "semester": "2018.2",
+            "professor": "CARLOS AUGUSTO DE AMORIM CARDOSO",
+            "horario": "2T345 3T1",
+            "local": "CE 309 (CE)"
+          },
+          {
+            "id": "1302323",
+            "turmaid": "03",
+            "nome": " ENSINO DE GEOGRAFIA",
+            "semester": "2018.2",
+            "professor": "AVELAR ARAUJO SANTOS JUNIOR",
+            "horario": "6N1234",
+            "local": "CE 307 (CE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1302322",
+        "name": " ENSINO DE HISTORIA",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": "60h",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1302322",
+            "turmaid": "01",
+            "nome": " ENSINO DE HISTORIA",
+            "semester": "2018.2",
+            "professor": "VILMA DE LURDES BARBOSA E MELO",
+            "horario": "6M1234",
+            "local": "CE 305 (CE)"
+          },
+          {
+            "id": "1302322",
+            "turmaid": "02",
+            "nome": " ENSINO DE HISTORIA",
+            "semester": "2018.2",
+            "professor": "ANTONIO CARLOS FERREIRA PINHEIRO",
+            "horario": "5N1234",
+            "local": "CAB 101 (PRG)"
+          },
+          {
+            "id": "1302322",
+            "turmaid": "03",
+            "nome": " ENSINO DE HISTORIA",
+            "semester": "2018.2",
+            "professor": "SEVERINO BEZERRA DA SILVA",
+            "horario": "3T2345",
+            "local": "CE 309 (CE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1302320",
+        "name": " ENSINO DE MATEMATICA",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": "60h",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1302320",
+            "turmaid": "01",
+            "nome": " ENSINO DE MATEMATICA",
+            "semester": "2018.2",
+            "professor": "ELIANE MARIA DE MENEZES MACIEL",
+            "horario": "4M1234",
+            "local": "CE 306 (CE)"
+          },
+          {
+            "id": "1302320",
+            "turmaid": "02",
+            "nome": " ENSINO DE MATEMATICA",
+            "semester": "2018.2",
+            "professor": "ELIANE MARIA DE MENEZES MACIEL",
+            "horario": "2T1234",
+            "local": "CE 306 (CE)"
+          },
+          {
+            "id": "1302320",
+            "turmaid": "03",
+            "nome": " ENSINO DE MATEMATICA",
+            "semester": "2018.2",
+            "professor": "MARIA ALVES DE AZEREDO",
+            "horario": "6N1234",
+            "local": "CE 305 (CE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1302319",
+        "name": " ENSINO DE PORTUGUES",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": "60h",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1302319",
+            "turmaid": "01",
+            "nome": " ENSINO DE PORTUGUES",
+            "semester": "2018.2",
+            "professor": "MARINEUMA DE OLIVEIRA COSTA CAVALCANTI",
+            "horario": "2N1234",
+            "local": "CE 313 (CE)"
+          },
+          {
+            "id": "1302319",
+            "turmaid": "02",
+            "nome": " ENSINO DE PORTUGUES",
+            "semester": "2018.2",
+            "professor": "WALKIRIA PINTO DE CARVALHO",
+            "horario": "5M1234",
+            "local": "CE 305 (CE)"
+          },
+          {
+            "id": "1302319",
+            "turmaid": "03",
+            "nome": " ENSINO DE PORTUGUES",
+            "semester": "2018.2",
+            "professor": "WALKIRIA PINTO DE CARVALHO",
+            "horario": "6T1234",
+            "local": "CE 306 (CE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1303201",
+        "name": " ESTAGIO SUPERV I GESTAO EDUCACIONAL",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": "60h",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1303201",
+            "turmaid": "01",
+            "nome": " ESTAGIO SUPERV I GESTAO EDUCACIONAL",
+            "semester": "2018.2",
+            "professor": "ADRIANA VALERIA SANTOS DINIZ",
+            "horario": "5M2345",
+            "local": "CE 304 (CE)"
+          },
+          {
+            "id": "1303201",
+            "turmaid": "02",
+            "nome": " ESTAGIO SUPERV I GESTAO EDUCACIONAL",
+            "semester": "2018.2",
+            "professor": "THAMYRIS MARIANA CAMAROTE MANDU",
+            "horario": "3N1234",
+            "local": "CE 323 (CE)"
+          },
+          {
+            "id": "1303201",
+            "turmaid": "03",
+            "nome": " ESTAGIO SUPERV I GESTAO EDUCACIONAL",
+            "semester": "2018.2",
+            "professor": "MARIA DA SALETE BARBOZA DE FARIAS",
+            "horario": "4T2345",
+            "local": "CE 304 (CE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1303223",
+        "name": " ESTAGIO SUPERVISIONADO II  EDUC INFANTI",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": "60h",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1303223",
+            "turmaid": "01",
+            "nome": " ESTAGIO SUPERVISIONADO II  EDUC INFANTI",
+            "semester": "2018.2",
+            "professor": "ANA LUISA NOGUEIRA DE AMORIM",
+            "horario": "4T2345",
+            "local": "CE 308 (CE)"
+          },
+          {
+            "id": "1303223",
+            "turmaid": "02",
+            "nome": " ESTAGIO SUPERVISIONADO II  EDUC INFANTI",
+            "semester": "2018.2",
+            "professor": "NADIA JANE DE SOUSA",
+            "horario": "5M2345",
+            "local": "CE 308 (CE)"
+          },
+          {
+            "id": "1303223",
+            "turmaid": "03",
+            "nome": " ESTAGIO SUPERVISIONADO II  EDUC INFANTI",
+            "semester": "2018.2",
+            "professor": "MAIRA LEWTCHUK ESPINDOLA",
+            "horario": "6N1234",
+            "local": "MESTR 02 (CE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDMTE0137",
+        "name": " ESTAGIO SUPERVISIONADO III ENSINO FUNDAMENTAL",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": "60h",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDMTE0137",
+            "turmaid": "01",
+            "nome": " ESTAGIO SUPERVISIONADO III ENSINO FUNDAMENTAL",
+            "semester": "2018.2",
+            "professor": "ISABEL MARINHO DA COSTA",
+            "horario": "3M1234 (22/11/2018 - 10/05/2019)",
+            "local": "CE 306 (CE)"
+          },
+          {
+            "id": "GDMTE0137",
+            "turmaid": "02",
+            "nome": " ESTAGIO SUPERVISIONADO III ENSINO FUNDAMENTAL",
+            "semester": "2018.2",
+            "professor": "MARIA ALVES DE AZEREDO",
+            "horario": "5T1234 (22/11/2018 - 10/05/2019)",
+            "local": "CE 305 (CE)"
+          },
+          {
+            "id": "GDMTE0137",
+            "turmaid": "03",
+            "nome": " ESTAGIO SUPERVISIONADO III ENSINO FUNDAMENTAL",
+            "semester": "2018.2",
+            "professor": "IRANETE DE ARAÚJO MEIRA",
+            "horario": "5N1234 (22/11/2018 - 10/05/2019)",
+            "local": "CE 305 (CE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+          "1302328"
+        ]
+      },
+      {
+        "id": "GDMTE0138",
+        "name": " ESTAGIO SUPERVISIONADO IV ENSINO FUNDAMENTAL",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": "60h",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDMTE0138",
+            "turmaid": "01",
+            "nome": " ESTAGIO SUPERVISIONADO IV ENSINO FUNDAMENTAL",
+            "semester": "2018.2",
+            "professor": "AURENISIA COUTINHO IVO",
+            "horario": "5M2345 (22/11/2018 - 10/05/2019)",
+            "local": "CE 307 (CE)"
+          },
+          {
+            "id": "GDMTE0138",
+            "turmaid": "02",
+            "nome": " ESTAGIO SUPERVISIONADO IV ENSINO FUNDAMENTAL",
+            "semester": "2018.2",
+            "professor": "MARIA DA CONCEICAO GOMES DE MIRANDA",
+            "horario": "2N1234 (22/11/2018 - 10/05/2019)",
+            "local": "CAE 106 (PRG)"
+          },
+          {
+            "id": "GDMTE0138",
+            "turmaid": "03",
+            "nome": " ESTAGIO SUPERVISIONADO IV ENSINO FUNDAMENTAL",
+            "semester": "2018.2",
+            "professor": "MARIA ALVES DE AZEREDO",
+            "horario": "4T1234 (22/11/2018 - 10/05/2019)",
+            "local": "CE 305 (CE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+          "1302329"
+        ]
+      },
+      {
+        "id": "1303203",
+        "name": " ESTAGIO SUPERVISIONADO V (EDUCAÇÃO ESPECIAL)",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": "60h",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1303203",
+            "turmaid": "01",
+            "nome": " ESTAGIO SUPERVISIONADO V (EDUCAÇÃO ESPECIAL)",
+            "semester": "2018.2",
+            "professor": "SANTUZA MONICA DE FRANCA PEREIRA DA FONSECA",
+            "horario": "5N1234",
+            "local": "CE 310 (CE)"
+          },
+          {
+            "id": "1303203",
+            "turmaid": "02",
+            "nome": " ESTAGIO SUPERVISIONADO V (EDUCAÇÃO ESPECIAL)",
+            "semester": "2018.2",
+            "professor": "TAISA CALDAS DANTAS",
+            "horario": "5M1234",
+            "local": "CE 317 (CE)"
+          },
+          {
+            "id": "1303203",
+            "turmaid": "03",
+            "nome": " ESTAGIO SUPERVISIONADO V (EDUCAÇÃO ESPECIAL)",
+            "semester": "2018.2",
+            "professor": "SANDRA ALVES DA SILVA SANTIAGO",
+            "horario": "5T1234",
+            "local": "CE 317 (CE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDMTE0139",
+        "name": " ESTAGIO SUPERVISIONADO V (EJA)",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": "60h",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDMTE0139",
+            "turmaid": "02",
+            "nome": " ESTAGIO SUPERVISIONADO V (EJA)",
+            "semester": "2018.2",
+            "professor": "ALINE PRAXEDES DE ARAÚJO",
+            "horario": "5N1234 (22/11/2018 - 10/05/2019)",
+            "local": "CE 307 (CE)"
+          },
+          {
+            "id": "GDMTE0139",
+            "turmaid": "03",
+            "nome": " ESTAGIO SUPERVISIONADO V (EJA)",
+            "semester": "2018.2",
+            "professor": "QUÉZIA VILA FLOR FURTADO",
+            "horario": "6T1234 (22/11/2018 - 10/05/2019)",
+            "local": "CE 310 (CE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1301215",
+        "name": " FILOSOFIA DA EDUCACAO I",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": "60h",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1301215",
+            "turmaid": "01",
+            "nome": " FILOSOFIA DA EDUCACAO I",
+            "semester": "2018.2",
+            "professor": "EDSON CARVALHO GUEDES",
+            "horario": "2M5 5M123",
+            "local": "CE 301 (CE)"
+          },
+          {
+            "id": "1301215",
+            "turmaid": "02",
+            "nome": " FILOSOFIA DA EDUCACAO I",
+            "semester": "2018.2",
+            "professor": "LUIZ GONZAGA GONCALVES",
+            "horario": "5T2345",
+            "local": "CE 301 (CE)"
+          },
+          {
+            "id": "1301215",
+            "turmaid": "03",
+            "nome": " FILOSOFIA DA EDUCACAO I",
+            "semester": "2018.2",
+            "professor": "PAULO CESAR GEGLIO",
+            "horario": "4N1234",
+            "local": "CE 301 (CE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1301220",
+        "name": " FILOSOFIA DA EDUCACAO II",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": "60h",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1301220",
+            "turmaid": "01",
+            "nome": " FILOSOFIA DA EDUCACAO II",
+            "semester": "2018.2",
+            "professor": "JORGE ADRIANO LUBENOW",
+            "horario": "2M5 3M345",
+            "local": "CE 302 (CE)"
+          },
+          {
+            "id": "1301220",
+            "turmaid": "02",
+            "nome": " FILOSOFIA DA EDUCACAO II",
+            "semester": "2018.2",
+            "professor": "JORGE ADRIANO LUBENOW",
+            "horario": "35T12",
+            "local": "CE 302 (CE)"
+          },
+          {
+            "id": "1301220",
+            "turmaid": "03",
+            "nome": " FILOSOFIA DA EDUCACAO II",
+            "semester": "2018.2",
+            "professor": "ROBERTO RONDON",
+            "horario": "3N1234",
+            "local": "CE 302 (CE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1301224",
+        "name": " FUNDAMENTOS EPISTEMOLOGICOS DA EDUCACAO",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": "60h",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1301224",
+            "turmaid": "01",
+            "nome": " FUNDAMENTOS EPISTEMOLOGICOS DA EDUCACAO",
+            "semester": "2018.2",
+            "professor": "JUDY MAURIA GUEIROS ROSAS",
+            "horario": "6M1234",
+            "local": "CE 302 (CE)"
+          },
+          {
+            "id": "1301224",
+            "turmaid": "02",
+            "nome": " FUNDAMENTOS EPISTEMOLOGICOS DA EDUCACAO",
+            "semester": "2018.2",
+            "professor": "EDSON CARVALHO GUEDES",
+            "horario": "4T1 5T345",
+            "local": "CE 302 (CE)"
+          },
+          {
+            "id": "1301224",
+            "turmaid": "03",
+            "nome": " FUNDAMENTOS EPISTEMOLOGICOS DA EDUCACAO",
+            "semester": "2018.2",
+            "professor": "JOSE DE ARIMATEA FONTES",
+            "horario": "3N1234",
+            "local": "AUDITÓRIO PPGE (CE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1302530",
+        "name": " FUNDHISTDA EDUCDE JOVE ADULTOS",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": "60h",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1302530",
+            "turmaid": "01",
+            "nome": " FUNDHISTDA EDUCDE JOVE ADULTOS",
+            "semester": "2018.2",
+            "professor": "EDUARDO ANTONIO DE PONTES COSTA",
+            "horario": "4T1234",
+            "local": "CE 310 (CE)"
+          },
+          {
+            "id": "1302530",
+            "turmaid": "02",
+            "nome": " FUNDHISTDA EDUCDE JOVE ADULTOS",
+            "semester": "2018.2",
+            "professor": "EDUARDO ANTONIO DE PONTES COSTA",
+            "horario": "4N1234",
+            "local": "CE 307 (CE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1303217",
+        "name": " GESTAO EDUCACIONAL",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": "60h",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1303217",
+            "turmaid": "01",
+            "nome": " GESTAO EDUCACIONAL",
+            "semester": "2018.2",
+            "professor": "THAMYRIS MARIANA CAMAROTE MANDU",
+            "horario": "4N1234",
+            "local": "CE 324 (CE)"
+          },
+          {
+            "id": "1303217",
+            "turmaid": "02",
+            "nome": " GESTAO EDUCACIONAL",
+            "semester": "2018.2",
+            "professor": "ADRIANA VALERIA SANTOS DINIZ",
+            "horario": "4M2345",
+            "local": "CE 304 (CE)"
+          },
+          {
+            "id": "1303217",
+            "turmaid": "03",
+            "nome": " GESTAO EDUCACIONAL",
+            "semester": "2018.2",
+            "professor": "MARIA DA SALETE BARBOZA DE FARIAS",
+            "horario": "5T1234",
+            "local": "CE 304 (CE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1301216",
+        "name": " HISTORIA DA EDUCACAO I",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": "60h",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1301216",
+            "turmaid": "01",
+            "nome": " HISTORIA DA EDUCACAO I",
+            "semester": "2018.2",
+            "professor": "ROSE MARY DE SOUZA ARAUJO",
+            "horario": "3M1234",
+            "local": "CE 301 (CE)"
+          },
+          {
+            "id": "1301216",
+            "turmaid": "02",
+            "nome": " HISTORIA DA EDUCACAO I",
+            "semester": "2018.2",
+            "professor": "ROSE MARY DE SOUZA ARAUJO",
+            "horario": "4T3456",
+            "local": "CE 301 (CE)"
+          },
+          {
+            "id": "1301216",
+            "turmaid": "03",
+            "nome": " HISTORIA DA EDUCACAO I",
+            "semester": "2018.2",
+            "professor": "MARIA ELIZETE GUIMARAES CARVALHO",
+            "horario": "3N1234",
+            "local": "CE 301 (CE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1301221",
+        "name": " HISTORIA DA EDUCACAO II",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": "45h",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1301221",
+            "turmaid": "01",
+            "nome": " HISTORIA DA EDUCACAO II",
+            "semester": "2018.2",
+            "professor": "VÍVIA DE MELO SILVA e ELIANA ALDA DE FREITAS CALADO",
+            "horario": "4M3456",
+            "local": "CE 302 (CE)"
+          },
+          {
+            "id": "1301221",
+            "turmaid": "02",
+            "nome": " HISTORIA DA EDUCACAO II",
+            "semester": "2018.2",
+            "professor": "UYGUACIARA VELOSO CASTELO BRANCO e VÍVIA DE MELO SILVA",
+            "horario": "2T1 3T345",
+            "local": "CE 302 (CE)"
+          },
+          {
+            "id": "1301221",
+            "turmaid": "03",
+            "nome": " HISTORIA DA EDUCACAO II",
+            "semester": "2018.2",
+            "professor": "MARIA ELIZETE GUIMARAES CARVALHO",
+            "horario": "4N1234",
+            "local": "CE 302 (CE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDLS0024",
+        "name": " LIBRAS",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": "60h",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDLS0024",
+            "turmaid": "02",
+            "nome": " LIBRAS",
+            "semester": "2018.2",
+            "professor": "LUCIANA WALESKA DE SOUZA MOURA",
+            "horario": "3M2345",
+            "local": "CE 319 (CE)"
+          },
+          {
+            "id": "GDLS0024",
+            "turmaid": "08",
+            "nome": " LIBRAS",
+            "semester": "2018.2",
+            "professor": "LIGIO JOSIAS GOMES DE SOUSA",
+            "horario": "4N1234",
+            "local": "CE 306 (CE)"
+          },
+          {
+            "id": "GDLS0024",
+            "turmaid": "10",
+            "nome": " LIBRAS",
+            "semester": "2018.2",
+            "professor": "LUCIANA WALESKA DE SOUZA MOURA",
+            "horario": "5T1234",
+            "local": "CE 319 (CE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1302307",
+        "name": " LINGUA E LITERATURA",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": "60h",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1302307",
+            "turmaid": "01",
+            "nome": " LINGUA E LITERATURA",
+            "semester": "2018.2",
+            "professor": "MARIA CLAURENIA ABREU DE ANDRADE SILVEIRA",
+            "horario": "4N1234",
+            "local": "CE 310 (CE)"
+          },
+          {
+            "id": "1302307",
+            "turmaid": "02",
+            "nome": " LINGUA E LITERATURA",
+            "semester": "2018.2",
+            "professor": "MARIA CLAURENIA ABREU DE ANDRADE SILVEIRA",
+            "horario": "2M345 3M1",
+            "local": "CE 307 (CE)"
+          },
+          {
+            "id": "1302307",
+            "turmaid": "03",
+            "nome": " LINGUA E LITERATURA",
+            "semester": "2018.2",
+            "professor": "WALKIRIA PINTO DE CARVALHO",
+            "horario": "3T2345",
+            "local": "CE 308 (CE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1302317",
+        "name": " LINGUAGEM E INTERAÇAO",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": "60h",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1302317",
+            "turmaid": "01",
+            "nome": " LINGUAGEM E INTERAÇAO",
+            "semester": "2018.2",
+            "professor": "MARIA ERENILZA PEREIRA",
+            "horario": "3N1234",
+            "local": "CE 306 (CE)"
+          },
+          {
+            "id": "1302317",
+            "turmaid": "02",
+            "nome": " LINGUAGEM E INTERAÇAO",
+            "semester": "2018.2",
+            "professor": "MARIA ERENILZA PEREIRA",
+            "horario": "4M12 6M34",
+            "local": "CE 308 (CE)"
+          },
+          {
+            "id": "1302317",
+            "turmaid": "03",
+            "nome": " LINGUAGEM E INTERAÇAO",
+            "semester": "2018.2",
+            "professor": "MARIA ERENILZA PEREIRA",
+            "horario": "5T1 6T345",
+            "local": "CE 309 (CE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1303198",
+        "name": " METODOLOGIA DO TRABALHO CIENTÍFICO",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": "60h",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1303198",
+            "turmaid": "01",
+            "nome": " METODOLOGIA DO TRABALHO CIENTÍFICO",
+            "semester": "2018.2",
+            "professor": "MARIA DA LUZ OLEGARIO",
+            "horario": "6N1234",
+            "local": "CE 301 (CE)"
+          },
+          {
+            "id": "1303198",
+            "turmaid": "02",
+            "nome": " METODOLOGIA DO TRABALHO CIENTÍFICO",
+            "semester": "2018.2",
+            "professor": "ANA PAULA ROMAO DE SOUZA FERREIRA",
+            "horario": "3M5 4M123",
+            "local": "CE 301 (CE)"
+          },
+          {
+            "id": "1303198",
+            "turmaid": "03",
+            "nome": " METODOLOGIA DO TRABALHO CIENTÍFICO",
+            "semester": "2018.2",
+            "professor": "MARLENE HELENA DE OLIVEIRA FRANÇA",
+            "horario": "2T345 3T1",
+            "local": "CE 301 (CE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1303228",
+        "name": " ORGANIZACAO DO TRABALHO PEDAGOGICO",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": "60h",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1303228",
+            "turmaid": "01",
+            "nome": " ORGANIZACAO DO TRABALHO PEDAGOGICO",
+            "semester": "2018.2",
+            "professor": "THAMYRIS MARIANA CAMAROTE MANDU",
+            "horario": "2M345 3M1",
+            "local": "CE 317 (CE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1303222",
+        "name": " ORGANIZACAO E PRAT DA EDUC INFANTIL",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": "60h",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1303222",
+            "turmaid": "01",
+            "nome": " ORGANIZACAO E PRAT DA EDUC INFANTIL",
+            "semester": "2018.2",
+            "professor": "MAIRA LEWTCHUK ESPINDOLA",
+            "horario": "5N1234",
+            "local": "CE 309 (CE)"
+          },
+          {
+            "id": "1303222",
+            "turmaid": "02",
+            "nome": " ORGANIZACAO E PRAT DA EDUC INFANTIL",
+            "semester": "2018.2",
+            "professor": "NADIA JANE DE SOUSA",
+            "horario": "4M345 5M1",
+            "local": "CE 308 (CE)"
+          },
+          {
+            "id": "1303222",
+            "turmaid": "03",
+            "nome": " ORGANIZACAO E PRAT DA EDUC INFANTIL",
+            "semester": "2018.2",
+            "professor": "ANA LUISA NOGUEIRA DE AMORIM",
+            "horario": "5T2345",
+            "local": "CE 309 (CE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1302327",
+        "name": " ORGANIZACAO E PRATICA DO ENSINO FUNDAMEN",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": "60h",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1302327",
+            "turmaid": "01",
+            "nome": " ORGANIZACAO E PRATICA DO ENSINO FUNDAMEN",
+            "semester": "2018.2",
+            "professor": "IDELSUITE DE SOUSA LIMA",
+            "horario": "4N1234",
+            "local": "CE 305 (CE)"
+          },
+          {
+            "id": "1302327",
+            "turmaid": "02",
+            "nome": " ORGANIZACAO E PRATICA DO ENSINO FUNDAMEN",
+            "semester": "2018.2",
+            "professor": "JOSEVAL DOS REIS MIRANDA",
+            "horario": "2M1234",
+            "local": "CE 304 (CE)"
+          },
+          {
+            "id": "1302327",
+            "turmaid": "03",
+            "nome": " ORGANIZACAO E PRATICA DO ENSINO FUNDAMEN",
+            "semester": "2018.2",
+            "professor": "IDELSUITE DE SOUSA LIMA",
+            "horario": "4T1234",
+            "local": "CE 307 (CE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1303211",
+        "name": " PESQUISA EDUCACIONAL",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": "60h",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1303211",
+            "turmaid": "01",
+            "nome": " PESQUISA EDUCACIONAL",
+            "semester": "2018.2",
+            "professor": "MARINILSON BARBOSA DA SILVA",
+            "horario": "3N1234",
+            "local": "CE 304 (CE)"
+          },
+          {
+            "id": "1303211",
+            "turmaid": "02",
+            "nome": " PESQUISA EDUCACIONAL",
+            "semester": "2018.2",
+            "professor": "ELISA PEREIRA GONSALVES",
+            "horario": "5M1234",
+            "local": "CE 303 (CE)"
+          },
+          {
+            "id": "1303211",
+            "turmaid": "03",
+            "nome": " PESQUISA EDUCACIONAL",
+            "semester": "2018.2",
+            "professor": "MARLENE HELENA DE OLIVEIRA FRANÇA",
+            "horario": "5T1234",
+            "local": "CE 303 (CE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1303205",
+        "name": " PLANEJAMENTO EDUCACIONAL",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": "60h",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1303205",
+            "turmaid": "01",
+            "nome": " PLANEJAMENTO EDUCACIONAL",
+            "semester": "2018.2",
+            "professor": "MARILENE SALGUEIRO",
+            "horario": "6M1234",
+            "local": "CE 304 (CE)"
+          },
+          {
+            "id": "1303205",
+            "turmaid": "02",
+            "nome": " PLANEJAMENTO EDUCACIONAL",
+            "semester": "2018.2",
+            "professor": "MARILENE SALGUEIRO",
+            "horario": "6T1234",
+            "local": "CE 307 (CE)"
+          },
+          {
+            "id": "1303205",
+            "turmaid": "04",
+            "nome": " PLANEJAMENTO EDUCACIONAL",
+            "semester": "2018.2",
+            "professor": "CATARINA CARNEIRO GONCALVES",
+            "horario": "2N1234",
+            "local": "CE 304 (CE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1303208",
+        "name": " POLITICA EDUCACIONAL DA EDUCACAO BASICA",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": "60h",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1303208",
+            "turmaid": "01",
+            "nome": " POLITICA EDUCACIONAL DA EDUCACAO BASICA",
+            "semester": "2018.2",
+            "professor": "CARLOS EDUARDO REBUA OLIVEIRA",
+            "horario": "6N1234",
+            "local": "CE 303 (CE)"
+          },
+          {
+            "id": "1303208",
+            "turmaid": "02",
+            "nome": " POLITICA EDUCACIONAL DA EDUCACAO BASICA",
+            "semester": "2018.2",
+            "professor": "ALEXANDRE ANTONIO GILI NADER",
+            "horario": "3T345 5T5",
+            "local": "CE 303 (CE)"
+          },
+          {
+            "id": "1303208",
+            "turmaid": "06",
+            "nome": " POLITICA EDUCACIONAL DA EDUCACAO BASICA",
+            "semester": "2018.2",
+            "professor": "VIRGINIA DE OLIVEIRA SILVA",
+            "horario": "3M12 4M45",
+            "local": "CE 303 (CE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+          "1303180"
+        ]
+      },
+      {
+        "id": "1301218",
+        "name": " PSICOLOGIA DA EDUCACAO I",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": "60h",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1301218",
+            "turmaid": "01",
+            "nome": " PSICOLOGIA DA EDUCACAO I",
+            "semester": "2018.2",
+            "professor": "FERNANDO CEZAR BEZERRA DE ANDRADE",
+            "horario": "6M1234",
+            "local": "CE 301 (CE)"
+          },
+          {
+            "id": "1301218",
+            "turmaid": "02",
+            "nome": " PSICOLOGIA DA EDUCACAO I",
+            "semester": "2018.2",
+            "professor": "ANA MARIA COUTINHO DE SALES e CARITA PORTILHO DE LIMA",
+            "horario": "6T1234",
+            "local": "CE 301 (CE)"
+          },
+          {
+            "id": "1301218",
+            "turmaid": "03",
+            "nome": " PSICOLOGIA DA EDUCACAO I",
+            "semester": "2018.2",
+            "professor": "ANA MARIA COUTINHO DE SALES e CARITA PORTILHO DE LIMA",
+            "horario": "5N1234",
+            "local": "CE 301 (CE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1301223",
+        "name": " PSICOLOGIA DA EDUCACAO II",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": "60h",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1301223",
+            "turmaid": "01",
+            "nome": " PSICOLOGIA DA EDUCACAO II",
+            "semester": "2018.2",
+            "professor": "MARIA DAS GRACAS DE ALMEIDA BAPTISTA",
+            "horario": "34M12",
+            "local": "CE 302 (CE)"
+          },
+          {
+            "id": "1301223",
+            "turmaid": "02",
+            "nome": " PSICOLOGIA DA EDUCACAO II",
+            "semester": "2018.2",
+            "professor": "A DEFINIR",
+            "horario": "6T1234",
+            "local": "CE 302 (CE)"
+          },
+          {
+            "id": "1301223",
+            "turmaid": "03",
+            "nome": " PSICOLOGIA DA EDUCACAO II",
+            "semester": "2018.2",
+            "professor": "MARIA DAS GRACAS DE ALMEIDA BAPTISTA",
+            "horario": "2N1234",
+            "local": "CE 302 (CE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1301247",
+        "name": " PSICOLOGIA SOCIAL",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": "60h",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1301247",
+            "turmaid": "01",
+            "nome": " PSICOLOGIA SOCIAL",
+            "semester": "2018.2",
+            "professor": "CARMEN SEVILLA GONCALVES DOS SANTOS",
+            "horario": "6T1234",
+            "local": "CAH 106 (PRG)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1301219",
+        "name": " SEMINARIO TEMATICO EM EDUCACAO I",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": "30h",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1301219",
+            "turmaid": "01",
+            "nome": " SEMINARIO TEMATICO EM EDUCACAO I",
+            "semester": "2018.2",
+            "professor": "ELIANA ALDA DE FREITAS CALADO",
+            "horario": "6M56",
+            "local": "CE 301 (CE)"
+          },
+          {
+            "id": "1301219",
+            "turmaid": "02",
+            "nome": " SEMINARIO TEMATICO EM EDUCACAO I",
+            "semester": "2018.2",
+            "professor": "ELIANA ALDA DE FREITAS CALADO",
+            "horario": "6T56",
+            "local": "CE 301 (CE)"
+          },
+          {
+            "id": "1301219",
+            "turmaid": "03",
+            "nome": " SEMINARIO TEMATICO EM EDUCACAO I",
+            "semester": "2018.2",
+            "professor": "FERNANDO CEZAR BEZERRA DE ANDRADE",
+            "horario": "35N6",
+            "local": "CE 301 (CE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1301226",
+        "name": " SEMINARIO TEMATICO EM EDUCACAO II",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": "30h",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1301226",
+            "turmaid": "01",
+            "nome": " SEMINARIO TEMATICO EM EDUCACAO II",
+            "semester": "2018.2",
+            "professor": "UYGUACIARA VELOSO CASTELO BRANCO",
+            "horario": "6M56",
+            "local": "CE 302 (CE)"
+          },
+          {
+            "id": "1301226",
+            "turmaid": "02",
+            "nome": " SEMINARIO TEMATICO EM EDUCACAO II",
+            "semester": "2018.2",
+            "professor": "JORGE ADRIANO LUBENOW",
+            "horario": "6T56",
+            "local": "CE 302 (CE)"
+          },
+          {
+            "id": "1301226",
+            "turmaid": "03",
+            "nome": " SEMINARIO TEMATICO EM EDUCACAO II",
+            "semester": "2018.2",
+            "professor": "REBECKA WANDERLEY TANNUSS",
+            "horario": "35N6",
+            "local": "CE 302 (CE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1303213",
+        "name": " SEMINARIO TEMATICO EM EDUCACAO III",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": "30h",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1303213",
+            "turmaid": "01",
+            "nome": " SEMINARIO TEMATICO EM EDUCACAO III",
+            "semester": "2018.2",
+            "professor": "MARIA EULINA PESSOA DE CARVALHO",
+            "horario": "6T56",
+            "local": "CE 310 (CE)"
+          },
+          {
+            "id": "1303213",
+            "turmaid": "02",
+            "nome": " SEMINARIO TEMATICO EM EDUCACAO III",
+            "semester": "2018.2",
+            "professor": "MARIA HELENA RIBEIRO MACIEL",
+            "horario": "35N6",
+            "local": "CE 304 (CE)"
+          },
+          {
+            "id": "1303213",
+            "turmaid": "03",
+            "nome": " SEMINARIO TEMATICO EM EDUCACAO III",
+            "semester": "2018.2",
+            "professor": "MARIA HELENA RIBEIRO MACIEL",
+            "horario": "6M56",
+            "local": "CE 304 (CE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1303214",
+        "name": " SEMINARIO TEMATICO EM EDUCACAO IV",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": "30h",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1303214",
+            "turmaid": "01",
+            "nome": " SEMINARIO TEMATICO EM EDUCACAO IV",
+            "semester": "2018.2",
+            "professor": "MARIA HELENA RIBEIRO MACIEL",
+            "horario": "6T56",
+            "local": "CE 304 (CE)"
+          },
+          {
+            "id": "1303214",
+            "turmaid": "02",
+            "nome": " SEMINARIO TEMATICO EM EDUCACAO IV",
+            "semester": "2018.2",
+            "professor": "GIULIANA CAVALCANTI VASCONCELOS",
+            "horario": "6M56",
+            "local": "CE 310 (CE)"
+          },
+          {
+            "id": "1303214",
+            "turmaid": "04",
+            "nome": " SEMINARIO TEMATICO EM EDUCACAO IV",
+            "semester": "2018.2",
+            "professor": "MARIA EULINA PESSOA DE CARVALHO",
+            "horario": "45N6",
+            "local": "CE 308 (CE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1302330",
+        "name": " SEMINARIO TEMATICO EM EDUCACAO V",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": "30h",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1302330",
+            "turmaid": "01",
+            "nome": " SEMINARIO TEMATICO EM EDUCACAO V",
+            "semester": "2018.2",
+            "professor": "MARINEUMA DE OLIVEIRA COSTA CAVALCANTI",
+            "horario": "6M56",
+            "local": "CE 308 (CE)"
+          },
+          {
+            "id": "1302330",
+            "turmaid": "02",
+            "nome": " SEMINARIO TEMATICO EM EDUCACAO V",
+            "semester": "2018.2",
+            "professor": "MARIA EMILIA SARDELICH",
+            "horario": "26T6",
+            "local": "CE 305 (CE)"
+          },
+          {
+            "id": "1302330",
+            "turmaid": "03",
+            "nome": " SEMINARIO TEMATICO EM EDUCACAO V",
+            "semester": "2018.2",
+            "professor": "ISABEL MARINHO DA COSTA",
+            "horario": "25N6",
+            "local": "CE 311 (CE) / CE 306 (CE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1302331",
+        "name": " SEMINARIO TEMATICO EM EDUCACAO VI",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": "30h",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1302331",
+            "turmaid": "01",
+            "nome": " SEMINARIO TEMATICO EM EDUCACAO VI",
+            "semester": "2018.2",
+            "professor": "MARIA ANDRESA DA SILVA",
+            "horario": "46M5",
+            "local": "CE 307 (CE)"
+          },
+          {
+            "id": "1302331",
+            "turmaid": "02",
+            "nome": " SEMINARIO TEMATICO EM EDUCACAO VI",
+            "semester": "2018.2",
+            "professor": "MARINEUMA DE OLIVEIRA COSTA CAVALCANTI",
+            "horario": "35N6",
+            "local": "CE 306 (CE)"
+          },
+          {
+            "id": "1302331",
+            "turmaid": "03",
+            "nome": " SEMINARIO TEMATICO EM EDUCACAO VI",
+            "semester": "2018.2",
+            "professor": "ELIANE MARIA DE MENEZES MACIEL",
+            "horario": "26T5",
+            "local": "CE 306 (CE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1302332",
+        "name": " SEMINARIO TEMATICO EM EDUCACAO VII",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": "30h",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1302332",
+            "turmaid": "01",
+            "nome": " SEMINARIO TEMATICO EM EDUCACAO VII",
+            "semester": "2018.2",
+            "professor": "CARLOS AUGUSTO DE AMORIM CARDOSO",
+            "horario": "46M5",
+            "local": "CE 305 (CE)"
+          },
+          {
+            "id": "1302332",
+            "turmaid": "02",
+            "nome": " SEMINARIO TEMATICO EM EDUCACAO VII",
+            "semester": "2018.2",
+            "professor": "SUELIDIA MARIA CALACA",
+            "horario": "56T5",
+            "local": "CE 308 (CE)"
+          },
+          {
+            "id": "1302332",
+            "turmaid": "03",
+            "nome": " SEMINARIO TEMATICO EM EDUCACAO VII",
+            "semester": "2018.2",
+            "professor": "ISOLDA AYRES VIANA RAMOS",
+            "horario": "35N6",
+            "local": "CE 305 (CE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1301217",
+        "name": " SOCIOLOGIA DA EDUCACAO I",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": "60h",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1301217",
+            "turmaid": "01",
+            "nome": " SOCIOLOGIA DA EDUCACAO I",
+            "semester": "2018.2",
+            "professor": "ANA CLAUDIA DA SILVA RODRIGUES",
+            "horario": "2M1234",
+            "local": "CE 301 (CE)"
+          },
+          {
+            "id": "1301217",
+            "turmaid": "02",
+            "nome": " SOCIOLOGIA DA EDUCACAO I",
+            "semester": "2018.2",
+            "professor": "ALBA CLEIDE CALADO WANDERLEY",
+            "horario": "3T2345",
+            "local": "CE 301 (CE)"
+          },
+          {
+            "id": "1301217",
+            "turmaid": "03",
+            "nome": " SOCIOLOGIA DA EDUCACAO I",
+            "semester": "2018.2",
+            "professor": "ALBA CLEIDE CALADO WANDERLEY",
+            "horario": "2N1234",
+            "local": "CE 301 (CE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1301222",
+        "name": " SOCIOLOGIA DA EDUCAÇÃO II",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": "60h",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1301222",
+            "turmaid": "01",
+            "nome": " SOCIOLOGIA DA EDUCAÇÃO II",
+            "semester": "2018.2",
+            "professor": "MARIA DO SOCÔRRO DO NASCIMENTO",
+            "horario": "2M1234",
+            "local": "CE 302 (CE)"
+          },
+          {
+            "id": "1301222",
+            "turmaid": "02",
+            "nome": " SOCIOLOGIA DA EDUCAÇÃO II",
+            "semester": "2018.2",
+            "professor": "SWAMY DE PAULA LIMA SOARES",
+            "horario": "2T2345",
+            "local": "CE 302 (CE)"
+          },
+          {
+            "id": "1301222",
+            "turmaid": "03",
+            "nome": " SOCIOLOGIA DA EDUCAÇÃO II",
+            "semester": "2018.2",
+            "professor": "ERENILDO JOAO CARLOS",
+            "horario": "6N1234",
+            "local": "CE 302 (CE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1303396",
+        "name": " TEORIA DO DESENVOLVIMENTO I",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": "60h",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1303396",
+            "turmaid": "01",
+            "nome": " TEORIA DO DESENVOLVIMENTO I",
+            "semester": "2018.2",
+            "professor": "SANTUZA MONICA DE FRANCA PEREIRA DA FONSECA",
+            "horario": "4N1234",
+            "local": "CE 304 (CE)"
+          },
+          {
+            "id": "1303396",
+            "turmaid": "02",
+            "nome": " TEORIA DO DESENVOLVIMENTO I",
+            "semester": "2018.2",
+            "professor": "JANINE MARTA COELHO RODRIGUES",
+            "horario": "2M1234",
+            "local": "CE 320 (CE)"
+          },
+          {
+            "id": "1303396",
+            "turmaid": "03",
+            "nome": " TEORIA DO DESENVOLVIMENTO I",
+            "semester": "2018.2",
+            "professor": "SANTUZA MONICA DE FRANCA PEREIRA DA FONSECA",
+            "horario": "4T1234",
+            "local": "CE 317 (CE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1303397",
+        "name": " TEORIA DO DESENVOLVIMENTO II",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": "60h",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1303397",
+            "turmaid": "01",
+            "nome": " TEORIA DO DESENVOLVIMENTO II",
+            "semester": "2018.2",
+            "professor": "TAISA CALDAS DANTAS",
+            "horario": "3M1234",
+            "local": "CE 310 (CE)"
+          },
+          {
+            "id": "1303397",
+            "turmaid": "02",
+            "nome": " TEORIA DO DESENVOLVIMENTO II",
+            "semester": "2018.2",
+            "professor": "IZAURA MARIA DE ANDRADE DA SILVA",
+            "horario": "3T1234",
+            "local": "CE 310 (CE)"
+          },
+          {
+            "id": "1303397",
+            "turmaid": "03",
+            "nome": " TEORIA DO DESENVOLVIMENTO II",
+            "semester": "2018.2",
+            "professor": "MUNIQUE MASSARO",
+            "horario": "3N1234",
+            "local": "CE 303 (CE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "GDHPE0101",
+        "name": " TRABALHO DE CONCLUSÃO DE CURSO I",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": "30h",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "GDHPE0101",
+            "turmaid": "01",
+            "nome": " TRABALHO DE CONCLUSÃO DE CURSO I",
+            "semester": "2018.2",
+            "professor": "CATARINA CARNEIRO GONCALVES",
+            "horario": "2M12",
+            "local": "CE 307 (CE)"
+          },
+          {
+            "id": "GDHPE0101",
+            "turmaid": "02",
+            "nome": " TRABALHO DE CONCLUSÃO DE CURSO I",
+            "semester": "2018.2",
+            "professor": "FABIO DO NASCIMENTO FONSECA",
+            "horario": "35N6",
+            "local": "CE 307 (CE)"
+          },
+          {
+            "id": "GDHPE0101",
+            "turmaid": "03",
+            "nome": " TRABALHO DE CONCLUSÃO DE CURSO I",
+            "semester": "2018.2",
+            "professor": "CATARINA CARNEIRO GONCALVES",
+            "horario": "2T12",
+            "local": "CE 307 (CE)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      }
+    ]
+  }
+}

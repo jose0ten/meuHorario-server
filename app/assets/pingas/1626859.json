@@ -1,0 +1,1474 @@
+{
+  "curriculum": {
+    "id": "652010",
+    "codigo": "1626859",
+    "name": "TECNOLOGIA DE ALIMENTOS - João Pessoa - Presencial - N - TECNOLÓGICO",
+    "faculty": "CENTRO DE TECNOLOGIA E DESENVOLVIMENTO REGIONAL (CTDR) (11.00.62)",
+    "minch": "225",
+    "maxch": "435",
+    "semesters": 8,
+    "courses": [
+      {
+        "id": "1403153",
+        "name": "PORTUGUÊS INSTRUMENTAL",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1403747",
+        "name": "LIBRAS  LÍNGUA BRASILEIRA DE SINAIS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1901016",
+        "name": "PSICOLOGIA INDUSTRIAL",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1901017",
+        "name": "SEMINÁRIOS EM TECNOLOGIA DE ALIMENTOS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1901017",
+            "turmaid": "01",
+            "nome": " SEMINÁRIOS EM TECNOLOGIA DE ALIMENTOS",
+            "semester": "2018.2",
+            "professor": "JOÃO PAULO DE SOUSA PRADO e MARTA MARIA DA CONCEICAO",
+            "horario": "2N34 4N1",
+            "local": "CTDR B108 (CTDR)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1901031",
+        "name": "EMBALAGENS PARA ALIMENTOS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1901031",
+            "turmaid": "02",
+            "nome": " EMBALAGENS PARA ALIMENTOS",
+            "semester": "2018.2",
+            "professor": "ADRIANA MARIA FERNANDES DE OLIVEIRA GOLZIO",
+            "horario": "2T3456",
+            "local": "CTDR B107 (CTDR)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1901032",
+        "name": "TECNOLOGIA DE ÓLEOS E GORDURAS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1901032",
+            "turmaid": "01",
+            "nome": " TECNOLOGIA DE ÓLEOS E GORDURAS",
+            "semester": "2018.2",
+            "professor": "ISMAEL IVAN ROCKENBACH",
+            "horario": "4N1234",
+            "local": "CTDR B107 (CTDR)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1901033",
+        "name": "TECNOLOGIA DE MASSAS E PANIFICAÇÃO",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1901033",
+            "turmaid": "01",
+            "nome": " TECNOLOGIA DE MASSAS E PANIFICAÇÃO",
+            "semester": "2018.2",
+            "professor": "KETTELIN APARECIDA ARBOS",
+            "horario": "6T3456",
+            "local": "CTDR B107 (CTDR)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1901041",
+        "name": "TECNOLOGIA DE BEBIDAS",
+        "category": "Optativa",
+        "semester": 0,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1901042",
+        "name": "TÓPICOS ESPECIAIS EM TECDE ALIMENTOS II",
+        "category": "Complementar Flexiva",
+        "semester": 0,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1101175",
+        "name": "FÍSICA APLICADA  TECNOL",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1101175",
+            "turmaid": "01",
+            "nome": " FÍSICA APLICADA  TECNOL",
+            "semester": "2018.2",
+            "professor": "A DEFINIR",
+            "horario": "24N12",
+            "local": "CTDR B105 (CTDR)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1103260",
+        "name": "MATEMÁTICA APLICADA TECÓNOLOGOS",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1103260",
+            "turmaid": "02",
+            "nome": " MATEMÁTICA APLICADA TECÓNOLOGOS",
+            "semester": "2018.2",
+            "professor": "TUANNY DA SILVA MACIEL",
+            "horario": "24N34",
+            "local": "CTDR B105 (CTDR)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1105251",
+        "name": "QUÍMICA GERAL PARA TECNÓLOGOS",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1105251",
+            "turmaid": "02",
+            "nome": " QUÍMICA GERAL PARA TECNÓLOGOS",
+            "semester": "2018.2",
+            "professor": "FAUSTHON FRED DA SILVA",
+            "horario": "35N34",
+            "local": "CTDR B105 (CTDR)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1108185",
+        "name": "INTRODUÇÃO À ESTATÍSTICA TECNÓLOGOS",
+        "category": "Complementar Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1901001",
+        "name": "MATÉRIAS PRIMAS AGROPECUÁRIAS",
+        "category": "Obrigatória",
+        "semester": 1,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1901001",
+            "turmaid": "01",
+            "nome": " MATÉRIAS PRIMAS AGROPECUÁRIAS",
+            "semester": "2018.2",
+            "professor": "FERNANDA VANESSA GOMES DA SILVA",
+            "horario": "6N1234",
+            "local": "CTDR B105 (CTDR)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1901007",
+        "name": "INGLÊS INSTRUMENTAL",
+        "category": "Optativa",
+        "semester": 2,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1901008",
+        "name": "NUTRIÇÃO",
+        "category": "Optativa",
+        "semester": 2,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1105252",
+        "name": "QUÍMICA ORGÂNICA PARA TECNÓLOGOS",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1105252",
+            "turmaid": "01",
+            "nome": " QUÍMICA ORGÂNICA PARA TECNÓLOGOS",
+            "semester": "2018.2",
+            "professor": "JAILTON DE SOUZA FERRARI",
+            "horario": "35N34",
+            "local": "CTDR C108 (CTDR)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1105256",
+        "name": "QUÍMICA ANALÍTICA PARA TECNÓLOGOS",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1105256",
+            "turmaid": "01",
+            "nome": " QUÍMICA ANALÍTICA PARA TECNÓLOGOS",
+            "semester": "2018.2",
+            "professor": "MARCIA HELENA PONTIERI",
+            "horario": "35T12",
+            "local": "CTDR B105 (CTDR)"
+          },
+          {
+            "id": "1105256",
+            "turmaid": "02",
+            "nome": " QUÍMICA ANALÍTICA PARA TECNÓLOGOS",
+            "semester": "2018.2",
+            "professor": "KATIA MESSIAS BICHINHO",
+            "horario": "2N12 4N34",
+            "local": "CTDR B106 (CTDR)"
+          }
+        ],
+        "prerequisites": [
+          "1105251"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1105257",
+        "name": "FÍSICO",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1105257",
+            "turmaid": "02",
+            "nome": " FÍSICO-QUÍMICA  PARA TECNÓLOGOS",
+            "semester": "2018.2",
+            "professor": "GERD BRUNO DA ROCHA",
+            "horario": "24T56",
+            "local": "CTDR B105 (CTDR)"
+          }
+        ],
+        "prerequisites": [
+          "1105251",
+          "1103260"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1901004",
+        "name": "MICROBIOLOGIA GERAL",
+        "category": "Obrigatória",
+        "semester": 2,
+        "workload": "75h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1901004",
+            "turmaid": "01",
+            "nome": " MICROBIOLOGIA GERAL",
+            "semester": "2018.2",
+            "professor": "KETTELIN APARECIDA ARBOS",
+            "horario": "3T56 5T456",
+            "local": "CTDR B105 (CTDR)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1901005",
+        "name": "METODOLOGIA DO TRABALHO CIENTÍFICO",
+        "category": "Complementar Obrigatória",
+        "semester": 2,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1901005",
+            "turmaid": "01",
+            "nome": " METODOLOGIA DO TRABALHO CIENTÍFICO",
+            "semester": "2018.2",
+            "professor": "MARTA MARIA DA CONCEICAO",
+            "horario": "3T34 5T3",
+            "local": "CTDR B105 (CTDR)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1901006",
+        "name": "TÓP ESP EM TECNOLOGIA DE ALIMENTOS I",
+        "category": "Complementar Flexiva",
+        "semester": 3,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1901003",
+        "name": "OPERAÇÃOES UNITÁRIAS I",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1901003",
+            "turmaid": "01",
+            "nome": " OPERAÇÃOES UNITÁRIAS I",
+            "semester": "2018.2",
+            "professor": "ANA LUIZA MATTOS BRAGA",
+            "horario": "3N1234",
+            "local": "CTDR B106 (CTDR)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1901009",
+        "name": "PRINCÍPIOS DA CONSERVAÇÃO DOS ALIMENTOS",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1901009",
+            "turmaid": "01",
+            "nome": " PRINCÍPIOS DA CONSERVAÇÃO DOS ALIMENTOS",
+            "semester": "2018.2",
+            "professor": "RAYSSA JULLIANE DE CARVALHO",
+            "horario": "46T12",
+            "local": "CTDR B106 (CTDR)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1901010",
+        "name": "ANÁLISE FÍSICOQUÍMICA DE ALIMENTOS",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+
+        ],
+        "prerequisites": [
+          "1105256"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1901012",
+        "name": "MICROBIOLOGIA DE ALIMENTOS",
+        "category": "Obrigatória",
+        "semester": 3,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1901012",
+            "turmaid": "01",
+            "nome": " MICROBIOLOGIA DE ALIMENTOS",
+            "semester": "2018.2",
+            "professor": "HAISSA ROBERTA CARDARELLI",
+            "horario": "2N34 4N12",
+            "local": "CTDR B106 (CTDR)"
+          }
+        ],
+        "prerequisites": [
+          "1901004"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1104236",
+        "name": "PRINCÍPIOS DE BIOQUÍMICA",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1104236",
+            "turmaid": "01",
+            "nome": " PRINCÍPIOS DE BIOQUÍMICA",
+            "semester": "2018.2",
+            "professor": "CLAYTON ZAMBELI OLIVEIRA",
+            "horario": "6T123",
+            "local": "CTDR C108 (CTDR)"
+          },
+          {
+            "id": "1104236",
+            "turmaid": "02",
+            "nome": " PRINCÍPIOS DE BIOQUÍMICA",
+            "semester": "2018.2",
+            "professor": "ROMULO MARINO LLAMOCA ZARATE",
+            "horario": "5N12 6N1",
+            "local": "CTDR B106 (CTDR)"
+          }
+        ],
+        "prerequisites": [
+          "1105252"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1107247",
+        "name": "INFORMÁTICA APLICADA",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1107247",
+            "turmaid": "01",
+            "nome": " INFORMÁTICA APLICADA",
+            "semester": "2018.2",
+            "professor": "YURI GONZAGA GONÇALVES DA COSTA",
+            "horario": "2N1 4N34",
+            "local": "CTDR C107 (CTDR)"
+          },
+          {
+            "id": "1107247",
+            "turmaid": "02",
+            "nome": " INFORMÁTICA APLICADA",
+            "semester": "2018.2",
+            "professor": "JOSILENE AIRES MOREIRA",
+            "horario": "4T234",
+            "local": "CTDR C107 (CTDR)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1705184",
+        "name": "GESTÃO AMBIENTAL",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1705184",
+            "turmaid": "02",
+            "nome": " GESTÃO AMBIENTAL",
+            "semester": "2018.2",
+            "professor": "LAÍS CAMPOS TEIXEIRA DE CARVALHO GONÇALVES",
+            "horario": "3N4 6N12",
+            "local": "CTDR C106 (CTDR)"
+          },
+          {
+            "id": "1705184",
+            "turmaid": "03",
+            "nome": " GESTÃO AMBIENTAL",
+            "semester": "2018.2",
+            "professor": "SAMARA GONÇALVES FERNANDES DA COSTA",
+            "horario": "2T456",
+            "local": "CTDR B106 (CTDR)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1901002",
+        "name": "SOCIEDADE E CIDADANIA",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1901002",
+            "turmaid": "01",
+            "nome": " SOCIEDADE E CIDADANIA",
+            "semester": "2018.2",
+            "professor": "JOÃO PAULO DE SOUSA PRADO",
+            "horario": "5N34",
+            "local": "CTDR B106 (CTDR)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1901013",
+        "name": "HIGIENE E LEGISLAÇÃO",
+        "category": "Complementar Obrigatória",
+        "semester": 4,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1901013",
+            "turmaid": "02",
+            "nome": " HIGIENE E LEGISLAÇÃO",
+            "semester": "2018.2",
+            "professor": "ADRIANA MARIA FERNANDES DE OLIVEIRA GOLZIO",
+            "horario": "6N123",
+            "local": "CTDR B107 (CTDR)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1901014",
+        "name": "OPERAÇÕES UNITÁRIAS II",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1901014",
+            "turmaid": "01",
+            "nome": " OPERAÇÕES UNITÁRIAS II",
+            "semester": "2018.2",
+            "professor": "ANA LUIZA MATTOS BRAGA",
+            "horario": "4T345",
+            "local": "CTDR B106 (CTDR)"
+          }
+        ],
+        "prerequisites": [
+          "1901003"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1901015",
+        "name": "ESTÁGIO SUPERVISIONADO I",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1901015",
+            "turmaid": "01",
+            "nome": " TECNOLOGIA DE ALIMENTOS",
+            "semester": "2018.2",
+            "professor": "ISMAEL IVAN ROCKENBACH",
+            "horario": "7M1234",
+            "local": "CTDR B108 (CTDR)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1901020",
+        "name": "MÉTODOS INSTRUMENTAIS DE ANÁLISE DE ALIMENTOS",
+        "category": "Obrigatória",
+        "semester": 4,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1901020",
+            "turmaid": "01",
+            "nome": " MÉTODOS INSTRUMENTAIS DE ANÁLISE DE ALIMENTOS",
+            "semester": "2018.2",
+            "professor": "JOÃO PAULO DE SOUSA PRADO",
+            "horario": "3T123",
+            "local": "CTDR B106 (CTDR)"
+          }
+        ],
+        "prerequisites": [
+          "1105256"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1202308",
+        "name": "CONTABILIDADE E CUSTOS",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1202308",
+            "turmaid": "01",
+            "nome": " CONTABILIDADE E CUSTOS",
+            "semester": "2018.2",
+            "professor": "SILVIO ROMERO DE ALMEIDA",
+            "horario": "3T456",
+            "local": "CTDR B106 (CTDR)"
+          },
+          {
+            "id": "1202308",
+            "turmaid": "02",
+            "nome": " CONTABILIDADE E CUSTOS",
+            "semester": "2018.2",
+            "professor": "MARIA SUELI ARNOUD FERNANDES",
+            "horario": "2N234",
+            "local": "CTDR B103 (CTDR)"
+          }
+        ],
+        "prerequisites": [
+          "1103260"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1704241",
+        "name": "DESENHO TÉCNICO  TECNÓLOGO",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1704241",
+            "turmaid": "01",
+            "nome": " DESENHO TÉCNICO  TECNÓLOGO",
+            "semester": "2018.2",
+            "professor": "ELISABETTA ROMANO JALES",
+            "horario": "6N234",
+            "local": "CTDR LA107 (CTDR)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1705183",
+        "name": "LOGISTICA E COMERCIALIZAÇÃO",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1705183",
+            "turmaid": "01",
+            "nome": " LOGISTICA E COMERCIALIZAÇÃO",
+            "semester": "2018.2",
+            "professor": "LIANE MARCIA FREITAS E SILVA",
+            "horario": "5T456",
+            "local": "CTDR B106 (CTDR)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1705185",
+        "name": "GESTÃO DA QUALIDADE",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1705185",
+            "turmaid": "01",
+            "nome": " GESTÃO DA QUALIDADE",
+            "semester": "2018.2",
+            "professor": "IVSON FERREIRA DOS ANJOS",
+            "horario": "5T123",
+            "local": "CTDR B106 (CTDR)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1901011",
+        "name": "BIOQUÍMICA DE ALIMENTOS",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1901011",
+            "turmaid": "01",
+            "nome": " BIOQUÍMICA DE ALIMENTOS",
+            "semester": "2018.2",
+            "professor": "FERNANDA VANESSA GOMES DA SILVA",
+            "horario": "2N12 3N1",
+            "local": "CTDR B107 (CTDR)"
+          }
+        ],
+        "prerequisites": [
+          "1104236"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1901026",
+        "name": "PESQUISA APLICADA À TECNOLOGIA DE ALIMENTOS",
+        "category": "Complementar Obrigatória",
+        "semester": 5,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1901026",
+            "turmaid": "01",
+            "nome": " PESQUISA APLICADA À TECNOLOGIA DE ALIMENTOS",
+            "semester": "2018.2",
+            "professor": "JOÃO PAULO DE SOUSA PRADO",
+            "horario": "6T12",
+            "local": "CTDR B107 (CTDR)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1901027",
+        "name": "OPERAÇÕES UNITÁRIAS   III",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1901027",
+            "turmaid": "01",
+            "nome": " OPERAÇÕES UNITÁRIAS   III",
+            "semester": "2018.2",
+            "professor": "CAROLINA LIMA CAVALCANTI DE ALBUQUERQUE",
+            "horario": "3N234",
+            "local": "CTDR B107 (CTDR)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1901030",
+        "name": "ESTÁGIO SUPERVISIONADO II",
+        "category": "Obrigatória",
+        "semester": 5,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1901030",
+            "turmaid": "01",
+            "nome": " TECNOLOGIA DE ALIMENTOS",
+            "semester": "2018.2",
+            "professor": "FERNANDA VANESSA GOMES DA SILVA",
+            "horario": "7M56 7T12",
+            "local": "CTDR B108 (CTDR)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1705155",
+        "name": "SEGURANCA DO TRABALHO",
+        "category": "Complementar Obrigatória",
+        "semester": 6,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1705155",
+            "turmaid": "03",
+            "nome": " SEGURANCA DO TRABALHO",
+            "semester": "2018.2",
+            "professor": "ANA CAMILA RODRIGUES DE OLIVEIRA",
+            "horario": "3T123",
+            "local": "CTDR B104 (CTDR)"
+          },
+          {
+            "id": "1705155",
+            "turmaid": "04",
+            "nome": " SEGURANCA DO TRABALHO",
+            "semester": "2018.2",
+            "professor": "ANA CAMILA RODRIGUES DE OLIVEIRA",
+            "horario": "2N34 6N4",
+            "local": "CTDR C107 (CTDR)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1705182",
+        "name": "GESTÃO DA PRODUÇÃO",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1705182",
+            "turmaid": "01",
+            "nome": " GESTÃO DA PRODUÇÃO",
+            "semester": "2018.2",
+            "professor": "A DEFINIR",
+            "horario": "6T3456",
+            "local": "CTDR B106 (CTDR)"
+          },
+          {
+            "id": "1705182",
+            "turmaid": "02",
+            "nome": " GESTÃO DA PRODUÇÃO",
+            "semester": "2018.2",
+            "professor": "LUCIANO COSTA SANTOS",
+            "horario": "5N1234",
+            "local": "CTDR B104 (CTDR)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1901018",
+        "name": "SEMIN EM EDUC AMB ESP E DIR HUMANOS",
+        "category": "Complementar Obrigatória",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1901018",
+            "turmaid": "01",
+            "nome": " SEMIN EM EDUC AMB ESP E DIR HUMANOS",
+            "semester": "2018.2",
+            "professor": "NATALY ALBUQUERQUE DOS SANTOS",
+            "horario": "2T1234",
+            "local": "CTDR B105 (CTDR)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1901019",
+        "name": "ANÁLISE SENSORIAL",
+        "category": "Complementar Obrigatória",
+        "semester": 6,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1901019",
+            "turmaid": "01",
+            "nome": " ANÁLISE SENSORIAL",
+            "semester": "2018.2",
+            "professor": "ANA ALICE DA SILVA XAVIER COSTA",
+            "horario": "2T23",
+            "local": "CTDR B106 (CTDR)"
+          },
+          {
+            "id": "1901019",
+            "turmaid": "02",
+            "nome": " ANÁLISE SENSORIAL",
+            "semester": "2018.2",
+            "professor": "ANA ALICE DA SILVA XAVIER COSTA",
+            "horario": "2N12",
+            "local": "CTDR B108 (CTDR)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1901034",
+        "name": "PLANEJAMENTO DAS INSTALAÇÕES",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "45h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1901034",
+            "turmaid": "01",
+            "nome": " TECNOLOGIA DE ALIMENTOS",
+            "semester": "2018.2",
+            "professor": "RAYSSA JULLIANE DE CARVALHO",
+            "horario": "4N234",
+            "local": "CTDR B108 (CTDR)"
+          }
+        ],
+        "prerequisites": [
+          "1704241"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1901043",
+        "name": "EMPREENDEDORISMO",
+        "category": "Obrigatória",
+        "semester": 6,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1901043",
+            "turmaid": "01",
+            "nome": " EMPREENDEDORISMO",
+            "semester": "2018.2",
+            "professor": "NATALY ALBUQUERQUE DOS SANTOS",
+            "horario": "3T3456",
+            "local": "CTDR B107 (CTDR)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1901023",
+        "name": "TECNOLOGIA DO LEITE E DERIVADOS",
+        "category": "Obrigatória",
+        "semester": 7,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1901023",
+            "turmaid": "01",
+            "nome": " TECNOLOGIA DO LEITE E DERIVADOS",
+            "semester": "2018.2",
+            "professor": "HAISSA ROBERTA CARDARELLI",
+            "horario": "5N1234",
+            "local": "CTDR B107 (CTDR)"
+          }
+        ],
+        "prerequisites": [
+          "1901009"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1901025",
+        "name": "CIÊNCIA E TECNOLOGIA PÓSCOLHEITA",
+        "category": "Obrigatória",
+        "semester": 7,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1901025",
+            "turmaid": "01",
+            "nome": " CIÊNCIA E TECNOLOGIA PÓSCOLHEITA",
+            "semester": "2018.2",
+            "professor": "GRACIELE DA SILVA CAMPELO BORGES",
+            "horario": "3N1234",
+            "local": "CTDR B108 (CTDR)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1901035",
+        "name": "TECNOLOGIA DO PESCADO E DERIVADOS",
+        "category": "Obrigatória",
+        "semester": 7,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1901035",
+            "turmaid": "01",
+            "nome": " TECNOLOGIA DO PESCADO E DERIVADOS",
+            "semester": "2018.2",
+            "professor": "ANA ALICE DA SILVA XAVIER COSTA",
+            "horario": "35T12",
+            "local": "CTDR B107 (CTDR)"
+          }
+        ],
+        "prerequisites": [
+          "1901009"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1901036",
+        "name": "TECNOLOGIA DE MATÉRIAS",
+        "category": "Obrigatória",
+        "semester": 7,
+        "workload": "30h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1901036",
+            "turmaid": "01",
+            "nome": " TECNOLOGIA DE MATÉRIAS-PRIMAS DE ORIGEM ANIMAL NÃO COMESTÍVEL",
+            "semester": "2018.2",
+            "professor": "ANGELA MARIA TRIBUZY DE MAGALHÃES CORDEIRO",
+            "horario": "4T56",
+            "local": "CTDR B107 (CTDR)"
+          }
+        ],
+        "prerequisites": [
+          "1901009"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1901024",
+        "name": "TECNOLOGIA DE CARNES E DERIVADOS",
+        "category": "Obrigatória",
+        "semester": 8,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1901024",
+            "turmaid": "01",
+            "nome": " TECNOLOGIA DE CARNES E DERIVADOS",
+            "semester": "2018.2",
+            "professor": "RAYSSA JULLIANE DE CARVALHO",
+            "horario": "6N1234",
+            "local": "CTDR B108 (CTDR)"
+          }
+        ],
+        "prerequisites": [
+          "1901009"
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1901028",
+        "name": "TECNOLOGIA DE CEREAIS, RAÍZES E TUBÉRCULOS",
+        "category": "Obrigatória",
+        "semester": 8,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1901028",
+            "turmaid": "01",
+            "nome": " TECNOLOGIA DE CEREAIS, RAÍZES E TUBÉRCULOS",
+            "semester": "2018.2",
+            "professor": "ANA ALICE DA SILVA XAVIER COSTA e ISMAEL IVAN ROCKENBACH",
+            "horario": "5N1234",
+            "local": "CTDR B108 (CTDR)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1901037",
+        "name": "TECNOLOGIA DE FRUTAS E HORTALIÇAS",
+        "category": "Obrigatória",
+        "semester": 8,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1901037",
+            "turmaid": "01",
+            "nome": " TECNOLOGIA DE FRUTAS E HORTALIÇAS",
+            "semester": "2018.2",
+            "professor": "GRACIELE DA SILVA CAMPELO BORGES",
+            "horario": "4T1234",
+            "local": "CTDR B107 (CTDR)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1901038",
+        "name": "TRABALHO DE CONCLUSÃO DE CURSO",
+        "category": "Complementar Obrigatória",
+        "semester": 8,
+        "workload": "90h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1901038",
+            "turmaid": "01",
+            "nome": " TECNOLOGIA DE ALIMENTOS",
+            "semester": "2018.2",
+            "professor": "ADRIANA MARIA FERNANDES DE OLIVEIRA GOLZIO",
+            "horario": "3M123456",
+            "local": "CTDR LA107 (CTDR)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1901039",
+        "name": "PROJETOS AGROINDUSTRIAIS",
+        "category": "Obrigatória",
+        "semester": 8,
+        "workload": "60h aula 0h lab.",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1901039",
+            "turmaid": "01",
+            "nome": " PROJETOS AGROINDUSTRIAIS",
+            "semester": "2018.2",
+            "professor": "ANGELA MARIA TRIBUZY DE MAGALHÃES CORDEIRO",
+            "horario": "5T3456",
+            "local": "CTDR B107 (CTDR)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      },
+      {
+        "id": "1108188",
+        "name": " INTRODUÇÃO A ESTATÍSTICA",
+        "category": "EXTRA",
+        "semester": 0,
+        "workload": "30h",
+        "type": "DISCIPLINA",
+        "turmas": [
+          {
+            "id": "1108188",
+            "turmaid": "01",
+            "nome": " INTRODUÇÃO A ESTATÍSTICA",
+            "semester": "2018.2",
+            "professor": "ULISSES UMBELINO DOS ANJOS e ANA FLAVIA UZEDA DOS SANTOS MACAMBIRA",
+            "horario": "35T56",
+            "local": "CTDR C108 (CTDR)"
+          },
+          {
+            "id": "1108188",
+            "turmaid": "03",
+            "nome": " INTRODUÇÃO A ESTATÍSTICA",
+            "semester": "2018.2",
+            "professor": "A DEFINIR",
+            "horario": "35N12",
+            "local": "CTDR C107 (CTDR)"
+          },
+          {
+            "id": "1108188",
+            "turmaid": "04",
+            "nome": " INTRODUÇÃO A ESTATÍSTICA",
+            "semester": "2018.2",
+            "professor": "A DEFINIR",
+            "horario": "35N12",
+            "local": "CTDR B105 (CTDR)"
+          }
+        ],
+        "prerequisites": [
+
+        ],
+        "equivalences": [
+
+        ]
+      }
+    ]
+  }
+}
