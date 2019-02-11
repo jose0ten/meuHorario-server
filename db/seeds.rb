@@ -6,16 +6,10 @@
 #   movies = Movie.create([{ name: 'Star Wars' }, { name: 'Lord of the Rings' }])
 #   Character.create(name: 'Luke', movie: movies.first)
 
+
 input = JSON.parse(open('app/assets/pingas/timetable.json').read)
 puts input['time'].size
 
 input['time'].each do |current|
   puts current['id']
-
-#  begin
-#    text = open('app/assets/pingas/' << current.to_s << '.json').read
-#  rescue StandardError => bang
-#    puts current
-#    puts bang
-#  end
 end

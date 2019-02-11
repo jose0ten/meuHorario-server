@@ -39,3 +39,7 @@ TABLE timeslots: [
     endingHour: 12
     },
 ],
+
+
+/(\d*)h aula (\d*)h lab\./gm
+(\d*)h aula (\d*)h lab\.
