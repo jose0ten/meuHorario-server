@@ -5,60 +5,21 @@
 #
 #   movies = Movie.create([{ name: 'Star Wars' }, { name: 'Lord of the Rings' }])
 #   Character.create(name: 'Luke', movie: movies.first)
-
-def convertToHour(time, hour)
-  cHour = hour.to_i
-  if (time === 'M')
-    return cHour + 6
-  end
-  if (time === 'T')
-    return cHour + 12
-  end
-  if (time === 'N')
-    return cHour + 18
-  end
-  return cHour
-end
-
-def toTimeslotArray(times)
-  newObj = {}
-  i = 0
-  times.split(' ').each do |time|
-    regex = /(([1-9]*)(T|M|N)([1-9]*))/
-    myTime = time.scan(regex)
-
-    if !myTime.empty?
-
-      dias = myTime[0][1].to_s
-      turno = myTime[0][2]
-      horas = myTime[0][3].to_s
-
-      dias.each_char do |element|
-        newObj[i] = {
-          day: element.to_i - 2,
-          startingHour: convertToHour(turno, horas[0]),
-          endingHour: convertToHour(turno, horas[horas.length - 1]) + 1,
-        }
-        i += 1
-      end
-
-    end
-
-  end
-  return newObj
-end
+require './lib/modules/timeslot_module'
+require './lib/modules/workload_module'
 
 
-timetable = JSON.parse(open('app/assets/pingas/timetable.json').read)
-puts 'timeslot size ' << timetable['time'].size.to_s
+
+$timetable = JSON.parse(open('app/assets/pingas/timetable.json').read)
+puts 'timeslot size ' << $timetable['time'].size.to_s
 
 def fillTimeslots
-  timetable['time'].each do |current|
+  puts 'initializing timeslots'
+  $timetable['time'].each do |current|
     current['turmas'].each do |classe|
 
       ################################################ searching and filling timeslots
-      puts 'begining timeslots'
-      result = toTimeslotArray(classe['horario'])
+      result = TimeslotModule.toTimeslotArray(classe['horario'])
       unless result.empty?
 
         result.each do |slot|
@@ -69,7 +30,7 @@ def fillTimeslots
           )
 
           if timeslot.empty?
-
+            puts 'timeslot empty'
             timeslot = Timeslot.new() do |time|
 
               time.day = slot[1][:day]
@@ -84,29 +45,55 @@ def fillTimeslots
         end
       end
       ################################################ end timeslots
-      puts 'finished timeslots'
 
     end
   end
+  puts 'finished timeslots'
 end
 
-curricula = JSON.parse(open('app/assets/pingas/curricula.json').read)
-puts 'curricula size ' << curricula['curricula'].size.to_s
-course = []
-i = 0
-curricula['curricula'].each do |current|
 
-  course[i] = JSON.parse(open("app/assets/pingas/#{current['codigo']}.json").read)
+$curricula = JSON.parse(open('app/assets/pingas/curricula.json').read)
+puts 'curricula size ' << $curricula['curricula'].size.to_s
 
-  course[i]['curriculum']['courses'].each do |course|
+def fillWorkloads
+  puts 'initializing workloads'
+  course = []
+  i = 0
+  $curricula['curricula'].each do |current|
 
-    #puts course['workload']
+    course[i] = JSON.parse(open("app/assets/pingas/#{current['codigo']}.json").read)
 
+    course[i]['curriculum']['courses'].each do |course|
+
+      if course['workload'] == nil
+        next
+      end
+
+      result = WorkloadModule.toWorkloadArray(course['workload'])
+
+      workload = Workload.where(
+                                classroom: result[:classroom],
+                                lab: result[:lab],
+                                total: result[:total]
+      )
+
+      if workload.empty?
+        puts 'workload empty'
+        workload = Workload.new() do |load|
+          load.classroom = result[:classroom]
+          load.lab = result[:lab]
+          load.total = result[:total]
+        end
+        workload.save!
+      end
+    end
+    i += 1
   end
 
-
-  i += 1
+  puts course.size
+  puts 'finishing workloads'
 end
 
-puts course.size
+fillTimeslots
 
+fillWorkloads
