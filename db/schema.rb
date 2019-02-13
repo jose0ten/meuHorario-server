@@ -10,18 +10,18 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 2019_02_10_232951) do
+ActiveRecord::Schema.define(version: 2019_02_12_235143) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
 
   create_table "course_instances", force: :cascade do |t|
     t.string "class_id"
-    t.bigint "course_id"
     t.string "timestamp"
-    t.bigint "timeslot_id"
-    t.string "date_semester"
     t.string "professor"
+    t.string "date_semester"
+    t.bigint "course_id"
+    t.bigint "timeslot_id"
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
     t.index ["course_id"], name: "index_course_instances_on_course_id"
@@ -29,16 +29,29 @@ ActiveRecord::Schema.define(version: 2019_02_10_232951) do
   end
 
   create_table "courses", force: :cascade do |t|
+    t.string "course_type"
     t.string "code"
+    t.integer "semester"
     t.string "name"
-    t.string "type"
     t.string "category"
-    t.string "semester"
     t.bigint "workload_id"
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
-    t.index ["code"], name: "index_courses_on_code", unique: true
     t.index ["workload_id"], name: "index_courses_on_workload_id"
+  end
+
+  create_table "graduations", force: :cascade do |t|
+    t.string "gradu_id"
+    t.string "code"
+    t.string "name"
+    t.string "faculty"
+    t.string "minch"
+    t.string "maxch"
+    t.integer "semesters"
+    t.bigint "courses_id"
+    t.datetime "created_at", null: false
+    t.datetime "updated_at", null: false
+    t.index ["courses_id"], name: "index_graduations_on_courses_id"
   end
 
   create_table "timeslots", force: :cascade do |t|
@@ -60,4 +73,5 @@ ActiveRecord::Schema.define(version: 2019_02_10_232951) do
   add_foreign_key "course_instances", "courses"
   add_foreign_key "course_instances", "timeslots"
   add_foreign_key "courses", "workloads"
+  add_foreign_key "graduations", "courses", column: "courses_id"
 end

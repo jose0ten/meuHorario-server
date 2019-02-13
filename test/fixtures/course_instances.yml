@@ -2,16 +2,16 @@
 
 one:
   class_id: MyString
-  course: one
   timestamp: MyString
-  timeslot: one
-  date_semester: MyString
   professor: MyString
+  date_semester: MyString
+  course: one
+  timeslot: one
 
 two:
   class_id: MyString
-  course: two
   timestamp: MyString
-  timeslot: two
-  date_semester: MyString
   professor: MyString
+  date_semester: MyString
+  course: two
+  timeslot: two

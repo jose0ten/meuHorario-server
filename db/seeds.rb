@@ -94,6 +94,101 @@ def fillWorkloads
   puts 'finishing workloads'
 end
 
+
+
+def fillCourses
+  puts 'initializing courses'
+  course = []
+  i = 0
+  $curricula['curricula'].each do |current|
+
+    course[i] = JSON.parse(open("app/assets/pingas/#{current['codigo']}.json").read)
+
+    course[i]['curriculum']['courses'].each do |course|
+
+      if course == nil
+        next
+      end
+
+      workload =  course['workload']? WorkloadModule.toWorkloadArray(course['workload']) : {classroom:0, lab: 0, total:0}
+
+      result = Course.where(
+        code: course['id'],
+        name: course['name'],
+        category: course['category'],
+        semester: course['semester'],
+        course_type: course['type'],
+        workload: Workload.where(
+                                classroom: workload[:classroom],
+                                lab: workload[:lab],
+                                total: workload[:total]
+        )
+      )
+
+      if result.empty?
+        puts 'Course empty', i
+        result = Course.new() do |load|
+
+          load.code = course['id']
+          load.name = course['name']
+          load.category = course['category']
+          load.semester = course['semester']
+          load.course_type = course['type']
+          load.workload = Workload.find(
+                Workload.where(
+                  classroom: workload[:classroom],
+                  lab: workload[:lab],
+                  total: workload[:total]
+              )[0].id)
+
+        end
+        result.save!
+      else
+        puts i
+        #puts result.inspect
+      end
+    end
+    i += 1
+  end
+
+  puts course.size
+  puts 'finishing courses'
+end
+
+
 fillTimeslots
 
 fillWorkloads
+
+fillCourses
+
+#temp = WorkloadModule.toWorkloadArray("60h aula 0h lab.")
+#Course.create!(
+#  code: "1202251",
+#  name: "ATIVIDADE DE EXTENSAO",
+#  category: "Optativa",
+#  semester: 0,
+#  course_type: "DISCIPLINA",
+#  workload: Workload.find(
+#    Workload.where(
+#      classroom: temp[:classroom],
+#      lab: temp[:lab],
+#      total: temp[:total]
+#  )[0].id),
+#)
+
+#result = Course.where(
+#  code: "1202251",
+#  name: "ATIVIDADE DE EXTENSAO",
+#  category: "Optativa",
+#  semester: 0,
+#  course_type: "DISCIPLINA",
+#  workload: Workload.find(
+#    Workload.where(
+#      classroom: temp[:classroom],
+#      lab: temp[:lab],
+#      total: temp[:total]
+#  )[0].id),
+#)
+
+#puts result.inspect

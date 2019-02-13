@@ -12,25 +12,30 @@ module Types
     field :all_timeslots, [TimeslotsType], null: false
 
     def all_timeslots
-      Timeslot.all
+      ::Timeslot.all
     end
 
     field :all_workloads, [WorkloadsType], null: false
 
     def all_workloads
-      Workload.all
+      ::Workload.all
     end
 
-    field :all_courses, [CoursesType], null: false
-
-    def all_courses
-      Course.all
+    field :all_courses, [CoursesType], null: false do
+      argument :id, String, required: false, default_value: false
     end
 
+    def all_courses(id:)
+      if id
+        ::Course.where(code: id)
+      else
+        ::Course.all
+      end
+    end
     field :all_courseinstances, [CourseInstancesType], null: false
 
     def all_courseinstances
-      CourseInstance.all
+      ::CourseInstance.all
     end
 
     #return JSON.parse(text)['time'][0]['turmas'][0]

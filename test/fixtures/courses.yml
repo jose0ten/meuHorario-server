@@ -1,17 +1,17 @@
 # Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
 
 one:
+  course_type: MyString
   code: MyString
+  semester: 1
   name: MyString
-  type: 
   category: MyString
-  semester: MyString
   workload: one
 
 two:
+  course_type: MyString
   code: MyString
+  semester: 1
   name: MyString
-  type: 
   category: MyString
-  semester: MyString
   workload: two
