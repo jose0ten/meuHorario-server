@@ -27,11 +27,11 @@ ActiveRecord::Schema.define(version: 2019_02_13_212805) do
   end
 
   create_table "courses", force: :cascade do |t|
-    t.string "course_type"
     t.string "code"
-    t.integer "semester"
     t.string "name"
+    t.string "course_type"
     t.string "category"
+    t.integer "semester"
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
   end

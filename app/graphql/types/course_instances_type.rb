@@ -12,5 +12,9 @@ module Types
 
     field :code, String, null: false
 
+    def code
+      self.course.code << '-' << self.class_id
+    end
+
   end
 end
