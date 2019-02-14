@@ -9,18 +9,6 @@ module Types
 
     end
 
-    field :all_timeslots, [TimeslotsType], null: false
-
-    def all_timeslots
-      ::Timeslot.all
-    end
-
-    field :all_workloads, [WorkloadsType], null: false
-
-    def all_workloads
-      ::Workload.all
-    end
-
     field :all_courses, [CoursesType], null: false do
       argument :id, String, required: false, default_value: false
     end
@@ -32,13 +20,31 @@ module Types
         ::Course.all
       end
     end
+
+    field :all_workloads, [WorkloadsType], null: false
+
+    def all_workloads
+      ::Workload.all
+    end
+
     field :all_courseinstances, [CourseInstancesType], null: false
 
     def all_courseinstances
       ::CourseInstance.all
     end
 
-    #return JSON.parse(text)['time'][0]['turmas'][0]
+    field :all_timeslots, [TimeslotsType], null: false
+
+    def all_timeslots
+      ::Timeslot.all
+    end
+
+    field :all_graduations, [GraduationsType], null: false
+
+    def all_graduations
+      ::Graduation.all
+    end
+
   end
 end
 
