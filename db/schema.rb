@@ -10,7 +10,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 2019_02_12_235143) do
+ActiveRecord::Schema.define(version: 2019_02_13_212805) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
@@ -21,11 +21,9 @@ ActiveRecord::Schema.define(version: 2019_02_12_235143) do
     t.string "professor"
     t.string "date_semester"
     t.bigint "course_id"
-    t.bigint "timeslot_id"
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
     t.index ["course_id"], name: "index_course_instances_on_course_id"
-    t.index ["timeslot_id"], name: "index_course_instances_on_timeslot_id"
   end
 
   create_table "courses", force: :cascade do |t|
@@ -34,10 +32,8 @@ ActiveRecord::Schema.define(version: 2019_02_12_235143) do
     t.integer "semester"
     t.string "name"
     t.string "category"
-    t.bigint "workload_id"
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
-    t.index ["workload_id"], name: "index_courses_on_workload_id"
   end
 
   create_table "graduations", force: :cascade do |t|
@@ -48,30 +44,38 @@ ActiveRecord::Schema.define(version: 2019_02_12_235143) do
     t.string "minch"
     t.string "maxch"
     t.integer "semesters"
-    t.bigint "courses_id"
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
-    t.index ["courses_id"], name: "index_graduations_on_courses_id"
+  end
+
+  create_table "graduations_course_instances", force: :cascade do |t|
+    t.bigint "graduations_id"
+    t.bigint "course_instances_id"
+    t.index ["course_instances_id"], name: "index_graduations_course_instances_on_course_instances_id"
+    t.index ["graduations_id"], name: "index_graduations_course_instances_on_graduations_id"
   end
 
   create_table "timeslots", force: :cascade do |t|
     t.integer "day"
     t.integer "starting_hour"
     t.integer "ending_hour"
+    t.bigint "course_instances_id"
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
+    t.index ["course_instances_id"], name: "index_timeslots_on_course_instances_id"
   end
 
   create_table "workloads", force: :cascade do |t|
     t.integer "classroom"
     t.integer "lab"
     t.integer "total"
+    t.bigint "course_id"
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
+    t.index ["course_id"], name: "index_workloads_on_course_id"
   end
 
   add_foreign_key "course_instances", "courses"
-  add_foreign_key "course_instances", "timeslots"
-  add_foreign_key "courses", "workloads"
-  add_foreign_key "graduations", "courses", column: "courses_id"
+  add_foreign_key "timeslots", "course_instances", column: "course_instances_id"
+  add_foreign_key "workloads", "courses"
 end

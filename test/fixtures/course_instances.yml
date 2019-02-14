@@ -7,6 +7,7 @@ one:
   date_semester: MyString
   course: one
   timeslot: one
+  graduation: one
 
 two:
   class_id: MyString
@@ -15,3 +16,4 @@ two:
   date_semester: MyString
   course: two
   timeslot: two
+  graduation: two

@@ -8,7 +8,6 @@ class CreateGraduations < ActiveRecord::Migration[5.2]
       t.string :minch
       t.string :maxch
       t.integer :semesters
-      t.references :courses, foreign_key: true
 
       t.timestamps
     end

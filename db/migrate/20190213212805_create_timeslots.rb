@@ -4,6 +4,7 @@ class CreateTimeslots < ActiveRecord::Migration[5.2]
       t.integer :day
       t.integer :starting_hour
       t.integer :ending_hour
+      t.references :course_instances, foreign_key: true
 
       t.timestamps
     end

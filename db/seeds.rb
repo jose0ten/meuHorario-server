@@ -13,6 +13,11 @@ require './lib/modules/workload_module'
 $timetable = JSON.parse(open('app/assets/pingas/timetable.json').read)
 puts 'timeslot size ' << $timetable['time'].size.to_s
 
+
+$curricula = JSON.parse(open('app/assets/pingas/curricula.json').read)
+puts 'curricula size ' << $curricula['curricula'].size.to_s
+
+
 def fillTimeslots
   puts 'initializing timeslots'
   $timetable['time'].each do |current|
@@ -51,9 +56,6 @@ def fillTimeslots
   puts 'finished timeslots'
 end
 
-
-$curricula = JSON.parse(open('app/assets/pingas/curricula.json').read)
-puts 'curricula size ' << $curricula['curricula'].size.to_s
 
 def fillWorkloads
   puts 'initializing workloads'
@@ -144,7 +146,7 @@ def fillCourses
         end
         result.save!
       else
-        puts i
+        #puts i
         #puts result.inspect
       end
     end
@@ -156,11 +158,70 @@ def fillCourses
 end
 
 
-fillTimeslots
+def fillGraduations
 
-fillWorkloads
+  $curricula['curricula'].each do |grad|
+    program = Graduation.where(
+      gradu_id: grad['id'],
+      code: grad['codigo'],
+      name: grad['name'],
+      faculty: grad['faculty'],
+      minch: grad['minch'],
+      maxch: grad['maxch'],
+      semesters: grad['semesters']
+    )
+  end
 
-fillCourses
+end
+
+def fillCourseInstances
+  puts 'initializing courses'
+
+  $timetable['time'].each do |instance|
+    puts instance['id']
+    instance['turmas'].each do |info|
+
+      courseInstance = CourseInstance.where(
+        class_id: info['turmaid'],
+        professor: info['professor'],
+        date_semester: info['semester'],
+        timestamp: info['horario'],
+        graduation: ::Graduation.find_by(gradu_id: instance['id']),
+        course: ::Course.find_by(code: info['id'])
+      )
+
+      puts courseInstance.inspect
+
+      if courseInstance.empty?
+        puts 'instance empty'
+        courseInstance = CourseInstance.new do |localInst|
+          localInst.class_id = info['turmaid'],
+          localInstprofessor = info['professor'],
+          localInst.date_semester = info['semester'],
+          localInst.timestamp = info['horario'],
+          localInst.graduation = ::Graduation.find_by(gradu_id: instance['id']),
+          localInst.course = ::Course.find_by(code: info['id'])
+        end
+        courseInstance.save!
+      else
+        puts courseInstance.inspect
+      end
+
+    end
+  end
+
+  puts 'finishing courses'
+end
+
+
+
+#fillTimeslots
+
+#fillWorkloads
+
+#fillCourses
+
+#fillCourseInstances
 
 #temp = WorkloadModule.toWorkloadArray("60h aula 0h lab.")
 #Course.create!(

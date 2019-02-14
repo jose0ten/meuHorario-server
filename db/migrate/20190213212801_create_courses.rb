@@ -6,7 +6,6 @@ class CreateCourses < ActiveRecord::Migration[5.2]
       t.integer :semester
       t.string :name
       t.string :category
-      t.references :workload, foreign_key: true
 
       t.timestamps
     end

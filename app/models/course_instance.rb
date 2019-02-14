@@ -1,4 +1,5 @@
 class CourseInstance < ApplicationRecord
   belongs_to :course
-  belongs_to :timeslot
+  has_many :timeslot
+  has_and_belongs_to_many :graduation
 end
