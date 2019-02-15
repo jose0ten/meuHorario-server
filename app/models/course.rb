@@ -1,4 +1,4 @@
 class Course < ApplicationRecord
-  has_one :workload
+  belongs_to :workload
   has_many :course_instance
 end

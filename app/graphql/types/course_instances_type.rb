@@ -7,7 +7,7 @@ module Types
     field :date_semester, String, null: false
 
     field :course, CoursesType, null: false
-    field :timeslot, TimeslotsType, null: false
+    field :timeslot, [TimeslotsType], null: false
     field :graduation, GraduationsType, null: false
 
     field :code, String, null: false

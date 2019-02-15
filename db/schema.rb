@@ -32,8 +32,10 @@ ActiveRecord::Schema.define(version: 2019_02_13_212805) do
     t.string "course_type"
     t.string "category"
     t.integer "semester"
+    t.bigint "workload_id"
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
+    t.index ["workload_id"], name: "index_courses_on_workload_id"
   end
 
   create_table "graduations", force: :cascade do |t|
@@ -59,23 +61,21 @@ ActiveRecord::Schema.define(version: 2019_02_13_212805) do
     t.integer "day"
     t.integer "starting_hour"
     t.integer "ending_hour"
-    t.bigint "course_instances_id"
+    t.bigint "course_instance_id"
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
-    t.index ["course_instances_id"], name: "index_timeslots_on_course_instances_id"
+    t.index ["course_instance_id"], name: "index_timeslots_on_course_instance_id"
   end
 
   create_table "workloads", force: :cascade do |t|
     t.integer "classroom"
     t.integer "lab"
     t.integer "total"
-    t.bigint "course_id"
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
-    t.index ["course_id"], name: "index_workloads_on_course_id"
   end
 
   add_foreign_key "course_instances", "courses"
-  add_foreign_key "timeslots", "course_instances", column: "course_instances_id"
-  add_foreign_key "workloads", "courses"
+  add_foreign_key "courses", "workloads"
+  add_foreign_key "timeslots", "course_instances"
 end

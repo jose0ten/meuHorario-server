@@ -17,52 +17,6 @@ puts 'timeslot size ' << $timetable.size.to_s
 $curricula = JSON.parse(open('app/assets/pingas/curricula.json').read)['curricula']
 puts 'curricula size ' << $curricula.size.to_s
 
-########################################################################## COURSES
-
-def fillCourses
-  puts 'initializing courses'
-  i = 0
-  $curricula.each do |program|
-
-    single = JSON.parse(open("app/assets/pingas/#{program['codigo']}.json").read)
-
-    unless single['curriculum']['courses'].empty?
-      single = single['curriculum']['courses']
-
-      single.each do |course|
-
-        singleCourse = Course.where(
-          code: course['id'],
-          name: course['name'],
-          course_type: course['type'],
-          category: course['category'],
-          semester: course['semester'].to_i
-        )
-
-        if singleCourse.empty?
-          puts "course #{course['id']} empty \t" # << course['id']
-          i += 1
-          singleCourse = Course.new() do |newCourse|
-            newCourse.code = course['id']
-            newCourse.name = course['name']
-            newCourse.course_type = course['type']
-            newCourse.category = course['category']
-            newCourse.semester = course['semester'].to_i
-          end
-          singleCourse.save
-          puts singleCourse.persisted?
-        end
-
-      end
-
-    else
-      puts single['curriculum']['name'] << ' ' << single['curriculum']['codigo']
-    end
-  end
-  puts "#{i} courses"
-  puts 'finishing courses'
-end
-
 ########################################################################## WORKLOADS
 
 def fillWorkloads
@@ -85,34 +39,24 @@ def fillWorkloads
         result = WorkloadModule.toWorkloadArray(workload['workload'])
 
 
-        currCourse = Course.where(
-          code: workload['id'],
-          name: workload['name'],
-          course_type: workload['type'],
-          category: workload['category'],
-          semester: workload['semester'].to_i
-        )[0]
-
 
         singleCourse = Workload.where(
           classroom: result[:classroom],
           lab: result[:lab],
-          total: result[:total],
-          course: currCourse
+          total: result[:total]
         )
 
         if singleCourse.empty?
           puts "workload #{workload['id']} empty \t" # << workload['id']
-          i += 1
           singleCourse = Workload.new() do |newWorkload|
             newWorkload.classroom = result[:classroom]
             newWorkload.lab = result[:lab]
             newWorkload.total = result[:total]
-            newWorkload.course = currCourse
           end
           singleCourse.save
           puts singleCourse.persisted?
         end
+        i += 1
 
       end
 
@@ -126,14 +70,72 @@ def fillWorkloads
   puts 'finishing workloads'
 end
 
+########################################################################## COURSES
+
+def fillCourses
+  puts 'initializing courses'
+  i = 0
+  $curricula.each do |program|
+
+    single = JSON.parse(open("app/assets/pingas/#{program['codigo']}.json").read)
+
+    unless single['curriculum']['courses'].empty?
+      single = single['curriculum']['courses']
+
+      single.each do |course|
+
+
+        result =  course['workload']? WorkloadModule.toWorkloadArray(course['workload']) : {classroom:0, lab: 0, total:0}
+
+        currWork = Workload.where(
+          classroom: result[:classroom],
+          lab: result[:lab],
+          total: result[:total]
+        )[0]
+
+        singleCourse = Course.where(
+          code: course['id'],
+          name: course['name'],
+          course_type: course['type'],
+          category: course['category'],
+          semester: course['semester'].to_i,
+          workload: currWork
+        )
+
+        if singleCourse.empty?
+          puts "course #{course['id']} empty \t" # << course['id']
+          i += 1
+          singleCourse = Course.new() do |newCourse|
+            newCourse.code = course['id']
+            newCourse.name = course['name']
+            newCourse.course_type = course['type']
+            newCourse.category = course['category']
+            newCourse.semester = course['semester'].to_i
+            newCourse.workload = currWork
+          end
+          singleCourse.save
+          puts singleCourse.persisted?
+        end
+        i += 1
+
+      end
+
+    else
+      puts single['curriculum']['name'] << ' ' << single['curriculum']['codigo']
+    end
+  end
+  puts "#{i} courses"
+  puts 'finishing courses'
+end
+
 ########################################################################## COURSE INSTANCES
 
 def fillCourseInstances
   puts 'initializing course instances'
+  i = 0
 
   $timetable.each do |program|
     program['turmas'].each do |classInst|
-
       currCourse = Course.where(
         code: classInst['id'],
       )[0]
@@ -162,10 +164,11 @@ def fillCourseInstances
         instance.save
         puts instance.persisted?
       end
-
+      i += 1
 
     end
   end
+  puts "#{i} course instances"
 
   puts 'finishing course instances'
 end
@@ -174,6 +177,52 @@ end
 
 def fillTimeslots
   puts 'initializing timeslots'
+  i = 0
+
+    $timetable.each do |course|
+      course['turmas'].each do |times|
+
+        result = TimeslotModule.toTimeslotArray(times['horario'])
+
+        unless result.empty?
+
+          instance = CourseInstance.where(
+            class_id: times['turmaid'],
+            course: Course.where(
+              code: times['id']
+            )
+          )[0]
+
+          result.each do |slot|
+
+            timeslot = Timeslot.where(
+                                      day: slot[1][:day].to_i,
+                                      starting_hour: slot[1][:startingHour].to_i,
+                                      ending_hour: slot[1][:endingHour].to_i,
+                                      course_instance: instance
+            )
+
+            if timeslot.empty?
+              puts "timeslot #{i} empty"
+              timeslot = Timeslot.new() do |time|
+
+                time.day = slot[1][:day]
+                time.starting_hour = slot[1][:startingHour]
+                time.ending_hour = slot[1][:endingHour]
+                time.course_instance = instance
+
+              end
+              timeslot.save!
+              puts timeslot.persisted?
+
+            end
+            i += 1
+          end
+        end
+      end
+    end
+
+  puts "#{i} timeslots"
   puts 'finished timeslots'
 end
 
@@ -186,16 +235,12 @@ end
 
 
 
-fillCourses
-
 fillWorkloads
+
+fillCourses
 
 fillCourseInstances
 
 fillTimeslots
 
 fillGraduations
-
-test = Workload.all
-
-puts test.inspect

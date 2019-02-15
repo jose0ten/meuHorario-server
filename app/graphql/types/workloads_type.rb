@@ -5,7 +5,5 @@ module Types
     field :lab, Integer, null: false
     field :total, Integer, null: false
 
-    field :course, CoursesType, null: false
-
   end
 end
