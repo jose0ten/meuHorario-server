@@ -9,6 +9,6 @@ module Types
     field :maxch, String, null: false
     field :semesters, Integer, null: false
 
-    field :course_instance, CourseInstancesType, null: false
+    field :course_instance, [CourseInstancesType], null: false
   end
 end

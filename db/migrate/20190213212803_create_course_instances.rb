@@ -9,10 +9,5 @@ class CreateCourseInstances < ActiveRecord::Migration[5.2]
 
       t.timestamps
     end
-
-    create_table :graduations_course_instances do |t|
-      t.belongs_to :graduations, index: true
-      t.belongs_to :course_instances, index: true
-    end
   end
 end
