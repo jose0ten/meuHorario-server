@@ -7,7 +7,7 @@ module Types
     field :category, String, null: false
     field :semester, String, null: false
     field :workload, WorkloadsType, null: true
-    field :course_instances, CourseInstancesType, null: false
+    #field :course_instance, [CourseInstancesType], null: false
 
     field :short_name, String, null: false
 

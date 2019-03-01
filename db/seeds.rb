@@ -46,7 +46,7 @@ def fillWorkloads
             newWorkload.lab = result[:lab]
             newWorkload.total = result[:total]
           end
-          singleCourse.save
+          singleCourse.save!
           puts singleCourse.persisted?
         end
       end
@@ -96,7 +96,7 @@ def fillCourses
             newCourse.semester = course['semester'].to_i
             newCourse.workload = currWork
           end
-          singleCourse.save
+          singleCourse.save!
           puts singleCourse.persisted?
         end
       end
@@ -108,6 +108,48 @@ def fillCourses
   puts 'finishing courses'
 end
 
+########################################################################## GRADUATIONS
+
+def fillGraduations
+  puts 'initializing graduations'
+  i = 0
+
+  $curricula.each do |grad|
+
+    result = Graduation.where(
+      gradu_id: grad['id'],
+      code: grad['codigo'],
+      name: grad['name'],
+      faculty: grad['faculty'],
+      minch: grad['minch'],
+      maxch: grad['maxch'],
+      semesters: grad['semesters']
+    )
+
+    if result.empty?
+      puts "graduation #{i} empty"
+      i += 1
+      result = Graduation.new() do |newGrad|
+        newGrad.gradu_id = grad['id']
+        newGrad.code = grad['codigo']
+        newGrad.name = grad['name']
+        newGrad.faculty = grad['faculty']
+        newGrad.minch = grad['minch']
+        newGrad.maxch = grad['maxch']
+        newGrad.semesters = grad['semesters']
+      end
+
+      result.save!
+      puts result.persisted?
+
+    end
+
+  end
+
+  puts "#{i} new graduations"
+  puts 'finished graduations'
+end
+
 ########################################################################## COURSE INSTANCES
 
 def fillCourseInstances
@@ -115,6 +157,7 @@ def fillCourseInstances
   i = 0
 
   $timetable.each do |program|
+
     program['turmas'].each do |classInst|
       currCourse = Course.where(
         code: classInst['id'],
@@ -138,8 +181,56 @@ def fillCourseInstances
           inst.date_semester = classInst['semester']
           inst.course = currCourse
         end
-        instance.save
+        instance.save!
         puts instance.persisted?
+
+      end
+
+    end
+  end
+  puts "#{i} new course instances"
+
+  puts 'finishing course instances'
+end
+
+########################################################################## JOIN GRAND AND INSTANCES
+
+def joinGraduationAndInstances
+  puts 'initializing course instances'
+  i = 0
+
+  $timetable.each do |program|
+
+    graduation = Graduation.find_by(code: program['id'])
+
+    program['turmas'].each do |classInst|
+      currCourse = Course.where(
+        code: classInst['id'],
+      )[0]
+
+      instance = CourseInstance.where(
+        class_id: classInst['turmaid'],
+        timestamp: classInst['horario'],
+        professor: classInst['professor'],
+        date_semester: classInst['semester'],
+        course: currCourse
+      )
+
+      unless instance.empty?
+        curricula = Curricula.where(
+          graduation: graduation,
+          course_instance: instance
+        )
+
+        if curricula.empty?
+          puts 'curricula empty'
+          curricula = Curricula.new() do |currentCurr|
+            currentCurr.graduation = graduation
+            currentCurr.course_instance = instance[0]
+          end
+          curricula.save!
+          puts curricula.persisted?
+        end
       end
 
     end
@@ -197,74 +288,13 @@ def fillTimeslots
   puts 'finished timeslots'
 end
 
-########################################################################## GRADUATIONS
 
-def fillGraduations
-  puts 'initializing graduations'
-  i = 0
+fillWorkloads
 
-  $curricula.each do |grad|
+fillCourses
 
-    result = Graduation.where(
-      gradu_id: grad['id'],
-      code: grad['codigo'],
-      name: grad['name'],
-      faculty: grad['faculty'],
-      minch: grad['minch'],
-      maxch: grad['maxch'],
-      semesters: grad['semesters']
-    )
-
-    if result.empty?
-      puts "graduation #{i} empty"
-      i += 1
-      result = Graduation.new() do |newGrad|
-        newGrad.gradu_id = grad['id']
-        newGrad.code = grad['codigo']
-        newGrad.name = grad['name']
-        newGrad.faculty = grad['faculty']
-        newGrad.minch = grad['minch']
-        newGrad.maxch = grad['maxch']
-        newGrad.semesters = grad['semesters']
-      end
-
-      result.save!
-      puts result.persisted?
-
-    end
-
-  end
-
-  puts "#{i} new graduations"
-  puts 'finished graduations'
-end
-
-########################################################################## JOIN GRADU-CLASSINSTANCE
-
-def joinGraduationClassInstance
-
-  $timetable.each do |graduation|
-
-    gradu = Graduation.find_by(code: graduation['id'])
-
-    #program = JSON.parse(open("app/assets/pingas/#{gradu.code}.json").read)['curriculum']['courses']
-    #program.each do |single|
-    # course = Course.find_by(code: single['id'], semester: single['semester'])
-    #end
-
-  end
-
-end
-
-
-#fillWorkloads
-
-#fillCourses
-
-#fillCourseInstances
-
-#fillTimeslots
+fillTimeslots
 
 #fillGraduations
 
-joinGraduationClassInstance
+#fillCourseInstances

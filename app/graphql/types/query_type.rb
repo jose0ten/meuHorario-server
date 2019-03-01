@@ -4,45 +4,31 @@ module Types
     field :test_field, String, null: false, description: "An example field added by the generator"
 
     def test_field
-
       'Oi rs'
-
     end
 
     field :all_courses, [CoursesType], null: false do
-      argument :id, String, required: false, default_value: false
+      argument :id, String, required: false, default_value: nil
     end
 
     def all_courses(id:)
+      response = Course.all
       if id
-        ::Course.where(code: id)
-      else
-        ::Course.all
+        response = Course.where(code: id)
       end
+      return response
     end
 
     field :all_workloads, [WorkloadsType], null: false
 
     def all_workloads
-      ::Workload.all
-    end
-
-    field :all_courseinstances, [CourseInstancesType], null: false
-
-    def all_courseinstances
-      ::CourseInstance.all
+      return response = Workload.all
     end
 
     field :all_timeslots, [TimeslotsType], null: false
 
     def all_timeslots
-      ::Timeslot.all
-    end
-
-    field :all_graduations, [GraduationsType], null: false
-
-    def all_graduations
-      ::Graduation.all
+      return response = Timeslot.all
     end
 
   end

@@ -10,21 +10,10 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 2019_02_13_212806) do
+ActiveRecord::Schema.define(version: 2019_02_16_153103) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
-
-  create_table "course_instances", force: :cascade do |t|
-    t.string "class_id"
-    t.string "timestamp"
-    t.string "professor"
-    t.string "date_semester"
-    t.bigint "course_id"
-    t.datetime "created_at", null: false
-    t.datetime "updated_at", null: false
-    t.index ["course_id"], name: "index_course_instances_on_course_id"
-  end
 
   create_table "courses", force: :cascade do |t|
     t.string "code"
@@ -38,33 +27,12 @@ ActiveRecord::Schema.define(version: 2019_02_13_212806) do
     t.index ["workload_id"], name: "index_courses_on_workload_id"
   end
 
-  create_table "curriculas", force: :cascade do |t|
-    t.bigint "graduations_id"
-    t.bigint "course_instances_id"
-    t.index ["course_instances_id"], name: "index_curriculas_on_course_instances_id"
-    t.index ["graduations_id"], name: "index_curriculas_on_graduations_id"
-  end
-
-  create_table "graduations", force: :cascade do |t|
-    t.string "gradu_id"
-    t.string "code"
-    t.string "name"
-    t.string "faculty"
-    t.string "minch"
-    t.string "maxch"
-    t.integer "semesters"
-    t.datetime "created_at", null: false
-    t.datetime "updated_at", null: false
-  end
-
   create_table "timeslots", force: :cascade do |t|
     t.integer "day"
     t.integer "starting_hour"
     t.integer "ending_hour"
-    t.bigint "course_instance_id"
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
-    t.index ["course_instance_id"], name: "index_timeslots_on_course_instance_id"
   end
 
   create_table "workloads", force: :cascade do |t|
@@ -75,7 +43,5 @@ ActiveRecord::Schema.define(version: 2019_02_13_212806) do
     t.datetime "updated_at", null: false
   end
 
-  add_foreign_key "course_instances", "courses"
   add_foreign_key "courses", "workloads"
-  add_foreign_key "timeslots", "course_instances"
 end
