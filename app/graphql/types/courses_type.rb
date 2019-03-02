@@ -12,13 +12,13 @@ module Types
     field :short_name, String, null: false
 
     def short_name
-      toReplace = ['EM', 'DO', 'DA', 'DE','O', 'A', 'E', 'AO', 'PARA', 'DOS', 'DAS', 'I', 'II', 'III', 'IV', 'V'];
+      toReplace = ['NO', 'NA', 'EM', 'DO', 'DA', 'DE','O', 'A', 'E', 'AO', 'PARA', 'DOS', 'DAS', 'I', 'II', 'III', 'IV', 'V'];
 
-      return self.name
-                      .split(' ')
-                      .select {|elemento| !toReplace.include?(elemento)}
-                      .map{|i| i[0]}
-                      .join('');
+      return self.object.name
+                            .split(' ')
+                            .select {|elemento| !toReplace.include?(elemento)}
+                            .map{|i| i[0]}
+                            .join('');
     end
 
   end

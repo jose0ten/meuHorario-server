@@ -253,19 +253,11 @@ def fillTimeslots
 
         unless result.empty?
 
-          instance = CourseInstance.where(
-            class_id: times['turmaid'],
-            course: Course.where(
-              code: times['id']
-            )
-          )[0]
-
           result.each do |slot|
             timeslot = Timeslot.where(
               day: slot[1][:day].to_i,
               starting_hour: slot[1][:startingHour].to_i,
-              ending_hour: slot[1][:endingHour].to_i,
-              course_instance: instance
+              ending_hour: slot[1][:endingHour].to_i
             )
             if timeslot.empty?
               puts "timeslot #{i} empty"
@@ -274,7 +266,6 @@ def fillTimeslots
                 time.day = slot[1][:day]
                 time.starting_hour = slot[1][:startingHour]
                 time.ending_hour = slot[1][:endingHour]
-                time.course_instance = instance
               end
               timeslot.save!
               puts timeslot.persisted?
