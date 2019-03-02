@@ -25,6 +25,14 @@ module Types
       return response = Workload.all
     end
 
+
+    field :all_course_instances, [CourseInstancesType], null: false
+
+    def all_course_instances
+      response = CourseInstance.all
+    end
+
+
     field :all_timeslots, [TimeslotsType], null: false
 
     def all_timeslots

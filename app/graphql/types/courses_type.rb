@@ -7,12 +7,12 @@ module Types
     field :category, String, null: false
     field :semester, String, null: false
     field :workload, WorkloadsType, null: true
-    #field :course_instance, [CourseInstancesType], null: false
+    field :course_instances, [CourseInstancesType], null: false
 
     field :short_name, String, null: false
 
     def short_name
-      toReplace = ['NO', 'NA', 'EM', 'DO', 'DA', 'DE','O', 'A', 'E', 'AO', 'PARA', 'DOS', 'DAS', 'I', 'II', 'III', 'IV', 'V'];
+      toReplace = ['AS', 'NO', 'NA', 'EM', 'DO', 'DA', 'DE','O', 'A', 'E', 'AO', 'PARA', 'DOS', 'DAS', 'I', 'II', 'III', 'IV', 'V'];
 
       return self.object.name
                             .split(' ')

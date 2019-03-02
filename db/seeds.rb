@@ -8,6 +8,11 @@
 require './lib/modules/timeslot_module'
 require './lib/modules/workload_module'
 
+$totalC = 0
+$totalCI = 0
+$totalG = 0
+$totalT = 0
+$totalW = 0
 
 
 $timetable = JSON.parse(open('app/assets/pingas/timetable.json').read)['time']
@@ -54,6 +59,7 @@ def fillWorkloads
       puts single['curriculum']['name'] << ' ' << single['curriculum']['codigo']
     end
   end
+  $totalW = i
   puts "#{i} workloads"
   puts 'finishing workloads'
 end
@@ -104,6 +110,7 @@ def fillCourses
       puts single['curriculum']['name'] << ' ' << single['curriculum']['codigo']
     end
   end
+  $totalC = i
   puts "#{i} new courses"
   puts 'finishing courses'
 end
@@ -145,7 +152,7 @@ def fillGraduations
     end
 
   end
-
+  $totalG = i
   puts "#{i} new graduations"
   puts 'finished graduations'
 end
@@ -188,6 +195,7 @@ def fillCourseInstances
 
     end
   end
+  $totalCI = i
   puts "#{i} new course instances"
 
   puts 'finishing course instances'
@@ -253,11 +261,19 @@ def fillTimeslots
 
         unless result.empty?
 
+          instance = CourseInstance.where(
+            class_id: times['turmaid'],
+            course: Course.where(
+              code: times['id']
+            )
+          )[0]
+
           result.each do |slot|
             timeslot = Timeslot.where(
               day: slot[1][:day].to_i,
               starting_hour: slot[1][:startingHour].to_i,
-              ending_hour: slot[1][:endingHour].to_i
+              ending_hour: slot[1][:endingHour].to_i,
+              course_instance: instance
             )
             if timeslot.empty?
               puts "timeslot #{i} empty"
@@ -266,6 +282,7 @@ def fillTimeslots
                 time.day = slot[1][:day]
                 time.starting_hour = slot[1][:startingHour]
                 time.ending_hour = slot[1][:endingHour]
+                time.course_instance = instance
               end
               timeslot.save!
               puts timeslot.persisted?
@@ -274,7 +291,7 @@ def fillTimeslots
         end
       end
     end
-
+  $totalT = i
   puts "#{i} new timeslots"
   puts 'finished timeslots'
 end
@@ -284,8 +301,14 @@ fillWorkloads
 
 fillCourses
 
+fillCourseInstances
+
 fillTimeslots
 
 #fillGraduations
 
-#fillCourseInstances
+puts  "#{$totalC} new courses",
+      "#{$totalCI} new course instances",
+      "#{$totalT} new timeslots",
+      "#{$totalW} new workloads",
+      "#{$totalG} new graduations"
