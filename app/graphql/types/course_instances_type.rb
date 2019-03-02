@@ -8,5 +8,12 @@ module Types
     field :course, CoursesType, null: false
     field :timeslots, [TimeslotsType], null: false
 
+    field :code, String, null: false
+
+    def code
+      self.object.course.code << '-' << self.object.class_id
+    end
+
+
   end
 end

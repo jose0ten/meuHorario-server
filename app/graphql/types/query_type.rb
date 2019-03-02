@@ -29,9 +29,21 @@ module Types
     field :all_course_instances, [CourseInstancesType], null: false
 
     def all_course_instances
-      response = CourseInstance.all
+      return response = CourseInstance.all
     end
 
+    field :all_graduations, [GraduationsType], null: false do
+      argument :code, String, required: false, default_value: nil
+    end
+
+    def all_graduations(code:)
+      response = Graduation.all
+      if(code)
+        response = Graduation.where(code: code)
+      end
+      puts response
+      return response
+    end
 
     field :all_timeslots, [TimeslotsType], null: false
 

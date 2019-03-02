@@ -305,7 +305,7 @@ fillCourseInstances
 
 fillTimeslots
 
-#fillGraduations
+fillGraduations
 
 puts  "#{$totalC} new courses",
       "#{$totalCI} new course instances",

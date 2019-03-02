@@ -10,7 +10,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 2019_02_16_153204) do
+ActiveRecord::Schema.define(version: 2019_02_16_153205) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
@@ -36,6 +36,18 @@ ActiveRecord::Schema.define(version: 2019_02_16_153204) do
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
     t.index ["workload_id"], name: "index_courses_on_workload_id"
+  end
+
+  create_table "graduations", force: :cascade do |t|
+    t.string "gradu_id"
+    t.string "code"
+    t.string "name"
+    t.string "faculty"
+    t.string "minch"
+    t.string "maxch"
+    t.integer "semesters"
+    t.datetime "created_at", null: false
+    t.datetime "updated_at", null: false
   end
 
   create_table "timeslots", force: :cascade do |t|
