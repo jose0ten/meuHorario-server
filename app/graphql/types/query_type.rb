@@ -41,7 +41,7 @@ module Types
       if(code)
         response = Graduation.where(code: code)
       end
-      puts response
+      #puts response[0].course_instances, "HELLO"
       return response
     end
 

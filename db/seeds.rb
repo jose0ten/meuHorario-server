@@ -201,53 +201,6 @@ def fillCourseInstances
   puts 'finishing course instances'
 end
 
-########################################################################## JOIN GRAND AND INSTANCES
-
-def joinGraduationAndInstances
-  puts 'initializing course instances'
-  i = 0
-
-  $timetable.each do |program|
-
-    graduation = Graduation.find_by(code: program['id'])
-
-    program['turmas'].each do |classInst|
-      currCourse = Course.where(
-        code: classInst['id'],
-      )[0]
-
-      instance = CourseInstance.where(
-        class_id: classInst['turmaid'],
-        timestamp: classInst['horario'],
-        professor: classInst['professor'],
-        date_semester: classInst['semester'],
-        course: currCourse
-      )
-
-      unless instance.empty?
-        curricula = Curricula.where(
-          graduation: graduation,
-          course_instance: instance
-        )
-
-        if curricula.empty?
-          puts 'curricula empty'
-          curricula = Curricula.new() do |currentCurr|
-            currentCurr.graduation = graduation
-            currentCurr.course_instance = instance[0]
-          end
-          curricula.save!
-          puts curricula.persisted?
-        end
-      end
-
-    end
-  end
-  puts "#{i} new course instances"
-
-  puts 'finishing course instances'
-end
-
 ########################################################################## TIMESLOTS
 
 def fillTimeslots
@@ -296,6 +249,51 @@ def fillTimeslots
   puts 'finished timeslots'
 end
 
+########################################################################## JOIN GRAND AND INSTANCES
+
+def joinGraduationAndInstances
+  puts 'joining course instances with graduations'
+
+  $timetable.each do |program|
+
+    graduation = Graduation.find_by(code: program['id'])
+
+    program['turmas'].each do |classInst|
+      currCourse = Course.where(
+        code: classInst['id'],
+      )[0]
+
+      instance = CourseInstance.where(
+        class_id: classInst['turmaid'],
+        timestamp: classInst['horario'],
+        professor: classInst['professor'],
+        date_semester: classInst['semester'],
+        course: currCourse
+      )
+
+      unless instance.empty?
+        curricula = Curricula.where(
+          graduation: graduation,
+          course_instance: instance
+        )
+
+        if curricula.empty?
+          puts 'curricula empty'
+          curricula = Curricula.new() do |currentCurr|
+            currentCurr.graduation = graduation
+            currentCurr.course_instance = instance[0]
+          end
+          curricula.save!
+          puts curricula.persisted?
+        end
+      end
+
+    end
+  end
+
+  puts 'finish joining course instances with graduations'
+end
+
 
 fillWorkloads
 
@@ -306,6 +304,8 @@ fillCourseInstances
 fillTimeslots
 
 fillGraduations
+
+#joinGraduationAndInstances
 
 puts  "#{$totalC} new courses",
       "#{$totalCI} new course instances",

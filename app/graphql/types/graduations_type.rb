@@ -8,6 +8,7 @@ module Types
     field :minch, String, null: false
     field :maxch, String, null: false
     field :semesters, Integer, null: false
+    field :course_instances, [CourseInstancesType], null: false
 
   end
 end
