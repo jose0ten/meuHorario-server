@@ -26,10 +26,16 @@ module Types
     end
 
 
-    field :all_course_instances, [CourseInstancesType], null: false
+    field :all_course_instances, [CourseInstancesType], null: false do
+      argument :professor, String, required: false, default_value: nil
+    end
 
-    def all_course_instances
-      return response = CourseInstance.all
+    def all_course_instances(professor:)
+      response = CourseInstance.all
+      if(professor)
+        response = CourseInstance.where(professor: professor)
+      end
+      return response
     end
 
     field :all_graduations, [GraduationsType], null: false do

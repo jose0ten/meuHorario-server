@@ -257,10 +257,12 @@ def joinGraduationAndInstances
   $timetable.each do |program|
 
     graduation = Graduation.find_by(code: program['id'])
+    instance = nil
 
     program['turmas'].each do |classInst|
+
       currCourse = Course.where(
-        code: classInst['id'],
+        code: classInst['id']
       )[0]
 
       instance = CourseInstance.where(
@@ -269,26 +271,18 @@ def joinGraduationAndInstances
         professor: classInst['professor'],
         date_semester: classInst['semester'],
         course: currCourse
-      )
+      )[0]
 
-      unless instance.empty?
-        curricula = Curricula.where(
-          graduation: graduation,
-          course_instance: instance
-        )
-
-        if curricula.empty?
-          puts 'curricula empty'
-          curricula = Curricula.new() do |currentCurr|
-            currentCurr.graduation = graduation
-            currentCurr.course_instance = instance[0]
-          end
-          curricula.save!
-          puts curricula.persisted?
-        end
-      end
+      instance.graduations << graduation
 
     end
+
+    puts graduation.inspect
+
+    if instance
+      graduation.course_instances << instance
+    end
+
   end
 
   puts 'finish joining course instances with graduations'
@@ -305,7 +299,7 @@ fillTimeslots
 
 fillGraduations
 
-#joinGraduationAndInstances
+joinGraduationAndInstances
 
 puts  "#{$totalC} new courses",
       "#{$totalCI} new course instances",

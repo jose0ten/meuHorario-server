@@ -7,11 +7,12 @@ module Types
     field :date_semester, String, null: false
     field :course, CoursesType, null: false
     field :timeslots, [TimeslotsType], null: false
+    field :graduations, [GraduationsType], null: false
 
     field :code, String, null: false
 
     def code
-      self.object.course.code << '-' << self.object.class_id
+      return self.object.course.code + '-' + self.object.class_id
     end
 
 
